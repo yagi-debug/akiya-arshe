@@ -1,0 +1,26 @@
+---
+interface Props {
+  items: { name: string; url: string }[];
+}
+
+const { items } = Astro.props;
+---
+
+<nav aria-label="パンくずリスト">
+  <ol class="flex flex-wrap items-center gap-1 text-sm text-text-light">
+    {items.map((item, index) => (
+      <li class="flex items-center gap-1">
+        {index > 0 && (
+          <span class="mx-1 text-border" aria-hidden="true">/</span>
+        )}
+        {index === items.length - 1 ? (
+          <span class="text-text" aria-current="page">{item.name}</span>
+        ) : (
+          <a href={item.url} class="transition-colors hover:text-accent">
+            {item.name}
+          </a>
+        )}
+      </li>
+    ))}
+  </ol>
+</nav>

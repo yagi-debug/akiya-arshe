@@ -1,0 +1,100 @@
+---
+import Header from "../components/Header.astro";
+import Footer from "../components/Footer.astro";
+import CTA from "../components/CTA.astro";
+import Breadcrumb from "../components/Breadcrumb.astro";
+import "../styles/global.css";
+
+interface Props {
+  title: string;
+  description: string;
+  schema?: object;
+  breadcrumbs?: { name: string; url: string }[];
+}
+
+const { title, description, schema, breadcrumbs } = Astro.props;
+const canonicalURL = new URL(Astro.url.pathname, "https://akiya.arshe-corp.com");
+
+const baseSchema = {
+  "@context": "https://schema.org",
+  "@type": "RealEstateAgent",
+  "name": "合同会社アルシェスタイル",
+  "url": "https://akiya.arshe-corp.com",
+  "telephone": "06-7509-5696",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "小路3-17-19",
+    "addressLocality": "大阪市生野区",
+    "addressRegion": "大阪府",
+    "postalCode": "544-0002",
+    "addressCountry": "JP",
+  },
+  "areaServed": [
+    "大阪市", "堺市", "東大阪市", "豊中市", "吹田市",
+    "高槻市", "枚方市", "神戸市", "尼崎市", "西宮市",
+    "奈良市", "京都市",
+  ],
+  "employee": {
+    "@type": "Person",
+    "name": "八木 宏樹",
+    "jobTitle": "宅地建物取引士",
+    "hasCredential": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "宅地建物取引士",
+    },
+  },
+};
+
+const allSchemas = schema ? [baseSchema, schema] : [baseSchema];
+---
+
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{title}</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={canonicalURL} />
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&display=swap"
+      rel="stylesheet"
+    />
+
+    <!-- OGP -->
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content={canonicalURL} />
+    <meta property="og:site_name" content="大阪の不動産売却相談｜合同会社アルシェスタイル" />
+    <meta property="og:locale" content="ja_JP" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={title} />
+    <meta name="twitter:description" content={description} />
+
+    <!-- Schema.org JSON-LD -->
+    {allSchemas.map((s) => (
+      <script type="application/ld+json" set:html={JSON.stringify(s)} />
+    ))}
+  </head>
+  <body class="flex min-h-screen flex-col">
+    <Header />
+
+    {breadcrumbs && breadcrumbs.length > 0 && (
+      <div class="mx-auto w-full max-w-5xl px-4 pt-4">
+        <Breadcrumb items={breadcrumbs} />
+      </div>
+    )}
+
+    <main class="flex-1">
+      <slot />
+    </main>
+
+    <CTA />
+    <Footer />
+  </body>
+</html>

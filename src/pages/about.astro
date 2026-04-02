@@ -1,0 +1,101 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+
+const breadcrumbs = [
+  { name: "ホーム", url: "/" },
+  { name: "会社概要・プロフィール", url: "/about" },
+];
+
+const personSchema = {
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "八木 宏樹",
+  "jobTitle": "代表 / 宅地建物取引士",
+  "worksFor": {
+    "@type": "Organization",
+    "name": "合同会社アルシェスタイル",
+  },
+  "hasCredential": {
+    "@type": "EducationalOccupationalCredential",
+    "credentialCategory": "宅地建物取引士",
+  },
+};
+
+const companyInfo = [
+  { label: "会社名", value: "合同会社アルシェスタイル" },
+  { label: "代表者", value: "八木 宏樹" },
+  { label: "所在地", value: "〒544-0002 大阪府大阪市生野区小路3-17-19" },
+  { label: "宅建業免許", value: "大阪府知事 (1) 第65646号" },
+  { label: "事業内容", value: "不動産賃貸業・買取再販業" },
+  { label: "対応エリア", value: "大阪市を中心に近畿圏" },
+  { label: "電話番号", value: "06-7509-5696（折り返しご連絡します）" },
+  { label: "メール", value: "info.arshe@arshe-corp.com" },
+  { label: "LINE相談", value: "「空き家のミカタ」で検索、または https://lin.ee/9Fk9EUl" },
+];
+---
+
+<BaseLayout
+  title="宅建士プロフィール｜合同会社アルシェスタイル"
+  description="合同会社アルシェスタイル代表・宅地建物取引士の八木宏樹のプロフィール。大阪で相続・空き家の不動産売却を専門にサポートしています。"
+  schema={personSchema}
+  breadcrumbs={breadcrumbs}
+>
+  <section class="px-4 py-12 md:py-16">
+    <div class="mx-auto max-w-3xl">
+      <h1 class="mb-10 text-center text-2xl font-bold text-primary md:text-3xl">
+        宅建士プロフィール
+      </h1>
+
+      <!-- プロフィールカード -->
+      <div class="mb-12 overflow-hidden rounded-xl border border-border bg-white shadow-sm">
+        <div class="flex flex-col items-center gap-6 p-6 md:flex-row md:items-start md:p-8">
+          <!-- プロフィール情報 -->
+          <div class="text-center md:text-left">
+            <p class="mb-1 text-sm text-accent">代表 / 宅地建物取引士</p>
+            <h2 class="mb-4 text-2xl font-bold text-primary">八木 宏樹</h2>
+            <dl class="mb-4 space-y-1 text-sm text-text-light">
+              <div class="flex flex-col gap-1 sm:flex-row sm:gap-2">
+                <dt class="font-bold text-text">会社:</dt>
+                <dd>合同会社アルシェスタイル</dd>
+              </div>
+              <div class="flex flex-col gap-1 sm:flex-row sm:gap-2">
+                <dt class="font-bold text-text">免許番号:</dt>
+                <dd>大阪府知事 (1) 第65646号</dd>
+              </div>
+              <div class="flex flex-col gap-1 sm:flex-row sm:gap-2">
+                <dt class="font-bold text-text">所在地:</dt>
+                <dd>大阪府大阪市生野区小路3-17-19</dd>
+              </div>
+            </dl>
+
+            <!-- 一言メッセージ -->
+            <div class="rounded-lg bg-bg p-4">
+              <p class="text-sm leading-relaxed italic text-text">
+                「相続や空き家のことは、ひとりで抱え込まなくて大丈夫です。まずはお気軽にお電話ください。」
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- 会社概要テーブル -->
+      <h2 class="mb-6 text-xl font-bold text-primary">会社概要</h2>
+      <div class="overflow-hidden rounded-lg border border-border bg-white shadow-sm">
+        <table class="w-full">
+          <tbody>
+            {companyInfo.map((row, index) => (
+              <tr class={index % 2 === 0 ? "bg-white" : "bg-bg"}>
+                <th class="w-1/3 border-b border-border px-5 py-4 text-left text-sm font-bold text-primary">
+                  {row.label}
+                </th>
+                <td class="border-b border-border px-5 py-4 text-sm">
+                  {row.value}
+                </td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </section>
+</BaseLayout>

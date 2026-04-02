@@ -1,0 +1,149 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+
+const breadcrumbs = [
+  { name: "ホーム", url: "/" },
+  { name: "プライバシーポリシー", url: "/privacy" },
+];
+---
+
+<BaseLayout
+  title="プライバシーポリシー｜合同会社アルシェスタイル"
+  description="合同会社アルシェスタイルのプライバシーポリシー。お客様の個人情報の取り扱いについてご説明します。"
+  breadcrumbs={breadcrumbs}
+>
+  <section class="px-4 py-12 md:py-16">
+    <div class="mx-auto max-w-3xl">
+      <h1 class="mb-10 text-center text-2xl font-bold text-primary md:text-3xl">
+        プライバシーポリシー
+      </h1>
+
+      <div class="space-y-8 text-sm leading-relaxed">
+        <p>
+          合同会社アルシェスタイル（以下「当社」といいます）は、お客様の個人情報の保護を重要な責務と考え、以下のとおりプライバシーポリシーを定めます。
+        </p>
+
+        <!-- 1. 個人情報の定義 -->
+        <div>
+          <h2 class="mb-3 text-lg font-bold text-primary">1. 個人情報の定義</h2>
+          <p>
+            個人情報とは、氏名、住所、電話番号、メールアドレスなど、特定の個人を識別できる情報をいいます。
+          </p>
+        </div>
+
+        <!-- 2. 個人情報の収集 -->
+        <div>
+          <h2 class="mb-3 text-lg font-bold text-primary">2. 個人情報の収集</h2>
+          <p>当社は、以下の場合に個人情報を収集することがあります。</p>
+          <ul class="mt-2 list-inside list-disc space-y-1 pl-4">
+            <li>お問い合わせフォームからのご連絡</li>
+            <li>お電話でのご相談</li>
+            <li>不動産の査定・売却のご依頼</li>
+            <li>契約の締結</li>
+          </ul>
+        </div>
+
+        <!-- 3. 個人情報の利用目的 -->
+        <div>
+          <h2 class="mb-3 text-lg font-bold text-primary">3. 個人情報の利用目的</h2>
+          <p>当社は、収集した個人情報を以下の目的で利用いたします。</p>
+          <ul class="mt-2 list-inside list-disc space-y-1 pl-4">
+            <li>お問い合わせへの回答・ご連絡</li>
+            <li>不動産の査定・売却に関するサービスの提供</li>
+            <li>契約の履行および関連する事務手続き</li>
+            <li>サービスの改善および新サービスの開発</li>
+            <li>法令に基づく対応</li>
+          </ul>
+        </div>
+
+        <!-- 4. 個人情報の第三者提供 -->
+        <div>
+          <h2 class="mb-3 text-lg font-bold text-primary">4. 個人情報の第三者提供</h2>
+          <p>当社は、以下の場合を除き、お客様の個人情報を第三者に提供いたしません。</p>
+          <ul class="mt-2 list-inside list-disc space-y-1 pl-4">
+            <li>お客様の同意がある場合</li>
+            <li>法令に基づく場合</li>
+            <li>人の生命、身体または財産の保護のために必要な場合</li>
+            <li>不動産取引の遂行に必要な範囲で、司法書士・金融機関等の関係者に提供する場合</li>
+          </ul>
+        </div>
+
+        <!-- 5. 個人情報の管理 -->
+        <div>
+          <h2 class="mb-3 text-lg font-bold text-primary">5. 個人情報の管理</h2>
+          <p>
+            当社は、個人情報の漏えい、滅失、き損の防止のために、適切な安全管理措置を講じます。個人情報の取り扱いを外部に委託する場合は、委託先に対しても適切な管理を求めます。
+          </p>
+        </div>
+
+        <!-- 6. 個人情報の開示・訂正・削除 -->
+        <div>
+          <h2 class="mb-3 text-lg font-bold text-primary">6. 個人情報の開示・訂正・削除</h2>
+          <p>
+            お客様ご本人から個人情報の開示・訂正・削除のご請求があった場合は、本人確認の上、合理的な範囲で速やかに対応いたします。
+          </p>
+        </div>
+
+        <!-- 7. アクセス解析ツールについて -->
+        <div>
+          <h2 class="mb-3 text-lg font-bold text-primary">7. アクセス解析ツールについて</h2>
+          <p>
+            当社のウェブサイトでは、Google LLC が提供するアクセス解析ツール「Google Analytics」を使用しています。Google Analytics はCookieを使用してお客様のウェブサイト利用状況を収集しますが、個人を特定する情報は含まれません。
+          </p>
+          <p class="mt-2">
+            収集されたデータは Google のプライバシーポリシーに基づいて管理されます。Google Analytics の利用規約およびプライバシーポリシーについては、Google のウェブサイトをご確認ください。
+          </p>
+          <p class="mt-2">
+            お客様はブラウザの設定でCookieを無効にすることで、データの収集を拒否することができます。
+          </p>
+        </div>
+
+        <!-- 8. Cookieの使用について -->
+        <div>
+          <h2 class="mb-3 text-lg font-bold text-primary">8. Cookieの使用について</h2>
+          <p>
+            当社のウェブサイトでは、お客様の利便性向上およびアクセス状況の把握のためにCookieを使用しています。Cookieの使用を望まない場合は、ブラウザの設定により無効にすることが可能です。
+          </p>
+        </div>
+
+        <!-- 9. プライバシーポリシーの変更 -->
+        <div>
+          <h2 class="mb-3 text-lg font-bold text-primary">9. プライバシーポリシーの変更</h2>
+          <p>
+            当社は、法令の改正や社会情勢の変化等に応じて、本プライバシーポリシーの内容を変更することがあります。変更後のプライバシーポリシーは、当ウェブサイトに掲載した時点から効力を生じるものとします。
+          </p>
+        </div>
+
+        <!-- 10. お問い合わせ -->
+        <div>
+          <h2 class="mb-3 text-lg font-bold text-primary">10. お問い合わせ</h2>
+          <p>個人情報の取り扱いに関するお問い合わせは、下記までご連絡ください。</p>
+          <div class="mt-4 rounded-lg border border-border bg-white p-5">
+            <dl class="space-y-2">
+              <div>
+                <dt class="font-bold text-primary">会社名</dt>
+                <dd>合同会社アルシェスタイル</dd>
+              </div>
+              <div>
+                <dt class="font-bold text-primary">所在地</dt>
+                <dd>〒544-0002 大阪府大阪市生野区小路3-17-19</dd>
+              </div>
+              <div>
+                <dt class="font-bold text-primary">電話番号</dt>
+                <dd>
+                  <a href="tel:0675095696" class="text-accent hover:text-accent-light">06-7509-5696</a>
+                </dd>
+              </div>
+            </dl>
+          </div>
+        </div>
+
+        <!-- 制定日 -->
+        <div class="mt-8 text-right text-sm text-text-light">
+          <p>制定日: 2026年4月1日</p>
+          <p>合同会社アルシェスタイル</p>
+        </div>
+      </div>
+    </div>
+  </section>
+</BaseLayout>

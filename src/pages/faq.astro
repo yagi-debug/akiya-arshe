@@ -1,0 +1,237 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import FAQ from "../components/FAQ.astro";
+
+const breadcrumbs = [
+  { name: "ホーム", url: "/" },
+  { name: "よくある質問", url: "/faq" },
+];
+
+const inheritanceFaq = [
+  {
+    question: "相続した家を売るには何から始めればいい？",
+    answer: "まずは相続登記（名義変更）を行い、売却できる状態にします。相続登記には戸籍謄本などの書類が必要です。当社では手続きの流れからご案内しますので、お気軽にご相談ください。",
+  },
+  {
+    question: "相続登記をしていなくても売れる？",
+    answer: "相続登記が完了していないと売却はできません。2024年4月から相続登記が義務化され、正当な理由なく3年以内に登記しないと10万円以下の過料が科される場合があります。早めの対応をおすすめします。",
+  },
+  {
+    question: "相続人が複数いる場合はどうする？",
+    answer: "相続人全員で遺産分割協議を行い、誰が不動産を取得するか決める必要があります。全員の合意がないと売却できません。協議がまとまらない場合は、家庭裁判所での調停も選択肢になります。",
+  },
+  {
+    question: "相続した家の名義変更にかかる費用は？",
+    answer: "登録免許税（固定資産税評価額の0.4%）と、司法書士に依頼する場合は報酬（5〜10万円程度）がかかります。戸籍謄本などの書類取得費用も数千円程度必要です。",
+  },
+  {
+    question: "相続税の申告期限は？",
+    answer: "被相続人が亡くなったことを知った日の翌日から10ヶ月以内に申告・納付が必要です。基礎控除額（3,000万円＋600万円×法定相続人の数）を超えない場合は、申告不要です。",
+  },
+  {
+    question: "相続した家を売った場合の税金は？",
+    answer: "売却益（譲渡所得）に対して譲渡所得税と住民税がかかります。所有期間が5年を超えるかどうかで税率が変わります。相続で取得した場合、被相続人の所有期間を引き継げます。",
+  },
+  {
+    question: "3,000万円特別控除は相続物件にも使える？",
+    answer: "一定の条件を満たせば、相続した空き家の売却でも3,000万円の特別控除が使える場合があります。昭和56年5月31日以前に建てられた家屋であることなど、いくつかの要件がありますのでご相談ください。",
+  },
+  {
+    question: "遠方に住んでいても売却手続きはできる？",
+    answer: "可能です。委任状を使って手続きを進めることができます。現地の立ち会いが必要な場合も、最小限で済むよう調整いたします。お電話やオンラインでのやり取りも対応しています。",
+  },
+  {
+    question: "相続放棄した場合、家はどうなる？",
+    answer: "相続放棄すると、その方は最初から相続人でなかったものとみなされます。全員が放棄した場合、家庭裁判所で相続財産管理人が選任され、最終的に国庫に帰属します。なお、放棄しても管理義務が残る場合があります。",
+  },
+  {
+    question: "古い家は更地にしてから売るべき？",
+    answer: "一概には言えません。更地にすると固定資産税が上がる一方、買い手がつきやすくなることもあります。建物の状態や立地によって最適な方法が異なりますので、まずはご相談ください。",
+  },
+];
+
+const akiyaFaq = [
+  {
+    question: "空き家を放置するとどうなる？",
+    answer: "「特定空き家」に指定されると、固定資産税の優遇措置がなくなり最大6倍になる場合があります。また、倒壊や衛生上の問題で行政から指導・命令を受けたり、近隣から損害賠償を請求されるリスクもあります。",
+  },
+  {
+    question: "空き家の管理費用はどれくらい？",
+    answer: "年間15〜30万円程度が目安です。固定資産税、火災保険料、定期的な草刈り・清掃、水道光熱費の基本料金などがかかります。遠方の場合は管理代行サービスの費用も加わります。",
+  },
+  {
+    question: "空き家バンクとは？",
+    answer: "自治体が運営する空き家の情報提供システムです。売りたい人と買いたい人をマッチングします。登録は無料ですが、成約までに時間がかかることが多い傾向があります。",
+  },
+  {
+    question: "空き家の解体費用は？",
+    answer: "木造住宅の場合、一般的に100〜200万円程度が目安です。建物の大きさ、構造、立地条件（重機が入れるかなど）によって変わります。自治体の補助金が使える場合もありますのでご確認ください。",
+  },
+  {
+    question: "空き家でも火災保険は必要？",
+    answer: "必要です。空き家は放火や漏電による火災リスクが高く、万が一近隣に被害が出た場合の賠償責任もあります。ただし、空き家は通常の住宅保険に入れないことが多いため、専用の保険をご検討ください。",
+  },
+  {
+    question: "空き家の固定資産税はいくら？",
+    answer: "土地の広さや評価額によりますが、住宅が建っている場合は特例で土地の税額が最大1/6に軽減されます。ただし特定空き家に指定されるとこの特例が外れ、税額が大幅に上がります。",
+  },
+  {
+    question: "空き家を賃貸に出すのと売るのはどっちがいい？",
+    answer: "それぞれメリット・デメリットがあります。賃貸は継続的な収入が得られますが、修繕費や管理の手間がかかります。売却は一度にまとまった資金が得られ、維持費から解放されます。物件の状態や立地を踏まえてご提案します。",
+  },
+  {
+    question: "空き家の片付け（残置物処分）はどうする？",
+    answer: "専門の遺品整理業者や不用品回収業者に依頼するのが一般的です。費用は一戸建てで20〜50万円程度が目安です。当社から信頼できる業者をご紹介することも可能です。",
+  },
+];
+
+const procedureFaq = [
+  {
+    question: "不動産売却の流れを教えてください",
+    answer: "大きく5つのステップです。(1)お問い合わせ・ご相談 → (2)無料査定 → (3)媒介契約 → (4)売却活動・内覧対応 → (5)売買契約・決済・引き渡し。全体で3〜6ヶ月程度が一般的です。",
+  },
+  {
+    question: "売却にはどれくらいの期間がかかる？",
+    answer: "一般的には3〜6ヶ月程度です。物件の状態、立地、価格設定によって変わります。お急ぎの場合は不動産会社による買取（1〜2週間程度）という方法もあります。",
+  },
+  {
+    question: "仲介手数料はいくら？",
+    answer: "法律で上限が定められています。売買価格が400万円を超える場合は「売買価格×3%＋6万円＋消費税」が上限です。例えば2,000万円の物件なら約72.6万円（税込）になります。",
+  },
+  {
+    question: "不動産会社の選び方は？",
+    answer: "地域に詳しく、相続や空き家の売却実績がある会社を選ぶことが大切です。担当者との相性も重要ですので、実際に相談してみて信頼できるかどうかを確かめましょう。複数社に相談するのもおすすめです。",
+  },
+  {
+    question: "査定は無料？",
+    answer: "はい、当社の査定は完全無料です。物件の情報をお聞かせいただければ、概算の査定額をお伝えできます。より正確な金額は現地調査（こちらも無料）を行った上でご案内します。",
+  },
+  {
+    question: "住みながら売却はできる？",
+    answer: "可能です。多くの方が住みながら売却活動をされています。内覧の際はお部屋を整えていただく必要がありますが、スケジュールは事前にご相談いただけます。",
+  },
+  {
+    question: "売却時に必要な書類は？",
+    answer: "登記識別情報（権利証）、固定資産税の納税通知書、本人確認書類などが必要です。マンションの場合は管理規約なども求められます。必要書類は当社からリストをお渡ししますのでご安心ください。",
+  },
+];
+
+const taxFaq = [
+  {
+    question: "不動産を売った時の税金は？",
+    answer: "売却益（譲渡所得）に対して所得税と住民税がかかります。所有期間5年以下なら約39%、5年超なら約20%の税率です。各種特別控除が使える場合もありますので、事前にご確認ください。",
+  },
+  {
+    question: "確定申告は必要？",
+    answer: "売却益が出た場合は確定申告が必要です。売却損が出た場合でも、特例の適用を受けるには確定申告が必要なケースがあります。売却した翌年の2月16日〜3月15日が申告期間です。",
+  },
+  {
+    question: "売却にかかる費用の総額は？",
+    answer: "主な費用は、仲介手数料、印紙税、登記費用、測量費用（必要な場合）などです。一般的に売却価格の4〜6%程度が目安です。事前にお見積もりをお出ししますので、ご安心ください。",
+  },
+  {
+    question: "住宅ローンが残っていても売れる？",
+    answer: "可能です。ただし、売却代金でローンを完済し、抵当権を抹消する必要があります。売却額がローン残高を下回る場合は、差額を用意するか、任意売却という方法を検討します。",
+  },
+  {
+    question: "離婚時の不動産の分け方は？",
+    answer: "財産分与として、(1)売却して代金を分ける、(2)どちらかが住み続けて相手に代償金を払う、などの方法があります。住宅ローンが残っている場合は名義変更の手続きも必要です。まずは現在の査定額を確認することをおすすめします。",
+  },
+];
+
+const faqSchema = {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    ...inheritanceFaq,
+    ...akiyaFaq,
+    ...procedureFaq,
+    ...taxFaq,
+  ].map((item) => ({
+    "@type": "Question",
+    "name": item.question,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": item.answer,
+    },
+  })),
+};
+---
+
+<BaseLayout
+  title="よくある質問｜相続・空き家の不動産売却"
+  description="相続した家の売却、空き家の処分、不動産売却の税金など、よくある質問に宅建士がお答えします。"
+  schema={faqSchema}
+  breadcrumbs={breadcrumbs}
+>
+  <section class="px-4 py-12 md:py-16">
+    <div class="mx-auto max-w-3xl">
+      <h1 class="mb-4 text-center text-2xl font-bold text-primary md:text-3xl">
+        よくある質問
+      </h1>
+      <p class="mb-10 text-center text-sm text-text-light md:text-base">
+        相続・空き家・不動産売却に関するよくある質問に、宅建士がお答えします。
+      </p>
+
+      <!-- 相続について -->
+      <div class="mb-10">
+        <h2 class="mb-4 flex items-center gap-2 text-lg font-bold text-primary md:text-xl">
+          <span class="inline-block h-1 w-6 rounded bg-accent"></span>
+          相続について
+        </h2>
+        <FAQ items={inheritanceFaq} />
+      </div>
+
+      <!-- 空き家について -->
+      <div class="mb-10">
+        <h2 class="mb-4 flex items-center gap-2 text-lg font-bold text-primary md:text-xl">
+          <span class="inline-block h-1 w-6 rounded bg-accent"></span>
+          空き家について
+        </h2>
+        <FAQ items={akiyaFaq} />
+      </div>
+
+      <!-- 売却の手続き -->
+      <div class="mb-10">
+        <h2 class="mb-4 flex items-center gap-2 text-lg font-bold text-primary md:text-xl">
+          <span class="inline-block h-1 w-6 rounded bg-accent"></span>
+          売却の手続き
+        </h2>
+        <FAQ items={procedureFaq} />
+      </div>
+
+      <!-- 税金・費用 -->
+      <div class="mb-10">
+        <h2 class="mb-4 flex items-center gap-2 text-lg font-bold text-primary md:text-xl">
+          <span class="inline-block h-1 w-6 rounded bg-accent"></span>
+          税金・費用
+        </h2>
+        <FAQ items={taxFaq} />
+      </div>
+
+      <!-- CTA -->
+      <div class="rounded-xl bg-primary/5 p-6 text-center md:p-8">
+        <p class="mb-4 font-bold text-primary">
+          ご不明な点がございましたら、お気軽にご相談ください
+        </p>
+        <div class="flex flex-col items-center gap-3 sm:flex-row sm:justify-center">
+          <a
+            href="/contact"
+            class="inline-block rounded-lg bg-accent px-6 py-3 font-bold text-white shadow transition-all hover:bg-accent-light hover:shadow-lg"
+          >
+            無料で相談する
+          </a>
+          <a
+            href="tel:0675095696"
+            class="inline-flex items-center gap-2 rounded-lg border-2 border-primary px-6 py-3 font-bold text-primary transition-colors hover:bg-primary hover:text-white"
+          >
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z" />
+            </svg>
+            電話で相談する
+          </a>
+        </div>
+      </div>
+    </div>
+  </section>
+</BaseLayout>

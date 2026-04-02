@@ -1,0 +1,101 @@
+---
+const sitemapLinks = [
+  { label: "ホーム", href: "/" },
+  { label: "売却ガイド", href: "/guide" },
+  { label: "エリア相場", href: "/area" },
+  { label: "よくある質問", href: "/faq" },
+  { label: "お問い合わせ", href: "/contact" },
+];
+
+const currentYear = new Date().getFullYear();
+---
+
+<footer class="border-t border-border bg-primary text-white">
+  <div class="mx-auto max-w-5xl px-4 py-10">
+    <div class="grid gap-8 md:grid-cols-3">
+      <!-- 会社情報 -->
+      <div>
+        <h3 class="mb-3 text-lg font-bold text-accent">会社情報</h3>
+        <dl class="space-y-2 text-sm leading-relaxed text-white/80">
+          <div>
+            <dt class="sr-only">会社名</dt>
+            <dd class="font-bold text-white">合同会社アルシェスタイル</dd>
+          </div>
+          <div>
+            <dt class="sr-only">宅建業免許</dt>
+            <dd>宅建業免許: 大阪府知事 (1) 第65646号</dd>
+          </div>
+          <div>
+            <dt class="sr-only">代表</dt>
+            <dd>代表: 八木 宏樹（宅地建物取引士）</dd>
+          </div>
+          <div>
+            <dt class="sr-only">所在地</dt>
+            <dd>〒544-0002<br />大阪府大阪市生野区小路3-17-19</dd>
+          </div>
+          <div>
+            <dt class="sr-only">電話番号</dt>
+            <dd>
+              <a href="tel:0675095696" class="text-accent-light hover:text-accent">
+                06-7509-5696
+              </a>
+            </dd>
+          </div>
+          <div>
+            <dt class="sr-only">メール</dt>
+            <dd>
+              <a href="mailto:info.arshe@arshe-corp.com" class="text-accent-light hover:text-accent">
+                info.arshe@arshe-corp.com
+              </a>
+            </dd>
+          </div>
+          <div>
+            <dt class="sr-only">LINE</dt>
+            <dd>
+              <a href="https://lin.ee/9Fk9EUl" target="_blank" rel="noopener noreferrer" class="text-accent-light hover:text-accent">
+                LINE相談: 空き家のミカタ
+              </a>
+            </dd>
+          </div>
+        </dl>
+      </div>
+
+      <!-- サイトマップ -->
+      <div>
+        <h3 class="mb-3 text-lg font-bold text-accent">サイトマップ</h3>
+        <ul class="space-y-2 text-sm">
+          {sitemapLinks.map((link) => (
+            <li>
+              <a
+                href={link.href}
+                class="text-white/80 transition-colors hover:text-accent-light"
+              >
+                {link.label}
+              </a>
+            </li>
+          ))}
+        </ul>
+      </div>
+
+      <!-- その他リンク -->
+      <div>
+        <h3 class="mb-3 text-lg font-bold text-accent">その他</h3>
+        <ul class="space-y-2 text-sm">
+          <li>
+            <a
+              href="/privacy"
+              class="text-white/80 transition-colors hover:text-accent-light"
+            >
+              プライバシーポリシー
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+
+    <!-- コピーライト -->
+    <div class="mt-8 border-t border-white/20 pt-6 text-center text-xs text-white/60">
+      <p>&copy; {currentYear} 合同会社アルシェスタイル All Rights Reserved.</p>
+    </div>
+  </div>
+</footer>
