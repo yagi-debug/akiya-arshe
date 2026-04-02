@@ -60,6 +60,15 @@ const allSchemas = schema ? [baseSchema, schema] : [baseSchema];
     <!-- Google Search Console -->
     <meta name="google-site-verification" content="GqwOoxndCWJQybRlsSVMSNgIf1CV2zU5W9x1ZOvW49E" />
 
+    <!-- Google Analytics (GA4) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-DB12JFF39R"></script>
+    <script is:inline>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-DB12JFF39R');
+    </script>
+
     <!-- Google Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
