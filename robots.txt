@@ -1,0 +1,19 @@
+User-agent: *
+Allow: /
+Sitemap: https://akiya.arshe-corp.com/sitemap-index.xml
+
+# AI Crawlers - Welcome
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Amazonbot
+Allow: /
