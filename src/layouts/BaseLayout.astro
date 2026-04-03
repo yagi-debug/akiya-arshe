@@ -55,13 +55,53 @@ const allSchemas = schema ? [baseSchema, schema] : [baseSchema];
     <!-- Google Search Console -->
     <meta name="google-site-verification" content="GqwOoxndCWJQybRlsSVMSNgIf1CV2zU5W9x1ZOvW49E" />
 
-    <!-- Google Analytics (GA4) -->
+    <!-- Google Analytics (GA4) + コンバージョン計測 -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-DB12JFF39R"></script>
     <script is:inline>
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
       gtag('config', 'G-DB12JFF39R');
+
+      // コンバージョンイベント計測
+      document.addEventListener('DOMContentLoaded', function() {
+        // LINE友だち追加クリック
+        document.querySelectorAll('a[href*="lin.ee"]').forEach(function(el) {
+          el.addEventListener('click', function() {
+            gtag('event', 'line_click', {
+              event_category: 'conversion',
+              event_label: el.textContent.trim().substring(0, 50)
+            });
+          });
+        });
+        // 電話タップ
+        document.querySelectorAll('a[href^="tel:"]').forEach(function(el) {
+          el.addEventListener('click', function() {
+            gtag('event', 'phone_click', {
+              event_category: 'conversion',
+              event_label: '06-7509-5696'
+            });
+          });
+        });
+        // メールクリック
+        document.querySelectorAll('a[href^="mailto:"]').forEach(function(el) {
+          el.addEventListener('click', function() {
+            gtag('event', 'email_click', {
+              event_category: 'conversion',
+              event_label: 'info.arshe@arshe-corp.com'
+            });
+          });
+        });
+        // フォーム送信
+        document.querySelectorAll('form').forEach(function(form) {
+          form.addEventListener('submit', function() {
+            gtag('event', 'form_submit', {
+              event_category: 'conversion',
+              event_label: 'contact_form'
+            });
+          });
+        });
+      });
     </script>
 
     <!-- Google Fonts -->
