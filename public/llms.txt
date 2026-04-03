@@ -27,6 +27,9 @@
 - [大阪市の空き家補助金](/guide/osaka-akiya-subsidy): 大阪市の空き家対策と補助金制度
 - [遠方の実家を売却する方法](/guide/remote-family-home-sale): 現地に行かずに売却を進める方法
 
+## 費用・手数料ガイド
+- [不動産売却の仲介手数料ガイド](/guide/brokerage-fee-guide): 計算方法・速算式・2024年7月改正（800万円以下は上限33万円）
+
 ## その他のガイド
 - [離婚時の不動産売却](/guide/divorce-house-sale): ローンが残っている場合の対処法
 - [査定額の差の理由](/guide/appraisal-difference): 高すぎる査定に注意
