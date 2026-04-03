@@ -3,26 +3,22 @@ import BaseLayout from "../layouts/BaseLayout.astro";
 
 const breadcrumbs = [
   { name: "ホーム", url: "/" },
-  { name: "会社概要・プロフィール", url: "/about" },
+  { name: "会社概要", url: "/about" },
 ];
 
 const personSchema = {
   "@context": "https://schema.org",
   "@type": "Person",
   "name": "八木 宏樹",
-  "jobTitle": "代表 / 宅地建物取引士",
+  "jobTitle": "代表",
   "worksFor": {
     "@type": "Organization",
-    "name": "合同会社アルシェスタイル",
-  },
-  "hasCredential": {
-    "@type": "EducationalOccupationalCredential",
-    "credentialCategory": "宅地建物取引士",
+    "name": "合同会社アルシェ",
   },
 };
 
 const companyInfo = [
-  { label: "会社名", value: "合同会社アルシェスタイル" },
+  { label: "会社名", value: "合同会社アルシェ" },
   { label: "代表者", value: "八木 宏樹" },
   { label: "所在地", value: "〒544-0002 大阪府大阪市生野区小路3-17-19" },
   { label: "宅建業免許", value: "大阪府知事 (1) 第65646号" },
@@ -35,15 +31,15 @@ const companyInfo = [
 ---
 
 <BaseLayout
-  title="宅建士プロフィール｜合同会社アルシェスタイル"
-  description="合同会社アルシェスタイル代表・宅地建物取引士の八木宏樹のプロフィール。大阪で相続・空き家の不動産売却を専門にサポートしています。"
+  title="会社概要｜合同会社アルシェ"
+  description="合同会社アルシェの会社概要。大阪で相続・空き家の不動産売却を専門にサポートしています。"
   schema={personSchema}
   breadcrumbs={breadcrumbs}
 >
   <section class="px-4 py-12 md:py-16">
     <div class="mx-auto max-w-3xl">
       <h1 class="mb-10 text-center text-2xl font-bold text-primary md:text-3xl">
-        宅建士プロフィール
+        会社概要
       </h1>
 
       <!-- プロフィールカード -->
@@ -51,12 +47,12 @@ const companyInfo = [
         <div class="flex flex-col items-center gap-6 p-6 md:flex-row md:items-start md:p-8">
           <!-- プロフィール情報 -->
           <div class="text-center md:text-left">
-            <p class="mb-1 text-sm text-accent">代表 / 宅地建物取引士</p>
+            <p class="mb-1 text-sm text-accent">代表</p>
             <h2 class="mb-4 text-2xl font-bold text-primary">八木 宏樹</h2>
             <dl class="mb-4 space-y-1 text-sm text-text-light">
               <div class="flex flex-col gap-1 sm:flex-row sm:gap-2">
                 <dt class="font-bold text-text">会社:</dt>
-                <dd>合同会社アルシェスタイル</dd>
+                <dd>合同会社アルシェ</dd>
               </div>
               <div class="flex flex-col gap-1 sm:flex-row sm:gap-2">
                 <dt class="font-bold text-text">免許番号:</dt>
@@ -67,6 +63,9 @@ const companyInfo = [
                 <dd>大阪府大阪市生野区小路3-17-19</dd>
               </div>
             </dl>
+
+            <!-- 宅建士在籍 -->
+            <p class="mb-4 text-sm text-text-light">当社には宅地建物取引士が在籍しております。</p>
 
             <!-- 一言メッセージ -->
             <div class="rounded-lg bg-bg p-4">

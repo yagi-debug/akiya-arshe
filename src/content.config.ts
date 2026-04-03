@@ -8,7 +8,7 @@ const guide = defineCollection({
     description: z.string(),
     publishDate: z.string(),
     updatedDate: z.string().optional(),
-    author: z.string().default('八木 宏樹'),
+    author: z.string().default('宅地建物取引士'),
     authorTitle: z.string().default('宅地建物取引士'),
   }),
 });
