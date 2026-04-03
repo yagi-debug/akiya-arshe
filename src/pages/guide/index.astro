@@ -1,0 +1,54 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Breadcrumb from '../../components/Breadcrumb.astro';
+
+const breadcrumbs = [
+  { name: 'ホーム', url: '/' },
+  { name: '売却ガイド', url: '/guide' },
+];
+
+const guides = await getCollection('guide');
+// publishDate降順
+const sortedGuides = guides.sort((a, b) =>
+  new Date(b.data.publishDate).getTime() - new Date(a.data.publishDate).getTime()
+);
+---
+
+<BaseLayout
+  title="不動産売却ガイド｜相続・空き家・はじめての売却を宅建士が解説"
+  description="相続した不動産の売却方法、空き家の処分、はじめての不動産売却の流れなど、大阪の宅建士がわかりやすく解説するガイド記事一覧です。"
+  breadcrumbs={breadcrumbs}
+>
+  <section class="px-4 py-12 md:py-16">
+    <div class="mx-auto max-w-4xl">
+      <h1 class="mb-4 text-center text-2xl font-bold text-primary md:text-3xl">
+        不動産売却ガイド
+      </h1>
+      <p class="mb-10 text-center text-sm text-text-light md:text-base">
+        相続・空き家・はじめての売却まで、宅地建物取引士がやさしく解説します。
+      </p>
+
+      <div class="space-y-6">
+        {sortedGuides.map((guide) => (
+          <a
+            href={`/guide/${guide.id}`}
+            class="block rounded-xl border border-border bg-white p-6 shadow-sm transition-all hover:border-accent hover:shadow-md"
+          >
+            <h2 class="mb-2 text-lg font-bold text-primary md:text-xl">
+              {guide.data.title}
+            </h2>
+            <p class="mb-3 text-sm leading-relaxed text-text-light line-clamp-2">
+              {guide.data.description}
+            </p>
+            <div class="flex items-center gap-3 text-xs text-text-light">
+              <span>{guide.data.updatedDate || guide.data.publishDate}</span>
+              <span>|</span>
+              <span>{guide.data.author}（{guide.data.authorTitle}）</span>
+            </div>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+</BaseLayout>
