@@ -6,6 +6,9 @@ Sitemap: https://akiya.arshe-corp.com/sitemap-index.xml
 User-agent: GPTBot
 Allow: /
 
+User-agent: ChatGPT-User
+Allow: /
+
 User-agent: ClaudeBot
 Allow: /
 
@@ -16,4 +19,13 @@ User-agent: Google-Extended
 Allow: /
 
 User-agent: Amazonbot
+Allow: /
+
+User-agent: Bytespider
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: Applebot-Extended
 Allow: /
