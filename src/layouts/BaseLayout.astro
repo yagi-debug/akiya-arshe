@@ -65,12 +65,18 @@ const allSchemas = schema ? [baseSchema, schema] : [baseSchema];
 
       // コンバージョンイベント計測
       document.addEventListener('DOMContentLoaded', function() {
+        var pagePath = window.location.pathname;
+        var pageTitle = document.title;
+
         // LINE友だち追加クリック
         document.querySelectorAll('a[href*="lin.ee"]').forEach(function(el) {
           el.addEventListener('click', function() {
             gtag('event', 'line_click', {
               event_category: 'conversion',
-              event_label: el.textContent.trim().substring(0, 50)
+              event_label: el.textContent.trim().substring(0, 50),
+              page_path: pagePath,
+              page_title: pageTitle,
+              link_url: el.href
             });
           });
         });
@@ -79,7 +85,9 @@ const allSchemas = schema ? [baseSchema, schema] : [baseSchema];
           el.addEventListener('click', function() {
             gtag('event', 'phone_click', {
               event_category: 'conversion',
-              event_label: '06-7509-5696'
+              event_label: '06-7509-5696',
+              page_path: pagePath,
+              page_title: pageTitle
             });
           });
         });
@@ -88,7 +96,9 @@ const allSchemas = schema ? [baseSchema, schema] : [baseSchema];
           el.addEventListener('click', function() {
             gtag('event', 'email_click', {
               event_category: 'conversion',
-              event_label: 'info.arshe@arshe-corp.com'
+              event_label: 'info.arshe@arshe-corp.com',
+              page_path: pagePath,
+              page_title: pageTitle
             });
           });
         });
@@ -97,7 +107,9 @@ const allSchemas = schema ? [baseSchema, schema] : [baseSchema];
           form.addEventListener('submit', function() {
             gtag('event', 'form_submit', {
               event_category: 'conversion',
-              event_label: 'contact_form'
+              event_label: 'contact_form',
+              page_path: pagePath,
+              page_title: pageTitle
             });
           });
         });
