@@ -20,7 +20,6 @@ const baseSchema = {
   "@type": "RealEstateAgent",
   "name": "合同会社アルシェ",
   "url": "https://akiya.arshe-corp.com",
-  "telephone": "06-7509-5696",
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "小路3-17-19",
@@ -81,16 +80,6 @@ const allSchemas = schema ? [baseSchema, schema] : [baseSchema];
           });
         });
         // 電話タップ
-        document.querySelectorAll('a[href^="tel:"]').forEach(function(el) {
-          el.addEventListener('click', function() {
-            gtag('event', 'phone_click', {
-              event_category: 'conversion',
-              event_label: '06-7509-5696',
-              page_path: pagePath,
-              page_title: pageTitle
-            });
-          });
-        });
         // メールクリック
         document.querySelectorAll('a[href^="mailto:"]').forEach(function(el) {
           el.addEventListener('click', function() {

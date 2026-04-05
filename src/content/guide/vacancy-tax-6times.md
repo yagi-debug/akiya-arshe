@@ -139,4 +139,4 @@ authorTitle: "合同会社アルシェ"
 - <a href="/guide/old-house-demolish">古い家は解体すべきか？費用と判断基準</a>
 
 LINE「空き家のミカタ」：[https://lin.ee/9Fk9EUl](https://lin.ee/9Fk9EUl)
-電話：06-7509-5696（折り返し対応）
+

@@ -126,4 +126,4 @@ authorTitle: "合同会社アルシェ"
 - <a href="/guide/parent-death-house">親が亡くなった後の家の手続き</a>
 
 LINE「空き家のミカタ」：[https://lin.ee/9Fk9EUl](https://lin.ee/9Fk9EUl)
-電話：06-7509-5696（折り返し対応）
+

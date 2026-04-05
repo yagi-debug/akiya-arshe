@@ -221,4 +221,4 @@ authorTitle: "合同会社アルシェ"
 - <a href="/guide/inheritance-sale">相続した不動産を売却する完全ガイド</a>
 
 <strong>LINE無料相談：[空き家のミカタ](https://lin.ee/9Fk9EUl)</strong>
-お電話：<strong>06-7509-5696</strong>（折り返しご対応いたします）
+

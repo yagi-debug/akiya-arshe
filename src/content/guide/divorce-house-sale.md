@@ -121,4 +121,4 @@ authorTitle: "合同会社アルシェ"
 - <a href="/guide/selling-tax-guide">不動産売却時の税金と節税対策</a>
 
 LINE「空き家のミカタ」：[https://lin.ee/9Fk9EUl](https://lin.ee/9Fk9EUl)
-電話：06-7509-5696（折り返し対応）
+
