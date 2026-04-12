@@ -3,7 +3,6 @@ title: "共有者が認知症になったら不動産は売れない？3つの�
 description: "共有名義の不動産で共有者の1人が認知症になった場合の売却方法を解説。成年後見制度・持分売却・家族信託の3つの方法を、費用・期間・メリットとともに宅建業者がわかりやすくお伝えします。"
 publishDate: "2026-04-12"
 author: "宅建業者"
-authorTitle: "合同会社アルシェ"
 heroImage: "/images/dementia-coowner-sale-hero.jpg"
 faqs:
   - question: "共有者が認知症でも不動産を売却できますか？"

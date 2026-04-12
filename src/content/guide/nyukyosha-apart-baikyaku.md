@@ -3,7 +3,6 @@ title: "入居者がいるアパートの売却方法｜立退き交渉とオー
 description: "入居者が住んでいるアパートを売却する方法を宅建業者が解説。立退き交渉の流れ・費用・リスクと、入居者付きのままオーナーチェンジで買取に出す方法を比較。相続アパートの処分にお困りの方へ。"
 publishDate: "2026-04-11"
 author: "宅建業者"
-authorTitle: "合同会社アルシェ"
 heroImage: "/images/tenant-apartment-hero.jpg"
 faqs:
   - question: "入居者がいるままアパートを売れますか？"

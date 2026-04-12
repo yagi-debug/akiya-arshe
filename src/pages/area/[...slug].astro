@@ -48,7 +48,7 @@ const realEstateListingSchema = {
   "url": `https://akiya.arshe-corp.com/area/${entry.id}`,
   "provider": {
     "@type": "RealEstateAgent",
-    "name": "合同会社アルシェ",
+    "name": "空き家のミカタ",
     "url": "https://akiya.arshe-corp.com",
     "areaServed": placeSchema,
   },
@@ -68,7 +68,7 @@ const articleSchema = {
       ...(entry.data.updatedDate ? { "dateModified": entry.data.updatedDate } : {}),
       "publisher": {
         "@type": "Organization",
-        "name": "合同会社アルシェ",
+        "name": "空き家のミカタ",
         "url": "https://akiya.arshe-corp.com",
       },
       "about": placeSchema,

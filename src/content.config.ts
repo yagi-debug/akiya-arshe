@@ -9,7 +9,7 @@ const guide = defineCollection({
     publishDate: z.string(),
     updatedDate: z.string().optional(),
     author: z.string().default('宅建業者'),
-    authorTitle: z.string().default('合同会社アルシェ'),
+    authorTitle: z.string().default(''),
     faqs: z.array(z.object({
       question: z.string(),
       answer: z.string(),

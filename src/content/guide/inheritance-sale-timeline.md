@@ -3,7 +3,6 @@ title: "【2026年版】相続から不動産売却完了まで｜期限つき�
 description: "相続発生後、いつまでに何をすればいいか一目でわかるタイムライン。死亡届7日、相続放棄3ヶ月、準確定申告4ヶ月、相続税10ヶ月、登記3年…期限を逃さず売却を完了させる手順を宅建業者が解説。"
 publishDate: "2026-04-09"
 author: "宅建業者"
-authorTitle: "合同会社アルシェ"
 ---
 
 <img src="/images/inheritance-timeline-hero.jpg" alt="相続手続きに必要な書類とペン　タイムライン解説のイメージ" width="1200" height="800" style="width:100%;height:auto;border-radius:8px;margin-bottom:1.5rem;" />

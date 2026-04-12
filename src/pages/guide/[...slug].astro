@@ -31,13 +31,13 @@ const articleSchema = {
   "description": entry.data.description,
   "author": {
     "@type": "Organization",
-    "name": "合同会社アルシェ",
+    "name": "空き家のミカタ",
   },
   "datePublished": entry.data.publishDate,
   ...(entry.data.updatedDate ? { "dateModified": entry.data.updatedDate } : {}),
   "publisher": {
     "@type": "Organization",
-    "name": "合同会社アルシェ",
+    "name": "空き家のミカタ",
     "url": "https://akiya.arshe-corp.com",
   },
   "mainEntityOfPage": {

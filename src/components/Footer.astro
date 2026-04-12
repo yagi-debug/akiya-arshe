@@ -17,40 +17,15 @@ const currentYear = new Date().getFullYear();
       <!-- 会社情報 -->
       <div>
         <h3 class="mb-3 text-lg font-bold text-accent">会社情報</h3>
-        <dl class="space-y-2 text-sm leading-relaxed text-white/80">
-          <div>
-            <dt class="sr-only">会社名</dt>
-            <dd class="font-bold text-white">合同会社アルシェ</dd>
-          </div>
-          <div>
-            <dt class="sr-only">宅建業免許</dt>
-            <dd>宅建業免許: 大阪府知事 (1) 第65646号</dd>
-          </div>
-          <div>
-            <dt class="sr-only">代表</dt>
-            <dd>代表: 八木 宏樹</dd>
-          </div>
-          <div>
-            <dt class="sr-only">所在地</dt>
-            <dd>〒544-0002<br />大阪府大阪市生野区小路3-17-19</dd>
-          </div>
-          <div>
-            <dt class="sr-only">メール</dt>
-            <dd>
-              <a href="mailto:info.arshe@arshe-corp.com" class="text-accent-light hover:text-accent">
-                info.arshe@arshe-corp.com
-              </a>
-            </dd>
-          </div>
-          <div>
-            <dt class="sr-only">LINE</dt>
-            <dd>
-              <a href="https://lin.ee/9Fk9EUl" target="_blank" rel="noopener noreferrer" class="text-accent-light hover:text-accent">
-                LINE相談: 空き家のミカタ
-              </a>
-            </dd>
-          </div>
-        </dl>
+        <div class="space-y-3 text-sm text-white/80">
+          <p>宅建業免許: 大阪府知事 (1) 第65646号</p>
+          <a
+            href="/about"
+            class="inline-block text-accent-light underline-offset-2 hover:text-accent hover:underline"
+          >
+            会社概要を見る →
+          </a>
+        </div>
       </div>
 
       <!-- サイトマップ -->
@@ -76,6 +51,14 @@ const currentYear = new Date().getFullYear();
         <ul class="space-y-2 text-sm">
           <li>
             <a
+              href="/about"
+              class="text-white/80 transition-colors hover:text-accent-light"
+            >
+              会社概要
+            </a>
+          </li>
+          <li>
+            <a
               href="/privacy"
               class="text-white/80 transition-colors hover:text-accent-light"
             >
@@ -88,7 +71,7 @@ const currentYear = new Date().getFullYear();
 
     <!-- コピーライト -->
     <div class="mt-8 border-t border-white/20 pt-6 text-center text-xs text-white/60">
-      <p>&copy; {currentYear} 合同会社アルシェ All Rights Reserved.</p>
+      <p>&copy; {currentYear} 空き家のミカタ（宅建業免許: 大阪府知事 (1) 第65646号） All Rights Reserved.</p>
     </div>
   </div>
 </footer>
