@@ -1,0 +1,45 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import SateiForm from "../components/SateiForm.astro";
+
+const schema = {
+  "@context": "https://schema.org",
+  "@type": "WebApplication",
+  "name": "訳あり不動産 無料AI査定ツール",
+  "description": "物件タイプ・エリア・面積を入力するだけで、不動産の概算価格を即時に算出します。",
+  "applicationCategory": "RealEstateApplication",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "JPY"
+  },
+  "provider": {
+    "@type": "RealEstateAgent",
+    "name": "合同会社アルシェ",
+    "url": "https://akiya-mikata.arshe-corp.com"
+  }
+};
+---
+
+<BaseLayout
+  title="無料AI査定 | 訳あり不動産の概算価格を10秒で - 空き家のミカタ"
+  description="物件タイプ・エリア・土地面積を入力するだけで、訳あり不動産の概算価格を即時表示。相続アパート・再建築不可・事故物件・空き家など、どんな物件でも対応。査定後はLINEで詳しく相談できます。"
+  schema={schema}
+>
+  <main class="min-h-screen bg-bg py-10">
+    <div class="mx-auto max-w-3xl px-4">
+
+      <div class="mb-8 text-center">
+        <p class="mb-2 text-sm font-bold uppercase tracking-widest text-accent">Free AI Appraisal</p>
+        <h1 class="mb-3 text-3xl font-bold text-primary md:text-4xl">無料AI査定</h1>
+        <p class="text-base text-text-light">
+          3項目を入力するだけで概算価格を即時表示。<br class="hidden md:block" />
+          相続・訳あり・空き家など、どんな物件でもOK。
+        </p>
+      </div>
+
+      <SateiForm id="satei-page" />
+
+    </div>
+  </main>
+</BaseLayout>

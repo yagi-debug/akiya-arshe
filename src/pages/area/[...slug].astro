@@ -14,6 +14,14 @@ export async function getStaticPaths() {
 const { entry } = Astro.props;
 const { Content } = await render(entry);
 
+const SLASH = String.fromCharCode(47);
+const formatPrice = (price) => {
+  return `${(price / 10000).toFixed(0)}万円`;
+};
+const formatPriceRange = (price) => {
+  return Math.round(price / 10000) + "万円" + SLASH + "m\u00B2\u301C";
+};
+
 const breadcrumbs = [
   { name: 'ホーム', url: '/' },
   { name: 'エリア相場', url: '/area' },
@@ -21,9 +29,9 @@ const breadcrumbs = [
 ];
 
 const placeSchema = {
-  "@context": "https://schema.org",
   "@type": "Place",
-  "name": entry.data.areaName,
+  "@id": `https://akiya.arshe-corp.com/area/${entry.id}#place`,
+  "name": `${entry.data.prefecture}${entry.data.areaName}`,
   "address": {
     "@type": "PostalAddress",
     "addressLocality": entry.data.areaName,
@@ -32,22 +40,42 @@ const placeSchema = {
   },
 };
 
-const articleSchema = {
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": entry.data.title,
+const realEstateListingSchema = {
+  "@type": "RealEstateListing",
+  "@id": `https://akiya.arshe-corp.com/area/${entry.id}#listing`,
+  "name": `${entry.data.areaName}の不動産売却・買取`,
   "description": entry.data.description,
-  "datePublished": entry.data.publishDate,
-  ...(entry.data.updatedDate ? { "dateModified": entry.data.updatedDate } : {}),
-  "publisher": {
-    "@type": "Organization",
+  "url": `https://akiya.arshe-corp.com/area/${entry.id}`,
+  "provider": {
+    "@type": "RealEstateAgent",
     "name": "合同会社アルシェ",
+    "url": "https://akiya.arshe-corp.com",
+    "areaServed": placeSchema,
   },
-  "about": placeSchema,
+  "spatialCoverage": placeSchema,
+  "priceRange": entry.data.avgPricePerSqm ? formatPriceRange(entry.data.avgPricePerSqm) : undefined,
 };
 
-const formatPrice = (price: number) => {
-  return `${(price / 10000).toFixed(0)}万円`;
+const articleSchema = {
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": `https://akiya.arshe-corp.com/area/${entry.id}#article`,
+      "headline": entry.data.title,
+      "description": entry.data.description,
+      "datePublished": entry.data.publishDate,
+      ...(entry.data.updatedDate ? { "dateModified": entry.data.updatedDate } : {}),
+      "publisher": {
+        "@type": "Organization",
+        "name": "合同会社アルシェ",
+        "url": "https://akiya.arshe-corp.com",
+      },
+      "about": placeSchema,
+    },
+    realEstateListingSchema,
+    placeSchema,
+  ],
 };
 ---
 
@@ -58,7 +86,6 @@ const formatPrice = (price: number) => {
   breadcrumbs={breadcrumbs}
 >
   <article class="mx-auto max-w-3xl px-4 py-8 md:py-12">
-    <!-- エリアヘッダー -->
     <header class="mb-8">
       <h1 class="mb-4 text-2xl font-bold leading-relaxed text-text md:text-3xl">
         {entry.data.title}
@@ -66,7 +93,6 @@ const formatPrice = (price: number) => {
       <p class="text-text-light">{entry.data.description}</p>
     </header>
 
-    <!-- エリア概要データ -->
     <div class="mb-8 grid grid-cols-2 gap-4 md:grid-cols-3">
       <div class="rounded-lg bg-bg-dark p-4 text-center">
         <p class="mb-1 text-xs text-text-light">エリア</p>
@@ -88,7 +114,6 @@ const formatPrice = (price: number) => {
       )}
     </div>
 
-    <!-- エリア本文 -->
     <div class="prose prose-lg max-w-none
       prose-headings:text-text prose-headings:font-bold
       prose-h2:mt-10 prose-h2:mb-4 prose-h2:border-l-4 prose-h2:border-accent prose-h2:pl-3 prose-h2:text-xl
@@ -100,13 +125,12 @@ const formatPrice = (price: number) => {
       <Content />
     </div>
 
-    <!-- CTA -->
     <div class="mt-10 rounded-lg border-2 border-accent bg-accent/5 p-6 text-center md:p-8">
       <h2 class="mb-3 text-xl font-bold text-text">
         {entry.data.areaName}での不動産売却はお任せください
       </h2>
       <p class="mb-5 text-sm text-text-light">
-        {entry.data.areaName}の不動産事情を熟知した宅建士が、適正な査定価格をお伝えします。
+        {entry.data.areaName}の不動産事情を熟知した宅建業者が、適正な査定価格をお伝えします。
       </p>
       <a
         href="/contact"
@@ -114,7 +138,79 @@ const formatPrice = (price: number) => {
       >
         無料査定を依頼する
       </a>
-      <p class="mt-3 text-xs text-text-light">相談無料・秘密厳守・宅建士が対応</p>
+      <p class="mt-3 text-xs text-text-light">相談無料・秘密厳守・宅建業者が対応</p>
+    </div>
+
+    <!-- 物件タイプ別買取ガイド（ハブへの内部リンク） -->
+    <div class="mt-10">
+      <h2 class="mb-4 border-l-4 border-accent pl-3 text-xl font-bold text-text">
+        {entry.data.areaName}で対応できる訳あり物件の種類
+      </h2>
+      <p class="mb-5 text-sm text-text-light">
+        通常の不動産仲介では売りにくい「訳あり物件」も、全国対応の直接買取で対応しています。
+      </p>
+      <div class="grid gap-3 md:grid-cols-2">
+        <a
+          href="/guide/souzoku-apart-kaitori"
+          class="flex items-start gap-3 rounded-lg border border-border p-4 transition-all hover:border-accent hover:shadow-md"
+        >
+          <span class="mt-0.5 text-xl">🏢</span>
+          <div>
+            <p class="font-bold text-text">相続アパート</p>
+            <p class="text-sm text-text-light">管理できない・空室が多い・老朽化したアパートも買取対応</p>
+          </div>
+        </a>
+        <a
+          href="/guide/akiya-kaitori"
+          class="flex items-start gap-3 rounded-lg border border-border p-4 transition-all hover:border-accent hover:shadow-md"
+        >
+          <span class="mt-0.5 text-xl">🏠</span>
+          <div>
+            <p class="font-bold text-text">空き家・放置物件</p>
+            <p class="text-sm text-text-light">固定資産税増額リスクを回避。現況のまま直接買取</p>
+          </div>
+        </a>
+        <a
+          href="/guide/saikenchifu-kaitori"
+          class="flex items-start gap-3 rounded-lg border border-border p-4 transition-all hover:border-accent hover:shadow-md"
+        >
+          <span class="mt-0.5 text-xl">🚧</span>
+          <div>
+            <p class="font-bold text-text">再建築不可物件</p>
+            <p class="text-sm text-text-light">接道義務不適合・袋地も買取対象。仲介で売れなかった物件に</p>
+          </div>
+        </a>
+        <a
+          href="/guide/jiko-bukken-kaitori"
+          class="flex items-start gap-3 rounded-lg border border-border p-4 transition-all hover:border-accent hover:shadow-md"
+        >
+          <span class="mt-0.5 text-xl">📋</span>
+          <div>
+            <p class="font-bold text-text">事故物件</p>
+            <p class="text-sm text-text-light">心理的瑕疵があっても買取可能。秘密厳守で対応</p>
+          </div>
+        </a>
+        <a
+          href="/guide/kyouyuu-mochibun-kaitori"
+          class="flex items-start gap-3 rounded-lg border border-border p-4 transition-all hover:border-accent hover:shadow-md"
+        >
+          <span class="mt-0.5 text-xl">🤝</span>
+          <div>
+            <p class="font-bold text-text">共有持分</p>
+            <p class="text-sm text-text-light">他の共有者の同意なしで自分の持分だけ売却可能</p>
+          </div>
+        </a>
+        <a
+          href="/guide/sokochi-kaitori"
+          class="flex items-start gap-3 rounded-lg border border-border p-4 transition-all hover:border-accent hover:shadow-md"
+        >
+          <span class="mt-0.5 text-xl">🌱</span>
+          <div>
+            <p class="font-bold text-text">底地・借地権</p>
+            <p class="text-sm text-text-light">借地権付き土地（底地）も直接買取で対応</p>
+          </div>
+        </a>
+      </div>
     </div>
   </article>
 </BaseLayout>

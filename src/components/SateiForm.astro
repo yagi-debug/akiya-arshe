@@ -1,0 +1,381 @@
+---
+import rosenkaData from "../data/rosenka.json";
+import areasData from "../data/areas.json";
+
+const LINE_URL = "https://lin.ee/9Fk9EUl";
+const GAS_URL = "https://script.google.com/macros/s/AKfycbzmkaRu-4QdLhB4P3H25f1W2a62XJTY72PReI7YE-fBKj0gpu90o9rSBVHit4i2AY4Q/exec";
+const prefectures = Object.keys(areasData);
+
+// 一意のIDプレフィックス（同一ページに複数回埋め込まれても衝突しないよう）
+const { id = "satei" } = Astro.props;
+---
+
+<div id={`${id}-wrap`} class="satei-wrap">
+
+  <!-- フォームカード -->
+  <div id={`${id}-form-card`} class="satei-form-card rounded-2xl border border-border bg-white shadow-md">
+
+    <!-- ステップインジケーター -->
+    <div class="flex items-center justify-center gap-0 border-b border-border px-6 pt-6 pb-5">
+      <div class="satei-step-item flex items-center gap-2" data-step="1">
+        <div class="satei-step-circle flex h-8 w-8 items-center justify-center rounded-full bg-primary text-sm font-bold text-white">1</div>
+        <span class="hidden text-sm font-bold text-primary sm:block">物件タイプ</span>
+      </div>
+      <div class="mx-3 h-px w-8 bg-border sm:w-12"></div>
+      <div class="satei-step-item flex items-center gap-2 opacity-40" data-step="2">
+        <div class="satei-step-circle flex h-8 w-8 items-center justify-center rounded-full bg-text-light text-sm font-bold text-white">2</div>
+        <span class="hidden text-sm font-bold text-text-light sm:block">エリア</span>
+      </div>
+      <div class="mx-3 h-px w-8 bg-border sm:w-12"></div>
+      <div class="satei-step-item flex items-center gap-2 opacity-40" data-step="3">
+        <div class="satei-step-circle flex h-8 w-8 items-center justify-center rounded-full bg-text-light text-sm font-bold text-white">3</div>
+        <span class="hidden text-sm font-bold text-text-light sm:block">面積</span>
+      </div>
+    </div>
+
+    <!-- Step 1: 物件タイプ -->
+    <div class="satei-step-panel" data-panel="1" style="display:block">
+      <div class="px-6 py-6">
+        <h3 class="mb-5 text-lg font-bold text-primary">物件タイプを選んでください</h3>
+        <div class="grid grid-cols-1 gap-3 sm:grid-cols-3">
+          {[
+            { value: "land", label: "土地", icon: "🌳", desc: "更地・空き地" },
+            { value: "house", label: "戸建て", icon: "🏠", desc: "一戸建て・アパート" },
+            { value: "other", label: "その他", icon: "🏢", desc: "マンション・共有持分等" },
+          ].map((type) => (
+            <button
+              type="button"
+              class="satei-type-btn flex flex-col items-center rounded-xl border-2 border-border bg-white px-4 py-5 text-center transition-all hover:border-primary hover:bg-primary/5"
+              data-value={type.value}
+            >
+              <span class="mb-1 text-3xl">{type.icon}</span>
+              <span class="font-bold text-primary">{type.label}</span>
+              <span class="mt-1 text-xs text-text-light">{type.desc}</span>
+            </button>
+          ))}
+        </div>
+      </div>
+    </div>
+
+    <!-- Step 2: エリア -->
+    <div class="satei-step-panel" data-panel="2" style="display:none">
+      <div class="px-6 py-6">
+        <h3 class="mb-5 text-lg font-bold text-primary">物件のエリアを選んでください</h3>
+        <div class="space-y-4">
+          <div>
+            <label class="mb-1 block text-sm font-bold text-text">都道府県</label>
+            <select class="satei-pref w-full rounded-lg border border-border bg-white px-4 py-3 text-base text-text focus:border-primary focus:outline-none focus:ring-2 focus:ring-primary/20">
+              <option value="">都道府県を選択</option>
+              {prefectures.map((pref) => (
+                <option value={pref}>{pref}</option>
+              ))}
+            </select>
+          </div>
+          <div>
+            <label class="mb-1 block text-sm font-bold text-text">市区町村</label>
+            <select class="satei-city w-full rounded-lg border border-border bg-white px-4 py-3 text-base text-text focus:border-primary focus:outline-none focus:ring-2 focus:ring-primary/20 disabled:opacity-40" disabled>
+              <option value="">市区町村を選択</option>
+            </select>
+          </div>
+        </div>
+        <div class="mt-6 flex gap-3">
+          <button type="button" class="satei-back flex-1 rounded-lg border border-border px-4 py-3 font-bold text-text-light transition-colors hover:bg-bg" data-to="1">← 戻る</button>
+          <button type="button" class="satei-next2 flex-1 rounded-lg bg-primary px-4 py-3 font-bold text-white opacity-40 transition-all" disabled>次へ →</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- Step 3: 面積 -->
+    <div class="satei-step-panel" data-panel="3" style="display:none">
+      <div class="px-6 py-6">
+        <h3 class="mb-5 text-lg font-bold text-primary">土地面積を入力してください</h3>
+        <div class="space-y-3">
+          <div class="flex items-end gap-3">
+            <div class="flex-1">
+              <label class="mb-1 block text-sm font-bold text-text">土地面積（㎡）</label>
+              <input type="number" class="satei-area w-full rounded-lg border border-border px-4 py-3 text-base text-text focus:border-primary focus:outline-none focus:ring-2 focus:ring-primary/20" min="1" max="99999" placeholder="例）100" />
+            </div>
+            <span class="pb-3 text-text-light">㎡</span>
+          </div>
+          <div class="flex items-end gap-3 rounded-lg bg-bg px-4 py-3">
+            <div class="flex-1">
+              <label class="mb-1 block text-xs text-text-light">坪数で入力する場合</label>
+              <input type="number" class="satei-tsubo w-full rounded-lg border border-border bg-white px-3 py-2 text-sm text-text focus:border-primary focus:outline-none" min="1" placeholder="例）30" />
+            </div>
+            <span class="pb-2 text-sm text-text-light">坪</span>
+            <button type="button" class="satei-convert mb-px rounded-lg bg-accent/10 px-3 py-2 text-sm font-bold text-accent transition-colors hover:bg-accent/20">㎡に変換</button>
+          </div>
+        </div>
+        <div class="mt-6 flex gap-3">
+          <button type="button" class="satei-back flex-1 rounded-lg border border-border px-4 py-3 font-bold text-text-light transition-colors hover:bg-bg" data-to="2">← 戻る</button>
+          <button type="button" class="satei-calc flex-1 rounded-lg bg-primary px-4 py-3 font-bold text-white opacity-40 transition-all" disabled>無料でAI査定する</button>
+        </div>
+      </div>
+    </div>
+
+  </div><!-- /form-card -->
+
+  <!-- 結果表示 -->
+  <div class="satei-result mt-6" style="display:none">
+    <div class="rounded-2xl border border-primary/30 bg-white shadow-lg">
+      <div class="rounded-t-2xl bg-primary px-6 py-4 text-center text-white">
+        <p class="text-sm font-bold opacity-80">AI概算査定結果</p>
+        <p class="satei-result-summary mt-1 text-sm opacity-70"></p>
+      </div>
+      <div class="px-6 py-8 text-center">
+        <p class="mb-2 text-sm font-bold text-text-light">推定市場価格</p>
+        <p class="text-4xl font-bold text-primary md:text-5xl">
+          <span class="satei-min"></span>
+          <span class="mx-2 text-2xl text-text-light">〜</span>
+          <span class="satei-max"></span>
+        </p>
+        <p class="satei-pref-note mt-2 text-xs text-text-light" style="display:none">※都道府県平均値での概算です</p>
+      </div>
+      <div class="satei-type-note mx-6 mb-6 rounded-lg bg-bg px-4 py-3 text-sm text-text-light"></div>
+      <div class="mx-6 mb-6 rounded-lg border border-border bg-bg/60 px-4 py-3 text-xs leading-relaxed text-text-light">
+        本日時点での過去の不動産取引履歴をもとに、物件の市場価格を推定しています。実際の買取価格は物件の状態・立地条件・権利関係等により変動します。訳あり物件の場合は市場価格より低くなることもあります。
+      </div>
+      <div class="px-6 pb-8 text-center">
+        <p class="mb-4 font-bold text-primary">より正確な査定・ご相談はこちら</p>
+        <a
+          href={LINE_URL}
+          target="_blank"
+          rel="noopener noreferrer"
+          class="inline-flex w-full max-w-sm items-center justify-center gap-3 rounded-xl bg-[#06C755] px-6 py-4 text-lg font-bold text-white shadow-lg transition-all hover:bg-[#05b64d] hover:shadow-xl"
+        >
+          <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" viewBox="0 0 24 24" fill="currentColor">
+            <path d="M19.365 9.863c.349 0 .63.285.63.631 0 .345-.281.63-.63.63H17.61v1.125h1.755c.349 0 .63.283.63.63 0 .344-.281.629-.63.629h-2.386c-.345 0-.627-.285-.627-.629V8.108c0-.345.282-.63.627-.63h2.386c.349 0 .63.285.63.63 0 .349-.281.63-.63.63H17.61v1.125h1.755zm-3.855 3.016c0 .27-.174.51-.432.596-.064.021-.133.031-.199.031-.211 0-.391-.09-.51-.25l-2.443-3.317v2.94c0 .344-.279.629-.631.629-.346 0-.626-.285-.626-.629V8.108c0-.27.173-.51.43-.595.06-.023.136-.033.194-.033.195 0 .375.104.495.254l2.462 3.33V8.108c0-.345.282-.63.63-.63.345 0 .63.285.63.63v4.771zm-5.741 0c0 .344-.282.629-.631.629-.345 0-.627-.285-.627-.629V8.108c0-.345.282-.63.627-.63.349 0 .631.285.631.63v4.771zm-2.466.629H4.917c-.345 0-.63-.285-.63-.629V8.108c0-.345.285-.63.63-.63.348 0 .63.285.63.63v4.141h1.756c.348 0 .629.283.629.63 0 .344-.281.629-.629.629M24 10.314C24 4.943 18.615.572 12 .572S0 4.943 0 10.314c0 4.811 4.27 8.842 10.035 9.608.391.082.923.258 1.058.59.12.301.079.766.038 1.08l-.164 1.02c-.045.301-.24 1.186 1.049.645 1.291-.539 6.916-4.078 9.436-6.975C23.176 14.393 24 12.458 24 10.314" />
+          </svg>
+          LINEで無料相談する（24時間対応）
+        </a>
+        <p class="mt-3 text-xs text-text-light">査定結果を持ってそのままご相談いただけます</p>
+        <button type="button" class="satei-reset mt-4 text-sm text-text-light underline hover:text-text">もう一度査定する</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- 信頼性バッジ -->
+  <div class="mt-6 grid grid-cols-3 gap-4 text-center">
+    {[
+      { icon: "⚡", text: "10秒で\n即時表示" },
+      { icon: "🔒", text: "個人情報\n不要" },
+      { icon: "💯", text: "完全\n無料" },
+    ].map((b) => (
+      <div class="rounded-xl border border-border bg-white p-4">
+        <div class="mb-1 text-2xl">{b.icon}</div>
+        <div class="text-xs font-bold text-primary whitespace-pre-line">{b.text}</div>
+      </div>
+    ))}
+  </div>
+
+</div>
+
+<script define:vars={{ rosenkaData, areasData, GAS_URL }}>
+(function () {
+  // このコンポーネントのルート要素を取得（複数埋め込み対応）
+  const wraps = document.querySelectorAll(".satei-wrap");
+  wraps.forEach((wrap) => {
+    initSatei(wrap);
+  });
+
+  function initSatei(wrap) {
+    // 既に初期化済みなら skip
+    if (wrap.dataset.initialized) return;
+    wrap.dataset.initialized = "1";
+
+    const formCard = wrap.querySelector(".satei-form-card");
+    const resultEl = wrap.querySelector(".satei-result");
+    const panels = wrap.querySelectorAll(".satei-step-panel");
+    const stepItems = wrap.querySelectorAll(".satei-step-item");
+
+    let selectedType = "";
+    let selectedPrefecture = "";
+    let selectedCity = "";
+
+    // --- ステップ表示 ---
+    function showPanel(n) {
+      panels.forEach((p) => {
+        p.style.display = p.dataset.panel == n ? "block" : "none";
+      });
+      updateIndicator(n);
+    }
+
+    function updateIndicator(active) {
+      stepItems.forEach((item) => {
+        const n = parseInt(item.dataset.step);
+        const circle = item.querySelector(".satei-step-circle");
+        circle.classList.remove("bg-primary", "bg-accent", "bg-text-light");
+        if (n < active) {
+          item.classList.remove("opacity-40");
+          circle.classList.add("bg-accent");
+        } else if (n === active) {
+          item.classList.remove("opacity-40");
+          circle.classList.add("bg-primary");
+        } else {
+          item.classList.add("opacity-40");
+          circle.classList.add("bg-text-light");
+        }
+      });
+    }
+
+    // --- Step 1: 物件タイプ ---
+    wrap.querySelectorAll(".satei-type-btn").forEach((btn) => {
+      btn.addEventListener("click", () => {
+        wrap.querySelectorAll(".satei-type-btn").forEach((b) => {
+          b.classList.remove("border-primary", "bg-primary/10");
+          b.classList.add("border-border");
+        });
+        btn.classList.add("border-primary", "bg-primary/10");
+        btn.classList.remove("border-border");
+        selectedType = btn.dataset.value;
+        setTimeout(() => showPanel(2), 200);
+      });
+    });
+
+    // --- Step 2: エリア ---
+    const prefSel = wrap.querySelector(".satei-pref");
+    const citySel = wrap.querySelector(".satei-city");
+    const next2Btn = wrap.querySelector(".satei-next2");
+
+    prefSel.addEventListener("change", () => {
+      selectedPrefecture = prefSel.value;
+      selectedCity = "";
+      citySel.innerHTML = '<option value="">市区町村を選択</option>';
+      if (selectedPrefecture && areasData[selectedPrefecture]) {
+        areasData[selectedPrefecture].forEach((city) => {
+          const opt = document.createElement("option");
+          opt.value = city;
+          opt.textContent = city;
+          citySel.appendChild(opt);
+        });
+        citySel.disabled = false;
+      } else {
+        citySel.disabled = true;
+      }
+      updateNext2();
+    });
+
+    citySel.addEventListener("change", () => {
+      selectedCity = citySel.value;
+      updateNext2();
+    });
+
+    function updateNext2() {
+      const ok = !!(selectedPrefecture && selectedCity);
+      next2Btn.disabled = !ok;
+      next2Btn.classList.toggle("opacity-40", !ok);
+    }
+
+    next2Btn.addEventListener("click", () => {
+      if (selectedPrefecture && selectedCity) showPanel(3);
+    });
+
+    // --- Step 3: 面積 ---
+    const areaInput = wrap.querySelector(".satei-area");
+    const tsuboInput = wrap.querySelector(".satei-tsubo");
+    const calcBtn = wrap.querySelector(".satei-calc");
+
+    areaInput.addEventListener("input", updateCalcBtn);
+    function updateCalcBtn() {
+      const ok = parseFloat(areaInput.value) > 0;
+      calcBtn.disabled = !ok;
+      calcBtn.classList.toggle("opacity-40", !ok);
+    }
+
+    wrap.querySelector(".satei-convert").addEventListener("click", () => {
+      const t = parseFloat(tsuboInput.value);
+      if (t > 0) { areaInput.value = Math.round(t * 3.306); updateCalcBtn(); }
+    });
+
+    calcBtn.addEventListener("click", () => {
+      const area = parseFloat(areaInput.value);
+      if (area > 0) calculate(area);
+    });
+
+    // --- 戻るボタン ---
+    wrap.querySelectorAll(".satei-back").forEach((btn) => {
+      btn.addEventListener("click", () => showPanel(parseInt(btn.dataset.to)));
+    });
+
+    // --- 計算 ---
+    function calculate(area) {
+      const prefData = rosenkaData[selectedPrefecture];
+      let rosenka, usedPrefAvg = false;
+      if (prefData && prefData[selectedCity]) {
+        rosenka = prefData[selectedCity];
+      } else if (prefData) {
+        const vals = Object.values(prefData);
+        rosenka = Math.round(vals.reduce((a, b) => a + b, 0) / vals.length);
+        usedPrefAvg = true;
+      } else {
+        rosenka = 50000;
+        usedPrefAvg = true;
+      }
+      const min = Math.round(rosenka * area * 0.8 / 10000);
+      const max = Math.round(rosenka * area * 1.2 / 10000);
+
+      showResult(area, min, max, rosenka, usedPrefAvg);
+      sendGAS(area, min, max, rosenka);
+    }
+
+    function showResult(area, min, max, rosenka, usedPrefAvg) {
+      formCard.style.display = "none";
+      resultEl.style.display = "block";
+      const typeLabel = { land: "土地", house: "戸建て", other: "その他" }[selectedType] || "";
+      wrap.querySelector(".satei-result-summary").textContent =
+        `${selectedPrefecture} ${selectedCity} / ${typeLabel} / ${area}㎡`;
+      wrap.querySelector(".satei-min").textContent = `${min.toLocaleString()}万円`;
+      wrap.querySelector(".satei-max").textContent = `${max.toLocaleString()}万円`;
+      const note = wrap.querySelector(".satei-pref-note");
+      note.style.display = usedPrefAvg ? "block" : "none";
+      const typeNotes = {
+        land: "土地のみの価格です。建物がある場合は解体費用が差し引かれることがあります。",
+        house: "土地の市場価格を基準にした推定です。建物の価値・築年数・状態により大きく変動します。相続アパートの場合は賃貸収益も加味されます。",
+        other: "マンション・共有持分・事故物件などは、権利関係・管理状況・心理的瑕疵の有無により査定額が大きく異なります。",
+      };
+      wrap.querySelector(".satei-type-note").textContent = typeNotes[selectedType] || "";
+      resultEl.scrollIntoView({ behavior: "smooth", block: "start" });
+    }
+
+    // --- やり直し ---
+    wrap.querySelector(".satei-reset").addEventListener("click", () => {
+      selectedType = ""; selectedPrefecture = ""; selectedCity = "";
+      wrap.querySelectorAll(".satei-type-btn").forEach((b) => {
+        b.classList.remove("border-primary", "bg-primary/10");
+        b.classList.add("border-border");
+      });
+      prefSel.value = "";
+      citySel.innerHTML = '<option value="">市区町村を選択</option>';
+      citySel.disabled = true;
+      areaInput.value = ""; tsuboInput.value = "";
+      calcBtn.disabled = true; calcBtn.classList.add("opacity-40");
+      next2Btn.disabled = true; next2Btn.classList.add("opacity-40");
+      resultEl.style.display = "none";
+      formCard.style.display = "block";
+      showPanel(1);
+      wrap.scrollIntoView({ behavior: "smooth" });
+    });
+
+    // --- GAS送信 ---
+    function sendGAS(area, min, max, rosenka) {
+      if (!GAS_URL) return;
+      try {
+        fetch(GAS_URL, {
+          method: "POST",
+          body: JSON.stringify({
+            propertyType: selectedType,
+            prefecture: selectedPrefecture,
+            city: selectedCity,
+            area,
+            estimatedMin: min,
+            estimatedMax: max,
+            rosenkaUsed: rosenka,
+            userAgent: navigator.userAgent,
+            referrer: document.referrer,
+          }),
+        }).catch(() => {});
+      } catch (_) {}
+    }
+  }
+})();
+</script>

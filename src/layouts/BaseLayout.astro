@@ -9,10 +9,11 @@ interface Props {
   title: string;
   description: string;
   schema?: object;
+  faqSchema?: object | null;
   breadcrumbs?: { name: string; url: string }[];
 }
 
-const { title, description, schema, breadcrumbs } = Astro.props;
+const { title, description, schema, faqSchema, breadcrumbs } = Astro.props;
 const canonicalURL = new URL(Astro.url.pathname, "https://akiya.arshe-corp.com");
 
 const baseSchema = {
@@ -28,14 +29,22 @@ const baseSchema = {
     "postalCode": "544-0002",
     "addressCountry": "JP",
   },
-  "areaServed": [
-    "大阪市", "堺市", "東大阪市", "豊中市", "吹田市",
-    "高槻市", "枚方市", "神戸市", "尼崎市", "西宮市",
-    "奈良市", "京都市",
-  ],
+  "areaServed": {
+    "@type": "Country",
+    "name": "日本",
+  },
   "employee": {
     "@type": "Person",
-    "jobTitle": "宅地建物取引士",
+    "name": "八木 宏樹",
+    "jobTitle": "代表社員",
+  },
+  "makesOffer": {
+    "@type": "Offer",
+    "itemOffered": {
+      "@type": "Service",
+      "name": "訳あり不動産の直接買取",
+      "description": "空き家・再建築不可・事故物件・共有持分・相続物件など、訳あり不動産を直接買取。仲介手数料なし・現況買取・全国対応。",
+    },
   },
 };
 
@@ -118,7 +127,7 @@ const allSchemas = schema ? [baseSchema, schema] : [baseSchema];
     <meta property="og:description" content={description} />
     <meta property="og:type" content="website" />
     <meta property="og:url" content={canonicalURL} />
-    <meta property="og:site_name" content="大阪の不動産売却相談｜合同会社アルシェ" />
+    <meta property="og:site_name" content="空き家のミカタ｜訳あり不動産の買取専門" />
     <meta property="og:locale" content="ja_JP" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content={title} />
@@ -128,6 +137,9 @@ const allSchemas = schema ? [baseSchema, schema] : [baseSchema];
     {allSchemas.map((s) => (
       <script type="application/ld+json" set:html={JSON.stringify(s)} />
     ))}
+    {faqSchema && (
+      <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />
+    )}
   </head>
   <body class="flex min-h-screen flex-col">
     <Header />

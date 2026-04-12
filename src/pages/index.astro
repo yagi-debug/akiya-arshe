@@ -1,44 +1,45 @@
 ---
 import BaseLayout from "../layouts/BaseLayout.astro";
 import FAQ from "../components/FAQ.astro";
+import SateiForm from "../components/SateiForm.astro";
 
 const faqItems = [
   {
+    question: "訳あり物件でも本当に買い取ってもらえる？",
+    answer: "はい、買取可能です。再建築不可・事故物件・共有持分・老朽化物件など、仲介では売りにくい物件を専門に直接買取しています。まずはお気軽にご相談ください。",
+  },
+  {
+    question: "買取と仲介の違いは？",
+    answer: "仲介は買い手を探すため3〜6ヶ月かかりますが、買取は当社が直接購入するため最短3日で現金化できます。仲介手数料も不要です。",
+  },
+  {
     question: "相続した家を売るには何から始めればいい？",
-    answer: "まずは相続登記（名義変更）を行い、売却できる状態にすることが第一歩です。登記が済んだら、不動産会社に査定を依頼しましょう。当社では相続登記の段階からサポートいたします。",
+    answer: "まずは相続登記（名義変更）が必要です。当社では相続登記の段階からサポートいたします。登記完了前でもご相談いただけます。",
   },
   {
-    question: "相続登記をしていなくても売れる？",
-    answer: "相続登記が完了していないと売却はできません。2024年4月から相続登記が義務化されましたので、早めの手続きをおすすめします。司法書士のご紹介も可能です。",
+    question: "遠方の物件でも対応できる？",
+    answer: "はい、全国対応しています。提携ネットワークを活用し、現地調査から買取まで対応いたします。お客様が現地に行く必要はありません。",
   },
   {
-    question: "空き家をそのまま放置するとどうなる？",
-    answer: "「特定空き家」に指定されると、固定資産税が最大6倍になる場合があります。また、建物の老朽化による近隣トラブルや、防犯上のリスクも高まります。",
-  },
-  {
-    question: "売却にはどれくらいの期間がかかる？",
-    answer: "一般的には3〜6ヶ月程度です。物件の状態やエリア、価格設定によって変わります。お急ぎの場合は買取という方法もございます。",
-  },
-  {
-    question: "仲介手数料はいくら？",
-    answer: "法律で上限が定められており、売買価格の3%＋6万円＋消費税が上限です。例えば2,000万円の物件なら約72.6万円（税込）になります。",
+    question: "費用はかかる？",
+    answer: "査定・相談は完全無料です。直接買取のため仲介手数料もかかりません。片付け・残置物もそのままで買い取れます。",
   },
 ];
 ---
 
 <BaseLayout
-  title="大阪の相続・空き家の不動産売却相談｜合同会社アルシェ"
-  description="大阪で相続した家・空き家の売却でお悩みなら、宅建士が直接対応する合同会社アルシェにご相談ください。相談無料・しつこい営業なし。"
+  title="訳あり不動産の買取専門｜空き家のミカタ"
+  description="空き家・再建築不可・事故物件・共有持分・相続物件など、訳あり不動産を直接買取。仲介手数料なし・現況買取・最短3日で現金化。全国対応。"
 >
   <!-- ファーストビュー -->
   <section class="relative overflow-hidden bg-gradient-to-br from-primary via-primary-light to-primary px-4 py-16 text-white md:py-24">
     <div class="absolute inset-0 bg-[radial-gradient(ellipse_at_top_right,rgba(198,133,62,0.15),transparent_70%)]"></div>
     <div class="relative mx-auto max-w-3xl text-center">
       <h1 class="mb-4 text-2xl font-bold leading-relaxed md:text-4xl md:leading-relaxed">
-        相続した家、空き家のこと、<br />ひとりで悩んでいませんか？
+        売れない不動産、<br />あきらめていませんか？
       </h1>
       <p class="mb-8 text-base text-white/80 md:text-lg">
-        大阪の宅建士が、売却の不安をひとつずつ解決します
+        訳あり不動産の買取専門。仲介手数料なし・現況買取・最短3日で現金化
       </p>
       <div class="flex flex-col items-center gap-4">
         <a
@@ -65,6 +66,18 @@ const faqItems = [
     </div>
   </section>
 
+  <!-- 無料AI査定セクション -->
+  <section class="bg-bg px-4 py-12 md:py-16">
+    <div class="mx-auto max-w-3xl">
+      <div class="mb-8 text-center">
+        <p class="mb-2 text-sm font-bold uppercase tracking-widest text-accent">Free AI Appraisal</p>
+        <h2 class="mb-3 text-2xl font-bold text-primary md:text-3xl">無料AI査定</h2>
+        <p class="text-sm text-text-light">3項目を入力するだけで概算価格を即時表示。個人情報不要・完全無料。</p>
+      </div>
+      <SateiForm id="satei-top" />
+    </div>
+  </section>
+
   <!-- 悩み共感セクション -->
   <section class="px-4 py-12 md:py-16">
     <div class="mx-auto max-w-3xl">
@@ -73,11 +86,11 @@ const faqItems = [
       </h2>
       <ul class="space-y-4">
         {[
-          "親から相続した家、どうすればいいかわからない",
-          "空き家のまま放置してるけど、固定資産税が心配",
-          "不動産会社に相談するのが怖い、騙されないか不安",
-          "遠方に住んでいて、実家の管理ができない",
-          "離婚で家を売りたいけど、手続きがわからない",
+          "再建築不可と言われて、どこにも売れない",
+          "事故物件を相続したが、どう処分すればいいかわからない",
+          "共有持分の不動産、他の共有者と話がまとまらない",
+          "相続したアパートの管理が限界、早く手放したい",
+          "空き家を放置しているが、固定資産税が6倍になると聞いて不安",
         ].map((text) => (
           <li class="flex items-start gap-3 rounded-lg border border-border bg-white px-5 py-4 shadow-sm">
             <svg xmlns="http://www.w3.org/2000/svg" class="mt-0.5 h-5 w-5 shrink-0 text-accent" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
@@ -100,18 +113,18 @@ const faqItems = [
         {[
           {
             num: "1",
-            title: "宅建士が最初から最後まで直接対応",
-            desc: "担当者がころころ変わることはありません。資格を持った専門家が、ご相談から売却完了まで一貫してサポートします。",
+            title: "仲介手数料なし・直接買取",
+            desc: "当社が直接買い取るため、仲介手数料は一切かかりません。売れ残る心配もなく、確実に現金化できます。",
           },
           {
             num: "2",
-            title: "相続・空き家の売却実績多数",
-            desc: "大阪市を中心に近畿圏で、相続物件や空き家の売却を数多くお手伝いしてきました。複雑なケースもお任せください。",
+            title: "現況のまま・片付け不要",
+            desc: "残置物があっても、老朽化していても、そのままの状態で買い取ります。片付けや修繕の費用・手間は不要です。",
           },
           {
             num: "3",
-            title: "相談無料・しつこい営業は一切なし",
-            desc: "「まだ売るかどうか決めていない」という段階でも大丈夫です。まずはお話を聞かせてください。無理な営業は絶対にしません。",
+            title: "最短3日で現金化・全国対応",
+            desc: "スピード査定で最短3日で現金化。提携ネットワークを活用し、全国どこの物件でも対応いたします。",
           },
         ].map((item) => (
           <div class="rounded-xl border border-border bg-bg p-6 text-center shadow-sm">
@@ -130,34 +143,34 @@ const faqItems = [
   <section class="px-4 py-12 md:py-16">
     <div class="mx-auto max-w-4xl">
       <h2 class="mb-10 text-center text-xl font-bold text-primary md:text-2xl">
-        売却の流れ
+        買取の流れ
       </h2>
       <div class="space-y-6">
         {[
           {
             step: "1",
-            title: "お電話・お問い合わせ",
-            desc: "まずはお電話またはお問い合わせフォームからご連絡ください。現在の状況やお悩みをお聞かせいただきます。",
+            title: "お問い合わせ（LINE・フォーム）",
+            desc: "LINEまたはお問い合わせフォームからご連絡ください。物件の状況やお悩みをお聞かせいただきます。",
           },
           {
             step: "2",
-            title: "無料査定",
-            desc: "物件の情報をもとに、無料で査定いたします。現地調査も無料で対応しています。",
+            title: "無料査定・買取価格のご提示",
+            desc: "物件の情報をもとに、無料で査定いたします。最短即日で買取価格をご提示します。",
           },
           {
             step: "3",
-            title: "売却プラン提案",
-            desc: "査定結果をもとに、お客様に最適な売却プランをご提案します。ご納得いただけるまで何度でもご相談いただけます。",
+            title: "現地調査（無料）",
+            desc: "提携ネットワークを活用し、現地調査を行います。お客様が立ち会う必要はありません。",
           },
           {
             step: "4",
-            title: "売却活動",
-            desc: "媒介契約を結んだ後、買い手を探す活動を行います。進捗状況は定期的にご報告いたします。",
+            title: "売買契約・決済",
+            desc: "買取価格にご納得いただけたら、売買契約を締結。最短3日で現金化できます。",
           },
           {
             step: "5",
-            title: "売却完了",
-            desc: "買い手が見つかったら、売買契約・決済・引き渡しを行います。必要な手続きはすべてサポートいたします。",
+            title: "引き渡し完了",
+            desc: "残置物はそのままでOK。引き渡し後の手続きもサポートいたします。",
           },
         ].map((item) => (
           <div class="flex items-start gap-4 rounded-lg border border-border bg-white p-5 shadow-sm">

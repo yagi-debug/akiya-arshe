@@ -8,8 +8,12 @@ const guide = defineCollection({
     description: z.string(),
     publishDate: z.string(),
     updatedDate: z.string().optional(),
-    author: z.string().default('宅地建物取引士'),
-    authorTitle: z.string().default('宅地建物取引士'),
+    author: z.string().default('宅建業者'),
+    authorTitle: z.string().default('合同会社アルシェ'),
+    faqs: z.array(z.object({
+      question: z.string(),
+      answer: z.string(),
+    })).optional(),
   }),
 });
 
