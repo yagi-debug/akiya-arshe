@@ -8,6 +8,7 @@
 - [空き家をどうする？選択肢ガイド](/guide/vacant-house): 売却・賃貸・解体の比較と費用
 - [はじめての不動産売却ガイド](/guide/selling-process): 初心者向け5ステップ完全ガイド
 - [再建築不可物件の売却方法](/guide/non-rebuildable-property-sale): 売却相場の目安、4つの売却方法、2025年法改正の影響
+- [再建築不可物件の買取相場｜大阪市エリア別](/guide/saikenchifu-kaitori-souba): 大阪市エリア別の具体的な買取価格帯・査定ポイント・2025年建築基準法改正の影響
 - [大阪市の不動産｜買取と仲介どっちが得？](/guide/osaka-kaitori-vs-chukai): 築年数・立地・物件種別ごとに金額シミュレーション付きで比較
 - [事故物件の売却方法と告知義務](/guide/accident-property-sale): 国交省ガイドラインに基づく告知ルール、売却価格の目安、仲介と買取の比較
 - [相続アパートの買取](/guide/inherited-apartment-buyout): 築古アパートの収益計算・管理リスク・仲介vs買取比較・買取の流れを宅建業者が解説
