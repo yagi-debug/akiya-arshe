@@ -48,6 +48,17 @@ const baseSchema = {
   },
 };
 
+const breadcrumbSchema = breadcrumbs && breadcrumbs.length > 0 ? {
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": breadcrumbs.map((item, index) => ({
+    "@type": "ListItem",
+    "position": index + 1,
+    "name": item.name,
+    "item": `https://akiya.arshe-corp.com${item.url}`,
+  })),
+} : null;
+
 const allSchemas = schema ? [baseSchema, schema] : [baseSchema];
 ---
 
@@ -139,6 +150,9 @@ const allSchemas = schema ? [baseSchema, schema] : [baseSchema];
     ))}
     {faqSchema && (
       <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />
+    )}
+    {breadcrumbSchema && (
+      <script type="application/ld+json" set:html={JSON.stringify(breadcrumbSchema)} />
     )}
   </head>
   <body class="flex min-h-screen flex-col">
