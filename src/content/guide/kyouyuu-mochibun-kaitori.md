@@ -186,6 +186,21 @@ LINEまたはお問い合わせフォームから、物件の情報と持分割�
 
 もちろんです。物件の住所がわかれば、登記簿謄本を取得して持分割合を確認いたします。
 
+## 関連エリアの売却相場
+
+- <a href="/area/osaka-hirano">平野区の共有持分売却相場</a>
+- <a href="/area/osaka-ikuno">生野区の共有持分売却相場</a>
+- <a href="/area/osaka-higashinari">東成区の共有持分売却相場</a>
+- <a href="/area/osaka-nishinari">西成区の共有持分売却相場</a>
+- <a href="/area/osaka-higashisumiyoshi">東住吉区の共有持分売却相場</a>
+
+## 関連するガイド記事
+
+- <a href="/guide/joint-ownership-sale">共有名義不動産の売却方法</a>
+- <a href="/guide/ninibaikyaku-guide">任意売却の流れと費用</a>
+- <a href="/guide/inheritance-sale">相続した不動産を売却する完全ガイド</a>
+- <a href="/guide/dementia-coowner-property-sale">認知症の共有者がいる不動産の売却</a>
+
 ## まずはお気軽にご相談ください
 
 共有持分でお悩みの方は、まずはLINEでご相談ください。

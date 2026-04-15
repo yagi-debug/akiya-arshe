@@ -56,6 +56,53 @@ const realEstateListingSchema = {
   "priceRange": entry.data.avgPricePerSqm ? formatPriceRange(entry.data.avgPricePerSqm) : undefined,
 };
 
+const areaFaqSchema = {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": `${entry.data.areaName}の不動産売却に費用はかかりますか？`,
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "査定・相談は完全無料です。直接買取のため仲介手数料もかかりません。片付け・残置物もそのままで買い取れます。",
+      },
+    },
+    {
+      "@type": "Question",
+      "name": `${entry.data.areaName}の物件は何日で現金化できますか？`,
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "最短3日での現金化が可能です。通常の仲介では3〜6ヶ月かかりますが、直接買取なら当社が買い手のため最短スピードで対応します。",
+      },
+    },
+    {
+      "@type": "Question",
+      "name": `${entry.data.areaName}から遠方に住んでいても対応してもらえますか？`,
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "はい、全国対応しています。お客様が現地に来る必要はなく、手続きは郵送・オンラインで完結できます。",
+      },
+    },
+    {
+      "@type": "Question",
+      "name": "名義変更（相続登記）が済んでいない不動産でも売却できますか？",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "相続登記が完了していない段階でもご相談いただけます。相続登記のサポートも含めてトータルでお手伝いします。",
+      },
+    },
+    {
+      "@type": "Question",
+      "name": "再建築不可・事故物件・空き家などの訳あり物件でも買い取ってもらえますか？",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "はい、訳あり物件の買取が専門です。再建築不可・事故物件・共有持分・老朽化物件など、通常の仲介では売りにくい物件も直接買取しています。",
+      },
+    },
+  ],
+};
+
 const articleSchema = {
   "@context": "https://schema.org",
   "@graph": [
@@ -83,6 +130,7 @@ const articleSchema = {
   title={entry.data.title}
   description={entry.data.description}
   schema={articleSchema}
+  faqSchema={areaFaqSchema}
   breadcrumbs={breadcrumbs}
 >
   <article class="mx-auto max-w-3xl px-4 py-8 md:py-12">

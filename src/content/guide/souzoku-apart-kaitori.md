@@ -147,6 +147,22 @@ LINEまたはお問い合わせフォームから、物件の情報をお送り�
 
 査定・相談は完全無料です。直接買取のため、**仲介手数料もかかりません。** 売却にかかる費用（印紙代・登記費用等）は事前にご説明します。
 
+## 関連エリアの売却相場
+
+- <a href="/area/osaka-ikuno">生野区の相続アパート売却相場</a>
+- <a href="/area/osaka-higashiyodogawa">東淀川区の相続アパート売却相場</a>
+- <a href="/area/osaka-yodogawa">淀川区の相続アパート売却相場</a>
+- <a href="/area/osaka-hirano">平野区の相続アパート売却相場</a>
+- <a href="/area/osaka-nishinari">西成区の相続アパート売却相場</a>
+- <a href="/area/osaka-asahi">旭区の相続アパート売却相場</a>
+
+## 関連するガイド記事
+
+- <a href="/guide/inheritance-sale">相続した不動産を売却する完全ガイド</a>
+- <a href="/guide/souzoku-apart-timing">相続アパートの売却タイミングと手順</a>
+- <a href="/guide/inheritance-registry">相続登記の義務化と手続きガイド</a>
+- <a href="/guide/sokochi-kaitori">底地・借地権の買取</a>
+
 ## 相続アパート、ひとりで悩まないでください
 
 相続したアパートの管理に困っている方、「どこに相談してもうまくいかなかった」という方こそ、まずはご連絡ください。

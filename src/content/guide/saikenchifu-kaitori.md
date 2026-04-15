@@ -113,6 +113,21 @@ LINEまたはお問い合わせフォームから、物件の情報をお送り�
 
 相談可能です。相続登記が未了でも査定は行えます。必要に応じて、提携の司法書士をご紹介いたします。
 
+## 関連エリアの売却相場
+
+- <a href="/area/osaka-hirano">平野区の再建築不可物件売却相場</a>
+- <a href="/area/osaka-ikuno">生野区の再建築不可物件売却相場</a>
+- <a href="/area/osaka-higashinari">東成区の再建築不可物件売却相場</a>
+- <a href="/area/osaka-nishinari">西成区の再建築不可物件売却相場</a>
+- <a href="/area/osaka-asahi">旭区の再建築不可物件売却相場</a>
+- <a href="/area/osaka-minato">港区の再建築不可物件売却相場</a>
+
+## 関連するガイド記事
+
+- <a href="/guide/saikenchifu-kaitori-souba">再建築不可物件の買取相場と価格計算</a>
+- <a href="/guide/non-rebuildable-property-sale">再建築不可物件を売る5つの方法</a>
+- <a href="/guide/inheritance-sale">相続した不動産を売却する完全ガイド</a>
+
 ## まずはお気軽にご相談ください
 
 再建築不可物件の売却でお困りの方は、まずはLINEでご相談ください。

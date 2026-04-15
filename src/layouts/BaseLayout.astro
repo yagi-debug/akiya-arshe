@@ -33,10 +33,55 @@ const baseSchema = {
     "@type": "Country",
     "name": "日本",
   },
+  "hasCredential": {
+    "@type": "EducationalOccupationalCredential",
+    "name": "宅地建物取引業免許",
+    "credentialCategory": "license",
+    "recognizedBy": {
+      "@type": "GovernmentOrganization",
+      "name": "大阪府知事",
+    },
+    "identifier": "大阪府知事 (1) 第65646号",
+  },
   "employee": {
     "@type": "Person",
     "name": "八木 宏樹",
-    "jobTitle": "代表社員",
+    "jobTitle": "代表社員・宅地建物取引士",
+    "hasCredential": {
+      "@type": "EducationalOccupationalCredential",
+      "name": "宅地建物取引士",
+      "credentialCategory": "license",
+    },
+  },
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "訳あり不動産 直接買取サービス",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": { "@type": "Service", "name": "相続アパート買取", "url": "https://akiya.arshe-corp.com/guide/souzoku-apart-kaitori" },
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": { "@type": "Service", "name": "空き家・放置物件買取", "url": "https://akiya.arshe-corp.com/guide/akiya-kaitori" },
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": { "@type": "Service", "name": "再建築不可物件買取", "url": "https://akiya.arshe-corp.com/guide/saikenchifu-kaitori" },
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": { "@type": "Service", "name": "事故物件買取", "url": "https://akiya.arshe-corp.com/guide/jiko-bukken-kaitori" },
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": { "@type": "Service", "name": "共有持分買取", "url": "https://akiya.arshe-corp.com/guide/kyouyuu-mochibun-kaitori" },
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": { "@type": "Service", "name": "底地・借地権買取", "url": "https://akiya.arshe-corp.com/guide/sokochi-kaitori" },
+      },
+    ],
   },
   "makesOffer": {
     "@type": "Offer",

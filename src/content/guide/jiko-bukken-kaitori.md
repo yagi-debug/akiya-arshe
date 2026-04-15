@@ -103,6 +103,20 @@ LINEまたはお問い合わせフォームから、物件の情報をお送り�
 
 もちろん相談可能です。相続登記のサポートとして、提携の司法書士をご紹介することもできます。
 
+## 関連エリアの売却相場
+
+- <a href="/area/osaka-chuo">中央区の事故物件売却相場</a>
+- <a href="/area/osaka-naniwa">浪速区の事故物件売却相場</a>
+- <a href="/area/osaka-kita">北区の事故物件売却相場</a>
+- <a href="/area/osaka-ikuno">生野区の事故物件売却相場</a>
+- <a href="/area/osaka-nishinari">西成区の事故物件売却相場</a>
+
+## 関連するガイド記事
+
+- <a href="/guide/shinriteki-kashi-kokuchi-gimu">心理的瑕疵の告知義務と売却方法</a>
+- <a href="/guide/accident-property-sale">事故物件の売却完全ガイド</a>
+- <a href="/guide/inheritance-sale">相続した不動産を売却する完全ガイド</a>
+
 ## まずはお気軽にご相談ください
 
 事故物件の売却でお悩みの方は、まずはLINEでご相談ください。
