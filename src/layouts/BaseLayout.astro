@@ -10,10 +10,11 @@ interface Props {
   description: string;
   schema?: object;
   faqSchema?: object | null;
+  howToSchema?: object | null;
   breadcrumbs?: { name: string; url: string }[];
 }
 
-const { title, description, schema, faqSchema, breadcrumbs } = Astro.props;
+const { title, description, schema, faqSchema, howToSchema, breadcrumbs } = Astro.props;
 const canonicalURL = new URL(Astro.url.pathname, "https://akiya.arshe-corp.com");
 
 const baseSchema = {
@@ -198,6 +199,9 @@ const allSchemas = schema ? [baseSchema, schema] : [baseSchema];
     ))}
     {faqSchema && (
       <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />
+    )}
+    {howToSchema && (
+      <script type="application/ld+json" set:html={JSON.stringify(howToSchema)} />
     )}
     {breadcrumbSchema && (
       <script type="application/ld+json" set:html={JSON.stringify(breadcrumbSchema)} />

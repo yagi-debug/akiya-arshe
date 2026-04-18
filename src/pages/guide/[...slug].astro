@@ -82,6 +82,19 @@ const faqSchema = entry.data.faqs && entry.data.faqs.length > 0 ? {
   })),
 } : null;
 
+const howToSchema = entry.data.howToSteps && entry.data.howToSteps.length > 0 ? {
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": entry.data.title,
+  "description": entry.data.description,
+  "step": entry.data.howToSteps.map((step, index) => ({
+    "@type": "HowToStep",
+    "position": index + 1,
+    "name": step.name,
+    "text": step.text,
+  })),
+} : null;
+
 const displayDate = entry.data.updatedDate || entry.data.publishDate;
 ---
 
@@ -90,6 +103,7 @@ const displayDate = entry.data.updatedDate || entry.data.publishDate;
   description={entry.data.description}
   schema={articleSchema}
   faqSchema={faqSchema}
+  howToSchema={howToSchema}
   breadcrumbs={breadcrumbs}
 >
   <article class="mx-auto max-w-3xl px-4 py-8 md:py-12">
