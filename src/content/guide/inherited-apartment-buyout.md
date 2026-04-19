@@ -17,6 +17,10 @@ faqs:
     answer: "アパートに資産価値がある場合は、売却した方が手残りが得られます。相続放棄はすべての遺産を放棄する手続きのため、アパートだけを放棄することはできません。相続放棄の期限は相続開始を知った日から3か月以内です。他の遺産（預貯金等）も含めて総合的に判断する必要があります。"
 ---
 
+<div style="background:#f0f7ff;border-left:4px solid #1a56db;padding:1rem 1.5rem;margin-bottom:1.5rem;border-radius:4px;">
+<strong>相続したアパートを手放したい場合の結論：</strong>買取業者への売却が最短・最もリスクの低い選択肢です。入居者がいるオーナーチェンジ物件も、旧耐震基準の築古物件も、現況のまま売却できます。仲介手数料なし・最短2週間で現金化できます。
+</div>
+
 <img src="/images/inherited-apartment-hero.jpg" alt="築古アパートの外観　相続アパート買取のイメージ" width="1200" height="800" style="width:100%;height:auto;border-radius:8px;margin-bottom:1.5rem;" />
 
 相続したアパートを「持ち続けるか、手放すか」で悩んでいる方は少なくありません。<strong>築古アパートは、表面利回りだけでは見えない管理コスト・修繕リスク・空室リスクが積み重なり、収支がマイナスになるケースが多くあります。</strong>
