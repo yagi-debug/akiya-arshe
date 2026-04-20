@@ -141,6 +141,7 @@ A. 特定空き家に指定されると住宅用地の特例が解除され、�
 ### 売却ガイド — 相続・空き家
 - [相続した不動産を売却する完全ガイド](https://akiya.arshe-corp.com/guide/inheritance-sale): 相続登記から売却完了までの全手順を宅建士が解説
 - [相続から売却完了までのタイムライン](https://akiya.arshe-corp.com/guide/inheritance-sale-timeline): 7日・3ヶ月・4ヶ月・10ヶ月・3年の期限つきタイムライン
+- [相続した家はどうすればいい？4つの選択肢と判断基準](https://akiya.arshe-corp.com/guide/souzoku-ie-doushitara): 売る・貸す・住む・放置の比較、固定資産税6倍リスク、3000万円特別控除の解説
 - [空き家をどうする？選択肢ガイド](https://akiya.arshe-corp.com/guide/vacant-house): 売却・賃貸・解体の比較と費用
 - [相続した空き家が売れない6つの理由](https://akiya.arshe-corp.com/guide/akiya-souzoku-urenai): 出口戦略の比較と解決策を宅建業者が解説
 - [空き家の買取｜放置している空き家を現金化する方法](https://akiya.arshe-corp.com/guide/akiya-kaitori): 固定資産税増額リスクを回避する直接買取の方法
@@ -151,6 +152,7 @@ A. 特定空き家に指定されると住宅用地の特例が解除され、�
 - [古い家は更地にして売るべき？](https://akiya.arshe-corp.com/guide/old-house-demolish): 解体費用と判断基準を宅建業者が解説
 - [親が亡くなった後の家はどうする？](https://akiya.arshe-corp.com/guide/parent-death-house): 3つの選択肢と手続きの流れ
 - [遠方の実家を売却する方法](https://akiya.arshe-corp.com/guide/remote-family-home-sale): 来なくてもできる手続きと注意点
+- [相続した農地・山林を手放す方法｜農地法の制約と4つの選択肢](https://akiya.arshe-corp.com/guide/souzoku-nouchi-sanrin-baikyaku): 農地のまま売却・転用・農地バンク・国庫帰属制度の全選択肢を宅建業者が解説
 
 ### 売却ガイド — 相続アパート・マンション
 - [相続アパートの買取](https://akiya.arshe-corp.com/guide/inherited-apartment-buyout): 築古アパートの収益計算・管理リスク・仲介vs買取比較・買取の流れを宅建業者が解説
