@@ -14,6 +14,7 @@
 - [空き家の固定資産税が6倍に？特定空き家の条件と回避する方法](/guide/vacancy-tax-6times): 特定空き家指定を防ぐための早期対応ガイド
 - [相続した空き家の固定資産税が6倍になる前に](/guide/souzoku-akiya-koteishisanzei-kaihi): 納付書が届いたら確認すべき3つの手順
 - [空き家固定資産税6倍化の回避策と売却タイミング徹底比較](/guide/akiya-koteishisanzei-6bai-hikaku): 賃貸・寄付・売却の比較表と3,000万円特別控除の適用条件を宅建業者が解説
+- [空き家の固定資産税が払えないとき｜分納・減免・売却・相続放棄の4つの選択肢](/guide/akiya-kotei-shisan-zei-haraenai): 5月納付書が届いて払えない方向けに税負担シミュレーション付きで4選択肢を宅建業者が解説
 - [大阪市の空き家対策と補助金制度](/guide/osaka-akiya-subsidy): 使える支援を宅建業者がまとめ
 - [大阪市の空き家解体費用を区別に比較](/guide/osaka-kaitai-hiyou-kubetsu): 補助金制度と相場を宅建業者が解説
 - [古い家は更地にして売るべき？](/guide/old-house-demolish): 解体費用と判断基準を宅建業者が解説
