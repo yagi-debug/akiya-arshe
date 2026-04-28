@@ -20,9 +20,36 @@ const breadcrumbs = [
   { name: entry.data.title, url: `/guide/${entry.id}` },
 ];
 
-// 関連ガイド（自分以外のガイド記事を取得）
+// 関連ガイド（トピック別スマート選択 — ハブ→スポーク内部リンク強化）
 const allGuides = await getCollection('guide');
-const relatedGuides = allGuides.filter((g) => g.id !== entry.id).slice(0, 3);
+
+const topicMap: Record<string, string[]> = {
+  '事故物件': ['jiko', 'accident', 'shinriteki'],
+  '再建築不可': ['saikenchifu', 'non-rebuildable'],
+  '共有持分': ['kyouyuu', 'joint-ownership', 'dementia-coowner'],
+  '相続アパート': ['souzoku-apart', 'inherited-apartment', 'nyukyosha-apart'],
+  '空き家・固定資産税': ['akiya', 'vacancy', 'vacant', 'koteishisanzei'],
+  '相続': ['souzoku', 'inheritance'],
+  '底地・借地権': ['sokochi', 'shakuchiken'],
+};
+
+const currentTopic = Object.entries(topicMap).find(([, kws]) =>
+  kws.some((kw) => entry.id.includes(kw))
+)?.[0];
+
+const relatedGuides = allGuides
+  .filter((g) => g.id !== entry.id)
+  .sort((a, b) => {
+    if (currentTopic) {
+      const kws = topicMap[currentTopic];
+      const aMatch = kws.some((kw) => a.id.includes(kw));
+      const bMatch = kws.some((kw) => b.id.includes(kw));
+      if (aMatch && !bMatch) return -1;
+      if (!aMatch && bMatch) return 1;
+    }
+    return 0;
+  })
+  .slice(0, 3);
 
 const articleSchema = {
   "@context": "https://schema.org",
@@ -31,12 +58,14 @@ const articleSchema = {
   "description": entry.data.description,
   "author": {
     "@type": "Person",
+    "@id": "https://akiya.arshe-corp.com/about#person",
     "name": "八木 宏樹",
     "url": "https://akiya.arshe-corp.com/about",
     "jobTitle": "代表社員・宅地建物取引士",
     "description": "宅地建物取引士。空き家・相続不動産・訳あり物件の買取を専門とする不動産コンサルタント。",
     "worksFor": {
       "@type": "RealEstateAgent",
+      "@id": "https://akiya.arshe-corp.com/#realestateagent",
       "name": "空き家のミカタ",
       "url": "https://akiya.arshe-corp.com",
     },
@@ -51,6 +80,7 @@ const articleSchema = {
   ...(entry.data.updatedDate ? { "dateModified": entry.data.updatedDate } : {}),
   "publisher": {
     "@type": "Organization",
+    "@id": "https://akiya.arshe-corp.com/#organization",
     "name": "空き家のミカタ",
     "url": "https://akiya.arshe-corp.com",
     "logo": {
@@ -66,6 +96,10 @@ const articleSchema = {
   "mainEntityOfPage": {
     "@type": "WebPage",
     "@id": `https://akiya.arshe-corp.com/guide/${entry.id}`,
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": ["h1", "h2", "blockquote"],
   },
 };
 
