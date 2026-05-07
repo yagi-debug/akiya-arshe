@@ -147,6 +147,8 @@ A. 特定空き家に指定されると住宅用地の特例が解除され、�
 - [空き家の買取｜放置している空き家を現金化する方法](https://akiya.arshe-corp.com/guide/akiya-kaitori): 固定資産税増額リスクを回避する直接買取の方法
 - [空き家の固定資産税が6倍に？特定空き家の条件と回避する方法](https://akiya.arshe-corp.com/guide/vacancy-tax-6times): 特定空き家指定を防ぐための早期対応ガイド
 - [相続した空き家の固定資産税が6倍になる前に](https://akiya.arshe-corp.com/guide/souzoku-akiya-koteishisanzei-kaihi): 納付書が届いたら確認すべき3つの手順
+- [固定資産税の通知書が届いたら確認すべき5つのポイント｜空き家・相続物件の場合【2026年版】](https://akiya.arshe-corp.com/guide/kotei-shisan-zei-tsuchisho-checklist): 5月に届く納税通知書の読み方・住宅用地特例の確認・4.2倍になる条件・2026年度最新減免情報・売却損益分岐シミュレーションを宅建業者が解説
+- [空き家の固定資産税・維持費シミュレーター｜年間コストを無料で自動計算【2026年版】](https://akiya.arshe-corp.com/guide/akiya-koteishisanzei-simulator): 固定資産税・都市計画税・火災保険・修繕費の年間コストを自動試算。特定空家指定後の6倍増額・5年/10年累計コストも計算できる無料ブラウザツール
 - [大阪市の空き家対策と補助金制度](https://akiya.arshe-corp.com/guide/osaka-akiya-subsidy): 解体補助金・相談窓口・空き家バンク情報
 - [大阪市の空き家解体費用を区別に比較](https://akiya.arshe-corp.com/guide/osaka-kaitai-hiyou-kubetsu): 重点対策地区6区の補助金制度と相場を解説
 - [古い家は更地にして売るべき？](https://akiya.arshe-corp.com/guide/old-house-demolish): 解体費用と判断基準を宅建業者が解説
@@ -155,10 +157,12 @@ A. 特定空き家に指定されると住宅用地の特例が解除され、�
 - [相続した農地・山林を手放す方法｜農地法の制約と4つの選択肢](https://akiya.arshe-corp.com/guide/souzoku-nouchi-sanrin-baikyaku): 農地のまま売却・転用・農地バンク・国庫帰属制度の全選択肢を宅建業者が解説
 
 ### 売却ガイド — 相続アパート・マンション
+- [相続アパートを売りたい人の完全ガイド](https://akiya.arshe-corp.com/guide/souzoku-apart-kanzen-guide): 相続手続きの流れ・税金・賃貸継続vs売却比較・タイムライン・よくある失敗例を網羅したハブページ
 - [相続アパートの買取](https://akiya.arshe-corp.com/guide/inherited-apartment-buyout): 築古アパートの収益計算・管理リスク・仲介vs買取比較・買取の流れを宅建業者が解説
 - [相続アパートの買取｜管理できない入居者付きアパートも直接買取](https://akiya.arshe-corp.com/guide/souzoku-apart-kaitori): 全国対応・仲介手数料ゼロ・最短2週間で現金化
 - [相続アパートはいつ売るべき？売却タイミングの判断基準と手順](https://akiya.arshe-corp.com/guide/souzoku-apart-timing): 2024年相続登記義務化の期限・3,000万円特別控除・取得費加算を踏まえた最適な売却時期
 - [相続アパートの維持費シミュレーション](https://akiya.arshe-corp.com/guide/souzoku-apart-cost-simulation): 築30年・8室アパートの固定資産税・修繕費・管理費を10年分試算
+- [相続アパート「売る・貸す・管理委託する」三択を徹底比較](https://akiya.arshe-corp.com/guide/souzoku-apart-baikyaku-vs-chintai-vs-kanri): 10年・20年手取りシミュレーター付きで売却・賃貸継続・管理委託を宅建業者が比較【2026年版】
 - [入居者がいるアパートの売却方法](https://akiya.arshe-corp.com/guide/nyukyosha-apart-baikyaku): 立退き交渉とオーナーチェンジ買取を手残り金額で比較
 - [相続登記の義務化でアパート売却はどう変わる？](https://akiya.arshe-corp.com/guide/souzoku-touki-apart-baikyaku): 2024年4月施行の相続登記義務化がアパートオーナーに与える影響
 - [相続発生から10ヶ月でやること完全タイムライン｜アパート処分の判断ガイド](https://akiya.arshe-corp.com/guide/souzoku-apart-10months-timeline): 相続アパートの処分を月別チェックリストで解説
@@ -180,6 +184,7 @@ A. 特定空き家に指定されると住宅用地の特例が解除され、�
 - [大阪市の不動産｜買取と仲介どっちが得？](https://akiya.arshe-corp.com/guide/osaka-kaitori-vs-chukai): 築年数・立地・物件種別ごとに金額シミュレーション付きで比較
 
 ### 売却ガイド — 相続・登記・法律
+- [遺産分割協議書とは？相続した不動産を売るための書き方と4ステップ手順](https://akiya.arshe-corp.com/guide/isan-bunkatsu-kyougisho-kakikata): 書き方・必要書類・相続人が揉めた時の対処法まで宅建業者が実務の視点で解説
 - [相続登記の義務化はいつから？罰則と3つの対策](https://akiya.arshe-corp.com/guide/inheritance-registry): 2024年4月施行、3年以内未申請で10万円以下の過料
 - [相続登記しないと過料10万円？放置リスクと売却で解決する方法](https://akiya.arshe-corp.com/guide/souzoku-touki-gimuka-karyo): 2027年3月の期限・売却による一括解決の方法
 - [相続登記義務化から2年の実態](https://akiya.arshe-corp.com/guide/souzoku-touki-gimuka-2years): 申請件数・認知度・過料適用状況・2027年3月経過措置期限の最新データ
@@ -225,6 +230,21 @@ A. 特定空き家に指定されると住宅用地の特例が解除され、�
 - [大阪市鶴見区](https://akiya.arshe-corp.com/area/osaka-tsurumi): 鶴見緑地・横堤エリアの最新相場データ
 - [大阪市淀川区](https://akiya.arshe-corp.com/area/osaka-yodogawa): 新大阪・西中島エリアの最新相場データ
 
+### 空き家率上位都道府県（重点対応エリア）
+
+総務省「令和5年住宅・土地統計調査」（2024年公表）による空き家率上位10都道府県を重点対応エリアとして設定。別荘地廃墟・農地付き農家屋敷・農山村空き家など訳あり物件の直接買取に対応。
+
+- [山梨県](https://akiya.arshe-corp.com/area/yamanashi-pref): 空き家率全国1位（21.3%）。別荘地廃墟・農地付き空き家・再建築不可・相続アパートも直接買取
+- [和歌山県](https://akiya.arshe-corp.com/area/wakayama-pref): 空き家率全国2位（20.3%）。紀南地域の農山村空き家・みかん畑付き農地・再建築不可も直接買取
+- [長野県](https://akiya.arshe-corp.com/area/nagano-pref): 空き家率全国3位（19.5%）。別荘地廃墟・農地付き空き家・農山村過疎エリアも直接買取
+- [徳島県](https://akiya.arshe-corp.com/area/tokushima-pref): 空き家率全国4位（18.9%）。南部山間部の過疎空き家・農地付き物件・再建築不可も直接買取
+- [高知県](https://akiya.arshe-corp.com/area/kochi-pref): 空き家率全国5位（18.6%）。集落消滅最前線の農山村空き家・農地付き物件も直接買取
+- [鹿児島県](https://akiya.arshe-corp.com/area/kagoshima-pref): 空き家率17.8%。農地付き空き家・離島物件・相続アパートも直接買取
+- [愛媛県](https://akiya.arshe-corp.com/area/ehime-pref): 空き家率17.5%。みかん畑（段々畑）付き農地・農山村空き家・再建築不可も直接買取
+- [香川県](https://akiya.arshe-corp.com/area/kagawa-pref): 空き家率17.4%。讃岐平野の農地付き農家屋敷・再建築不可・島嶼部も直接買取
+- [山口県](https://akiya.arshe-corp.com/area/yamaguchi-pref): 空き家率17.0%。工業都市周辺の相続アパート・農地付き空き家・再建築不可も直接買取
+- [島根県](https://akiya.arshe-corp.com/area/shimane-pref): 空き家率17.0%。集落消滅寸前の農山村空き家・農地・山林付き物件も直接買取
+
 ### エリア別相場情報 — 全国主要都市
 - [堺市](https://akiya.arshe-corp.com/area/sakai-city): 空き家・相続物件・訳あり不動産も対応。区別の地価動向・空き家増加率
 - [京都市](https://akiya.arshe-corp.com/area/kyoto-city): 空き家・再建築不可・事故物件・共有持分も直接買取
@@ -240,6 +260,12 @@ A. 特定空き家に指定されると住宅用地の特例が解除され、�
 - [岡山市](https://akiya.arshe-corp.com/area/okayama-city): 空き家・再建築不可・事故物件・共有持分も直接買取
 - [熊本市](https://akiya.arshe-corp.com/area/kumamoto-city): 空き家・再建築不可・事故物件・共有持分も直接買取
 - [相模原市](https://akiya.arshe-corp.com/area/sagamihara-city): 空き家・再建築不可・事故物件・共有持分も直接買取
+- [北九州市](https://akiya.arshe-corp.com/area/kitakyushu-city): 空き家・再建築不可・事故物件・共有持分も直接買取
+- [神戸市](https://akiya.arshe-corp.com/area/kobe-city): 空き家・再建築不可・事故物件・共有持分も直接買取
+
+## 用語集
+
+- [訳あり不動産用語集（54語）](https://akiya.arshe-corp.com/glossary): 再建築不可・特定空き家・共有持分・借地権・底地・告知義務・相続登記・固定資産税・路線価・建蔽率・容積率・セットバック・旗竿地・袋地・農地・市街化調整区域・任意売却・競売・オーナーチェンジ・家族信託・成年後見制度・相続土地国庫帰属制度など54語を宅建士が解説。DefinedTermSet Schema・FAQPage Schema実装済み。法的根拠（建築基準法・民法・宅建業法・租税特別措置法等）付き。各用語から関連ガイド記事へのリンクあり。「〇〇とは」系クエリをAI検索エンジンに面で対応。
 
 ## お問い合わせ・無料相談
 - LINE: https://lin.ee/9Fk9EUl（24時間受付）

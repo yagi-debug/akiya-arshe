@@ -1,0 +1,845 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+
+const breadcrumbs = [
+  { name: "ホーム", url: "/" },
+  { name: "訳あり不動産用語集", url: "/glossary" },
+];
+
+const terms = [
+  // === 物件タイプ・状態 ===
+  {
+    id: "saikenchifuka",
+    name: "再建築不可物件",
+    kana: "さいけんちくふかぶっけん",
+    category: "物件タイプ",
+    definition:
+      "現在の建築基準法の接道要件（幅員4m以上の道路に2m以上接すること）を満たしていないため、既存建物を取り壊した後に新しい建物を建てることができない物件。通常物件の50〜70%の価格水準で取引される。",
+    relatedUrl: "/guide/non-rebuildable-property-sale",
+    relatedText: "再建築不可物件の売却方法",
+    source: "建築基準法第43条",
+  },
+  {
+    id: "jikobukken",
+    name: "事故物件",
+    kana: "じこぶっけん",
+    category: "物件タイプ",
+    definition:
+      "過去に人の死（自殺・他殺・孤独死で特殊清掃が必要なケース等）に関する事案が発生した不動産。法律用語では「心理的瑕疵がある物件」と呼ばれる。国土交通省の2021年ガイドラインで告知基準が明確化された。",
+    relatedUrl: "/guide/accident-property-sale",
+    relatedText: "事故物件の売却方法",
+    source: "国土交通省「宅地建物取引業者による人の死の告知に関するガイドライン」（2021年10月）",
+  },
+  {
+    id: "shinritekikashi",
+    name: "心理的瑕疵",
+    kana: "しんりてきかし",
+    category: "物件タイプ",
+    definition:
+      "建物の構造・設備には問題がなくても、その物件にまつわる出来事（死亡事案・近隣の嫌悪施設等）が原因で心理的な抵抗感を与える欠陥のこと。事故物件が代表例。売主には買主への告知義務が生じる。",
+    relatedUrl: "/guide/shinriteki-kashi-kokuchi-gimu",
+    relatedText: "心理的瑕疵と告知義務",
+    source: "宅地建物取引業法第35条・第47条",
+  },
+  {
+    id: "butsuritekikashi",
+    name: "物理的瑕疵",
+    kana: "ぶつりてきかし",
+    category: "物件タイプ",
+    definition:
+      "建物や土地の構造・設備上の欠陥のこと。雨漏り・シロアリ被害・地盤沈下・アスベスト含有等が該当する。売主は既知の物理的瑕疵を買主に告知する義務を負う（契約不適合責任）。",
+    relatedUrl: "/guide/wakeare-bukken-kaitori-nagare",
+    relatedText: "訳あり物件の買取の流れ",
+    source: "民法第562条〜564条（契約不適合責任）",
+  },
+  {
+    id: "akiya",
+    name: "空き家",
+    kana: "あきや",
+    category: "物件タイプ",
+    definition:
+      "居住者がいない住宅。総務省「住宅・土地統計調査」（2023年）によると日本の空き家数は900万戸・空き家率13.8%。放置すると固定資産税の住宅用地特例（1/6軽減）が失われるリスクがある。",
+    relatedUrl: "/guide/vacant-house",
+    relatedText: "空き家をどうする？選択肢ガイド",
+    source: "総務省「住宅・土地統計調査」（2023年）",
+  },
+  {
+    id: "tokuteiakiya",
+    name: "特定空き家",
+    kana: "とくていあきや",
+    category: "物件タイプ",
+    definition:
+      "空家等対策の推進に関する特別措置法に基づき市区町村が指定する、倒壊等の危険・著しく衛生上有害・景観を損なう等の状態にある空き家。指定されると固定資産税の住宅用地特例（1/6軽減）が解除され、最大6倍の固定資産税が課される。",
+    relatedUrl: "/guide/vacancy-tax-6times",
+    relatedText: "特定空き家と固定資産税6倍問題",
+    source: "空家等対策の推進に関する特別措置法（2015年施行・2023年改正）",
+  },
+  {
+    id: "kanrinzenakiya",
+    name: "管理不全空き家",
+    kana: "かんりふぜんあきや",
+    category: "物件タイプ",
+    definition:
+      "2023年の空家特措法改正で創設された区分。特定空き家ほど深刻ではないが、適切な管理が行われず放置すれば特定空き家になるおそれのある空き家。指定されると固定資産税の住宅用地特例の敷地面積1/2を固定資産税の優遇から外す措置（実質2〜3倍化）が適用される。",
+    relatedUrl: "/guide/akiya-kaitori",
+    relatedText: "空き家の買取で現金化する方法",
+    source: "空家等対策の推進に関する特別措置法第13条（2023年12月施行）",
+  },
+  {
+    id: "sokochi",
+    name: "底地",
+    kana: "そこち",
+    category: "物件タイプ",
+    definition:
+      "借地権（第三者が建物を建てるために土地を借りる権利）が設定されている土地の所有権のこと。地代収入はあるが、土地を自由に使用・売却できないため、通常の土地より評価額が低くなる（借地権割合50〜80%の差し引き後が底地割合）。",
+    relatedUrl: "/guide/sokochi-kaitori",
+    relatedText: "底地の買取方法",
+    source: "借地借家法第2条",
+  },
+  {
+    id: "shakuchiken",
+    name: "借地権",
+    kana: "しゃくちけん",
+    category: "物件タイプ",
+    definition:
+      "建物を建てるために他人の土地を借りる権利。普通借地権（旧法は20年・新法は30年以上）と定期借地権に分類される。売却する際は地主の承諾が原則必要で、承諾料として借地権価格の10%程度が相場。",
+    relatedUrl: "/guide/shakuchiken-tatemono-baikyaku",
+    relatedText: "借地権付き建物の売却方法",
+    source: "借地借家法第3条〜第22条",
+  },
+  {
+    id: "kyoyumochibun",
+    name: "共有持分",
+    kana: "きょうゆうもちぶん",
+    category: "物件タイプ",
+    definition:
+      "複数の所有者（共有者）がいる不動産における、各自の権利割合のこと。相続で発生するケースが多い。自分の持分だけを売却することは可能だが、共有者全員の同意がないと不動産全体を売却できない。",
+    relatedUrl: "/guide/kyouyuu-mochibun-kaitori",
+    relatedText: "共有持分の買取方法",
+    source: "民法第249条〜264条",
+  },
+  {
+    id: "hatazaochi",
+    name: "旗竿地",
+    kana: "はたざおち",
+    category: "物件タイプ",
+    definition:
+      "道路から細長い通路部分（竿）を経由して、奥まった場所に広い土地（旗）がある形状の土地。接道義務を満たす場合が多いが、通路部分の幅が2m未満だと再建築不可になる。整形地より20〜30%程度評価が低くなる傾向がある。",
+    relatedUrl: "/guide/non-rebuildable-property-sale",
+    relatedText: "再建築不可物件の売却方法",
+    source: "建築基準法第43条",
+  },
+  {
+    id: "fukurochi",
+    name: "袋地",
+    kana: "ふくろち",
+    category: "物件タイプ",
+    definition:
+      "周囲を他の土地に囲まれ、公道に接していない土地のこと。民法上は囲繞地（いにょうち）に通行権（囲繞地通行権）があるが、通路幅が2m未満では再建築不可となる。売却は難しく、買取専門業者への相談が現実的。",
+    relatedUrl: "/guide/wakeare-bukken-5shu-hikaku",
+    relatedText: "訳あり物件5種類の売却難易度比較",
+    source: "民法第210条〜213条（囲繞地通行権）",
+  },
+  {
+    id: "nouchi",
+    name: "農地",
+    kana: "のうち",
+    category: "物件タイプ",
+    definition:
+      "農業目的に使用される耕地のこと。農地法により売買・転用には農業委員会の許可が必要（市街化区域内は届出のみ）。相続した農地を売却する際は農地のまま農家への売却、または転用許可を得て宅地化するかを選ぶ。",
+    relatedUrl: "/guide/souzoku-nouchi-sanrin-baikyaku",
+    relatedText: "相続した農地・山林を手放す方法",
+    source: "農地法第2条・第3条・第4条・第5条",
+  },
+
+  // === 法律・制度 ===
+  {
+    id: "settodougimu",
+    name: "接道義務",
+    kana: "せつどうぎむ",
+    category: "法律・制度",
+    definition:
+      "建築基準法で定められた、建物の敷地が幅員4m以上の道路に2m以上接しなければならないというルール。これを満たさない土地に建つ建物は再建築不可となる。建築基準法第43条に規定。",
+    relatedUrl: "/guide/non-rebuildable-property-sale",
+    relatedText: "再建築不可物件の売却方法",
+    source: "建築基準法第43条",
+  },
+  {
+    id: "kochiguimu",
+    name: "告知義務",
+    kana: "こくちぎむ",
+    category: "法律・制度",
+    definition:
+      "不動産売買において、売主が買主に物件の重要な欠陥・問題（心理的瑕疵・物理的瑕疵等）を事前に開示する法的義務。違反すると契約解除・損害賠償の請求を受ける可能性がある。",
+    relatedUrl: "/guide/shinriteki-kashi-kokuchi-gimu",
+    relatedText: "告知義務の範囲と方法",
+    source: "宅地建物取引業法第35条・第47条",
+  },
+  {
+    id: "kashitanpo",
+    name: "瑕疵担保責任（契約不適合責任）",
+    kana: "かしたんぽせきにん",
+    category: "法律・制度",
+    definition:
+      "売却した不動産に欠陥（瑕疵）があった場合に売主が負う責任。2020年の民法改正で「契約不適合責任」に名称変更。買取業者への売却では「現況引き渡し・瑕疵担保免責」の条件が一般的で、売主は責任を免れる。",
+    relatedUrl: "/guide/wakeare-bukken-kaitori-nagare",
+    relatedText: "訳あり物件の買取の流れ",
+    source: "民法第562条〜565条（2020年改正）",
+  },
+  {
+    id: "sozokuTouki",
+    name: "相続登記",
+    kana: "そうぞくとうき",
+    category: "法律・制度",
+    definition:
+      "相続によって取得した不動産の名義を被相続人から相続人に変更する登記手続き。2024年4月から義務化され、相続を知った日から3年以内に申請しないと10万円以下の過料が課される。",
+    relatedUrl: "/guide/inheritance-registry",
+    relatedText: "相続登記義務化の内容と対策",
+    source: "不動産登記法第76条の2（2024年4月1日施行）",
+  },
+  {
+    id: "sozokuhouki",
+    name: "相続放棄",
+    kana: "そうぞくほうき",
+    category: "法律・制度",
+    definition:
+      "相続人が家庭裁判所に申述することで、相続する権利・義務を一切放棄すること。相続開始を知った日から原則3ヶ月以内に申述が必要。放棄しても相続財産管理人が選任されるまで管理義務は残る。",
+    relatedUrl: "/guide/inheritance-abandon",
+    relatedText: "相続放棄したら家はどうなる？",
+    source: "民法第915条・第938条",
+  },
+  {
+    id: "isanbunkatsu",
+    name: "遺産分割協議",
+    kana: "いさんぶんかつきょうぎ",
+    category: "法律・制度",
+    definition:
+      "相続人全員が参加して、遺産をどのように分けるかを話し合う手続き。不動産の相続登記・売却には、全相続人が署名・実印を押印した「遺産分割協議書」が必要。一人でも参加しない・同意しない場合は成立しない。",
+    relatedUrl: "/guide/isan-bunkatsu-kyougisho-kakikata",
+    relatedText: "遺産分割協議書の書き方と手順",
+    source: "民法第906条〜907条",
+  },
+  {
+    id: "seinenkoukensedo",
+    name: "成年後見制度",
+    kana: "せいねんこうけんせいど",
+    category: "法律・制度",
+    definition:
+      "認知症・知的障害等で判断能力が低下した人を法的に保護するために、家庭裁判所が後見人を選任する制度。後見人が選任されると、不動産の売却には家庭裁判所の許可が必要になる。手続き開始まで3〜6ヶ月程度かかる。",
+    relatedUrl: "/guide/dementia-house-sale",
+    relatedText: "認知症の親の家を売るには？",
+    source: "民法第7条〜第21条",
+  },
+  {
+    id: "kazokushintaku",
+    name: "家族信託",
+    kana: "かぞくしんたく",
+    category: "法律・制度",
+    definition:
+      "認知症になる前に、自分の財産管理を信頼できる家族に委ねる法的仕組み。信託契約により家族（受託者）が財産を管理・処分できる。成年後見制度より柔軟で費用が抑えられるが、専門家（弁護士・司法書士）への相談が必要。",
+    relatedUrl: "/guide/dementia-house-sale",
+    relatedText: "認知症の親の家を売るには？",
+    source: "信託法第2条",
+  },
+  {
+    id: "akiyatokusoho",
+    name: "空家等対策特別措置法（空き家特措法）",
+    kana: "あきやとくそほう",
+    category: "法律・制度",
+    definition:
+      "2015年に施行され、2023年に改正された空き家対策の法律。市区町村が「特定空き家」と「管理不全空き家」を指定し、勧告・命令・代執行ができる。固定資産税の住宅用地特例の解除も可能になった。",
+    relatedUrl: "/guide/vacancy-tax-6times",
+    relatedText: "特定空き家と固定資産税6倍問題",
+    source: "空家等対策の推進に関する特別措置法（2015年施行・2023年改正）",
+  },
+  {
+    id: "nochihoteikizokuseido",
+    name: "相続土地国庫帰属制度",
+    kana: "そうぞくとちこっこきぞくせいど",
+    category: "法律・制度",
+    definition:
+      "2023年4月に施行された制度。相続や遺贈で取得した不要な土地を一定の審査を経て国に引き渡すことができる。農地・市街地から遠い山林・管理困難な土地が対象。負担金（10年分の管理費相当）の納付が必要。",
+    relatedUrl: "/guide/souzoku-nouchi-sanrin-baikyaku",
+    relatedText: "相続した農地・山林を手放す方法",
+    source: "相続等により取得した土地所有権の国庫への帰属に関する法律（2023年4月27日施行）",
+  },
+  {
+    id: "takkengyoho",
+    name: "宅地建物取引業法（宅建業法）",
+    kana: "たくちたてものとりひきぎょうほう",
+    category: "法律・制度",
+    definition:
+      "不動産取引を規制する法律。宅建業を営む者は免許が必要で、取引には宅建士が関与する義務がある。売主への重要事項説明・告知義務・仲介手数料の上限規制等を定める。",
+    relatedUrl: "/guide/kaitori-gyosha-erabikata-checkpoints",
+    relatedText: "買取業者を選ぶ5つのチェックポイント",
+    source: "宅地建物取引業法（昭和27年法律第176号）",
+  },
+  {
+    id: "ninibaikkaku",
+    name: "任意売却",
+    kana: "にんいばいきゃく",
+    category: "法律・制度",
+    definition:
+      "住宅ローンの返済が困難になった際に、金融機関の同意を得て担保不動産を市場で売却する方法。競売より高値で売れることが多く、近隣への公示もないため秘密を守りやすい。売却後も残債が残る場合は別途交渉が必要。",
+    relatedUrl: "/guide/ninibaikyaku-guide",
+    relatedText: "任意売却とは？住宅ローンが払えないときの売却方法",
+    source: "民事執行法（競売との比較）",
+  },
+  {
+    id: "nochitenyou",
+    name: "農地転用",
+    kana: "のうちてんよう",
+    category: "法律・制度",
+    definition:
+      "農地を住宅地・駐車場等の農業以外の用途に変える手続き。市街化区域内は農業委員会への届出のみ。市街化調整区域や市街化区域外では都道府県知事（4ha超は農林水産大臣）の許可が必要。許可まで1〜3ヶ月程度かかる。",
+    relatedUrl: "/guide/souzoku-nouchi-sanrin-baikyaku",
+    relatedText: "相続した農地・山林を手放す方法",
+    source: "農地法第4条・第5条",
+  },
+
+  // === 税金・費用 ===
+  {
+    id: "koteiShisanZei",
+    name: "固定資産税",
+    kana: "こていしさんぜい",
+    category: "税金・費用",
+    definition:
+      "毎年1月1日時点での土地・建物の所有者に課される市区町村税。税率は固定資産税評価額の1.4%（標準税率）。住宅用地には特例で軽減（200㎡以下の小規模住宅用地は1/6）があるが、特定空き家指定で解除される。",
+    relatedUrl: "/guide/akiya-koteishisanzei-simulator",
+    relatedText: "空き家の固定資産税シミュレーター",
+    source: "地方税法第343条・第349条の3の2",
+  },
+  {
+    id: "toshiKeikakuZei",
+    name: "都市計画税",
+    kana: "としけいかくぜい",
+    category: "税金・費用",
+    definition:
+      "市街化区域内の土地・建物に課される市区町村税。税率は固定資産税評価額の0.3%（上限）。固定資産税と一緒に納付書が届く。小規模住宅用地は1/3に軽減されるが、特定空き家指定で解除される。",
+    relatedUrl: "/guide/akiya-koteishisanzei-simulator",
+    relatedText: "空き家の固定資産税シミュレーター",
+    source: "地方税法第702条",
+  },
+  {
+    id: "jyotoShotokuZei",
+    name: "譲渡所得税",
+    kana: "じょうとしょとくぜい",
+    category: "税金・費用",
+    definition:
+      "不動産を売却したときの利益（譲渡所得）に課される税金。所有期間が5年以下の「短期譲渡所得」は税率39.63%（所得税30.63%・住民税9%）、5年超の「長期譲渡所得」は20.315%（所得税15.315%・住民税5%）。",
+    relatedUrl: "/guide/selling-tax-guide",
+    relatedText: "不動産を売った時の税金の計算方法",
+    source: "所得税法第33条・租税特別措置法第31条・第32条",
+  },
+  {
+    id: "3000mansen",
+    name: "3000万円特別控除",
+    kana: "さんぜんまんえんとくべつこうじょ",
+    category: "税金・費用",
+    definition:
+      "自己居住用の不動産（マイホーム）を売却した場合、譲渡所得から最大3000万円を控除できる特例。相続で取得した空き家の売却でも「空き家の3000万円特別控除」として一定条件（昭和56年5月31日以前建築・相続後3年以内等）で適用可能。",
+    relatedUrl: "/guide/selling-tax-guide",
+    relatedText: "不動産売却の税金と節税対策",
+    source: "租税特別措置法第35条",
+  },
+  {
+    id: "shutokuhikasan",
+    name: "取得費加算",
+    kana: "しゅとくひかさん",
+    category: "税金・費用",
+    definition:
+      "相続で取得した財産を相続から3年10ヶ月以内に売却した場合、支払った相続税の一部を不動産の取得費に加算できる特例。譲渡所得が減少し、譲渡所得税の軽減につながる。相続税が多額だった場合に効果が大きい。",
+    relatedUrl: "/guide/souzoku-apart-timing",
+    relatedText: "相続アパートはいつ売るべき？",
+    source: "租税特別措置法第39条",
+  },
+  {
+    id: "chukaitesuryou",
+    name: "仲介手数料",
+    kana: "ちゅうかいてすうりょう",
+    category: "税金・費用",
+    definition:
+      "不動産を仲介業者を通じて売買したときに業者に支払う報酬。上限は「売買価格×3%+6万円×消費税」（400万円超の場合）。直接買取（買取業者への売却）では仲介手数料は発生しない。2024年7月の法改正で離島・過疎地向けに上限が緩和された。",
+    relatedUrl: "/guide/brokerage-fee-guide",
+    relatedText: "仲介手数料の計算方法と2024年改正",
+    source: "宅地建物取引業法第46条・国土交通省告示",
+  },
+  {
+    id: "torokumenkyo",
+    name: "登録免許税",
+    kana: "とうろくめんきょぜい",
+    category: "税金・費用",
+    definition:
+      "不動産の登記（相続登記・所有権移転登記等）の際に課される国税。相続登記は固定資産税評価額の0.4%、売買による所有権移転は2.0%。自分で登記手続きをする場合は書類取得費等を合わせても司法書士依頼より安くなる場合がある。",
+    relatedUrl: "/guide/souzoku-touki-jibunde-hiyou",
+    relatedText: "相続登記を自分でやる費用",
+    source: "登録免許税法別表第一",
+  },
+  {
+    id: "fudosanshutokuzei",
+    name: "不動産取得税",
+    kana: "ふどうさんしゅとくぜい",
+    category: "税金・費用",
+    definition:
+      "土地・建物を取得（売買・贈与・交換等）したときに都道府県が課す税金。税率は固定資産税評価額の3%（土地・住宅）または4%（非住宅建物）。相続による取得は非課税。",
+    relatedUrl: "/guide/selling-tax-guide",
+    relatedText: "不動産売却の税金ガイド",
+    source: "地方税法第73条の2",
+  },
+
+  // === 売却・取引方法 ===
+  {
+    id: "chokusetsukaitoru",
+    name: "直接買取（買取）",
+    kana: "ちょくせつかいとり",
+    category: "売却・取引方法",
+    definition:
+      "不動産会社が売主から仲介なしに物件を直接購入する取引方法。仲介手数料が不要で、最短数日〜数週間で現金化できる。一般的に仲介での売却額より10〜30%安くなるが、訳あり物件・急ぎの売却では最善策になることが多い。",
+    relatedUrl: "/guide/wakeare-bukken-kaitori-nagare",
+    relatedText: "訳あり物件の買取の流れ・5ステップ",
+    source: null,
+  },
+  {
+    id: "owner-change",
+    name: "オーナーチェンジ",
+    kana: "おーなーちぇんじ",
+    category: "売却・取引方法",
+    definition:
+      "入居者がいる状態（賃貸契約付き）のまま不動産を売却すること。買主は入居者との賃貸契約を引き継ぐ。相続アパートの売却でよく使われる手法で、入居者を退去させる必要がないが、売却価格は実勢より低くなることが多い。",
+    relatedUrl: "/guide/nyukyosha-apart-baikyaku",
+    relatedText: "入居者がいるアパートの売却方法",
+    source: null,
+  },
+  {
+    id: "keibai",
+    name: "競売",
+    kana: "けいばい",
+    category: "売却・取引方法",
+    definition:
+      "住宅ローンの返済不能等で、裁判所が強制的に不動産を売却するプロセス。任意売却と比べ、落札価格が市場価格の50〜70%程度に下落することが多く、手続きが公開されるため近隣に知られる。任意売却での解決が難しい場合の最終手段。",
+    relatedUrl: "/guide/ninibaikyaku-guide",
+    relatedText: "任意売却と競売の違い",
+    source: "民事執行法第45条〜",
+  },
+  {
+    id: "genkyo-hikiwatashi",
+    name: "現況引き渡し",
+    kana: "げんきょうひきわたし",
+    category: "売却・取引方法",
+    definition:
+      "物件の現在の状態（修繕・清掃なし）のまま買主に引き渡すこと。買取業者への売却では「現況引き渡し・瑕疵担保免責」が一般的な条件となる。売主はリフォーム費用や特殊清掃費用をかけずに売却できる。",
+    relatedUrl: "/guide/wakeare-bukken-kaitori-nagare",
+    relatedText: "訳あり物件の買取の流れ",
+    source: null,
+  },
+
+  // === 不動産評価・価格 ===
+  {
+    id: "rojinka",
+    name: "路線価",
+    kana: "ろせんか",
+    category: "不動産評価・価格",
+    definition:
+      "国税庁が毎年7月に公表する、道路（路線）に面した土地の相続税・贈与税計算のための1㎡あたりの評価額。公示地価の80%水準が目安。相続した不動産の評価に使用し、路線価方式（路線価×各種補正率×面積）で計算する。",
+    relatedUrl: "/guide/inheritance-tax-basics",
+    relatedText: "相続税の基礎控除と計算方法",
+    source: "財産評価基本通達（国税庁）",
+  },
+  {
+    id: "kojichika",
+    name: "公示地価",
+    kana: "こうじちか",
+    category: "不動産評価・価格",
+    definition:
+      "国土交通省が毎年3月に公表する、標準地の1㎡あたりの正常価格。一般的な土地取引の指標となる。路線価はこの公示地価の80%水準、固定資産税評価額は70%水準が目安とされる。",
+    relatedUrl: "/guide/appraisal-difference",
+    relatedText: "不動産の査定額はなぜ会社によって違う？",
+    source: "地価公示法第2条（国土交通省）",
+  },
+  {
+    id: "jisseiKakaku",
+    name: "実勢価格",
+    kana: "じっせいかかく",
+    category: "不動産評価・価格",
+    definition:
+      "市場で実際に売買される価格のこと。公示地価や路線価とは異なり、需給バランス・景況・物件の個別事情を反映する。国土交通省の「不動産取引価格情報検索」で実際の取引事例を確認できる。",
+    relatedUrl: "/guide/appraisal-difference",
+    relatedText: "不動産査定額の違いを理解する",
+    source: "国土交通省「不動産取引価格情報検索」",
+  },
+  {
+    id: "koteiShisanHyokagaku",
+    name: "固定資産税評価額",
+    kana: "こていしさんぜいひょうかがく",
+    category: "不動産評価・価格",
+    definition:
+      "市区町村が固定資産税・都市計画税の計算の基準として3年ごとに評価する不動産の価値。公示地価の70%水準が目安。相続登記の登録免許税（評価額×0.4%）や不動産取得税の計算にも使用する。",
+    relatedUrl: "/guide/souzoku-touki-jibunde-hiyou",
+    relatedText: "相続登記の費用シミュレーション",
+    source: "地方税法第381条",
+  },
+  {
+    id: "fudosanKantei",
+    name: "不動産鑑定",
+    kana: "ふどうさんかんてい",
+    category: "不動産評価・価格",
+    definition:
+      "国家資格を持つ不動産鑑定士が、法律（不動産の鑑定評価に関する法律）に基づいて不動産の正常価格を評価すること。裁判・相続税申告・担保評価等に使用される公的な評価。費用は20万〜50万円程度。",
+    relatedUrl: "/guide/appraisal-difference",
+    relatedText: "査定と鑑定の違い",
+    source: "不動産の鑑定評価に関する法律第2条",
+  },
+
+  // === 土地規制・建築 ===
+  {
+    id: "shigaikaKuiki",
+    name: "市街化区域",
+    kana: "しがいかくいき",
+    category: "土地規制・建築",
+    definition:
+      "都市計画法で定められた、すでに市街化が進んでいるか、10年以内に積極的に市街化を図る区域。建築制限が比較的少なく、農地でも農業委員会への届出のみで転用できる。固定資産税・都市計画税が課される。",
+    relatedUrl: "/guide/souzoku-nouchi-sanrin-baikyaku",
+    relatedText: "相続した農地を手放す方法",
+    source: "都市計画法第7条",
+  },
+  {
+    id: "shigaikaChosei",
+    name: "市街化調整区域",
+    kana: "しがいかちょうせいくいき",
+    category: "土地規制・建築",
+    definition:
+      "都市計画法で定められた、市街化を抑制する区域。原則として建物を建てることができず、農地転用も都道府県知事の許可が必要。土地の流動性が低く、売却が難しい。相続した山林・農地がこの区域にある場合は国庫帰属制度の利用も検討すべき。",
+    relatedUrl: "/guide/souzoku-nouchi-sanrin-baikyaku",
+    relatedText: "相続した農地・山林を手放す方法",
+    source: "都市計画法第7条・第43条",
+  },
+  {
+    id: "yoToChiki",
+    name: "用途地域",
+    kana: "ようとちいき",
+    category: "土地規制・建築",
+    definition:
+      "建築物の用途・規模を規制するための地域区分。住居系（第1種低層住居専用地域等8種）・商業系（近隣商業地域・商業地域2種）・工業系（準工業地域・工業地域・工業専用地域3種）の13種類に分類される。",
+    relatedUrl: "/guide/appraisal-difference",
+    relatedText: "不動産査定の違いを理解する",
+    source: "都市計画法第9条・建築基準法第48条",
+  },
+  {
+    id: "kenpeiRitsu",
+    name: "建蔽率",
+    kana: "けんぺいりつ",
+    category: "土地規制・建築",
+    definition:
+      "敷地面積に対する建築面積（建物を真上から見た投影面積）の割合の上限。用途地域ごとに30〜80%が設定されている。角地の場合は10%の緩和がある。この制限により、敷地の一定割合は庭・空地として確保が必要。",
+    relatedUrl: "/guide/non-rebuildable-property-sale",
+    relatedText: "再建築不可物件の売却方法",
+    source: "建築基準法第53条",
+  },
+  {
+    id: "yosekiRitsu",
+    name: "容積率",
+    kana: "ようせきりつ",
+    category: "土地規制・建築",
+    definition:
+      "敷地面積に対する建物の延べ床面積の割合の上限。用途地域ごとに50〜1300%が設定されている。容積率が高いほど、同じ敷地に高い（大きな）建物を建てられる。都市部の商業地域では容積率が高く、土地の価値が高くなる傾向がある。",
+    relatedUrl: "/guide/appraisal-difference",
+    relatedText: "不動産査定の違いを理解する",
+    source: "建築基準法第52条",
+  },
+  {
+    id: "setBack",
+    name: "セットバック",
+    kana: "せっとばっく",
+    category: "土地規制・建築",
+    definition:
+      "幅員4m未満の建築基準法上の「2項道路」（みなし道路）に面した土地で、道路の中心線から2m後退させて道路境界線を確定させる措置。セットバック部分は建物・塀を建てられず、建蔽率・容積率の計算面積にも含められない。",
+    relatedUrl: "/guide/non-rebuildable-property-sale",
+    relatedText: "再建築不可物件の売却方法",
+    source: "建築基準法第42条第2項",
+  },
+
+  // === 権利・登記 ===
+  {
+    id: "shoYuukenIten",
+    name: "所有権移転登記",
+    kana: "しょゆうけんいてんとうき",
+    category: "権利・登記",
+    definition:
+      "不動産の売買・相続・贈与等により所有者が変わった際に、法務局に申請する登記手続き。売買の場合は登録免許税として固定資産税評価額の2.0%が必要。通常は司法書士が代行する。",
+    relatedUrl: "/guide/inheritance-registry",
+    relatedText: "相続登記義務化の内容と対策",
+    source: "不動産登記法第60条",
+  },
+  {
+    id: "teitouken",
+    name: "抵当権",
+    kana: "ていとうけん",
+    category: "権利・登記",
+    definition:
+      "住宅ローン等の融資を受ける際に、不動産を担保として金融機関に設定させる権利。ローン完済後に抹消登記が必要。抵当権が残ったままでは原則として不動産を売却できない。売却時には売却代金でローンを完済して抵当権を抹消するのが一般的。",
+    relatedUrl: "/guide/ninibaikyaku-guide",
+    relatedText: "任意売却とは？",
+    source: "民法第369条〜398条",
+  },
+  {
+    id: "sihouShoshi",
+    name: "司法書士",
+    kana: "しほうしょし",
+    category: "権利・登記",
+    definition:
+      "不動産登記・会社登記・法律文書の作成を専門とする国家資格者。相続登記・抵当権抹消登記・所有権移転登記は司法書士が代行するのが一般的。費用は登記の種類・評価額によって異なり、相続登記の場合は5万〜15万円程度が目安。",
+    relatedUrl: "/guide/souzoku-touki-jibunde-hiyou",
+    relatedText: "相続登記を自分でやる費用と司法書士との比較",
+    source: "司法書士法第3条",
+  },
+];
+
+// Group terms by category
+const categories = [...new Set(terms.map((t) => t.category))];
+
+// DefinedTermSet Schema
+const definedTermSetSchema = {
+  "@context": "https://schema.org",
+  "@type": "DefinedTermSet",
+  "@id": "https://akiya.arshe-corp.com/glossary#termset",
+  "name": "訳あり不動産用語集",
+  "description":
+    "再建築不可・事故物件・相続アパート・共有持分・空き家・借地権・底地など訳あり不動産の売却・相続に必要な専門用語50語以上を宅地建物取引士が解説。",
+  "url": "https://akiya.arshe-corp.com/glossary",
+  "publisher": {
+    "@type": "Organization",
+    "@id": "https://akiya.arshe-corp.com/#organization",
+    "name": "合同会社アルシェ（空き家のミカタ）",
+  },
+  "hasDefinedTerm": terms.map((t) => ({
+    "@type": "DefinedTerm",
+    "@id": `https://akiya.arshe-corp.com/glossary#${t.id}`,
+    "name": t.name,
+    "description": t.definition,
+    "inDefinedTermSet": "https://akiya.arshe-corp.com/glossary#termset",
+  })),
+};
+
+// FAQPage Schema（主要用語のQ&A）
+const faqItems = terms.slice(0, 20).map((t) => ({
+  "@type": "Question",
+  "name": `${t.name}とは何ですか？`,
+  "acceptedAnswer": {
+    "@type": "Answer",
+    "text": t.definition,
+  },
+}));
+
+const faqSchema = {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": faqItems,
+};
+
+// Article Schema
+const articleSchema = {
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "@id": "https://akiya.arshe-corp.com/glossary#article",
+  "headline": "訳あり不動産用語集｜再建築不可・相続・空き家・借地権など54語を宅建士が解説",
+  "description":
+    "訳あり不動産（再建築不可・事故物件・相続アパート・共有持分・空き家等）の売却・相続で必要な専門用語54語を宅地建物取引士が解説。各用語にSchema.org DefinedTermマークアップを付与。",
+  "url": "https://akiya.arshe-corp.com/glossary",
+  "datePublished": "2026-04-29",
+  "dateModified": "2026-04-29",
+  "author": {
+    "@type": "Person",
+    "@id": "https://akiya.arshe-corp.com/about#person",
+    "name": "八木 宏樹",
+    "jobTitle": "宅地建物取引士",
+    "hasCredential": {
+      "@type": "EducationalOccupationalCredential",
+      "name": "宅地建物取引業免許",
+      "identifier": "大阪府知事(1)第65646号",
+    },
+  },
+  "publisher": {
+    "@type": "Organization",
+    "@id": "https://akiya.arshe-corp.com/#organization",
+    "name": "合同会社アルシェ（空き家のミカタ）",
+  },
+};
+
+// Person Schema
+const personSchema = {
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://akiya.arshe-corp.com/about#person",
+  "name": "八木 宏樹",
+  "jobTitle": "宅地建物取引士",
+  "hasCredential": {
+    "@type": "EducationalOccupationalCredential",
+    "name": "宅地建物取引業免許",
+    "identifier": "大阪府知事(1)第65646号",
+  },
+  "worksFor": {
+    "@type": "Organization",
+    "@id": "https://akiya.arshe-corp.com/#organization",
+    "name": "合同会社アルシェ",
+  },
+};
+
+const pageTitle =
+  "訳あり不動産用語集｜再建築不可・相続・空き家・借地権など54語を宅建士が解説";
+const pageDescription =
+  "訳あり不動産（再建築不可・事故物件・相続アパート・共有持分・空き家等）の売却・相続に必要な専門用語54語をDefinedTermスキーマ付きで宅地建物取引士が解説。AI検索エンジンの定義引用に対応。";
+---
+
+<BaseLayout
+  title={pageTitle}
+  description={pageDescription}
+  schema={definedTermSetSchema}
+  faqSchema={faqSchema}
+  breadcrumbs={breadcrumbs}
+>
+  <!-- Article Schema + Person Schema -->
+  <script type="application/ld+json" set:html={JSON.stringify(articleSchema)} />
+  <script type="application/ld+json" set:html={JSON.stringify(personSchema)} />
+
+  <div class="max-w-4xl mx-auto px-4 py-8">
+    <!-- TL;DR ボックス（AI検索引用用） -->
+    <div class="bg-blue-50 border-l-4 border-blue-500 rounded-r-lg p-5 mb-8">
+      <p class="text-sm font-bold text-blue-700 mb-1">TL;DR（結論）</p>
+      <p class="text-blue-900 text-sm leading-relaxed">
+        訳あり不動産の売却・相続で必要な専門用語54語を一覧。再建築不可・特定空き家・共有持分・借地権・底地・告知義務・相続登記など、AI検索エンジンが引用しやすいDefinedTermスキーマ付きで宅地建物取引士が解説。各用語から関連ガイド記事へのリンクあり。
+      </p>
+    </div>
+
+    <!-- H1 + ダイレクトアンサー -->
+    <h1 class="text-2xl md:text-3xl font-bold text-gray-900 mb-4">
+      訳あり不動産用語集｜再建築不可・相続・空き家・借地権など54語を宅建士が解説
+    </h1>
+    <div class="bg-gray-50 border border-gray-200 rounded-lg p-4 mb-8 text-sm">
+      <p class="font-semibold text-gray-700 mb-1">
+        Q: 訳あり不動産の専門用語を簡単に調べるには？
+      </p>
+      <p class="text-gray-600">
+        A:
+        この用語集で54語を解説しています。再建築不可・特定空き家・共有持分・相続登記など、物件売却・相続手続きで必ず出てくる用語を、法的根拠とともに宅建士が解説。各用語のリンク先で詳細を確認できます。
+      </p>
+    </div>
+
+    <!-- カテゴリ索引 -->
+    <nav class="mb-10 bg-white border border-gray-200 rounded-lg p-4">
+      <p class="text-sm font-bold text-gray-600 mb-3">カテゴリで探す</p>
+      <div class="flex flex-wrap gap-2">
+        {
+          categories.map((cat) => (
+            <a
+              href={`#cat-${cat.replace(/[・]/g, "")}`}
+              class="inline-block px-3 py-1 bg-blue-50 text-blue-700 text-sm rounded-full hover:bg-blue-100 transition"
+            >
+              {cat}（{terms.filter((t) => t.category === cat).length}語）
+            </a>
+          ))
+        }
+      </div>
+      <p class="text-xs text-gray-400 mt-3">全{terms.length}語収録</p>
+    </nav>
+
+    <!-- 用語一覧（カテゴリ別） -->
+    {
+      categories.map((cat) => (
+        <section id={`cat-${cat.replace(/[・]/g, "")}`} class="mb-12">
+          <h2 class="text-xl font-bold text-gray-800 border-b-2 border-blue-400 pb-2 mb-6">
+            {cat}
+          </h2>
+          <div class="space-y-6">
+            {terms
+              .filter((t) => t.category === cat)
+              .map((term) => (
+                <article
+                  id={term.id}
+                  class="border border-gray-200 rounded-lg p-5 hover:border-blue-300 transition"
+                  itemscope
+                  itemtype="https://schema.org/DefinedTerm"
+                >
+                  <div class="flex items-start justify-between gap-4 mb-2">
+                    <div>
+                      <h3
+                        class="text-lg font-bold text-gray-900"
+                        itemprop="name"
+                      >
+                        {term.name}
+                      </h3>
+                      <p class="text-xs text-gray-400">{term.kana}</p>
+                    </div>
+                    <span class="flex-shrink-0 text-xs bg-gray-100 text-gray-500 px-2 py-1 rounded">
+                      {term.category}
+                    </span>
+                  </div>
+                  <p
+                    class="text-gray-700 text-sm leading-relaxed mb-3"
+                    itemprop="description"
+                  >
+                    {term.definition}
+                  </p>
+                  <div class="flex flex-wrap gap-3 text-xs">
+                    {term.source && (
+                      <span class="text-gray-400">
+                        <span class="font-semibold">根拠：</span>
+                        {term.source}
+                      </span>
+                    )}
+                    {term.relatedUrl && (
+                      <a
+                        href={term.relatedUrl}
+                        class="text-blue-600 hover:underline font-medium"
+                      >
+                        → {term.relatedText}
+                      </a>
+                    )}
+                  </div>
+                </article>
+              ))}
+          </div>
+        </section>
+      ))
+    }
+
+    <!-- 執筆者情報 -->
+    <div
+      class="mt-12 border-t border-gray-200 pt-8"
+      itemscope
+      itemtype="https://schema.org/Person"
+    >
+      <p class="text-xs text-gray-500 mb-1">執筆・監修</p>
+      <p class="font-bold text-gray-800" itemprop="name">
+        八木 宏樹（やぎ ひろき）
+      </p>
+      <p class="text-sm text-gray-600" itemprop="jobTitle">
+        宅地建物取引士・合同会社アルシェ代表
+      </p>
+      <p class="text-xs text-gray-500 mt-1">
+        宅建業免許：大阪府知事(1)第65646号｜本店：大阪府大阪市生野区小路3-17-19
+      </p>
+      <p class="text-xs text-gray-400 mt-2">
+        最終更新：2026年4月29日｜法令・制度は執筆時点の情報に基づきます。
+      </p>
+    </div>
+
+    <!-- CTA -->
+    <div class="mt-10 bg-orange-50 border border-orange-200 rounded-xl p-6 text-center">
+      <p class="text-lg font-bold text-gray-800 mb-2">
+        「この物件、本当に売れるの？」と思ったら
+      </p>
+      <p class="text-sm text-gray-600 mb-4">
+        用語を調べているだけでは解決しません。宅建士が無料で査定・相談対応します。
+      </p>
+      <a
+        href="/contact"
+        class="inline-block bg-orange-500 text-white font-bold px-8 py-3 rounded-lg hover:bg-orange-600 transition"
+      >
+        無料相談・査定を申し込む
+      </a>
+      <p class="text-xs text-gray-400 mt-2">
+        LINE / 電話 / メール対応。秘密厳守・全国対応。
+      </p>
+    </div>
+  </div>
+</BaseLayout>
