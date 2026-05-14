@@ -202,6 +202,7 @@ A. 特定空き家に指定されると住宅用地の特例が解除され、�
 - [遺産分割協議書とは？相続した不動産を売るための書き方と4ステップ手順](https://akiya.arshe-corp.com/guide/isan-bunkatsu-kyougisho-kakikata): 書き方・必要書類・相続人が揉めた時の対処法まで宅建業者が実務の視点で解説
 - [相続登記の義務化はいつから？罰則と3つの対策](https://akiya.arshe-corp.com/guide/inheritance-registry): 2024年4月施行、3年以内未申請で10万円以下の過料
 - [相続登記しないと過料10万円？放置リスクと売却で解決する方法](https://akiya.arshe-corp.com/guide/souzoku-touki-gimuka-karyo): 2027年3月の期限・売却による一括解決の方法
+- [相続登記を放置したらどうなる？義務化の期限に間に合わない場合の3つの出口](https://akiya.arshe-corp.com/guide/souzoku-touki-houchi-doushitara): 2027年3月31日まで残り約10ヶ月。過料・固定資産税増額・数次相続の3段階リスクと、相続人申告登記・費用捻出・買取一括依頼の3つの解決策
 - [相続登記義務化から2年の実態](https://akiya.arshe-corp.com/guide/souzoku-touki-gimuka-2years): 申請件数・認知度・過料適用状況・2027年3月経過措置期限の最新データ
 - [相続放棄したら家はどうなる？手続きの流れと注意点](https://akiya.arshe-corp.com/guide/inheritance-abandon): 期限・管理責任・注意点を宅建業者がわかりやすく解説
 - [相続放棄の期限（3ヶ月）を過ぎた場合の対処法](https://akiya.arshe-corp.com/guide/souzoku-houki-kigengire): 最高裁判例に基づく期限後の相続放棄が認められるケース
@@ -244,6 +245,16 @@ A. 特定空き家に指定されると住宅用地の特例が解除され、�
 - [大阪市大正区](https://akiya.arshe-corp.com/area/osaka-taisho): 大正駅周辺エリアの最新相場データ
 - [大阪市鶴見区](https://akiya.arshe-corp.com/area/osaka-tsurumi): 鶴見緑地・横堤エリアの最新相場データ
 - [大阪市淀川区](https://akiya.arshe-corp.com/area/osaka-yodogawa): 新大阪・西中島エリアの最新相場データ
+
+### エリア別相場情報 — 大阪市（駅レベルマイクロエリア）
+
+大阪市内の主要駅周辺に特化した買取ガイド。再建築不可・長屋・老朽アパートなど訳あり物件のロングテールクエリに対応。
+
+- [西成区 花園町駅周辺](https://akiya.arshe-corp.com/area/osaka-nishinari-hanazonomachi): 大阪メトロ四つ橋線。老朽長屋・接道不良・再建築不可の買取実績豊富。坪単価55〜90万円
+- [西成区 天下茶屋駅周辺](https://akiya.arshe-corp.com/area/osaka-nishinari-tengachaya): 南海本線・大阪メトロ堺筋線。老朽アパート一棟買取・文化住宅・相続アパート対応。坪単価60〜110万円
+- [生野区 鶴橋駅周辺](https://akiya.arshe-corp.com/area/osaka-ikuno-tsuruhashi): JR環状線・近鉄・地下鉄3路線。コリアンタウン周辺・外国籍相続人が絡む物件も対応。坪単価90〜200万円
+- [平野区 平野駅周辺](https://akiya.arshe-corp.com/area/osaka-hirano-hirano): JR大和路線。旗竿地・築50年超の戸建て・複数相続人の物件も対応。坪単価55〜95万円
+- [東成区 今里駅周辺](https://akiya.arshe-corp.com/area/osaka-higashinari-imazato): 地下鉄千日前線・今里筋線。所在不明相続人が絡む共有持分・接道不良・老朽長屋に対応。坪単価70〜120万円
 
 ### 空き家率上位都道府県（重点対応エリア）
 
