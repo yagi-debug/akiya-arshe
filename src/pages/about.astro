@@ -9,12 +9,14 @@ const breadcrumbs = [
 const personSchema = {
   "@context": "https://schema.org",
   "@type": "Person",
+  "@id": "https://akiya.arshe-corp.com/about#person",
   "name": "八木 宏樹",
   "url": "https://akiya.arshe-corp.com/about",
   "jobTitle": "代表社員・宅地建物取引士",
   "description": "宅地建物取引士。空き家・相続不動産・訳あり物件の買取を専門とする不動産コンサルタント。大阪府知事免許取得。",
   "worksFor": {
     "@type": "RealEstateAgent",
+    "@id": "https://akiya.arshe-corp.com/#realestateagent",
     "name": "空き家のミカタ",
     "url": "https://akiya.arshe-corp.com",
   },
@@ -26,6 +28,9 @@ const personSchema = {
     },
   ],
   "knowsAbout": ["訳あり不動産", "空き家対策", "相続不動産売却", "再建築不可物件", "共有持分", "事故物件"],
+  "sameAs": [
+    "https://note.com/akiyanomikata",
+  ],
 };
 
 const companyInfo = [

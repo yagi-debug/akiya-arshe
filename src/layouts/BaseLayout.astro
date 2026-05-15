@@ -17,9 +17,45 @@ interface Props {
 const { title, description, schema, faqSchema, howToSchema, breadcrumbs } = Astro.props;
 const canonicalURL = new URL(Astro.url.pathname, "https://akiya.arshe-corp.com");
 
+const organizationSchema = {
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "@id": "https://akiya.arshe-corp.com/#organization",
+  "name": "合同会社アルシェ",
+  "alternateName": "空き家のミカタ",
+  "url": "https://akiya.arshe-corp.com",
+  "logo": {
+    "@type": "ImageObject",
+    "url": "https://akiya.arshe-corp.com/favicon.svg",
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "小路3-17-19",
+    "addressLocality": "大阪市生野区",
+    "addressRegion": "大阪府",
+    "postalCode": "544-0002",
+    "addressCountry": "JP",
+  },
+  "hasCredential": {
+    "@type": "EducationalOccupationalCredential",
+    "name": "宅地建物取引業免許",
+    "credentialCategory": "license",
+    "identifier": "大阪府知事 (1) 第65646号",
+  },
+  "member": {
+    "@type": "Person",
+    "@id": "https://akiya.arshe-corp.com/about#person",
+    "name": "八木 宏樹",
+  },
+  "sameAs": [
+    "https://note.com/akiyanomikata",
+  ],
+};
+
 const baseSchema = {
   "@context": "https://schema.org",
   "@type": "RealEstateAgent",
+  "@id": "https://akiya.arshe-corp.com/#realestateagent",
   "name": "空き家のミカタ",
   "url": "https://akiya.arshe-corp.com",
   "address": {
@@ -30,10 +66,18 @@ const baseSchema = {
     "postalCode": "544-0002",
     "addressCountry": "JP",
   },
-  "areaServed": {
-    "@type": "Country",
-    "name": "日本",
-  },
+  "areaServed": [
+    { "@type": "Country", "name": "日本" },
+    { "@type": "City", "name": "東京都", "containedInPlace": { "@type": "Country", "name": "日本" } },
+    { "@type": "City", "name": "大阪市", "containedInPlace": { "@type": "AdministrativeArea", "name": "大阪府" } },
+    { "@type": "City", "name": "名古屋市", "containedInPlace": { "@type": "AdministrativeArea", "name": "愛知県" } },
+    { "@type": "City", "name": "横浜市", "containedInPlace": { "@type": "AdministrativeArea", "name": "神奈川県" } },
+    { "@type": "City", "name": "福岡市", "containedInPlace": { "@type": "AdministrativeArea", "name": "福岡県" } },
+    { "@type": "City", "name": "神戸市", "containedInPlace": { "@type": "AdministrativeArea", "name": "兵庫県" } },
+    { "@type": "City", "name": "京都市", "containedInPlace": { "@type": "AdministrativeArea", "name": "京都府" } },
+    { "@type": "City", "name": "さいたま市", "containedInPlace": { "@type": "AdministrativeArea", "name": "埼玉県" } },
+    { "@type": "City", "name": "川崎市", "containedInPlace": { "@type": "AdministrativeArea", "name": "神奈川県" } },
+  ],
   "hasCredential": {
     "@type": "EducationalOccupationalCredential",
     "name": "宅地建物取引業免許",
@@ -56,6 +100,9 @@ const baseSchema = {
       "credentialCategory": "license",
     },
     "knowsAbout": ["訳あり不動産", "空き家対策", "相続不動産売却", "再建築不可物件", "共有持分"],
+    "sameAs": [
+      "https://note.com/akiyanomikata",
+    ],
   },
   "hasOfferCatalog": {
     "@type": "OfferCatalog",
@@ -108,7 +155,7 @@ const breadcrumbSchema = breadcrumbs && breadcrumbs.length > 0 ? {
   })),
 } : null;
 
-const allSchemas = schema ? [baseSchema, schema] : [baseSchema];
+const allSchemas = schema ? [organizationSchema, baseSchema, schema] : [organizationSchema, baseSchema];
 ---
 
 <!doctype html>
