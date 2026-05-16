@@ -3,6 +3,8 @@ title: "相続アパートを手放したい方へ｜売却の流れ・税金・
 description: "相続したアパートをどうする？大阪市・全国対応の宅建業者が手続きの流れ・相続税・譲渡所得税・仲介vs買取比較を完全解説。10ヶ月タイムライン・フローチャート付き。まず読む1ページ。"
 publishDate: "2026-04-20"
 updatedDate: "2026-05-07"
+cluster: "inheritance"
+isPillar: true
 author: "宅建業者"
 authorName: "八木 宏樹"
 authorTitle: "宅地建物取引士（大阪府知事(1)第65646号）"
@@ -372,6 +374,26 @@ A: 築30年以上・空室率50%以上・旧耐震基準・遠方管理のいず
 執筆・監修：八木 宏樹（宅地建物取引士・大阪府知事(1)第65646号）
 
 ---
+
+## 相続アパート関連ガイド
+
+<div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:1rem;margin:1.5rem 0;">
+  <a href="/guide/souzoku-apart-kaitori" style="display:block;background:#f0f7ff;border:2px solid #1a56db;border-radius:8px;padding:1rem;text-decoration:none;color:#1a3a5c;font-weight:bold;">
+    ▶ 相続アパートの買取（ハブページ）<br><span style="font-size:0.8rem;font-weight:normal;color:#1a56db;">入居者付き・老朽化でも最短2週間で現金化</span>
+  </a>
+  <a href="/guide/souzoku-apart-cost-simulation" style="display:block;background:#f8f9fa;border:1px solid #dee2e6;border-radius:8px;padding:1rem;text-decoration:none;color:#1a3a5c;font-weight:bold;">
+    相続アパートのコストシミュレーション<br><span style="font-size:0.8rem;font-weight:normal;color:#666;">維持費・売却益・税金を試算</span>
+  </a>
+  <a href="/guide/souzoku-apart-timing" style="display:block;background:#f8f9fa;border:1px solid #dee2e6;border-radius:8px;padding:1rem;text-decoration:none;color:#1a3a5c;font-weight:bold;">
+    相続アパートの売却タイミング<br><span style="font-size:0.8rem;font-weight:normal;color:#666;">いつ売るべきか判断基準を解説</span>
+  </a>
+  <a href="/guide/souzoku-apart-baikyaku-vs-chintai-vs-kanri" style="display:block;background:#f8f9fa;border:1px solid #dee2e6;border-radius:8px;padding:1rem;text-decoration:none;color:#1a3a5c;font-weight:bold;">
+    売却vs賃貸継続vs管理委託 比較<br><span style="font-size:0.8rem;font-weight:normal;color:#666;">3択の損得を数字で徹底比較</span>
+  </a>
+  <a href="/guide/akiya-koteishisanzei-simulator" style="display:block;background:#f8f9fa;border:1px solid #dee2e6;border-radius:8px;padding:1rem;text-decoration:none;color:#1a3a5c;font-weight:bold;">
+    固定資産税・維持費シミュレーター<br><span style="font-size:0.8rem;font-weight:normal;color:#666;">アパートの年間維持コストを無料試算</span>
+  </a>
+</div>
 
 ## まとめ：相続アパートは「早めの相談」が最善策
 

@@ -23,7 +23,6 @@ howToSteps:
     text: "訳あり専門の買取業者2社以上＋地域密着型業者1社の組み合わせで、最低3社に査定を依頼する。査定額だけでなく、担当者が根拠を具体的に説明できるかを確認する。"
   - name: "ステップ3：契約書を必ず持ち帰って確認する"
     text: "その場でサインを求められても応じない。「1〜2日持ち帰って確認させてください」と伝え、不利条項（瑕疵担保責任・違約金・解除条件）がないかを確認する。疑問があれば司法書士または弁護士に相談する。"
-cluster: "wakeare"
 ---
 
 <img src="/images/wakeare-kaitori-gyosha-erabikata-7check-hero.jpg" alt="不動産売買の契約書をテーブルで確認するビジネスミーティングの場面　訳あり物件の買取業者を選ぶ際の信頼性確認のイメージ" width="1440" height="810" style="width:100%;height:auto;border-radius:8px;margin-bottom:1.5rem;" />

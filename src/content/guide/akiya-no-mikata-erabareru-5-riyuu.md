@@ -15,6 +15,7 @@ faqs:
     answer: "現在は大阪市24区を中心にご対応しています。大阪市周辺（堺市・東大阪市・豊中市など）の物件についてはご相談ください。物件の状況によっては対応できる場合があります。"
   - question: "相続登記がまだ終わっていない物件でも相談できますか？"
     answer: "はい、ご相談いただけます。相続登記が未完了でも、司法書士との連携により売却を進めることが可能です。「何から手をつければいいかわからない」という状態でも、順を追ってサポートします。"
+cluster: "akiya-tax"
 ---
 
 <img src="/images/akiya-no-mikata-erabareru-5-riyuu-hero.jpg" alt="不動産の専門家と相談する様子　訳あり物件の買取相談" width="1200" height="800" style="width:100%;height:auto;border-radius:8px;margin-bottom:1.5rem;" />

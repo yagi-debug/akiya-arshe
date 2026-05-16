@@ -26,9 +26,14 @@ howToSteps:
     text: "シミュレーション結果を持って、宅建業者（売却査定）・税理士（税金試算）に相談することで、より正確な判断ができます。"
   - name: "方針を決定・実行する"
     text: "売却を選ぶ場合は査定依頼→媒介契約→売却活動→引き渡し。管理委託を選ぶ場合は管理会社選定→委託契約締結。賃貸継続を選ぶ場合は入居者募集・管理体制の見直し。"
+cluster: "inheritance"
 ---
 
 <img src="/images/souzoku-apart-comparison-hero.jpg" alt="相続アパートの外観　売却・賃貸・管理委託の三択比較イメージ" width="1200" height="800" style="width:100%;height:auto;border-radius:8px;margin-bottom:1.5rem;" />
+
+<div style="background:#fff3cd;border-left:4px solid #fd7e14;padding:1rem 1.5rem;margin-bottom:1.5rem;border-radius:4px;">
+<strong>相続アパートを「管理できない」「手放したい」と感じたら：</strong>築30年超・空室率30%以上・遠方管理の物件は、管理委託より早期売却が有利なケースが多いです。買取であれば最短2週間〜1ヶ月で現金化でき、仲介手数料は不要です。まずは無料査定でアパートの売却相場を確認することをおすすめします。
+</div>
 
 相続したアパート、どうするか決められていますか。
 
@@ -326,6 +331,15 @@ document.addEventListener('DOMContentLoaded', calculateSim);
 ・相続登記義務化：2024年4月1日施行（相続を知った日から3年以内）<br>
 ・管理委託費率5〜10%：国土交通省「賃貸住宅管理業務に関するアンケート調査」参考
 </div>
+
+---
+
+## 関連するガイド記事
+
+- [相続アパートを手放したい方へ｜売却の流れ・税金・判断基準の完全ガイド](/guide/souzoku-apart-kanzen-guide)
+- [相続アパートの維持費シミュレーション（固定資産税・修繕費・管理費の10年間コスト）](/guide/souzoku-apart-cost-simulation)
+- [相続アパートの買取｜管理できない入居者付きアパートも直接買取](/guide/souzoku-apart-kaitori)
+- [相続アパートはいつ売るべき？売却タイミングの判断基準](/guide/souzoku-apart-timing)
 
 ---
 

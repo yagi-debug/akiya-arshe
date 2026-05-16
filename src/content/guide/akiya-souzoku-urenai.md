@@ -20,6 +20,7 @@ faqs:
     answer: "①相続登記→②現状確認・査定依頼→③売却方法選択（仲介または買取）→④売買契約→⑤決済・引渡しの5ステップです。2024年4月から相続登記が義務化されており、まず登記から着手してください。"
   - question: "相続した空き家を最短で現金化するにはどうすればいいですか？"
     answer: "買取専門業者への直接売却が最短です。相続登記が完了していれば1〜2週間での現金化も可能です。残置物・老朽化・訳あり物件でも現況のまま対応します。"
+cluster: "akiya-tax"
 ---
 
 <img src="/images/akiya-urenai-hero.jpg" alt="古い日本家屋の外観　相続した空き家のイメージ" width="1200" height="1800" style="width:100%;height:auto;border-radius:8px;margin-bottom:1.5rem;" />

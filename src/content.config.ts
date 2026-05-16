@@ -8,8 +8,8 @@ const guide = defineCollection({
     description: z.string(),
     publishDate: z.string(),
     updatedDate: z.string().optional(),
-    author: z.string().default('宅建業者'),
-    authorTitle: z.string().default(''),
+    author: z.string().default('空き家のミカタ編集部'),
+    authorTitle: z.string().default('宅地建物取引業者（大阪府知事(1)第65646号）'),
     faqs: z.array(z.object({
       question: z.string(),
       answer: z.string(),
@@ -18,6 +18,8 @@ const guide = defineCollection({
       name: z.string(),
       text: z.string(),
     })).optional(),
+    cluster: z.enum(['inheritance', 'non-rebuildable', 'shared-ownership', 'akiya-tax', 'accident']).optional(),
+    isPillar: z.boolean().optional(),
   }),
 });
 

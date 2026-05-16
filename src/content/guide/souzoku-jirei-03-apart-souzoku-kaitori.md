@@ -329,9 +329,11 @@ Cさんのように「相続人が複数いてなかなかまとまらない」�
 
 ---
 
-## 関連するガイド記事
+## この事例で使った売却方法の詳細
 
-- <a href="/guide/souzoku-apart-kanzen-guide">相続アパートを手放したい方へ｜完全ガイド</a>
+Cさんが選んだ「相続アパートのオーナーチェンジ買取」の仕組み・手順・価格の根拠を詳しく解説しているガイド記事です。
+
+- <a href="/guide/souzoku-apart-kanzen-guide">相続アパートを手放したい方へ｜完全ガイド（詳細）</a>
 - <a href="/guide/souzoku-apart-baikyaku-vs-chintai-vs-kanri">相続アパートの売却・賃貸継続・管理委託を比較</a>
 - <a href="/guide/souzoku-apart-timing">相続アパートはいつ売却すべき？タイミングの判断基準</a>
 - <a href="/guide/inherited-apartment-buyout">相続したアパートの買取｜入居者付きでも対応できます</a>

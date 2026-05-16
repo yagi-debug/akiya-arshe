@@ -3,6 +3,8 @@ title: "空き家をどうする？売却・活用・解体の選択肢を宅建
 description: "実家が空き家に…放置するリスク、売却・賃貸・解体それぞれのメリットとデメリット、費用を大阪の宅建業者が解説します。"
 publishDate: "2026-04-02"
 updatedDate: "2026-04-18"
+cluster: "akiya-tax"
+isPillar: true
 author: "宅建業者"
 faqs:
   - question: "空き家を放置し続けると何か問題がありますか？"

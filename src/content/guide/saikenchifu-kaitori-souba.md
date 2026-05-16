@@ -15,6 +15,7 @@ faqs:
     answer: "生野区・東成区・城東区・西成区・旭区など、戦前から住宅が密集していたエリアに多く見られます。幅4m未満の路地に面した土地が多いことが主な原因です。"
   - question: "再建築不可物件でも高く売る方法はありますか？"
     answer: "複数の専門業者に査定を依頼して比較すること、隣地を購入・借用して接道義務をクリアすること、建物の状態が良いうちに売却すること、などが有効です。"
+cluster: "non-rebuildable"
 ---
 
 <img src="/images/saikenchifu-souba-hero.jpg" alt="大阪市内の狭い路地に面した古い住宅　再建築不可物件のイメージ" width="1200" height="1600" style="width:100%;height:auto;border-radius:8px;margin-bottom:1.5rem;" />

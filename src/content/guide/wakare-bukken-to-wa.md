@@ -2,6 +2,7 @@
 title: "訳あり物件とは？5種類の定義・告知義務・売却可否チェックリストを宅建業者が解説【2026年版】"
 description: "訳あり物件（再建築不可・事故物件・共有持分・相続アパート・空き家）の定義・種類・告知義務・売却可否チェックリストを中立的に解説。仲介で断られた方向けに宅建業者が現実的な選択肢を説明します。"
 publishDate: "2026-04-30"
+updatedDate: "2026-05-04"
 author: "宅建業者"
 heroImage: "/images/wakare-bukken-to-wa-hero.jpg"
 faqs:
@@ -15,9 +16,15 @@ faqs:
     answer: "売却は可能ですが、住宅ローンが組めないため一般の買主はほぼつきません。建築基準法上の接道義務（幅員4m以上の道路に2m以上接すること）を満たさない物件は建て替えができないため、買取専門業者への売却が最も現実的です。相場は通常価格の30〜60%程度が目安です。"
   - question: "共有持分だけを売却することはできますか？"
     answer: "法律上は可能です。他の共有者の同意がなくても、自分の持分だけを第三者に売却できます（民法206条）。ただし持分のみを購入する一般の買主はほぼいないため、買取専門業者への売却が現実的です。価格は持分割合に応じた市場価格の30〜50%程度が目安です。"
+cluster: "accident"
 ---
 
 <img src="/images/wakare-bukken-to-wa-hero.jpg" alt="古い木造家屋の外観　訳あり物件の解説イメージ" width="1200" height="800" style="width:100%;height:auto;border-radius:8px;margin-bottom:1.5rem;" />
+
+<div style="background:#fff8e1;border-left:4px solid #f9a825;padding:1rem 1.2rem;margin:1.2rem 0;border-radius:4px;font-size:0.95rem;">
+<strong>【この記事のポイント】</strong><br>
+訳あり物件とは「法律上の問題・心理的問題・管理問題により通常売却が難しい物件」の総称（法的定義なし）。主な5種類：再建築不可・事故物件・共有持分・相続アパート・空き家。事故物件の告知義務（売買）は期間制限なし（国交省2021年10月ガイドライン）。仲介で断られた物件でも直接買取なら現況のまま最短3日で現金化可能。
+</div>
 
 「訳あり物件」という言葉を耳にしたことがあっても、具体的に何を指すのかわからない方は多いものです。「自分の物件は訳ありに当たるのだろうか」「仲介会社に断られたのはなぜだろう」と不安に感じている方もいらっしゃるかもしれません。
 
@@ -212,3 +219,5 @@ faqs:
   <a href="/contact" style="display:inline-block;background:#1a56db;color:white;padding:0.8rem 2rem;border-radius:8px;font-weight:bold;text-decoration:none;">お問い合わせフォームへ</a>
   <p style="margin-top:1rem;font-size:0.9rem;color:#555;">宅建業免許: 大阪府知事(1)第65646号｜合同会社アルシェ<br>秘密厳守・査定無料・全国対応</p>
 </div>
+
+執筆: 八木宏樹（宅地建物取引士・大阪府知事(1)第65646号）｜空き家のミカタ

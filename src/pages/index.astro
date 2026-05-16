@@ -25,11 +25,42 @@ const faqItems = [
     answer: "査定・相談は完全無料です。直接買取のため仲介手数料もかかりません。片付け・残置物もそのままで買い取れます。",
   },
 ];
+
+const homeFaqSchema = {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": faqItems.map((item) => ({
+    "@type": "Question",
+    "name": item.question,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": item.answer,
+    },
+  })),
+};
+
+const homeWebPageSchema = {
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "@id": "https://akiya.arshe-corp.com/#webpage",
+  "name": "訳あり不動産の買取専門｜空き家のミカタ",
+  "url": "https://akiya.arshe-corp.com",
+  "description": "空き家・再建築不可・事故物件・共有持分・相続物件など、訳あり不動産を直接買取。仲介手数料なし・現況買取・最短3日で現金化。全国対応。",
+  "isPartOf": {
+    "@id": "https://akiya.arshe-corp.com/#organization",
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": ["h1", "h2"],
+  },
+};
 ---
 
 <BaseLayout
   title="訳あり不動産の買取専門｜空き家のミカタ"
   description="空き家・再建築不可・事故物件・共有持分・相続物件など、訳あり不動産を直接買取。仲介手数料なし・現況買取・最短3日で現金化。全国対応。"
+  schema={homeWebPageSchema}
+  faqSchema={homeFaqSchema}
 >
   <!-- ファーストビュー -->
   <section class="relative overflow-hidden bg-gradient-to-br from-primary via-primary-light to-primary px-4 py-16 text-white md:py-24">
@@ -182,6 +213,34 @@ const faqItems = [
               <p class="text-sm leading-relaxed text-text-light">{item.desc}</p>
             </div>
           </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- 種類別ガイドセクション -->
+  <section class="bg-bg px-4 py-12 md:py-16">
+    <div class="mx-auto max-w-4xl">
+      <h2 class="mb-2 text-center text-xl font-bold text-primary md:text-2xl">
+        訳あり不動産の種類別ガイド
+      </h2>
+      <p class="mb-8 text-center text-sm text-text-light">お悩みの物件タイプから詳しい解説をご覧ください</p>
+      <div class="grid gap-4 sm:grid-cols-2 md:grid-cols-3">
+        {[
+          { href: "/guide/souzoku-apart-kaitori", label: "相続アパートの買取", desc: "入居者付き・老朽化でも最短2週間で現金化" },
+          { href: "/guide/akiya-kaitori", label: "空き家の買取", desc: "放置空き家を固定資産税ゼロ・即現金化" },
+          { href: "/guide/saikenchifu-kaitori", label: "再建築不可物件の買取", desc: "接道義務違反でも現況のまま買取可能" },
+          { href: "/guide/kyouyuu-mochibun-kaitori", label: "共有持分の買取", desc: "他の共有者の同意不要で持分だけ売却" },
+          { href: "/guide/jiko-bukken-kaitori", label: "事故物件の買取", desc: "告知義務ありでも現況買取・全国対応" },
+          { href: "/guide/akiya-koteishisanzei-simulator", label: "固定資産税シミュレーター", desc: "空き家の年間維持コストを無料試算" },
+        ].map((item) => (
+          <a
+            href={item.href}
+            class="flex flex-col gap-2 rounded-xl border border-border bg-white p-5 shadow-sm transition-all hover:border-accent hover:shadow-md"
+          >
+            <span class="font-bold text-primary">{item.label} →</span>
+            <span class="text-sm leading-relaxed text-text-light">{item.desc}</span>
+          </a>
         ))}
       </div>
     </div>

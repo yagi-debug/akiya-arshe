@@ -3,6 +3,8 @@ title: "再建築不可物件の買取｜建て替えできない家・土地を
 description: "再建築不可物件でも売却できます。建て替えできない土地・家を直接買取で現金化する方法を宅建業者が解説。仲介で売れなかった物件もご相談ください。"
 publishDate: "2026-04-10"
 updatedDate: "2026-05-11"
+cluster: "non-rebuildable"
+isPillar: true
 author: "八木宏樹（宅地建物取引士）"
 authorTitle: "宅地建物取引士・大阪府知事(1)第65646号"
 faqs:

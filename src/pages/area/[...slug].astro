@@ -103,6 +103,25 @@ const areaFaqSchema = {
   ],
 };
 
+const localBusinessSchema = {
+  "@type": "LocalBusiness",
+  "@id": `https://akiya.arshe-corp.com/area/${entry.id}#localbusiness`,
+  "name": "空き家のミカタ",
+  "url": "https://akiya.arshe-corp.com",
+  "parentOrganization": {
+    "@id": "https://akiya.arshe-corp.com/#organization",
+  },
+  "serviceArea": placeSchema,
+  "areaServed": placeSchema,
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": `${entry.data.areaName}での訳あり不動産買取サービス`,
+    "itemListElement": [
+      { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "空き家・訳あり不動産の直接買取" } },
+    ],
+  },
+};
+
 const articleSchema = {
   "@context": "https://schema.org",
   "@graph": [
@@ -115,13 +134,19 @@ const articleSchema = {
       ...(entry.data.updatedDate ? { "dateModified": entry.data.updatedDate } : {}),
       "publisher": {
         "@type": "Organization",
+        "@id": "https://akiya.arshe-corp.com/#organization",
         "name": "空き家のミカタ",
         "url": "https://akiya.arshe-corp.com",
       },
       "about": placeSchema,
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": ["h1", "h2", "blockquote", "table"],
+      },
     },
     realEstateListingSchema,
     placeSchema,
+    localBusinessSchema,
   ],
 };
 ---

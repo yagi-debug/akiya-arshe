@@ -28,6 +28,7 @@ howToSteps:
     text: "相続人全員で遺産分割協議を行い、アパートを誰が相続するか・売却するかを決めます。並行してアパートの査定を依頼し、保有・売却・買取の選択肢を比較検討します。"
   - name: "9〜10ヶ月目：相続税申告・納付と処分実行"
     text: "相続税の申告書を作成し、期限内に税務署へ提出・納付します。小規模宅地等の特例を使う場合は期限内申告が必須です。売却を決めた場合は相続登記に進みます。"
+cluster: "inheritance"
 ---
 
 <img src="/images/souzoku-apart-10months-hero.jpg" alt="相続アパートの外観　10ヶ月タイムラインのイメージ" width="1200" height="800" style="width:100%;height:auto;border-radius:8px;margin-bottom:1.5rem;" />

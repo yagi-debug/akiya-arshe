@@ -19,6 +19,7 @@ faqs:
     answer: "相続放棄をすると、相続人としての権利と義務を放棄できます。ただし相続放棄できるのは相続開始を知った日から3ヶ月以内で、家庭裁判所への申述が必要です。また、相続放棄後も「現に管理している」場合は管理義務が残ります（民法940条）。固定資産税の請求は次の相続人または最終的に国庫に帰属するまで続きます。"
   - question: "空き家を売却した場合、固定資産税はいくら節約できますか？"
     answer: "売却して所有権が移転すると、翌年1月1日時点の所有者でなくなるため、翌年度から固定資産税の支払い義務がなくなります。たとえば固定資産税評価額1,000万円の空き家で特定空き家指定を受けている場合、年間約14万円以上（土地建物合算）の税負担がゼロになります。"
+cluster: "akiya-tax"
 ---
 
 <img src="/images/property-tax-notice-akiya.jpg" alt="固定資産税の納付書。5月頃に届く納税通知書を受け取って困惑している空き家所有者" width="1200" height="800" style="width:100%;height:auto;border-radius:8px;margin-bottom:1.5rem;" />
@@ -185,6 +186,23 @@ faqs:
 はい。築年数・老朽度に関わらず、現況のまま査定します。「古すぎて誰も買わない」と言われた物件でも、対応できるケースがあります。
 
 ---
+
+## 関連するガイド記事
+
+<div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:1rem;margin:1.5rem 0;">
+  <a href="/guide/akiya-koteishisanzei-simulator" style="display:block;background:#f0f7ff;border:2px solid #1a56db;border-radius:8px;padding:1rem;text-decoration:none;color:#1a3a5c;font-weight:bold;">
+    ▶ 固定資産税・維持費シミュレーター（ハブページ）<br><span style="font-size:0.8rem;font-weight:normal;color:#1a56db;">空き家の年間コストを自動計算・無料</span>
+  </a>
+  <a href="/guide/akiya-kaitori" style="display:block;background:#f8f9fa;border:1px solid #dee2e6;border-radius:8px;padding:1rem;text-decoration:none;color:#1a3a5c;font-weight:bold;">
+    空き家の買取｜放置空き家を現金化<br><span style="font-size:0.8rem;font-weight:normal;color:#666;">固定資産税ゼロ・最短1ヶ月で手放せる</span>
+  </a>
+  <a href="/guide/koteishisanzei-haraitsudzukeru-vs-baikyaku" style="display:block;background:#f8f9fa;border:1px solid #dee2e6;border-radius:8px;padding:1rem;text-decoration:none;color:#1a3a5c;font-weight:bold;">
+    固定資産税を払い続けるvs売却<br><span style="font-size:0.8rem;font-weight:normal;color:#666;">10年累計コストで損得を徹底比較</span>
+  </a>
+  <a href="/guide/tokutei-akiya-hantei-checklist" style="display:block;background:#f8f9fa;border:1px solid #dee2e6;border-radius:8px;padding:1rem;text-decoration:none;color:#1a3a5c;font-weight:bold;">
+    特定空家の判定チェックリスト<br><span style="font-size:0.8rem;font-weight:normal;color:#666;">6倍化指定を受けるリスクを自己診断</span>
+  </a>
+</div>
 
 ## まとめ
 

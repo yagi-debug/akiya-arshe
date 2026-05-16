@@ -16,6 +16,7 @@ faqs:
     answer: "同エリアの通常物件の30〜70%が目安です。接道状況・建物の状態・隣地との合筆可能性によって変動します。駅に近いエリアや需要の高い立地では相場が上がります。無料査定を行っていますので、まずはお気軽にご連絡ください。"
   - question: "再建築不可物件を賃貸に出した後でも売却できますか？"
     answer: "売却は可能です。ただし入居者がいる状態（オーナーチェンジ物件）での売却になるため、買い手が限られ、さらに価格が下がる傾向があります。賃貸に出す前の現況売却の方が手取り額が多くなるケースが多いです。"
+cluster: "non-rebuildable"
 ---
 
 <img src="/images/saikenchifu-chintai-risk-hero.jpg" alt="接道幅が狭い旧市街の路地　再建築不可物件のイメージ" width="1200" height="800" style="width:100%;height:auto;border-radius:8px;margin-bottom:1.5rem;" />

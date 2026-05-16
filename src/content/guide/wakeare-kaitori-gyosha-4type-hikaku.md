@@ -26,6 +26,7 @@ howToSteps:
     text: "訳あり専門買取業者2社以上＋地域密着型業者1社の組み合わせで査定を依頼し、金額・対応速度・担当者の対応を比較する。"
   - name: "費用・手数料を書面で確認する"
     text: "「仲介手数料の有無」「その他費用の内訳」を契約前に書面で確認する。直接買取であれば売主側の仲介手数料は発生しない（宅地建物取引業法上の規定）。"
+cluster: "accident"
 ---
 
 <img src="/images/wakeare-kaitori-gyosha-4type-hero.jpg" alt="不動産業者との相談シーン　複数の買取業者を比較検討する様子" width="1200" height="901" style="width:100%;height:auto;border-radius:8px;margin-bottom:1.5rem;" />

@@ -321,9 +321,11 @@ Bさんのように「孤独死の物件を相続した」「仲介に断られ�
 
 ---
 
-## 関連するガイド記事
+## この事例で使った売却方法の詳細
 
-- <a href="/guide/accident-property-sale">事故物件の売却・買取完全ガイド</a>
+Bさんが選んだ「孤独死物件の直接買取」の仕組み・告知義務・手順を詳しく解説しているガイド記事です。
+
+- <a href="/guide/accident-property-sale">事故物件の売却・買取完全ガイド（告知義務・売却相場・手順）</a>
 - <a href="/guide/kaitori-jirei">訳あり不動産の買取事例5選</a>
 - <a href="/guide/souzoku-jirei-01-akiya-3nen">【体験談・事例01】相続した空き家を3年放置したケース</a>
 - <a href="/guide/remote-family-home-sale">遠方の実家を売却する方法</a>

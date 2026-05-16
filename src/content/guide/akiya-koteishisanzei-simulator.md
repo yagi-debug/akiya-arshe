@@ -18,6 +18,7 @@ faqs:
     answer: "固定資産税は毎年1月1日時点の所有者（固定資産課税台帳に登録された人）に課税されます。市区町村から4〜6月頃に納税通知書が届き、年4回に分けて支払います（1期：4〜6月、2期：7〜9月、3期：11月、4期：1〜2月）。自治体によって納期が異なるため、通知書でご確認ください。相続が発生した場合は、相続登記が完了するまで旧名義での課税が続くことがあります。"
   - question: "空き家を売却したら固定資産税はどうなりますか？"
     answer: "売却して所有権が移転した翌年度から、あなたへの課税はなくなります。ただし1月1日時点での所有者に課税されるため、年の途中で売却した場合、その年の固定資産税はあなたが全額負担します（売買契約で引き渡し以降分を買主と日割り精算する慣行があります）。売却によって固定資産税・都市計画税・火災保険・修繕費のすべての維持コストから解放されます。"
+cluster: "akiya-tax"
 ---
 
 <img src="/images/property-tax-options-calculator.jpg" alt="空き家の固定資産税を計算する電卓と税務書類　維持費シミュレーションのイメージ" width="1200" height="800" style="width:100%;height:auto;border-radius:8px;margin-bottom:1.5rem;" />
@@ -417,6 +418,31 @@ function calcAkiyaSim() {
 まずはこのシミュレーターで年間コストと10年累計を把握し、「売却」「賃貸」「解体後土地として活用」のどの選択肢が有利か、試算してみてください。
 
 ---
+
+---
+
+## 関連するガイド記事
+
+<div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:1rem;margin:1.5rem 0;">
+  <a href="/guide/akiya-kaitori" style="display:block;background:#f8f9fa;border:1px solid #dee2e6;border-radius:8px;padding:1rem;text-decoration:none;color:#1a3a5c;font-weight:bold;">
+    空き家の買取｜放置空き家を現金化<br><span style="font-size:0.8rem;font-weight:normal;color:#666;">固定資産税ゼロ・最短1ヶ月で手放せる</span>
+  </a>
+  <a href="/guide/akiya-kotei-shisan-zei-haraenai" style="display:block;background:#f8f9fa;border:1px solid #dee2e6;border-radius:8px;padding:1rem;text-decoration:none;color:#1a3a5c;font-weight:bold;">
+    空き家の固定資産税が払えない場合<br><span style="font-size:0.8rem;font-weight:normal;color:#666;">滞納リスクと3つの対処法</span>
+  </a>
+  <a href="/guide/akiya-koteishisanzei-6bai-hikaku" style="display:block;background:#f8f9fa;border:1px solid #dee2e6;border-radius:8px;padding:1rem;text-decoration:none;color:#1a3a5c;font-weight:bold;">
+    固定資産税6倍化の詳細比較<br><span style="font-size:0.8rem;font-weight:normal;color:#666;">特定空家・管理不全空家の税額シミュレーション</span>
+  </a>
+  <a href="/guide/koteishisanzei-haraitsudzukeru-vs-baikyaku" style="display:block;background:#f8f9fa;border:1px solid #dee2e6;border-radius:8px;padding:1rem;text-decoration:none;color:#1a3a5c;font-weight:bold;">
+    固定資産税を払い続けるvs売却<br><span style="font-size:0.8rem;font-weight:normal;color:#666;">10年累計コストで損得を徹底比較</span>
+  </a>
+  <a href="/guide/tokutei-akiya-hantei-checklist" style="display:block;background:#f8f9fa;border:1px solid #dee2e6;border-radius:8px;padding:1rem;text-decoration:none;color:#1a3a5c;font-weight:bold;">
+    特定空家の判定チェックリスト<br><span style="font-size:0.8rem;font-weight:normal;color:#666;">指定される前に自己診断できるチェック表</span>
+  </a>
+  <a href="/guide/akiya-shobun-5-hikaku" style="display:block;background:#f8f9fa;border:1px solid #dee2e6;border-radius:8px;padding:1rem;text-decoration:none;color:#1a3a5c;font-weight:bold;">
+    空き家処分5方法の比較<br><span style="font-size:0.8rem;font-weight:normal;color:#666;">売却・賃貸・解体・寄附・空き家バンクを比較</span>
+  </a>
+</div>
 
 <div style="background:#f0f7ff;border:2px solid #1a56db;border-radius:8px;padding:1.5rem;margin:2rem 0;">
   <h3 style="margin-top:0;font-size:1.1rem;font-weight:bold;color:#1a56db;">空き家の維持コストでお悩みの方へ｜無料相談受付中</h3>

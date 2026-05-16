@@ -15,6 +15,7 @@ faqs:
     answer: "買取専門業者であれば、書類が不完全な状態でも査定を開始できます。登記情報の確認などは業者側で代行できることも多いため、まずはご相談ください。"
   - question: "訳あり物件の売却で最も多い失敗パターンは何ですか？"
     answer: "「仲介業者に何社も断られた後、時間を無駄にしてから買取に辿り着く」というパターンが最も多いです。訳あり物件は最初から買取専門業者に相談することで、時間と手間を大幅に節約できます。"
+cluster: "accident"
 ---
 
 <img src="/images/wakeari-type-kaitori-hikaku-hero.jpg" alt="不動産の鍵・書類・住宅模型が並ぶ比較イメージ　訳あり物件タイプ別比較" width="1200" height="800" style="width:100%;height:auto;border-radius:8px;margin-bottom:1.5rem;" />

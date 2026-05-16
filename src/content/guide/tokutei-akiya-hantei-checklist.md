@@ -27,6 +27,7 @@ howToSteps:
     text: "一度改善しても管理を怠ると再び特定空き家の要件に該当します。地元の管理会社・シルバー人材センター等に定期管理（草刈り・清掃・点検）を依頼することで、継続的な状態維持が可能です。遠方在住の方にとって費用はかかりますが、固定資産税が6倍になる場合の追加税負担と比較して判断することが重要です。"
   - name: "改善が費用対効果に合わない場合は売却・買取を検討する"
     text: "修繕・管理費用が継続的にかかる老朽化物件や、管理負担が大きい遠方物件については、売却・買取を検討することも有効な選択肢です。特定空き家に指定されると固定資産税の負担が増大するだけでなく、行政代執行（解体費用は所有者負担）のリスクもあります。訳あり物件の直接買取業者であれば、現況のまま（修繕なし）で査定・購入する場合があります。"
+cluster: "akiya-tax"
 ---
 
 <img src="/images/tokutei-akiya-hantei-hero.jpg" alt="老朽化した空き家の外観。特定空き家に指定されると固定資産税が6倍になるリスクがある" width="1200" height="800" style="width:100%;height:auto;border-radius:8px;margin-bottom:1.5rem;" />
@@ -229,6 +230,7 @@ howToSteps:
 </div>
 
 関連記事もあわせてご確認ください：
+- <a href="/guide/souzoku-apart-kanzen-guide">相続アパートを手放したい方へ｜売却の流れ・税金・判断基準の完全ガイド</a>
 - <a href="/guide/akiya-koteishisanzei-6bai-hikaku">空き家固定資産税6倍化の回避策と売却タイミング比較</a>
 - <a href="/guide/akiya-kotei-shisan-zei-haraenai">固定資産税が払えないとき｜4つの選択肢と対応方法</a>
 - <a href="/guide/kotei-shisan-zei-tsuchisho-checklist">固定資産税の通知書が届いたら確認すべき5つのポイント</a>

@@ -30,6 +30,7 @@ howToSteps:
     text: "前年の通知書と今年の税額を照合。10%以上増加している場合は評価替えまたは特例外れの可能性があり、自治体への問い合わせが必要です。"
   - name: "STEP5：シミュレーターで10年保有コストvs売却手取りを試算"
     text: "年間税額・管理費・物件の現況から10年コストを計算し、買取価格との比較で「今売るべきか」を数字で判断します。"
+cluster: "akiya-tax"
 ---
 
 <img src="/images/koteishisanzei-nousho-5suu-hero.jpg" alt="固定資産税の納付書と課税明細書を確認する場面。5つの数字の読み方を空き家オーナー向けに解説" width="1200" height="800" style="width:100%;height:auto;border-radius:8px;margin-bottom:1.5rem;" />

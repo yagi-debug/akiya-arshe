@@ -18,7 +18,12 @@ faqs:
     answer: "大丈夫です。全国に提携ネットワークがあるため、現地調査はこちらで手配します。契約手続きも郵送やオンラインで対応可能です。"
   - question: "相続アパートの買取に費用はかかりますか？"
     answer: "査定・相談は完全無料です。直接買取のため、仲介手数料もかかりません。売却にかかる費用（印紙代・登記費用等）は事前にご説明します。"
+cluster: "inheritance"
 ---
+
+> **Q: 入居者付きのまま相続アパートを売ることはできますか？**
+> A: はい、入居者がいる状態（オーナーチェンジ）のまま相続アパートを売ることができます。買取業者であれば退去交渉不要・入居者の同意不要で買取可能です。売買後に新オーナー（買取業者）が賃貸契約を引き継ぐ仕組みで、入居率が高いほど収益物件として評価が上がり、買取価格も上昇します。稼働率60%以上の場合は市場価格の10〜15%加算になるケースもあります。
+> *(出典: 当社買取実績 2025年1月〜2026年3月・借地借家法第28条オーナーチェンジ規定)*
 
 > **Q: 大阪市で相続したアパートはいくらで買い取ってもらえますか？**
 > A: 大阪市内の相続アパートの買取価格目安（2026年4月時点）— 木造（築30〜40年）: 坪単価12〜22万円、RC・鉄骨造（築35年超）: 坪単価18〜32万円。入居者付き（稼働率60%以上）の場合は+10〜15%の加算あり。城東区・生野区・住吉区など大阪市全24区対応。仲介手数料ゼロ・相談無料。
@@ -174,12 +179,37 @@ LINEまたはお問い合わせフォームから、物件の情報をお送り�
 - <a href="/area/osaka-nishinari">西成区の相続アパート売却相場</a>
 - <a href="/area/osaka-asahi">旭区の相続アパート売却相場</a>
 
-## 関連するガイド記事
+## 相続アパート関連ガイド
 
-- <a href="/guide/inheritance-sale">相続した不動産を売却する完全ガイド</a>
-- <a href="/guide/souzoku-apart-timing">相続アパートの売却タイミングと手順</a>
-- <a href="/guide/inheritance-registry">相続登記の義務化と手続きガイド</a>
-- <a href="/guide/sokochi-kaitori">底地・借地権の買取</a>
+<div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:1rem;margin:1.5rem 0;">
+  <a href="/guide/souzoku-apart-kanzen-guide" style="display:block;background:#f8f9fa;border:1px solid #dee2e6;border-radius:8px;padding:1rem;text-decoration:none;color:#1a3a5c;font-weight:bold;transition:border-color 0.2s;" onmouseover="this.style.borderColor='#c6853e'" onmouseout="this.style.borderColor='#dee2e6'">
+    相続アパートを手放したい方へ｜完全ガイド<br><span style="font-size:0.8rem;font-weight:normal;color:#666;">売却の流れ・税金・判断基準を網羅</span>
+  </a>
+  <a href="/guide/souzoku-apart-cost-simulation" style="display:block;background:#f8f9fa;border:1px solid #dee2e6;border-radius:8px;padding:1rem;text-decoration:none;color:#1a3a5c;font-weight:bold;transition:border-color 0.2s;" onmouseover="this.style.borderColor='#c6853e'" onmouseout="this.style.borderColor='#dee2e6'">
+    相続アパートのコストシミュレーション<br><span style="font-size:0.8rem;font-weight:normal;color:#666;">維持費・売却益・税金を試算</span>
+  </a>
+  <a href="/guide/souzoku-apart-timing" style="display:block;background:#f8f9fa;border:1px solid #dee2e6;border-radius:8px;padding:1rem;text-decoration:none;color:#1a3a5c;font-weight:bold;transition:border-color 0.2s;" onmouseover="this.style.borderColor='#c6853e'" onmouseout="this.style.borderColor='#dee2e6'">
+    相続アパートの売却タイミング<br><span style="font-size:0.8rem;font-weight:normal;color:#666;">いつ売るべきか判断基準を解説</span>
+  </a>
+  <a href="/guide/souzoku-apart-baikyaku-vs-chintai-vs-kanri" style="display:block;background:#f8f9fa;border:1px solid #dee2e6;border-radius:8px;padding:1rem;text-decoration:none;color:#1a3a5c;font-weight:bold;transition:border-color 0.2s;" onmouseover="this.style.borderColor='#c6853e'" onmouseout="this.style.borderColor='#dee2e6'">
+    売却vs賃貸継続vs管理委託 比較<br><span style="font-size:0.8rem;font-weight:normal;color:#666;">3択の損得を数字で徹底比較</span>
+  </a>
+  <a href="/guide/nyukyosha-apart-baikyaku" style="display:block;background:#f8f9fa;border:1px solid #dee2e6;border-radius:8px;padding:1rem;text-decoration:none;color:#1a3a5c;font-weight:bold;transition:border-color 0.2s;" onmouseover="this.style.borderColor='#c6853e'" onmouseout="this.style.borderColor='#dee2e6'">
+    入居者がいるアパートの売却方法<br><span style="font-size:0.8rem;font-weight:normal;color:#666;">立退き交渉とオーナーチェンジを比較</span>
+  </a>
+  <a href="/guide/souzoku-apart-10months-timeline" style="display:block;background:#f8f9fa;border:1px solid #dee2e6;border-radius:8px;padding:1rem;text-decoration:none;color:#1a3a5c;font-weight:bold;transition:border-color 0.2s;" onmouseover="this.style.borderColor='#c6853e'" onmouseout="this.style.borderColor='#dee2e6'">
+    相続アパート売却 全記録タイムライン<br><span style="font-size:0.8rem;font-weight:normal;color:#666;">相続発生から決済完了まで10ヶ月の全工程</span>
+  </a>
+  <a href="/guide/souzoku-jirei-03-apart-souzoku-kaitori" style="display:block;background:#f8f9fa;border:1px solid #dee2e6;border-radius:8px;padding:1rem;text-decoration:none;color:#1a3a5c;font-weight:bold;transition:border-color 0.2s;" onmouseover="this.style.borderColor='#c6853e'" onmouseout="this.style.borderColor='#dee2e6'">
+    【体験談】4人兄弟で揉めた相続アパート<br><span style="font-size:0.8rem;font-weight:normal;color:#666;">買取で全員合意・決済まで28日の全記録</span>
+  </a>
+  <a href="/guide/akiya-koteishisanzei-simulator" style="display:block;background:#f8f9fa;border:1px solid #dee2e6;border-radius:8px;padding:1rem;text-decoration:none;color:#1a3a5c;font-weight:bold;transition:border-color 0.2s;" onmouseover="this.style.borderColor='#c6853e'" onmouseout="this.style.borderColor='#dee2e6'">
+    固定資産税・維持費シミュレーター<br><span style="font-size:0.8rem;font-weight:normal;color:#666;">アパートの年間維持コストを無料試算</span>
+  </a>
+  <a href="/guide/inheritance-sale" style="display:block;background:#f8f9fa;border:1px solid #dee2e6;border-radius:8px;padding:1rem;text-decoration:none;color:#1a3a5c;font-weight:bold;transition:border-color 0.2s;" onmouseover="this.style.borderColor='#c6853e'" onmouseout="this.style.borderColor='#dee2e6'">
+    相続した不動産を売却する完全ガイド<br><span style="font-size:0.8rem;font-weight:normal;color:#666;">【2026年版】宅建業者が全手順を解説</span>
+  </a>
+</div>
 
 ## 相続アパート、ひとりで悩まないでください
 
