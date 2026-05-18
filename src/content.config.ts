@@ -18,7 +18,7 @@ const guide = defineCollection({
       name: z.string(),
       text: z.string(),
     })).optional(),
-    cluster: z.enum(['inheritance', 'non-rebuildable', 'shared-ownership', 'akiya-tax', 'accident']).optional(),
+    cluster: z.enum(['inheritance', 'non-rebuildable', 'shared-ownership', 'akiya-tax', 'accident', 'wakeari']).optional(),
     isPillar: z.boolean().optional(),
   }),
 });
