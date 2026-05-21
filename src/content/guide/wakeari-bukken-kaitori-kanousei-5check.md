@@ -25,7 +25,7 @@ howToSteps:
     text: "一般の仲介業者ではなく、訳あり物件の買取実績がある専門業者に相談します。最低2〜3社に問い合わせて査定額と対応を比較することで、適正価格かどうかを判断できます。"
   - name: "ステップ4：査定書・契約書を必ず確認してから署名する"
     text: "口頭での説明だけでなく、書面（査定書・売買契約書）で条件を確認します。「今日中に決めないと価格が変わる」などのプレッシャーをかける業者は要注意です。必ず持ち帰って内容を確認する時間をもらいましょう。"
-cluster: "wakeare"
+cluster: "wakeari"
 ---
 
 <img src="/images/wakeari-kaitori-shindan-hero.jpg" alt="不動産の鍵と書類が並ぶ査定イメージ　訳あり物件の買取可否を5つの条件で判断するチェックリスト" width="1200" height="800" style="width:100%;height:auto;border-radius:8px;margin-bottom:1.5rem;" />
