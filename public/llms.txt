@@ -27,6 +27,7 @@
 - [相続した不動産の売り方 完全ガイド2026年版](/guide/souzoku-fudousan-urikata-kanzen-guide): 相続登記から引き渡しまで7ステップの実務手順・費用早見表・仲介vs買取の判断基準を買取業者の視点で解説。BreadcrumbList+Article+FAQPage+HowTo 4重Schema対応
 - [相続した不動産を売却する完全ガイド](/guide/inheritance-sale): 相続登記から売却完了までの全手順を宅建士が解説
 - [相続から売却完了までのタイムライン](/guide/inheritance-sale-timeline): 期限つきタイムラインで全手順を解説（7日・3ヶ月・4ヶ月・10ヶ月・3年）
+- [相続した家 どうすればいい？完全ハブガイド｜フローチャートで選択肢を整理【2026年版】](/guide/souzoku-ie-doushitara-hub): 「相続した家をどうすればいいかわからない」方向けの完全ハブページ。住む・貸す・売るをSVGフローチャートと費用比較表で整理。訳あり物件ケース・3000万円特別控除期限・相続登記義務化・関連記事ハブ。HowTo Schema+FAQPage Schema対応
 - [相続した家はどうすればいい？4つの選択肢と判断基準](/guide/souzoku-ie-doushitara): 売る・貸す・住む・放置の比較、固定資産税6倍リスク、3000万円特別控除の解説
 - [相続した家、何から手をつければいい？7ステップ・チェックリスト【2026年版】](/guide/souzoku-ie-nani-kara): 死亡届から相続登記・売却まで7ステップとYes/No状況チェック。相続放棄3ヶ月・相続税10ヶ月・登記3年の期限一覧。HowToSchema対応
 - [空き家をどうする？選択肢ガイド](/guide/vacant-house): 売却・賃貸・解体の比較と費用
