@@ -37,7 +37,7 @@ cluster: "akiya-tax"
 - **解体するにもお金がかかる**。どうすればいいかわからない
 - 近隣から**苦情が来ている**。管理できない
 
-空き家を持ち続けるストレスは、想像以上に大きいものです。「いつかなんとかしよう」と思いながら、何年も経ってしまう方は少なくありません。
+空き家を持ち続けるストレスは、想像以上に大きいものです。「いつかなんとかしよう」と思いながら、何年も経ってしまう方は少なくありません。<a href="/area/osaka-pref">大阪府</a>をはじめ<a href="/area/tokyo-city">東京</a>・<a href="/area/fukuoka-city">福岡</a>・<a href="/area/sapporo-city">札幌</a>など、全国各地からご相談をいただいています。
 
 ## 空き家を放置するリスク
 
@@ -147,9 +147,13 @@ LINEまたはお問い合わせフォームから、空き家の住所と「だ�
 
 ## 関連エリアの売却相場
 
+- <a href="/area/osaka-pref">大阪府の空き家買取・売却相場</a>
+- <a href="/area/osaka-kita">北区の空き家売却相場</a>
+- <a href="/area/osaka-chuo">中央区の空き家売却相場</a>
 - <a href="/area/osaka-hirano">平野区の空き家売却相場</a>
 - <a href="/area/osaka-nishinari">西成区の空き家売却相場</a>
 - <a href="/area/osaka-higashinari">東成区の空き家売却相場</a>
+- <a href="/area/osaka-ikuno">生野区の空き家売却相場</a>
 - <a href="/area/osaka-taisho">大正区の空き家売却相場</a>
 - <a href="/area/osaka-nishiyodogawa">西淀川区の空き家売却相場</a>
 - <a href="/area/osaka-sumiyoshi">住吉区の空き家売却相場</a>
