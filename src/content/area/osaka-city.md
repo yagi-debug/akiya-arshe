@@ -7,7 +7,8 @@ avgPricePerSqm: 350000
 population: 2750000
 publishDate: "2026-05-07"
 updatedDate: "2026-05-07"
-author: "宅建業者"
+author: "八木宏樹（宅地建物取引士）"
+authorTitle: "宅地建物取引士・大阪府知事(1)第65646号"
 heroImage: "/images/osaka-city-hero.jpg"
 ---
 

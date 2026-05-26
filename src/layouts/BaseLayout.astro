@@ -24,6 +24,8 @@ const organizationSchema = {
   "name": "合同会社アルシェ",
   "alternateName": "空き家のミカタ",
   "url": "https://akiya.arshe-corp.com",
+  "telephone": "+81-6-7509-5696",
+  "email": "info.arshe@arshe-corp.com",
   "logo": {
     "@type": "ImageObject",
     "url": "https://akiya.arshe-corp.com/favicon.svg",
@@ -42,6 +44,28 @@ const organizationSchema = {
     "credentialCategory": "license",
     "identifier": "大阪府知事 (1) 第65646号",
   },
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "customer service",
+      "telephone": "+81-6-7509-5696",
+      "email": "info.arshe@arshe-corp.com",
+      "areaServed": "JP",
+      "availableLanguage": "Japanese",
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "customer service",
+      "url": "https://lin.ee/9Fk9EUl",
+      "areaServed": "JP",
+      "availableLanguage": "Japanese",
+    },
+  ],
+  "founder": {
+    "@type": "Person",
+    "@id": "https://akiya.arshe-corp.com/about#person",
+    "name": "八木 宏樹",
+  },
   "member": {
     "@type": "Person",
     "@id": "https://akiya.arshe-corp.com/about#person",
@@ -49,6 +73,7 @@ const organizationSchema = {
   },
   "sameAs": [
     "https://note.com/akiyanomikata",
+    "https://arshe1719.hatenablog.com",
   ],
 };
 
@@ -58,6 +83,29 @@ const baseSchema = {
   "@id": "https://akiya.arshe-corp.com/#realestateagent",
   "name": "空き家のミカタ",
   "url": "https://akiya.arshe-corp.com",
+  "telephone": "+81-6-7509-5696",
+  "email": "info.arshe@arshe-corp.com",
+  "parentOrganization": {
+    "@type": "Organization",
+    "@id": "https://akiya.arshe-corp.com/#organization",
+  },
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "customer service",
+      "telephone": "+81-6-7509-5696",
+      "email": "info.arshe@arshe-corp.com",
+      "areaServed": "JP",
+      "availableLanguage": "Japanese",
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "customer service",
+      "url": "https://lin.ee/9Fk9EUl",
+      "areaServed": "JP",
+      "availableLanguage": "Japanese",
+    },
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "小路3-17-19",
@@ -90,18 +138,31 @@ const baseSchema = {
   },
   "employee": {
     "@type": "Person",
+    "@id": "https://akiya.arshe-corp.com/about#person",
     "name": "八木 宏樹",
-    "url": "https://akiya.arshe-corp.com/about",
+    "url": "https://akiya.arshe-corp.com/about/",
     "jobTitle": "代表社員・宅地建物取引士",
-    "description": "宅地建物取引士。空き家・相続不動産・訳あり物件の買取を専門とする不動産コンサルタント。",
+    "description": "宅地建物取引士（大阪府知事(1)第65646号）。合同会社アルシェ代表。空き家・相続アパート・再建築不可・事故物件・共有持分など訳あり不動産の直接買取専門家。「どこにも断られた物件」を全国対応で現金買取。",
+    "telephone": "+81-6-7509-5696",
+    "email": "info.arshe@arshe-corp.com",
     "hasCredential": {
       "@type": "EducationalOccupationalCredential",
       "name": "宅地建物取引士",
       "credentialCategory": "license",
+      "recognizedBy": {
+        "@type": "GovernmentOrganization",
+        "name": "大阪府知事",
+      },
+      "identifier": "大阪府知事 (1) 第65646号",
     },
-    "knowsAbout": ["訳あり不動産", "空き家対策", "相続不動産売却", "再建築不可物件", "共有持分"],
+    "knowsAbout": ["訳あり不動産", "空き家対策", "相続不動産売却", "再建築不可物件", "共有持分", "事故物件", "底地・借地権", "相続アパート買取"],
+    "worksFor": {
+      "@type": "Organization",
+      "@id": "https://akiya.arshe-corp.com/#organization",
+    },
     "sameAs": [
       "https://note.com/akiyanomikata",
+      "https://arshe1719.hatenablog.com",
     ],
   },
   "hasOfferCatalog": {
@@ -110,27 +171,27 @@ const baseSchema = {
     "itemListElement": [
       {
         "@type": "Offer",
-        "itemOffered": { "@type": "Service", "name": "相続アパート買取", "url": "https://akiya.arshe-corp.com/guide/souzoku-apart-kaitori" },
+        "itemOffered": { "@type": "Service", "name": "相続アパート買取", "url": "https://akiya.arshe-corp.com/guide/souzoku-apart-kaitori/" },
       },
       {
         "@type": "Offer",
-        "itemOffered": { "@type": "Service", "name": "空き家・放置物件買取", "url": "https://akiya.arshe-corp.com/guide/akiya-kaitori" },
+        "itemOffered": { "@type": "Service", "name": "空き家・放置物件買取", "url": "https://akiya.arshe-corp.com/guide/akiya-kaitori/" },
       },
       {
         "@type": "Offer",
-        "itemOffered": { "@type": "Service", "name": "再建築不可物件買取", "url": "https://akiya.arshe-corp.com/guide/saikenchifu-kaitori" },
+        "itemOffered": { "@type": "Service", "name": "再建築不可物件買取", "url": "https://akiya.arshe-corp.com/guide/saikenchifu-kaitori/" },
       },
       {
         "@type": "Offer",
-        "itemOffered": { "@type": "Service", "name": "事故物件買取", "url": "https://akiya.arshe-corp.com/guide/jiko-bukken-kaitori" },
+        "itemOffered": { "@type": "Service", "name": "事故物件買取", "url": "https://akiya.arshe-corp.com/guide/jiko-bukken-kaitori/" },
       },
       {
         "@type": "Offer",
-        "itemOffered": { "@type": "Service", "name": "共有持分買取", "url": "https://akiya.arshe-corp.com/guide/kyouyuu-mochibun-kaitori" },
+        "itemOffered": { "@type": "Service", "name": "共有持分買取", "url": "https://akiya.arshe-corp.com/guide/kyouyuu-mochibun-kaitori/" },
       },
       {
         "@type": "Offer",
-        "itemOffered": { "@type": "Service", "name": "底地・借地権買取", "url": "https://akiya.arshe-corp.com/guide/sokochi-kaitori" },
+        "itemOffered": { "@type": "Service", "name": "底地・借地権買取", "url": "https://akiya.arshe-corp.com/guide/sokochi-kaitori/" },
       },
     ],
   },
