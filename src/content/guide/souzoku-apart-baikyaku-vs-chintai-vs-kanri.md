@@ -2,7 +2,9 @@
 title: "相続アパート「売る・貸す・管理委託する」三択を徹底比較｜10年・20年手取りシミュレーター付き【2026年版】"
 description: "相続したアパートの三択（売却・賃貸継続・管理委託）を宅建業者が徹底比較。家賃収入・修繕費・固定資産税・管理費を入力すると10年・20年後の手取りが自動計算されます。Comparison Schema・HowTo Schema実装。"
 publishDate: "2026-04-23"
-author: "宅建業者"
+updatedDate: "2026-05-29"
+author: "八木宏樹（宅地建物取引士）"
+authorTitle: "宅地建物取引士・大阪府知事(1)第65646号"
 heroImage: "/images/souzoku-apart-comparison-hero.jpg"
 faqs:
   - question: "相続アパートは売却・賃貸継続・管理委託のどれが一番得ですか？"
@@ -28,6 +30,9 @@ howToSteps:
     text: "売却を選ぶ場合は査定依頼→媒介契約→売却活動→引き渡し。管理委託を選ぶ場合は管理会社選定→委託契約締結。賃貸継続を選ぶ場合は入居者募集・管理体制の見直し。"
 cluster: "inheritance"
 ---
+
+**Q: 相続したアパートを管理できない・手放したい場合、どうすればいいですか？**
+**A: 築古・遠方・空室が多い場合は買取売却が最も現実的です。専門業者への直接買取なら最短2週間で現金化でき、管理コストを即座にゼロにできます。仲介で売れなかった物件でも対応可能です。**（宅地建物取引士・大阪府知事(1)第65646号 八木宏樹、2026年5月時点）
 
 <img src="/images/souzoku-apart-comparison-hero.jpg" alt="相続アパートの外観　売却・賃貸・管理委託の三択比較イメージ" width="1200" height="800" style="width:100%;height:auto;border-radius:8px;margin-bottom:1.5rem;" />
 
