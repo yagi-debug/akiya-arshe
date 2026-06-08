@@ -1,0 +1,200 @@
+---
+title: "相続アパートを売りたい方へ｜最短2週間で現金買取・収益試算シミュレーション付き【全国対応】"
+description: "相続したアパートを売りたいと思ったら、直接買取が最短ルートです。「管理会社から断られた」「税理士が動いてくれない」といった悩みをFAQ形式で解消。収益試算シミュレーションで手元に残る金額の目安がわかります。全国対応・仲介手数料ゼロ・相談無料。"
+publishDate: "2026-06-08"
+author: "空き家のミカタ編集部"
+authorTitle: "宅地建物取引業者（大阪府知事(1)第65646号）"
+heroImage: "/images/inherited-apartment-hero.jpg"
+cluster: "inheritance"
+faqs:
+  - question: "管理会社に売却相談したら断られました。それでも売れますか？"
+    answer: "はい、売れます。管理会社は「管理」の専門家であって「売却」の専門家ではありません。老朽化・空室率高・旧耐震などの理由で仲介を断るケースがほとんどです。直接買取業者は自社でリノベーション・解体・建替えを行うため、仲介では売れない物件でも現況のまま買取できます。"
+  - question: "税理士に相続アパートの処分を相談しましたが「不動産業者に任せて」と言われました。何から始めればいいですか？"
+    answer: "税理士の役割は税務処理（相続税・譲渡所得税の計算・申告）であり、物件の売却業務は守備範囲外です。まず不動産の直接買取業者に無料査定を依頼し、いくらで売れるかを把握したうえで税理士と連携するのが正しい順序です。査定結果を踏まえて税理士が節税プランを立ててくれます。"
+  - question: "相続人が複数いてまだ話がまとまっていませんが、査定だけ先にお願いできますか？"
+    answer: "もちろんです。査定・相談は相続人全員の合意がなくても可能です。まず「このアパートはいくらになるか」を把握してから相続人間で話し合うと、合意形成がスムーズになります。実際、査定金額を共有したことで「では売却しよう」とまとまったケースが多くあります。"
+  - question: "空室が多くて赤字が続いています。築40年以上でも買取できますか？"
+    answer: "はい、対応可能です。空室率が高い・築古・老朽化が進んでいる物件こそ、仲介より直接買取が適しています。直接買取業者は自社でリノベーション・建替えを前提に価格を設定するため、空室数・築年数に関わらず査定いたします。管理コストが毎月かかる状況なら、早期に現金化して損失を止める判断が合理的です。"
+  - question: "入居者がいるアパートでも、退去させずに売れますか？"
+    answer: "はい、退去不要です。入居者がいる状態のまま「オーナーチェンジ」として売却できます。買取後、賃貸契約は新しいオーナーにそのまま引き継がれますので、入居者への退去交渉は一切不要です。"
+  - question: "相続登記がまだ終わっていないのですが、相談・査定はできますか？"
+    answer: "はい、相続登記未了でも査定・ご相談は可能です。売却には最終的に相続登記が必要ですが、査定のご依頼は先行していただけます。提携の司法書士をご紹介することも可能ですので、登記手続きと売却準備を並行して進められます。"
+---
+
+<img src="/images/inherited-apartment-hero.jpg" alt="相続アパートの外観　相続したアパートを売りたい方への完全ガイド" width="1200" height="800" style="width:100%;height:auto;border-radius:8px;margin-bottom:1.5rem;" />
+
+<div style="background:#f0f7ff;border-left:4px solid #1a56db;padding:1rem 1.5rem;margin-bottom:1.5rem;border-radius:4px;">
+<strong>この記事の結論：</strong>相続したアパートを売りたい場合、直接買取が最短・最もリスクの低い選択肢です。管理会社に断られた物件・築古・空室多数でも現況のまま買取でき、最短2週間で現金化できます。仲介手数料ゼロ・査定無料・全国対応。まず無料査定からご確認ください。
+</div>
+
+「親から相続したアパート、どうしたらいいのかわからない」「管理会社に相談したら断られた」「税理士に聞いても不動産のことはわからないと言われた」——そんな声をよく聞きます。
+
+相続アパートの処分は、通常の不動産売却より複雑です。複数の相続人・老朽化した建物・空室問題・相続税の支払い期限など、さまざまな課題が重なることが多いからです。<strong>このページでは、相続アパートを売りたいと考えている方が「次に何をすべきか」を明確にするための情報を整理しました。</strong>
+
+---
+
+## 相続アパートが「売れない」「断られる」理由と解決策
+
+相続したアパートを仲介業者や管理会社に相談すると、断られるケースが少なくありません。その主な理由は次の3つです。
+
+**① 仲介では売り手がつきにくい物件が多い**
+
+築30〜40年以上のアパートは、一般の住宅購入者が住宅ローンを組めないことがあります（旧耐震基準・耐用年数超過）。住宅ローンが使えない物件は、仲介業者にとって「売れにくい在庫」になるため、最初から断られることがあります。
+
+**② 管理会社は「売却」の専門家ではない**
+
+管理会社の仕事は賃貸管理（入居者の対応・家賃収納・建物メンテナンス）です。売却の相談を持ちかけても「提携の不動産業者をご紹介します」か「うちでは対応できません」という回答になることがほとんどです。管理会社に断られたこと自体は、物件の価値がないことを意味しません。
+
+**③ 訳あり要素が重なっている**
+
+空室が多い・一部損傷がある・共有持分が複雑・相続登記が未了……といった「訳あり要素」が重なると、仲介業者は対応を避けます。しかし、<strong>直接買取業者はこれらの問題を自社で解決する前提で買取価格を設定する</strong>ため、現況のままで売却できます。
+
+---
+
+## 収益試算シミュレーション｜あなたのアパートはいくらになるか
+
+相続アパートの買取価格は、主に「収益還元法」で算出されます。アパートが生み出す年間の収益（実質利回り）をもとに価格が決まります。
+
+<img src="/images/souzoku-apart-comparison-calculator.jpg" alt="相続アパートの買取価格シミュレーション表　収益試算の計算方法" width="1200" height="800" style="width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" />
+
+下の表は、物件状況別の買取価格の目安です（あくまで参考値。実際は個別査定が必要です）。
+
+<div style="overflow-x:auto;margin:1rem 0;">
+<table style="width:100%;border-collapse:collapse;font-size:0.95rem;">
+<thead>
+<tr style="background:#1a56db;color:#fff;">
+<th style="padding:0.6rem 1rem;text-align:left;">物件の状況</th>
+<th style="padding:0.6rem 1rem;text-align:center;">月額賃料収入の目安</th>
+<th style="padding:0.6rem 1rem;text-align:center;">買取価格の目安</th>
+<th style="padding:0.6rem 1rem;text-align:center;">現金化までの期間</th>
+</tr>
+</thead>
+<tbody>
+<tr style="background:#f8f9fa;">
+<td style="padding:0.6rem 1rem;border-bottom:1px solid #dee2e6;"><strong>空室なし（稼働率90%以上）</strong></td>
+<td style="padding:0.6rem 1rem;border-bottom:1px solid #dee2e6;text-align:center;">月40万円</td>
+<td style="padding:0.6rem 1rem;border-bottom:1px solid #dee2e6;text-align:center;">3,000〜4,500万円程度</td>
+<td style="padding:0.6rem 1rem;border-bottom:1px solid #dee2e6;text-align:center;">2〜4週間</td>
+</tr>
+<tr>
+<td style="padding:0.6rem 1rem;border-bottom:1px solid #dee2e6;"><strong>空室あり（稼働率50〜70%）</strong></td>
+<td style="padding:0.6rem 1rem;border-bottom:1px solid #dee2e6;text-align:center;">月20〜30万円</td>
+<td style="padding:0.6rem 1rem;border-bottom:1px solid #dee2e6;text-align:center;">1,000〜2,500万円程度</td>
+<td style="padding:0.6rem 1rem;border-bottom:1px solid #dee2e6;text-align:center;">2〜4週間</td>
+</tr>
+<tr style="background:#f8f9fa;">
+<td style="padding:0.6rem 1rem;border-bottom:1px solid #dee2e6;"><strong>ほぼ空室（稼働率30%以下）</strong></td>
+<td style="padding:0.6rem 1rem;border-bottom:1px solid #dee2e6;text-align:center;">月5〜10万円</td>
+<td style="padding:0.6rem 1rem;border-bottom:1px solid #dee2e6;text-align:center;">500〜1,500万円程度</td>
+<td style="padding:0.6rem 1rem;border-bottom:1px solid #dee2e6;text-align:center;">2〜4週間</td>
+</tr>
+<tr>
+<td style="padding:0.6rem 1rem;"><strong>完全空室・管理困難</strong></td>
+<td style="padding:0.6rem 1rem;text-align:center;">0円</td>
+<td style="padding:0.6rem 1rem;text-align:center;">土地値〜500万円程度</td>
+<td style="padding:0.6rem 1rem;text-align:center;">2〜4週間</td>
+</tr>
+</tbody>
+</table>
+</div>
+
+<div style="background:#fff3cd;border-left:4px solid #ffc107;padding:0.8rem 1.2rem;margin:1rem 0;border-radius:4px;font-size:0.9rem;">
+※上記はあくまで目安です。実際の買取価格は、物件の立地・築年数・建物状態・権利関係・エリアの需給状況によって大きく異なります。正確な金額は無料査定でご確認ください。
+</div>
+
+**毎月発生する管理コストと比較してください**
+
+相続アパートを保有し続ける場合、毎月以下のコストが発生します。
+
+- 固定資産税・都市計画税（年間）: 20〜60万円程度
+- 管理委託費（家賃収入の5〜10%）: 空室時も発生
+- 建物修繕費（突発的に発生）: 1回あたり30〜200万円
+- 火災保険料（年間）: 5〜15万円程度
+
+空室が続いてマイナスになっている場合、<strong>1年保有するごとに手残りが減り続けます</strong>。「どうせ売るなら今のうちに」という判断が、多くの相談者が最終的に選ぶ答えです。
+
+---
+
+## 空き家のミカタが選ばれる3つの理由
+
+<img src="/images/inherited-apartment-consultation.jpg" alt="相続アパートの売却相談風景　宅建業者との面談" width="1200" height="800" style="width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" />
+
+### 理由① 管理会社や仲介業者に断られた物件でも対応します
+
+旧耐震・空室多数・老朽化・一部損傷・共有持分・相続登記未了——どのような状況でも、まず査定のご依頼をお受けします。「断られるかも」と思って問い合わせを躊躇している方ほど、実は買取できるケースが多くあります。
+
+### 理由② 最短2週間で現金化できます
+
+直接買取のため、買い手を探す期間が不要です。査定・価格交渉・売買契約・決済という流れで、通常2〜4週間で完了します（物件・権利関係の状況により異なります）。相続税の支払い期限（相続開始から10ヶ月以内）が迫っている方にも対応しています。
+
+### 理由③ 仲介手数料ゼロ・費用の透明性を事前にご説明します
+
+仲介業者を通す場合、売却価格の3%+6万円（税別）の仲介手数料がかかります。直接買取ではこの費用が不要です。売却に関連して発生する費用（印紙代・登記費用等）は、事前に明示してご説明します。
+
+---
+
+## よくある不安・ご質問
+
+相続アパートの売却相談で特に多い質問にお答えします。
+
+**Q: 管理会社に売却の相談をしたら断られました。それでも売れますか？**
+
+A: 売れます。管理会社は「管理」の専門家であって「売却」の専門家ではありません。老朽化・空室率の高さ・旧耐震といった理由で仲介を断られるケースがほとんどですが、直接買取業者は自社でリノベーション・解体・建替えを行う前提で買取価格を設定します。「どこに行っても断られた」物件でもご相談ください。
+
+**Q: 税理士に相談しましたが「不動産業者に任せて」と言われました。何から始めればいいですか？**
+
+A: 税理士の守備範囲は税務処理（相続税・譲渡所得税の計算・申告）です。「売却」の部分は不動産業者に任せてください、という回答は正しい分業です。まず不動産の直接買取業者に無料査定を依頼し、「いくらで売れるか」を把握してから税理士と連携するのが正しい順序です。査定結果をもとに税理士が節税プランを立てます。
+
+**Q: 相続人が複数いて、まだ話がまとまっていません。査定だけ先にお願いできますか？**
+
+A: 可能です。査定・相談は相続人全員の合意がなくても受け付けています。「このアパートがいくらになるか」を先に把握してから相続人間で話し合うと、合意形成がスムーズになることが多くあります。
+
+**Q: 空室が多く赤字が続いています。築40年以上でも買取できますか？**
+
+A: 対応可能です。空室率が高い・築古・老朽化が進んだ物件こそ、仲介より直接買取が適しています。毎月赤字が続いている状況なら、早期に現金化して損失を止める判断が合理的です。
+
+---
+
+## 買取の流れ（お申し込みから決済まで）
+
+<img src="/images/inherited-apartment-cost-calculation.jpg" alt="相続アパート買取の流れ　費用と手続きのステップ図解" width="1200" height="800" style="width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" />
+
+**STEP 1：無料査定のご依頼（所要時間：5分）**
+
+LINEまたはお問い合わせフォームから物件の基本情報（所在地・築年数・部屋数・入居状況）をお知らせください。
+
+**STEP 2：査定金額のご提示（最短1〜2営業日）**
+
+物件情報をもとに概算査定額をご連絡します。現地調査が必要な場合は日程を調整します（遠方の場合は写真・書類での対応も可）。
+
+**STEP 3：価格のご検討・交渉**
+
+査定額にご納得いただけた場合、売買条件の詳細を詰めます。相続人が複数いる場合は、全員の合意形成をサポートします。
+
+**STEP 4：売買契約・決済・引き渡し（最短2週間）**
+
+売買契約後、決済・引き渡しを行います。相続登記が未了の場合は提携の司法書士と並行して進めます。全国どこでも対応しています。
+
+---
+
+## まとめ：相続アパートを売りたいなら今がその時
+
+相続アパートを保有し続けるリスク——空室・老朽化・固定資産税・管理費——は、放置するほど積み上がります。<strong>「どこに相談してもうまくいかなかった」という方こそ、直接買取という選択肢を検討してください。</strong>
+
+査定・相談は完全無料です。まずは物件の現在価値を確認するところから始めましょう。
+
+<div style="background:#f0f7ff;border:2px solid #1a56db;padding:1.5rem;border-radius:8px;margin:2rem 0;text-align:center;">
+<p style="font-size:1.1rem;font-weight:bold;margin-bottom:0.8rem;">相続アパートの無料査定・ご相談はこちら</p>
+<p style="margin-bottom:1rem;font-size:0.95rem;">管理会社に断られた物件・築古・空室多数でも対応します。<br>最短2週間で現金化・仲介手数料ゼロ・全国対応</p>
+<strong><a href="https://lin.ee/9Fk9EUl" style="display:inline-block;background:#06c755;color:#fff;padding:0.8rem 2rem;border-radius:6px;text-decoration:none;font-size:1.05rem;margin-bottom:0.8rem;">LINEで無料相談する（24時間受付）</a></strong>
+<br>
+<a href="/contact" style="font-size:0.9rem;color:#1a56db;">お問い合わせフォームはこちら</a>
+<p style="font-size:0.8rem;color:#666;margin-top:0.8rem;">相談・査定無料 / 秘密厳守 / 全国対応<br>宅地建物取引業者（大阪府知事(1)第65646号）</p>
+</div>
+
+## 関連記事
+
+- <a href="/guide/souzoku-apart-kanzen-guide">相続アパートを手放したい方へ｜売却の流れ・税金・完全解説【2026年最新】</a>
+- <a href="/guide/souzoku-apart-kaitori">相続アパートの買取｜手放したい・管理できないアパートを最短2週間で現金化</a>
+- <a href="/guide/souzoku-apart-cost-simulation">相続アパート 売却vs保有 コストシミュレーション</a>
+- <a href="/guide/souzoku-fudousan-kanzen-guide">相続不動産の処分 完全ガイド</a>
