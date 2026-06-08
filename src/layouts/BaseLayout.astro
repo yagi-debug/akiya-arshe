@@ -257,6 +257,16 @@ const allSchemas = schema ? [organizationSchema, baseSchema, schema] : [organiza
           });
         });
         // 電話タップ
+        document.querySelectorAll('a[href^="tel:"]').forEach(function(el) {
+          el.addEventListener('click', function() {
+            gtag('event', 'phone_click', {
+              event_category: 'conversion',
+              event_label: el.href.replace('tel:', ''),
+              page_path: pagePath,
+              page_title: pageTitle
+            });
+          });
+        });
         // メールクリック
         document.querySelectorAll('a[href^="mailto:"]').forEach(function(el) {
           el.addEventListener('click', function() {

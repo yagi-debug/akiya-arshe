@@ -6,7 +6,7 @@ updatedDate: "2026-06-07"
 author: "空き家のミカタ編集部"
 authorTitle: "宅地建物取引業者（大阪府知事(1)第65646号）"
 heroImage: "/images/higashiosaka-machikojiba-kaitori-hero.jpg"
-cluster: "niche-osaka"
+cluster: "wakeari"
 faqs:
   - question: "東大阪市の工場跡地は売却できますか？"
     answer: "はい、売却できます。工業地域・準工業地域にある工場跡地も、現況のまま直接買取が可能です。機械・設備の撤去や用途変更は不要で、最短2〜4週間で現金化できます。"

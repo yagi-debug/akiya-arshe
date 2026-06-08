@@ -316,6 +316,17 @@ const { id = "satei" } = Astro.props;
 
       showResult(area, min, max, rosenka, usedPrefAvg);
       sendGAS(area, min, max, rosenka);
+
+      // GA4 コンバージョンイベント
+      if (typeof gtag === 'function') {
+        gtag('event', 'satei_submit', {
+          event_category: 'conversion',
+          event_label: selectedType + '_' + selectedPrefecture + '_' + selectedCity,
+          page_path: window.location.pathname,
+          estimated_min: min,
+          estimated_max: max
+        });
+      }
     }
 
     function showResult(area, min, max, rosenka, usedPrefAvg) {
