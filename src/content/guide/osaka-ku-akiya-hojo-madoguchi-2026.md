@@ -249,6 +249,14 @@ cluster: "akiya-tax"
 - <a href="/guide/akiya-kotei-shisan-zei-haraenai">空き家の固定資産税が払えないときの4つの選択肢</a>
 - <a href="/guide/osaka-kaitai-hiyou-kubetsu">大阪市の解体費用の目安と補助金活用法</a>
 
+## 関連するガイド記事
+
+- <a href="/guide/akiya-shobun-5-hikaku">空き家処分の5大選択肢を徹底比較【2026年版】費用・期間・手残り額</a>
+- <a href="/guide/osaka-akiya-subsidy">大阪市の空き家対策と補助金制度｜使える支援を宅建業者がまとめ</a>
+- <a href="/guide/kotei-shisan-zei-nousho-baikyaku-3taiken">【実録】固定資産税の通知書が届き、空き家売却を決意した3つの体験談【2026年5月】</a>
+- <a href="/guide/osaka-kaitai-hiyou-kubetsu">大阪市の空き家解体費用を区別に比較｜補助金制度と相場を宅建業者が解説</a>
+- <a href="/guide/osaka-24ku-wakeari-kakakutai-map">大阪市24区の訳あり物件買取相場マップ【2025-2026年版】路線価・空き家率・区別データ完全比較</a>
+
 ## よくある質問
 
 ### Q. 賃貸中の空き家でも補助金の対象になりますか？

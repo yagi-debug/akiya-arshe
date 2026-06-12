@@ -2,6 +2,7 @@
 title: "訳あり不動産の買取実績10選｜相続・再建築不可・事故物件・共有持分・空き家の解決事例集"
 description: "訳あり不動産（相続アパート・再建築不可・事故物件・共有持分・空き家・底地・農地等）の買取実績を10件詳細公開。物件概要・依頼者の状況・解決の経緯・買取価格帯をすべて匿名化して掲載。E-E-A-T強化・全国対応。"
 publishDate: "2026-04-27"
+cluster: "wakeari"
 author: "宅建業者"
 authorTitle: "宅建業者"
 heroImage: "/images/kaitori-jirei-10sen-hero.jpg"

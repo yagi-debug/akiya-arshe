@@ -17,7 +17,7 @@ const { Content } = await render(entry);
 const breadcrumbs = [
   { name: 'ホーム', url: '/' },
   { name: '売却ガイド', url: '/guide' },
-  { name: entry.data.title, url: `/guide/${entry.id}` },
+  { name: entry.data.title, url: `/guide/${entry.id}/` },
 ];
 
 // クラスター内部リンク（ピラー↔サブ記事の双方向リンク強化）
@@ -29,6 +29,7 @@ const clusterLabels: Record<string, string> = {
   'shared-ownership': '共有持分トラブル',
   'akiya-tax':        '空き家の維持コストと税金',
   'accident':         '事故物件・心理的瑕疵',
+  'wakeari':          '訳あり物件の買取・売却',
 };
 
 const currentCluster = entry.data.cluster;
@@ -93,7 +94,7 @@ const articleSchema = {
   "description": entry.data.description,
   "author": {
     "@type": "Person",
-    "@id": "https://akiya.arshe-corp.com/about#person",
+    "@id": "https://akiya.arshe-corp.com/about/hiroki#person",
     "name": "八木 宏樹",
     "jobTitle": "宅地建物取引士",
     "hasCredential": {
@@ -126,6 +127,7 @@ const articleSchema = {
       "identifier": "大阪府知事 (1) 第65646号",
     },
   },
+  ...(entry.data.wordCount ? { "wordCount": entry.data.wordCount } : {}),
   "mainEntityOfPage": {
     "@type": "WebPage",
     "@id": `https://akiya.arshe-corp.com/guide/${entry.id}`,
@@ -210,14 +212,18 @@ const displayDate = entry.data.updatedDate || entry.data.publishDate;
 
   <!-- 著者バイオ（E-E-A-T） -->
   <aside class="mx-auto max-w-3xl px-4 pb-6">
-    <div class="rounded-lg border border-border bg-bg-dark p-5 flex gap-4 items-start">
-      <div class="flex-shrink-0 w-12 h-12 rounded-full bg-accent flex items-center justify-center text-white text-xl font-bold">空</div>
-      <div>
-        <p class="font-bold text-text text-base">空き家のミカタ編集部</p>
-        <p class="text-sm text-text-light mb-2">宅地建物取引業者（大阪府知事(1)第65646号）</p>
-        <p class="text-sm text-text leading-relaxed">空き家・相続不動産・再建築不可・事故物件など訳あり不動産の買取を専門とする宅地建物取引業者が運営。全国対応。「どこに相談しても断られた」案件を中心に買取実績多数。</p>
+    <a href="/about/hiroki" class="block rounded-lg border border-border bg-bg-dark p-5 transition-all hover:border-accent hover:shadow-md">
+      <div class="flex gap-4 items-start">
+        <div class="flex-shrink-0 w-12 h-12 rounded-full bg-accent flex items-center justify-center text-white text-xl font-bold">八</div>
+        <div class="flex-1">
+          <p class="text-xs font-semibold text-accent mb-0.5">執筆・監修</p>
+          <p class="font-bold text-text text-base">八木 宏樹（Hiroki Yagi）</p>
+          <p class="text-sm text-text-light mb-2">宅地建物取引士｜大阪府知事(1)第65646号 / 合同会社アルシェ 代表社員</p>
+          <p class="text-sm text-text leading-relaxed">相続アパート・再建築不可・事故物件・共有持分・空き家など「訳あり不動産」の直接買取専門家。「どこにも断られた物件でも諦めない」をモットーに全国対応で現金買取。</p>
+          <p class="mt-2 text-xs text-accent font-medium">→ 詳細プロフィールを見る</p>
+        </div>
       </div>
-    </div>
+    </a>
   </aside>
 
   <!-- ピラーページ: クラスター内サブ記事カードグリッド -->

@@ -22,6 +22,9 @@ faqs:
 cluster: "akiya-tax"
 ---
 
+> **TL;DR — 空き家の固定資産税6倍化**
+> 空き家が「特定空家」または「管理不全空家」（2023年12月改正で追加・国土交通省）に指定され勧告を受けると、住宅用地の固定資産税特例（1/6軽減）が解除されて最大6倍になる。総務省統計では全国空き家は約900万戸（2023年）。回避策は①賃貸・②寄付・③売却の3択。老朽化・遠方・管理困難な物件は買取売却が最も合理的（初期費用ゼロ・最短2週間）。相続した空き家は3,000万円特別控除（相続開始から3年年末が期限）も並行確認を。
+
 <img src="/images/old-japanese-house.jpg" alt="放置された空き家の外観。固定資産税6倍化のリスクを抱える典型的な物件" width="1200" height="800" style="width:100%;height:auto;border-radius:8px;margin-bottom:1.5rem;" />
 
 <div style="background:#f0f7ff;border-left:4px solid #2563eb;padding:1rem 1.25rem;margin:1.5rem 0;border-radius:0 8px 8px 0;">

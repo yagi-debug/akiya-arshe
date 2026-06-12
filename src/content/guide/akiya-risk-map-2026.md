@@ -354,3 +354,12 @@ faqs:
   ]
 }
 </script>
+
+## 関連するガイド記事
+
+- <a href="/guide/akiya-shobun-5-hikaku">空き家処分の5大選択肢を徹底比較【2026年版】費用・期間・手残り額</a>
+- <a href="/guide/kotei-shisan-zei-nousho-baikyaku-3taiken">【実録】固定資産税の通知書が届き、空き家売却を決意した3つの体験談【2026年5月】</a>
+- <a href="/guide/akiya-cost-risk-db-2026">空き家コスト・リスク全国データベース2026｜47都道府県の固定資産税負担額・放置コスト試算・特定空家指定数</a>
+- <a href="/guide/souzoku-apart-kanzen-guide">相続アパートを手放したい方へ｜売却の流れ・税金・失敗しない判断基準を宅建業者が完全解説【2026年最新】</a>
+- <a href="/guide/souzoku-fudousan-shobun-kanzen-guide">相続不動産の処分 完全ガイド2026｜法律・登記・比較表・失敗対策まで一気に解説</a>
+

@@ -262,6 +262,7 @@ cluster: "inheritance"
 - <a href="/guide/souzoku-apart-baikyaku-vs-chintai-vs-kanri">「売る・貸す・管理委託する」三択を徹底比較</a>
 - <a href="/guide/inheritance-sale-timeline">相続から売却完了までのタイムライン</a>
 - <a href="/guide/souzoku-houki-kigengire">相続放棄の期限（3ヶ月）を過ぎた場合の対処法</a>
+- <a href="/guide/souzoku-hub">相続不動産 完全ハブ｜処分・売却・登記・固定資産税まで全ガイドをまとめて確認【2026年版】</a>
 
 ## 無料でご相談いただけます
 

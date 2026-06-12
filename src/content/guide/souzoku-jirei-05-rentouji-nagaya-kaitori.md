@@ -267,3 +267,12 @@ Aさんの事例のポイントを整理します。
 - <a href="/guide/saikenchifu-kaitori">再建築不可物件の買取——接道義務・査定の基準を解説</a>
 - <a href="/guide/souzoku-jirei-04-saikenchifu-kaitori">【体験談04】「再建築不可で4社断られた」実家を23日で現金化</a>
 - <a href="/guide/kaitori-gyosha-erabikata-checkpoints">訳あり買取業者の選び方——7つのチェックポイント</a>
+
+## 関連するガイド記事
+
+- <a href="/guide/souzoku-jirei-07-saikenchifu-nagaya-kaitori">【体験談・事例07】再建築不可の老朽木造長屋を14日で現金化。市から管理不全通知が届いた後に動いた60代女性の全記録</a>
+- <a href="/guide/saikenchifu-hub">再建築不可物件 完全ハブ｜売却・買取・価格相場・事例まで全ガイドまとめ【2026年版】</a>
+- <a href="/guide/saikenchifu-kaitori-jirei">再建築不可物件の買取事例5選｜袋地・2m未満接道・旗竿地の解決ストーリー</a>
+- <a href="/guide/souzoku-apart-kanzen-guide">相続アパートを手放したい方へ｜売却の流れ・税金・失敗しない判断基準を宅建業者が完全解説【2026年最新】</a>
+- <a href="/guide/souzoku-fudousan-shobun-kanzen-guide">相続不動産の処分 完全ガイド2026｜法律・登記・比較表・失敗対策まで一気に解説</a>
+

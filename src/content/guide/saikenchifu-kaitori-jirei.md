@@ -470,3 +470,4 @@ cluster: "non-rebuildable"
 - <a href="/guide/kaitori-jirei-10sen">訳あり不動産の買取実績10選</a>
 - <a href="/guide/wakeare-bukken-kaitori-nagare">訳あり不動産の買取の流れ（ステップ解説）</a>
 - <a href="/guide/inheritance-sale">相続した不動産の売却ガイド</a>
+- <a href="/guide/saikenchifu-hub">再建築不可 完全ハブ｜買取・接道・建替えできない物件の処分ガイドまとめ</a>

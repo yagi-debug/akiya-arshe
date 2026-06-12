@@ -303,3 +303,12 @@ Eさんが最も後悔していたのは「もっと早く専門家に相談す�
 - <a href="/guide/souzoku-jirei-01-akiya-3nen">【体験談01】実家を空き家にして3年。管理不全通知が届いて決断した売却の全記録</a>
 - <a href="/guide/parent-death-house">親が亡くなったあと実家はどうする？——相続・売却・空き家のロードマップ</a>
 - <a href="/guide/inheritance-sale-timeline">相続不動産の売却タイムライン——査定から決済まで何日かかるか</a>
+
+## 関連するガイド記事
+
+- <a href="/guide/souzoku-apart-kanzen-guide">相続アパートを手放したい方へ｜売却の流れ・税金・失敗しない判断基準を宅建業者が完全解説【2026年最新】</a>
+- <a href="/guide/souzoku-hub">相続不動産 完全ハブ｜処分・売却・登記・固定資産税・事例まで全ガイドをまとめて確認【2026年版】</a>
+- <a href="/guide/souzoku-fudosan-shippai-3jirei">相続不動産の売却で失敗した3事例｜買取で解決した比較と5問リスク診断</a>
+- <a href="/guide/akiya-shobun-5-hikaku">空き家処分の5大選択肢を徹底比較【2026年版】費用・期間・手残り額</a>
+- <a href="/guide/kyouyuu-mochibun-hub">共有持分 完全ハブ｜売却・買取・トラブル解決・相場まで全ガイドまとめ【2026年版】</a>
+

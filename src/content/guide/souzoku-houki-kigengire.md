@@ -2,6 +2,7 @@
 title: "相続放棄の期限（3ヶ月）を過ぎたらどうなる？期限切れ後の対処法を宅建業者が解説"
 description: "相続放棄の3ヶ月期限を過ぎてしまった場合でも認められるケースがあります。最高裁判例をもとに、期限切れ後の対処法・判定フローチャート・専門家に相談すべきケースまで宅建業者が解説します。"
 publishDate: "2026-04-14"
+cluster: "inheritance"
 author: "宅建業者"
 authorTitle: "宅建業者"
 heroImage: "/images/souzoku-houki-deadline-hero.jpg"
@@ -223,6 +224,14 @@ faqs:
 3. <strong>相続人が複数いて意見がまとまらない</strong> → 弁護士に相談（遺産分割協議の調整）
 4. <strong>相続した不動産の売却方法がわからない</strong> → 宅建業者に相談（訳あり物件の買取対応）
 5. <strong>借金の額が不動産の価値を上回っている</strong> → 弁護士に相談（債務整理の方法を検討）
+
+## 関連するガイド記事
+
+- <a href="/guide/souzoku-apart-kanzen-guide">相続アパートを手放したい方へ｜売却の流れ・税金・失敗しない判断基準を宅建業者が完全解説【2026年最新】</a>
+- <a href="/guide/souzoku-fudousan-shobun-kanzen-guide">相続不動産の処分 完全ガイド2026｜法律・登記・比較表・失敗対策まで一気に解説</a>
+- <a href="/guide/souzoku-fudousan-urikata-kanzen-guide">【2026年版】相続した不動産の売り方 完全ガイド｜実務手順・費用・業者選定を買取業者が解説</a>
+- <a href="/guide/akiya-kotei-shisan-zei-haraenai">空き家の固定資産税が払えないとき｜分納・減免・売却・相続放棄の4つの選択肢【2026年版】</a>
+- <a href="/guide/akiya-shobun-5-hikaku">空き家処分の5大選択肢を徹底比較【2026年版】費用・期間・手残り額</a>
 
 ## まとめ
 

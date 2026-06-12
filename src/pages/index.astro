@@ -218,7 +218,7 @@ const homeWebPageSchema = {
     </div>
   </section>
 
-  <!-- 種類別ガイドセクション -->
+  <!-- ピラーページ種類別ガイドセクション -->
   <section class="bg-bg px-4 py-12 md:py-16">
     <div class="mx-auto max-w-4xl">
       <h2 class="mb-2 text-center text-xl font-bold text-primary md:text-2xl">
@@ -227,17 +227,48 @@ const homeWebPageSchema = {
       <p class="mb-8 text-center text-sm text-text-light">お悩みの物件タイプから詳しい解説をご覧ください</p>
       <div class="grid gap-4 sm:grid-cols-2 md:grid-cols-3">
         {[
-          { href: "/guide/souzoku-apart-kaitori", label: "相続アパートの買取", desc: "入居者付き・老朽化でも最短2週間で現金化" },
-          { href: "/guide/akiya-kaitori", label: "空き家の買取", desc: "放置空き家を固定資産税ゼロ・即現金化" },
-          { href: "/guide/saikenchifu-kaitori", label: "再建築不可物件の買取", desc: "接道義務違反でも現況のまま買取可能" },
-          { href: "/guide/kyouyuu-mochibun-kaitori", label: "共有持分の買取", desc: "他の共有者の同意不要で持分だけ売却" },
-          { href: "/guide/jiko-bukken-kaitori", label: "事故物件の買取", desc: "告知義務ありでも現況買取・全国対応" },
-          { href: "/guide/akiya-koteishisanzei-simulator", label: "固定資産税シミュレーター", desc: "空き家の年間維持コストを無料試算" },
+          {
+            href: "/guide/souzoku-apart-kanzen-guide",
+            label: "相続不動産の売却",
+            emoji: "🏠",
+            desc: "相続登記・遺産分割から売却完了まで。相続アパート・空き家・農地・共有不動産に対応。",
+          },
+          {
+            href: "/guide/saikenchifu-kaitori",
+            label: "再建築不可物件",
+            emoji: "🚧",
+            desc: "接道義務違反でも現況のまま買取可能。旗竿地・狭小地・再建築不可の専門知識で解決。",
+          },
+          {
+            href: "/guide/jiko-bukken-kaitori",
+            label: "事故物件・心理的瑕疵",
+            emoji: "⚠️",
+            desc: "告知義務ありでも現況買取・全国対応。事件・孤独死・自殺物件の処分に実績あり。",
+          },
+          {
+            href: "/guide/kyouyuu-mochibun-qa-hub",
+            label: "共有持分トラブル",
+            emoji: "🤝",
+            desc: "他の共有者の同意不要で持分だけ売却。相続で共有者が多数・連絡取れない場合も対応。",
+          },
+          {
+            href: "/guide/vacant-house",
+            label: "空き家・固定資産税対策",
+            emoji: "🏚️",
+            desc: "空き家の固定資産税が6倍になる前に。特定空家指定・管理不全空家の回避策を解説。",
+          },
+          {
+            href: "/guide/wakeari-osekkai-database",
+            label: "訳あり物件まるわかり",
+            emoji: "📋",
+            desc: "再建築不可・事故物件・共有持分など訳あり50問に宅建業者が本音で回答するQ&Aデータベース。",
+          },
         ].map((item) => (
           <a
             href={item.href}
             class="flex flex-col gap-2 rounded-xl border border-border bg-white p-5 shadow-sm transition-all hover:border-accent hover:shadow-md"
           >
+            <span class="text-2xl">{item.emoji}</span>
             <span class="font-bold text-primary">{item.label} →</span>
             <span class="text-sm leading-relaxed text-text-light">{item.desc}</span>
           </a>

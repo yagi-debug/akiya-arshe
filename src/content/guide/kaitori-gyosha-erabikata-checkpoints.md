@@ -2,6 +2,7 @@
 title: "訳あり不動産買取業者を選ぶ5つのチェックポイント｜後悔しない業者の見極め方を宅建業者が解説"
 description: "訳あり不動産の買取業者を選ぶ際に必ず確認すべき5つのポイントを宅建業者が解説。宅建業者免許の有無・対応物件の幅・査定速度・費用の透明性・対応エリアの5軸で業者を見極め、後悔のない売却を実現しましょう。"
 publishDate: "2026-04-22"
+cluster: "wakeari"
 author: "宅建業者"
 heroImage: "/images/kaitori-gyosha-erabikata-hero.jpg"
 faqs:

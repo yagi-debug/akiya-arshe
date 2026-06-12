@@ -261,3 +261,12 @@ LINEまたはお問い合わせフォームから、物件の住所・状況を�
 - [訳あり物件の買取｜再建築不可・事故物件・共有持分・空き家を手放す完全ガイド](/guide/wakeare-bukken-kaitori) — 旗竿地を含む訳あり物件の買取制度全般
 - [不動産会社に断られた物件でも売れる？断られた後にできる5つの解決策](/guide/fudosan-kotowarareta-ato-dekiru-koto) — 仲介に断られた場合の次のステップ
 - [相続した不動産の固定資産税は誰が払う？相続人間トラブル解決法](/guide/souzoku-fudosan-kotei-shisan-zei-tantou) — 旗竿地の相続後の税負担について
+
+## 関連するガイド記事
+
+- <a href="/guide/saikenchifu-hub">再建築不可物件 完全ハブ｜売却・買取・価格相場・事例まで全ガイドまとめ【2026年版】</a>
+- <a href="/guide/saikenchifu-kaitori-jirei">再建築不可物件の買取事例5選｜袋地・2m未満接道・旗竿地の解決ストーリー</a>
+- <a href="/guide/saikenchifu-osaka-uri-jirei">大阪市の再建築不可物件｜仲介で売れなかった3つの失敗パターンと買取解決事例3件【2026年版】</a>
+- <a href="/guide/kyouyuu-mochibun-hub">共有持分 完全ハブ｜売却・買取・トラブル解決・相場まで全ガイドまとめ【2026年版】</a>
+- <a href="/guide/jiko-bukken-hub">事故物件 完全ハブ｜買取・告知義務・心理的瑕疵・価格相場まで全ガイドまとめ【2026年版】</a>
+

@@ -2,6 +2,7 @@
 title: "相続登記義務化後の空き家（戸建て）売却の注意点と具体的手順｜大阪市の費用試算つき"
 description: "2024年4月の相続登記義務化後、空き家になった戸建てを売却する際の注意点と手順を宅建業者が解説。登記未完了でも売れる？過料10万円のリスク、大阪市内の戸建て空き家を具体的にモデルケースで試算します。"
 publishDate: "2026-04-21"
+cluster: "inheritance"
 author: "宅建業者"
 authorTitle: "宅建業者"
 heroImage: "/images/souzoku-touki-akiya-baikyaku-hero.jpg"
@@ -216,6 +217,14 @@ faqs:
 <strong>Q. 遠方に住んでいて管理できない空き家でも相談できますか？</strong>
 
 はい。当社は全国対応しており、現地確認から登記手続きのサポートまで対応しています。遠方にお住まいで空き家の現場に行けない方でも相談可能です。詳しくは「<a href="/guide/remote-family-home-sale">遠方の実家を売却する方法</a>」もご参照ください。
+
+## 関連するガイド記事
+
+- <a href="/guide/souzoku-hub">相続不動産 完全ハブ｜処分・売却・登記・固定資産税・事例まで全ガイドをまとめて確認【2026年版】</a>
+- <a href="/guide/souzoku-jirei-01-akiya-3nen">【相続物件 体験談・事例01】実家を空き家にして3年。市から「管理不全」予備通知が届いて決断した売却の全記録</a>
+- <a href="/guide/souzoku-apart-kanzen-guide">相続アパートを手放したい方へ｜売却の流れ・税金・失敗しない判断基準を宅建業者が完全解説【2026年最新】</a>
+- <a href="/guide/akiya-kotei-shisan-zei-haraenai">空き家の固定資産税が払えないとき｜分納・減免・売却・相続放棄の4つの選択肢【2026年版】</a>
+- <a href="/guide/akiya-shobun-5-hikaku">空き家処分の5大選択肢を徹底比較【2026年版】費用・期間・手残り額</a>
 
 ## まとめ：登記義務化後は「早めの一手」が損をしない
 

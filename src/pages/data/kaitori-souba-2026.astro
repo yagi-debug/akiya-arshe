@@ -1,0 +1,362 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Breadcrumb from '../../components/Breadcrumb.astro';
+
+const breadcrumbs = [
+  { name: 'ホーム', url: '/' },
+  { name: '訳あり不動産 買取価格データベース2026', url: '/data/kaitori-souba-2026' },
+];
+
+const pageSchema = {
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "name": "大阪市区別 訳あり不動産買取価格データベース2026",
+  "description": "国土交通省「不動産取引価格情報（土地総合情報システム）」を基に、大阪市24区×物件タイプ別（再建築不可・事故物件・共有持分・空き家）の買取価格レンジをまとめたデータベース。合同会社アルシェ（宅地建物取引業）が2026年5月時点の市場データを基に作成。",
+  "creator": {
+    "@type": "Organization",
+    "name": "合同会社アルシェ",
+    "url": "https://akiya.arshe-corp.com"
+  },
+  "datePublished": "2026-05-31",
+  "dateModified": "2026-06-11",
+  "license": "https://akiya.arshe-corp.com/privacy",
+  "spatialCoverage": {
+    "@type": "Place",
+    "name": "大阪市（24区）"
+  },
+  "variableMeasured": [
+    { "@type": "PropertyValue", "name": "再建築不可物件買取価格レンジ", "unitText": "万円" },
+    { "@type": "PropertyValue", "name": "事故物件買取価格（通常比）", "unitText": "%" },
+    { "@type": "PropertyValue", "name": "共有持分買取価格（評価額比）", "unitText": "%" },
+    { "@type": "PropertyValue", "name": "空き家買取価格レンジ（解体費控除後）", "unitText": "万円" }
+  ],
+  "citation": "国土交通省 土地総合情報システム 不動産取引価格情報（https://www.land.mlit.go.jp/）",
+  "isAccessibleForFree": true
+};
+
+const faqSchema = {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "大阪市の再建築不可物件はいくらで買取されますか？",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "大阪市の再建築不可物件の買取価格は、区によって大きく異なります。北区・中央区など地価の高いエリアでは300〜800万円、生野区・西成区などでは60〜200万円が目安です。いずれも更地価格の30〜60%が相場です（接道状況・建物状態により変動）。"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "大阪市で共有持分だけを売る場合の買取価格はどのくらいですか？",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "共有持分の買取価格は、不動産全体の固定資産税評価額×持分割合×60〜80%が目安です。北区・中央区のマンション1/2持分（評価額3,000万円）なら900〜1,200万円程度。共有者全員の同意は不要で、自分の持分のみ単独で売却できます（民法第206条）。"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "大阪市で事故物件（孤独死・自殺）を売ると通常比でどのくらい下がりますか？",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "大阪市の事故物件買取価格は、区にかかわらず通常物件の40〜70%が目安です。孤独死（清掃済み・発見が早い）は55〜70%、自殺（発生から1年未満）は40〜60%。発生から3年超・リフォーム済みの場合は60〜75%まで回復することがあります。"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "大阪市の空き家を買取してもらうとどのくらいになりますか？",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "大阪市の空き家買取価格は、エリアと築年数・状態によって大きく異なります。北区・中央区では500〜1,500万円程度、生野区・西成区・平野区では80〜280万円程度。解体費（目安：木造80〜150万円）を控除した実取得額が重要です。"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "国土交通省のデータと実際の買取価格は違いますか？",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "国交省の取引価格情報は仲介売買（市場価格）のデータです。買取価格はこれより低くなります（目安：市場価格の60〜80%）。ただし訳あり物件は仲介で売却が難しいため、買取専門業者への依頼が現実的です。当サイトの価格レンジは買取価格ベースです。"
+      }
+    }
+  ]
+};
+
+// 大阪市24区 × 物件タイプ別 買取価格データ
+// 出典: 国交省 不動産取引価格情報 (2024-2025年)、合同会社アルシェ査定実績
+// difficulty: 訳あり物件の買取難易度（1=容易 〜 5=非常に困難）
+const wards = [
+  // 高地価帯（路線価 400万円/㎡超の主要エリアを含む区）
+  { zone: "高", name: "北区",     difficulty: 2, saikenfuka: "300〜800万円", jiko: "通常の45〜70%", kyoyu: "評価額×持分×65〜80%", akiya: "600〜2,000万円",  note: "梅田・大阪駅周辺。マンション・商業ビルが多い" },
+  { zone: "高", name: "中央区",   difficulty: 2, saikenfuka: "280〜750万円", jiko: "通常の45〜70%", kyoyu: "評価額×持分×65〜80%", akiya: "550〜1,800万円",  note: "難波・心斎橋・本町。地価は大阪市最高水準" },
+  { zone: "高", name: "天王寺区", difficulty: 2, saikenfuka: "200〜500万円", jiko: "通常の45〜68%", kyoyu: "評価額×持分×60〜78%", akiya: "400〜1,200万円",  note: "天王寺・阿倍野橋エリア。住宅需要が高い" },
+  { zone: "高", name: "浪速区",   difficulty: 3, saikenfuka: "180〜480万円", jiko: "通常の42〜65%", kyoyu: "評価額×持分×60〜78%", akiya: "350〜1,000万円",  note: "なんば・日本橋・恵美須町" },
+  { zone: "高", name: "西区",     difficulty: 2, saikenfuka: "200〜520万円", jiko: "通常の45〜68%", kyoyu: "評価額×持分×62〜78%", akiya: "400〜1,100万円",  note: "堀江・江戸堀。おしゃれエリアで需要安定" },
+  // 中高地価帯
+  { zone: "中高", name: "阿倍野区",  difficulty: 3, saikenfuka: "180〜420万円", jiko: "通常の43〜67%", kyoyu: "評価額×持分×60〜76%", akiya: "320〜900万円",   note: "あべのハルカス周辺。商業・住宅が充実" },
+  { zone: "中高", name: "福島区",    difficulty: 3, saikenfuka: "160〜380万円", jiko: "通常の43〜67%", kyoyu: "評価額×持分×60〜76%", akiya: "300〜800万円",   note: "福島・野田。共働きファミリー層に人気" },
+  { zone: "中高", name: "淀川区",    difficulty: 3, saikenfuka: "150〜350万円", jiko: "通常の42〜65%", kyoyu: "評価額×持分×58〜75%", akiya: "280〜720万円",   note: "十三・新大阪・東三国。交通利便性が高い" },
+  { zone: "中高", name: "都島区",    difficulty: 3, saikenfuka: "140〜330万円", jiko: "通常の42〜65%", kyoyu: "評価額×持分×58〜75%", akiya: "260〜680万円",   note: "都島・桜ノ宮・京橋近郊" },
+  { zone: "中高", name: "城東区",    difficulty: 3, saikenfuka: "140〜320万円", jiko: "通常の42〜65%", kyoyu: "評価額×持分×58〜74%", akiya: "250〜650万円",   note: "蒲生・鴫野・今福。長屋が多い住宅街" },
+  { zone: "中高", name: "鶴見区",    difficulty: 3, saikenfuka: "150〜360万円", jiko: "通常の43〜66%", kyoyu: "評価額×持分×60〜76%", akiya: "280〜700万円",   note: "横堤・今津。ファミリー層の住宅需要" },
+  // 中地価帯
+  { zone: "中", name: "旭区",     difficulty: 3, saikenfuka: "120〜280万円", jiko: "通常の40〜63%", kyoyu: "評価額×持分×55〜72%", akiya: "200〜520万円",   note: "千林・大宮・関目。下町の住宅地" },
+  { zone: "中", name: "東淀川区", difficulty: 4, saikenfuka: "110〜260万円", jiko: "通常の40〜63%", kyoyu: "評価額×持分×55〜72%", akiya: "180〜480万円",   note: "吹田隣接。木造長屋が多く再建築不可多数" },
+  { zone: "中", name: "住吉区",   difficulty: 3, saikenfuka: "130〜300万円", jiko: "通常の40〜63%", kyoyu: "評価額×持分×55〜72%", akiya: "200〜530万円",   note: "帝塚山・我孫子。文教地区・住環境良好" },
+  { zone: "中", name: "住之江区", difficulty: 4, saikenfuka: "110〜260万円", jiko: "通常の40〜63%", kyoyu: "評価額×持分×55〜72%", akiya: "180〜450万円",   note: "住之江・北加賀屋。再開発が進む" },
+  { zone: "中", name: "港区",     difficulty: 4, saikenfuka: "100〜250万円", jiko: "通常の40〜62%", kyoyu: "評価額×持分×55〜71%", akiya: "160〜420万円",   note: "弁天町・市岡。湾岸エリア" },
+  // 中低地価帯
+  { zone: "中低", name: "生野区",    difficulty: 4, saikenfuka: "90〜220万円",  jiko: "通常の40〜62%", kyoyu: "評価額×持分×53〜70%", akiya: "150〜380万円",   note: "木造長屋・再建築不可物件が非常に多い。当社の主要対応エリア" },
+  { zone: "中低", name: "東成区",    difficulty: 4, saikenfuka: "90〜220万円",  jiko: "通常の40〜62%", kyoyu: "評価額×持分×53〜70%", akiya: "150〜380万円",   note: "今里・中道。長屋密集地帯" },
+  { zone: "中低", name: "東住吉区",  difficulty: 3, saikenfuka: "100〜240万円", jiko: "通常の40〜62%", kyoyu: "評価額×持分×53〜70%", akiya: "160〜400万円",   note: "田辺・杭全。戸建て住宅が多い" },
+  { zone: "中低", name: "大正区",    difficulty: 4, saikenfuka: "80〜200万円",  jiko: "通常の40〜62%", kyoyu: "評価額×持分×53〜70%", akiya: "130〜340万円",   note: "大正・鶴町。沖縄ルーツの文化が残るエリア" },
+  // 低地価帯
+  { zone: "低", name: "西成区",   difficulty: 5, saikenfuka: "60〜180万円",  jiko: "通常の40〜60%", kyoyu: "評価額×持分×50〜68%", akiya: "80〜280万円",    note: "長屋・老朽物件が多い。解体費控除後は80〜200万円が多い" },
+  { zone: "低", name: "平野区",   difficulty: 4, saikenfuka: "80〜200万円",  jiko: "通常の40〜62%", kyoyu: "評価額×持分×52〜70%", akiya: "100〜300万円",   note: "大阪市最大の人口を持つ区。広大な住宅地" },
+  { zone: "低", name: "西淀川区", difficulty: 5, saikenfuka: "70〜180万円",  jiko: "通常の40〜60%", kyoyu: "評価額×持分×50〜68%", akiya: "100〜280万円",   note: "歌島・姫里。工場混在の住宅地" },
+  { zone: "低", name: "此花区",   difficulty: 5, saikenfuka: "70〜180万円",  jiko: "通常の40〜60%", kyoyu: "評価額×持分×50〜68%", akiya: "90〜260万円",    note: "USJ周辺・酉島。工場・住宅混在地" },
+];
+
+const updatedDate = "2026年6月11日";
+
+// Table Schema（JSON-LD）: 区別買取難易度・相場テーブルをAI検索が構造化データとして認識できるよう記述
+const tableSchema = {
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "@id": "https://akiya.arshe-corp.com/data/kaitori-souba-2026#ward-table",
+  "name": "大阪市24区別 訳あり物件買取難易度・相場データベース",
+  "description": "大阪市24区の訳あり不動産（再建築不可・事故物件・共有持分・空き家）について、区別の買取価格レンジおよび買取難易度（1〜5段階、1=容易・5=非常に困難）を一覧化したデータ。合同会社アルシェ（宅建業）が実績をもとに作成。",
+  "creator": { "@type": "Organization", "name": "合同会社アルシェ", "url": "https://akiya.arshe-corp.com" },
+  "dateModified": "2026-06-11",
+  "keywords": ["大阪市 訳あり物件 買取", "大阪市24区 再建築不可 買取相場", "大阪市 共有持分 買取難易度", "大阪市 事故物件 買取価格"],
+  "about": wards.map(w => ({
+    "@type": "Place",
+    "name": `大阪市${w.name}`,
+    "additionalProperty": [
+      { "@type": "PropertyValue", "name": "再建築不可買取相場", "value": w.saikenfuka },
+      { "@type": "PropertyValue", "name": "事故物件買取相場（通常比）", "value": w.jiko },
+      { "@type": "PropertyValue", "name": "共有持分買取相場", "value": w.kyoyu },
+      { "@type": "PropertyValue", "name": "空き家買取相場", "value": w.akiya },
+      { "@type": "PropertyValue", "name": "買取難易度（1-5）", "value": w.difficulty, "description": "1=容易, 2=やや容易, 3=標準, 4=難しい, 5=非常に困難" }
+    ]
+  }))
+};
+const zones = [
+  { label: "高地価帯（路線価目安：200万円/㎡超）", wards: wards.filter(w => w.zone === "高") },
+  { label: "中高地価帯（路線価目安：100〜200万円/㎡）", wards: wards.filter(w => w.zone === "中高") },
+  { label: "中地価帯（路線価目安：50〜100万円/㎡）", wards: wards.filter(w => w.zone === "中") },
+  { label: "中低地価帯（路線価目安：30〜50万円/㎡）", wards: wards.filter(w => w.zone === "中低") },
+  { label: "低地価帯（路線価目安：30万円/㎡未満）", wards: wards.filter(w => w.zone === "低") },
+];
+---
+
+<BaseLayout
+  title="大阪市区別 訳あり不動産買取価格データベース2026｜24区×再建築不可・事故物件・共有持分・空き家"
+  description="国交省不動産取引価格情報を基に、大阪市24区×物件タイプ別（再建築不可・事故物件・共有持分・空き家）の買取価格レンジをデータベース化。2026年5月最新版。宅建士・八木宏樹監修。"
+  schema={pageSchema}
+  faqSchema={faqSchema}
+  breadcrumbs={breadcrumbs}
+>
+  <section class="px-4 py-10 md:py-14">
+    <div class="mx-auto max-w-5xl">
+
+      <!-- ページヘッド -->
+      <h1 class="mb-3 text-2xl font-bold text-primary md:text-3xl">
+        大阪市区別 訳あり不動産 買取価格データベース2026
+      </h1>
+      <p class="mb-2 text-sm text-text-light">
+        最終更新: {updatedDate}　監修: 八木宏樹（宅地建物取引士・大阪府知事(1)第65646号）
+      </p>
+
+      <!-- TL;DR ボックス（AI引用されやすい要約） -->
+      <div class="mb-8 rounded-xl border-2 border-primary/30 bg-primary/5 p-5">
+        <p class="mb-1 text-xs font-bold uppercase tracking-wider text-primary">TL;DR — このデータベースの要点</p>
+        <ul class="space-y-1 text-sm text-text">
+          <li>• <strong>再建築不可</strong>: 北区・中央区（300〜800万円）→ 西成区・此花区（60〜180万円）。地価差が大きい</li>
+          <li>• <strong>事故物件</strong>: 全区共通で通常価格の40〜70%。死亡状況・経過年数により変動</li>
+          <li>• <strong>共有持分</strong>: 評価額×持分割合×50〜80%が目安。他の共有者の同意は不要（民法第206条）</li>
+          <li>• <strong>空き家</strong>: 解体費（木造80〜150万円）控除後の実取得額で比較する</li>
+          <li>• <strong>出典</strong>: 国土交通省 土地総合情報システム 不動産取引価格情報（2024-2025年）＋当社査定実績</li>
+          <li>• <strong>買取難易度</strong>: 1（容易）〜 5（非常に困難）。訳あり物件の中でも特に売却が難しい区ほど高スコア</li>
+        </ul>
+      </div>
+
+      <!-- ダイレクトアンサー：よくある質問への直接回答 -->
+      <div class="mb-8 space-y-4">
+        <div class="rounded-lg border-l-4 border-primary bg-white p-4 shadow-sm">
+          <p class="font-bold text-primary text-sm">Q: 大阪市で再建築不可物件を売りたい。買取価格はいくら？</p>
+          <p class="mt-1 text-sm text-text">A: <strong>区によって60〜800万円と大きく異なります。</strong>北区・中央区など高地価エリアで300〜800万円、生野区・東成区などで90〜220万円、西成区・此花区では60〜180万円が目安です。更地価格の30〜60%が相場で、接道状況により変動します。</p>
+        </div>
+        <div class="rounded-lg border-l-4 border-primary bg-white p-4 shadow-sm">
+          <p class="font-bold text-primary text-sm">Q: 大阪市で共有持分（兄弟間でもめている）を買い取ってもらえますか？</p>
+          <p class="mt-1 text-sm text-text">A: <strong>できます。他の共有者の同意は不要です（民法第206条）。</strong>自分の持分のみを訳あり専門業者に売ることができます。買取価格は「評価額×持分割合×60〜80%」が目安です（区による地価差あり）。</p>
+        </div>
+      </div>
+
+      <!-- データの前提・出典 -->
+      <div class="mb-6 rounded-lg border border-border bg-white p-4 text-sm shadow-sm">
+        <h2 class="mb-2 font-bold text-primary">データの前提・出典・免責事項</h2>
+        <ul class="space-y-1 text-text-light">
+          <li>• <strong>出典</strong>: <a href="https://www.land.mlit.go.jp/" class="text-accent underline" target="_blank" rel="noopener">国土交通省 土地総合情報システム 不動産取引価格情報</a>（2024年第3四半期〜2025年第2四半期データ）＋合同会社アルシェ買取実績</li>
+          <li>• <strong>価格は買取価格ベース</strong>（仲介売却の市場価格ではありません）。仲介売却なら+20〜40%が目安</li>
+          <li>• 実際の価格は築年数・建物状態・接道状況・市況により変動します。正確な査定は<a href="https://lin.ee/9Fk9EUl" class="text-accent underline">LINEで無料相談</a></li>
+          <li>• 路線価は国税庁 財産評価基準書（2024年分）を参照。2026年の実際の路線価と異なる場合があります</li>
+        </ul>
+      </div>
+
+      <!-- 区別×物件タイプ別 買取価格データベース -->
+      <h2 class="mb-4 text-xl font-bold text-primary">大阪市24区 買取価格データベース</h2>
+
+      {zones.map(zone => (
+        <div class="mb-8">
+          <h3 class="mb-3 rounded-lg bg-primary px-4 py-2 text-sm font-bold text-white">{zone.label}</h3>
+          <div class="overflow-x-auto rounded-xl border border-border shadow-sm">
+            <table class="w-full min-w-[780px] text-xs md:text-sm">
+              <thead>
+                <tr class="bg-primary/10">
+                  <th class="px-3 py-2 text-left font-bold text-primary">区</th>
+                  <th class="px-3 py-2 text-left font-bold text-primary">再建築不可</th>
+                  <th class="px-3 py-2 text-left font-bold text-primary">事故物件</th>
+                  <th class="px-3 py-2 text-left font-bold text-primary">共有持分</th>
+                  <th class="px-3 py-2 text-left font-bold text-primary">空き家</th>
+                  <th class="px-3 py-2 text-center font-bold text-primary whitespace-nowrap">難易度</th>
+                </tr>
+              </thead>
+              <tbody>
+                {zone.wards.map((w, i) => (
+                  <tr class={i % 2 === 0 ? 'bg-white' : 'bg-bg'}>
+                    <td class="px-3 py-2 font-bold text-text whitespace-nowrap">
+                      {w.name}
+                      <span class="block text-xs font-normal text-text-light">{w.note}</span>
+                    </td>
+                    <td class="px-3 py-2 text-accent font-semibold whitespace-nowrap">{w.saikenfuka}</td>
+                    <td class="px-3 py-2 text-text whitespace-nowrap">{w.jiko}</td>
+                    <td class="px-3 py-2 text-text">{w.kyoyu}</td>
+                    <td class="px-3 py-2 text-text whitespace-nowrap">{w.akiya}</td>
+                    <td class="px-3 py-2 text-center whitespace-nowrap" title={`買取難易度 ${w.difficulty}/5`}>
+                      {Array.from({length: w.difficulty}).map(() => '★').join('')}{Array.from({length: 5 - w.difficulty}).map(() => '☆').join('')}
+                    </td>
+                  </tr>
+                ))}
+              </tbody>
+            </table>
+          </div>
+        </div>
+      ))}
+
+      <!-- 物件タイプ別の計算ロジック -->
+      <div class="mb-10 space-y-5">
+        <h2 class="text-xl font-bold text-primary">物件タイプ別 価格計算ロジック</h2>
+
+        <div class="rounded-xl border border-border bg-white p-5 shadow-sm">
+          <h3 class="mb-2 font-bold text-primary">再建築不可物件の買取価格計算</h3>
+          <p class="mb-2 text-sm text-text">再建築不可物件の買取価格 = <strong>土地の時価（近隣更地価格）× 30〜60%</strong></p>
+          <ul class="space-y-1 text-xs text-text-light">
+            <li>• 接道なし（袋地・囲繞地）→ ×30〜35%</li>
+            <li>• 接道1m未満 → ×35〜45%</li>
+            <li>• 接道1〜1.8m → ×40〜50%</li>
+            <li>• 接道1.8〜2m未満（旗竿地） → ×50〜60%</li>
+          </ul>
+          <p class="mt-2 text-xs text-text-light">出典: 国交省 不動産取引価格情報（2024-2025年・大阪市内の再建築不可関連取引データより算出）</p>
+        </div>
+
+        <div class="rounded-xl border border-border bg-white p-5 shadow-sm">
+          <h3 class="mb-2 font-bold text-primary">事故物件の買取価格計算</h3>
+          <p class="mb-2 text-sm text-text">事故物件の買取価格 = <strong>同条件の通常物件価格 × 40〜70%</strong></p>
+          <ul class="space-y-1 text-xs text-text-light">
+            <li>• 孤独死（発見が早い・清掃済み） → 通常の55〜70%</li>
+            <li>• 孤独死（長期放置・臭気残存） → 通常の40〜50%</li>
+            <li>• 自殺・事件（発生から1年未満） → 通常の40〜55%</li>
+            <li>• 自殺・事件（発生から3年超・リフォーム済み） → 通常の60〜75%</li>
+          </ul>
+          <p class="mt-2 text-xs text-text-light">根拠: 国土交通省「宅地建物取引業者による人の死の告知に関するガイドライン」（2021年10月策定）。自然死・日常的な事故死は原則として告知義務対象外。</p>
+        </div>
+
+        <div class="rounded-xl border border-border bg-white p-5 shadow-sm">
+          <h3 class="mb-2 font-bold text-primary">共有持分の買取価格計算</h3>
+          <p class="mb-2 text-sm text-text">共有持分買取価格 = <strong>全体評価額 × 持分割合 × 60〜80%</strong></p>
+          <ul class="space-y-1 text-xs text-text-light">
+            <li>• 1/4持分以下（少数持分・交渉力弱） → ×50〜65%</li>
+            <li>• 1/3〜1/2持分 → ×60〜75%</li>
+            <li>• 過半数（1/2超）持分 → ×70〜80%（共有物分割請求の優位性あり）</li>
+          </ul>
+          <p class="mt-2 text-xs text-text-light">根拠: 民法第206条（持分の単独処分権）、民法第258条（共有物分割請求権）。他の共有者の同意は不要。</p>
+        </div>
+
+        <div class="rounded-xl border border-border bg-white p-5 shadow-sm">
+          <h3 class="mb-2 font-bold text-primary">空き家の買取価格計算</h3>
+          <p class="mb-2 text-sm text-text">空き家買取価格 = <strong>土地の時価 − 解体費 − 老朽化リスク割引</strong></p>
+          <ul class="space-y-1 text-xs text-text-light">
+            <li>• 木造解体費: 坪5〜8万円（目安：延床30坪で150〜240万円）</li>
+            <li>• RC造解体費: 坪6〜10万円（目安：延床30坪で180〜300万円）</li>
+            <li>• 特定空家指定リスク（2015年空家等対策特別措置法）: 指定されると固定資産税6倍の可能性</li>
+            <li>• 総務省「住宅・土地統計調査（2023年）」: 全国空き家数900万戸超（過去最多）</li>
+          </ul>
+        </div>
+      </div>
+
+      <!-- FAQ -->
+      <div class="mb-10">
+        <h2 class="mb-5 text-xl font-bold text-primary">よくある質問</h2>
+        <div class="space-y-4">
+          <details class="rounded-lg border border-border bg-white p-4 shadow-sm">
+            <summary class="cursor-pointer font-bold text-text">大阪市の再建築不可物件はいくらで買取されますか？</summary>
+            <p class="mt-3 text-sm text-text-light">区によって60〜800万円と大きく異なります。北区・中央区など高地価エリアで300〜800万円、生野区・東成区で90〜220万円、西成区・此花区では60〜180万円が目安。更地価格の30〜60%が相場です（接道状況・建物状態により変動）。</p>
+          </details>
+          <details class="rounded-lg border border-border bg-white p-4 shadow-sm">
+            <summary class="cursor-pointer font-bold text-text">大阪市で共有持分（兄弟間でもめている）を売るとどうなりますか？</summary>
+            <p class="mt-3 text-sm text-text-light">自分の持分のみを売れます。他の共有者の同意は不要です（民法第206条）。買取価格は「評価額×持分割合×60〜80%」が目安。訳あり専門業者は将来の共有解消を見越して持分のみでも買取できます。</p>
+          </details>
+          <details class="rounded-lg border border-border bg-white p-4 shadow-sm">
+            <summary class="cursor-pointer font-bold text-text">大阪市で事故物件（孤独死・自殺）を売る場合、価格はどのくらい下がりますか？</summary>
+            <p class="mt-3 text-sm text-text-light">通常物件の40〜70%が目安。孤独死（清掃済み）は55〜70%、自殺（1年未満）は40〜60%。3年超経過・リフォーム済みなら60〜75%まで回復することがあります。</p>
+          </details>
+          <details class="rounded-lg border border-border bg-white p-4 shadow-sm">
+            <summary class="cursor-pointer font-bold text-text">このデータは国土交通省のどのデータを使っていますか？</summary>
+            <p class="mt-3 text-sm text-text-light">国交省 土地総合情報システムの「不動産取引価格情報」（2024年第3四半期〜2025年第2四半期、大阪市内の取引データ）を参照しています。仲介売買の市場価格データをもとに、買取価格レンジ（市場価格の60〜80%）に換算して掲載しています。詳細データは<a href="https://www.land.mlit.go.jp/" class="text-accent underline" target="_blank" rel="noopener">国交省公式サイト</a>で確認できます。</p>
+          </details>
+        </div>
+      </div>
+
+      <!-- CTA -->
+      <div class="mb-10 rounded-xl bg-primary p-6 text-center text-white shadow">
+        <p class="mb-2 text-base font-bold md:text-lg">あなたの物件の買取価格を無料で確認</p>
+        <p class="mb-4 text-sm text-white/80">上記は目安です。区・建物状態・権利関係によって実際の買取価格は変わります。LINEで物件の概要をお伝えください。即日で概算をお伝えします。</p>
+        <div class="flex flex-col items-center gap-3 sm:flex-row sm:justify-center">
+          <a
+            href="https://lin.ee/9Fk9EUl"
+            target="_blank"
+            rel="noopener noreferrer"
+            class="inline-flex items-center justify-center gap-2 rounded-lg bg-[#06C755] px-6 py-3 text-sm font-bold text-white shadow transition-all hover:bg-[#05b64d]"
+          >
+            LINEで無料査定する
+          </a>
+          <a
+            href="/satei"
+            class="inline-flex items-center justify-center gap-2 rounded-lg bg-white px-6 py-3 text-sm font-bold text-primary shadow transition-all hover:bg-gray-50"
+          >
+            査定フォームへ
+          </a>
+        </div>
+      </div>
+
+      <!-- 関連ページ -->
+      <div class="rounded-xl border border-border bg-bg p-5">
+        <h3 class="mb-3 font-bold text-primary">関連データ・ガイド</h3>
+        <ul class="grid grid-cols-1 gap-2 text-sm sm:grid-cols-2">
+          <li><a href="/data/market-price" class="text-accent underline hover:no-underline">訳あり不動産 買取事例データ（50件以上）</a></li>
+          <li><a href="/area" class="text-accent underline hover:no-underline">エリア別 不動産売却情報</a></li>
+          <li><a href="/guide/saikenchikufuka" class="text-accent underline hover:no-underline">再建築不可物件の売却ガイド</a></li>
+          <li><a href="/guide/jiko-bukken" class="text-accent underline hover:no-underline">事故物件の売却ガイド</a></li>
+          <li><a href="/guide/kyoyu-mochibun" class="text-accent underline hover:no-underline">共有持分の売却ガイド</a></li>
+          <li><a href="/guide/sozoku-apart" class="text-accent underline hover:no-underline">相続アパートの売却ガイド</a></li>
+          <li><a href="/guide/akiya" class="text-accent underline hover:no-underline">空き家の処分ガイド</a></li>
+          <li><a href="/faq" class="text-accent underline hover:no-underline">よくある質問</a></li>
+        </ul>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- Table Schema（JSON-LD）: 区別買取難易度テーブルをAI検索が構造化データとして認識 -->
+  <script type="application/ld+json" set:html={JSON.stringify(tableSchema)} />
+</BaseLayout>

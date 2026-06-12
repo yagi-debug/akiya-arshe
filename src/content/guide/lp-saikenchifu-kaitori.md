@@ -117,6 +117,14 @@ STEP 5: 決済・所有権移転・現金振込
 
 ---
 
+## 関連するガイド記事
+
+- <a href="/guide/saikenchifu-kaitori-jirei">再建築不可物件の買取事例5選｜袋地・2m未満接道・旗竿地の解決ストーリー</a>
+- <a href="/guide/saikenchifu-hub">再建築不可物件 完全ハブ｜売却・買取・価格相場・事例まで全ガイドまとめ【2026年版】</a>
+- <a href="/guide/saikenchifu-osaka-uri-jirei">大阪市の再建築不可物件｜仲介で売れなかった3つの失敗パターンと買取解決事例3件【2026年版】</a>
+- <a href="/guide/furui-akiya-kekkan-kaitori">雨漏り・傾き・老朽化した家でも売れる？現況買取の仕組みと3つの解決策【2026年版】</a>
+- <a href="/guide/kaitori-jirei-10sen">訳あり不動産の買取実績10選｜相続・再建築不可・事故物件・共有持分・空き家の解決事例集</a>
+
 ## 査定に必要な書類
 
 - **登記簿謄本**（なければ住所・地番のみでOK）

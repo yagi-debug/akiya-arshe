@@ -166,6 +166,14 @@ cluster: "akiya-tax"
 
 ---
 
+## 関連するガイド記事
+
+- <a href="/guide/akiya-shobun-5-hikaku">空き家処分の5大選択肢を徹底比較【2026年版】費用・期間・手残り額</a>
+- <a href="/guide/kotei-shisan-zei-nousho-baikyaku-3taiken">【実録】固定資産税の通知書が届き、空き家売却を決意した3つの体験談【2026年5月】</a>
+- <a href="/guide/akiya-kaitori">空き家の買取｜固定資産税6倍リスクのある空き家を今すぐ現金化【全国対応・最短3日】</a>
+- <a href="/guide/souzoku-fudousan-urikata-kanzen-guide">【2026年版】相続した不動産の売り方 完全ガイド｜実務手順・費用・業者選定を買取業者が解説</a>
+- <a href="/guide/kaitori-jirei-10sen">訳あり不動産の買取実績10選｜相続・再建築不可・事故物件・共有持分・空き家の解決事例集</a>
+
 ## 無料相談・お問い合わせ
 
 「まず相談だけしたい」という方も歓迎しています。物件の状況・急ぎ度合い・ご希望をお聞きした上で、最適な対応をご提案します。

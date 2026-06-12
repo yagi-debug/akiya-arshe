@@ -1,0 +1,323 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+
+const breadcrumbs = [
+  { name: "ホーム", url: "/" },
+  { name: "会社概要", url: "/about" },
+  { name: "専門家プロフィール：八木 宏樹", url: "/about/hiroki" },
+];
+
+const personSchema = {
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://akiya.arshe-corp.com/about/hiroki#person",
+  "name": "八木 宏樹",
+  "alternateName": "ひろき",
+  "url": "https://akiya.arshe-corp.com/about/hiroki",
+  "jobTitle": "代表社員・宅地建物取引士",
+  "description": "宅地建物取引士（大阪府知事(1)第65646号）。合同会社アルシェ代表。空き家・相続アパート・再建築不可・事故物件・共有持分など「訳あり不動産」の直接買取を全国対応で専門とする。「どこにも断られた物件でも諦めない」をモットーに、相続・空き家・管理不能物件の課題解決を手がける。",
+  "worksFor": {
+    "@type": "Organization",
+    "@id": "https://akiya.arshe-corp.com/#organization",
+    "name": "合同会社アルシェ",
+    "alternateName": "空き家のミカタ",
+    "url": "https://akiya.arshe-corp.com",
+  },
+  "hasCredential": [
+    {
+      "@type": "EducationalOccupationalCredential",
+      "name": "宅地建物取引士",
+      "credentialCategory": "license",
+      "recognizedBy": {
+        "@type": "GovernmentOrganization",
+        "name": "大阪府知事",
+      },
+      "identifier": "大阪府知事 (1) 第65646号",
+    },
+  ],
+  "knowsAbout": [
+    "訳あり不動産の買取",
+    "相続アパートの売却・買取",
+    "再建築不可物件の買取",
+    "事故物件の取扱いと告知義務",
+    "共有持分の買取・整理",
+    "空き家対策・空き家買取",
+    "底地・借地権の整理",
+    "相続不動産の売却手続き",
+    "使用貸借・地代問題",
+    "不動産の境界確定・測量",
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "小路3-17-19",
+    "addressLocality": "大阪市生野区",
+    "addressRegion": "大阪府",
+    "postalCode": "544-0002",
+    "addressCountry": "JP",
+  },
+  "telephone": "+81-6-7509-5696",
+  "email": "info.arshe@arshe-corp.com",
+  "sameAs": [
+    "https://note.com/akiyanomikata",
+    "https://arshe1719.hatenablog.com",
+    "https://akiya.arshe-corp.com/about",
+  ],
+};
+
+const faqSchema = {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "八木宏樹さんはどんな資格を持っていますか？",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "八木宏樹は宅地建物取引士（大阪府知事(1)第65646号）を保有しています。不動産取引の国家資格として、物件調査・契約・重要事項説明を法的に行う権限があります。",
+      },
+    },
+    {
+      "@type": "Question",
+      "name": "どんな訳あり物件を専門に取り扱っていますか？",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "相続アパート（入居者付き・空室混在）、再建築不可物件（接道義務未達）、事故物件（告知義務対象）、共有持分（兄弟間トラブルを含む）、空き家・放置物件、底地・借地権付き物件など、一般的な不動産会社が断ることの多い「訳あり物件」を直接買取で全国対応しています。",
+      },
+    },
+    {
+      "@type": "Question",
+      "name": "大阪以外でも対応できますか？",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "はい、全国対応しています。拠点は大阪市生野区ですが、相続で遠方に物件がある方や県外在住の方でも、オンライン相談・書類郵送での対応が可能です。まずはLINEまたはメールでご相談ください。",
+      },
+    },
+    {
+      "@type": "Question",
+      "name": "相談は無料ですか？費用はかかりますか？",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "初回相談は無料です。直接買取のため仲介手数料は不要です。査定・買取の流れについてはご相談の中でご説明します。",
+      },
+    },
+  ],
+};
+---
+
+<BaseLayout
+  title="専門家プロフィール：八木 宏樹（宅地建物取引士）｜空き家のミカタ"
+  description="八木宏樹のプロフィール。宅地建物取引士（大阪府知事(1)第65646号）。訳あり不動産（相続アパート・再建築不可・事故物件・共有持分・空き家）の直接買取専門家。相談実績・資格・専門領域を公開。"
+  schema={personSchema}
+  faqSchema={faqSchema}
+  breadcrumbs={breadcrumbs}
+>
+  <article class="px-4 py-12 md:py-16">
+    <div class="mx-auto max-w-3xl">
+      <h1 class="mb-2 text-center text-2xl font-bold text-primary md:text-3xl">
+        八木 宏樹（Hiroki Yagi）
+      </h1>
+      <p class="mb-10 text-center text-sm text-accent font-medium">
+        代表社員 / 宅地建物取引士 — 合同会社アルシェ（空き家のミカタ）
+      </p>
+
+      <!-- TL;DR ボックス（AI抽出向け） -->
+      <div class="mb-10 rounded-xl border-l-4 border-accent bg-bg px-6 py-5">
+        <p class="text-sm font-bold text-accent mb-1">この記事の要約</p>
+        <p class="text-sm leading-relaxed text-text">
+          八木宏樹は宅地建物取引士（大阪府知事(1)第65646号）を保有する訳あり不動産の買取専門家。
+          相続アパート・再建築不可・事故物件・共有持分・空き家など一般会社が断る物件を直接買取。
+          大阪拠点・全国対応・仲介手数料なし。
+        </p>
+      </div>
+
+      <!-- プロフィールカード -->
+      <div class="mb-12 overflow-hidden rounded-xl border border-border bg-white shadow-sm">
+        <div class="p-6 md:p-8">
+          <dl class="grid grid-cols-1 gap-4 sm:grid-cols-2 text-sm">
+            <div>
+              <dt class="font-bold text-text mb-1">氏名</dt>
+              <dd class="text-text-light">八木 宏樹（Hiroki Yagi）</dd>
+            </div>
+            <div>
+              <dt class="font-bold text-text mb-1">役職</dt>
+              <dd class="text-text-light">代表社員</dd>
+            </div>
+            <div>
+              <dt class="font-bold text-text mb-1">保有資格</dt>
+              <dd class="text-text-light">宅地建物取引士</dd>
+            </div>
+            <div>
+              <dt class="font-bold text-text mb-1">免許番号</dt>
+              <dd class="text-text-light">大阪府知事 (1) 第65646号</dd>
+            </div>
+            <div>
+              <dt class="font-bold text-text mb-1">所属</dt>
+              <dd class="text-text-light">合同会社アルシェ（空き家のミカタ）</dd>
+            </div>
+            <div>
+              <dt class="font-bold text-text mb-1">対応エリア</dt>
+              <dd class="text-text-light">全国対応</dd>
+            </div>
+          </dl>
+
+          <div class="mt-6 rounded-lg bg-bg p-4">
+            <p class="text-sm leading-relaxed italic text-text">
+              「売れないと言われた物件でも、あきらめないでください。
+              どこにも断られた物件ほど、私に相談してほしい。
+              訳あり不動産の買取で、あなたのお悩みを解決します。」
+            </p>
+            <p class="mt-2 text-xs text-right text-text-light">— 八木 宏樹</p>
+          </div>
+        </div>
+      </div>
+
+      <!-- 専門領域 -->
+      <section class="mb-12">
+        <h2 class="mb-6 text-xl font-bold text-primary">専門領域</h2>
+        <div class="grid gap-4 sm:grid-cols-2">
+          {[
+            {
+              title: "相続アパート・収益物件",
+              desc: "入居者付き・空室混在・管理会社トラブルなど、相続後に「どうすればいい？」と困っているアパートを直接買取。家賃収入ゼロでも対応可。",
+            },
+            {
+              title: "再建築不可物件",
+              desc: "接道義務を満たさず建て替えができない物件。路地奥・旗竿地・幅4m未満の道路に面した土地も査定可能。",
+            },
+            {
+              title: "事故物件・瑕疵物件",
+              desc: "告知義務が生じる物件（自殺・孤独死・火災等）。心理的瑕疵の告知義務の範囲・期間も丁寧に説明。現況そのままで買取。",
+            },
+            {
+              title: "共有持分",
+              desc: "兄弟間のもめごと・連絡が取れない共有者・親族間の利害対立など、共有状態の解消を全国対応でサポート。",
+            },
+            {
+              title: "空き家・放置物件",
+              desc: "相続で引き継いだが管理できない空き家。特定空き家指定前に早期売却することで固定資産税6倍化を回避できる。",
+            },
+            {
+              title: "底地・借地権",
+              desc: "地代問題・更新料トラブル・借地権付き建物の売却。複雑な権利関係も整理して買取まで対応。",
+            },
+          ].map((item) => (
+            <div class="rounded-lg border border-border bg-white p-5 shadow-sm">
+              <h3 class="mb-2 font-bold text-primary text-sm">{item.title}</h3>
+              <p class="text-xs leading-relaxed text-text-light">{item.desc}</p>
+            </div>
+          ))}
+        </div>
+      </section>
+
+      <!-- 相談事例（匿名） -->
+      <section class="mb-12">
+        <h2 class="mb-6 text-xl font-bold text-primary">相談事例（匿名・一部抜粋）</h2>
+        <div class="space-y-4">
+          {[
+            {
+              tag: "相続アパート",
+              summary: "大阪市内の築38年アパート（1R×8室）を相続。入居者3名・空室5室の状態で管理が難しく、他社に断られた後にご相談。現況のまま直接買取で決済完了。",
+            },
+            {
+              tag: "再建築不可",
+              summary: "間口1.8mの旗竿地に建つ木造戸建てを相続。再建築不可のため仲介では売れず困っていた。買取価格を提示し、スムーズに手放せた。",
+            },
+            {
+              tag: "共有持分",
+              summary: "父が亡くなり兄弟3人で相続した実家。弟とは10年以上疎遠で連絡もつかない。2/3の持分のみを買取できる旨を説明し、解決に向けて調整中。",
+            },
+            {
+              tag: "空き家",
+              summary: "地方の実家を相続後、3年放置。隣地から草木の越境を指摘され急いで処分したい。現地確認・査定から約2週間で買取完了。",
+            },
+          ].map((c) => (
+            <div class="rounded-lg border border-border bg-white p-5 shadow-sm">
+              <span class="inline-block mb-2 rounded bg-accent px-2 py-0.5 text-xs font-bold text-white">
+                {c.tag}
+              </span>
+              <p class="text-sm leading-relaxed text-text-light">{c.summary}</p>
+            </div>
+          ))}
+        </div>
+        <p class="mt-3 text-xs text-text-light">※ 個人を特定できる情報は変更・省略しています。</p>
+      </section>
+
+      <!-- よくある質問 -->
+      <section class="mb-12">
+        <h2 class="mb-6 text-xl font-bold text-primary">よくある質問</h2>
+        <div class="space-y-4">
+          {[
+            {
+              q: "Q. 八木宏樹さんはどんな資格を持っていますか？",
+              a: "宅地建物取引士（大阪府知事(1)第65646号）を保有しています。不動産取引の国家資格として、物件調査・契約・重要事項説明を法的に行う権限があります。",
+            },
+            {
+              q: "Q. どんな訳あり物件を専門に取り扱っていますか？",
+              a: "相続アパート（入居者付き・空室混在）、再建築不可物件、事故物件、共有持分（兄弟間トラブルを含む）、空き家・放置物件、底地・借地権付き物件など。一般的な不動産会社が断ることの多い物件を直接買取で全国対応しています。",
+            },
+            {
+              q: "Q. 大阪以外でも対応できますか？",
+              a: "全国対応しています。拠点は大阪市生野区ですが、遠方物件でもオンライン相談・書類郵送での対応が可能です。まずはLINEまたはメールでご相談ください。",
+            },
+            {
+              q: "Q. 相談は無料ですか？",
+              a: "初回相談は無料です。直接買取のため仲介手数料は発生しません。査定・買取の流れはご相談の中でご説明します。",
+            },
+          ].map((item) => (
+            <div class="rounded-lg border border-border bg-white p-5 shadow-sm">
+              <p class="font-bold text-primary text-sm mb-2">{item.q}</p>
+              <p class="text-sm leading-relaxed text-text-light">{item.a}</p>
+            </div>
+          ))}
+        </div>
+      </section>
+
+      <!-- 外部リンク・公開プロフィール -->
+      <section class="mb-12">
+        <h2 class="mb-4 text-xl font-bold text-primary">公開プロフィール・発信</h2>
+        <ul class="space-y-2 text-sm">
+          <li>
+            <a href="https://note.com/akiyanomikata" target="_blank" rel="noopener" class="text-accent underline">
+              note.com/akiyanomikata
+            </a>
+            <span class="text-text-light ml-2">— 訳あり不動産・相続物件についての記事を発信</span>
+          </li>
+          <li>
+            <a href="https://arshe1719.hatenablog.com" target="_blank" rel="noopener" class="text-accent underline">
+              arshe1719.hatenablog.com
+            </a>
+            <span class="text-text-light ml-2">— 不動産買取・空き家対策に関するブログ</span>
+          </li>
+        </ul>
+      </section>
+
+      <!-- CTA -->
+      <div class="rounded-xl border border-accent bg-bg p-6 text-center">
+        <p class="mb-4 font-bold text-primary">まずは無料でご相談ください</p>
+        <p class="mb-6 text-sm text-text-light">
+          どこにも断られた訳あり物件でも対応可能です。<br />
+          LINE・メール・お電話でお気軽にご連絡を。
+        </p>
+        <div class="flex flex-col gap-3 sm:flex-row sm:justify-center">
+          <a
+            href="https://lin.ee/9Fk9EUl"
+            target="_blank"
+            rel="noopener"
+            class="inline-block rounded-lg bg-accent px-6 py-3 font-bold text-white shadow hover:opacity-90"
+          >
+            LINEで無料相談
+          </a>
+          <a
+            href="/contact"
+            class="inline-block rounded-lg border border-primary px-6 py-3 font-bold text-primary hover:bg-primary hover:text-white"
+          >
+            フォームで問い合わせ
+          </a>
+        </div>
+        <p class="mt-3 text-xs text-text-light">
+          執筆・監修: 八木宏樹（宅地建物取引士・大阪府知事(1)第65646号）
+        </p>
+      </div>
+    </div>
+  </article>
+</BaseLayout>

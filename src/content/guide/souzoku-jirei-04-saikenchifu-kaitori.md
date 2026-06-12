@@ -2,6 +2,7 @@
 title: "【体験談・事例04】「再建築不可で売れない」と4社に断られた父の実家。相談から23日で現金化した全記録"
 description: "仲介業者4社に「買い手がつかない」と断られた愛知県名古屋市内の再建築不可一戸建てを相続したDさん（57歳・男性）の体験談。固定資産税を2年間払い続けた末に訳あり買取を選び、相談から23日で手取り410万円。再建築不可の価格根拠・判断の流れ・費用の全記録を公開。"
 publishDate: "2026-05-11"
+cluster: "inheritance"
 author: "宅建業者"
 authorTitle: "宅建業者"
 heroImage: "/images/souzoku-jirei-04-hero.jpg"
@@ -294,6 +295,14 @@ Dさんのように「仲介に断られた」「固定資産税だけ払い続�
 空き家のミカタ（宅建業者）
 
 ---
+
+## 関連するガイド記事
+
+- <a href="/guide/souzoku-apart-kanzen-guide">相続アパートを手放したい方へ｜売却の流れ・税金・失敗しない判断基準を宅建業者が完全解説【2026年最新】</a>
+- <a href="/guide/souzoku-fudousan-shobun-kanzen-guide">相続不動産の処分 完全ガイド2026｜法律・登記・比較表・失敗対策まで一気に解説</a>
+- <a href="/guide/souzoku-fudousan-urikata-kanzen-guide">【2026年版】相続した不動産の売り方 完全ガイド｜実務手順・費用・業者選定を買取業者が解説</a>
+- <a href="/guide/akiya-shobun-5-hikaku">空き家処分の5大選択肢を徹底比較【2026年版】費用・期間・手残り額</a>
+- <a href="/guide/saikenchifu-hub">再建築不可物件 完全ハブ｜売却・買取・価格相場・事例まで全ガイドまとめ【2026年版】</a>
 
 ## 再建築不可物件の関連ガイド
 

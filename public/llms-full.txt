@@ -207,6 +207,7 @@ A. 特定空き家に指定されると住宅用地の特例が解除され、�
 - [相続登記義務化から2年の実態](https://akiya.arshe-corp.com/guide/souzoku-touki-gimuka-2years): 申請件数・認知度・過料適用状況・2027年3月経過措置期限の最新データ
 - [相続放棄したら家はどうなる？手続きの流れと注意点](https://akiya.arshe-corp.com/guide/inheritance-abandon): 期限・管理責任・注意点を宅建業者がわかりやすく解説
 - [相続放棄の期限（3ヶ月）を過ぎた場合の対処法](https://akiya.arshe-corp.com/guide/souzoku-houki-kigengire): 最高裁判例に基づく期限後の相続放棄が認められるケース
+- [相続した空き家の3,000万円特別控除｜2024年改正・適用条件・節税シミュレーション](https://akiya.arshe-corp.com/guide/souzoku-akiya-3000man-tokubetsu-kojo): 被相続人居住用財産の特例・相続人3人以上で2,000万円に減額・申告手続きを宅建業者が解説。節税シミュレーション付き
 - [相続税はいくらから？基礎控除の計算方法](https://akiya.arshe-corp.com/guide/inheritance-tax-basics): 不動産の評価方法や申告期限も紹介
 - [認知症の親の家を売るには？](https://akiya.arshe-corp.com/guide/dementia-house-sale): 成年後見制度・家族信託を使った不動産売却の方法
 
@@ -225,6 +226,7 @@ A. 特定空き家に指定されると住宅用地の特例が解除され、�
 - [大阪市中央区](https://akiya.arshe-corp.com/area/osaka-chuo): 心斎橋・なんばエリアの最新相場データ
 - [大阪市北区](https://akiya.arshe-corp.com/area/osaka-kita): 梅田・中之島エリアの最新相場データ
 - [大阪市天王寺区](https://akiya.arshe-corp.com/area/osaka-tennoji): 上本町・天王寺エリアの最新相場データ
+- [天王寺区 夕陽丘・細工谷の不動産買取](https://akiya.arshe-corp.com/area/osaka-tennoji-yuyagaoka): 細工谷・下寺町の再建築不可物件・夕陽丘の相続大型古家も仲介手数料0円・最短3日で現金化。坪単価目安45〜260万円
 - [大阪市阿倍野区](https://akiya.arshe-corp.com/area/osaka-abeno): あべのハルカスエリアの最新相場データ
 - [大阪市生野区](https://akiya.arshe-corp.com/area/osaka-ikuno): 当社地元エリアの最新相場データ
 - [大阪市西成区](https://akiya.arshe-corp.com/area/osaka-nishinari): 空き家率25.9%・再建築不可物件が集中するエリアの売却ガイド

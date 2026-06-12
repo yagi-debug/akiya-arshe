@@ -166,6 +166,9 @@ A. 管理が不十分な空き家は「特定空家」に指定され、固定�
 - <a href="/guide/selling-process">はじめての不動産売却ガイド</a>
 - <a href="/guide/vacancy-tax-6times">空き家の固定資産税が6倍になる条件と回避方法</a>
 
+- <a href="/guide/souzoku-hub">相続不動産 完全ハブ｜処分・売却・登記・固定資産税まで全ガイドをまとめて確認</a>
+- <a href="/guide/saikenchifu-hub">再建築不可 完全ハブ｜買取・接道・建替えできない物件の処分ガイドまとめ</a>
+
 ## 他のエリアの相場を見る
 
 - <a href="/area/osaka-chuo">中央区の不動産売却相場</a>

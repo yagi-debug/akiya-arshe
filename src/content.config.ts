@@ -34,6 +34,8 @@ const area = defineCollection({
     population: z.number().optional(),
     publishDate: z.string(),
     updatedDate: z.string().optional(),
+    lat: z.number().optional(),
+    lng: z.number().optional(),
   }),
 });
 

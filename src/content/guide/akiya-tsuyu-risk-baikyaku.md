@@ -5,7 +5,7 @@ publishDate: "2026-06-01"
 author: "空き家のミカタ編集部"
 authorTitle: "宅地建物取引業者（大阪府知事(1)第65646号）"
 heroImage: "/images/akiya-tsuyu-risk-baikyaku-hero.jpg"
-cluster: "vacant-house"
+cluster: "wakeari"
 faqs:
   - question: "梅雨の時期に空き家を放置すると具体的に何が起きますか？"
     answer: "6〜7月はイエシロアリの羽アリシーズンで、湿気を好むシロアリが柱・梁・床下の構造材を急速に食害します。同時に室内の湿度が80〜90%に達してカビが全面繁殖し、壁紙・フローリング・断熱材が劣化します。雨漏りは放置するほど被害が拡大し、修繕費が数倍になることもあります。複数の被害が同時に進行するため、1シーズンの放置でも大きなダメージになります。"
@@ -140,6 +140,14 @@ https://lin.ee/9Fk9EUl
 **お問い合わせフォームはこちら** → [/contact](/contact)
 
 ---
+
+## 関連するガイド記事
+
+- <a href="/guide/kaitori-jirei-10sen">訳あり不動産の買取実績10選｜相続・再建築不可・事故物件・共有持分・空き家の解決事例集</a>
+- <a href="/guide/okyakusama-no-koe-3jirei">「空き家のミカタに相談してよかった」訳あり物件を手放した3名のリアルな声</a>
+- <a href="/guide/osaka-kaitori-jirei">大阪市内の訳あり不動産買取事例集｜再建築不可・事故物件・共有持分・空き家・相続アパートの5事例</a>
+- <a href="/guide/jiko-bukken-hub">事故物件 完全ハブ｜買取・告知義務・心理的瑕疵・価格相場まで全ガイドまとめ【2026年版】</a>
+- <a href="/guide/kyouyuu-mochibun-hub">共有持分 完全ハブ｜売却・買取・トラブル解決・相場まで全ガイドまとめ【2026年版】</a>
 
 ## まとめ
 

@@ -180,6 +180,9 @@ A: 共有持分の一部のみでも買取対応しています。他の共有�
 - <a href="/guide/shared-ownership">共有持分の不動産を売却する方法</a>
 - <a href="/guide/vacancy-tax-6times">空き家の固定資産税が6倍になる条件と回避方法</a>
 
+- <a href="/guide/souzoku-hub">相続不動産 完全ハブ｜処分・売却・登記・固定資産税まで全ガイドをまとめて確認</a>
+- <a href="/guide/saikenchifu-hub">再建築不可 完全ハブ｜買取・接道・建替えできない物件の処分ガイドまとめ</a>
+
 ## 他のエリアの相場を見る
 
 - <a href="/area/osaka-taisho">大正区の不動産売却相場</a>

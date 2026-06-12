@@ -25,7 +25,7 @@ const formatPriceRange = (price) => {
 const breadcrumbs = [
   { name: 'ホーム', url: '/' },
   { name: 'エリア相場', url: '/area' },
-  { name: entry.data.areaName, url: `/area/${entry.id}` },
+  { name: entry.data.areaName, url: `/area/${entry.id}/` },
 ];
 
 const placeSchema = {
@@ -38,6 +38,13 @@ const placeSchema = {
     "addressRegion": entry.data.prefecture,
     "addressCountry": "JP",
   },
+  ...(entry.data.lat && entry.data.lng ? {
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": entry.data.lat,
+      "longitude": entry.data.lng,
+    }
+  } : {}),
 };
 
 const realEstateListingSchema = {
@@ -45,7 +52,7 @@ const realEstateListingSchema = {
   "@id": `https://akiya.arshe-corp.com/area/${entry.id}#listing`,
   "name": `${entry.data.areaName}の不動産売却・買取`,
   "description": entry.data.description,
-  "url": `https://akiya.arshe-corp.com/area/${entry.id}`,
+  "url": `https://akiya.arshe-corp.com/area/${entry.id}/`,
   "provider": {
     "@type": "RealEstateAgent",
     "name": "空き家のミカタ",
@@ -137,6 +144,17 @@ const articleSchema = {
         "@id": "https://akiya.arshe-corp.com/#organization",
         "name": "空き家のミカタ",
         "url": "https://akiya.arshe-corp.com",
+      },
+      "author": {
+        "@type": "Person",
+        "@id": "https://akiya.arshe-corp.com/#person-yagi",
+        "name": "八木 宏樹",
+        "jobTitle": "宅地建物取引士",
+        "description": "宅地建物取引士（大阪府知事(1)第65646号）。合同会社アルシェ代表。空き家のミカタ運営。訳あり不動産（再建築不可・共有持分・相続アパート・事故物件）の直接買取専門。",
+        "worksFor": {
+          "@type": "Organization",
+          "@id": "https://akiya.arshe-corp.com/#organization",
+        },
       },
       "about": placeSchema,
       "speakable": {

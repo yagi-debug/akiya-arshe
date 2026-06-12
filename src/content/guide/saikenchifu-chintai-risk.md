@@ -165,6 +165,11 @@ A：問題ありません。建物の状態がどのような状態であって�
 
 メール：<a href="mailto:info.arshe@arshe-corp.com">info.arshe@arshe-corp.com</a>
 
+
+## 関連するガイド記事
+
+- <a href="/guide/saikenchifu-hub">再建築不可 完全ハブ｜買取・接道・建替えできない物件の処分ガイドまとめ</a>
+
 相談無料・秘密厳守・全国対応
 
 空き家のミカタ（宅建業者）

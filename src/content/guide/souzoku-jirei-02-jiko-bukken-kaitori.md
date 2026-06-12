@@ -2,6 +2,7 @@
 title: "【体験談・事例02】弟の孤独死マンションを相続。特殊清掃前・遠方からでも18日で売却できた全記録"
 description: "弟の孤独死で相続した横浜市内のマンション（区分所有）。告知義務・特殊清掃費用・北海道からの遠方対応という3つの壁を、訳あり買取で解決したBさん（62歳・男性）の体験談。査定から決済まで全プロセスを公開。"
 publishDate: "2026-04-30"
+cluster: "inheritance"
 author: "宅建業者"
 authorTitle: "宅建業者"
 heroImage: "/images/souzoku-jirei-02-hero.jpg"
@@ -320,6 +321,14 @@ Bさんのように「孤独死の物件を相続した」「仲介に断られ�
 空き家のミカタ（宅建業者）
 
 ---
+
+## 関連するガイド記事
+
+- <a href="/guide/souzoku-apart-kanzen-guide">相続アパートを手放したい方へ｜売却の流れ・税金・失敗しない判断基準を宅建業者が完全解説【2026年最新】</a>
+- <a href="/guide/souzoku-hub">相続不動産 完全ハブ｜処分・売却・登記・固定資産税・事例まで全ガイドをまとめて確認【2026年版】</a>
+- <a href="/guide/souzoku-fudosan-shippai-3jirei">相続不動産の売却で失敗した3事例｜買取で解決した比較と5問リスク診断</a>
+- <a href="/guide/akiya-kotei-shisan-zei-haraenai">空き家の固定資産税が払えないとき｜分納・減免・売却・相続放棄の4つの選択肢【2026年版】</a>
+- <a href="/guide/akiya-shobun-5-hikaku">空き家処分の5大選択肢を徹底比較【2026年版】費用・期間・手残り額</a>
 
 ## この事例で使った売却方法の詳細
 

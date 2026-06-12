@@ -2,6 +2,7 @@
 title: "遺産分割協議書とは？相続した不動産を売るための書き方と4ステップ手順"
 description: "相続した不動産を売却・登記するには遺産分割協議書が必要です。書き方・必要書類・揉めた時の対処法まで、宅建業者が実務の視点でわかりやすく解説します。"
 publishDate: "2026-04-25"
+cluster: "inheritance"
 author: "宅建業者"
 authorTitle: "宅建業者"
 heroImage: "/images/isan-bunkatsu-kyougisho-hero.jpg"
@@ -184,6 +185,14 @@ howToSteps:
 「売って分けましょう」という提案が、長年こじれていた相続問題を動かすきっかけになることも少なくありません。
 
 ---
+
+## 関連するガイド記事
+
+- <a href="/guide/souzoku-apart-kanzen-guide">相続アパートを手放したい方へ｜売却の流れ・税金・失敗しない判断基準を宅建業者が完全解説【2026年最新】</a>
+- <a href="/guide/souzoku-fudousan-shobun-kanzen-guide">相続不動産の処分 完全ガイド2026｜法律・登記・比較表・失敗対策まで一気に解説</a>
+- <a href="/guide/souzoku-fudousan-urikata-kanzen-guide">【2026年版】相続した不動産の売り方 完全ガイド｜実務手順・費用・業者選定を買取業者が解説</a>
+- <a href="/guide/akiya-shobun-5-hikaku">空き家処分の5大選択肢を徹底比較【2026年版】費用・期間・手残り額</a>
+- <a href="/guide/akiya-kaitai-hiyou-haraenai">相続した実家の解体費用が払えない｜補助金・現況買取で費用ゼロで手放す3つの方法</a>
 
 ## まとめ：まず相続人の確定と協議から始めましょう
 

@@ -123,6 +123,14 @@ cluster: "akiya-tax"
 
 固定資産税の支払いにお困りの場合は[固定資産税が払えない空き家の対処法](/guide/akiya-kotei-shisan-zei-haraenai)もあわせてご確認ください。また、空き家全般の選択肢については[空き家をどうする？売却・活用・解体の選択肢ガイド](/guide/vacant-house)も参考にしてください。
 
+## 関連するガイド記事
+
+- <a href="/guide/kotei-shisan-zei-nousho-baikyaku-3taiken">【実録】固定資産税の通知書が届き、空き家売却を決意した3つの体験談【2026年5月】</a>
+- <a href="/guide/souzoku-jirei-09-shigaika-chosei-kaitori">【体験談・事例09】市街化調整区域の実家を相続。仲介3社に断られ2年間固定資産税を払い続けた末に、24日で現金化した全記録</a>
+- <a href="/guide/akiya-cost-risk-db-2026">空き家コスト・リスク全国データベース2026｜47都道府県の固定資産税負担額・放置コスト試算・特定空家指定数</a>
+- <a href="/guide/souzoku-apart-kanzen-guide">相続アパートを手放したい方へ｜売却の流れ・税金・失敗しない判断基準を宅建業者が完全解説【2026年最新】</a>
+- <a href="/guide/souzoku-fudousan-shobun-kanzen-guide">相続不動産の処分 完全ガイド2026｜法律・登記・比較表・失敗対策まで一気に解説</a>
+
 ## まとめ
 
 - 空き家処分の5大選択肢は「専門買取・仲介・空き家バンク・賃貸・解体」

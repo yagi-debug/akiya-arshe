@@ -2,6 +2,7 @@
 title: "大阪市の空き家解体費用を区別に比較｜補助金制度と相場を宅建業者が解説"
 description: "大阪市24区の空き家解体費用の相場を構造別・区別に比較。最大170万円の除却補助金や特定空き家制度の仕組みも解説。重点対策地区6区の手厚い補助が使える条件を宅建業者がまとめました。"
 publishDate: "2026-04-14"
+cluster: "wakeari"
 author: "宅建業者"
 authorTitle: "宅建業者"
 heroImage: "/images/osaka-kaitai-kubetsu-hero.jpg"
@@ -263,6 +264,14 @@ faqs:
 ### 相続した空き家でも補助金は使えますか？
 
 はい、使えます。ただし、<strong>相続登記が完了している必要がある場合</strong>があります。相続登記の手続きについては<a href="/guide/inheritance-registry">相続登記の義務化ガイド</a>をご確認ください。
+
+## 関連するガイド記事
+
+- <a href="/guide/osaka-kaitori-jirei">大阪市内の訳あり不動産買取事例集｜再建築不可・事故物件・共有持分・空き家・相続アパートの5事例</a>
+- <a href="/guide/kaitori-jirei-10sen">訳あり不動産の買取実績10選｜相続・再建築不可・事故物件・共有持分・空き家の解決事例集</a>
+- <a href="/guide/okyakusama-no-koe-3jirei">「空き家のミカタに相談してよかった」訳あり物件を手放した3名のリアルな声</a>
+- <a href="/guide/osaka-ku-akiya-hojo-madoguchi-2026">大阪市の空き家・解体補助金2026年度｜24区の申請窓口・対象条件・受給金額を一覧で確認</a>
+- <a href="/guide/jiko-bukken-hub">事故物件 完全ハブ｜買取・告知義務・心理的瑕疵・価格相場まで全ガイドまとめ【2026年版】</a>
 
 ## 空き家の解体・売却のご相談はお気軽に
 

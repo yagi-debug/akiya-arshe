@@ -258,6 +258,14 @@ faqs:
 
 ---
 
+## 関連するガイド記事
+
+- <a href="/guide/kyouyuu-mochibun-hub">共有持分 完全ハブ｜売却・買取・トラブル解決・相場まで全ガイドまとめ【2026年版】</a>
+- <a href="/guide/souzoku-jirei-08-kyoyu-mome-kaitori">【体験談・事例08】「弟が売りたくない」と3年間膠着した実家の共有持分を32日で現金化した全記録</a>
+- <a href="/guide/kyouyuu-mochibun-sodan-jirei">「兄が売らないと言っている」共有名義の実家を処分できた相談事例｜宅建業者の記録</a>
+- <a href="/guide/souzoku-apart-kanzen-guide">相続アパートを手放したい方へ｜売却の流れ・税金・失敗しない判断基準を宅建業者が完全解説【2026年最新】</a>
+- <a href="/guide/souzoku-fudousan-shobun-kanzen-guide">相続不動産の処分 完全ガイド2026｜法律・登記・比較表・失敗対策まで一気に解説</a>
+
 ## 無料相談・お問い合わせ
 
 共有持分のお悩みは、LINEでご相談ください。「持分を売りたいが、状況が複雑でどこに相談すればいいかわからない」という方のご相談を多くいただいています。

@@ -2,6 +2,7 @@
 title: "【体験談・事例03】相続アパートを4人兄弟で8か月揉め続けた。買取で全員合意・決済まで28日の全記録"
 description: "父の遺産である板橋区の築35年木造アパート（8室・入居者5名）を4人の相続人で8か月間揉め続けたCさん（60歳・長男）。訳あり買取で全員が合意し、相談から28日で決済完了。査定・価格内訳・4名への分配まで全記録を公開。"
 publishDate: "2026-05-02"
+cluster: "inheritance"
 author: "宅建業者"
 authorTitle: "宅建業者"
 heroImage: "/images/souzoku-jirei-03-apart-hero.jpg"
@@ -328,6 +329,14 @@ Cさんのように「相続人が複数いてなかなかまとまらない」�
 空き家のミカタ（宅建業者）
 
 ---
+
+## 関連するガイド記事
+
+- <a href="/guide/souzoku-apart-kanzen-guide">相続アパートを手放したい方へ｜売却の流れ・税金・失敗しない判断基準を宅建業者が完全解説【2026年最新】</a>
+- <a href="/guide/souzoku-fudousan-urikata-kanzen-guide">【2026年版】相続した不動産の売り方 完全ガイド｜実務手順・費用・業者選定を買取業者が解説</a>
+- <a href="/guide/souzoku-fudosan-shippai-3jirei">相続不動産の売却で失敗した3事例｜買取で解決した比較と5問リスク診断</a>
+- <a href="/guide/kaitori-jirei">訳あり不動産の買取事例5選｜相続アパート・再建築不可・事故物件の解決ストーリー</a>
+- <a href="/guide/osaka-kaitori-jirei">大阪市内の訳あり不動産買取事例集｜再建築不可・事故物件・共有持分・空き家・相続アパートの5事例</a>
 
 ## この事例で使った売却方法の詳細
 

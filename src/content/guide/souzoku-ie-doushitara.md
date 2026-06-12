@@ -227,6 +227,11 @@ LINEまたはお問い合わせフォームから、物件の情報をお送り�
 
 メール：<a href="mailto:info.arshe@arshe-corp.com">info.arshe@arshe-corp.com</a>
 
+
+## 関連するガイド記事
+
+- <a href="/guide/souzoku-hub">相続不動産 完全ハブ｜処分・売却・登記・固定資産税まで全ガイドをまとめて確認【2026年版】</a>
+
 相談無料・秘密厳守・全国対応
 
 空き家のミカタ（宅建業者）

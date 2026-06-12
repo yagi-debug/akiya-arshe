@@ -347,6 +347,7 @@ document.addEventListener('DOMContentLoaded', calculateSim);
 - [相続アパートはいつ売るべき？売却タイミングの判断基準](/guide/souzoku-apart-timing)
 
 ---
+- <a href="/guide/souzoku-hub">相続不動産 完全ハブ｜処分・売却・登記・固定資産税まで全ガイドをまとめて確認【2026年版】</a>
 
 ## 相続アパートのご相談はこちら
 
