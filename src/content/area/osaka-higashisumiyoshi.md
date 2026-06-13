@@ -6,7 +6,8 @@ prefecture: "大阪府"
 avgPricePerSqm: 350000
 population: 128000
 publishDate: "2026-04-04"
-updatedDate: "2026-06-03"
+updatedDate: "2026-06-13"
+author: '宅建業者'
 ---
 
 > **TL;DR — 東住吉区の不動産売却**
