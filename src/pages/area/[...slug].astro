@@ -143,14 +143,27 @@ const articleSchema = {
         "@type": "Organization",
         "@id": "https://akiya.arshe-corp.com/#organization",
         "name": "空き家のミカタ",
+        "legalName": "合同会社アルシェ",
         "url": "https://akiya.arshe-corp.com",
+        "hasCredential": {
+          "@type": "EducationalOccupationalCredential",
+          "name": "宅地建物取引業免許",
+          "identifier": "大阪府知事(1)第65646号",
+        },
       },
       "author": {
         "@type": "Person",
-        "@id": "https://akiya.arshe-corp.com/#person-yagi",
+        "@id": "https://akiya.arshe-corp.com/about/hiroki#person",
         "name": "八木 宏樹",
         "jobTitle": "宅地建物取引士",
+        "url": "https://akiya.arshe-corp.com/about/hiroki",
         "description": "宅地建物取引士（大阪府知事(1)第65646号）。合同会社アルシェ代表。空き家のミカタ運営。訳あり不動産（再建築不可・共有持分・相続アパート・事故物件）の直接買取専門。",
+        "hasCredential": {
+          "@type": "EducationalOccupationalCredential",
+          "name": "宅地建物取引士",
+          "identifier": "大阪府知事(1)第65646号",
+          "credentialCategory": "license",
+        },
         "worksFor": {
           "@type": "Organization",
           "@id": "https://akiya.arshe-corp.com/#organization",
