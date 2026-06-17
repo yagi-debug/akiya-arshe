@@ -230,7 +230,7 @@ A. 早ければ早いほど選択肢が広がります。「まだ表題登記�
 
 「未登記建物の相談」とメッセージをお送りください。宅建業者が対応いたします。
 
-<a href="https://lin.ee/eJoGMBj" target="_blank" rel="noopener noreferrer" style="display:inline-block;background:#06c755;color:white;padding:12px 24px;border-radius:8px;text-decoration:none;font-weight:bold;margin:0.5rem 0;">LINEで無料相談する</a>
+<a href="https://lin.ee/9Fk9EUl" target="_blank" rel="noopener noreferrer" style="display:inline-block;background:#06c755;color:white;padding:12px 24px;border-radius:8px;text-decoration:none;font-weight:bold;margin:0.5rem 0;">LINEで無料相談する</a>
 
 <strong>フォームで相談</strong>
 
