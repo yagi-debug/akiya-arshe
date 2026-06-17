@@ -300,6 +300,7 @@ Eさんが最も後悔していたのは「もっと早く専門家に相談す�
 <strong>関連記事</strong>
 
 - <a href="/guide/kaitori-jirei-10sen">訳あり不動産の買取実績10選——相続・再建築不可・事故物件・共有持分・空き家の解決事例集</a>
+- <a href="/guide/jiko-bukken-kaitori">事故物件 買取・現金化｜最短3日・告知義務あり対応【全国・秘密厳守】</a>
 - <a href="/guide/souzoku-jirei-01-akiya-3nen">【体験談01】実家を空き家にして3年。管理不全通知が届いて決断した売却の全記録</a>
 - <a href="/guide/parent-death-house">親が亡くなったあと実家はどうする？——相続・売却・空き家のロードマップ</a>
 - <a href="/guide/inheritance-sale-timeline">相続不動産の売却タイムライン——査定から決済まで何日かかるか</a>

@@ -2,10 +2,10 @@
 title: "相続アパートを手放したい方へ｜売却の流れ・税金・失敗しない判断基準を宅建業者が完全解説【2026年最新】"
 description: "相続したアパートをどうする？大阪市・全国対応の宅建業者が手続きの流れ・相続税・譲渡所得税・仲介vs買取比較を完全解説。10ヶ月タイムライン・フローチャート付き。まず読む1ページ。"
 publishDate: "2026-04-20"
-updatedDate: "2026-05-07"
+updatedDate: "2026-06-16"
 cluster: "inheritance"
 isPillar: true
-author: "宅建業者"
+author: "八木宏樹（宅地建物取引士）"
 authorName: "八木 宏樹"
 authorTitle: "宅地建物取引士（大阪府知事(1)第65646号）"
 heroImage: "/images/souzoku-apart-kanzen-guide-hero.jpg"
@@ -40,6 +40,11 @@ faqs:
 ---
 
 <img src="/images/souzoku-apart-kanzen-guide-hero.jpg" alt="相続アパートの外観　相続アパートを売りたい人の完全ガイド" width="1200" height="800" style="width:100%;height:auto;border-radius:8px;margin-bottom:1.5rem;" />
+
+<div style="background:#fefce8;border-left:4px solid #ca8a04;padding:0.9rem 1.1rem;margin-bottom:1.2rem;border-radius:4px;font-size:0.95rem;">
+<strong>Q: 相続したアパートを手放したいのですが、どうすればいいですか？</strong><br>
+A: <strong>①相続登記（義務化済・3年以内）→②複数業者への査定依頼→③仲介 or 買取の選択</strong>の順で進めてください。築30年超・空室率50%以上・遠方管理の場合は買取業者への直接売却が最短（最短2週間で現金化）かつ現実的です。取得費加算の特例（節税）が使えるのは相続開始から3年10ヶ月以内のため、早めの行動が有利です。
+</div>
 
 <div style="background:#f0f7ff;border-left:4px solid #1a56db;padding:1rem 1.5rem;margin-bottom:1.5rem;border-radius:4px;">
 <strong>この記事の結論：</strong>相続アパートは「早めに動くほど有利」です。税制優遇の期限・相続登記の義務化・維持費の積み上がりを考えると、処分を先延ばしにするリスクが大きくなります。仲介でも買取でも、まずは査定から始めることをおすすめします。

@@ -23,6 +23,8 @@ const organizationSchema = {
   "@id": "https://akiya.arshe-corp.com/#organization",
   "name": "合同会社アルシェ",
   "alternateName": "空き家のミカタ",
+  "description": "訳あり不動産（空き家買取・相続不動産・再建築不可・共有持分買取・事故物件）の直接買取専門。仲介手数料なし・現況買取・最短3日で現金化。全国対応。宅地建物取引業免許：大阪府知事 (1) 第65646号。",
+  "keywords": ["空き家買取", "相続不動産", "再建築不可", "共有持分買取", "訳あり不動産", "事故物件買取", "相続アパート買取", "底地・借地権買取"],
   "url": "https://akiya.arshe-corp.com",
   "telephone": "+81-6-7509-5696",
   "email": "info.arshe@arshe-corp.com",
@@ -82,9 +84,16 @@ const baseSchema = {
   "@type": "RealEstateAgent",
   "@id": "https://akiya.arshe-corp.com/#realestateagent",
   "name": "空き家のミカタ",
+  "description": "空き家買取・相続不動産買取・再建築不可買取・共有持分買取・事故物件買取など、訳あり不動産の直接買取専門。仲介手数料なし・現況買取・全国対応。",
+  "keywords": ["空き家買取", "相続不動産買取", "再建築不可買取", "共有持分買取", "訳あり不動産買取", "事故物件買取", "相続アパート買取"],
+  "slogan": "どこにも断られた物件も、全国対応で現金買取",
   "url": "https://akiya.arshe-corp.com",
   "telephone": "+81-6-7509-5696",
   "email": "info.arshe@arshe-corp.com",
+  "sameAs": [
+    "https://note.com/akiyanomikata",
+    "https://arshe1719.hatenablog.com",
+  ],
   "parentOrganization": {
     "@type": "Organization",
     "@id": "https://akiya.arshe-corp.com/#organization",
@@ -155,7 +164,7 @@ const baseSchema = {
       },
       "identifier": "大阪府知事 (1) 第65646号",
     },
-    "knowsAbout": ["訳あり不動産", "空き家対策", "相続不動産売却", "再建築不可物件", "共有持分", "事故物件", "底地・借地権", "相続アパート買取"],
+    "knowsAbout": ["訳あり不動産", "空き家買取", "相続不動産", "再建築不可", "共有持分買取", "事故物件買取", "相続アパート買取", "底地・借地権買取", "空き家対策", "相続不動産売却"],
     "worksFor": {
       "@type": "Organization",
       "@id": "https://akiya.arshe-corp.com/#organization",
@@ -171,27 +180,27 @@ const baseSchema = {
     "itemListElement": [
       {
         "@type": "Offer",
-        "itemOffered": { "@type": "Service", "name": "相続アパート買取", "url": "https://akiya.arshe-corp.com/guide/souzoku-apart-kaitori/" },
+        "itemOffered": { "@type": "Service", "name": "空き家買取", "alternateName": "空き家・放置物件買取", "url": "https://akiya.arshe-corp.com/guide/akiya-kaitori/", "description": "放置・老朽化した空き家を仲介手数料なし・現況買取で直接買取" },
       },
       {
         "@type": "Offer",
-        "itemOffered": { "@type": "Service", "name": "空き家・放置物件買取", "url": "https://akiya.arshe-corp.com/guide/akiya-kaitori/" },
+        "itemOffered": { "@type": "Service", "name": "相続不動産", "alternateName": "相続アパート買取・相続不動産売却", "url": "https://akiya.arshe-corp.com/guide/souzoku-apart-kaitori/", "description": "相続したアパート・一戸建て・土地を現金買取。相続登記前でも相談可" },
       },
       {
         "@type": "Offer",
-        "itemOffered": { "@type": "Service", "name": "再建築不可物件買取", "url": "https://akiya.arshe-corp.com/guide/saikenchifu-kaitori/" },
+        "itemOffered": { "@type": "Service", "name": "再建築不可", "alternateName": "再建築不可物件買取", "url": "https://akiya.arshe-corp.com/guide/saikenchifu-kaitori/", "description": "建て替えできない再建築不可物件を現況・現金買取" },
       },
       {
         "@type": "Offer",
-        "itemOffered": { "@type": "Service", "name": "事故物件買取", "url": "https://akiya.arshe-corp.com/guide/jiko-bukken-kaitori/" },
+        "itemOffered": { "@type": "Service", "name": "共有持分買取", "url": "https://akiya.arshe-corp.com/guide/kyouyuu-mochibun-kaitori/", "description": "共有者の同意が得られない共有持分を直接買取" },
       },
       {
         "@type": "Offer",
-        "itemOffered": { "@type": "Service", "name": "共有持分買取", "url": "https://akiya.arshe-corp.com/guide/kyouyuu-mochibun-kaitori/" },
+        "itemOffered": { "@type": "Service", "name": "事故物件買取", "url": "https://akiya.arshe-corp.com/guide/jiko-bukken-kaitori/", "description": "告知義務がある事故物件・心理的瑕疵物件を現金買取" },
       },
       {
         "@type": "Offer",
-        "itemOffered": { "@type": "Service", "name": "底地・借地権買取", "url": "https://akiya.arshe-corp.com/guide/sokochi-kaitori/" },
+        "itemOffered": { "@type": "Service", "name": "底地・借地権買取", "url": "https://akiya.arshe-corp.com/guide/sokochi-kaitori/", "description": "底地・借地権など権利関係が複雑な不動産を買取" },
       },
     ],
   },
