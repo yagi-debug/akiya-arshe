@@ -5,7 +5,7 @@ publishDate: "2026-06-23"
 author: "空き家のミカタ編集部"
 authorTitle: "宅地建物取引業者（大阪府知事(1)第65646号）"
 heroImage: "/images/souzoku-chintai-nyuukyosha-ari-baikyaku-hero.jpg"
-cluster: "souzoku-fudosan"
+cluster: "inheritance"
 faqs:
   - question: "相続した賃貸物件の入居者をすぐに退去させることはできますか？"
     answer: "原則として、オーナー側（賃貸人側）からの一方的な退去要求は認められません。借地借家法第28条により、更新拒絶や解約申し入れには「正当事由」が必要です。「売りたいから退去してほしい」という理由だけでは正当事由として認められないのが現実です。"

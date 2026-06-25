@@ -5,7 +5,7 @@ publishDate: "2026-06-21"
 author: "空き家のミカタ編集部"
 authorTitle: "宅地建物取引業者（大阪府知事(1)第65646号）"
 heroImage: "/images/souzoku-apart-sublease-kaiyaku-baikyaku-hero.jpg"
-cluster: "souzoku-apart"
+cluster: "inheritance"
 faqs:
   - question: "相続したアパートのサブリース契約は解約できますか？"
     answer: "解約は可能ですが、貸主（オーナー）側からの解約には借地借家法第28条に基づく「正当事由」が必要です。多くのサブリース契約では6ヶ月前の書面通知が必要で、単に「売りたいから」という理由だけでは正当事由として認められにくいです。建物の老朽化による解体・建替えや、立退料の提供などが正当事由の補完要素になります。解約を検討する場合は弁護士への相談を強くお勧めします。"
