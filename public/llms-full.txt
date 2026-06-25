@@ -256,8 +256,11 @@ A. 特定空き家に指定されると住宅用地の特例が解除され、�
 - [西成区 花園町駅周辺](https://akiya.arshe-corp.com/area/osaka-nishinari-hanazonomachi): 大阪メトロ四つ橋線。老朽長屋・接道不良・再建築不可の買取実績豊富。坪単価55〜90万円
 - [西成区 天下茶屋駅周辺](https://akiya.arshe-corp.com/area/osaka-nishinari-tengachaya): 南海本線・大阪メトロ堺筋線。老朽アパート一棟買取・文化住宅・相続アパート対応。坪単価60〜110万円
 - [生野区 鶴橋駅周辺](https://akiya.arshe-corp.com/area/osaka-ikuno-tsuruhashi): JR環状線・近鉄・地下鉄3路線。コリアンタウン周辺・外国籍相続人が絡む物件も対応。坪単価90〜200万円
+- [生野区 桃谷駅周辺](https://akiya.arshe-corp.com/area/osaka-ikuno-momodani): JR大阪環状線・桃谷商店街エリア。木造長屋・細街路沿い再建築不可・相続登記未了物件も直接買取。坪単価70〜150万円
 - [平野区 平野駅周辺](https://akiya.arshe-corp.com/area/osaka-hirano-hirano): JR大和路線。旗竿地・築50年超の戸建て・複数相続人の物件も対応。坪単価55〜95万円
 - [東成区 今里駅周辺](https://akiya.arshe-corp.com/area/osaka-higashinari-imazato): 地下鉄千日前線・今里筋線。所在不明相続人が絡む共有持分・接道不良・老朽長屋に対応。坪単価70〜120万円
+- [大正区 三軒家](https://akiya.arshe-corp.com/area/osaka-taisho-sankanya): 旧市街の密集木造長屋・細街路沿い再建築不可・沖縄ルーツ相続物件も直接買取。坪単価50〜75万円
+- [淀川区 新大阪（西中島・宮原）](https://akiya.arshe-corp.com/area/osaka-yodogawa-shinosaka): 相続した投資マンション・管理費滞納・空室問題も直接買取。坪単価再建築可130〜200万円・再建築不可70〜110万円
 
 ### 空き家率上位都道府県（重点対応エリア）
 
