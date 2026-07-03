@@ -1,0 +1,314 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Breadcrumb from '../../components/Breadcrumb.astro';
+
+const breadcrumbs = [
+  { name: 'ホーム', url: '/' },
+  { name: '大阪市の訳あり物件買取', url: '/osaka' },
+];
+
+const wards = [
+  { name: '北区', slug: 'osaka-kita', note: '梅田・天満' },
+  { name: '都島区', slug: 'osaka-miyakojima', note: '京橋・野江内代' },
+  { name: '福島区', slug: 'osaka-fukushima', note: '野田・海老江' },
+  { name: '此花区', slug: 'osaka-konohana', note: '西九条・伝法' },
+  { name: '中央区', slug: 'osaka-chuo', note: '谷町・難波' },
+  { name: '西区', slug: 'osaka-nishi', note: '九条・新町' },
+  { name: '港区', slug: 'osaka-minato', note: '弁天町・磯路' },
+  { name: '大正区', slug: 'osaka-taisho', note: '大正・三軒家' },
+  { name: '天王寺区', slug: 'osaka-tennoji', note: '夕陽丘・細工谷' },
+  { name: '浪速区', slug: 'osaka-naniwa', note: '難波・新世界' },
+  { name: '西淀川区', slug: 'osaka-nishiyodogawa', note: '御幣島・姫里' },
+  { name: '淀川区', slug: 'osaka-yodogawa', note: '十三・新大阪' },
+  { name: '東淀川区', slug: 'osaka-higashiyodogawa', note: '淡路・上新庄' },
+  { name: '東成区', slug: 'osaka-higashinari', note: '今里・深江橋' },
+  { name: '生野区', slug: 'osaka-ikuno', note: '鶴橋・桃谷' },
+  { name: '旭区', slug: 'osaka-asahi', note: '千林・森小路' },
+  { name: '城東区', slug: 'osaka-joto', note: '蒲生四丁目・鴫野' },
+  { name: '鶴見区', slug: 'osaka-tsurumi', note: '放出・今福鶴見' },
+  { name: '阿倍野区', slug: 'osaka-abeno', note: '昭和町・文の里' },
+  { name: '住之江区', slug: 'osaka-suminoe', note: '北加賀屋・住之江' },
+  { name: '住吉区', slug: 'osaka-sumiyoshi', note: '万代・帝塚山' },
+  { name: '東住吉区', slug: 'osaka-higashisumiyoshi', note: '駒川・針中野' },
+  { name: '平野区', slug: 'osaka-hirano', note: '平野・喜連瓜破' },
+  { name: '西成区', slug: 'osaka-nishinari', note: '天下茶屋・花園町' },
+];
+
+const propertyTypes = [
+  {
+    icon: '🏚️',
+    name: '再建築不可物件',
+    desc: '長屋・接道不良・旗竿地など。通常仲介では買い手がつかないが直接買取で対応。',
+    url: '/guide/saikenchifu-kaitori',
+  },
+  {
+    icon: '🏠',
+    name: '空き家・老朽建物',
+    desc: '老朽化・管理困難な空き家も現況のまま買取。片付け不要・固定資産税6倍化前に解決。',
+    url: '/guide/akiya-kaitori-flow',
+  },
+  {
+    icon: '🏢',
+    name: '相続アパート',
+    desc: '相続した賃貸アパートの売却。入居者あり・老朽化・共有名義など状況を問わず対応。',
+    url: '/guide/souzoku-apart-kaitori',
+  },
+  {
+    icon: '⚖️',
+    name: '共有持分',
+    desc: '兄弟・相続人間の共有不動産。他の共有者の同意不要で自分の持分だけ売却可能。',
+    url: '/guide/kyouyuu-mochibun-kaitori',
+  },
+  {
+    icon: '⚠️',
+    name: '事故物件・心理的瑕疵',
+    desc: '孤独死・自殺・殺人などの心理的瑕疵あり物件。告知義務対応・現況買取。',
+    url: '/guide/jiko-bukken-kaitori',
+  },
+];
+
+const pageSchema = {
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "@id": "https://akiya.arshe-corp.com/osaka/",
+  "name": "大阪市の訳あり物件買取｜24区エリアから探す",
+  "description": "大阪市24区の訳あり不動産（再建築不可・空き家・相続アパート・共有持分・事故物件）を仲介手数料なし・最短3日で直接買取。各区のエリアページと物件種別ガイドを一覧で確認できる大阪市総合ハブページ。",
+  "url": "https://akiya.arshe-corp.com/osaka/",
+  "inLanguage": "ja",
+  "publisher": {
+    "@type": "Organization",
+    "@id": "https://akiya.arshe-corp.com/#organization",
+    "name": "合同会社アルシェ（空き家のミカタ）",
+  },
+  "breadcrumb": {
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://akiya.arshe-corp.com/" },
+      { "@type": "ListItem", "position": 2, "name": "大阪市の訳あり物件買取", "item": "https://akiya.arshe-corp.com/osaka/" },
+    ],
+  },
+  "about": {
+    "@type": "Place",
+    "name": "大阪市",
+    "containsPlace": wards.map(w => ({ "@type": "AdministrativeArea", "name": `大阪市${w.name}` })),
+  },
+  "hasPart": wards.map(w => ({
+    "@type": "WebPage",
+    "name": `大阪市${w.name}の不動産買取`,
+    "url": `https://akiya.arshe-corp.com/area/${w.slug}`,
+  })),
+};
+
+const faqSchema = {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "大阪市の訳あり物件（再建築不可・事故物件・相続アパート）は買い取ってもらえますか？",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "はい、大阪市24区全域で対応しています。長屋建て再建築不可・老朽相続アパート・共有持分・事故物件など、仲介会社に断られた物件も現況のまま直接買取します。仲介手数料なし・最短3日で現金化可能です。",
+      },
+    },
+    {
+      "@type": "Question",
+      "name": "大阪市の訳あり物件の買取相場はどのくらいですか？",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "物件種別によって異なります。再建築不可物件：通常評価額の30〜60%、共有持分：全体評価額×持分割合×60〜80%、相続アパート：収益還元評価額の70〜90%。大阪市内は旧市街地（生野区・西成区・東成区・大正区）に長屋建て再建築不可が集中しており、買取事例も豊富です。",
+      },
+    },
+    {
+      "@type": "Question",
+      "name": "大阪市のどの区でも対応していますか？",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "はい、大阪市全24区（北区・都島区・福島区・此花区・中央区・西区・港区・大正区・天王寺区・浪速区・西淀川区・淀川区・東淀川区・東成区・生野区・旭区・城東区・鶴見区・阿倍野区・住之江区・住吉区・東住吉区・平野区・西成区）で対応しています。各区ページで区固有の相場・事例をご確認いただけます。",
+      },
+    },
+    {
+      "@type": "Question",
+      "name": "大阪市で相続した物件の名義変更（相続登記）が未了でも買取できますか？",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "はい、相続登記未了でも査定・相談は可能です。2024年4月1日から相続登記が義務化（不動産登記法76条の2・3年以内・10万円以下の過料）されたため、早めの対応が安心です。当社では売却と並行して司法書士との連携でスムーズに手続きを進めます。",
+      },
+    },
+    {
+      "@type": "Question",
+      "name": "大阪市の空き家・再建築不可物件の固定資産税6倍リスクが心配です",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "大阪市では空き家法改正（2023年12月施行）により、特定空家・管理不全空家に指定されると固定資産税の住宅用地特例が解除され最大6倍になる可能性があります。生野区・西成区・大正区などの旧市街地の老朽長屋が特に対象になりやすいです。早期の売却・買取が最も効果的な対策です。",
+      },
+    },
+  ],
+};
+---
+
+<BaseLayout
+  title="大阪市の訳あり物件買取｜24区エリアから探す【仲介手数料0円・最短3日】"
+  description="大阪市24区の訳あり不動産（再建築不可・空き家・相続アパート・共有持分・事故物件）を仲介手数料なし・最短3日で直接買取。各区のエリア相場・買取事例・物件種別ガイドを一覧で確認。宅建業者（大阪府知事(1)第65646号）が直接対応。"
+  schema={pageSchema}
+  faqSchema={faqSchema}
+  breadcrumbs={breadcrumbs}
+>
+  <article class="px-4 py-10 md:py-14">
+    <div class="mx-auto max-w-4xl">
+
+      <h1 class="mb-3 text-2xl font-bold leading-snug text-primary md:text-3xl">
+        大阪市の訳あり物件買取<br class="md:hidden" />｜24区エリアから探す
+      </h1>
+
+      <!-- TL;DR ボックス（AI引用獲得用） -->
+      <div class="mb-8 rounded-xl border-l-4 border-accent bg-accent/5 px-5 py-4">
+        <p class="mb-1 text-xs font-bold uppercase tracking-wide text-accent">TL;DR</p>
+        <p class="text-sm leading-relaxed text-text">
+          <strong>結論: 大阪市24区の訳あり物件（再建築不可・空き家・相続アパート・共有持分・事故物件）は直接買取で解決できます。</strong>
+          理由は3つ: ①旧市街地（生野区・西成区・東成区・大正区）に全国屈指の長屋建て再建築不可物件が集中 ②相続人が全国に散在し意思統一が困難な共有名義物件が多い ③空き家法改正（2023年12月施行）で特定空家指定・固定資産税6倍化リスクが現実化。仲介会社に断られた物件でも、当社（宅建業者・大阪府知事(1)第65646号）が仲介手数料なし・現況・最短3日で買取します。
+        </p>
+      </div>
+
+      <!-- ダイレクトアンサー -->
+      <div class="mb-8 rounded-xl border border-border bg-white p-5 shadow-sm">
+        <p class="mb-2 text-xs font-bold text-text-light">Q: 大阪市の訳あり物件は買い取ってもらえる？</p>
+        <p class="text-sm leading-relaxed text-text">
+          <strong>A: はい、大阪市全24区で対応しています。</strong>長屋建て・接道不適合の再建築不可、老朽相続アパート、共有持分、事故物件など、仲介会社に断られた物件も現況のまま買取。仲介手数料なし・最短3日で現金化します。
+        </p>
+      </div>
+
+      <!-- 物件種別カード -->
+      <section class="mb-10">
+        <h2 class="mb-4 text-lg font-bold text-primary">物件の種類から探す</h2>
+        <div class="grid grid-cols-1 gap-3 sm:grid-cols-2 md:grid-cols-3">
+          {propertyTypes.map(pt => (
+            <a
+              href={pt.url}
+              class="flex flex-col rounded-xl border border-border bg-white p-4 shadow-sm transition-all hover:border-accent hover:shadow-md"
+            >
+              <span class="mb-2 text-2xl">{pt.icon}</span>
+              <span class="mb-1 text-sm font-bold text-primary">{pt.name}</span>
+              <span class="text-xs leading-relaxed text-text-light">{pt.desc}</span>
+            </a>
+          ))}
+        </div>
+      </section>
+
+      <!-- 24区エリアリンク -->
+      <section class="mb-10">
+        <h2 class="mb-4 text-lg font-bold text-primary">大阪市24区から探す</h2>
+        <p class="mb-4 text-sm text-text-light">各区の不動産買取相場・再建築不可比率・最近の買取事例を確認できます。</p>
+        <div class="grid grid-cols-2 gap-2 sm:grid-cols-3 md:grid-cols-4">
+          {wards.map(ward => (
+            <a
+              href={`/area/${ward.slug}`}
+              class="flex flex-col rounded-lg border border-border bg-white p-3 text-sm transition-all hover:border-accent hover:shadow-sm"
+            >
+              <span class="font-bold text-primary">{ward.name}</span>
+              <span class="mt-0.5 text-xs text-text-light">{ward.note}</span>
+            </a>
+          ))}
+        </div>
+      </section>
+
+      <!-- 大阪市の訳あり物件市場データ -->
+      <section class="mb-10 rounded-xl border border-border bg-white p-6 shadow-sm">
+        <h2 class="mb-4 text-lg font-bold text-primary">大阪市の訳あり物件市場データ</h2>
+        <div class="overflow-x-auto">
+          <table class="w-full text-sm">
+            <thead>
+              <tr class="border-b border-border bg-bg">
+                <th class="px-3 py-2 text-left font-bold text-text">物件種別</th>
+                <th class="px-3 py-2 text-left font-bold text-text">買取相場の目安</th>
+                <th class="px-3 py-2 text-left font-bold text-text">集中エリア</th>
+              </tr>
+            </thead>
+            <tbody class="divide-y divide-border">
+              <tr>
+                <td class="px-3 py-3 font-bold text-text">再建築不可（長屋・接道不良）</td>
+                <td class="px-3 py-3 text-text-light">通常評価額の30〜60%</td>
+                <td class="px-3 py-3 text-text-light">生野区・東成区・西成区・大正区・浪速区</td>
+              </tr>
+              <tr>
+                <td class="px-3 py-3 font-bold text-text">共有持分</td>
+                <td class="px-3 py-3 text-text-light">全体評価額×持分割合×60〜80%</td>
+                <td class="px-3 py-3 text-text-light">大阪市全域（相続物件多数）</td>
+              </tr>
+              <tr>
+                <td class="px-3 py-3 font-bold text-text">相続アパート</td>
+                <td class="px-3 py-3 text-text-light">収益還元評価額の70〜90%</td>
+                <td class="px-3 py-3 text-text-light">旭区・城東区・東淀川区・淀川区</td>
+              </tr>
+              <tr>
+                <td class="px-3 py-3 font-bold text-text">事故物件（心理的瑕疵）</td>
+                <td class="px-3 py-3 text-text-light">通常評価額の50〜80%（事故内容・経過年数による）</td>
+                <td class="px-3 py-3 text-text-light">西成区・浪速区・大正区</td>
+              </tr>
+              <tr>
+                <td class="px-3 py-3 font-bold text-text">老朽空き家</td>
+                <td class="px-3 py-3 text-text-light">土地評価額の60〜90%（建物減価）</td>
+                <td class="px-3 py-3 text-text-light">西成区（空き家率25.9%）・大正区・平野区</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+        <p class="mt-3 text-xs text-text-light">
+          ※ 上記は目安です。物件状態・立地・権利関係により変動します。正確な査定はLINEまたは電話でお問い合わせください。出典: 大阪市「住民基本台帳人口・世帯数」（2024年）、国土交通省「不動産取引価格情報」
+        </p>
+      </section>
+
+      <!-- CTA -->
+      <div class="rounded-xl bg-primary/5 border border-primary/20 p-6 text-center">
+        <p class="mb-2 text-base font-bold text-primary">大阪市内の物件について、まずはご相談ください</p>
+        <p class="mb-4 text-sm text-text-light">仲介では断られた物件・相続で困っている物件も、当社が直接査定します。</p>
+        <div class="flex flex-col items-center gap-3 sm:flex-row sm:justify-center">
+          <a
+            href="https://lin.ee/9Fk9EUl"
+            target="_blank"
+            rel="noopener noreferrer"
+            class="inline-flex items-center gap-2 rounded-lg bg-[#06C755] px-6 py-3 text-sm font-bold text-white transition-all hover:bg-[#05b64d]"
+          >
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 24 24" fill="currentColor">
+              <path d="M19.365 9.863c.349 0 .63.285.63.631 0 .345-.281.63-.63.63H17.61v1.125h1.755c.349 0 .63.283.63.63 0 .344-.281.629-.63.629h-2.386c-.345 0-.627-.285-.627-.629V8.108c0-.345.282-.63.627-.63h2.386c.349 0 .63.285.63.63 0 .349-.281.63-.63.63H17.61v1.125h1.755zm-3.855 3.016c0 .27-.174.51-.432.596-.064.021-.133.031-.199.031-.211 0-.391-.09-.51-.25l-2.443-3.317v2.94c0 .344-.279.629-.631.629-.346 0-.626-.285-.626-.629V8.108c0-.27.173-.51.43-.595.06-.023.136-.033.194-.033.195 0 .375.104.495.254l2.462 3.33V8.108c0-.345.282-.63.63-.63.345 0 .63.285.63.63v4.771zm-5.741 0c0 .344-.282.629-.631.629-.345 0-.627-.285-.627-.629V8.108c0-.345.282-.63.627-.63.349 0 .631.285.631.63v4.771zm-2.466.629H4.917c-.345 0-.63-.285-.63-.629V8.108c0-.345.285-.63.63-.63.348 0 .63.285.63.63v4.141h1.756c.348 0 .629.283.629.63 0 .344-.281.629-.629.629M24 10.314C24 4.943 18.615.572 12 .572S0 4.943 0 10.314c0 4.811 4.27 8.842 10.035 9.608.391.082.923.258 1.058.59.12.301.079.766.038 1.08l-.164 1.02c-.045.301-.24 1.186 1.049.645 1.291-.539 6.916-4.078 9.436-6.975C23.176 14.393 24 12.458 24 10.314" />
+            </svg>
+            LINEで無料査定を依頼する
+          </a>
+          <a
+            href="tel:06-7509-5696"
+            class="inline-flex items-center gap-2 rounded-lg border border-primary/30 px-6 py-3 text-sm font-bold text-primary transition-all hover:bg-primary/5"
+          >
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z" />
+            </svg>
+            06-7509-5696
+          </a>
+        </div>
+        <p class="mt-2 text-xs text-text-light">相談無料・秘密厳守・宅建業者が直接対応</p>
+      </div>
+
+      <!-- 関連リンク -->
+      <section class="mt-10">
+        <h2 class="mb-4 text-base font-bold text-primary">大阪市の関連ガイド</h2>
+        <div class="space-y-2">
+          <a href="/area/osaka-city" class="block rounded-lg border border-border bg-white px-4 py-3 text-sm text-primary transition-all hover:border-accent hover:shadow-sm">
+            大阪市の訳あり物件買取完全ガイド｜24区別相場・再建築不可・相続・事故物件
+          </a>
+          <a href="/guide/osaka-24ku-wakeari-kakakutai-map" class="block rounded-lg border border-border bg-white px-4 py-3 text-sm text-primary transition-all hover:border-accent hover:shadow-sm">
+            大阪市24区の訳あり物件買取相場マップ【2025-2026年版】
+          </a>
+          <a href="/guide/osaka-24ku-kaitori-data-2026" class="block rounded-lg border border-border bg-white px-4 py-3 text-sm text-primary transition-all hover:border-accent hover:shadow-sm">
+            大阪市24区｜再建築不可買取坪単価・共有持分相談件数・直近実績エリアデータ
+          </a>
+          <a href="/guide/osaka-akiya-subsidy" class="block rounded-lg border border-border bg-white px-4 py-3 text-sm text-primary transition-all hover:border-accent hover:shadow-sm">
+            大阪市の空き家対策と補助金制度｜使える支援を宅建業者がまとめ
+          </a>
+          <a href="/guide/osaka-24ku-hazardmap-kokuchi-gimu" class="block rounded-lg border border-border bg-white px-4 py-3 text-sm text-primary transition-all hover:border-accent hover:shadow-sm">
+            大阪市24区のハザードマップと不動産売却｜洪水・土砂災害リスク告知義務まとめ
+          </a>
+        </div>
+      </section>
+
+    </div>
+  </article>
+</BaseLayout>

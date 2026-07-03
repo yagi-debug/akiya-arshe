@@ -38,6 +38,12 @@ const area = defineCollection({
     updatedDate: z.string().optional(),
     lat: z.number().optional(),
     lng: z.number().optional(),
+    author: z.string().optional(),
+    authorTitle: z.string().optional(),
+    faqs: z.array(z.object({
+      question: z.string(),
+      answer: z.string(),
+    })).optional(),
   }),
 });
 
