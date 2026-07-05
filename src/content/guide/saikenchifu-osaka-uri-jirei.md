@@ -392,3 +392,6 @@ LINE「空き家のミカタ」に友だち追加し、物件の住所・現在�
 - <a href="/guide/saikenchifu-chintai-risk">再建築不可物件を賃貸に出すリスク</a>
 - <a href="/guide/wakeare-bukken-5shu-hikaku">訳あり物件5タイプ徹底比較</a>
 - <a href="/guide/kaitori-jirei">訳あり不動産の買取事例（全種別）</a>
+---
+
+**このカテゴリの全ガイド一覧:** [→ 再建築不可物件 完全ハブ【2026年版】](/guide/saikenchifu-hub)

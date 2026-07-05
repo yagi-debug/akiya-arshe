@@ -235,3 +235,6 @@ cluster: "akiya-tax"
 
 - LINEで無料相談: [空き家のミカタ公式LINE](https://lin.ee/9Fk9EUl)
 - Webからのお問い合わせ: [お問い合わせフォーム](/contact)
+---
+
+**このカテゴリの全ガイド一覧:** [→ 空き家の処分・活用 完全ガイド](/guide/vacant-house)

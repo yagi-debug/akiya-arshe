@@ -9,16 +9,17 @@ export default defineConfig({
     changefreq: 'weekly',
     priority: 0.7,
     serialize(item) {
+      const today = new Date().toISOString().split('T')[0];
       // ガイド記事・エリアページは高優先度
       if (item.url.includes('/guide/') || item.url.includes('/area/')) {
-        return { ...item, priority: 0.8, changefreq: 'weekly' };
+        return { ...item, priority: 0.8, changefreq: 'weekly', lastmod: today };
       }
       // トップページ・LPは最高優先度
       if (item.url === 'https://akiya.arshe-corp.com/' ||
           item.url.includes('/lp-')) {
-        return { ...item, priority: 1.0, changefreq: 'daily' };
+        return { ...item, priority: 1.0, changefreq: 'daily', lastmod: today };
       }
-      return item;
+      return { ...item, lastmod: today };
     }
   })],
   vite: {

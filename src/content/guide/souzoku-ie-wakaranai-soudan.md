@@ -149,3 +149,6 @@ faqs:
 - [相続した不動産の処分方法を完全解説](/guide/souzoku-fudousan-shobun-kanzen-guide)
 - [相続放棄の期限切れに注意！手続きと費用を解説](/guide/souzoku-houki-kigengire)
 - [相続した空き家の固定資産税を節税する方法](/guide/souzoku-akiya-koteishisanzei-kaihi)
+---
+
+**このカテゴリの全ガイド一覧:** [→ 相続不動産 完全ハブ【2026年版】](/guide/souzoku-hub)

@@ -249,3 +249,6 @@ cluster: "akiya-tax"
 <strong>メールでのお問い合わせ</strong><br>
 <a href="/contact">無料相談フォームはこちら</a>（48時間以内にご返信します）
 </div>
+---
+
+**このカテゴリの全ガイド一覧:** [→ 空き家の処分・活用 完全ガイド](/guide/vacant-house)

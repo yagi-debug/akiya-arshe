@@ -232,3 +232,6 @@ cluster: "akiya-tax"
 <a href="/contact" style="display:inline-block;background:#1a56db;color:#fff;padding:12px 24px;border-radius:6px;font-weight:bold;text-decoration:none;margin:8px 0;">フォームで相談する（24時間受付）</a>
 
 査定・相談は完全無料です。売却を強制することはありません。固定資産税の支払い期限が迫っている方はお早めにご連絡ください。
+---
+
+**このカテゴリの全ガイド一覧:** [→ 空き家の処分・活用 完全ガイド](/guide/vacant-house)

@@ -201,3 +201,6 @@ howToSteps:
 <a href="https://lin.ee/akiya-mikata" style="display:inline-block;background:#06c755;color:#fff;padding:0.7rem 1.5rem;border-radius:6px;text-decoration:none;font-weight:bold;margin-right:0.8rem;">LINEで無料相談する</a>
 <a href="/contact" style="display:inline-block;background:#1a56db;color:#fff;padding:0.7rem 1.5rem;border-radius:6px;text-decoration:none;font-weight:bold;">お問い合わせフォーム</a>
 </div>
+---
+
+**このカテゴリの全ガイド一覧:** [→ 相続不動産 完全ハブ【2026年版】](/guide/souzoku-hub)

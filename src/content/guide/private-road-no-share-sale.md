@@ -263,3 +263,6 @@ A: 売却は可能ですが、<strong>仲介市場では住宅ローン審査が
 <a href="/contact" style="display:inline-block;background:#2563eb;color:white;padding:12px 24px;border-radius:8px;text-decoration:none;font-weight:bold;margin:0.5rem 0;">お問い合わせフォームへ</a>
 
 宅建業免許: 大阪府知事(1)第65646号
+---
+
+**このカテゴリの全ガイド一覧:** [→ 再建築不可物件 完全ハブ【2026年版】](/guide/saikenchifu-hub)

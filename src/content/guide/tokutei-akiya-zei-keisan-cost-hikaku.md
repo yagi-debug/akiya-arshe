@@ -264,3 +264,6 @@ cluster: "akiya-tax"
 - <a href="/guide/akiya-kotei-shisan-zei-haraenai">固定資産税が払えないとき｜4つの選択肢と対応方法</a>
 - <a href="/guide/akiya-koteishisanzei-simulator">空き家の固定資産税・維持費シミュレーター</a>
 - <a href="/guide/akiya-kaitori">空き家の買取｜現況のまま現金化する方法</a>
+---
+
+**このカテゴリの全ガイド一覧:** [→ 空き家の処分・活用 完全ガイド](/guide/vacant-house)

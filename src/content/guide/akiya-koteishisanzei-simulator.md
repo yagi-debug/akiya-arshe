@@ -461,3 +461,6 @@ function calcAkiyaSim() {
     </a>
   </div>
 </div>
+---
+
+**このカテゴリの全ガイド一覧:** [→ 空き家の処分・活用 完全ガイド](/guide/vacant-house)

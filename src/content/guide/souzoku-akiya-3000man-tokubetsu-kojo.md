@@ -258,3 +258,6 @@ A. 買取業者（当社のような不動産買取業者）への売却でも�
 - [旧耐震基準の物件を売りたい｜耐震改修なしで現況買取できる方法](/guide/kyutaishin-bukken-baikyaku)
 - [相続した不動産の完全ガイド｜手続き・税金・売却まで](/guide/souzoku-fudousan-shobun-kanzen-guide)
 - [相続登記（名義変更）の義務化とは？2026年最新情報](/guide/souzoku-touki-gimuka-kanzen-taiou-2026)
+---
+
+**このカテゴリの全ガイド一覧:** [→ 相続不動産 完全ハブ【2026年版】](/guide/souzoku-hub)

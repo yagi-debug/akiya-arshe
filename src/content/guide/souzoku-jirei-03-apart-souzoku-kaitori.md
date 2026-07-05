@@ -348,3 +348,6 @@ Cさんが選んだ「相続アパートのオーナーチェンジ買取」の�
 - <a href="/guide/inherited-apartment-buyout">相続したアパートの買取｜入居者付きでも対応できます</a>
 - <a href="/guide/souzoku-touki-gimuka-2years">相続登記の義務化とは？期限・罰則・手続きを解説</a>
 - <a href="/guide/kaitori-jirei-10sen">訳あり不動産の買取実績10選</a>
+---
+
+**このカテゴリの全ガイド一覧:** [→ 相続不動産 完全ハブ【2026年版】](/guide/souzoku-hub)

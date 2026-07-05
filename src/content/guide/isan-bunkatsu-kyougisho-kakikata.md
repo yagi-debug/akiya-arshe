@@ -213,3 +213,6 @@ howToSteps:
   <a href="https://lin.ee/9Fk9EUl" style="display:inline-block;background:#06C755;color:#fff;padding:0.75rem 1.5rem;border-radius:4px;text-decoration:none;font-weight:bold;margin-right:1rem;">LINEで無料相談する</a>
   <a href="/contact" style="display:inline-block;background:#1a56db;color:#fff;padding:0.75rem 1.5rem;border-radius:4px;text-decoration:none;font-weight:bold;">お問い合わせフォームへ</a>
 </div>
+---
+
+**このカテゴリの全ガイド一覧:** [→ 相続不動産 完全ハブ【2026年版】](/guide/souzoku-hub)

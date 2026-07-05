@@ -306,3 +306,6 @@ cluster: "akiya-tax"
 <a href="/contact" style="display:inline-block;background:#1a56db;color:#fff;padding:12px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 0;">フォームでご相談する</a>
 
 固定資産税の通知書が届いた今が、相続した空き家の今後を見直す最適なタイミングです。「まずは話を聞くだけ」という段階でも大歓迎です。査定・相談は完全無料ですので、お気軽にご連絡ください。
+---
+
+**このカテゴリの全ガイド一覧:** [→ 空き家の処分・活用 完全ガイド](/guide/vacant-house)

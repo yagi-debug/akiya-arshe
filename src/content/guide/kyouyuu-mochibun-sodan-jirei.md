@@ -193,3 +193,6 @@ cluster: "shared-ownership"
 - [共有持分の買取 — 他の共有者の同意不要・最短2週間](/guide/kyouyuu-mochibun-kaitori)
 - [共有者が認知症の場合の不動産売却方法](/guide/dementia-coowner-property-sale)
 - [訳あり不動産の買取事例5選](/guide/kaitori-jirei)
+---
+
+**このカテゴリの全ガイド一覧:** [→ 共有持分 完全ハブ【2026年版】](/guide/kyouyuu-mochibun-hub)

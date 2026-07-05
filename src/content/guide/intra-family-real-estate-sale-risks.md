@@ -210,3 +210,6 @@ faqs:
 - <a href="/guide/inheritance-sale">相続した不動産を売却する完全ガイド</a>
 - <a href="/guide/akiya-kaitori">空き家の買取とは？仲介との違い・メリット・流れ</a>
 - <a href="/guide/inheritance-abandon">相続放棄と不動産の関係｜管理責任・リスクと対策</a>
+---
+
+**このカテゴリの全ガイド一覧:** [→ 相続不動産 完全ハブ【2026年版】](/guide/souzoku-hub)

@@ -406,3 +406,6 @@ Fさんのように「農振除外が必要と言われた」「農振除外を�
 - <a href="/guide/souzoku-touki-gimuka-2years">相続登記の義務化とは？期限・罰則・手続きを解説</a>
 - <a href="/guide/akiya-kotei-shisan-zei-haraenai">空き家の固定資産税が払えないとき｜分納・減免・売却・相続放棄の4つの選択肢【2026年版】</a>
 - <a href="/guide/souzoku-fudosan-shippai-3jirei">相続不動産の売却で失敗した3事例｜買取で解決した比較と5問リスク診断</a>
+---
+
+**このカテゴリの全ガイド一覧:** [→ 空き家の処分・活用 完全ガイド](/guide/vacant-house)

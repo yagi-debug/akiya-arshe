@@ -191,3 +191,6 @@ cluster: "akiya-management"
   <a href="https://lin.ee/9Fk9EUl" style="display:inline-block;background:#4caf50;color:#fff;padding:0.75rem 2rem;border-radius:4px;text-decoration:none;font-weight:bold;margin-bottom:0.5rem;">LINEで無料相談する</a>
   <p style="margin:0.5rem 0 0;"><a href="/contact" style="color:#4caf50;">お問い合わせフォームはこちら</a></p>
 </div>
+---
+
+**このカテゴリの全ガイド一覧:** [→ 空き家の処分・活用 完全ガイド](/guide/vacant-house)

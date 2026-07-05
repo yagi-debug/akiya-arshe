@@ -341,3 +341,6 @@ Eさんのように「仲介に断られた」「市街化調整区域だから�
 - <a href="/guide/akiya-shobun-5-hikaku">空き家の処分方法5つを比較｜費用・期間・メリット・デメリット</a>
 - <a href="/guide/souzoku-touki-gimuka-2years">相続登記の義務化とは？期限・罰則・手続きを解説</a>
 - <a href="/guide/fudosan-kotowarareta-ato-dekiru-koto">不動産業者に断られた後にできること</a>
+---
+
+**このカテゴリの全ガイド一覧:** [→ 空き家の処分・活用 完全ガイド](/guide/vacant-house)

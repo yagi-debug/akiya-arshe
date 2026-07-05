@@ -394,3 +394,6 @@ function calcTax() {
 <a href="/contact" style="display:inline-block;background:#1a56db;color:#fff;padding:12px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 0;">フォームでご相談する</a>
 
 固定資産税の納付書が届いた今が、空き家・相続物件の今後を見直すベストタイミングです。5つの数字を確認したうえで、ご自身の状況に合った判断をするためのご相談をお気軽にどうぞ。
+---
+
+**このカテゴリの全ガイド一覧:** [→ 空き家の処分・活用 完全ガイド](/guide/vacant-house)

@@ -190,3 +190,6 @@ A: 売却できます。仲介では住宅ローンが通りにくく買い手�
     <a href="/contact" style="display:inline-block; background:#0070f3; color:#fff; padding:0.8em 2em; border-radius:4px; text-decoration:none; font-weight:bold;">お問い合わせフォーム</a>
   </p>
 </div>
+---
+
+**このカテゴリの全ガイド一覧:** [→ 再建築不可物件 完全ハブ【2026年版】](/guide/saikenchifu-hub)

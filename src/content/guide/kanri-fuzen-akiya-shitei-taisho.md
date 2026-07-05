@@ -343,3 +343,6 @@ cluster: "akiya-tax"
 - <a href="/guide/akiya-shobun-5-hikaku">空き家の処分方法5つを徹底比較【2026年版】費用・期間・手残り額</a>
 - <a href="/guide/kotei-shisan-zei-akiya-3check-guide">固定資産税の通知書が届いたら確認｜空き家4.2倍リスク回避の3ステップ</a>
 - <a href="/guide/akiya-kaitori">空き家の買取｜放置している空き家を現金化する方法</a>
+---
+
+**このカテゴリの全ガイド一覧:** [→ 空き家の処分・活用 完全ガイド](/guide/vacant-house)

@@ -216,3 +216,6 @@ cluster: "akiya-tax"
 - <a href="/guide/souzoku-touki-gimuka-karyo">相続登記しないと過料10万円？放置リスクと解決方法</a>
 - <a href="/guide/akiya-kaitori">空き家の買取｜放置している空き家を現金化する方法</a>
 - <a href="/guide/remote-family-home-sale">遠方の実家を売却する方法</a>
+---
+
+**このカテゴリの全ガイド一覧:** [→ 空き家の処分・活用 完全ガイド](/guide/vacant-house)

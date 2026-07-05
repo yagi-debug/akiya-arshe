@@ -21,6 +21,8 @@ faqs:
 
 <img src="/images/akiya-risk-map-2026-hero.jpg" alt="老朽化した空き家の外観　空き家リスクマップ2026" width="1200" height="800" style="width:100%;height:auto;border-radius:8px;margin-bottom:1.5rem;" />
 
+> **TL;DR** — 空き家900万戸。山梨等5県がリスクS。特定空家→固定資産税6倍・行政代執行リスク。早期処分が有利。
+
 <div style="background:#fff3cd;border-left:4px solid #e6a817;padding:1rem 1.5rem;margin-bottom:1.5rem;border-radius:4px;">
 <strong>このページのポイント：</strong>
 <ul style="margin:0.5rem 0 0 1rem;padding:0;">
@@ -362,4 +364,6 @@ faqs:
 - <a href="/guide/akiya-cost-risk-db-2026">空き家コスト・リスク全国データベース2026｜47都道府県の固定資産税負担額・放置コスト試算・特定空家指定数</a>
 - <a href="/guide/souzoku-apart-kanzen-guide">相続アパートを手放したい方へ｜売却の流れ・税金・失敗しない判断基準を宅建業者が完全解説【2026年最新】</a>
 - <a href="/guide/souzoku-fudousan-shobun-kanzen-guide">相続不動産の処分 完全ガイド2026｜法律・登記・比較表・失敗対策まで一気に解説</a>
+---
 
+**このカテゴリの全ガイド一覧:** [→ 空き家の処分・活用 完全ガイド](/guide/vacant-house)

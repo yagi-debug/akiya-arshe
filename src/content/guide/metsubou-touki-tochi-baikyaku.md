@@ -223,3 +223,6 @@ A. 建物滅失登記が完了すると、市区町村への通知が行われ�
 <a href="/contact" style="display:inline-block;background:#333;color:#fff;padding:12px 28px;border-radius:6px;text-decoration:none;font-weight:bold;margin:8px 4px;">お問い合わせフォームで相談する</a>
 
 登記の不備があっても、すぐに売れないわけではありません。状況を整理するところからお手伝いします。
+---
+
+**このカテゴリの全ガイド一覧:** [→ 相続不動産 完全ハブ【2026年版】](/guide/souzoku-hub)

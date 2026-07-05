@@ -325,3 +325,6 @@ https://lin.ee/9Fk9EUl
 - [固定資産税の通知書が届いたらやること3ステップ【2026年版】](/guide/kotei-shisan-zei-tsuchisho-todaita)
 - [空き家処分の5大選択肢を徹底比較【2026年版】](/guide/akiya-shobun-5-hikaku)
 - [訳あり不動産の買取専門業者への売却の流れ](/guide/wakeare-bukken-kaitori-nagare)
+---
+
+**このカテゴリの全ガイド一覧:** [→ 空き家の処分・活用 完全ガイド](/guide/vacant-house)

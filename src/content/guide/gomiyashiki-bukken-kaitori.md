@@ -188,3 +188,6 @@ cluster: "akiya-tax"
 - [事故物件の買取を宅建業者が解説](/guide/jiko-bukken-kaitori)
 - [空き家の処分方法5つを徹底比較](/guide/akiya-shobun-5-hikaku)
 - [相続した不動産の売却完全ガイド](/guide/souzoku-fudousan-urikata-kanzen-guide)
+---
+
+**このカテゴリの全ガイド一覧:** [→ 空き家の処分・活用 完全ガイド](/guide/vacant-house)

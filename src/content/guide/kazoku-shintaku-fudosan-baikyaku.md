@@ -204,3 +204,6 @@ faqs:
 <a href="/contact" style="display:inline-block;background:#1a73e8;color:white;padding:0.75rem 2rem;border-radius:8px;text-decoration:none;font-weight:bold;">お問い合わせフォーム</a>
 </p>
 </div>
+---
+
+**このカテゴリの全ガイド一覧:** [→ 相続不動産 完全ハブ【2026年版】](/guide/souzoku-hub)

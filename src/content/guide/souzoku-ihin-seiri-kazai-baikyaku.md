@@ -172,3 +172,6 @@ faqs:
 <a href="https://lin.ee/9Fk9EUl" target="_blank" rel="noopener noreferrer"><strong>LINEで無料相談する（24時間受付）</strong></a>
 
 <a href="/contact"><strong>お問い合わせフォームはこちら</strong></a>
+---
+
+**このカテゴリの全ガイド一覧:** [→ 相続不動産 完全ハブ【2026年版】](/guide/souzoku-hub)
