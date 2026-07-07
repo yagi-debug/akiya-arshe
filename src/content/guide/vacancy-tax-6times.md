@@ -30,6 +30,8 @@ howToSteps:
 cluster: "akiya-tax"
 ---
 
+<div style="background:#f0f9ff;border-left:4px solid #0284c7;padding:0.75rem 1.25rem;margin-bottom:1.25rem;border-radius:4px;font-size:0.95em;"><strong>TL;DR</strong>: 勧告を受けると翌年度から固定資産税が最大6倍。管理不全空き家も2023年から対象に。早期売却が最速の回避策。</div>
+
 <img src="/images/vacancy-tax-6times-hero.jpg" alt="放置された空き家の外観。特定空き家に指定されると固定資産税が最大6倍になる" width="1200" height="800" style="width:100%;height:auto;border-radius:8px;margin-bottom:1.5rem;" />
 
 **Q: 空き家の固定資産税はいつから6倍になりますか？**
