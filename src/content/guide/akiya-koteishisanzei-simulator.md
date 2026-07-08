@@ -21,6 +21,10 @@ faqs:
 cluster: "akiya-tax"
 ---
 
+<div style="background:#e8f4f8;border-left:4px solid #1a56db;padding:0.85rem 1.25rem;margin-bottom:1.5rem;border-radius:4px;font-size:0.95rem;">
+<strong>TL;DR（要約）</strong>：空き家の年間維持コストは固定資産税だけでなく都市計画税・保険・修繕費を合計すると年100〜200万円になるケースがある。特定空家に指定されて勧告を受けると住宅用地の特例が解除され、土地の固定資産税が最大6倍に跳ね上がる。上のシミュレーターで現在の評価額を入力すれば、6倍化後の税額と5年・10年の累計コストを即時試算できる。執筆：八木宏樹（宅地建物取引士・大阪府知事(1)第65646号）
+</div>
+
 <img src="/images/property-tax-options-calculator.jpg" alt="空き家の固定資産税を計算する電卓と税務書類　維持費シミュレーションのイメージ" width="1200" height="800" style="width:100%;height:auto;border-radius:8px;margin-bottom:1.5rem;" />
 
 「毎年固定資産税の通知書が届くけれど、実際にいくら払い続けているのか整理できていない」——そんな空き家オーナーの方は少なくありません。
@@ -60,6 +64,35 @@ cluster: "akiya-tax"
     "@type": "Organization",
     "name": "空き家のミカタ",
     "url": "https://akiya.arshe-corp.com"
+  }
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "空き家の固定資産税6倍化シミュレーター",
+  "applicationCategory": "FinanceApplication",
+  "url": "https://akiya.arshe-corp.com/guide/akiya-koteishisanzei-simulator",
+  "description": "土地の固定資産税評価額・建物評価額・床面積を入力すると、特定空家指定後の税額6倍化・3年/5年/10年の累計維持コストを即時試算。住宅用地特例の解除シミュレーションも対応。",
+  "featureList": [
+    "固定資産税・都市計画税の住宅用地特例適用額を自動計算",
+    "特定空家（管理不全空家）勧告後の住宅用地特例解除後税額試算",
+    "税額増加分（最大6倍）のシミュレーション",
+    "3年・5年・10年の累計維持コスト試算",
+    "火災保険料・修繕費の年間概算を含む総維持コスト計算"
+  ],
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "JPY"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "八木宏樹",
+    "jobTitle": "宅地建物取引士",
+    "identifier": "大阪府知事(1)第65646号"
   }
 }
 </script>
@@ -267,6 +300,10 @@ function calcAkiyaSim() {
   `;
 
   document.getElementById('sim-cumulative').innerHTML = `
+    <div style="background:white;border-radius:6px;padding:0.75rem;text-align:center;">
+      <div style="font-size:0.8rem;color:#555;margin-bottom:4px;">3年間の累計維持コスト</div>
+      <div style="font-size:1.3rem;font-weight:bold;color:#e63946;">${fmtMan(totalAnnual * 3)}</div>
+    </div>
     <div style="background:white;border-radius:6px;padding:0.75rem;text-align:center;">
       <div style="font-size:0.8rem;color:#555;margin-bottom:4px;">5年間の累計維持コスト</div>
       <div style="font-size:1.3rem;font-weight:bold;color:#1a56db;">${fmtMan(totalAnnual * 5)}</div>
