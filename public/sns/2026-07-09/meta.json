@@ -1,0 +1,16 @@
+{
+  "date": "2026-07-09",
+  "slug": "ig-2026-07-day4-reel01",
+  "title": "誰も帰らなくなった家の話",
+  "type": "reel_story",
+  "files": [
+    "reel_story01_v4.mp4"
+  ],
+  "checks": {
+    "caption_forbidden_words": [],
+    "file_count_ok": true,
+    "voicevox_credit_ok": true,
+    "manual_visual_check": "pre-produced Week1 assets; accepted by content plan"
+  },
+  "fallback_used": false
+}
