@@ -231,6 +231,7 @@ A. 京橋駅周辺は城東区内で最も地価が高く、土地の公示地�
 
 ## 他のエリアの相場を見る
 
+- <a href="/area/osaka-city">大阪市の訳あり物件買取ガイド｜24区対応・再建築不可・相続アパート・事故物件</a>
 - <a href="/area/osaka-chuo">中央区の不動産売却相場</a>
 - <a href="/area/osaka-kita">北区の不動産売却相場</a>
 - <a href="/area/osaka-tennoji">天王寺区の不動産売却相場</a>

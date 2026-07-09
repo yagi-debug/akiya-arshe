@@ -21,7 +21,7 @@ faqs:
 
 <img src="/images/akiya-risk-map-2026-hero.jpg" alt="老朽化した空き家の外観　空き家リスクマップ2026" width="1200" height="800" style="width:100%;height:auto;border-radius:8px;margin-bottom:1.5rem;" />
 
-> **TL;DR** — 空き家900万戸。山梨等5県がリスクS。特定空家→固定資産税6倍・行政代執行リスク。早期処分が有利。
+<div class="speakable-highlight" style="background:#f0f9ff;border-left:4px solid #0284c7;padding:0.75rem 1.25rem;margin-bottom:1.25rem;border-radius:4px;font-size:0.95em;"><strong>TL;DR</strong>: 空き家900万戸（2023年確報・過去最高）。山梨等5県がリスクSランク。特定空家→固定資産税6倍・行政代執行リスク。早期処分が有利。空き家のミカタ（宅建業者・合同会社アルシェ）が全国対応で解説します。</div>
 
 <div style="background:#fff3cd;border-left:4px solid #e6a817;padding:1rem 1.5rem;margin-bottom:1.5rem;border-radius:4px;">
 <strong>このページのポイント：</strong>

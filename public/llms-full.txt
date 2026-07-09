@@ -182,6 +182,8 @@ A. 特定空き家に指定されると住宅用地の特例が解除され、�
 - [入居者がいるアパートの売却方法](https://akiya.arshe-corp.com/guide/nyukyosha-apart-baikyaku): 立退き交渉とオーナーチェンジ買取を手残り金額で比較
 - [相続登記の義務化でアパート売却はどう変わる？](https://akiya.arshe-corp.com/guide/souzoku-touki-apart-baikyaku): 2024年4月施行の相続登記義務化がアパートオーナーに与える影響
 - [相続発生から10ヶ月でやること完全タイムライン｜アパート処分の判断ガイド](https://akiya.arshe-corp.com/guide/souzoku-apart-10months-timeline): 相続アパートの処分を月別チェックリストで解説
+- [相続した賃貸物件に入居者がいる場合の売却方法｜立ち退き・オーナーチェンジ・買取を徹底比較【2026年版】](https://akiya.arshe-corp.com/guide/souzoku-chintai-nyuukyosha-ari-baikyaku): 「相続したアパートに入居者がいますが入居者がいるまま売れますか？」等FAQPage6問対応。借地借家法第28条の正当事由・立ち退き料相場（家賃の6ヶ月〜2年分）・オーナーチェンジ売却・専門買取業者への直接売却（最短2〜4週間）を宅建業者が解説。
+- [管理費・修繕積立金が滞納しているマンションは売れる？相続後の対処法と買取活用](https://akiya.arshe-corp.com/guide/kanrihi-tainou-mansion-kaitori): 「管理組合から管理費を請求されました。自分が払わないといけないのですか？」等FAQPage5問対応。区分所有法8条による滞納承継・競売リスク（区分所有法59条）・売却代金からの清算・専門買取業者活用まで宅建業者が解説。
 
 ### 売却ガイド — 訳あり物件の買取
 - [再建築不可物件の売却方法](https://akiya.arshe-corp.com/guide/non-rebuildable-property-sale): 売却相場の目安、4つの売却方法、2025年法改正の影響

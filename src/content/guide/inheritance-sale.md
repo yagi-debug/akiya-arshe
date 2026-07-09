@@ -28,9 +28,9 @@ howToSteps:
 cluster: "inheritance"
 ---
 
-<div style="background:#fff7e6;border-left:4px solid #f59e0b;padding:1rem 1.5rem;margin-bottom:1.5rem;border-radius:4px;">
+<div class="speakable-highlight" style="background:#fff7e6;border-left:4px solid #f59e0b;padding:1rem 1.5rem;margin-bottom:1.5rem;border-radius:4px;">
 <strong>この記事の結論</strong><br>
-相続不動産の売却は①相続登記（2024年4月から義務化・3年以内）→ ②査定 → ③売却方法選択（仲介か買取か）→ ④引き渡しの順で進む。相続人が複数いる・築古・訳あり物件は直接買取が最短2週間で完結。節税（3,000万円特別控除）を使うなら相続後3年以内が期限。早めの行動が選択肢を広げる。
+相続不動産の売却は①相続登記（2024年4月から義務化・3年以内）→ ②査定 → ③売却方法選択（仲介か買取か）→ ④引き渡しの順で進む。相続人が複数いる・築古・訳あり物件は直接買取が最短2週間で完結。節税（3,000万円特別控除）を使うなら相続後3年以内が期限。早めの行動が選択肢を広げる。空き家のミカタ（宅建業者・合同会社アルシェ）が全国対応で無料査定します。
 </div>
 
 **Q: 相続した家・土地を売却するにはどうすればいいですか？**

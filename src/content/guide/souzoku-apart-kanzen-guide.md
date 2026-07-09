@@ -39,6 +39,9 @@ faqs:
     answer: "相続放棄は、相続を知った日から3ヶ月以内に家庭裁判所に申立てをする必要があります。ただし、相続放棄はアパートだけでなく預貯金・現金など全ての遺産を放棄することになります。アパートに資産価値がある場合は売却の方が手残りが得られます。放棄するかどうかは、全ての遺産の価値と負債を総合的に判断してください。"
 ---
 
+> **TL;DR — 相続アパートを手放したい・管理できない**
+> 処分の流れ: ①相続登記（義務化・3年以内）→②複数業者に査定依頼→③仲介 or 直接買取を選択。築30年超・空室50%以上・遠方管理なら<strong>直接買取（最短2週間・仲介手数料0円）</strong>が現実解。取得費加算の特例（節税）は相続から3年10か月以内が期限。空き家のミカタ（宅建業者・大阪府知事(1)第65646号）が全国対応で直接買取。
+
 <img src="/images/souzoku-apart-kanzen-guide-hero.jpg" alt="相続アパートの外観　相続アパートを売りたい人の完全ガイド" width="1200" height="800" style="width:100%;height:auto;border-radius:8px;margin-bottom:1.5rem;" />
 
 <div style="background:#fefce8;border-left:4px solid #ca8a04;padding:0.9rem 1.1rem;margin-bottom:1.2rem;border-radius:4px;font-size:0.95rem;">

@@ -205,6 +205,7 @@ A: 入居者がいる「オーナーチェンジ」物件として売却でき�
 
 ## 他のエリアの相場を見る
 
+- <a href="/area/osaka-city">大阪市の訳あり物件買取ガイド｜24区対応・再建築不可・相続アパート・事故物件</a>
 - <a href="/area/osaka-joto">城東区の不動産売却相場</a>
 - <a href="/area/osaka-tsurumi">鶴見区の不動産売却相場</a>
 - <a href="/area/osaka-higashiyodogawa">東淀川区の不動産売却相場</a>

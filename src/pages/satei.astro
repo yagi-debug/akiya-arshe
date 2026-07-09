@@ -19,26 +19,76 @@ const schema = {
     "url": "https://akiya.arshe-corp.com"
   }
 };
+
+const faqSchema = {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "査定は無料ですか？",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "はい、完全無料です。査定依頼の時点では費用は一切発生しません。査定額を確認した上で売却するかどうかを判断していただけます。"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "査定後、必ず売らなければなりませんか？しつこい営業はありますか？",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "いいえ、売却義務はありません。査定額を把握した上で「売らない」という判断も歓迎します。当社は代表が直接対応するため、スタッフによるしつこい営業電話もありません。"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "再建築不可・事故物件・共有持分・相続アパートも査定できますか？",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "はい、すべて対応しています。通常の仲介では断られやすい訳あり物件（再建築不可・事故物件・共有持分・相続アパート・空き家・底地・借地権）でも、専門業者として買取査定が可能です。まず物件種別・エリアを選択してください。"
+      }
+    }
+  ]
+};
 ---
 
 <BaseLayout
-  title="無料AI査定 | 訳あり不動産の概算価格を10秒で - 空き家のミカタ"
-  description="物件タイプ・エリア・土地面積を入力するだけで、訳あり不動産の概算価格を即時表示。相続アパート・再建築不可・事故物件・空き家など、どんな物件でも対応。査定後はLINEで詳しく相談できます。"
+  title="あなたの訳あり物件、60秒で概算査定 — 相続・再建築不可・事故物件も対応｜空き家のミカタ"
+  description="「断られた」「売れない」訳あり物件も対応。物件種別・エリア・状況を3つ選ぶだけで60秒で概算価格を表示。査定は完全無料・売却強制なし。相続アパート・再建築不可・事故物件・空き家すべて対応。大阪府知事(1)第65646号。"
   schema={schema}
+  faqSchema={faqSchema}
 >
   <main class="min-h-screen bg-bg py-10">
     <div class="mx-auto max-w-3xl px-4">
 
       <div class="mb-8 text-center">
         <p class="mb-2 text-sm font-bold uppercase tracking-widest text-accent">Free AI Appraisal</p>
-        <h1 class="mb-3 text-3xl font-bold text-primary md:text-4xl">無料AI査定</h1>
+        <h1 class="mb-3 text-3xl font-bold text-primary md:text-4xl">60秒で概算査定</h1>
         <p class="text-base text-text-light">
-          3項目を入力するだけで概算価格を即時表示。<br class="hidden md:block" />
-          相続・訳あり・空き家など、どんな物件でもOK。
+          <strong>物件種別・エリア・状況</strong>を3つ選ぶだけで概算価格を即時表示。<br class="hidden md:block" />
+          相続・訳あり・空き家など、どんな物件でもOK。査定は無料・売却強制なし。
         </p>
       </div>
 
       <SateiForm id="satei-page" />
+
+      <section class="mt-12 rounded-xl border border-border bg-white p-6">
+        <h2 class="mb-4 text-xl font-bold text-primary">よくある質問</h2>
+        <dl class="space-y-5">
+          <div>
+            <dt class="font-bold text-primary">Q. 査定は無料ですか？</dt>
+            <dd class="mt-1 text-sm text-text-light">はい、完全無料です。査定依頼の時点では費用は一切発生しません。査定額を確認した上で売却するかどうかを判断していただけます。</dd>
+          </div>
+          <div>
+            <dt class="font-bold text-primary">Q. 査定後、必ず売らなければなりませんか？しつこい営業はありますか？</dt>
+            <dd class="mt-1 text-sm text-text-light">いいえ、売却義務はありません。査定額を把握した上で「売らない」という判断も歓迎します。当社は代表が直接対応するため、スタッフによるしつこい営業電話もありません。</dd>
+          </div>
+          <div>
+            <dt class="font-bold text-primary">Q. 再建築不可・事故物件・共有持分・相続アパートも査定できますか？</dt>
+            <dd class="mt-1 text-sm text-text-light">はい、すべて対応しています。通常の仲介では断られやすい訳あり物件（再建築不可・事故物件・共有持分・相続アパート・空き家・底地・借地権）でも、専門業者として買取査定が可能です。</dd>
+          </div>
+        </dl>
+      </section>
 
     </div>
   </main>
