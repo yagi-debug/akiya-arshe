@@ -16,7 +16,7 @@ faqs:
     answer: "売却は可能ですが、住宅ローンが組めないため一般の買主はほぼつきません。建築基準法上の接道義務（幅員4m以上の道路に2m以上接すること）を満たさない物件は建て替えができないため、買取専門業者への売却が最も現実的です。相場は通常価格の30〜60%程度が目安です。"
   - question: "共有持分だけを売却することはできますか？"
     answer: "法律上は可能です。他の共有者の同意がなくても、自分の持分だけを第三者に売却できます（民法206条）。ただし持分のみを購入する一般の買主はほぼいないため、買取専門業者への売却が現実的です。価格は持分割合に応じた市場価格の30〜50%程度が目安です。"
-cluster: "accident"
+cluster: "wakeari"
 ---
 
 <img src="/images/wakare-bukken-to-wa-hero.jpg" alt="古い木造家屋の外観　訳あり物件の解説イメージ" width="1200" height="800" style="width:100%;height:auto;border-radius:8px;margin-bottom:1.5rem;" />
@@ -221,6 +221,8 @@ cluster: "accident"
 - <a href="/guide/shinriteki-kashi-kokuchi-gimu">心理的瑕疵とは？事故物件の告知義務の範囲・売却時期・価格への影響を宅建業者が解説</a>
 - <a href="/guide/kyouyuu-mochibun-hub">共有持分 完全ハブ｜売却・買取・トラブル解決・相場まで全ガイドまとめ【2026年版】</a>
 - <a href="/guide/saikenchifu-hub">再建築不可物件 完全ハブ｜売却・買取・価格相場・事例まで全ガイドまとめ【2026年版】</a>
+- <a href="/guide/property-with-seizure-sale">差押え・仮差押えが付いた不動産を売る方法｜買取解決と任意売却の違い</a>
+- <a href="/guide/flood-damaged-property-sell">水害・浸水被害を受けた不動産を売る方法｜告知義務・価格・現況買取の流れ</a>
 
 ## ご相談・査定はこちら（無料・秘密厳守）
 

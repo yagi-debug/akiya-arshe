@@ -230,6 +230,7 @@ A. 適用されます。再建築不可であっても「住宅の敷地」で�
 - <a href="/guide/souzoku-jirei-07-saikenchifu-nagaya-kaitori">【体験談・事例07】再建築不可の老朽木造長屋を14日で現金化。市から管理不全通知が届いた後に動いた60代女性の全記録</a>
 - <a href="/guide/kyouyuu-mochibun-hub">共有持分 完全ハブ｜売却・買取・トラブル解決・相場まで全ガイドまとめ【2026年版】</a>
 - <a href="/guide/kaitori-jirei-10sen">訳あり不動産の買取実績10選｜相続・再建築不可・事故物件・共有持分・空き家の解決事例集</a>
+- <a href="/guide/wakare-bukken-to-wa">訳あり物件とは？5種類の定義・告知義務・売却可否チェックリスト【2026年版】</a>
 
 ## 関連するハブガイド
 

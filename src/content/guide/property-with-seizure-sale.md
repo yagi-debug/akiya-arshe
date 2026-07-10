@@ -34,6 +34,11 @@ howToSteps:
 
 <img src="/images/property-with-seizure-sale-hero.jpg" alt="差押え・仮差押えが入った不動産の売却手続きイメージ　法的書類と不動産" width="2250" height="1500" style="width:100%;height:auto;border-radius:8px;margin-bottom:1.5rem;" />
 
+<div class="speakable-highlight" style="background:#f0f9ff;border-left:4px solid #0284c7;padding:0.75rem 1.25rem;margin-bottom:1.25rem;border-radius:4px;font-size:0.95em;"><strong>TL;DR</strong>: 差押え・仮差押えが入った不動産でも競売開始前なら売却できます。買取業者への直接売却なら最短1〜2週間・仲介手数料なし。放置すると競売落札価格（市場の60〜80%）まで下落するため、早期相談が重要です。差押えが付いた物件を含む<a href="/guide/wakare-bukken-to-wa">訳あり物件全般の売却方法</a>もあわせて確認できます。</div>
+
+**Q: 差押えが入った不動産は売れますか？**
+**A:** 競売開始決定前であれば売却できます。訳あり物件専門の買取業者への直接売却で、差押えを解除しながら最短1〜2週間で現金化できます。
+
 <strong>差押えや仮差押えが入った不動産は、競売になる前であれば売却できます。</strong>買取業者への直接売却なら最短1〜2週間で現金化でき、競売を回避できます。
 
 差押えが入ると「もう手遅れだ」と思われがちですが、<strong>競売開始決定が出る前であれば、直接売却によって競売を回避する選択肢があります。</strong>競売になると売却価格が市場価格の60〜80%程度まで下がるうえ、引越し費用の確保も難しくなります。
@@ -191,3 +196,7 @@ howToSteps:
 - 全国対応
 
 </div>
+
+---
+
+執筆・監修: 八木宏樹（宅地建物取引士・大阪府知事(1)第65646号）｜空き家のミカタ
