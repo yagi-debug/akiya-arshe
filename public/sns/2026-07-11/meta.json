@@ -1,0 +1,22 @@
+{
+  "date": "2026-07-11",
+  "slug": "ig-2026-07-day6-knowledge02",
+  "title": "お盆に実家で見るべき5つのサイン",
+  "type": "knowledge_carousel",
+  "files": [
+    "post_01.png",
+    "post_02.png",
+    "post_03.png",
+    "post_04.png",
+    "post_05.png",
+    "post_06.png",
+    "post_07.png"
+  ],
+  "checks": {
+    "caption_forbidden_words": [],
+    "file_count_ok": true,
+    "voicevox_credit_ok": true,
+    "manual_visual_check": "pre-produced Week1 assets; accepted by content plan"
+  },
+  "fallback_used": false
+}
