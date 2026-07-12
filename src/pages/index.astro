@@ -2,6 +2,9 @@
 import BaseLayout from "../layouts/BaseLayout.astro";
 import FAQ from "../components/FAQ.astro";
 import SateiForm from "../components/SateiForm.astro";
+import LineIcon from "../components/LineIcon.astro";
+
+const LINE_URL = "https://lin.ee/9Fk9EUl";
 
 const faqItems = [
   {
@@ -63,112 +66,148 @@ const homeWebPageSchema = {
   faqSchema={homeFaqSchema}
 >
   <!-- ファーストビュー -->
-  <section class="relative overflow-hidden bg-gradient-to-br from-primary via-primary-light to-primary px-4 py-16 text-white md:py-24">
-    <div class="absolute inset-0 bg-[radial-gradient(ellipse_at_top_right,rgba(198,133,62,0.15),transparent_70%)]"></div>
-    <div class="relative mx-auto max-w-3xl text-center">
-      <h1 class="mb-4 text-2xl font-bold leading-relaxed md:text-4xl md:leading-relaxed">
-        売れない不動産、<br />あきらめていませんか？
+  <section class="relative overflow-hidden">
+    <div class="blob left-[-120px] top-[-80px] h-80 w-80 bg-accent/15"></div>
+    <div class="blob right-[-140px] top-[160px] h-96 w-96 bg-primary/10"></div>
+
+    <div class="relative mx-auto max-w-4xl px-4 pb-14 pt-12 text-center md:pb-20 md:pt-20">
+      <!-- 対応物件バッジ -->
+      <div class="mb-6 flex flex-wrap items-center justify-center gap-2">
+        {["相続アパート", "空き家", "再建築不可", "共有持分", "事故物件"].map((label) => (
+          <span class="rounded-full border border-border bg-white px-3.5 py-1.5 text-xs font-bold text-primary shadow-sm">
+            {label}
+          </span>
+        ))}
+      </div>
+
+      <h1 class="mb-5 text-3xl font-black leading-snug text-primary md:text-5xl md:leading-snug">
+        どこにも断られた物件も、<br />
+        そのまま<span class="marker">現金買取</span>。
       </h1>
-      <p class="mb-8 text-base text-white/80 md:text-lg">
-        訳あり不動産の買取専門。仲介手数料なし・現況買取・最短3日で現金化
+      <p class="mx-auto mb-8 max-w-2xl text-sm leading-relaxed text-text-light md:text-base">
+        訳あり不動産の買取専門「空き家のミカタ」。仲介手数料なし・片付け不要・現況のまま。<br class="hidden md:block" />
+        宅建業者が全国どこの物件でも直接買い取ります。
       </p>
-      <div class="flex flex-col items-center gap-4">
+
+      <!-- CTA -->
+      <div class="mb-3 flex flex-col items-center justify-center gap-3 sm:flex-row">
         <a
-          href="https://lin.ee/9Fk9EUl"
+          href={LINE_URL}
           target="_blank"
           rel="noopener noreferrer"
-          class="inline-flex w-full items-center justify-center gap-2 rounded-lg bg-[#06C755] px-10 py-4 text-lg font-bold text-white shadow-lg transition-all hover:bg-[#05b64d] hover:shadow-xl sm:w-auto"
+          class="inline-flex w-full items-center justify-center gap-2 rounded-full bg-[#06C755] px-9 py-4 text-lg font-bold text-white shadow-lg transition-all hover:-translate-y-0.5 hover:bg-[#05b64d] hover:shadow-xl sm:w-auto"
         >
-          <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" viewBox="0 0 24 24" fill="currentColor">
-            <path d="M19.365 9.863c.349 0 .63.285.63.631 0 .345-.281.63-.63.63H17.61v1.125h1.755c.349 0 .63.283.63.63 0 .344-.281.629-.63.629h-2.386c-.345 0-.627-.285-.627-.629V8.108c0-.345.282-.63.627-.63h2.386c.349 0 .63.285.63.63 0 .349-.281.63-.63.63H17.61v1.125h1.755zm-3.855 3.016c0 .27-.174.51-.432.596-.064.021-.133.031-.199.031-.211 0-.391-.09-.51-.25l-2.443-3.317v2.94c0 .344-.279.629-.631.629-.346 0-.626-.285-.626-.629V8.108c0-.27.173-.51.43-.595.06-.023.136-.033.194-.033.195 0 .375.104.495.254l2.462 3.33V8.108c0-.345.282-.63.63-.63.345 0 .63.285.63.63v4.771zm-5.741 0c0 .344-.282.629-.631.629-.345 0-.627-.285-.627-.629V8.108c0-.345.282-.63.627-.63.349 0 .631.285.631.63v4.771zm-2.466.629H4.917c-.345 0-.63-.285-.63-.629V8.108c0-.345.285-.63.63-.63.348 0 .63.285.63.63v4.141h1.756c.348 0 .629.283.629.63 0 .344-.281.629-.629.629M24 10.314C24 4.943 18.615.572 12 .572S0 4.943 0 10.314c0 4.811 4.27 8.842 10.035 9.608.391.082.923.258 1.058.59.12.301.079.766.038 1.08l-.164 1.02c-.045.301-.24 1.186 1.049.645 1.291-.539 6.916-4.078 9.436-6.975C23.176 14.393 24 12.458 24 10.314" />
-          </svg>
+          <LineIcon class="h-6 w-6" />
           LINEで無料相談する
         </a>
-        <p class="text-sm text-white/70">相談だけでもOK・しつこい勧誘なし・宅建士が原則24時間以内に返信</p>
-        <div class="flex flex-col items-center gap-3 sm:flex-row sm:justify-center">
-          <a
-            href="/satei"
-            class="inline-block rounded-lg border-2 border-accent-light/80 px-8 py-3 text-base font-bold text-white transition-all hover:border-accent-light hover:bg-white/10"
-          >
-            60秒でわかる無料AI査定 →
-          </a>
-          <a
-            href="/contact"
-            class="inline-block rounded-lg border-2 border-white/30 px-8 py-3 text-base font-bold text-white transition-all hover:border-white/60 hover:bg-white/10"
-          >
-            フォームで相談する
-          </a>
-        </div>
+        <a
+          href="/satei"
+          class="inline-flex w-full items-center justify-center gap-2 rounded-full border-2 border-accent bg-white px-8 py-4 text-base font-bold text-accent shadow-sm transition-all hover:-translate-y-0.5 hover:bg-accent hover:text-white sm:w-auto"
+        >
+          60秒でわかる無料AI査定 →
+        </a>
+      </div>
+      <p class="mb-10 text-xs text-text-light md:text-sm">
+        相談だけでもOK・しつこい勧誘なし・宅建士が原則24時間以内に返信
+      </p>
+
+      <!-- 実績バンド -->
+      <div class="grid grid-cols-2 gap-3 md:grid-cols-4">
+        {[
+          { label: "仲介手数料", value: "0円" },
+          { label: "現金化まで", value: "最短3日" },
+          { label: "相談・査定", value: "無料" },
+          { label: "対応エリア", value: "全国" },
+        ].map((stat) => (
+          <div class="rounded-2xl border border-border bg-white px-4 py-5 shadow-[var(--shadow-soft)]">
+            <p class="mb-1 text-xs font-bold tracking-wider text-text-light">{stat.label}</p>
+            <p class="text-2xl font-black text-primary md:text-3xl">{stat.value}</p>
+          </div>
+        ))}
       </div>
     </div>
   </section>
 
   <!-- 無料AI査定セクション -->
-  <section class="bg-bg px-4 py-12 md:py-16">
+  <section class="bg-white px-4 py-16 md:py-24">
     <div class="mx-auto max-w-3xl">
-      <div class="mb-8 text-center">
-        <p class="mb-2 text-sm font-bold uppercase tracking-widest text-accent">Free AI Appraisal</p>
-        <h2 class="mb-3 text-2xl font-bold text-primary md:text-3xl">無料AI査定</h2>
-        <p class="text-sm text-text-light">3項目を入力するだけで概算価格を即時表示。個人情報不要・完全無料。</p>
+      <div class="reveal mb-10 text-center">
+        <p class="kicker mb-2">Free AI Appraisal</p>
+        <h2 class="mb-3 text-2xl font-black text-primary md:text-4xl">
+          あなたの物件、<span class="marker">60秒</span>で査定
+        </h2>
+        <p class="text-sm text-text-light md:text-base">3項目を入力するだけで概算価格を即時表示。個人情報不要・完全無料。</p>
       </div>
-      <SateiForm id="satei-top" />
+      <div class="reveal">
+        <SateiForm id="satei-top" />
+      </div>
     </div>
   </section>
 
   <!-- 悩み共感セクション -->
-  <section class="px-4 py-12 md:py-16">
+  <section class="px-4 py-16 md:py-24">
     <div class="mx-auto max-w-3xl">
-      <h2 class="mb-8 text-center text-xl font-bold text-primary md:text-2xl">
-        こんなお悩みありませんか？
-      </h2>
-      <ul class="space-y-4">
+      <div class="reveal mb-10 text-center">
+        <p class="kicker mb-2">Worries</p>
+        <h2 class="text-2xl font-black text-primary md:text-4xl">
+          こんなお悩み、<br class="md:hidden" />ありませんか？
+        </h2>
+      </div>
+      <ul class="space-y-3">
         {[
-          "再建築不可と言われて、どこにも売れない",
-          "事故物件を相続したが、どう処分すればいいかわからない",
-          "共有持分の不動産、他の共有者と話がまとまらない",
-          "相続したアパートの管理が限界、早く手放したい",
-          "空き家を放置しているが、固定資産税が6倍になると聞いて不安",
-        ].map((text) => (
-          <li class="flex items-start gap-3 rounded-lg border border-border bg-white px-5 py-4 shadow-sm">
-            <svg xmlns="http://www.w3.org/2000/svg" class="mt-0.5 h-5 w-5 shrink-0 text-accent" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
-              <path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7" />
-            </svg>
-            <span class="text-sm leading-relaxed md:text-base">{text}</span>
+          { emoji: "🚧", text: "再建築不可と言われて、どこにも売れない" },
+          { emoji: "😔", text: "事故物件を相続したが、どう処分すればいいかわからない" },
+          { emoji: "🤝", text: "共有持分の不動産、他の共有者と話がまとまらない" },
+          { emoji: "🏢", text: "相続したアパートの管理が限界、早く手放したい" },
+          { emoji: "🏚️", text: "空き家を放置しているが、固定資産税が6倍になると聞いて不安" },
+        ].map((item) => (
+          <li class="reveal flex items-center gap-4 rounded-2xl border border-border bg-white px-5 py-4 shadow-[var(--shadow-soft)]">
+            <span class="flex h-11 w-11 shrink-0 items-center justify-center rounded-full bg-accent-soft text-xl">{item.emoji}</span>
+            <span class="text-sm font-medium leading-relaxed md:text-base">{item.text}</span>
           </li>
         ))}
       </ul>
+      <div class="reveal mt-8 rounded-2xl bg-primary px-6 py-5 text-center text-white shadow-[var(--shadow-soft)]">
+        <p class="text-sm font-bold md:text-base">
+          こうしたお悩みは、すべて<span class="marker-light">「直接買取」</span>で解決できます。
+        </p>
+      </div>
     </div>
   </section>
 
   <!-- 選ばれる理由セクション -->
-  <section class="bg-white px-4 py-12 md:py-16">
-    <div class="mx-auto max-w-4xl">
-      <h2 class="mb-10 text-center text-xl font-bold text-primary md:text-2xl">
-        選ばれる3つの理由
-      </h2>
-      <div class="grid gap-6 md:grid-cols-3">
+  <section class="bg-white px-4 py-16 md:py-24">
+    <div class="mx-auto max-w-5xl">
+      <div class="reveal mb-12 text-center">
+        <p class="kicker mb-2">Reasons</p>
+        <h2 class="text-2xl font-black text-primary md:text-4xl">選ばれる3つの理由</h2>
+      </div>
+      <div class="grid gap-5 md:grid-cols-3">
         {[
           {
-            num: "1",
+            icon: "M12 8c-1.657 0-3 .895-3 2s1.343 2 3 2 3 .895 3 2-1.343 2-3 2m0-8c1.11 0 2.08.402 2.599 1M12 8V7m0 1v8m0 0v1m0-1c-1.11 0-2.08-.402-2.599-1M21 12a9 9 0 11-18 0 9 9 0 0118 0z",
             title: "仲介手数料なし・直接買取",
             desc: "当社が直接買い取るため、仲介手数料は一切かかりません。売れ残る心配もなく、確実に現金化できます。",
           },
           {
-            num: "2",
+            icon: "M20 7l-8-4-8 4m16 0l-8 4m8-4v10l-8 4m0-10L4 7m8 4v10M4 7v10l8 4",
             title: "現況のまま・片付け不要",
             desc: "残置物があっても、老朽化していても、そのままの状態で買い取ります。片付けや修繕の費用・手間は不要です。",
           },
           {
-            num: "3",
+            icon: "M13 10V3L4 14h7v7l9-11h-7z",
             title: "最短3日で現金化・全国対応",
             desc: "スピード査定で最短3日で現金化。提携ネットワークを活用し、全国どこの物件でも対応いたします。",
           },
-        ].map((item) => (
-          <div class="rounded-xl border border-border bg-bg p-6 text-center shadow-sm">
-            <div class="mx-auto mb-4 flex h-12 w-12 items-center justify-center rounded-full bg-primary text-lg font-bold text-white">
-              {item.num}
+        ].map((item, i) => (
+          <div class="reveal card-lift relative overflow-hidden rounded-3xl border border-border bg-bg p-7">
+            <span class="absolute -right-2 -top-6 text-[88px] font-black leading-none text-primary/5 select-none">{i + 1}</span>
+            <div class="mb-5 flex h-14 w-14 items-center justify-center rounded-2xl bg-primary text-white shadow-sm">
+              <svg xmlns="http://www.w3.org/2000/svg" class="h-7 w-7" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                <path stroke-linecap="round" stroke-linejoin="round" d={item.icon} />
+              </svg>
             </div>
-            <h3 class="mb-3 font-bold text-primary">{item.title}</h3>
+            <h3 class="mb-3 text-lg font-black text-primary">{item.title}</h3>
             <p class="text-sm leading-relaxed text-text-light">{item.desc}</p>
           </div>
         ))}
@@ -177,12 +216,14 @@ const homeWebPageSchema = {
   </section>
 
   <!-- 売却の流れセクション -->
-  <section class="px-4 py-12 md:py-16">
-    <div class="mx-auto max-w-4xl">
-      <h2 class="mb-10 text-center text-xl font-bold text-primary md:text-2xl">
-        買取の流れ
-      </h2>
-      <div class="space-y-6">
+  <section class="px-4 py-16 md:py-24">
+    <div class="mx-auto max-w-3xl">
+      <div class="reveal mb-12 text-center">
+        <p class="kicker mb-2">Flow</p>
+        <h2 class="text-2xl font-black text-primary md:text-4xl">買取の流れ</h2>
+        <p class="mt-3 text-sm text-text-light md:text-base">ご相談から最短3日。すべて無料で進められます。</p>
+      </div>
+      <div class="relative space-y-5 before:absolute before:bottom-8 before:left-[27px] before:top-8 before:w-0.5 before:bg-border md:before:left-[31px]">
         {[
           {
             step: "1",
@@ -210,12 +251,12 @@ const homeWebPageSchema = {
             desc: "残置物はそのままでOK。引き渡し後の手続きもサポートいたします。",
           },
         ].map((item) => (
-          <div class="flex items-start gap-4 rounded-lg border border-border bg-white p-5 shadow-sm">
-            <div class="flex h-10 w-10 shrink-0 items-center justify-center rounded-full bg-accent text-lg font-bold text-white">
+          <div class="reveal relative flex items-start gap-4 md:gap-5">
+            <div class="z-10 flex h-14 w-14 shrink-0 items-center justify-center rounded-full border-4 border-bg bg-accent text-lg font-black text-white shadow md:h-16 md:w-16 md:text-xl">
               {item.step}
             </div>
-            <div>
-              <h3 class="mb-1 font-bold text-primary">{item.title}</h3>
+            <div class="flex-1 rounded-2xl border border-border bg-white p-5 shadow-[var(--shadow-soft)]">
+              <h3 class="mb-1.5 font-black text-primary md:text-lg">{item.title}</h3>
               <p class="text-sm leading-relaxed text-text-light">{item.desc}</p>
             </div>
           </div>
@@ -225,12 +266,13 @@ const homeWebPageSchema = {
   </section>
 
   <!-- ピラーページ種類別ガイドセクション -->
-  <section class="bg-bg px-4 py-12 md:py-16">
-    <div class="mx-auto max-w-4xl">
-      <h2 class="mb-2 text-center text-xl font-bold text-primary md:text-2xl">
-        訳あり不動産の種類別ガイド
-      </h2>
-      <p class="mb-8 text-center text-sm text-text-light">お悩みの物件タイプから詳しい解説をご覧ください</p>
+  <section class="bg-white px-4 py-16 md:py-24">
+    <div class="mx-auto max-w-5xl">
+      <div class="reveal mb-12 text-center">
+        <p class="kicker mb-2">Guide</p>
+        <h2 class="mb-3 text-2xl font-black text-primary md:text-4xl">訳あり不動産の種類別ガイド</h2>
+        <p class="text-sm text-text-light md:text-base">お悩みの物件タイプから詳しい解説をご覧ください</p>
+      </div>
       <div class="grid gap-4 sm:grid-cols-2 md:grid-cols-3">
         {[
           {
@@ -272,10 +314,15 @@ const homeWebPageSchema = {
         ].map((item) => (
           <a
             href={item.href}
-            class="flex flex-col gap-2 rounded-xl border border-border bg-white p-5 shadow-sm transition-all hover:border-accent hover:shadow-md"
+            class="reveal card-lift group flex flex-col gap-3 rounded-3xl border border-border bg-bg p-6"
           >
-            <span class="text-2xl">{item.emoji}</span>
-            <span class="font-bold text-primary">{item.label} →</span>
+            <span class="flex h-12 w-12 items-center justify-center rounded-2xl bg-accent-soft text-2xl">{item.emoji}</span>
+            <span class="flex items-center gap-1 font-black text-primary">
+              {item.label}
+              <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 text-accent transition-transform group-hover:translate-x-1" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2.5">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7" />
+              </svg>
+            </span>
             <span class="text-sm leading-relaxed text-text-light">{item.desc}</span>
           </a>
         ))}
@@ -284,18 +331,24 @@ const homeWebPageSchema = {
   </section>
 
   <!-- よくある質問セクション -->
-  <section class="bg-white px-4 py-12 md:py-16">
+  <section class="px-4 py-16 md:py-24">
     <div class="mx-auto max-w-3xl">
-      <h2 class="mb-8 text-center text-xl font-bold text-primary md:text-2xl">
-        よくある質問
-      </h2>
-      <FAQ items={faqItems} />
-      <div class="mt-8 text-center">
+      <div class="reveal mb-10 text-center">
+        <p class="kicker mb-2">FAQ</p>
+        <h2 class="text-2xl font-black text-primary md:text-4xl">よくある質問</h2>
+      </div>
+      <div class="reveal">
+        <FAQ items={faqItems} />
+      </div>
+      <div class="reveal mt-10 text-center">
         <a
           href="/faq"
-          class="inline-block rounded-lg border-2 border-primary px-6 py-3 font-bold text-primary transition-colors hover:bg-primary hover:text-white"
+          class="inline-flex items-center gap-2 rounded-full border-2 border-primary px-7 py-3 font-bold text-primary transition-all hover:bg-primary hover:text-white"
         >
           すべての質問を見る
+          <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2.5">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7" />
+          </svg>
         </a>
       </div>
     </div>

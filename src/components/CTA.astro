@@ -6,10 +6,13 @@
 import LineIcon from "./LineIcon.astro";
 const LINE_URL = "https://lin.ee/9Fk9EUl";
 ---
-<section class="bg-primary px-4 py-12 text-white md:py-16">
-  <div class="mx-auto max-w-3xl">
+<section class="relative overflow-hidden bg-gradient-to-br from-primary via-primary to-primary-dark px-4 py-16 text-white md:py-20">
+  <div class="blob left-[-100px] top-[-60px] h-72 w-72 bg-accent/20"></div>
+  <div class="blob bottom-[-120px] right-[-80px] h-80 w-80 bg-primary-light/40"></div>
+  <div class="relative mx-auto max-w-3xl">
     <div class="text-center">
-      <h2 class="mb-3 text-xl font-bold leading-relaxed md:text-2xl">
+      <p class="kicker mb-2 !text-accent-light">Contact</p>
+      <h2 class="mb-3 text-2xl font-black leading-relaxed md:text-3xl">
         相続・空き家・訳あり不動産のお悩み、<br class="md:hidden" />状況だけでもお聞かせください
       </h2>
       <p class="mb-8 text-sm leading-relaxed text-white/80 md:text-base">
@@ -25,9 +28,9 @@ const LINE_URL = "https://lin.ee/9Fk9EUl";
         { num: "2", title: "状況を送る", desc: "物件の場所と状況を、わかる範囲で送ってください。写真があればより正確です" },
         { num: "3", title: "宅建士が返信", desc: "買取できるか・いくらくらいかを、原則24時間以内にお答えします" },
       ].map((step) => (
-        <div class="rounded-xl bg-white/10 p-4 text-center">
-          <div class="mx-auto mb-2 flex h-8 w-8 items-center justify-center rounded-full bg-accent text-sm font-bold text-white">{step.num}</div>
-          <p class="mb-1 text-sm font-bold text-white">{step.title}</p>
+        <div class="rounded-2xl border border-white/10 bg-white/10 p-5 text-center backdrop-blur-sm">
+          <div class="mx-auto mb-2 flex h-9 w-9 items-center justify-center rounded-full bg-accent text-sm font-black text-white">{step.num}</div>
+          <p class="mb-1 text-sm font-black text-white">{step.title}</p>
           <p class="text-xs leading-relaxed text-white/70">{step.desc}</p>
         </div>
       ))}
@@ -39,7 +42,7 @@ const LINE_URL = "https://lin.ee/9Fk9EUl";
         href={LINE_URL}
         target="_blank"
         rel="noopener noreferrer"
-        class="mb-3 inline-flex w-full max-w-md items-center justify-center gap-2 rounded-xl bg-[#06C755] px-10 py-4 text-lg font-bold text-white shadow-lg transition-all hover:bg-[#05b64d] hover:shadow-xl"
+        class="mb-3 inline-flex w-full max-w-md items-center justify-center gap-2 rounded-full bg-[#06C755] px-10 py-4 text-lg font-bold text-white shadow-lg transition-all hover:-translate-y-0.5 hover:bg-[#05b64d] hover:shadow-xl"
       >
         <LineIcon class="h-6 w-6" />
         LINEで無料相談する
@@ -47,7 +50,7 @@ const LINE_URL = "https://lin.ee/9Fk9EUl";
       <p class="mb-6 text-xs text-white/60">友だち追加後、トークで話しかけてください（24時間受付）</p>
 
       <!-- 対応する人（信頼の顔） -->
-      <div class="mx-auto mb-6 flex max-w-md items-center gap-3 rounded-xl bg-white/10 p-4 text-left">
+      <div class="mx-auto mb-6 flex max-w-md items-center gap-3 rounded-2xl border border-white/10 bg-white/10 p-4 text-left backdrop-blur-sm">
         <div class="flex h-12 w-12 flex-shrink-0 items-center justify-center rounded-full bg-accent text-xl font-bold text-white">八</div>
         <div>
           <p class="text-sm font-bold text-white">宅地建物取引士・八木 宏樹が直接対応します</p>

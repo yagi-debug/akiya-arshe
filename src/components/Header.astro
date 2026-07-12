@@ -1,51 +1,32 @@
 ---
+import LineIcon from "./LineIcon.astro";
+const LINE_URL = "https://lin.ee/9Fk9EUl";
 const navItems = [
-  { label: "ホーム", href: "/" },
   { label: "無料AI査定", href: "/satei" },
   { label: "売却ガイド", href: "/guide" },
   { label: "対応物件", href: "/area" },
   { label: "よくある質問", href: "/faq" },
   { label: "会社概要", href: "/about" },
-  { label: "お問い合わせ", href: "/contact" },
 ];
 ---
 
-<header class="sticky top-0 z-50 border-b border-border bg-white/95 shadow-sm backdrop-blur">
-  <!-- トップバー（PC） -->
-  <div class="hidden bg-primary text-white md:block">
-    <div class="mx-auto flex max-w-5xl items-center justify-end gap-4 px-4 py-1.5 text-sm">
-      <a
-        href="https://lin.ee/9Fk9EUl"
-        target="_blank"
-        rel="noopener noreferrer"
-        class="inline-flex items-center gap-1 text-[#06C755] hover:text-[#05b64d]"
-      >
-        <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" viewBox="0 0 24 24" fill="currentColor">
-          <path d="M19.365 9.863c.349 0 .63.285.63.631 0 .345-.281.63-.63.63H17.61v1.125h1.755c.349 0 .63.283.63.63 0 .344-.281.629-.63.629h-2.386c-.345 0-.627-.285-.627-.629V8.108c0-.345.282-.63.627-.63h2.386c.349 0 .63.285.63.63 0 .349-.281.63-.63.63H17.61v1.125h1.755zm-3.855 3.016c0 .27-.174.51-.432.596-.064.021-.133.031-.199.031-.211 0-.391-.09-.51-.25l-2.443-3.317v2.94c0 .344-.279.629-.631.629-.346 0-.626-.285-.626-.629V8.108c0-.27.173-.51.43-.595.06-.023.136-.033.194-.033.195 0 .375.104.495.254l2.462 3.33V8.108c0-.345.282-.63.63-.63.345 0 .63.285.63.63v4.771zm-5.741 0c0 .344-.282.629-.631.629-.345 0-.627-.285-.627-.629V8.108c0-.345.282-.63.627-.63.349 0 .631.285.631.63v4.771zm-2.466.629H4.917c-.345 0-.63-.285-.63-.629V8.108c0-.345.285-.63.63-.63.348 0 .63.285.63.63v4.141h1.756c.348 0 .629.283.629.63 0 .344-.281.629-.629.629M24 10.314C24 4.943 18.615.572 12 .572S0 4.943 0 10.314c0 4.811 4.27 8.842 10.035 9.608.391.082.923.258 1.058.59.12.301.079.766.038 1.08l-.164 1.02c-.045.301-.24 1.186 1.049.645 1.291-.539 6.916-4.078 9.436-6.975C23.176 14.393 24 12.458 24 10.314" />
+<header class="sticky top-0 z-50 border-b border-border/70 bg-white/90 shadow-sm backdrop-blur-md">
+  <div class="mx-auto flex max-w-6xl items-center justify-between gap-4 px-4 py-3">
+    <!-- ロゴ -->
+    <a href="/" class="flex items-center gap-2.5">
+      <span class="flex h-10 w-10 items-center justify-center rounded-xl bg-primary text-white shadow-sm">
+        <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+          <path stroke-linecap="round" stroke-linejoin="round" d="M3 12l9-8 9 8M5 10v10a1 1 0 001 1h4v-6h4v6h4a1 1 0 001-1V10" />
         </svg>
-        LINEで無料相談
-      </a>
-      <span class="text-white/30">|</span>
-      <a
-        href="mailto:info.arshe@arshe-corp.com"
-        class="text-xs text-white/70 hover:text-white"
-      >
-        info.arshe@arshe-corp.com
-      </a>
-    </div>
-  </div>
-
-  <!-- メインヘッダー -->
-  <div class="mx-auto flex max-w-5xl items-center justify-between px-4 py-3">
-    <!-- ロゴ / サイト名 -->
-    <a href="/" class="flex items-center gap-2">
-      <span class="text-lg font-bold text-primary md:text-xl">
-        空き家のミカタ
+      </span>
+      <span class="leading-tight">
+        <span class="block text-lg font-black tracking-wide text-primary md:text-xl">空き家のミカタ</span>
+        <span class="hidden text-[10px] font-medium tracking-widest text-text-light sm:block">訳あり不動産の買取専門｜全国対応</span>
       </span>
     </a>
 
     <!-- PCナビ -->
-    <nav class="hidden items-center gap-6 md:flex" aria-label="メインナビゲーション">
+    <nav class="hidden items-center gap-5 lg:flex" aria-label="メインナビゲーション">
       {navItems.map((item) => (
         <a
           href={item.href}
@@ -56,23 +37,40 @@ const navItems = [
       ))}
     </nav>
 
+    <!-- PC: CTAボタン -->
+    <div class="hidden items-center gap-2 md:flex">
+      <a
+        href="/satei"
+        class="rounded-full border-2 border-accent px-4 py-2 text-sm font-bold text-accent transition-all hover:bg-accent hover:text-white"
+      >
+        60秒AI査定
+      </a>
+      <a
+        href={LINE_URL}
+        target="_blank"
+        rel="noopener noreferrer"
+        class="flex items-center gap-1.5 rounded-full bg-[#06C755] px-4 py-2 text-sm font-bold text-white shadow transition-all hover:bg-[#05b64d] hover:shadow-md"
+      >
+        <LineIcon class="h-4 w-4" />
+        無料相談
+      </a>
+    </div>
+
     <!-- スマホ: LINEボタン + ハンバーガー -->
     <div class="flex items-center gap-2 md:hidden">
       <a
-        href="https://lin.ee/9Fk9EUl"
+        href={LINE_URL}
         target="_blank"
         rel="noopener noreferrer"
-        class="flex items-center gap-1 rounded-full bg-[#06C755] px-3 py-2 text-sm font-bold text-white"
+        class="flex items-center gap-1 rounded-full bg-[#06C755] px-3 py-2 text-sm font-bold text-white shadow"
         aria-label="LINEで相談"
       >
-        <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" viewBox="0 0 24 24" fill="currentColor">
-          <path d="M19.365 9.863c.349 0 .63.285.63.631 0 .345-.281.63-.63.63H17.61v1.125h1.755c.349 0 .63.283.63.63 0 .344-.281.629-.63.629h-2.386c-.345 0-.627-.285-.627-.629V8.108c0-.345.282-.63.627-.63h2.386c.349 0 .63.285.63.63 0 .349-.281.63-.63.63H17.61v1.125h1.755zm-3.855 3.016c0 .27-.174.51-.432.596-.064.021-.133.031-.199.031-.211 0-.391-.09-.51-.25l-2.443-3.317v2.94c0 .344-.279.629-.631.629-.346 0-.626-.285-.626-.629V8.108c0-.27.173-.51.43-.595.06-.023.136-.033.194-.033.195 0 .375.104.495.254l2.462 3.33V8.108c0-.345.282-.63.63-.63.345 0 .63.285.63.63v4.771zm-5.741 0c0 .344-.282.629-.631.629-.345 0-.627-.285-.627-.629V8.108c0-.345.282-.63.627-.63.349 0 .631.285.631.63v4.771zm-2.466.629H4.917c-.345 0-.63-.285-.63-.629V8.108c0-.345.285-.63.63-.63.348 0 .63.285.63.63v4.141h1.756c.348 0 .629.283.629.63 0 .344-.281.629-.629.629M24 10.314C24 4.943 18.615.572 12 .572S0 4.943 0 10.314c0 4.811 4.27 8.842 10.035 9.608.391.082.923.258 1.058.59.12.301.079.766.038 1.08l-.164 1.02c-.045.301-.24 1.186 1.049.645 1.291-.539 6.916-4.078 9.436-6.975C23.176 14.393 24 12.458 24 10.314" />
-        </svg>
+        <LineIcon class="h-4 w-4" />
         LINE
       </a>
       <button
         type="button"
-        class="text-primary"
+        class="rounded-lg p-1.5 text-primary transition-colors hover:bg-primary/5"
         aria-label="メニューを開く"
         id="menu-toggle"
       >
@@ -90,7 +88,7 @@ const navItems = [
     aria-label="モバイルナビゲーション"
   >
     <ul class="flex flex-col">
-      {navItems.map((item) => (
+      {[{ label: "ホーム", href: "/" }, ...navItems, { label: "お問い合わせ", href: "/contact" }].map((item) => (
         <li>
           <a
             href={item.href}
@@ -101,17 +99,21 @@ const navItems = [
         </li>
       ))}
     </ul>
-    <div class="space-y-3 bg-primary/5 px-6 py-4 text-center">
+    <div class="space-y-3 bg-bg px-6 py-5 text-center">
       <a
-        href="https://lin.ee/9Fk9EUl"
+        href={LINE_URL}
         target="_blank"
         rel="noopener noreferrer"
-        class="inline-flex w-full items-center justify-center gap-2 rounded-lg bg-[#06C755] px-6 py-3 font-bold text-white shadow transition-all hover:bg-[#05b64d]"
+        class="inline-flex w-full items-center justify-center gap-2 rounded-full bg-[#06C755] px-6 py-3.5 font-bold text-white shadow transition-all hover:bg-[#05b64d]"
       >
-        <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 24 24" fill="currentColor">
-          <path d="M19.365 9.863c.349 0 .63.285.63.631 0 .345-.281.63-.63.63H17.61v1.125h1.755c.349 0 .63.283.63.63 0 .344-.281.629-.63.629h-2.386c-.345 0-.627-.285-.627-.629V8.108c0-.345.282-.63.627-.63h2.386c.349 0 .63.285.63.63 0 .349-.281.63-.63.63H17.61v1.125h1.755zm-3.855 3.016c0 .27-.174.51-.432.596-.064.021-.133.031-.199.031-.211 0-.391-.09-.51-.25l-2.443-3.317v2.94c0 .344-.279.629-.631.629-.346 0-.626-.285-.626-.629V8.108c0-.27.173-.51.43-.595.06-.023.136-.033.194-.033.195 0 .375.104.495.254l2.462 3.33V8.108c0-.345.282-.63.63-.63.345 0 .63.285.63.63v4.771zm-5.741 0c0 .344-.282.629-.631.629-.345 0-.627-.285-.627-.629V8.108c0-.345.282-.63.627-.63.349 0 .631.285.631.63v4.771zm-2.466.629H4.917c-.345 0-.63-.285-.63-.629V8.108c0-.345.285-.63.63-.63.348 0 .63.285.63.63v4.141h1.756c.348 0 .629.283.629.63 0 .344-.281.629-.629.629M24 10.314C24 4.943 18.615.572 12 .572S0 4.943 0 10.314c0 4.811 4.27 8.842 10.035 9.608.391.082.923.258 1.058.59.12.301.079.766.038 1.08l-.164 1.02c-.045.301-.24 1.186 1.049.645 1.291-.539 6.916-4.078 9.436-6.975C23.176 14.393 24 12.458 24 10.314" />
-        </svg>
+        <LineIcon class="h-5 w-5" />
         LINEで無料相談する
+      </a>
+      <a
+        href="/satei"
+        class="inline-flex w-full items-center justify-center gap-2 rounded-full border-2 border-accent px-6 py-3 font-bold text-accent"
+      >
+        60秒でわかる無料AI査定
       </a>
     </div>
   </nav>

@@ -2,15 +2,22 @@
 @plugin "@tailwindcss/typography";
 
 @theme {
-  --color-primary: #1a365d;
-  --color-primary-light: #2a4a7f;
-  --color-accent: #c6853e;
-  --color-accent-light: #d4a574;
-  --color-bg: #fafaf8;
-  --color-text: #2d3748;
-  --color-text-light: #718096;
-  --color-border: #e2e8f0;
+  /* ブランドカラー: 信頼のネイビー × 温かみのアンバー × 生成りの背景 */
+  --color-primary: #14304f;
+  --color-primary-light: #23507e;
+  --color-primary-dark: #0b1e33;
+  --color-accent: #d9822b;
+  --color-accent-light: #edb377;
+  --color-accent-soft: #faf0e1;
+  --color-line: #06c755;
+  --color-bg: #f8f6f1;
+  --color-bg-dark: #f0ece3;
+  --color-text: #27303b;
+  --color-text-light: #6b7684;
+  --color-border: #e6e1d6;
   --font-sans: "Noto Sans JP", "Hiragino Kaku Gothic ProN", "Yu Gothic", sans-serif;
+  --shadow-soft: 0 4px 24px -6px rgb(20 48 79 / 0.10);
+  --shadow-lift: 0 16px 40px -12px rgb(20 48 79 / 0.18);
 }
 
 html {
@@ -22,4 +29,63 @@ body {
   color: var(--color-text);
   background-color: var(--color-bg);
   line-height: 1.8;
+}
+
+/* 見出し用: 詰め気味のトラッキング */
+h1, h2, h3 {
+  letter-spacing: 0.01em;
+  font-feature-settings: "palt";
+}
+
+/* マーカー風ハイライト */
+.marker {
+  background: linear-gradient(transparent 60%, rgb(237 179 119 / 0.55) 60%);
+}
+.marker-light {
+  background: linear-gradient(transparent 60%, rgb(217 130 43 / 0.65) 60%);
+}
+
+/* 英字キッカー（セクションラベル） */
+.kicker {
+  display: inline-block;
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.25em;
+  text-transform: uppercase;
+  color: var(--color-accent);
+}
+
+/* スクロールで浮かび上がる（BaseLayoutのIntersectionObserverが .is-visible を付与） */
+.reveal {
+  opacity: 0;
+  transform: translateY(28px);
+  transition: opacity 0.7s cubic-bezier(0.22, 1, 0.36, 1), transform 0.7s cubic-bezier(0.22, 1, 0.36, 1);
+}
+.reveal.is-visible {
+  opacity: 1;
+  transform: none;
+}
+@media (prefers-reduced-motion: reduce) {
+  .reveal {
+    opacity: 1;
+    transform: none;
+    transition: none;
+  }
+}
+
+/* ふわっと浮くカード */
+.card-lift {
+  transition: transform 0.3s ease, box-shadow 0.3s ease, border-color 0.3s ease;
+}
+.card-lift:hover {
+  transform: translateY(-4px);
+  box-shadow: var(--shadow-lift);
+}
+
+/* 背景の装飾ブロブ */
+.blob {
+  position: absolute;
+  border-radius: 9999px;
+  filter: blur(80px);
+  pointer-events: none;
 }

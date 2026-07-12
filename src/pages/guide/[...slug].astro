@@ -190,7 +190,7 @@ const displayDate = entry.data.updatedDate || entry.data.publishDate;
   <article class="mx-auto max-w-3xl px-4 py-8 md:py-12">
     <!-- 記事ヘッダー -->
     <header class="mb-8 border-b border-border pb-6">
-      <h1 class="mb-4 text-2xl font-bold leading-relaxed text-text md:text-3xl">
+      <h1 class="mb-4 text-2xl font-black leading-relaxed text-primary md:text-3xl">
         {entry.data.title}
       </h1>
       <div class="flex flex-wrap items-center gap-4 text-sm text-text-light">
@@ -208,12 +208,13 @@ const displayDate = entry.data.updatedDate || entry.data.publishDate;
 
     <!-- 記事本文 -->
     <div class="prose prose-lg max-w-none
-      prose-headings:text-text prose-headings:font-bold
-      prose-h2:mt-10 prose-h2:mb-4 prose-h2:border-l-4 prose-h2:border-accent prose-h2:pl-3 prose-h2:text-xl
+      prose-headings:text-primary prose-headings:font-black
+      prose-h2:mt-12 prose-h2:mb-5 prose-h2:rounded-r-xl prose-h2:border-l-4 prose-h2:border-accent prose-h2:bg-accent/5 prose-h2:py-2.5 prose-h2:pl-4 prose-h2:pr-3 prose-h2:text-xl
       prose-h3:mt-8 prose-h3:mb-3 prose-h3:text-lg
       prose-p:leading-relaxed prose-p:text-text
       prose-li:text-text
       prose-a:text-accent prose-a:no-underline hover:prose-a:underline
+      prose-blockquote:rounded-r-xl prose-blockquote:border-l-4 prose-blockquote:border-primary/30 prose-blockquote:bg-white prose-blockquote:py-1 prose-blockquote:not-italic
       prose-table:text-sm
       prose-th:bg-bg-dark prose-th:px-4 prose-th:py-2
       prose-td:border prose-td:border-border prose-td:px-4 prose-td:py-2
