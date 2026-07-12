@@ -1,0 +1,37 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+---
+
+<BaseLayout
+  title="ページが見つかりません（404）｜空き家のミカタ"
+  description="お探しのページは見つかりませんでした。空き家・相続不動産・訳あり物件の売却ガイドやよくある質問はこちらからご覧いただけます。"
+>
+  <section class="px-4 py-16 md:py-24">
+    <div class="mx-auto max-w-2xl text-center">
+      <p class="mb-2 text-6xl font-bold text-primary/20">404</p>
+      <h1 class="mb-4 text-2xl font-bold text-primary">ページが見つかりません</h1>
+      <p class="mb-10 text-sm leading-relaxed text-text-light">
+        お探しのページは移動または削除された可能性があります。<br />
+        以下から目的のページをお探しください。
+      </p>
+
+      <div class="mb-10 grid gap-3 sm:grid-cols-2">
+        {[
+          { href: "/", label: "トップページ", desc: "空き家のミカタについて" },
+          { href: "/guide/", label: "売却ガイド一覧", desc: "相続・空き家・訳あり物件の解説記事" },
+          { href: "/satei/", label: "無料AI査定", desc: "60秒で概算価格がわかります" },
+          { href: "/faq/", label: "よくある質問", desc: "買取・費用・流れについて" },
+        ].map((item) => (
+          <a href={item.href} class="rounded-lg border border-border bg-white p-4 text-left transition-all hover:border-accent hover:shadow-md">
+            <p class="mb-1 text-sm font-bold text-primary">{item.label} →</p>
+            <p class="text-xs text-text-light">{item.desc}</p>
+          </a>
+        ))}
+      </div>
+
+      <p class="text-sm text-text-light">
+        お困りの場合は、ページ下部のLINEからお気軽にご相談ください。
+      </p>
+    </div>
+  </section>
+</BaseLayout>

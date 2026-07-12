@@ -2,6 +2,26 @@
 import { defineConfig } from 'astro/config';
 import tailwindcss from '@tailwindcss/vite';
 import sitemap from '@astrojs/sitemap';
+import fs from 'node:fs';
+import path from 'node:path';
+import { fileURLToPath } from 'node:url';
+
+// コンテンツのfrontmatterから実際の更新日を引く（全URLにビルド日を入れると
+// Googleがlastmodを信頼しなくなるため、実日付が取れるページだけに付ける）
+const lastmodMap = {};
+for (const coll of ['guide', 'area']) {
+  const dir = fileURLToPath(new URL(`./src/content/${coll}`, import.meta.url));
+  if (!fs.existsSync(dir)) continue;
+  for (const f of fs.readdirSync(dir)) {
+    if (!f.endsWith('.md')) continue;
+    const src = fs.readFileSync(path.join(dir, f), 'utf8');
+    const fm = src.match(/^---\n([\s\S]*?)\n---/);
+    if (!fm) continue;
+    const m = fm[1].match(/updatedDate:\s*["']?(\d{4}-\d{2}-\d{2})/) ||
+              fm[1].match(/publishDate:\s*["']?(\d{4}-\d{2}-\d{2})/);
+    if (m) lastmodMap[`/${coll}/${f.replace(/\.md$/, '')}/`] = m[1];
+  }
+}
 
 export default defineConfig({
   site: 'https://akiya.arshe-corp.com',
@@ -9,17 +29,17 @@ export default defineConfig({
     changefreq: 'weekly',
     priority: 0.7,
     serialize(item) {
-      const today = new Date().toISOString().split('T')[0];
+      const pathname = new URL(item.url).pathname;
+      const lastmod = lastmodMap[pathname];
       // ガイド記事・エリアページは高優先度
-      if (item.url.includes('/guide/') || item.url.includes('/area/')) {
-        return { ...item, priority: 0.8, changefreq: 'weekly', lastmod: today };
+      if (pathname.startsWith('/guide/') || pathname.startsWith('/area/')) {
+        return { ...item, priority: 0.8, changefreq: 'weekly', ...(lastmod ? { lastmod } : {}) };
       }
       // トップページ・LPは最高優先度
-      if (item.url === 'https://akiya.arshe-corp.com/' ||
-          item.url.includes('/lp-')) {
-        return { ...item, priority: 1.0, changefreq: 'daily', lastmod: today };
+      if (item.url === 'https://akiya.arshe-corp.com/' || pathname.includes('/lp-')) {
+        return { ...item, priority: 1.0, changefreq: 'daily' };
       }
-      return { ...item, lastmod: today };
+      return item;
     }
   })],
   vite: {

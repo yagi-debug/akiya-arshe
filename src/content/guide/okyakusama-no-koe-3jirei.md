@@ -19,6 +19,8 @@ faqs:
 cluster: "wakeari"
 ---
 
+> ※本記事で紹介する事例・お客様の声は、実際によくあるご相談内容をもとに構成した参考例です。プライバシー保護等の観点から、地域・金額・状況等は特定できないよう変更しています。
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

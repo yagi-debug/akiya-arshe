@@ -2,7 +2,7 @@
 import Header from "../components/Header.astro";
 import Footer from "../components/Footer.astro";
 import CTA from "../components/CTA.astro";
-import FloatingLineButton from "../components/FloatingLineButton.astro";
+import CtaDock from "../components/CtaDock.astro";
 import Breadcrumb from "../components/Breadcrumb.astro";
 import "../styles/global.css";
 
@@ -13,25 +13,48 @@ interface Props {
   faqSchema?: object | null;
   howToSchema?: object | null;
   breadcrumbs?: { name: string; url: string }[];
+  ogImage?: string;
+  ogType?: string;
 }
 
-const { title, description, schema, faqSchema, howToSchema, breadcrumbs } = Astro.props;
+const {
+  title,
+  description,
+  schema,
+  faqSchema,
+  howToSchema,
+  breadcrumbs,
+  ogImage = "/images/ogp-default.png",
+  ogType = "website",
+} = Astro.props;
 const canonicalURL = new URL(Astro.url.pathname, "https://akiya.arshe-corp.com");
+const ogImageURL = new URL(ogImage, "https://akiya.arshe-corp.com");
 
+// RealEstateAgent と Organization は同一事業体のため単一ノードに統合
+// （エンティティ信号の分散を防ぐ。publisher/worksFor等の参照はすべて #organization を指す）
 const organizationSchema = {
   "@context": "https://schema.org",
-  "@type": "Organization",
+  "@type": ["RealEstateAgent", "Organization"],
   "@id": "https://akiya.arshe-corp.com/#organization",
-  "name": "合同会社アルシェ",
-  "alternateName": "空き家のミカタ",
+  "name": "空き家のミカタ",
+  "legalName": "合同会社アルシェ",
   "description": "訳あり不動産（空き家買取・相続不動産・再建築不可・共有持分買取・事故物件）の直接買取専門。仲介手数料なし・現況買取・最短3日で現金化。全国対応。宅地建物取引業免許：大阪府知事 (1) 第65646号。",
-  "keywords": ["空き家買取", "相続不動産", "再建築不可", "共有持分買取", "訳あり不動産", "事故物件買取", "相続アパート買取", "底地・借地権買取"],
+  "keywords": ["空き家買取", "相続不動産買取", "再建築不可買取", "共有持分買取", "訳あり不動産買取", "事故物件買取", "相続アパート買取", "底地・借地権買取"],
+  "slogan": "どこにも断られた物件も、全国対応で現金買取",
   "url": "https://akiya.arshe-corp.com",
   "telephone": "+81-6-7509-5696",
   "email": "info.arshe@arshe-corp.com",
   "logo": {
     "@type": "ImageObject",
-    "url": "https://akiya.arshe-corp.com/favicon.svg",
+    "url": "https://akiya.arshe-corp.com/logo.png",
+    "width": 512,
+    "height": 512,
+  },
+  "image": {
+    "@type": "ImageObject",
+    "url": "https://akiya.arshe-corp.com/images/ogp-default.png",
+    "width": 1200,
+    "height": 630,
   },
   "address": {
     "@type": "PostalAddress",
@@ -41,11 +64,27 @@ const organizationSchema = {
     "postalCode": "544-0002",
     "addressCountry": "JP",
   },
+  "areaServed": [
+    { "@type": "Country", "name": "日本" },
+    { "@type": "AdministrativeArea", "name": "東京都" },
+    { "@type": "City", "name": "大阪市", "containedInPlace": { "@type": "AdministrativeArea", "name": "大阪府" } },
+    { "@type": "City", "name": "名古屋市", "containedInPlace": { "@type": "AdministrativeArea", "name": "愛知県" } },
+    { "@type": "City", "name": "横浜市", "containedInPlace": { "@type": "AdministrativeArea", "name": "神奈川県" } },
+    { "@type": "City", "name": "福岡市", "containedInPlace": { "@type": "AdministrativeArea", "name": "福岡県" } },
+    { "@type": "City", "name": "神戸市", "containedInPlace": { "@type": "AdministrativeArea", "name": "兵庫県" } },
+    { "@type": "City", "name": "京都市", "containedInPlace": { "@type": "AdministrativeArea", "name": "京都府" } },
+    { "@type": "City", "name": "さいたま市", "containedInPlace": { "@type": "AdministrativeArea", "name": "埼玉県" } },
+    { "@type": "City", "name": "川崎市", "containedInPlace": { "@type": "AdministrativeArea", "name": "神奈川県" } },
+  ],
   "hasCredential": {
     "@type": "EducationalOccupationalCredential",
     "name": "宅地建物取引業免許",
     "credentialCategory": "license",
-    "identifier": "大阪府知事(1)第65646号",
+    "recognizedBy": {
+      "@type": "GovernmentOrganization",
+      "name": "大阪府知事",
+    },
+    "identifier": "大阪府知事 (1) 第65646号",
   },
   "contactPoint": [
     {
@@ -69,101 +108,19 @@ const organizationSchema = {
     "@id": "https://akiya.arshe-corp.com/about/hiroki#person",
     "name": "八木 宏樹",
   },
-  "member": {
-    "@type": "Person",
-    "@id": "https://akiya.arshe-corp.com/about/hiroki#person",
-    "name": "八木 宏樹",
-  },
-  "sameAs": [
-    "https://note.com/akiyanomikata",
-    "https://arshe1719.hatenablog.com",
-  ],
-};
-
-const baseSchema = {
-  "@context": "https://schema.org",
-  "@type": "RealEstateAgent",
-  "@id": "https://akiya.arshe-corp.com/#realestateagent",
-  "name": "空き家のミカタ",
-  "description": "空き家買取・相続不動産買取・再建築不可買取・共有持分買取・事故物件買取など、訳あり不動産の直接買取専門。仲介手数料なし・現況買取・全国対応。",
-  "keywords": ["空き家買取", "相続不動産買取", "再建築不可買取", "共有持分買取", "訳あり不動産買取", "事故物件買取", "相続アパート買取"],
-  "slogan": "どこにも断られた物件も、全国対応で現金買取",
-  "url": "https://akiya.arshe-corp.com",
-  "telephone": "+81-6-7509-5696",
-  "email": "info.arshe@arshe-corp.com",
-  "sameAs": [
-    "https://note.com/akiyanomikata",
-    "https://arshe1719.hatenablog.com",
-  ],
-  "parentOrganization": {
-    "@type": "Organization",
-    "@id": "https://akiya.arshe-corp.com/#organization",
-  },
-  "contactPoint": [
-    {
-      "@type": "ContactPoint",
-      "contactType": "customer service",
-      "telephone": "+81-6-7509-5696",
-      "email": "info.arshe@arshe-corp.com",
-      "areaServed": "JP",
-      "availableLanguage": "Japanese",
-    },
-    {
-      "@type": "ContactPoint",
-      "contactType": "customer service",
-      "url": "https://lin.ee/9Fk9EUl",
-      "areaServed": "JP",
-      "availableLanguage": "Japanese",
-    },
-  ],
-  "address": {
-    "@type": "PostalAddress",
-    "streetAddress": "小路3-17-19",
-    "addressLocality": "大阪市生野区",
-    "addressRegion": "大阪府",
-    "postalCode": "544-0002",
-    "addressCountry": "JP",
-  },
-  "areaServed": [
-    { "@type": "Country", "name": "日本" },
-    { "@type": "City", "name": "東京都", "containedInPlace": { "@type": "Country", "name": "日本" } },
-    { "@type": "City", "name": "大阪市", "containedInPlace": { "@type": "AdministrativeArea", "name": "大阪府" } },
-    { "@type": "City", "name": "名古屋市", "containedInPlace": { "@type": "AdministrativeArea", "name": "愛知県" } },
-    { "@type": "City", "name": "横浜市", "containedInPlace": { "@type": "AdministrativeArea", "name": "神奈川県" } },
-    { "@type": "City", "name": "福岡市", "containedInPlace": { "@type": "AdministrativeArea", "name": "福岡県" } },
-    { "@type": "City", "name": "神戸市", "containedInPlace": { "@type": "AdministrativeArea", "name": "兵庫県" } },
-    { "@type": "City", "name": "京都市", "containedInPlace": { "@type": "AdministrativeArea", "name": "京都府" } },
-    { "@type": "City", "name": "さいたま市", "containedInPlace": { "@type": "AdministrativeArea", "name": "埼玉県" } },
-    { "@type": "City", "name": "川崎市", "containedInPlace": { "@type": "AdministrativeArea", "name": "神奈川県" } },
-  ],
-  "hasCredential": {
-    "@type": "EducationalOccupationalCredential",
-    "name": "宅地建物取引業免許",
-    "credentialCategory": "license",
-    "recognizedBy": {
-      "@type": "GovernmentOrganization",
-      "name": "大阪府知事",
-    },
-    "identifier": "大阪府知事 (1) 第65646号",
-  },
   "employee": {
     "@type": "Person",
     "@id": "https://akiya.arshe-corp.com/about/hiroki#person",
     "name": "八木 宏樹",
     "url": "https://akiya.arshe-corp.com/about/hiroki",
     "jobTitle": "代表社員・宅地建物取引士",
-    "description": "宅地建物取引士（大阪府知事(1)第65646号）。合同会社アルシェ代表。空き家・相続アパート・再建築不可・事故物件・共有持分など訳あり不動産の直接買取専門家。「どこにも断られた物件」を全国対応で現金買取。",
+    "description": "宅地建物取引士。合同会社アルシェ（宅建業免許: 大阪府知事(1)第65646号）代表社員。空き家・相続アパート・再建築不可・事故物件・共有持分など訳あり不動産の直接買取専門家。「どこにも断られた物件」を全国対応で現金買取。",
     "telephone": "+81-6-7509-5696",
     "email": "info.arshe@arshe-corp.com",
     "hasCredential": {
       "@type": "EducationalOccupationalCredential",
       "name": "宅地建物取引士",
       "credentialCategory": "license",
-      "recognizedBy": {
-        "@type": "GovernmentOrganization",
-        "name": "大阪府知事",
-      },
-      "identifier": "大阪府知事 (1) 第65646号",
     },
     "knowsAbout": ["訳あり不動産", "空き家買取", "相続不動産", "再建築不可", "共有持分買取", "事故物件買取", "相続アパート買取", "底地・借地権買取", "空き家対策", "相続不動産売却"],
     "worksFor": {
@@ -175,6 +132,12 @@ const baseSchema = {
       "https://arshe1719.hatenablog.com",
     ],
   },
+  "sameAs": [
+    "https://note.com/akiyanomikata",
+    "https://arshe1719.hatenablog.com",
+    "https://www.instagram.com/akiyanomikata/",
+    "https://lin.ee/9Fk9EUl",
+  ],
   "hasOfferCatalog": {
     "@type": "OfferCatalog",
     "name": "訳あり不動産 直接買取サービス",
@@ -215,6 +178,17 @@ const baseSchema = {
   },
 };
 
+const websiteSchema = {
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "@id": "https://akiya.arshe-corp.com/#website",
+  "name": "空き家のミカタ",
+  "alternateName": "訳あり不動産の買取専門｜空き家のミカタ",
+  "url": "https://akiya.arshe-corp.com",
+  "inLanguage": "ja",
+  "publisher": { "@id": "https://akiya.arshe-corp.com/#organization" },
+};
+
 const breadcrumbSchema = breadcrumbs && breadcrumbs.length > 0 ? {
   "@context": "https://schema.org",
   "@type": "BreadcrumbList",
@@ -226,7 +200,7 @@ const breadcrumbSchema = breadcrumbs && breadcrumbs.length > 0 ? {
   })),
 } : null;
 
-const allSchemas = schema ? [organizationSchema, baseSchema, schema] : [organizationSchema, baseSchema];
+const allSchemas = schema ? [organizationSchema, websiteSchema, schema] : [organizationSchema, websiteSchema];
 ---
 
 <!doctype html>
@@ -313,13 +287,17 @@ const allSchemas = schema ? [organizationSchema, baseSchema, schema] : [organiza
     <!-- OGP -->
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
-    <meta property="og:type" content="website" />
+    <meta property="og:type" content={ogType} />
     <meta property="og:url" content={canonicalURL} />
+    <meta property="og:image" content={ogImageURL} />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
     <meta property="og:site_name" content="空き家のミカタ｜訳あり不動産の買取専門" />
     <meta property="og:locale" content="ja_JP" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content={title} />
     <meta name="twitter:description" content={description} />
+    <meta name="twitter:image" content={ogImageURL} />
 
     <!-- Schema.org JSON-LD -->
     {allSchemas.map((s) => (
@@ -350,6 +328,9 @@ const allSchemas = schema ? [organizationSchema, baseSchema, schema] : [organiza
 
     <CTA />
     <Footer />
-    <FloatingLineButton />
+
+    <!-- モバイルCTAバーに隠れないための余白 -->
+    <div class="h-16 md:hidden" aria-hidden="true"></div>
+    <CtaDock />
   </body>
 </html>

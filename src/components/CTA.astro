@@ -1,62 +1,90 @@
-<section class="bg-primary px-4 py-12 text-center text-white md:py-16">
+---
+// サイト共通CTA（全ページ下部）
+// 設計意図: このサイトの読者は「LINEを追加したら何が起きるのか」への不安が最大の障壁。
+// ボタンを増やすのではなく、追加後の流れ（3ステップ）と「勧誘しない」約束、
+// 対応する人間（宅建士）を見せることで心理的ハードルを下げる。
+import LineIcon from "./LineIcon.astro";
+const LINE_URL = "https://lin.ee/9Fk9EUl";
+---
+<section class="bg-primary px-4 py-12 text-white md:py-16">
   <div class="mx-auto max-w-3xl">
-    <h2 class="mb-4 text-xl font-bold leading-relaxed md:text-2xl">
-      相続・空き家/訳あり不動産のお悩み、<br class="md:hidden" />まずはお気軽にご相談ください
-    </h2>
-
-    <p class="mb-6 text-sm text-white/80 md:text-base">
-      相談無料・秘密厳守。宅建業者が丁寧にお話をうかがいます。
-    </p>
-
-    <!-- LINEボタン（メイン） -->
-    <a
-      href="https://lin.ee/9Fk9EUl"
-      target="_blank"
-      rel="noopener noreferrer"
-      class="mb-3 inline-flex items-center justify-center gap-2 rounded-lg bg-[#06C755] px-10 py-4 text-lg font-bold text-white shadow-lg transition-all hover:bg-[#05b64d] hover:shadow-xl"
-    >
-      <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" viewBox="0 0 24 24" fill="currentColor">
-        <path d="M19.365 9.863c.349 0 .63.285.63.631 0 .345-.281.63-.63.63H17.61v1.125h1.755c.349 0 .63.283.63.63 0 .344-.281.629-.63.629h-2.386c-.345 0-.627-.285-.627-.629V8.108c0-.345.282-.63.627-.63h2.386c.349 0 .63.285.63.63 0 .349-.281.63-.63.63H17.61v1.125h1.755zm-3.855 3.016c0 .27-.174.51-.432.596-.064.021-.133.031-.199.031-.211 0-.391-.09-.51-.25l-2.443-3.317v2.94c0 .344-.279.629-.631.629-.346 0-.626-.285-.626-.629V8.108c0-.27.173-.51.43-.595.06-.023.136-.033.194-.033.195 0 .375.104.495.254l2.462 3.33V8.108c0-.345.282-.63.63-.63.345 0 .63.285.63.63v4.771zm-5.741 0c0 .344-.282.629-.631.629-.345 0-.627-.285-.627-.629V8.108c0-.345.282-.63.627-.63.349 0 .631.285.631.63v4.771zm-2.466.629H4.917c-.345 0-.63-.285-.63-.629V8.108c0-.345.285-.63.63-.63.348 0 .63.285.63.63v4.141h1.756c.348 0 .629.283.629.63 0 .344-.281.629-.629.629M24 10.314C24 4.943 18.615.572 12 .572S0 4.943 0 10.314c0 4.811 4.27 8.842 10.035 9.608.391.082.923.258 1.058.59.12.301.079.766.038 1.08l-.164 1.02c-.045.301-.24 1.186 1.049.645 1.291-.539 6.916-4.078 9.436-6.975C23.176 14.393 24 12.458 24 10.314" />
-      </svg>
-      LINEで無料相談する
-    </a>
-    <p class="mb-6 text-sm text-white/70">「空き家のミカタ」を友だち追加してください</p>
-
-    <!-- フォームボタン（サブ） -->
-    <a
-      href="/contact"
-      class="mb-6 inline-block rounded-lg border-2 border-white/40 px-8 py-3 text-base font-bold text-white transition-all hover:border-white/70 hover:bg-white/10"
-    >
-      フォームで相談する
-    </a>
-
-    <!-- メール -->
-    <div class="mt-4">
-      <p class="mt-2 text-sm text-white/70">
-        メール: <a href="mailto:info.arshe@arshe-corp.com" class="underline hover:text-accent-light">info.arshe@arshe-corp.com</a>
+    <div class="text-center">
+      <h2 class="mb-3 text-xl font-bold leading-relaxed md:text-2xl">
+        相続・空き家・訳あり不動産のお悩み、<br class="md:hidden" />状況だけでもお聞かせください
+      </h2>
+      <p class="mb-8 text-sm leading-relaxed text-white/80 md:text-base">
+        <strong class="text-white">相談だけで大丈夫です。</strong>売るかどうか決まっていなくても構いません。<br class="hidden md:block" />
+        しつこい勧誘や営業電話は一切いたしません。
       </p>
     </div>
 
-    <!-- 安心メッセージ -->
-    <div class="mt-6 flex flex-wrap items-center justify-center gap-4 text-xs text-white/70 md:text-sm">
-      <span class="flex items-center gap-1">
-        <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 text-accent" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
-          <path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7" />
-        </svg>
-        相談無料
-      </span>
-      <span class="flex items-center gap-1">
-        <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 text-accent" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
-          <path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7" />
-        </svg>
-        秘密厳守
-      </span>
-      <span class="flex items-center gap-1">
-        <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 text-accent" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
-          <path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7" />
-        </svg>
-        宅建業者が対応
-      </span>
+    <!-- LINE相談の流れ（3ステップ） -->
+    <div class="mb-8 grid gap-3 sm:grid-cols-3">
+      {[
+        { num: "1", title: "友だち追加", desc: "下のボタンを押すだけ。登録情報の入力は不要です" },
+        { num: "2", title: "状況を送る", desc: "物件の場所と状況を、わかる範囲で送ってください。写真があればより正確です" },
+        { num: "3", title: "宅建士が返信", desc: "買取できるか・いくらくらいかを、原則24時間以内にお答えします" },
+      ].map((step) => (
+        <div class="rounded-xl bg-white/10 p-4 text-center">
+          <div class="mx-auto mb-2 flex h-8 w-8 items-center justify-center rounded-full bg-accent text-sm font-bold text-white">{step.num}</div>
+          <p class="mb-1 text-sm font-bold text-white">{step.title}</p>
+          <p class="text-xs leading-relaxed text-white/70">{step.desc}</p>
+        </div>
+      ))}
+    </div>
+
+    <div class="text-center">
+      <!-- LINEボタン（メイン） -->
+      <a
+        href={LINE_URL}
+        target="_blank"
+        rel="noopener noreferrer"
+        class="mb-3 inline-flex w-full max-w-md items-center justify-center gap-2 rounded-xl bg-[#06C755] px-10 py-4 text-lg font-bold text-white shadow-lg transition-all hover:bg-[#05b64d] hover:shadow-xl"
+      >
+        <LineIcon class="h-6 w-6" />
+        LINEで無料相談する
+      </a>
+      <p class="mb-6 text-xs text-white/60">友だち追加後、トークで話しかけてください（24時間受付）</p>
+
+      <!-- 対応する人（信頼の顔） -->
+      <div class="mx-auto mb-6 flex max-w-md items-center gap-3 rounded-xl bg-white/10 p-4 text-left">
+        <div class="flex h-12 w-12 flex-shrink-0 items-center justify-center rounded-full bg-accent text-xl font-bold text-white">八</div>
+        <div>
+          <p class="text-sm font-bold text-white">宅地建物取引士・八木 宏樹が直接対応します</p>
+          <p class="text-xs text-white/70">合同会社アルシェ（宅建業免許: 大阪府知事(1)第65646号）</p>
+        </div>
+      </div>
+
+      <!-- サブ導線 -->
+      <div class="flex flex-col items-center justify-center gap-3 sm:flex-row">
+        <a
+          href="/satei"
+          class="inline-block rounded-lg border-2 border-accent-light/70 px-6 py-2.5 text-sm font-bold text-white transition-all hover:border-accent-light hover:bg-white/10"
+        >
+          60秒でわかる無料AI査定 →
+        </a>
+        <a
+          href="/contact"
+          class="inline-block rounded-lg border-2 border-white/40 px-6 py-2.5 text-sm font-bold text-white transition-all hover:border-white/70 hover:bg-white/10"
+        >
+          フォームで相談する
+        </a>
+      </div>
+      <p class="mt-3 text-xs text-white/60">
+        メール: <a href="mailto:info.arshe@arshe-corp.com" class="underline hover:text-accent-light">info.arshe@arshe-corp.com</a>
+      </p>
+
+      <!-- 安心メッセージ -->
+      <div class="mt-6 flex flex-wrap items-center justify-center gap-4 text-xs text-white/70 md:text-sm">
+        {["相談・査定 無料", "秘密厳守", "全国対応", "しつこい勧誘なし"].map((label) => (
+          <span class="flex items-center gap-1">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 text-accent" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7" />
+            </svg>
+            {label}
+          </span>
+        ))}
+      </div>
     </div>
   </div>
 </section>

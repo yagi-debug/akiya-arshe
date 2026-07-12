@@ -1,0 +1,64 @@
+---
+// 全ページ共通のCTAドック（FloatingLineButtonの後継）
+// モバイル: 画面下部固定バー（LINE相談 + 60秒AI査定の2択）。
+//   ファーストビューを塞がないよう、少しスクロールしてから出す。
+// PC: 従来どおり右下のフローティングLINEボタン。
+// クリックは BaseLayout の gtag( a[href*="lin.ee"] ) で自動計測される。
+import LineIcon from "./LineIcon.astro";
+const LINE_URL = "https://lin.ee/9Fk9EUl";
+---
+
+<!-- モバイル: 下部固定バー -->
+<div
+  id="cta-dock"
+  class="fixed inset-x-0 bottom-0 z-50 translate-y-full transition-transform duration-300 md:hidden"
+  style="padding-bottom: env(safe-area-inset-bottom);"
+>
+  <div class="flex gap-2 border-t border-border bg-white/95 px-3 py-2.5 shadow-[0_-4px_12px_rgba(0,0,0,0.12)] backdrop-blur">
+    <a
+      href={LINE_URL}
+      target="_blank"
+      rel="noopener noreferrer"
+      class="flex flex-[3] items-center justify-center gap-1.5 rounded-xl bg-[#06C755] px-3 py-3 text-sm font-bold text-white shadow"
+    >
+      <LineIcon class="h-5 w-5" />
+      LINEで無料相談
+    </a>
+    <a
+      href="/satei"
+      class="flex flex-[2] flex-col items-center justify-center rounded-xl bg-accent px-3 py-1.5 text-white shadow"
+    >
+      <span class="text-sm font-bold leading-tight">無料AI査定</span>
+      <span class="text-[10px] leading-tight opacity-90">60秒・入力3項目</span>
+    </a>
+  </div>
+</div>
+
+<!-- PC: 右下フローティングLINEボタン -->
+<a
+  href={LINE_URL}
+  target="_blank"
+  rel="noopener noreferrer"
+  aria-label="LINEで無料相談する"
+  class="fixed bottom-6 right-6 z-50 hidden items-center gap-2 rounded-full bg-[#06C755] px-5 py-3.5 text-base font-bold text-white shadow-lg ring-2 ring-white/60 transition-all hover:bg-[#05b64d] hover:shadow-xl md:flex"
+>
+  <LineIcon class="h-6 w-6" />
+  <span>LINEで無料相談</span>
+</a>
+
+<script>
+  // 300pxスクロールしたらモバイルバーを表示（ファーストビュー保護）
+  const dock = document.getElementById("cta-dock");
+  if (dock) {
+    let shown = false;
+    const onScroll = () => {
+      const shouldShow = window.scrollY > 300;
+      if (shouldShow !== shown) {
+        shown = shouldShow;
+        dock.classList.toggle("translate-y-full", !shown);
+      }
+    };
+    window.addEventListener("scroll", onScroll, { passive: true });
+    onScroll();
+  }
+</script>

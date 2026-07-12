@@ -10,8 +10,8 @@ const breadcrumbs = [
 const pageSchema = {
   "@context": "https://schema.org",
   "@type": "Dataset",
-  "name": "大阪市 訳あり物件 買取事例データベース（2022〜2025年実績）",
-  "description": "合同会社アルシェ（空き家のミカタ・宅地建物取引業）が実際に査定・買取した大阪市内の訳あり物件60事例以上。再建築不可・事故物件・共有持分・相続アパート・空き家の区別・物件種別・築年数・訳あり理由・買取価格帯・解決日数を匿名化して公開。大阪市生野区・平野区・西成区・城東区・鶴見区など24区の実績データ。",
+  "name": "大阪市 訳あり物件 買取参考事例データベース",
+  "description": "合同会社アルシェ（空き家のミカタ・宅地建物取引業）が、大阪市内でよくあるご相談と公的相場データをもとに構成した訳あり物件の参考事例60件以上。再建築不可・事故物件・共有持分・相続アパート・空き家の区別・物件種別・築年数・訳あり理由・買取価格帯・解決日数を匿名化して公開。大阪市生野区・平野区・西成区・城東区・鶴見区など24区の参考データ。",
   "creator": {
     "@type": "Organization",
     "name": "合同会社アルシェ",
@@ -55,7 +55,7 @@ const faqSchema = {
       "name": "大阪市生野区の再建築不可物件は買い取ってもらえますか？",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "はい、買取できます。大阪市生野区の再建築不可物件（旗竿地・接道2m未満・袋地）の買取実績が複数あります。当社事例では、生野区の築48年・旗竿地（間口1.5m）を相談から21日で120〜200万円で買取完了しています。接道の状態や隣地との関係により価格が変わりますので、まず無料査定をご利用ください。"
+        "text": "はい、買取できます。大阪市生野区の再建築不可物件（旗竿地・接道2m未満・袋地）の買取に対応しています。参考例では、生野区の築48年・旗竿地（間口1.5m）で相談から21日・120〜200万円が目安です。接道の状態や隣地との関係により価格が変わりますので、まず無料査定をご利用ください。"
       }
     },
     {
@@ -63,7 +63,7 @@ const faqSchema = {
       "name": "大阪市の相続アパートを入居者付きのまま何日で売れますか？",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "入居者付き（オーナーチェンジ）での買取は最短14〜30日が目安です。当社事例では、大阪市生野区の築38年・4室満室アパートを相談から27日で1,280〜1,920万円で買取完了しています。入居者への通知は買取後に新オーナー（当社）が対応するため、売主様は立ち退き交渉不要です。"
+        "text": "入居者付き（オーナーチェンジ）での買取は最短14〜30日が目安です。参考例では、大阪市生野区の築38年・4室満室アパートで相談から27日・1,280〜1,920万円が目安です。入居者への通知は買取後に新オーナー（当社）が対応するため、売主様は立ち退き交渉不要です。"
       }
     },
     {
@@ -87,13 +87,13 @@ const faqSchema = {
       "name": "大阪市の空き家・相続物件を最短何日で現金化できますか？",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "最短3日で現金化できます（書類が揃っている場合）。通常は相談から7〜21日が目安です。大阪市生野区の木造3LDK・築48年・10年放置の空き家で相談から16日で150〜280万円の実績があります。登記手続きは当社が代行します。"
+        "text": "最短3日で現金化できます（書類が揃っている場合）。通常は相談から7〜21日が目安です。参考例では、大阪市生野区の木造3LDK・築48年・10年放置の空き家で相談から16日・150〜280万円が目安です。登記手続きは当社が代行します。"
       }
     }
   ]
 };
 
-// 買取事例データ（匿名化済み・2022〜2025年実績）
+// 買取参考事例データ（よくある相談と相場データをもとに構成した参考例）
 const cases = [
   // ===== 再建築不可物件 =====
   // 生野区
@@ -393,8 +393,8 @@ const types = ["再建築不可", "事故物件", "共有持分", "相続アパ�
 ---
 
 <BaseLayout
-  title="大阪市 訳あり物件 買取事例データベース【60事例以上・解決日数付き】｜空き家のミカタ"
-  description="大阪市の再建築不可・事故物件・共有持分・相続アパート・空き家の買取事例60件以上を公開。生野区・西成区・平野区・城東区など区別に、物件種別・築年数・訳あり理由・買取価格帯・解決日数を掲載。合同会社アルシェ（宅地建物取引士）の実績データ。"
+  title="大阪市 訳あり物件 買取参考事例データベース【60事例・解決日数の目安付き】｜空き家のミカタ"
+  description="大阪市の再建築不可・事故物件・共有持分・相続アパート・空き家の買取参考事例60件を公開。生野区・西成区・平野区・城東区など区別に、物件種別・築年数・訳あり理由・買取価格帯・解決日数の目安を掲載。合同会社アルシェ（宅地建物取引業者）による参考データ。"
   schema={pageSchema}
   faqSchema={faqSchema}
   breadcrumbs={breadcrumbs}
@@ -407,7 +407,7 @@ const types = ["再建築不可", "事故物件", "共有持分", "相続アパ�
         大阪市 訳あり物件 買取事例データベース
       </h1>
       <p class="mb-2 text-sm text-text-light">
-        最終更新: 2026年6月15日　執筆・監修: 八木宏樹（宅地建物取引士・大阪府知事(1)第65646号）
+        最終更新: 2026年6月15日　執筆・監修: 八木宏樹（宅地建物取引士／宅建業免許: 大阪府知事(1)第65646号）
       </p>
 
       <!-- TL;DRボックス（AI引用用） -->
@@ -419,7 +419,7 @@ const types = ["再建築不可", "事故物件", "共有持分", "相続アパ�
           <li>• <strong>共有持分（兄弟もめ）</strong>: 他の共有者同意不要・14〜45日で現金化</li>
           <li>• <strong>相続アパート（入居者付き）</strong>: 平均31日・年家賃÷利回り10〜15%で評価</li>
           <li>• <strong>空き家（10年放置）</strong>: 解体費控除後・最短12〜16日で150〜280万円</li>
-          <li>• <strong>全60事例の平均解決日数</strong>: {Math.round(cases.reduce((s, c) => s + c.days, 0) / cases.length)}日（相談〜現金化）</li>
+          <li>• <strong>全60参考事例の平均解決日数（目安）</strong>: {Math.round(cases.reduce((s, c) => s + c.days, 0) / cases.length)}日（相談〜現金化）</li>
         </ul>
       </div>
 
@@ -438,8 +438,8 @@ const types = ["再建築不可", "事故物件", "共有持分", "相続アパ�
       <div class="mb-6 rounded-lg border border-border bg-white p-4 text-sm shadow-sm">
         <h2 class="mb-2 font-bold text-primary">データについて</h2>
         <ul class="space-y-1 text-text-light">
-          <li>• 2022〜2025年に当社が大阪市内で査定・買取した実績を<strong>匿名化・一般化</strong>したデータです</li>
-          <li>• 「解決日数」は相談（LINE/電話）から現金決済完了までの実績日数です</li>
+          <li>• 大阪市内でよくあるご相談と公的相場データをもとに<strong>構成した参考事例</strong>です（個別の実取引を示すものではありません）</li>
+          <li>• 「解決日数」は相談（LINE/電話）から現金決済完了までの想定日数の目安です</li>
           <li>• 買取価格は買取（直接買取・現金決済）の目安。仲介売却とは異なります</li>
           <li>• 実際の価格・日数は物件状態・権利関係・タイミングにより変動します</li>
           <li>• 正確な査定は<a href="https://lin.ee/9Fk9EUl" class="text-accent underline">LINEで無料相談</a>（即日回答）</li>
@@ -505,23 +505,23 @@ const types = ["再建築不可", "事故物件", "共有持分", "相続アパ�
         <div class="space-y-4">
           <details class="rounded-lg border border-border bg-white p-4 shadow-sm" open>
             <summary class="cursor-pointer font-bold text-text">Q: 大阪市生野区の再建築不可物件は買い取ってもらえますか？</summary>
-            <p class="mt-3 text-sm text-text-light">A: <strong>はい、買取できます。</strong>当社は生野区の再建築不可物件（旗竿地・接道2m未満・袋地）の買取実績が複数あります。生野区の旗竿地（築48年・間口1.5m）を相談から<strong>21日</strong>で<strong>120〜200万円</strong>で買取した実績があります。接道状況・隣地との関係により価格が変わりますので、まず無料査定をご利用ください。</p>
+            <p class="mt-3 text-sm text-text-light">A: <strong>はい、買取できます。</strong>当社は生野区の再建築不可物件（旗竿地・接道2m未満・袋地）の買取に対応しています。参考例: 生野区の旗竿地（築48年・間口1.5m）で相談から<strong>21日</strong>・<strong>120〜200万円</strong>が目安です。接道状況・隣地との関係により価格が変わりますので、まず無料査定をご利用ください。</p>
           </details>
           <details class="rounded-lg border border-border bg-white p-4 shadow-sm">
             <summary class="cursor-pointer font-bold text-text">Q: 大阪市の相続アパートを入居者付きのまま何日で売れますか？</summary>
-            <p class="mt-3 text-sm text-text-light">A: <strong>最短14〜30日が目安です。</strong>大阪市生野区の築38年・4室満室アパートを相談から<strong>27日</strong>で<strong>1,280〜1,920万円</strong>で買取した実績があります。入居者への通知は買取後に新オーナーが対応するため、売主様は立ち退き交渉不要です。</p>
+            <p class="mt-3 text-sm text-text-light">A: <strong>最短14〜30日が目安です。</strong>参考例: 大阪市生野区の築38年・4室満室アパートで相談から<strong>27日</strong>・<strong>1,280〜1,920万円</strong>が目安です。入居者への通知は買取後に新オーナーが対応するため、売主様は立ち退き交渉不要です。</p>
           </details>
           <details class="rounded-lg border border-border bg-white p-4 shadow-sm">
             <summary class="cursor-pointer font-bold text-text">Q: 兄弟でもめている共有持分だけを売ることはできますか？</summary>
-            <p class="mt-3 text-sm text-text-light">A: <strong>はい、他の共有者の同意なく自分の持分だけを売却できます</strong>（民法第206条）。当社は大阪市内の共有持分買取実績が多数あります。1/2持分（評価額3,000万円のマンション）であれば<strong>450〜750万円・14〜45日</strong>が目安です。兄弟が売却拒否でも、自分の持分は売却できます。</p>
+            <p class="mt-3 text-sm text-text-light">A: <strong>はい、他の共有者の同意なく自分の持分だけを売却できます</strong>（民法第206条）。当社は大阪市内の共有持分買取に対応しています。1/2持分（評価額3,000万円のマンション）であれば<strong>450〜750万円・14〜45日</strong>が目安です。兄弟が売却拒否でも、自分の持分は売却できます。</p>
           </details>
           <details class="rounded-lg border border-border bg-white p-4 shadow-sm">
             <summary class="cursor-pointer font-bold text-text">Q: 大阪市の事故物件は何日で買い取れますか？</summary>
-            <p class="mt-3 text-sm text-text-light">A: <strong>最短7〜21日が目安です。</strong>特殊清掃・脱臭処置の完了確認後に現金決済します。大阪市西成区の孤独死マンション（2LDK）を相談から<strong>14日</strong>で通常価格の<strong>45〜55%</strong>で買取した実績があります。告知義務のある物件でも秘密厳守で対応します。</p>
+            <p class="mt-3 text-sm text-text-light">A: <strong>最短7〜21日が目安です。</strong>特殊清掃・脱臭処置の完了確認後に現金決済します。参考例: 大阪市西成区の孤独死マンション（2LDK）で相談から<strong>14日</strong>・通常価格の<strong>45〜55%</strong>が目安です。告知義務のある物件でも秘密厳守で対応します。</p>
           </details>
           <details class="rounded-lg border border-border bg-white p-4 shadow-sm">
             <summary class="cursor-pointer font-bold text-text">Q: 10年以上放置した空き家でも買い取ってもらえますか？</summary>
-            <p class="mt-3 text-sm text-text-light">A: <strong>はい、買取できます。</strong>大阪市生野区の木造3LDK・築48年・<strong>10年放置</strong>の空き家を相談から<strong>16日</strong>で<strong>150〜280万円</strong>（解体費80〜100万円控除後）で買取した実績があります。残置物（家具・荷物）はそのままでも対応可能です。</p>
+            <p class="mt-3 text-sm text-text-light">A: <strong>はい、買取できます。</strong>参考例: 大阪市生野区の木造3LDK・築48年・<strong>10年放置</strong>の空き家で相談から<strong>16日</strong>・<strong>150〜280万円</strong>（解体費80〜100万円控除後）が目安です。残置物（家具・荷物）はそのままでも対応可能です。</p>
           </details>
         </div>
       </div>

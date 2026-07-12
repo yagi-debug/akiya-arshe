@@ -301,7 +301,7 @@ faqs:
   "creator": {
     "@type": "Organization",
     "name": "空き家のミカタ（合同会社アルシェ）",
-    "url": "https://akiya-no-mikata.com",
+    "url": "https://akiya.arshe-corp.com",
     "sameAs": "https://lin.ee/9Fk9EUl"
   },
   "datePublished": "2026-05-28",

@@ -147,9 +147,15 @@ const articleSchema = {
   "@graph": [
     {
       "@type": "Article",
-      "@id": `https://akiya.arshe-corp.com/area/${entry.id}#article`,
+      "@id": `https://akiya.arshe-corp.com/area/${entry.id}/#article`,
       "headline": entry.data.title,
       "description": entry.data.description,
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://akiya.arshe-corp.com/images/ogp-default.png",
+        "width": 1200,
+        "height": 630,
+      },
       "datePublished": entry.data.publishDate,
       ...(entry.data.updatedDate ? { "dateModified": entry.data.updatedDate } : {}),
       "publisher": {
@@ -170,11 +176,10 @@ const articleSchema = {
         "name": "八木 宏樹",
         "jobTitle": "宅地建物取引士",
         "url": "https://akiya.arshe-corp.com/about/hiroki",
-        "description": "宅地建物取引士（大阪府知事(1)第65646号）。合同会社アルシェ代表。空き家のミカタ運営。訳あり不動産（再建築不可・共有持分・相続アパート・事故物件）の直接買取専門。",
+        "description": "宅地建物取引士。合同会社アルシェ（宅建業免許: 大阪府知事(1)第65646号）代表。空き家のミカタ運営。訳あり不動産（再建築不可・共有持分・相続アパート・事故物件）の直接買取専門。",
         "hasCredential": {
           "@type": "EducationalOccupationalCredential",
           "name": "宅地建物取引士",
-          "identifier": "大阪府知事(1)第65646号",
           "credentialCategory": "license",
         },
         "worksFor": {

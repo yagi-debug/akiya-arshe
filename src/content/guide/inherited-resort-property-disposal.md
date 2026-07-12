@@ -17,6 +17,9 @@ faqs:
     answer: "住宅宿泊事業法（民泊新法）に基づき都道府県知事へ届け出をすれば可能です。ただし年間営業日数の上限180日、自治体ごとの条例規制、清掃・管理コストなどの課題があります。立地が良い物件なら管理費・維持費を相殺できるケースもありますが、運営体制の整備が必要です。"
 ---
 
+> **TL;DR — 相続した別荘・リゾートマンションへの対処法**
+> 結論: 売れなくても管理費地獄から抜け出せます。理由は3つ: ①損切り買取（最短3日で維持費ゼロ）②0円譲渡・相続放棄（費用ゼロで名義を手放す）③賃貸・民泊活用（維持費を相殺）。5年放置で150〜440万円の損失になる前に動くことが重要です。
+
 <img src="/images/inherited-resort-property-disposal-hero.jpg" alt="雪山を背景に建ち並ぶリゾート施設の外観　相続した別荘・リゾートマンションが売れない問題のイメージ" width="1260" height="840" style="width:100%;height:auto;border-radius:8px;margin-bottom:1.5rem;" />
 
 「相続したけれど、誰も使わない。売ろうとしても買い手がつかない。それなのに管理費だけが毎月引き落とされる」——別荘やリゾートマンションを相続した方から、こうした相談が増えています。
@@ -237,3 +240,8 @@ A. 住宅宿泊事業法（民泊新法）に基づき都道府県知事への�
 
 <a href="https://lin.ee/9Fk9EUl" style="display:inline-block;background:#06C755;color:#fff;padding:14px 32px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 8px 8px 0;">LINEで無料相談（即日対応）</a>
 <a href="/contact" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 32px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 0;">お問い合わせフォーム</a>
+
+---
+
+**執筆・監修: 八木宏樹（宅地建物取引士／宅建業免許: 大阪府知事(1)第65646号）**  
+[空き家のミカタ](/)運営。相続不動産・訳あり物件の直接買取を専門とする宅建業者。年間100件以上の訳あり物件を取り扱う。
