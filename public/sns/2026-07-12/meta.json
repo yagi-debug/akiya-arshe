@@ -1,0 +1,16 @@
+{
+  "date": "2026-07-12",
+  "slug": "ig-2026-07-day7-reel03",
+  "title": "3人で相続した家の話",
+  "type": "reel_story",
+  "files": [
+    "reel_story02_v2.mp4"
+  ],
+  "checks": {
+    "caption_forbidden_words": [],
+    "file_count_ok": true,
+    "voicevox_credit_ok": true,
+    "manual_visual_check": "pre-produced Week1 assets; accepted by content plan"
+  },
+  "fallback_used": false
+}
