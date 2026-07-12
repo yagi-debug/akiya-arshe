@@ -38,6 +38,17 @@ const organizationSchema = {
   "@id": "https://akiya.arshe-corp.com/#organization",
   "name": "空き家のミカタ",
   "legalName": "合同会社アルシェ",
+  "foundingDate": "2017-11",
+  "identifier": {
+    "@type": "PropertyValue",
+    "propertyID": "法人番号",
+    "value": "2120003013530",
+  },
+  "memberOf": [
+    { "@type": "Organization", "name": "公益社団法人 全日本不動産協会" },
+    { "@type": "Organization", "name": "公益社団法人 不動産保証協会" },
+    { "@type": "Organization", "name": "一般社団法人 全国不動産協会" },
+  ],
   "description": "訳あり不動産（空き家買取・相続不動産・再建築不可・共有持分買取・事故物件）の直接買取専門。仲介手数料なし・現況買取・最短3日で現金化。全国対応。宅地建物取引業免許：大阪府知事 (1) 第65646号。",
   "keywords": ["空き家買取", "相続不動産買取", "再建築不可買取", "共有持分買取", "訳あり不動産買取", "事故物件買取", "相続アパート買取", "底地・借地権買取"],
   "slogan": "どこにも断られた物件も、全国対応で現金買取",
@@ -137,6 +148,9 @@ const organizationSchema = {
     "https://arshe1719.hatenablog.com",
     "https://www.instagram.com/akiyanomikata/",
     "https://lin.ee/9Fk9EUl",
+    "https://maps.google.com/?cid=6023985736729171148",
+    "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=2120003013530",
+    "https://www.houjin-bangou.nta.go.jp/henkorireki-johoto.html?selHouzinNo=2120003013530",
   ],
   "hasOfferCatalog": {
     "@type": "OfferCatalog",
@@ -214,6 +228,9 @@ const allSchemas = schema ? [organizationSchema, websiteSchema, schema] : [organ
 
     <!-- Google Search Console -->
     <meta name="google-site-verification" content="GqwOoxndCWJQybRlsSVMSNgIf1CV2zU5W9x1ZOvW49E" />
+
+    <!-- Bing Webmaster Tools -->
+    <meta name="msvalidate.01" content="5EB3B406001D1FF53AD7AEA615701FA8" />
 
     <!-- Google Analytics (GA4) + コンバージョン計測 -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-DB12JFF39R"></script>
