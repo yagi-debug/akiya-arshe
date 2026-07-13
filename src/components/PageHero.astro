@@ -1,0 +1,28 @@
+---
+// 下層ページ共通の写真ヒーロー帯（Ken Burns付き）
+// 全ページに写真と動きを行き渡らせるための装置。h1を内包する。
+interface Props {
+  title: string;
+  sub?: string;
+  label?: string;
+  image?: string;
+}
+const { title, sub, label, image = "/images/site/hero2.webp" } = Astro.props;
+---
+<section class="relative overflow-hidden bg-primary-dark py-12 text-white md:py-16">
+  <div class="absolute inset-0 overflow-hidden">
+    <img
+      src={image}
+      alt=""
+      class="kenburns h-full w-full object-cover opacity-50"
+      width="1600" height="893"
+      fetchpriority="high"
+    />
+    <div class="absolute inset-0 bg-primary-dark/50"></div>
+  </div>
+  <div class="relative mx-auto max-w-4xl px-4 text-center">
+    {label && <p class="hero-enter mb-2 text-xs font-bold tracking-[0.3em] text-accent-light">{label}</p>}
+    <h1 class="serif hero-enter hero-enter-2 text-2xl leading-relaxed md:text-4xl [text-shadow:0_2px_18px_rgba(0,0,0,0.45)]">{title}</h1>
+    {sub && <p class="hero-enter hero-enter-3 mx-auto mt-3 max-w-2xl text-sm leading-relaxed text-white/85 md:text-base">{sub}</p>}
+  </div>
+</section>

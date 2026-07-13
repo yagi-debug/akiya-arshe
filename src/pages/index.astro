@@ -142,6 +142,20 @@ const homeWebPageSchema = {
     </div>
   </section>
 
+  <!-- 対応物件マーキー（流れる帯） -->
+  <section class="overflow-hidden border-y border-border bg-white py-4" aria-hidden="true">
+    <div class="marquee-track gap-3">
+      {[0, 1].map(() => (
+        ["相続アパート", "空き家・放置物件", "再建築不可", "共有持分", "事故物件", "底地・借地権", "リゾートマンション", "遠方の実家", "残置物そのまま", "相続登記前でも相談可"].map((label) => (
+          <span class="flex shrink-0 items-center gap-2 rounded-full bg-bg px-4 py-1.5 text-xs font-bold text-primary">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-3.5 w-3.5 text-accent" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2.5"><path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7" /></svg>
+            {label}
+          </span>
+        ))
+      ))}
+    </div>
+  </section>
+
   <!-- 無料AI査定セクション -->
   <section class="bg-white px-4 py-16 md:py-24">
     <div class="mx-auto max-w-3xl">
@@ -154,7 +168,7 @@ const homeWebPageSchema = {
       </div>
       <div class="reveal mb-8 overflow-hidden rounded-3xl">
         <img src="/images/site/satei-desk.webp" alt="机の上の家の模型と鍵、査定の書類" width="1100" height="821" loading="lazy"
-          class="h-40 w-full object-cover md:h-56" />
+          class="kenburns h-40 w-full object-cover md:h-56" />
       </div>
       <div class="reveal">
         <SateiForm id="satei-top" />
@@ -236,30 +250,34 @@ const homeWebPageSchema = {
       <div class="grid gap-5 md:grid-cols-3">
         {[
           {
-            icon: "M12 8c-1.657 0-3 .895-3 2s1.343 2 3 2 3 .895 3 2-1.343 2-3 2m0-8c1.11 0 2.08.402 2.599 1M12 8V7m0 1v8m0 0v1m0-1c-1.11 0-2.08-.402-2.599-1M21 12a9 9 0 11-18 0 9 9 0 0118 0z",
+            img: "/images/site/reason-1.webp",
+            alt: "明るい机の上の売買契約書と電卓",
             title: "仲介手数料なし・直接買取",
             desc: "当社が直接買い取るため、仲介手数料は一切かかりません。売れ残る心配もなく、確実に現金化できます。",
           },
           {
-            icon: "M20 7l-8-4-8 4m16 0l-8 4m8-4v10l-8 4m0-10L4 7m8 4v10M4 7v10l8 4",
+            img: "/images/site/reason-2.webp",
+            alt: "家財が残ったままの和室",
             title: "現況のまま・片付け不要",
             desc: "残置物があっても、老朽化していても、そのままの状態で買い取ります。片付けや修繕の費用・手間は不要です。",
           },
           {
-            icon: "M13 10V3L4 14h7v7l9-11h-7z",
+            img: "/images/site/reason-3.webp",
+            alt: "カレンダー帳の上に置かれた家の鍵",
             title: "最短3日で現金化・全国対応",
             desc: "スピード査定で最短3日で現金化。提携ネットワークを活用し、全国どこの物件でも対応いたします。",
           },
         ].map((item, i) => (
-          <div class="reveal card-lift relative overflow-hidden rounded-3xl border border-border bg-bg p-7">
-            <span class="absolute -right-2 -top-6 text-[88px] font-black leading-none text-primary/5 select-none">{i + 1}</span>
-            <div class="mb-5 flex h-14 w-14 items-center justify-center rounded-2xl bg-primary text-white shadow-sm">
-              <svg xmlns="http://www.w3.org/2000/svg" class="h-7 w-7" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
-                <path stroke-linecap="round" stroke-linejoin="round" d={item.icon} />
-              </svg>
+          <div class="reveal card-lift group relative overflow-hidden rounded-3xl border border-border bg-bg">
+            <div class="relative aspect-[16/9] overflow-hidden">
+              <img src={item.img} alt={item.alt} width="900" height="506" loading="lazy"
+                class="h-full w-full object-cover transition-transform duration-500 group-hover:scale-105" />
+              <span class="absolute left-4 top-3 text-4xl font-black leading-none text-white/85 [text-shadow:0_2px_10px_rgba(0,0,0,0.4)]">{String(i + 1).padStart(2, "0")}</span>
             </div>
-            <h3 class="mb-3 text-lg font-black text-primary">{item.title}</h3>
-            <p class="text-sm leading-relaxed text-text-light">{item.desc}</p>
+            <div class="p-6">
+              <h3 class="mb-3 text-lg font-black text-primary">{item.title}</h3>
+              <p class="text-sm leading-relaxed text-text-light">{item.desc}</p>
+            </div>
           </div>
         ))}
       </div>

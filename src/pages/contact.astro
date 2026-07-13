@@ -1,4 +1,5 @@
 ---
+import PageHero from "../components/PageHero.astro";
 import BaseLayout from "../layouts/BaseLayout.astro";
 
 const breadcrumbs = [
@@ -12,14 +13,15 @@ const breadcrumbs = [
   description="相続した家・空き家の売却に関する無料相談はこちら。LINE・お電話・メールフォームからお気軽にご連絡ください。秘密厳守・しつこい営業は一切いたしません。"
   breadcrumbs={breadcrumbs}
 >
+  <PageHero
+    label="ご相談"
+    title="無料相談・お問い合わせ"
+    sub="相続・空き家の売却に関するご相談は、LINE・メールフォームからお気軽にどうぞ。"
+    image="/images/site/night.webp"
+  />
   <section class="px-4 py-12 md:py-16">
     <div class="mx-auto max-w-3xl">
-      <h1 class="serif mb-4 text-center text-2xl font-bold text-primary md:text-3xl">
-        無料相談・お問い合わせ
-      </h1>
-      <p class="mb-10 text-center text-sm text-text-light md:text-base">
-        相続・空き家の売却に関するご相談は、LINE・お電話・メールフォームからお気軽にどうぞ。
-      </p>
+
 
       <!-- LINEセクション（一番目立つ） -->
       <div class="mb-10 rounded-xl border-2 border-[#06C755] bg-white p-6 text-center shadow-sm md:p-8">

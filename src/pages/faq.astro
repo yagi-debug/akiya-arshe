@@ -1,4 +1,5 @@
 ---
+import PageHero from "../components/PageHero.astro";
 import BaseLayout from "../layouts/BaseLayout.astro";
 import FAQ from "../components/FAQ.astro";
 
@@ -495,14 +496,15 @@ const faqSchema = {
   schema={faqSchema}
   breadcrumbs={breadcrumbs}
 >
+  <PageHero
+    label="よくある質問"
+    title="よくある質問"
+    sub="訳あり不動産の買取・相続・空き家に関する90問以上のQ&Aに、宅建業者がお答えします。"
+    image="/images/site/case-apart.webp"
+  />
   <section class="px-4 py-12 md:py-16">
     <div class="mx-auto max-w-3xl">
-      <h1 class="serif mb-4 text-center text-2xl font-bold text-primary md:text-3xl">
-        よくある質問
-      </h1>
-      <p class="mb-3 text-center text-sm text-text-light md:text-base">
-        訳あり不動産の買取・相続・空き家に関する90問以上のQ&Aに、宅建業者がお答えします。
-      </p>
+
       <p class="mb-6 text-center text-xs text-text-light">
         最終更新: 2026年7月12日　執筆・監修: 八木宏樹（合同会社アルシェ代表）／合同会社アルシェ（宅建業免許: 大阪府知事(1)第65646号）
       </p>

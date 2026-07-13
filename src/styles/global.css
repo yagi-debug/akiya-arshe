@@ -189,6 +189,22 @@ h1, h2, h3 {
   }
 }
 
+/* マーキー: 対応物件チップが流れ続ける帯 */
+@keyframes marquee {
+  from { transform: translateX(0); }
+  to { transform: translateX(-50%); }
+}
+.marquee-track {
+  display: flex;
+  width: max-content;
+  animation: marquee 30s linear infinite;
+}
+@media (prefers-reduced-motion: reduce) {
+  html:not(.force-motion) .marquee-track {
+    animation: none;
+  }
+}
+
 /* Ken Burns: 静止画をゆっくり動かして映像のように見せる */
 @keyframes kenburns {
   0% { transform: scale(1.05) translate(0, 0); }
