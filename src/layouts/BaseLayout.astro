@@ -24,7 +24,7 @@ const {
   faqSchema,
   howToSchema,
   breadcrumbs,
-  ogImage = "/images/ogp-default.png",
+  ogImage = "/images/ogp-default.jpg",
   ogType = "website",
 } = Astro.props;
 const canonicalURL = new URL(Astro.url.pathname, "https://akiya.arshe-corp.com");
@@ -63,7 +63,7 @@ const organizationSchema = {
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://akiya.arshe-corp.com/images/ogp-default.png",
+    "url": "https://akiya.arshe-corp.com/images/ogp-default.jpg",
     "width": 1200,
     "height": 630,
   },

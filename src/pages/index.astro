@@ -65,26 +65,35 @@ const homeWebPageSchema = {
   schema={homeWebPageSchema}
   faqSchema={homeFaqSchema}
 >
-  <!-- ファーストビュー -->
-  <section class="relative overflow-hidden">
-    <div class="blob left-[-120px] top-[-80px] h-80 w-80 bg-accent/15"></div>
-    <div class="blob right-[-140px] top-[160px] h-96 w-96 bg-primary/10"></div>
+  <!-- ファーストビュー（画像フル＋コピー帯・Ken Burns） -->
+  <section class="relative overflow-hidden bg-primary-dark">
+    <!-- 背景写真: ゆっくりズームして映像のように見せる -->
+    <div class="absolute inset-0 overflow-hidden">
+      <img
+        src="/images/site/hero.webp"
+        alt="夕暮れの住宅街に建つ日本家屋。窓には温かい灯り"
+        class="kenburns h-full w-full object-cover"
+        width="1600" height="893"
+        fetchpriority="high"
+      />
+      <div class="absolute inset-0 bg-gradient-to-t from-primary-dark via-primary-dark/60 to-primary-dark/20"></div>
+    </div>
 
-    <div class="relative mx-auto max-w-4xl px-4 pb-14 pt-12 text-center md:pb-20 md:pt-20">
+    <div class="relative mx-auto max-w-4xl px-4 pb-14 pt-16 text-center md:pb-24 md:pt-28">
       <!-- 対応物件バッジ -->
       <div class="mb-6 flex flex-wrap items-center justify-center gap-2">
         {["相続アパート", "空き家", "再建築不可", "共有持分", "事故物件"].map((label) => (
-          <span class="rounded-full border border-border bg-white px-3.5 py-1.5 text-xs font-bold text-primary shadow-sm">
+          <span class="rounded-full border border-white/25 bg-white/10 px-3.5 py-1.5 text-xs font-bold text-white backdrop-blur-sm">
             {label}
           </span>
         ))}
       </div>
 
-      <h1 class="serif mb-5 text-[1.72rem] leading-snug text-primary sm:text-3xl md:text-[3.4rem] md:leading-[1.35]">
+      <h1 class="serif mb-5 text-[1.72rem] leading-snug text-white sm:text-3xl md:text-[3.4rem] md:leading-[1.35] [text-shadow:0_2px_24px_rgba(0,0,0,0.45)]">
         どこにも断られた物件も、<br />
-        そのまま<span class="marker">現金買取</span>。
+        そのまま<span class="text-accent-light">現金買取</span>。
       </h1>
-      <p class="mx-auto mb-8 max-w-2xl text-sm leading-relaxed text-text-light md:text-base">
+      <p class="mx-auto mb-8 max-w-2xl text-sm leading-relaxed text-white/85 md:text-base [text-shadow:0_1px_12px_rgba(0,0,0,0.5)]">
         訳あり不動産の買取専門「空き家のミカタ」。仲介手数料なし・片付け不要・現況のまま。<br class="hidden md:block" />
         宅建業者が全国どこの物件でも直接買い取ります。
       </p>
@@ -102,12 +111,12 @@ const homeWebPageSchema = {
         </a>
         <a
           href="/satei"
-          class="inline-flex w-full items-center justify-center gap-2 rounded-full border-2 border-accent bg-white px-8 py-4 text-base font-bold text-accent shadow-sm transition-all hover:-translate-y-0.5 hover:bg-accent hover:text-white sm:w-auto"
+          class="inline-flex w-full items-center justify-center gap-2 rounded-full border-2 border-white/70 bg-white/10 px-8 py-4 text-base font-bold text-white backdrop-blur-sm transition-all hover:-translate-y-0.5 hover:bg-white hover:text-primary sm:w-auto"
         >
           60秒でわかる無料AI査定 →
         </a>
       </div>
-      <p class="mb-10 text-xs text-text-light md:text-sm">
+      <p class="mb-10 text-xs text-white/80 md:text-sm [text-shadow:0_1px_8px_rgba(0,0,0,0.5)]">
         相談だけでもOK・しつこい勧誘なし・宅建士が原則24時間以内に返信
       </p>
 
@@ -119,7 +128,7 @@ const homeWebPageSchema = {
           { label: "相談・査定", value: "無料" },
           { label: "対応エリア", value: "全国" },
         ].map((stat) => (
-          <div class="rounded-2xl border border-border bg-white px-4 py-5 shadow-[var(--shadow-soft)]">
+          <div class="rounded-2xl border border-white/15 bg-white/95 px-4 py-5 shadow-lg backdrop-blur">
             <p class="mb-1 text-xs font-bold tracking-wider text-text-light">{stat.label}</p>
             <p class="text-2xl font-black text-primary md:text-3xl">{stat.value}</p>
           </div>
@@ -137,6 +146,10 @@ const homeWebPageSchema = {
           あなたの物件、<span class="marker">60秒</span>で査定
         </h2>
         <p class="text-sm text-text-light md:text-base">3項目を入力するだけで概算価格を即時表示。個人情報不要・完全無料。</p>
+      </div>
+      <div class="reveal mb-8 overflow-hidden rounded-3xl">
+        <img src="/images/site/satei-desk.webp" alt="机の上の家の模型と鍵、査定の書類" width="1100" height="821" loading="lazy"
+          class="h-40 w-full object-cover md:h-56" />
       </div>
       <div class="reveal">
         <SateiForm id="satei-top" />
@@ -174,10 +187,19 @@ const homeWebPageSchema = {
     </div>
   </section>
 
-  <!-- 転換バンド（破調・フルブリード） -->
+  <!-- 転換バンド（破調・フルブリード・夜景写真） -->
   <section class="relative overflow-hidden bg-primary-dark py-20 text-white md:py-28">
-    <div class="blob left-[-140px] bottom-[-120px] h-96 w-96 bg-accent/15"></div>
-    <p class="tategaki absolute right-6 top-10 hidden opacity-70 md:block" aria-hidden="true">相談無料・秘密厳守</p>
+    <div class="absolute inset-0 overflow-hidden">
+      <img
+        src="/images/site/night.webp"
+        alt="夜の住宅街。一軒の家の窓に温かい灯りがともる"
+        class="kenburns h-full w-full object-cover opacity-60"
+        width="1600" height="893"
+        loading="lazy"
+      />
+      <div class="absolute inset-0 bg-primary-dark/55"></div>
+    </div>
+    <p class="tategaki absolute right-6 top-10 hidden !text-accent-light opacity-80 md:block" aria-hidden="true">相談無料・秘密厳守</p>
     <div class="relative mx-auto max-w-4xl px-4 text-center">
       <p class="serif reveal mb-6 text-3xl leading-relaxed text-white md:text-5xl md:leading-relaxed">
         あきらめる前に、<br />
@@ -304,21 +326,32 @@ const homeWebPageSchema = {
             title: "3年放置した実家に、隣地から苦情が",
             desc: "相続後そのままになっていた空き家。隣地からの苦情をきっかけにご相談いただき、現況のまま・残置物ごと買取で解決。",
             href: "/guide/souzoku-jirei-01-akiya-3nen",
+            img: "/images/site/case-akiya.webp",
+            alt: "草木に覆われた放置された空き家",
           },
           {
             tag: "相続アパート",
             title: "空室だらけの築古アパートを相続",
             desc: "入居者と空室が混在する築38年のアパート。オーナーチェンジのまま直接買取し、立ち退き交渉は不要のまま引き渡し。",
             href: "/guide/souzoku-jirei-03-apart-souzoku-kaitori",
+            img: "/images/site/case-apart.webp",
+            alt: "昭和築の古い木造2階建てアパート",
           },
           {
             tag: "再建築不可",
             title: "間口2m未満、仲介に断られた戸建て",
             desc: "建て替えできず買い手がつかない再建築不可の戸建て。現況のまま買取価格をご提示し、スムーズに手放せた事例。",
             href: "/guide/souzoku-jirei-04-saikenchifu-kaitori",
+            img: "/images/site/case-roji.webp",
+            alt: "狭い路地に面した古い木造の家",
           },
         ].map((item) => (
-          <a href={item.href} class="reveal card-lift group flex flex-col rounded-3xl border border-border bg-bg p-6">
+          <a href={item.href} class="reveal card-lift group flex flex-col overflow-hidden rounded-3xl border border-border bg-bg">
+            <div class="aspect-[4/3] overflow-hidden">
+              <img src={item.img} alt={item.alt} width="900" height="672" loading="lazy"
+                class="h-full w-full object-cover transition-transform duration-500 group-hover:scale-105" />
+            </div>
+            <div class="flex flex-1 flex-col p-6">
             <span class="mb-3 inline-block w-fit rounded-full bg-primary px-3 py-1 text-xs font-bold text-white">{item.tag}</span>
             <h3 class="serif mb-2 text-lg leading-snug text-primary">{item.title}</h3>
             <p class="mb-4 flex-1 text-sm leading-relaxed text-text-light">{item.desc}</p>
@@ -328,6 +361,7 @@ const homeWebPageSchema = {
                 <path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7" />
               </svg>
             </span>
+            </div>
           </a>
         ))}
       </div>
