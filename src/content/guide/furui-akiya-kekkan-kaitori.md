@@ -176,6 +176,7 @@ LINEまたはお問い合わせフォームからご連絡ください。物件�
 - <a href="/guide/souzoku-fudousan-urikata-kanzen-guide">相続した不動産の売り方完全ガイド</a>
 - <a href="/guide/souzoku-apart-cost-simulation">相続アパートの維持費10年シミュレーション</a>
 - <a href="/guide/saikenchifu-kaitori-souba">再建築不可物件の買取相場</a>
+- <a href="/guide/kyouyuu-mochibun-kaitori">共有持分の買取ガイド｜他の共有者の同意なしで売却する方法</a>
 
 ## 老朽化・欠陥物件の買取、まずは無料相談を
 
