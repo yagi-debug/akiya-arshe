@@ -131,12 +131,62 @@ h1, h2, h3 {
   box-shadow: var(--shadow-lift);
 }
 
-/* 背景の装飾ブロブ */
+/* 背景の装飾ブロブ
+   注意: filter: blur() はWebKit(Safari/iOS)で黒い矩形になる不具合があるため、
+   radial-gradientマスクでぼかしを表現する（filter禁止） */
 .blob {
   position: absolute;
   border-radius: 9999px;
-  filter: blur(80px);
   pointer-events: none;
+  -webkit-mask-image: radial-gradient(closest-side, rgb(0 0 0 / 0.9), transparent);
+  mask-image: radial-gradient(closest-side, rgb(0 0 0 / 0.9), transparent);
+}
+
+/* ヒーロー・スライドショー: 3枚の写真をクロスフェード（映像風の主演出）
+   21秒周期 × 3枚（各7秒表示・1.3秒フェード）。各スライドは delay 0/7/14s */
+@keyframes heroFade {
+  0% { opacity: 0; }
+  6% { opacity: 1; }
+  33.3% { opacity: 1; }
+  39.5% { opacity: 0; }
+  100% { opacity: 0; }
+}
+.hero-slide {
+  position: absolute;
+  inset: 0;
+  opacity: 0;
+  animation: heroFade 21s linear infinite;
+}
+.hero-slide-1 { animation-delay: 0s; }
+.hero-slide-2 { animation-delay: 7s; }
+.hero-slide-3 { animation-delay: 14s; }
+
+/* ヒーロー・コピーの登場演出（ロード直後に動きを見せる） */
+@keyframes heroEnter {
+  from { opacity: 0; transform: translateY(26px); }
+  to { opacity: 1; transform: none; }
+}
+.hero-enter { animation: heroEnter 0.9s 0.25s cubic-bezier(0.22, 1, 0.36, 1) both; }
+.hero-enter-2 { animation-delay: 0.45s; }
+.hero-enter-3 { animation-delay: 0.65s; }
+.hero-enter-4 { animation-delay: 0.85s; }
+.hero-enter-5 { animation-delay: 1.05s; }
+
+@media (prefers-reduced-motion: reduce) {
+  html:not(.force-motion) .hero-slide {
+    animation: none;
+    opacity: 0;
+  }
+  html:not(.force-motion) .hero-slide-1 {
+    opacity: 1;
+  }
+  html:not(.force-motion) .hero-enter,
+  html:not(.force-motion) .hero-enter-2,
+  html:not(.force-motion) .hero-enter-3,
+  html:not(.force-motion) .hero-enter-4,
+  html:not(.force-motion) .hero-enter-5 {
+    animation: none;
+  }
 }
 
 /* Ken Burns: 静止画をゆっくり動かして映像のように見せる */

@@ -67,21 +67,26 @@ const homeWebPageSchema = {
 >
   <!-- ファーストビュー（画像フル＋コピー帯・Ken Burns） -->
   <section class="relative overflow-hidden bg-primary-dark">
-    <!-- 背景写真: ゆっくりズームして映像のように見せる -->
+    <!-- 背景写真スライドショー: 3枚をクロスフェード＋Ken Burnsで映像のように見せる -->
     <div class="absolute inset-0 overflow-hidden">
-      <img
-        src="/images/site/hero.webp"
-        alt="夕暮れの住宅街に建つ日本家屋。窓には温かい灯り"
-        class="kenburns h-full w-full object-cover"
-        width="1600" height="893"
-        fetchpriority="high"
-      />
+      <div class="hero-slide hero-slide-1">
+        <img src="/images/site/hero.webp" alt="夕暮れの住宅街に建つ日本家屋。窓には温かい灯り"
+          class="kenburns h-full w-full object-cover" width="1600" height="893" fetchpriority="high" />
+      </div>
+      <div class="hero-slide hero-slide-2">
+        <img src="/images/site/hero2.webp" alt="朝もやに包まれた日本の住宅街の街並み"
+          class="kenburns h-full w-full object-cover" width="1600" height="893" loading="lazy" />
+      </div>
+      <div class="hero-slide hero-slide-3">
+        <img src="/images/site/night.webp" alt="夜の住宅街。窓に温かい灯りがともる家"
+          class="kenburns h-full w-full object-cover" width="1600" height="893" loading="lazy" />
+      </div>
       <div class="absolute inset-0 bg-gradient-to-t from-primary-dark via-primary-dark/60 to-primary-dark/20"></div>
     </div>
 
     <div class="relative mx-auto max-w-4xl px-4 pb-14 pt-16 text-center md:pb-24 md:pt-28">
       <!-- 対応物件バッジ -->
-      <div class="mb-6 flex flex-wrap items-center justify-center gap-2">
+      <div class="hero-enter mb-6 flex flex-wrap items-center justify-center gap-2">
         {["相続アパート", "空き家", "再建築不可", "共有持分", "事故物件"].map((label) => (
           <span class="rounded-full border border-white/25 bg-white/10 px-3.5 py-1.5 text-xs font-bold text-white backdrop-blur-sm">
             {label}
@@ -89,17 +94,17 @@ const homeWebPageSchema = {
         ))}
       </div>
 
-      <h1 class="serif mb-5 text-[1.72rem] leading-snug text-white sm:text-3xl md:text-[3.4rem] md:leading-[1.35] [text-shadow:0_2px_24px_rgba(0,0,0,0.45)]">
+      <h1 class="serif hero-enter hero-enter-2 mb-5 text-[1.72rem] leading-snug text-white sm:text-3xl md:text-[3.4rem] md:leading-[1.35] [text-shadow:0_2px_24px_rgba(0,0,0,0.45)]">
         どこにも断られた物件も、<br />
         そのまま<span class="text-accent-light">現金買取</span>。
       </h1>
-      <p class="mx-auto mb-8 max-w-2xl text-sm leading-relaxed text-white/85 md:text-base [text-shadow:0_1px_12px_rgba(0,0,0,0.5)]">
+      <p class="hero-enter hero-enter-3 mx-auto mb-8 max-w-2xl text-sm leading-relaxed text-white/85 md:text-base [text-shadow:0_1px_12px_rgba(0,0,0,0.5)]">
         訳あり不動産の買取専門「空き家のミカタ」。仲介手数料なし・片付け不要・現況のまま。<br class="hidden md:block" />
         宅建業者が全国どこの物件でも直接買い取ります。
       </p>
 
       <!-- CTA -->
-      <div class="mb-3 flex flex-col items-center justify-center gap-3 sm:flex-row">
+      <div class="hero-enter hero-enter-4 mb-3 flex flex-col items-center justify-center gap-3 sm:flex-row">
         <a
           href={LINE_URL}
           target="_blank"
@@ -121,7 +126,7 @@ const homeWebPageSchema = {
       </p>
 
       <!-- 実績バンド -->
-      <div class="grid grid-cols-2 gap-3 md:grid-cols-4">
+      <div class="hero-enter hero-enter-5 grid grid-cols-2 gap-3 md:grid-cols-4">
         {[
           { label: "仲介手数料", value: "0円" },
           { label: "現金化まで", value: "最短3日" },
