@@ -4,7 +4,7 @@ description: "大阪市の空き家解体補助金2026年度を24区別に解説
 publishDate: "2026-05-13"
 updatedDate: "2026-07-12"
 author: "八木宏樹"
-authorTitle: "宅地建物取引士／宅建業免許: 大阪府知事(1)第65646号"
+authorTitle: "宅地建物取引業者（大阪府知事(1)第65646号）"
 heroImage: "/images/osaka-ku-hojo-hero.jpg"
 faqs:
   - question: "大阪市の空き家解体補助金は2026年度もありますか？"

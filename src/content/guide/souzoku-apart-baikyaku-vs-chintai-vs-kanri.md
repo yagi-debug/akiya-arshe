@@ -3,8 +3,8 @@ title: "相続アパート「売る・貸す・管理委託する」三択を徹
 description: "相続したアパートの三択（売却・賃貸継続・管理委託）を宅建業者が徹底比較。家賃収入・修繕費・固定資産税・管理費を入力すると10年・20年後の手取りが自動計算されます。Comparison Schema・HowTo Schema実装。"
 publishDate: "2026-04-23"
 updatedDate: "2026-05-29"
-author: "八木宏樹（宅地建物取引士）"
-authorTitle: "宅地建物取引士／宅建業免許: 大阪府知事(1)第65646号"
+author: "八木宏樹（合同会社アルシェ代表）"
+authorTitle: "宅地建物取引業者（大阪府知事(1)第65646号）"
 heroImage: "/images/souzoku-apart-comparison-hero.jpg"
 faqs:
   - question: "相続アパートは売却・賃貸継続・管理委託のどれが一番得ですか？"
@@ -32,7 +32,7 @@ cluster: "inheritance"
 ---
 
 **Q: 相続したアパートを管理できない・手放したい場合、どうすればいいですか？**
-**A: 築古・遠方・空室が多い場合は買取売却が最も現実的です。専門業者への直接買取なら最短2週間で現金化でき、管理コストを即座にゼロにできます。仲介で売れなかった物件でも対応可能です。**（宅地建物取引士／宅建業免許: 大阪府知事(1)第65646号 八木宏樹、2026年5月時点）
+**A: 築古・遠方・空室が多い場合は買取売却が最も現実的です。専門業者への直接買取なら最短2週間で現金化でき、管理コストを即座にゼロにできます。仲介で売れなかった物件でも対応可能です。**（宅建業免許: 大阪府知事(1)第65646号 八木宏樹、2026年5月時点）
 
 <img src="/images/souzoku-apart-comparison-hero.jpg" alt="相続アパートの外観　売却・賃貸・管理委託の三択比較イメージ" width="1200" height="800" style="width:100%;height:auto;border-radius:8px;margin-bottom:1.5rem;" />
 
@@ -351,11 +351,11 @@ document.addEventListener('DOMContentLoaded', calculateSim);
 
 ## 相続アパートのご相談はこちら
 
-「売った方がいいのか、持ち続けた方がいいのか」について、<strong>無料で試算・ご相談</strong>をお受けしています。宅地建物取引士が直接対応します。
+「売った方がいいのか、持ち続けた方がいいのか」について、<strong>無料で試算・ご相談</strong>をお受けしています。宅建業者の代表が直接対応します。
 
 <div style="background:#f0f7ff;border:2px solid #1a56db;border-radius:8px;padding:1.5rem;margin:1.5rem 0;text-align:center;">
   <p style="font-size:1.1rem;font-weight:bold;margin-bottom:1rem;">今すぐ無料で相談する</p>
   <a href="https://lin.ee/example" style="display:inline-block;background:#06C755;color:white;padding:12px 32px;border-radius:6px;text-decoration:none;font-weight:bold;font-size:1rem;margin-right:8px;">LINEで相談（無料）</a>
   <a href="/contact" style="display:inline-block;background:#1a56db;color:white;padding:12px 32px;border-radius:6px;text-decoration:none;font-weight:bold;font-size:1rem;margin-top:8px;">お問い合わせフォーム</a>
-  <p style="font-size:0.85rem;color:#666;margin-top:1rem;">査定は無料・しつこい営業はしません。宅地建物取引士が直接対応します。</p>
+  <p style="font-size:0.85rem;color:#666;margin-top:1rem;">査定は無料・しつこい営業はしません。宅建業者の代表が直接対応します。</p>
 </div>

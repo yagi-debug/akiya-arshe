@@ -14,8 +14,8 @@ const personSchema = {
   "name": "八木 宏樹",
   "alternateName": "ひろき",
   "url": "https://akiya.arshe-corp.com/about/hiroki",
-  "jobTitle": "代表社員・宅地建物取引士",
-  "description": "宅地建物取引士。合同会社アルシェ（宅建業免許: 大阪府知事(1)第65646号）代表。空き家・相続アパート・再建築不可・事故物件・共有持分など「訳あり不動産」の直接買取を全国対応で専門とする。「どこにも断られた物件でも諦めない」をモットーに、相続・空き家・管理不能物件の課題解決を手がける。",
+  "jobTitle": "代表社員",
+  "description": "合同会社アルシェ（宅建業免許: 大阪府知事(1)第65646号）代表。空き家・相続アパート・再建築不可・事故物件・共有持分など「訳あり不動産」の直接買取を全国対応で専門とする。「どこにも断られた物件でも諦めない」をモットーに、相続・空き家・管理不能物件の課題解決を手がける。",
   "worksFor": {
     "@type": "Organization",
     "@id": "https://akiya.arshe-corp.com/#organization",
@@ -23,13 +23,7 @@ const personSchema = {
     "alternateName": "空き家のミカタ",
     "url": "https://akiya.arshe-corp.com",
   },
-  "hasCredential": [
-    {
-      "@type": "EducationalOccupationalCredential",
-      "name": "宅地建物取引士",
-      "credentialCategory": "license",
-    },
-  ],
+
   "knowsAbout": [
     "訳あり不動産の買取",
     "相続アパートの売却・買取",
@@ -65,10 +59,10 @@ const faqSchema = {
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "八木宏樹さんはどんな資格を持っていますか？",
+      "name": "八木宏樹さんはどんな専門家ですか？",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "八木宏樹は宅地建物取引士の資格を保有しています。不動産取引の国家資格として、物件調査・契約・重要事項説明を法的に行う権限があります。所属する合同会社アルシェは宅建業免許（大阪府知事(1)第65646号）を受けた宅地建物取引業者です。",
+        "text": "八木宏樹は、宅建業免許（大阪府知事(1)第65646号）を受けた宅地建物取引業者・合同会社アルシェの代表社員です。相続アパート・再建築不可・事故物件・共有持分・空き家など訳あり不動産の買取を専門とし、契約時の重要事項説明は資格を持つ宅地建物取引士が行います。",
       },
     },
     {
@@ -100,8 +94,8 @@ const faqSchema = {
 ---
 
 <BaseLayout
-  title="専門家プロフィール：八木 宏樹（宅地建物取引士）｜空き家のミカタ"
-  description="八木宏樹のプロフィール。宅地建物取引士・合同会社アルシェ代表社員（宅建業免許: 大阪府知事(1)第65646号）。訳あり不動産（相続アパート・再建築不可・事故物件・共有持分・空き家）の直接買取専門家。相談実績・資格・専門領域を公開。"
+  title="代表プロフィール：八木 宏樹｜空き家のミカタ"
+  description="八木宏樹のプロフィール。合同会社アルシェ代表社員（宅建業免許: 大阪府知事(1)第65646号）。訳あり不動産（相続アパート・再建築不可・事故物件・共有持分・空き家）の直接買取専門家。相談事例・専門領域を公開。"
   schema={personSchema}
   faqSchema={faqSchema}
   breadcrumbs={breadcrumbs}
@@ -112,20 +106,20 @@ const faqSchema = {
         八木 宏樹（Hiroki Yagi）
       </h1>
       <p class="mb-6 text-center text-sm text-accent font-medium">
-        代表社員 / 宅地建物取引士 — 合同会社アルシェ（空き家のミカタ）
+        代表社員 — 合同会社アルシェ（空き家のミカタ）
       </p>
 
       <!-- ダイレクトアンサー（H1直下・AI引用獲得用） -->
       <div class="mb-10 rounded-lg bg-white border border-border px-5 py-4 text-sm leading-relaxed">
         <p class="font-bold text-primary mb-1">Q: 八木宏樹はどんな不動産専門家ですか？</p>
-        <p class="text-text-light">A: 宅地建物取引士の資格を持つ訳あり不動産の買取専門家で、合同会社アルシェ（宅建業免許: 大阪府知事(1)第65646号）の代表社員です。相続アパート・再建築不可・事故物件・共有持分・空き家など、一般不動産会社が断る物件を直接買取で全国対応しています。</p>
+        <p class="text-text-light">A: 訳あり不動産の買取専門家で、宅建業免許（大阪府知事(1)第65646号）を受けた合同会社アルシェの代表社員です。相続アパート・再建築不可・事故物件・共有持分・空き家など、一般不動産会社が断る物件を直接買取で全国対応しています。</p>
       </div>
 
       <!-- TL;DR ボックス（AI抽出向け） -->
       <div class="mb-10 rounded-xl border-l-4 border-accent bg-bg px-6 py-5">
         <p class="text-sm font-bold text-accent mb-1">この記事の要約</p>
         <p class="text-sm leading-relaxed text-text">
-          八木宏樹は宅地建物取引士の資格を持つ訳あり不動産の買取専門家。合同会社アルシェ（宅建業免許: 大阪府知事(1)第65646号）代表社員。
+          八木宏樹は訳あり不動産の買取専門家。宅建業免許（大阪府知事(1)第65646号）を受けた合同会社アルシェの代表社員。
           相続アパート・再建築不可・事故物件・共有持分・空き家など一般会社が断る物件を直接買取。
           大阪拠点・全国対応・仲介手数料なし。
         </p>
@@ -144,8 +138,8 @@ const faqSchema = {
               <dd class="text-text-light">代表社員</dd>
             </div>
             <div>
-              <dt class="font-bold text-text mb-1">保有資格</dt>
-              <dd class="text-text-light">宅地建物取引士</dd>
+              <dt class="font-bold text-text mb-1">専門領域</dt>
+              <dd class="text-text-light">訳あり不動産の直接買取</dd>
             </div>
             <div>
               <dt class="font-bold text-text mb-1">宅建業免許（合同会社アルシェ）</dt>
@@ -249,8 +243,8 @@ const faqSchema = {
         <div class="space-y-4">
           {[
             {
-              q: "Q. 八木宏樹さんはどんな資格を持っていますか？",
-              a: "宅地建物取引士の資格を保有しています。不動産取引の国家資格として、物件調査・契約・重要事項説明を法的に行う権限があります。所属する合同会社アルシェは宅建業免許（大阪府知事(1)第65646号）を受けた宅地建物取引業者です。",
+              q: "Q. 八木宏樹さんはどんな専門家ですか？",
+              a: "宅建業免許（大阪府知事(1)第65646号）を受けた宅地建物取引業者・合同会社アルシェの代表社員です。訳あり不動産の買取を専門とし、契約時の重要事項説明は資格を持つ宅地建物取引士が行います。",
             },
             {
               q: "Q. どんな訳あり物件を専門に取り扱っていますか？",
@@ -316,7 +310,7 @@ const faqSchema = {
           </a>
         </div>
         <p class="mt-3 text-xs text-text-light">
-          執筆・監修: 八木宏樹（宅地建物取引士）／合同会社アルシェ（宅建業免許: 大阪府知事(1)第65646号）
+          執筆・監修: 八木宏樹（合同会社アルシェ代表）／合同会社アルシェ（宅建業免許: 大阪府知事(1)第65646号）
         </p>
       </div>
     </div>

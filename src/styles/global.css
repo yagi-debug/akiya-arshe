@@ -106,8 +106,10 @@ h1, h2, h3 {
   opacity: 1;
   transform: none;
 }
+/* 停止は「明示的に停止ボタンを押した人」だけ（.force-motionが付かない場合）。
+   OSの「視差効果を減らす」だけでは止めない（pitfalls.md: 環境で見え方が変わるクレーム対策） */
 @media (prefers-reduced-motion: reduce) {
-  .reveal {
+  html:not(.force-motion) .reveal {
     opacity: 1;
     transform: none;
     transition: none;
@@ -139,15 +141,15 @@ h1, h2, h3 {
 
 /* Ken Burns: 静止画をゆっくり動かして映像のように見せる */
 @keyframes kenburns {
-  0% { transform: scale(1.02) translate(0, 0); }
-  100% { transform: scale(1.14) translate(-1.5%, -1%); }
+  0% { transform: scale(1.05) translate(0, 0); }
+  100% { transform: scale(1.22) translate(-2.5%, -1.8%); }
 }
 .kenburns {
-  animation: kenburns 26s ease-in-out infinite alternate;
+  animation: kenburns 16s ease-in-out infinite alternate;
   will-change: transform;
 }
 @media (prefers-reduced-motion: reduce) {
-  .kenburns {
+  html:not(.force-motion) .kenburns {
     animation: none;
     transform: scale(1.05);
   }

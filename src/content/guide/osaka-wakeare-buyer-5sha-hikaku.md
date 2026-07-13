@@ -4,7 +4,7 @@ description: "大阪の訳あり物件（相続アパート・再建築不可・
 publishDate: "2026-05-01"
 cluster: "wakeari"
 updatedDate: "2026-06-29"
-author: "八木宏樹（宅地建物取引士）"
+author: "八木宏樹（合同会社アルシェ代表）"
 heroImage: "/images/osaka-wakeare-buyer-5sha-hikaku-hero.jpg"
 faqs:
   - question: "大阪の訳あり物件の査定は無料ですか？営業されますか？"
@@ -391,9 +391,9 @@ A: 主な選択肢は、アルバリンク（東証グロース上場・全国�
   "@context": "https://schema.org",
   "@type": "Person",
   "name": "八木宏樹",
-  "jobTitle": "宅地建物取引士",
+  "jobTitle": "代表社員",
   "description": "合同会社アルシェ（空き家のミカタ）代表。宅地建物取引士として訳あり不動産の買取・相続不動産の売却相談に全国対応。",
-  "hasCredential": "宅地建物取引士／宅建業免許: 大阪府知事(1)第65646号",
+  "hasCredential": "宅建業免許: 大阪府知事(1)第65646号",
   "worksFor": {
     "@type": "RealEstateAgent",
     "name": "空き家のミカタ（合同会社アルシェ）",
@@ -411,6 +411,6 @@ A: 主な選択肢は、アルバリンク（東証グロース上場・全国�
 }
 </script>
 
-執筆・監修: 八木宏樹（宅地建物取引士／宅建業免許: 大阪府知事(1)第65646号）｜空き家のミカタ代表
+執筆・監修: 八木宏樹（合同会社アルシェ代表／宅建業免許: 大阪府知事(1)第65646号）｜空き家のミカタ代表
 
 <a href="/contact"><strong>お問い合わせフォームはこちら</strong></a>

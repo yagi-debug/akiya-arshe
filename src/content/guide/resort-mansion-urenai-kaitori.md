@@ -4,7 +4,7 @@ description: "リゾートマンションが売れない根本原因は管理費
 publishDate: "2026-07-04"
 updateDate: "2026-07-13"
 author: "八木 宏樹"
-authorTitle: "宅地建物取引士（大阪府知事(1)第65646号）"
+authorTitle: "宅地建物取引業者（大阪府知事(1)第65646号）"
 heroImage: "/images/resort-mansion-urenai-kaitori-hero.jpg"
 cluster: "inheritance"
 faqs:
@@ -368,4 +368,4 @@ A. エリア・管理状態・滞納の有無により大きく異なります�
 
 ---
 
-<small>執筆・監修: 八木 宏樹（宅地建物取引士・大阪府知事(1)第65646号） ／ 最終更新: 2026年7月13日</small>
+<small>執筆・監修: 八木 宏樹（合同会社アルシェ代表／宅建業免許: 大阪府知事(1)第65646号） ／ 最終更新: 2026年7月13日</small>

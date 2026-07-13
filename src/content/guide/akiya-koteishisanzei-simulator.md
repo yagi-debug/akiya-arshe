@@ -22,7 +22,7 @@ cluster: "akiya-tax"
 ---
 
 <div style="background:#e8f4f8;border-left:4px solid #1a56db;padding:0.85rem 1.25rem;margin-bottom:1.5rem;border-radius:4px;font-size:0.95rem;">
-<strong>TL;DR（要約）</strong>：空き家の年間維持コストは固定資産税だけでなく都市計画税・保険・修繕費を合計すると年100〜200万円になるケースがある。特定空家に指定されて勧告を受けると住宅用地の特例が解除され、土地の固定資産税が最大6倍に跳ね上がる。上のシミュレーターで現在の評価額を入力すれば、6倍化後の税額と5年・10年の累計コストを即時試算できる。執筆：八木宏樹（宅地建物取引士／宅建業免許: 大阪府知事(1)第65646号）
+<strong>TL;DR（要約）</strong>：空き家の年間維持コストは固定資産税だけでなく都市計画税・保険・修繕費を合計すると年100〜200万円になるケースがある。特定空家に指定されて勧告を受けると住宅用地の特例が解除され、土地の固定資産税が最大6倍に跳ね上がる。上のシミュレーターで現在の評価額を入力すれば、6倍化後の税額と5年・10年の累計コストを即時試算できる。執筆：八木宏樹（合同会社アルシェ代表／宅建業免許: 大阪府知事(1)第65646号）
 </div>
 
 <img src="/images/property-tax-options-calculator.jpg" alt="空き家の固定資産税を計算する電卓と税務書類　維持費シミュレーションのイメージ" width="1200" height="800" style="width:100%;height:auto;border-radius:8px;margin-bottom:1.5rem;" />
@@ -91,7 +91,7 @@ cluster: "akiya-tax"
   "author": {
     "@type": "Person",
     "name": "八木宏樹",
-    "jobTitle": "宅地建物取引士",
+    "jobTitle": "代表社員",
     "identifier": "大阪府知事(1)第65646号"
   }
 }

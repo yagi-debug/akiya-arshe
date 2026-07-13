@@ -4,7 +4,7 @@ description: "空き家が特定空き家に指定されると固定資産税が
 publishDate: "2026-04-21"
 updatedDate: "2026-05-24"
 author: "八木宏樹"
-authorTitle: "宅地建物取引士（宅建業免許: 大阪府知事(1)第65646号）"
+authorTitle: "宅地建物取引業者（大阪府知事(1)第65646号）"
 heroImage: "/images/old-japanese-house.jpg"
 faqs:
   - question: "空き家の固定資産税はいつから6倍になりますか？"
@@ -223,7 +223,7 @@ cluster: "akiya-tax"
 
 <a href="/contact">無料査定フォームはこちら</a>
 
-執筆・監修：八木宏樹（宅地建物取引士／宅建業免許: 大阪府知事(1)第65646号）
+執筆・監修：八木宏樹（合同会社アルシェ代表／宅建業免許: 大阪府知事(1)第65646号）
 
 ## 関連する記事
 

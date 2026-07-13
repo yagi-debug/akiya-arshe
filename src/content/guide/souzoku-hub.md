@@ -30,7 +30,7 @@ faqs:
   "author": {
     "@type": "Person",
     "name": "八木 宏樹",
-    "jobTitle": "宅地建物取引士",
+    "jobTitle": "代表社員",
     "description": "大阪府知事(1)第65646号",
     "worksFor": {
       "@type": "Organization",
@@ -325,4 +325,4 @@ faqs:
 - <a href="/area/osaka-higashinari">東成区（長屋密集地帯）</a>
 - <a href="/area/osaka-taisho">大正区（旧工業地帯・長屋多数）</a>
 
-*執筆・監修: 八木宏樹（宅地建物取引士／宅建業免許: 大阪府知事(1)第65646号）*
+*執筆・監修: 八木宏樹（合同会社アルシェ代表／宅建業免許: 大阪府知事(1)第65646号）*
