@@ -420,36 +420,48 @@ const homeWebPageSchema = {
         {[
           {
             href: "/guide/souzoku-hub",
+            img: "/images/site/cat-souzoku.webp",
+            imgAlt: "相続した実家の門構え",
             label: "相続不動産の売却",
             icon: "M3 12l9-8 9 8M5 10v10a1 1 0 001 1h4v-6h4v6h4a1 1 0 001-1V10",
             desc: "相続登記・遺産分割から売却完了まで。相続アパート・空き家・農地・共有不動産に対応。",
           },
           {
             href: "/guide/saikenchifu-hub",
+            img: "/images/site/cat-saikenchifu.webp",
+            imgAlt: "間口の狭い旗竿地の通路",
             label: "再建築不可物件",
             icon: "M18.364 18.364A9 9 0 005.636 5.636m12.728 12.728A9 9 0 015.636 5.636m12.728 12.728L5.636 5.636",
             desc: "接道義務違反でも現況のまま買取可能。旗竿地・狭小地・再建築不可の専門知識で解決。",
           },
           {
             href: "/guide/jiko-bukken-hub",
+            img: "/images/site/cat-jiko.webp",
+            imgAlt: "夕暮れの静かなアパートの外廊下",
             label: "事故物件・心理的瑕疵",
             icon: "M12 9v2m0 4h.01M5.07 19h13.86c1.54 0 2.5-1.67 1.73-3L13.73 4c-.77-1.33-2.69-1.33-3.46 0L3.34 16c-.77 1.33.19 3 1.73 3z",
             desc: "告知義務ありでも現況買取・全国対応。事件・孤独死・自殺物件の処分に実績あり。",
           },
           {
             href: "/guide/kyouyuu-mochibun-hub",
+            img: "/images/site/cat-kyouyuu.webp",
+            imgAlt: "相続書類と印鑑",
             label: "共有持分トラブル",
             icon: "M17 20h5v-2a3 3 0 00-5.356-1.857M17 20H7m10 0v-2c0-.656-.126-1.283-.356-1.857M7 20H2v-2a3 3 0 015.356-1.857M7 20v-2c0-.656.126-1.283.356-1.857m0 0a5.002 5.002 0 019.288 0M15 7a3 3 0 11-6 0 3 3 0 016 0zm6 3a2 2 0 11-4 0 2 2 0 014 0zM7 10a2 2 0 11-4 0 2 2 0 014 0z",
             desc: "他の共有者の同意不要で持分だけ売却。相続で共有者が多数・連絡取れない場合も対応。",
           },
           {
             href: "/guide/vacant-house",
+            img: "/images/site/cat-akiya-tax.webp",
+            imgAlt: "チラシが溜まった空き家の玄関",
             label: "空き家・固定資産税対策",
             icon: "M9 14l6-6m-5 .5h.01m4.99 5h.01M12 3l7.5 2.25v9.04c0 4.5-3.75 6.75-7.5 9.71-3.75-2.96-7.5-5.21-7.5-9.71V5.25L12 3z",
             desc: "空き家の固定資産税が6倍になる前に。特定空家指定・管理不全空家の回避策を解説。",
           },
           {
             href: "/guide/wakeari-osekkai-database",
+            img: "/images/site/cat-wakeari.webp",
+            imgAlt: "間取り図と虫眼鏡",
             label: "訳あり物件まるわかり",
             icon: "M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z",
             desc: "再建築不可・事故物件・共有持分など訳あり50問に宅建業者が本音で回答するQ&Aデータベース。",
@@ -457,13 +469,13 @@ const homeWebPageSchema = {
         ].map((item) => (
           <a
             href={item.href}
-            class="reveal card-lift group flex flex-col gap-3 rounded-3xl border border-border bg-bg p-6"
+            class="reveal card-lift group flex flex-col overflow-hidden rounded-3xl border border-border bg-bg"
           >
-            <span class="flex h-12 w-12 items-center justify-center rounded-2xl bg-accent-soft text-accent">
-              <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.8">
-                <path stroke-linecap="round" stroke-linejoin="round" d={item.icon} />
-              </svg>
+            <span class="block aspect-[16/9] overflow-hidden">
+              <img src={item.img} alt={item.imgAlt} width="1200" height="675" loading="lazy"
+                class="h-full w-full object-cover transition-transform duration-500 group-hover:scale-105" />
             </span>
+            <span class="flex flex-1 flex-col gap-2 p-5">
             <span class="flex items-center gap-1 font-black text-primary">
               {item.label}
               <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 text-accent transition-transform group-hover:translate-x-1" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2.5">
@@ -471,6 +483,7 @@ const homeWebPageSchema = {
               </svg>
             </span>
             <span class="text-sm leading-relaxed text-text-light">{item.desc}</span>
+            </span>
           </a>
         ))}
       </div>

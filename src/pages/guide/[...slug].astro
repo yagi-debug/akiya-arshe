@@ -89,18 +89,39 @@ const relatedGuides = (() => {
     .slice(0, 3);
 })();
 
+// アイキャッチ: 記事内の最初の画像 → なければカテゴリ別写真（全記事に画像を保証）
+const CLUSTER_IMG: Record<string, string> = {
+  'inheritance':      '/images/site/cat-souzoku.webp',
+  'non-rebuildable':  '/images/site/cat-saikenchifu.webp',
+  'shared-ownership': '/images/site/cat-kyouyuu.webp',
+  'akiya-tax':        '/images/site/cat-akiya-tax.webp',
+  'accident':         '/images/site/cat-jiko.webp',
+  'wakeari':          '/images/site/cat-wakeari.webp',
+};
+const TOPIC_IMG: Record<string, string> = {
+  '事故物件': '/images/site/cat-jiko.webp',
+  '再建築不可': '/images/site/cat-saikenchifu.webp',
+  '共有持分': '/images/site/cat-kyouyuu.webp',
+  '相続アパート': '/images/site/cat-souzoku.webp',
+  '空き家・固定資産税': '/images/site/cat-akiya-tax.webp',
+  '相続': '/images/site/cat-souzoku.webp',
+  '底地・借地権': '/images/site/cat-wakeari.webp',
+};
+const inlineImgMatch = entry.body?.match(/<img[^>]+src="(\/images\/[^"]+)"/) || entry.body?.match(/!\[[^\]]*\]\((\/images\/[^)]+)\)/);
+const inlineImg = inlineImgMatch ? inlineImgMatch[1] : null;
+const categoryImg = (currentCluster && CLUSTER_IMG[currentCluster]) || (currentTopic && TOPIC_IMG[currentTopic]) || '/images/site/cat-wakeari.webp';
+// 表示用: 記事内に画像がない記事だけ冒頭にカテゴリ写真を出す（重複回避）
+const showEyecatch = !inlineImg;
+// OGP/schema用: 記事内画像があればそれ、なければカテゴリ写真
+const socialImg = inlineImg || categoryImg;
+
 const articleSchema = {
   "@context": "https://schema.org",
   "@type": "Article",
   "@id": `https://akiya.arshe-corp.com/guide/${entry.id}/#article`,
   "headline": entry.data.title,
   "description": entry.data.description,
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://akiya.arshe-corp.com/images/ogp-default.jpg",
-    "width": 1200,
-    "height": 630,
-  },
+  "image": `https://akiya.arshe-corp.com${inlineImg || categoryImg}`,
   "author": {
     "@type": "Person",
     "@id": "https://akiya.arshe-corp.com/about/hiroki#person",
@@ -171,6 +192,7 @@ const howToSchema = entry.data.howToSteps && entry.data.howToSteps.length > 0 ? 
 } : null;
 
 const displayDate = entry.data.updatedDate || entry.data.publishDate;
+
 ---
 
 <BaseLayout
@@ -181,6 +203,7 @@ const displayDate = entry.data.updatedDate || entry.data.publishDate;
   howToSchema={howToSchema}
   breadcrumbs={breadcrumbs}
   ogType="article"
+  ogImage={socialImg}
 >
   <article class="mx-auto max-w-3xl px-4 py-8 md:py-12">
     <!-- 記事ヘッダー -->
@@ -200,6 +223,13 @@ const displayDate = entry.data.updatedDate || entry.data.publishDate;
         </span>
       </div>
     </header>
+
+    {showEyecatch && (
+      <div class="mb-8 overflow-hidden rounded-2xl">
+        <img src={categoryImg} alt="" width="1200" height="675" fetchpriority="high"
+          class="h-44 w-full object-cover md:h-64" />
+      </div>
+    )}
 
     <!-- 記事本文 -->
     <div class="prose prose-lg max-w-none
