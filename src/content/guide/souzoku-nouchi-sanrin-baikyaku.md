@@ -205,7 +205,7 @@ faqs:
 - <a href="/guide/inheritance-abandon">相続放棄したら家はどうなる？手続きの流れと注意点</a>
 - <a href="/guide/souzoku-houki-kigengire">相続放棄の期限（3ヶ月）を過ぎた場合の対処法</a>
 - <a href="/guide/akiya-kaitori">空き家の買取｜放置している空き家を現金化する方法</a>
-- <a href="/guide/vakancy-tax-6times">空き家の固定資産税が6倍に？特定空き家の条件と回避する方法</a>
+- <a href="/guide/akiya-koteishisanzei-6bai-hikaku">空き家の固定資産税が6倍に？特定空き家の条件と回避する方法</a>
 
 ## 農地・山林の処分に迷ったら、まずご相談ください
 

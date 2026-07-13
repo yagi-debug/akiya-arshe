@@ -83,9 +83,9 @@ A. はい。共有持分の整理・相続人全員への説明など、手続�
 
 ## 関連する記事
 
-- <a href="/guide/old-apartment-sale">老朽アパートの売却方法｜一棟丸ごと買取で解決した事例</a>
+- <a href="/guide/inherited-apartment-buyout">老朽アパートの売却方法｜一棟丸ごと買取で解決した事例</a>
 - <a href="/guide/inheritance-sale">相続した不動産を売却する完全ガイド</a>
-- <a href="/guide/rebuilding-impossible-sale">再建築不可物件の売却方法</a>
+- <a href="/guide/saikenchifu-kaitori">再建築不可物件の売却方法</a>
 
 ## 他の西成区・周辺エリアの相場を見る
 

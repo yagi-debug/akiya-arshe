@@ -159,8 +159,8 @@ A: はい、対応可能です。相続登記が未了のまま放置されて�
 ## 関連する記事
 
 - <a href="/guide/inheritance-sale">相続した不動産を売却する完全ガイド</a>
-- <a href="/guide/rebuilding-impossible">再建築不可物件の買取ガイド</a>
-- <a href="/guide/shared-ownership">共有持分の買取ガイド</a>
+- <a href="/guide/saikenchifu-kaitori">再建築不可物件の買取ガイド</a>
+- <a href="/guide/kyouyuu-mochibun-kaitori">共有持分の買取ガイド</a>
 - <a href="/guide/vacancy-tax-6times">空き家の固定資産税が6倍になる条件と回避方法</a>
 - <a href="/area/osaka-suminoe-kitagagaya">北加賀屋エリアの不動産買取詳細</a>
 

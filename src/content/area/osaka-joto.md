@@ -221,8 +221,8 @@ A. 京橋駅周辺は城東区内で最も地価が高く、土地の公示地�
 ## 関連する記事
 
 - <a href="/guide/inheritance-sale">相続した不動産を売却する完全ガイド</a>
-- <a href="/guide/rebuilding-impossible">再建築不可物件の買取ガイド</a>
-- <a href="/guide/shared-ownership">共有持分の買取ガイド</a>
+- <a href="/guide/saikenchifu-kaitori">再建築不可物件の買取ガイド</a>
+- <a href="/guide/kyouyuu-mochibun-kaitori">共有持分の買取ガイド</a>
 - <a href="/guide/selling-process">はじめての不動産売却ガイド</a>
 - <a href="/guide/vacancy-tax-6times">空き家の固定資産税が6倍になる条件と回避方法</a>
 

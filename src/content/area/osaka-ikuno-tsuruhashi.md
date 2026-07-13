@@ -78,8 +78,8 @@ A. はい。入居者がいる状態でも買取対応可能です。適切な�
 ## 関連する記事
 
 - <a href="/guide/inheritance-sale">相続した不動産を売却する完全ガイド</a>
-- <a href="/guide/rebuilding-impossible-sale">再建築不可物件の売却方法</a>
-- <a href="/guide/shared-equity-sale">共有持分の売却方法｜揉めている場合も解決策あり</a>
+- <a href="/guide/saikenchifu-kaitori">再建築不可物件の売却方法</a>
+- <a href="/guide/kyouyuu-mochibun-kaitori">共有持分の売却方法｜揉めている場合も解決策あり</a>
 
 ## 他の生野区・周辺エリアの相場を見る
 

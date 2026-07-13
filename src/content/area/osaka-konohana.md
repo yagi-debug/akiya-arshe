@@ -162,7 +162,7 @@ A. はい、全国対応しています。LINE・メールでのご相談から�
 
 ## 関連する記事
 
-- <a href="/guide/rebuilding-impossible">再建築不可物件の買取ガイド</a>
+- <a href="/guide/saikenchifu-kaitori">再建築不可物件の買取ガイド</a>
 - <a href="/guide/inheritance-sale">相続した不動産を売却する完全ガイド</a>
 - <a href="/guide/vacant-house">空き家の買取・処分方法ガイド</a>
 

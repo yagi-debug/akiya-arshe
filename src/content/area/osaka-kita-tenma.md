@@ -148,8 +148,8 @@ A: 接道条件・建物状況によって異なります。再建築不可物�
 ## 関連する記事
 
 - <a href="/guide/inheritance-sale">相続した不動産を売却する完全ガイド</a>
-- <a href="/guide/no-rebuild-permitted">再建築不可物件の売却方法</a>
-- <a href="/guide/shared-ownership">共有持分の不動産を売却する方法</a>
+- <a href="/guide/saikenchifu-kaitori">再建築不可物件の売却方法</a>
+- <a href="/guide/kyouyuu-mochibun-kaitori">共有持分の不動産を売却する方法</a>
 - <a href="/guide/vacancy-tax-6times">空き家の固定資産税が6倍になる条件と回避方法</a>
 
 ## 他の北区・周辺エリアの相場を見る

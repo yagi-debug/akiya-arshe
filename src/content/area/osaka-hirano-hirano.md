@@ -83,7 +83,7 @@ A. 原則として全員の同意が必要ですが、共有持分のみを買�
 ## 関連する記事
 
 - <a href="/guide/inheritance-sale">相続した不動産を売却する完全ガイド</a>
-- <a href="/guide/akiya-trouble">空き家を放置するリスクと早期売却のメリット</a>
+- <a href="/guide/akiya-kaitori">空き家を放置するリスクと早期売却のメリット</a>
 - <a href="/guide/selling-process">はじめての不動産売却ガイド</a>
 
 ## 他の平野区・周辺エリアの相場を見る

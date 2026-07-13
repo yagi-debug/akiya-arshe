@@ -4,7 +4,6 @@ description: "相続した不動産を処分する方法は①不動産仲介②
 publishDate: "2026-06-20"
 author: "八木宏樹"
 authorTitle: "宅地建物取引士／宅建業免許: 大阪府知事(1)第65646号"
-heroImage: "/images/souzoku-fudosan-shobun-5-pattern-hero.jpg"
 cluster: "inheritance"
 schema:
   type: "Dataset"
@@ -23,7 +22,6 @@ faqs:
     answer: "相続不動産を売却して利益（譲渡所得）が出た場合、翌年の確定申告が必要です。取得費は「相続人が実際に支払った費用」ではなく「被相続人の取得費」を引き継ぎます。取得費が不明な場合は売却価格の5%を取得費とみなします（概算取得費）。相続税を支払った場合は「相続税の取得費加算の特例」を使えば（相続税申告期限から3年以内の売却）、支払った相続税の一部を取得費に加算できます。"
 ---
 
-<img src="/images/souzoku-fudosan-shobun-5-pattern-hero.jpg" alt="相続不動産の書類と家のミニチュア　5つの処分方法を比較" width="1200" height="800" style="width:100%;height:auto;border-radius:8px;margin-bottom:1.5rem;" />
 
 <div style="background:#e8f4fd;border-left:4px solid #2196f3;padding:1rem 1.5rem;margin-bottom:1.5rem;border-radius:4px;">
 <strong>この記事のポイント（TL;DR）：</strong>

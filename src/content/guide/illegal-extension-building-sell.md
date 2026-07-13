@@ -163,7 +163,7 @@ A: 売却できます。仲介では住宅ローンが通りにくく買い手�
 - 告知義務は買取でも必須。知っている事実はすべて正直に伝える
 - 是正命令が届いている場合は早めに動くことが大切
 
-まずは現況をそのままお伝えください。[再建築不可物件の売却方法](/guide/rebuilding-impossible)や[建築基準法違反物件の売却ガイド](/guide/kenchiku-kijunho-ihan-bukken-baikyaku)も合わせてご参照いただけます。
+まずは現況をそのままお伝えください。[再建築不可物件の売却方法](/guide/saikenchifu-kaitori)や[建築基準法違反物件の売却ガイド](/guide/kenchiku-kijunho-ihan-bukken-baikyaku)も合わせてご参照いただけます。
 
 ---
 

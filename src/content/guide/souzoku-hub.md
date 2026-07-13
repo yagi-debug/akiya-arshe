@@ -4,7 +4,6 @@ description: "相続した不動産の処分方法・売却手順・相続登記
 publishDate: "2026-05-28"
 author: "空き家のミカタ編集部"
 authorTitle: "宅地建物取引業者（大阪府知事(1)第65646号）"
-heroImage: "/images/souzoku-hub-hero.jpg"
 cluster: "inheritance"
 faqs:
   - question: "相続した不動産を処分するには何から始めればいいですか？"
@@ -47,8 +46,7 @@ faqs:
   "mainEntityOfPage": {
     "@type": "WebPage",
     "@id": "https://akiya.arshe-corp.com/guide/souzoku-hub"
-  },
-  "image": "https://akiya.arshe-corp.com/images/souzoku-hub-hero.jpg"
+  }
 }
 </script>
 
@@ -121,7 +119,6 @@ faqs:
 }
 </script>
 
-<img src="/images/souzoku-hub-hero.jpg" alt="相続した不動産の登記書類と査定書。処分方法を検討するシーン" width="1200" height="800" style="width:100%;height:auto;border-radius:8px;margin-bottom:1.5rem;" />
 
 **相続した不動産の処分に迷っているすべての方へ。**このページは「相続不動産」に関する当サイトの全ガイド記事をカテゴリ別に整理したハブページです。相続の基本手順・物件タイプ別の処分方法・体験談事例・相続登記・固定資産税対策など、必要な情報にまっすぐたどり着けるよう設計しています。
 

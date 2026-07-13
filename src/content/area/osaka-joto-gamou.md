@@ -90,7 +90,7 @@ A: 管理費・修繕積立金の滞納がある場合でも、滞納分の処�
 ## 関連する記事
 
 - <a href="/guide/inheritance-sale">相続した不動産を売却する完全ガイド</a>
-- <a href="/guide/rebuilding-impossible">再建築不可物件の買取・売却方法</a>
+- <a href="/guide/saikenchifu-kaitori">再建築不可物件の買取・売却方法</a>
 - <a href="/guide/vacancy-tax-6times">空き家の固定資産税が6倍になる条件と回避方法</a>
 
 ## 他の城東区・周辺エリアの相場を見る

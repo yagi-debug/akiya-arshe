@@ -301,7 +301,7 @@ faqs:
 
 ## 関連するガイド記事
 
-- <a href="/guide/wakeari-bukken-kaitori">訳あり不動産の買取とは？手続きの流れと仲介との違い</a>
+- <a href="/guide/lp-wakeari-bukken-kaitori">訳あり不動産の買取とは？手続きの流れと仲介との違い</a>
 - <a href="/guide/akiya-shobun-5-hikaku">空き家処分の5大選択肢を徹底比較【2026年版】費用・期間・手残り額</a>
 - <a href="/guide/kaitori-gyosha-erabikata-checkpoints">訳あり買取業者の選び方｜失敗しない7つのチェックポイント</a>
 - <a href="/guide/shigaika-chosei-fudosan-baikyaku">市街化調整区域の不動産は売れる？仲介で断られても買取で現金化できる理由</a>

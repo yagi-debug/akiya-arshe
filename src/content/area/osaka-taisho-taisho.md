@@ -80,7 +80,7 @@ A. はい、もちろん伺います。大正橋・船町橋周辺の渋滞状�
 
 - <a href="/guide/non-rebuildable-property-sale">再建築不可物件を売却する方法</a>
 - <a href="/guide/inheritance-sale">相続した不動産を売却する完全ガイド</a>
-- <a href="/guide/shared-equity-sale">共有持分の売却方法｜揉めている場合も解決策あり</a>
+- <a href="/guide/kyouyuu-mochibun-kaitori">共有持分の売却方法｜揉めている場合も解決策あり</a>
 
 ## 他の大正区・周辺エリアの相場を見る
 

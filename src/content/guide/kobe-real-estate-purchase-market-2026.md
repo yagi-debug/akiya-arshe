@@ -174,8 +174,8 @@ A. 早期対応をおすすめします。特定空き家に指定されると�
 - <a href="/area/hyogo-pref">兵庫県の不動産買取相場</a>
 - <a href="/guide/akiya-kaitori">空き家買取ガイド｜固定資産税6倍リスクを避ける方法</a>
 - <a href="/guide/inheritance-sale">相続した不動産を売却する完全ガイド</a>
-- <a href="/guide/rebuilding-prohibited">再建築不可物件の売却方法と注意点</a>
-- <a href="/guide/shared-ownership-sale">共有持分の売却ガイド</a>
+- <a href="/guide/saikenchifu-kaitori">再建築不可物件の売却方法と注意点</a>
+- <a href="/guide/kyouyuu-mochibun-kaitori">共有持分の売却ガイド</a>
 
 ---
 

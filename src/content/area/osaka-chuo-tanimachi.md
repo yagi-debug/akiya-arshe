@@ -126,8 +126,8 @@ A: 共有名義の場合、原則として共有者全員の合意が必要で�
 
 - <a href="/guide/inheritance-sale">相続した不動産を売却する完全ガイド</a>
 - <a href="/guide/non-rebuildable-property-sale">再建築不可物件の売却方法</a>
-- <a href="/guide/manshon-kanrihi-taiino">管理費・修繕積立金が滞納されたマンションの売却</a>
-- <a href="/guide/shared-ownership">共有持分・共有名義不動産の売却方法</a>
+- <a href="/guide/kanrihi-tainou-mansion-kaitori">管理費・修繕積立金が滞納されたマンションの売却</a>
+- <a href="/guide/kyouyuu-mochibun-kaitori">共有持分・共有名義不動産の売却方法</a>
 - <a href="/guide/vacancy-tax-6times">空き家の固定資産税が6倍になる条件と回避方法</a>
 - <a href="/guide/souzoku-hub">相続不動産 完全ハブ｜処分・売却・登記・固定資産税まで全ガイドをまとめて確認</a>
 

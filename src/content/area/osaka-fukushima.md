@@ -171,7 +171,7 @@ A. 福島駅・新福島駅周辺は梅田に最も近く、マンションの�
 
 ## 関連する記事
 
-- <a href="/guide/tower-mansion-sale">タワーマンション売却で知っておくべきポイント</a>
+- <a href="/guide/souzoku-mansion-baikyaku">タワーマンション売却で知っておくべきポイント</a>
 - <a href="/guide/selling-process">はじめての不動産売却ガイド</a>
 - <a href="/guide/inheritance-sale">相続した不動産を売却する完全ガイド</a>
 

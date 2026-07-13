@@ -88,9 +88,9 @@ A. はい、残置物があっても買取できます。片付けや清掃は�
 
 ## 関連する記事
 
-- <a href="/guide/rebuilding-impossible-sale">再建築不可物件の売却方法｜直接買取で解決した4事例</a>
+- <a href="/guide/saikenchifu-kaitori">再建築不可物件の売却方法｜直接買取で解決した4事例</a>
 - <a href="/guide/inheritance-sale">相続した不動産を売却する完全ガイド</a>
-- <a href="/guide/nagaya-sale">長屋の売却で困ったら｜共有持分・接道問題の解決策</a>
+- <a href="/guide/rentoushi-nagaya-baikyaku">長屋の売却で困ったら｜共有持分・接道問題の解決策</a>
 
 ## 他の西成区・周辺エリアの相場を見る
 

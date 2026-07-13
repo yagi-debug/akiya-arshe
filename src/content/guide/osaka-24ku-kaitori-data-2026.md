@@ -166,7 +166,7 @@ faqs:
 - [大阪市24区の訳あり物件買取相場マップ【2026年版】](/guide/osaka-24ku-wakeari-kakakutai-map)
 - [大阪市の訳あり不動産買取（エリア詳細）](/area/osaka-city)
 - [再建築不可物件の売却方法と相場](/guide/non-rebuildable-property-sale)
-- [共有持分を売却する方法と注意点](/guide/kyoyu-mochibun-sale)
+- [共有持分を売却する方法と注意点](/guide/kyouyuu-mochibun-kaitori)
 - [大阪市の相続アパート買取相場2026](/guide/osaka-souzoku-apart-kaitori-soba-2026)
 
 ---

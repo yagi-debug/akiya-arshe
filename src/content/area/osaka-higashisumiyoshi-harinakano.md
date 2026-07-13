@@ -109,16 +109,16 @@ A: 解体費用を負担せずに現況のままでの売却が可能です。�
 A: 相続登記未了でも買取相談は可能です。当社提携の司法書士と連携して、登記手続きと売却手続きを並行して進められます。2024年4月から相続登記が義務化（相続から3年以内）されていますので、早めのご対応をおすすめします。
 
 <strong>Q: 兄弟と共有名義になっています。自分の持分だけ売れますか？</strong>
-A: 共有持分のみの買取も対応しています。全員の同意が得られない場合でも、持分のみを現金化することが可能です。詳しくは<a href="/guide/shared-ownership">共有持分・共有名義不動産の売却方法</a>をご参照ください。
+A: 共有持分のみの買取も対応しています。全員の同意が得られない場合でも、持分のみを現金化することが可能です。詳しくは<a href="/guide/kyouyuu-mochibun-kaitori">共有持分・共有名義不動産の売却方法</a>をご参照ください。
 
 ---
 
 ## 関連する記事
 
 - <a href="/guide/inheritance-sale">相続した不動産を売却する完全ガイド</a>
-- <a href="/guide/no-rebuild-permitted">再建築不可物件の売却方法</a>
+- <a href="/guide/saikenchifu-kaitori">再建築不可物件の売却方法</a>
 - <a href="/guide/vacancy-tax-6times">空き家の固定資産税が6倍になる条件と回避方法</a>
-- <a href="/guide/shared-ownership">共有持分・共有名義不動産の売却方法</a>
+- <a href="/guide/kyouyuu-mochibun-kaitori">共有持分・共有名義不動産の売却方法</a>
 - <a href="/guide/souzoku-hub">相続不動産 完全ハブ｜処分・売却・登記・固定資産税まで全ガイドをまとめて確認</a>
 - <a href="/guide/saikenchifu-hub">再建築不可 完全ハブ｜買取・接道・建替えできない物件の処分ガイドまとめ</a>
 

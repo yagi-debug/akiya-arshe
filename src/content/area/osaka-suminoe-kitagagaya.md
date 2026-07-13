@@ -123,8 +123,8 @@ A: はい。空き家のミカタ（宅地建物取引士／宅建業免許: 大
 ## 関連する記事
 
 - <a href="/area/osaka-suminoe">住之江区の不動産売却相場</a>
-- <a href="/guide/koujou-ato-baikyaku">工場跡地・旧工業地の売却ガイド</a>
-- <a href="/guide/saiken-chiku-baikyaku">再建築不可物件の売却完全ガイド</a>
+- <a href="/guide/dojo-osen-souzoku-baikyaku">工場跡地・旧工業地の売却ガイド</a>
+- <a href="/guide/saikenchifu-kaitori">再建築不可物件の売却完全ガイド</a>
 - <a href="/guide/inheritance-sale">相続した不動産を売却する完全ガイド</a>
 
 ## 他のエリアの相場を見る

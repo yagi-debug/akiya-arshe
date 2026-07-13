@@ -80,7 +80,7 @@ const homeWebPageSchema = {
         ))}
       </div>
 
-      <h1 class="mb-5 text-3xl font-black leading-snug text-primary md:text-5xl md:leading-snug">
+      <h1 class="serif mb-5 text-[1.72rem] leading-snug text-primary sm:text-3xl md:text-[3.4rem] md:leading-[1.35]">
         どこにも断られた物件も、<br />
         そのまま<span class="marker">現金買取</span>。
       </h1>
@@ -132,8 +132,8 @@ const homeWebPageSchema = {
   <section class="bg-white px-4 py-16 md:py-24">
     <div class="mx-auto max-w-3xl">
       <div class="reveal mb-10 text-center">
-        <p class="kicker mb-2">Free AI Appraisal</p>
-        <h2 class="mb-3 text-2xl font-black text-primary md:text-4xl">
+        <p class="label-line mb-3">かんたん査定</p>
+        <h2 class="serif mb-3 text-2xl text-primary md:text-4xl">
           あなたの物件、<span class="marker">60秒</span>で査定
         </h2>
         <p class="text-sm text-text-light md:text-base">3項目を入力するだけで概算価格を即時表示。個人情報不要・完全無料。</p>
@@ -148,30 +148,54 @@ const homeWebPageSchema = {
   <section class="px-4 py-16 md:py-24">
     <div class="mx-auto max-w-3xl">
       <div class="reveal mb-10 text-center">
-        <p class="kicker mb-2">Worries</p>
-        <h2 class="text-2xl font-black text-primary md:text-4xl">
+        <p class="label-line mb-3">よくあるご相談</p>
+        <h2 class="serif text-2xl text-primary md:text-4xl">
           こんなお悩み、<br class="md:hidden" />ありませんか？
         </h2>
       </div>
       <ul class="space-y-3">
         {[
-          { emoji: "🚧", text: "再建築不可と言われて、どこにも売れない" },
-          { emoji: "😔", text: "事故物件を相続したが、どう処分すればいいかわからない" },
-          { emoji: "🤝", text: "共有持分の不動産、他の共有者と話がまとまらない" },
-          { emoji: "🏢", text: "相続したアパートの管理が限界、早く手放したい" },
-          { emoji: "🏚️", text: "空き家を放置しているが、固定資産税が6倍になると聞いて不安" },
+          { icon: "M18.364 18.364A9 9 0 005.636 5.636m12.728 12.728A9 9 0 015.636 5.636m12.728 12.728L5.636 5.636", text: "再建築不可と言われて、どこにも売れない" },
+          { icon: "M12 9v2m0 4h.01M5.07 19h13.86c1.54 0 2.5-1.67 1.73-3L13.73 4c-.77-1.33-2.69-1.33-3.46 0L3.34 16c-.77 1.33.19 3 1.73 3z", text: "事故物件を相続したが、どう処分すればいいかわからない" },
+          { icon: "M17 20h5v-2a3 3 0 00-5.356-1.857M17 20H7m10 0v-2c0-.656-.126-1.283-.356-1.857M7 20H2v-2a3 3 0 015.356-1.857M7 20v-2c0-.656.126-1.283.356-1.857m0 0a5.002 5.002 0 019.288 0M15 7a3 3 0 11-6 0 3 3 0 016 0zm6 3a2 2 0 11-4 0 2 2 0 014 0zM7 10a2 2 0 11-4 0 2 2 0 014 0z", text: "共有持分の不動産、他の共有者と話がまとまらない" },
+          { icon: "M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m14 0h2m-2 0h-5m-9 0H3m2 0h5M9 7h1m-1 4h1m4-4h1m-1 4h1m-5 10v-5a1 1 0 011-1h2a1 1 0 011 1v5m-4 0h4", text: "相続したアパートの管理が限界、早く手放したい" },
+          { icon: "M12 8v4m0 4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z", text: "空き家を放置しているが、固定資産税が6倍になると聞いて不安" },
         ].map((item) => (
           <li class="reveal flex items-center gap-4 rounded-2xl border border-border bg-white px-5 py-4 shadow-[var(--shadow-soft)]">
-            <span class="flex h-11 w-11 shrink-0 items-center justify-center rounded-full bg-accent-soft text-xl">{item.emoji}</span>
+            <span class="flex h-11 w-11 shrink-0 items-center justify-center rounded-full bg-accent-soft text-accent">
+              <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.8">
+                <path stroke-linecap="round" stroke-linejoin="round" d={item.icon} />
+              </svg>
+            </span>
             <span class="text-sm font-medium leading-relaxed md:text-base">{item.text}</span>
           </li>
         ))}
       </ul>
-      <div class="reveal mt-8 rounded-2xl bg-primary px-6 py-5 text-center text-white shadow-[var(--shadow-soft)]">
-        <p class="text-sm font-bold md:text-base">
-          こうしたお悩みは、すべて<span class="marker-light">「直接買取」</span>で解決できます。
-        </p>
-      </div>
+    </div>
+  </section>
+
+  <!-- 転換バンド（破調・フルブリード） -->
+  <section class="relative overflow-hidden bg-primary-dark py-20 text-white md:py-28">
+    <div class="blob left-[-140px] bottom-[-120px] h-96 w-96 bg-accent/15"></div>
+    <p class="tategaki absolute right-6 top-10 hidden opacity-70 md:block" aria-hidden="true">相談無料・秘密厳守</p>
+    <div class="relative mx-auto max-w-4xl px-4 text-center">
+      <p class="serif reveal mb-6 text-3xl leading-relaxed text-white md:text-5xl md:leading-relaxed">
+        あきらめる前に、<br />
+        <span class="text-accent-light">空き家のミカタ</span>。
+      </p>
+      <p class="reveal mx-auto mb-8 max-w-xl text-sm leading-relaxed text-white/70 md:text-base">
+        こうしたお悩みは、すべて「直接買取」で解決できます。<br class="hidden md:block" />
+        売るかどうか決まっていなくても、状況の整理からお手伝いします。
+      </p>
+      <a
+        href={LINE_URL}
+        target="_blank"
+        rel="noopener noreferrer"
+        class="reveal inline-flex items-center justify-center gap-2 rounded-full bg-[#06C755] px-9 py-4 text-lg font-bold text-white shadow-lg transition-all hover:-translate-y-0.5 hover:bg-[#05b64d] hover:shadow-xl"
+      >
+        <LineIcon class="h-6 w-6" />
+        LINEで無料相談する
+      </a>
     </div>
   </section>
 
@@ -179,8 +203,8 @@ const homeWebPageSchema = {
   <section class="bg-white px-4 py-16 md:py-24">
     <div class="mx-auto max-w-5xl">
       <div class="reveal mb-12 text-center">
-        <p class="kicker mb-2">Reasons</p>
-        <h2 class="text-2xl font-black text-primary md:text-4xl">選ばれる3つの理由</h2>
+        <p class="label-line mb-3">私たちの強み</p>
+        <h2 class="serif text-2xl text-primary md:text-4xl">選ばれる3つの理由</h2>
       </div>
       <div class="grid gap-5 md:grid-cols-3">
         {[
@@ -219,8 +243,8 @@ const homeWebPageSchema = {
   <section class="px-4 py-16 md:py-24">
     <div class="mx-auto max-w-3xl">
       <div class="reveal mb-12 text-center">
-        <p class="kicker mb-2">Flow</p>
-        <h2 class="text-2xl font-black text-primary md:text-4xl">買取の流れ</h2>
+        <p class="label-line mb-3">ご相談から決済まで</p>
+        <h2 class="serif text-2xl text-primary md:text-4xl">買取の流れ</h2>
         <p class="mt-3 text-sm text-text-light md:text-base">ご相談から最短3日。すべて無料で進められます。</p>
       </div>
       <div class="relative space-y-5 before:absolute before:bottom-8 before:left-[27px] before:top-8 before:w-0.5 before:bg-border md:before:left-[31px]">
@@ -265,12 +289,74 @@ const homeWebPageSchema = {
     </div>
   </section>
 
+  <!-- 参考事例セクション（証拠・信頼） -->
+  <section class="bg-white px-4 py-16 md:py-24">
+    <div class="mx-auto max-w-5xl">
+      <div class="reveal mb-12 text-center">
+        <p class="label-line mb-3">解決までの道すじ</p>
+        <h2 class="serif text-2xl text-primary md:text-4xl">参考事例</h2>
+        <p class="mt-3 text-sm text-text-light">実際によくあるご相談をもとに構成した参考例です</p>
+      </div>
+      <div class="grid gap-5 md:grid-cols-3">
+        {[
+          {
+            tag: "空き家",
+            title: "3年放置した実家に、隣地から苦情が",
+            desc: "相続後そのままになっていた空き家。隣地からの苦情をきっかけにご相談いただき、現況のまま・残置物ごと買取で解決。",
+            href: "/guide/souzoku-jirei-01-akiya-3nen",
+          },
+          {
+            tag: "相続アパート",
+            title: "空室だらけの築古アパートを相続",
+            desc: "入居者と空室が混在する築38年のアパート。オーナーチェンジのまま直接買取し、立ち退き交渉は不要のまま引き渡し。",
+            href: "/guide/souzoku-jirei-03-apart-souzoku-kaitori",
+          },
+          {
+            tag: "再建築不可",
+            title: "間口2m未満、仲介に断られた戸建て",
+            desc: "建て替えできず買い手がつかない再建築不可の戸建て。現況のまま買取価格をご提示し、スムーズに手放せた事例。",
+            href: "/guide/souzoku-jirei-04-saikenchifu-kaitori",
+          },
+        ].map((item) => (
+          <a href={item.href} class="reveal card-lift group flex flex-col rounded-3xl border border-border bg-bg p-6">
+            <span class="mb-3 inline-block w-fit rounded-full bg-primary px-3 py-1 text-xs font-bold text-white">{item.tag}</span>
+            <h3 class="serif mb-2 text-lg leading-snug text-primary">{item.title}</h3>
+            <p class="mb-4 flex-1 text-sm leading-relaxed text-text-light">{item.desc}</p>
+            <span class="flex items-center gap-1 text-sm font-bold text-accent">
+              詳しく読む
+              <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 transition-transform group-hover:translate-x-1" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2.5">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7" />
+              </svg>
+            </span>
+          </a>
+        ))}
+      </div>
+      <p class="reveal mt-4 text-center text-xs text-text-light">
+        ※ 事例はプライバシー保護等の観点から、地域・金額・状況等を特定できないよう変更した参考例です。
+      </p>
+
+      <!-- 監修者（人の顔・信頼） -->
+      <a href="/about/hiroki" class="reveal card-lift mx-auto mt-10 flex max-w-2xl items-start gap-5 rounded-3xl border border-border bg-bg p-6 md:p-7">
+        <div class="flex h-16 w-16 shrink-0 items-center justify-center rounded-full bg-primary text-2xl font-bold text-white">八</div>
+        <div>
+          <p class="mb-1 text-xs font-bold tracking-widest text-accent">サイト運営・監修</p>
+          <p class="serif text-lg text-primary">八木 宏樹</p>
+          <p class="mb-2 text-xs text-text-light">宅地建物取引士 / 合同会社アルシェ 代表社員（宅建業免許: 大阪府知事(1)第65646号）</p>
+          <p class="text-sm leading-relaxed text-text">
+            「売れないと言われた物件でも、あきらめないでください。どこにも断られた物件ほど、私に相談してほしい。」
+          </p>
+          <p class="mt-2 text-xs font-bold text-accent">プロフィールを見る →</p>
+        </div>
+      </a>
+    </div>
+  </section>
+
   <!-- ピラーページ種類別ガイドセクション -->
   <section class="bg-white px-4 py-16 md:py-24">
     <div class="mx-auto max-w-5xl">
       <div class="reveal mb-12 text-center">
-        <p class="kicker mb-2">Guide</p>
-        <h2 class="mb-3 text-2xl font-black text-primary md:text-4xl">訳あり不動産の種類別ガイド</h2>
+        <p class="label-line mb-3">物件タイプ別</p>
+        <h2 class="serif mb-3 text-2xl text-primary md:text-4xl">訳あり不動産の売却ガイド</h2>
         <p class="text-sm text-text-light md:text-base">お悩みの物件タイプから詳しい解説をご覧ください</p>
       </div>
       <div class="grid gap-4 sm:grid-cols-2 md:grid-cols-3">
@@ -278,37 +364,37 @@ const homeWebPageSchema = {
           {
             href: "/guide/souzoku-hub",
             label: "相続不動産の売却",
-            emoji: "🏠",
+            icon: "M3 12l9-8 9 8M5 10v10a1 1 0 001 1h4v-6h4v6h4a1 1 0 001-1V10",
             desc: "相続登記・遺産分割から売却完了まで。相続アパート・空き家・農地・共有不動産に対応。",
           },
           {
             href: "/guide/saikenchifu-hub",
             label: "再建築不可物件",
-            emoji: "🚧",
+            icon: "M18.364 18.364A9 9 0 005.636 5.636m12.728 12.728A9 9 0 015.636 5.636m12.728 12.728L5.636 5.636",
             desc: "接道義務違反でも現況のまま買取可能。旗竿地・狭小地・再建築不可の専門知識で解決。",
           },
           {
             href: "/guide/jiko-bukken-hub",
             label: "事故物件・心理的瑕疵",
-            emoji: "⚠️",
+            icon: "M12 9v2m0 4h.01M5.07 19h13.86c1.54 0 2.5-1.67 1.73-3L13.73 4c-.77-1.33-2.69-1.33-3.46 0L3.34 16c-.77 1.33.19 3 1.73 3z",
             desc: "告知義務ありでも現況買取・全国対応。事件・孤独死・自殺物件の処分に実績あり。",
           },
           {
             href: "/guide/kyouyuu-mochibun-hub",
             label: "共有持分トラブル",
-            emoji: "🤝",
+            icon: "M17 20h5v-2a3 3 0 00-5.356-1.857M17 20H7m10 0v-2c0-.656-.126-1.283-.356-1.857M7 20H2v-2a3 3 0 015.356-1.857M7 20v-2c0-.656.126-1.283.356-1.857m0 0a5.002 5.002 0 019.288 0M15 7a3 3 0 11-6 0 3 3 0 016 0zm6 3a2 2 0 11-4 0 2 2 0 014 0zM7 10a2 2 0 11-4 0 2 2 0 014 0z",
             desc: "他の共有者の同意不要で持分だけ売却。相続で共有者が多数・連絡取れない場合も対応。",
           },
           {
             href: "/guide/vacant-house",
             label: "空き家・固定資産税対策",
-            emoji: "🏚️",
+            icon: "M9 14l6-6m-5 .5h.01m4.99 5h.01M12 3l7.5 2.25v9.04c0 4.5-3.75 6.75-7.5 9.71-3.75-2.96-7.5-5.21-7.5-9.71V5.25L12 3z",
             desc: "空き家の固定資産税が6倍になる前に。特定空家指定・管理不全空家の回避策を解説。",
           },
           {
             href: "/guide/wakeari-osekkai-database",
             label: "訳あり物件まるわかり",
-            emoji: "📋",
+            icon: "M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z",
             desc: "再建築不可・事故物件・共有持分など訳あり50問に宅建業者が本音で回答するQ&Aデータベース。",
           },
         ].map((item) => (
@@ -316,7 +402,11 @@ const homeWebPageSchema = {
             href={item.href}
             class="reveal card-lift group flex flex-col gap-3 rounded-3xl border border-border bg-bg p-6"
           >
-            <span class="flex h-12 w-12 items-center justify-center rounded-2xl bg-accent-soft text-2xl">{item.emoji}</span>
+            <span class="flex h-12 w-12 items-center justify-center rounded-2xl bg-accent-soft text-accent">
+              <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.8">
+                <path stroke-linecap="round" stroke-linejoin="round" d={item.icon} />
+              </svg>
+            </span>
             <span class="flex items-center gap-1 font-black text-primary">
               {item.label}
               <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 text-accent transition-transform group-hover:translate-x-1" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2.5">
@@ -334,8 +424,8 @@ const homeWebPageSchema = {
   <section class="px-4 py-16 md:py-24">
     <div class="mx-auto max-w-3xl">
       <div class="reveal mb-10 text-center">
-        <p class="kicker mb-2">FAQ</p>
-        <h2 class="text-2xl font-black text-primary md:text-4xl">よくある質問</h2>
+        <p class="label-line mb-3">ご不安にお答えします</p>
+        <h2 class="serif text-2xl text-primary md:text-4xl">よくある質問</h2>
       </div>
       <div class="reveal">
         <FAQ items={faqItems} />

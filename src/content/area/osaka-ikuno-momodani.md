@@ -79,8 +79,8 @@ A. 桃谷2丁目周辺の住宅地は坪単価66〜73万円（公示地価ベー
 ## 関連する記事
 
 - <a href="/guide/inheritance-sale">相続した不動産を売却する完全ガイド</a>
-- <a href="/guide/rebuilding-impossible-sale">再建築不可物件の売却方法</a>
-- <a href="/guide/shared-equity-sale">共有持分の売却方法｜揉めている場合も解決策あり</a>
+- <a href="/guide/saikenchifu-kaitori">再建築不可物件の売却方法</a>
+- <a href="/guide/kyouyuu-mochibun-kaitori">共有持分の売却方法｜揉めている場合も解決策あり</a>
 - <a href="/guide/souzoku-hub">相続不動産 完全ハブ｜処分・売却・登記・固定資産税まで全ガイドをまとめて確認</a>
 
 ## 他の生野区・周辺エリアの相場を見る

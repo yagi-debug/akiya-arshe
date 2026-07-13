@@ -100,9 +100,9 @@ A: 必ずしも解体が有利とは限りません。解体費用（木造150�
 ## 関連する記事
 
 - <a href="/guide/inheritance-sale">相続した不動産を売却する完全ガイド</a>
-- <a href="/guide/no-rebuild-permitted">再建築不可物件の売却方法</a>
+- <a href="/guide/saikenchifu-kaitori">再建築不可物件の売却方法</a>
 - <a href="/guide/vacancy-tax-6times">空き家の固定資産税が6倍になる条件と回避方法</a>
-- <a href="/guide/shared-ownership">共有持分・共有名義不動産の売却方法</a>
+- <a href="/guide/kyouyuu-mochibun-kaitori">共有持分・共有名義不動産の売却方法</a>
 
 - <a href="/guide/souzoku-hub">相続不動産 完全ハブ｜処分・売却・登記・固定資産税まで全ガイドをまとめて確認</a>
 - <a href="/guide/saikenchifu-hub">再建築不可 完全ハブ｜買取・接道・建替えできない物件の処分ガイドまとめ</a>

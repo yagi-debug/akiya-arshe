@@ -322,7 +322,7 @@ faqs:
 ## 関連するガイド記事
 
 - <a href="/guide/doshasaigai-keikaikuiki-baikyaku">土砂災害警戒区域の不動産を売りたい｜告知義務・建築制限・現況買取の方法</a>
-- <a href="/guide/wakeari-bukken-kaitori">訳あり不動産の買取とは？手続きの流れと仲介との違い</a>
+- <a href="/guide/lp-wakeari-bukken-kaitori">訳あり不動産の買取とは？手続きの流れと仲介との違い</a>
 - <a href="/guide/akiya-tsuyu-risk-baikyaku">梅雨に空き家を放置するリスク｜シロアリ・カビ・雨漏りが資産価値を下げる前に</a>
 - <a href="/guide/akiya-shobun-5-hikaku">空き家処分の5大選択肢を徹底比較【2026年版】費用・期間・手残り額</a>
 - <a href="/guide/kaitori-gyosha-erabikata-checkpoints">訳あり買取業者の選び方｜失敗しない7つのチェックポイント</a>

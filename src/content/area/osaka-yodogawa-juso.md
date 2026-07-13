@@ -110,9 +110,9 @@ A: オンライン査定・郵送手続き・電子署名に対応していま�
 ## 関連する記事
 
 - <a href="/guide/inheritance-sale">相続した不動産を売却する完全ガイド</a>
-- <a href="/guide/rebuilding-impossible">再建築不可物件の買取・売却方法</a>
-- <a href="/guide/shared-ownership">共有持分の買取ガイド</a>
-- <a href="/guide/accident-property">事故物件の買取・売却方法</a>
+- <a href="/guide/saikenchifu-kaitori">再建築不可物件の買取・売却方法</a>
+- <a href="/guide/kyouyuu-mochibun-kaitori">共有持分の買取ガイド</a>
+- <a href="/guide/accident-property-sale">事故物件の買取・売却方法</a>
 - <a href="/guide/vacancy-tax-6times">空き家の固定資産税が6倍になる条件と回避方法</a>
 
 ## 他の淀川区・周辺エリアの相場を見る
