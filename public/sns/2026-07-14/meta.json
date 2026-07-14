@@ -1,0 +1,32 @@
+{
+  "date": "2026-07-14",
+  "slug": "ig-2026-07-14-reel_knowledge",
+  "title": "「固定資産税６倍」ってどうなったら？",
+  "type": "reel_knowledge",
+  "files": [
+    "reel_2026-07-14.mp4"
+  ],
+  "checks": {
+    "caption_forbidden_words": [],
+    "cta_ok": true,
+    "fallback_used": false,
+    "file_count_ok": true,
+    "dimensions_ok": true,
+    "audio_ok": true,
+    "video_ok": true,
+    "duration_ok": true,
+    "voicevox_credit_ok": true,
+    "probe": {
+      "width": 1080,
+      "height": 1920,
+      "video_codec": "h264",
+      "audio_codec": "aac",
+      "duration": 35.284
+    },
+    "plan_structure_source": "gemini"
+  },
+  "fallback_used": false,
+  "fallback_notes": [],
+  "source_plan": "/Users/aibot/arshe/1_Projects/realestate-seller/content/CONTENT-PLAN-2026-07.md",
+  "generated_config": "/Users/aibot/arshe/1_Projects/realestate-seller/scripts/instagram/configs/generated/2026-07-14.json"
+}
