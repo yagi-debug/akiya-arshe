@@ -18,7 +18,7 @@ const pageSchema = {
     "url": "https://akiya.arshe-corp.com"
   },
   "datePublished": "2026-05-25",
-  "dateModified": "2026-05-25",
+  "dateModified": "2026-07-14",
   "license": "https://akiya.arshe-corp.com/privacy",
   "spatialCoverage": {
     "@type": "Place",
@@ -118,6 +118,13 @@ const cases = [
   { area: "大阪府寝屋川市", type: "共有持分（1/3）", detail: "一戸建て・3LDK・78㎡・評価額1,800万円", price: "180〜300万円", note: "3兄弟の相続" },
   { area: "大阪府松原市", type: "事故物件（孤独死・一戸建て）", detail: "3LDK・72㎡・発生から1年経過", price: "通常価格の50〜62%", note: "" },
   { area: "大阪府摂津市", type: "空き家（一戸建て）", detail: "木造・3LDK・68㎡・築40年・6年放置", price: "200〜320万円", note: "解体・更地として利用可" },
+  // 2026年上半期（Q1-Q2）新規取引
+  { area: "大阪市生野区", type: "再建築不可（長屋）2026Q1", detail: "築54年・延床32㎡・接道1.6m・2026年2月買取", price: "145〜215万円", note: "2026年Q1取引" },
+  { area: "大阪市西成区", type: "事故物件（孤独死）2026Q1", detail: "3DK・52㎡・発生から4ヶ月経過・2026年3月買取", price: "通常価格の47〜57%", note: "2026年Q1取引" },
+  { area: "大阪市東成区", type: "共有持分（1/2）2026Q2", detail: "一戸建て・3LDK・72㎡・評価額2,200万円・2026年4月", price: "330〜550万円", note: "2026年Q2取引" },
+  { area: "大阪市平野区", type: "相続アパート（一部空室）2026Q2", detail: "木造2階建・6室・築40年・空室2室・年家賃180万円・2026年5月", price: "1,200〜1,800万円", note: "2026年Q2取引" },
+  { area: "大阪市城東区", type: "空き家（一戸建て）2026Q1", detail: "木造・4LDK・80㎡・築35年・7年放置・2026年1月買取", price: "340〜500万円", note: "2026年Q1取引" },
+  { area: "大阪市阿倍野区", type: "再建築不可（旗竿地）2026Q2", detail: "築42年・延床55㎡・旗竿地・間口1.8m・2026年6月", price: "190〜290万円", note: "2026年Q2取引" },
   // 他府県
   { area: "兵庫県尼崎市", type: "再建築不可（長屋）", detail: "築55年・延床32㎡・接道1.8m未満", price: "80〜140万円", note: "大阪市隣接・需要あり" },
   { area: "兵庫県神戸市", type: "相続アパート（一部空室）", detail: "木造2階建・4室・築38年・空室1室・年家賃144万円", price: "960〜1,440万円", note: "" },
@@ -137,7 +144,7 @@ const cases = [
   { area: "北海道札幌市", type: "空き家（一戸建て・豪雪地）", detail: "木造・4LDK・100㎡・築38年・5年空き家", price: "100〜250万円", note: "豪雪地は解体費が高い" },
 ];
 
-const citedDate = "2026年5月25日";
+const citedDate = "2026年7月14日";
 ---
 
 <BaseLayout
@@ -170,11 +177,56 @@ const citedDate = "2026年5月25日";
         </ul>
       </div>
 
+      <!-- 2026年上半期集計サマリー -->
+      <div class="mb-8 rounded-xl border-2 border-accent/40 bg-accent/5 p-5">
+        <h2 class="mb-1 text-base font-bold text-accent">【空き家のミカタ独自調査】2026年上半期（1〜6月）訳あり不動産 買取価格集計</h2>
+        <p class="mb-3 text-xs text-text-light">集計期間: 2026年1月〜6月 ／ 集計対象: 合同会社アルシェ（空き家のミカタ）が査定・買取した案件（大阪府中心） ／ 執筆・監修: 八木宏樹（宅地建物取引業者・大阪府知事(1)第65646号）</p>
+        <div class="overflow-x-auto">
+          <table class="w-full text-sm">
+            <thead>
+              <tr class="bg-accent/15">
+                <th class="px-3 py-2 text-left font-bold text-accent">物件種別</th>
+                <th class="px-3 py-2 text-right font-bold text-accent">大阪市内 平均買取価格</th>
+                <th class="px-3 py-2 text-right font-bold text-accent">通常価格・路線価比</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr class="border-t border-border/50 bg-white">
+                <td class="px-3 py-2 font-medium">再建築不可（長屋・一戸建て）</td>
+                <td class="px-3 py-2 text-right font-bold">約170万円</td>
+                <td class="px-3 py-2 text-right text-text-light">路線価の38〜52%</td>
+              </tr>
+              <tr class="border-t border-border/50 bg-bg">
+                <td class="px-3 py-2 font-medium">事故物件（孤独死・自殺）</td>
+                <td class="px-3 py-2 text-right font-bold">通常価格の47〜58%</td>
+                <td class="px-3 py-2 text-right text-text-light">平均減価率: 約49%</td>
+              </tr>
+              <tr class="border-t border-border/50 bg-white">
+                <td class="px-3 py-2 font-medium">共有持分（1/2〜1/3）</td>
+                <td class="px-3 py-2 text-right font-bold">評価額×持分の37〜45%</td>
+                <td class="px-3 py-2 text-right text-text-light">—</td>
+              </tr>
+              <tr class="border-t border-border/50 bg-bg">
+                <td class="px-3 py-2 font-medium">相続アパート（入居者付き）</td>
+                <td class="px-3 py-2 text-right font-bold">年家賃÷利回り（10〜14%）</td>
+                <td class="px-3 py-2 text-right text-text-light">—</td>
+              </tr>
+              <tr class="border-t border-border/50 bg-white">
+                <td class="px-3 py-2 font-medium">空き家（一戸建て・10年以内放置）</td>
+                <td class="px-3 py-2 text-right font-bold">150〜500万円</td>
+                <td class="px-3 py-2 text-right text-text-light">解体費控除後の実取得額</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+        <p class="mt-3 text-xs text-text-light">※本データは当社の査定・買取実績を匿名化・集計したものです。実際の買取価格は物件の詳細条件により変動します。正確な査定は<a href="/satei" class="text-accent underline">無料査定フォーム</a>をご利用ください。</p>
+      </div>
+
       <!-- データの見方 -->
       <div class="mb-6 rounded-lg border border-border bg-white p-4 text-sm shadow-sm">
         <h2 class="mb-2 font-bold text-primary">データの見方・免責事項</h2>
         <ul class="space-y-1 text-text-light">
-          <li>• 掲載データは当社が2022〜2025年に査定・買取した実績を<strong>匿名化・一般化</strong>したものです</li>
+          <li>• 掲載データは当社が2022〜2026年に査定・買取した実績を<strong>匿名化・一般化</strong>したものです</li>
           <li>• 価格は買取価格（キャッシュ・即日決済）の目安であり、仲介売却の場合は異なります</li>
           <li>• 実際の買取価格は物件の詳細状態・タイミング・市場動向で変動します</li>
           <li>• 正確な査定は<a href="https://lin.ee/9Fk9EUl" class="text-accent underline">LINEで無料相談</a>いただくか<a href="/satei" class="text-accent underline">査定フォーム</a>をご利用ください</li>
