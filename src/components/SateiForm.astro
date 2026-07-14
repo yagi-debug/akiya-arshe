@@ -36,7 +36,7 @@ const { id = "satei" } = Astro.props;
     <!-- Step 1: 物件タイプ -->
     <div class="satei-step-panel" data-panel="1" style="display:block">
       <div class="px-6 py-6">
-        <h3 class="mb-5 text-lg font-bold text-primary">物件タイプを選んでください</h3>
+        <h2 class="mb-5 text-lg font-bold text-primary">物件タイプを選んでください</h2>
         <div class="grid grid-cols-1 gap-3 sm:grid-cols-3">
           {[
             { value: "land", label: "土地", img: "/images/site/type-land.webp", alt: "更地の土地", desc: "更地・空き地" },
@@ -65,7 +65,7 @@ const { id = "satei" } = Astro.props;
     <!-- Step 2: エリア -->
     <div class="satei-step-panel" data-panel="2" style="display:none">
       <div class="px-6 py-6">
-        <h3 class="mb-5 text-lg font-bold text-primary">物件のエリアを選んでください</h3>
+        <h2 class="mb-5 text-lg font-bold text-primary">物件のエリアを選んでください</h2>
         <div class="space-y-4">
           <div>
             <label class="mb-1 block text-sm font-bold text-text">都道府県</label>
@@ -93,7 +93,7 @@ const { id = "satei" } = Astro.props;
     <!-- Step 3: 面積 -->
     <div class="satei-step-panel" data-panel="3" style="display:none">
       <div class="px-6 py-6">
-        <h3 class="mb-5 text-lg font-bold text-primary">土地面積を入力してください</h3>
+        <h2 class="mb-5 text-lg font-bold text-primary">土地面積を入力してください</h2>
         <div class="space-y-3">
           <div class="flex items-end gap-3">
             <div class="flex-1">
