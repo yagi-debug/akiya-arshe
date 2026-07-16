@@ -1,0 +1,34 @@
+{
+  "date": "2026-07-16",
+  "slug": "ig-2026-07-16-reel_story",
+  "title": "ゴミ屋敷のままで売れた話",
+  "type": "reel_story",
+  "theme": "実家じまい・罪悪感",
+  "files": [
+    "reel_2026-07-16.mp4"
+  ],
+  "checks": {
+    "caption_forbidden_words": [],
+    "cta_ok": true,
+    "fallback_used": false,
+    "file_count_ok": true,
+    "dimensions_ok": true,
+    "audio_ok": true,
+    "video_ok": true,
+    "duration_ok": true,
+    "voicevox_credit_ok": true,
+    "probe": {
+      "width": 1080,
+      "height": 1920,
+      "video_codec": "h264",
+      "audio_codec": "aac",
+      "duration": 30.256
+    },
+    "plan_structure_source": "gemini",
+    "plan_rollover_fallback": false
+  },
+  "fallback_used": false,
+  "fallback_notes": [],
+  "source_plan": "/Users/aibot/arshe/1_Projects/realestate-seller/content/CONTENT-PLAN-2026-07.md",
+  "generated_config": "/Users/aibot/arshe/1_Projects/realestate-seller/scripts/instagram/configs/generated/2026-07-16.json"
+}
