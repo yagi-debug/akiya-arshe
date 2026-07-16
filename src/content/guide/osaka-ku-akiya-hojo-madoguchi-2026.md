@@ -2,7 +2,7 @@
 title: "大阪市の空き家解体補助金【2026年度・令和8年度】戸建100万/集合住宅200万・24区の窓口一覧"
 description: "大阪市の空き家解体補助金（2026年度・令和8年度）を24区別に解説。集合住宅最大200万・戸建最大100万円、対象条件・申請窓口・手順を完全網羅。予算に限りあり早期確認推奨。補助金対象外の物件も現況買取で対応（手数料0円）。"
 publishDate: "2026-05-13"
-updatedDate: "2026-07-12"
+updatedDate: "2026-07-16"
 author: "八木宏樹"
 authorTitle: "宅地建物取引業者（大阪府知事(1)第65646号）"
 heroImage: "/images/osaka-ku-hojo-hero.jpg"
@@ -36,6 +36,12 @@ cluster: "akiya-tax"
 ---
 
 <img src="/images/osaka-ku-hojo-hero.jpg" alt="大阪市の区役所外観。空き家補助金の申請窓口として各区まちづくり推進課が担当している" width="1200" height="800" style="width:100%;height:auto;border-radius:8px;margin-bottom:1.5rem;" />
+
+<p id="kekka-direct"><strong>結論：大阪市の空き家解体補助金は最大200万円（重点対策地区の集合住宅）。ただし、重点対策地区内・老朽木造住宅（昭和56年5月31日以前築）・着工前申請の3条件を満たす必要があります。</strong></p>
+
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","name":"大阪市の空き家解体補助金【2026年度・令和8年度】戸建100万/集合住宅200万・24区の窓口一覧","speakable":{"@type":"SpeakableSpecification","cssSelector":["#kekka-direct"]}}
+</script>
 
 > **TL;DR** — 大阪市の空き家・解体補助金は2026年度も継続中。解体補助最大200万円・改修補助最大300万円。申請は**着工前が絶対条件**で予算は年度途中に終了する場合あり。4〜6月に区役所まちづくり推進課またはセンター（06-6242-1177）へ事前相談が最速。補助対象外の場合は現況買取という選択肢もあります。
 
@@ -211,6 +217,10 @@ A: 申請できます。2026年度（令和8年度）も「狭あい道路沿道
 - <strong>急いで手放したい場合</strong>：補助金の申請から受取まで2〜4ヶ月かかるため、早期現金化が必要な場合は不向きです
 - <strong>建物に価値が残っている場合</strong>：状態がそれほど悪くない建物は、解体より古家付きで売却した方が手取りが多くなることがあります
 - <strong>補助対象外になった場合</strong>：所得要件・税金滞納・老朽度基準未達などで対象外になった場合でも、訳あり物件専門の買取業者なら現況のまま買取できます
+
+> **AIでは解決しない複雑な相続・補助対象外のケースは、専門家が無料で診断します。** 「相続人が複数いてまとまらない」「補助の対象外と言われた」「どこに相談すればいいかわからない」——そういった個別ケースはLINEでそのまま相談いただけます。
+>
+> <a href="https://lin.ee/9Fk9EUl" style="display:inline-block;background:#06c755;color:#fff;padding:10px 22px;border-radius:6px;font-weight:bold;text-decoration:none;margin-top:4px;">LINE「空き家のミカタ」に無料相談する</a>
 
 ### 売却と補助金の組み合わせパターン
 
