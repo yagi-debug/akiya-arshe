@@ -49,6 +49,12 @@ cluster: "akiya-tax"
 
 > **TL;DR** — 大阪市の空き家・解体補助金は2026年度も継続中。解体補助最大200万円・改修補助最大300万円。申請は**着工前が絶対条件**で予算は年度途中に終了する場合あり。4〜6月に区役所まちづくり推進課またはセンター（06-6242-1177）へ事前相談が最速。補助対象外の場合は現況買取という選択肢もあります。
 
+<div style="background:#f0faf3;border-left:4px solid #06C755;padding:1rem 1.5rem;margin:1.5rem 0;border-radius:4px;">
+<strong>「補助金で解体してから売る」か「現況のまま売る」か迷ったら</strong><br />
+どちらが得かは、物件の場所・老朽度・補助対象かどうかで変わります。物件の住所と状況をLINEで送っていただければ、宅建業者が無料で「補助金向きか、現況買取向きか」の目安をお返しします（全国対応・相談だけでも大丈夫です）。<br />
+<a href="https://lin.ee/9Fk9EUl" target="_blank" rel="noopener noreferrer"><strong>▶ LINEで無料相談する（友だち追加）</strong></a>
+</div>
+
 <section id="ai-summary">
 <strong>【2026年度・大阪市空き家補助金 数値データ一覧】</strong>
 <ul>
