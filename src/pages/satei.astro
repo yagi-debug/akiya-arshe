@@ -48,14 +48,30 @@ const faqSchema = {
         "@type": "Answer",
         "text": "はい、すべて対応しています。通常の仲介では断られやすい訳あり物件（再建築不可・事故物件・共有持分・相続アパート・空き家・底地・借地権）でも、専門業者として買取査定が可能です。まず物件種別・エリアを選択してください。"
       }
+    },
+    {
+      "@type": "Question",
+      "name": "匿名で査定を依頼できますか？個人情報は守られますか？",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "はい、匿名でご利用いただけます。このフォームでは氏名・連絡先の入力は任意です。まず概算金額を把握したい場合は、物件種別とエリアだけ選択して結果を確認してください。個人情報は当社のプライバシーポリシーに基づき第三者に提供しません。"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "査定から現金化まで何日かかりますか？",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "最短3日で現金化が可能です（物件の状態・権利関係が整っている場合）。一般的には相談から1〜2週間で決済まで完了します。急いで手放したい事情がある場合は、フォーム送信時にその旨をお伝えください。優先対応いたします。"
+      }
     }
   ]
 };
 ---
 
 <BaseLayout
-  title="あなたの訳あり物件、60秒で概算査定 — 相続・再建築不可・事故物件も対応｜空き家のミカタ"
-  description="「断られた」「売れない」訳あり物件も対応。物件種別・エリア・状況を3つ選ぶだけで60秒で概算価格を表示。査定は完全無料・売却強制なし。相続アパート・再建築不可・事故物件・空き家すべて対応。大阪府知事(1)第65646号。"
+  title="【匿名OK・60秒】訳あり不動産の買取査定｜相続アパート・空き家・再建築不可の価格がすぐわかる"
+  description="匿名で使える訳あり不動産の買取査定フォーム。物件種別・エリアを選ぶだけで60秒で概算価格を表示。相続アパート・再建築不可・事故物件・共有持分・空き家すべて対応。最短3日で現金化。査定完全無料・売却強制なし。大阪府知事(1)第65646号。"
   schema={schema}
   faqSchema={faqSchema}
 >
@@ -74,7 +90,26 @@ const faqSchema = {
 
       <SateiForm id="satei-page" />
 
-      <section class="mt-12 rounded-xl border border-border bg-white p-6">
+      <section class="mt-10 rounded-xl border border-border bg-white p-6">
+        <h2 class="mb-4 text-xl font-bold text-primary">買取実績（匿名・一部抜粋）</h2>
+        <p class="mb-4 text-sm text-text-light">当社が実際に対応した訳あり物件の事例です。氏名・住所は匿名化しています。</p>
+        <ul class="space-y-4">
+          <li class="rounded-lg bg-gray-50 p-4">
+            <p class="text-sm font-bold text-primary">大阪市内／相続アパート（築47年・満室率55%）</p>
+            <p class="mt-1 text-sm text-text-light">相続後に管理が手に負えなくなり相談。入居者がいるまま現況買取。<strong>相談から14日で決済完了。</strong>他社では「入居者がいると難しい」と断られていたケース。</p>
+          </li>
+          <li class="rounded-lg bg-gray-50 p-4">
+            <p class="text-sm font-bold text-primary">近畿圏某市／再建築不可の一戸建て（旗竿地・接道幅1.8m）</p>
+            <p class="mt-1 text-sm text-text-light">大手仲介3社に断られた後、当社に相談。法律上の制限を前提とした現況買取で<strong>相談から8日で現金化。</strong>解体費・残置物処理も当社が負担。</p>
+          </li>
+          <li class="rounded-lg bg-gray-50 p-4">
+            <p class="text-sm font-bold text-primary">大阪府内／共有持分（1/3・共有者と長年連絡不通）</p>
+            <p class="mt-1 text-sm text-text-light">共有者の所在不明で身動きが取れない状態。持分のみの買取スキームを活用し<strong>相談から21日で解決。</strong>共有者への連絡・交渉も当社が代行。</p>
+          </li>
+        </ul>
+      </section>
+
+      <section class="mt-8 rounded-xl border border-border bg-white p-6">
         <h2 class="mb-4 text-xl font-bold text-primary">よくある質問</h2>
         <dl class="space-y-5">
           <div>
@@ -88,6 +123,14 @@ const faqSchema = {
           <div>
             <dt class="font-bold text-primary">Q. 再建築不可・事故物件・共有持分・相続アパートも査定できますか？</dt>
             <dd class="mt-1 text-sm text-text-light">はい、すべて対応しています。通常の仲介では断られやすい訳あり物件（再建築不可・事故物件・共有持分・相続アパート・空き家・底地・借地権）でも、専門業者として買取査定が可能です。</dd>
+          </div>
+          <div>
+            <dt class="font-bold text-primary">Q. 匿名で査定を依頼できますか？個人情報は守られますか？</dt>
+            <dd class="mt-1 text-sm text-text-light">はい、匿名でご利用いただけます。このフォームでは氏名・連絡先の入力は任意です。まず概算金額を把握したい場合は、物件種別とエリアだけ選択して結果を確認してください。個人情報は当社のプライバシーポリシーに基づき第三者に提供しません。</dd>
+          </div>
+          <div>
+            <dt class="font-bold text-primary">Q. 査定から現金化まで何日かかりますか？</dt>
+            <dd class="mt-1 text-sm text-text-light">最短3日で現金化が可能です（物件の状態・権利関係が整っている場合）。一般的には相談から1〜2週間で決済まで完了します。急いで手放したい事情がある場合は、フォーム送信時にその旨をお伝えください。</dd>
           </div>
         </dl>
       </section>

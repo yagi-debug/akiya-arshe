@@ -1,6 +1,6 @@
 ---
 title: "訳あり物件の買取業者を比較｜4タイプ別の特徴と5つのチェックポイント【2026年版】"
-description: "訳あり不動産の買取業者を4タイプ（大手仲介・訳あり専門買取・地域密着・投資家直接）で徹底比較。対応スピード・買取価格帯・手数料・得意物件種別を一覧表で解説。アルバリンク・イエコン・訳あり物件買取プロの実名比較と業者選びの5つのチェックポイントを宅建業者が解説します。"
+description: "訳あり不動産の買取業者を4タイプ（大手仲介・訳あり専門買取・地域密着・投資家直接）で徹底比較。最短3日で現金化できる業者タイプがひと目でわかる比較表付き。対応スピード・買取価格帯・手数料・得意物件種別を解説。アルバリンク・イエコン実名比較と業者選び5チェックポイントを宅建業者が解説。無料査定受付中。"
 publishDate: "2026-05-09"
 author: "宅建業者"
 heroImage: "/images/wakeare-kaitori-gyosha-4type-hero.jpg"
@@ -109,6 +109,7 @@ cluster: "accident"
 <tr style="background:#f0f4f8;">
 <th style="padding:10px 12px;border:1px solid #ccc;text-align:left;min-width:110px;">業者タイプ</th>
 <th style="padding:10px 12px;border:1px solid #ccc;text-align:center;min-width:110px;">対応スピード</th>
+<th style="padding:10px 12px;border:1px solid #ccc;text-align:center;min-width:90px;">最短3日で<br>現金化</th>
 <th style="padding:10px 12px;border:1px solid #ccc;text-align:center;min-width:120px;">買取価格帯<br>（相場比）</th>
 <th style="padding:10px 12px;border:1px solid #ccc;text-align:center;min-width:100px;">仲介手数料</th>
 <th style="padding:10px 12px;border:1px solid #ccc;text-align:left;min-width:160px;">得意な物件種別</th>
@@ -118,6 +119,7 @@ cluster: "accident"
 <tr>
 <td style="padding:10px 12px;border:1px solid #ccc;font-weight:bold;">①大手仲介</td>
 <td style="padding:10px 12px;border:1px solid #ccc;text-align:center;">3ヶ月〜1年以上</td>
+<td style="padding:10px 12px;border:1px solid #ccc;text-align:center;color:#cc0000;font-weight:bold;">✕</td>
 <td style="padding:10px 12px;border:1px solid #ccc;text-align:center;">80〜90%<br>（売却できれば）</td>
 <td style="padding:10px 12px;border:1px solid #ccc;text-align:center;">あり<br>（売買価格×3%+6万円等）</td>
 <td style="padding:10px 12px;border:1px solid #ccc;">一般的な中古住宅・マンション・土地</td>
@@ -125,13 +127,15 @@ cluster: "accident"
 <tr style="background:#fafafa;">
 <td style="padding:10px 12px;border:1px solid #ccc;font-weight:bold;">②訳あり専門買取<br>（アルバリンク等）</td>
 <td style="padding:10px 12px;border:1px solid #ccc;text-align:center;"><strong>最短3日〜2週間</strong></td>
+<td style="padding:10px 12px;border:1px solid #ccc;text-align:center;color:#16a34a;font-weight:bold;">✔ 対応</td>
 <td style="padding:10px 12px;border:1px solid #ccc;text-align:center;">50〜75%</td>
 <td style="padding:10px 12px;border:1px solid #ccc;text-align:center;"><strong>なし</strong><br>（直接買取）</td>
 <td style="padding:10px 12px;border:1px solid #ccc;">再建築不可・事故物件・共有持分・相続アパート・空き家（全国対応）</td>
 </tr>
 <tr>
 <td style="padding:10px 12px;border:1px solid #ccc;font-weight:bold;">③地域密着型<br>（空き家のミカタ等）</td>
-<td style="padding:10px 12px;border:1px solid #ccc;text-align:center;">1〜3週間</td>
+<td style="padding:10px 12px;border:1px solid #ccc;text-align:center;">最短3日〜3週間</td>
+<td style="padding:10px 12px;border:1px solid #ccc;text-align:center;color:#16a34a;font-weight:bold;">✔ 対応</td>
 <td style="padding:10px 12px;border:1px solid #ccc;text-align:center;">55〜80%<br>（エリアによる）</td>
 <td style="padding:10px 12px;border:1px solid #ccc;text-align:center;"><strong>なし</strong><br>（直接買取）</td>
 <td style="padding:10px 12px;border:1px solid #ccc;">対応エリア内の訳あり全般・複合案件・相続サポートが必要なケース</td>
@@ -139,6 +143,7 @@ cluster: "accident"
 <tr style="background:#fafafa;">
 <td style="padding:10px 12px;border:1px solid #ccc;font-weight:bold;">④不動産投資家<br>直接売却</td>
 <td style="padding:10px 12px;border:1px solid #ccc;text-align:center;">数ヶ月〜（見つかれば）</td>
+<td style="padding:10px 12px;border:1px solid #ccc;text-align:center;color:#cc0000;font-weight:bold;">✕</td>
 <td style="padding:10px 12px;border:1px solid #ccc;text-align:center;">交渉次第</td>
 <td style="padding:10px 12px;border:1px solid #ccc;text-align:center;">仲介業者を使えばあり</td>
 <td style="padding:10px 12px;border:1px solid #ccc;">収益物件・再建築不可・古家付き土地（投資家ニーズによる）</td>
