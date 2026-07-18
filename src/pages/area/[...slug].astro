@@ -24,11 +24,19 @@ const formatPriceRange = (price) => {
   return Math.round(price / 10000) + "万円" + SLASH + "m\u00B2\u301C";
 };
 
-const breadcrumbs = [
-  { name: 'ホーム', url: '/' },
-  { name: 'エリア相場', url: '/area' },
-  { name: entry.data.areaName, url: `/area/${entry.id}/` },
-];
+const isOsakaWard = entry.data.prefecture === '大阪府' && entry.data.areaName.endsWith('区');
+
+const breadcrumbs = isOsakaWard
+  ? [
+      { name: 'ホーム', url: '/' },
+      { name: '大阪市の訳あり物件買取', url: '/osaka' },
+      { name: `大阪市${entry.data.areaName}`, url: `/area/${entry.id}/` },
+    ]
+  : [
+      { name: 'ホーム', url: '/' },
+      { name: 'エリア相場', url: '/area' },
+      { name: entry.data.areaName, url: `/area/${entry.id}/` },
+    ];
 
 const placeSchema = {
   "@type": "Place",
@@ -188,7 +196,22 @@ const articleSchema = {
         "@type": "SpeakableSpecification",
         "cssSelector": ["h1", "h2", "blockquote", "table", ".speakable-highlight"],
       },
+      ...(isOsakaWard ? {
+        "isPartOf": {
+          "@type": "WebPage",
+          "@id": "https://akiya.arshe-corp.com/osaka/",
+          "name": "大阪市の訳あり物件買取｜24区エリアから探す",
+        },
+      } : {}),
     },
+    ...(isOsakaWard ? [{
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://akiya.arshe-corp.com/" },
+        { "@type": "ListItem", "position": 2, "name": "大阪市の訳あり物件買取", "item": "https://akiya.arshe-corp.com/osaka/" },
+        { "@type": "ListItem", "position": 3, "name": `大阪市${entry.data.areaName}`, "item": `https://akiya.arshe-corp.com/area/${entry.id}/` },
+      ],
+    }] : []),
     realEstateListingSchema,
     placeSchema,
     localBusinessSchema,
@@ -271,6 +294,18 @@ const articleSchema = {
       </a>
       <p class="mt-3 text-xs text-text-light">相談無料・秘密厳守・宅建業者が対応</p>
     </div>
+
+    <!-- 大阪市ピラーページへの明示的クラスターリンク（仮説1454: 区ページをクラスターとして位置付け） -->
+    {isOsakaWard && (
+      <div class="mt-10 rounded-lg border border-accent/30 bg-accent/5 p-4">
+        <p class="mb-1 text-xs font-bold text-accent">大阪市24区の訳あり物件買取 総合ハブ</p>
+        <p class="mb-2 text-sm text-text">
+          このページは「<a href="/osaka" class="font-bold text-accent hover:underline">大阪市の訳あり物件買取（24区エリア）</a>」のクラスターページです。
+          他の区の相場・事例や物件種別ガイドは総合ハブページでまとめてご確認いただけます。
+        </p>
+        <a href="/osaka" class="text-sm font-bold text-accent hover:underline">→ 大阪市24区ハブページを見る</a>
+      </div>
+    )}
 
     <!-- 物件タイプ別買取ガイド（ハブへの内部リンク） -->
     <div class="mt-10">
