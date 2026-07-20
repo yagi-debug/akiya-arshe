@@ -1,0 +1,29 @@
+{
+  "date": "2026-07-20",
+  "slug": "ig-2026-07-20-story_carousel",
+  "title": "飛行機の距離の、実家",
+  "type": "story_carousel",
+  "theme": "実家じまい・罪悪感",
+  "files": [
+    "post_01.png",
+    "post_02.png",
+    "post_03.png",
+    "post_04.png",
+    "post_05.png",
+    "post_06.png",
+    "post_07.png"
+  ],
+  "checks": {
+    "caption_forbidden_words": [],
+    "cta_ok": true,
+    "fallback_used": false,
+    "file_count_ok": true,
+    "dimensions_ok": true,
+    "plan_structure_source": "gemini",
+    "plan_rollover_fallback": false
+  },
+  "fallback_used": false,
+  "fallback_notes": [],
+  "source_plan": "/Users/aibot/arshe/1_Projects/realestate-seller/content/CONTENT-PLAN-2026-07.md",
+  "generated_config": null
+}
