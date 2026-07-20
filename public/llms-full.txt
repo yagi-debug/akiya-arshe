@@ -185,11 +185,13 @@ A. 特定空き家に指定されると住宅用地の特例が解除され、�
 - [相続発生から10ヶ月でやること完全タイムライン｜アパート処分の判断ガイド](https://akiya.arshe-corp.com/guide/souzoku-apart-10months-timeline): 相続アパートの処分を月別チェックリストで解説
 - [相続した賃貸物件に入居者がいる場合の売却方法｜立ち退き・オーナーチェンジ・買取を徹底比較【2026年版】](https://akiya.arshe-corp.com/guide/souzoku-chintai-nyuukyosha-ari-baikyaku): 「相続したアパートに入居者がいますが入居者がいるまま売れますか？」等FAQPage6問対応。借地借家法第28条の正当事由・立ち退き料相場（家賃の6ヶ月〜2年分）・オーナーチェンジ売却・専門買取業者への直接売却（最短2〜4週間）を宅建業者が解説。
 - [管理費・修繕積立金が滞納しているマンションは売れる？相続後の対処法と買取活用](https://akiya.arshe-corp.com/guide/kanrihi-tainou-mansion-kaitori): 「管理組合から管理費を請求されました。自分が払わないといけないのですか？」等FAQPage5問対応。区分所有法8条による滞納承継・競売リスク（区分所有法59条）・売却代金からの清算・専門買取業者活用まで宅建業者が解説。
+- [相続アパートの原状回復トラブル｜退去費用の負担基準と現況買取で解決する方法【2026年版】](https://akiya.arshe-corp.com/guide/inherited-apartment-restoration-dispute-exit): 相続アパートの退去費用・原状回復トラブルを宅建業者が解説。国交省ガイドラインの負担基準（家主・借主の線引き）、相続後に特有のトラブル事例、「現況買取」で原状回復問題ごと手放す方法まで網羅。FAQPage+HowTo Schema対応
 
 ### 売却ガイド — 訳あり物件の買取
 - [再建築不可物件の売却方法](https://akiya.arshe-corp.com/guide/non-rebuildable-property-sale): 売却相場の目安、4つの売却方法、2025年法改正の影響
 - [再建築不可物件の買取相場｜大阪市エリア別](https://akiya.arshe-corp.com/guide/saikenchifu-kaitori-souba): 大阪市エリア別の具体的な買取価格帯・査定ポイント
 - [再建築不可物件の買取｜建て替えできない家・土地を手放す方法](https://akiya.arshe-corp.com/guide/saikenchifu-kaitori): 仲介で売れなかった物件もご相談可能
+- [接道なし袋地を相続したら？出口戦略と買取価格の目安【宅建業者が解説】](https://akiya.arshe-corp.com/guide/landlocked-inheritance-exit): 袋地（接道なし）を相続した方向けに、囲繞地通行権の仕組み・出口戦略4択（隣地交渉・専門買取）・買取価格の目安（路線価の30〜50%）を宅建業者が解説。相続登記義務化にも対応。FAQPage Schema対応
 - [事故物件の売却方法と告知義務](https://akiya.arshe-corp.com/guide/accident-property-sale): 国交省ガイドラインに基づく告知ルール、売却価格の目安、仲介と買取の比較
 - [事故物件の買取｜告知義務ありでも最短3日で現金化](https://akiya.arshe-corp.com/guide/jiko-bukken-kaitori): 事故物件（心理的瑕疵）の直接買取完全ガイド。種別別買取減額率（孤独死10〜20%・自殺20〜30%・他殺30〜50%）・特殊清掃費用ゼロ・仲介vs買取の実質手取りシミュレーション・最短3日現金化フロー・他社断り物件の受付実績。国交省2021年10月ガイドライン準拠。HowTo Schema+FAQPage Schema対応【2026年5月更新】
 - [心理的瑕疵とは？事故物件の告知義務の範囲・売却時期・価格への影響](https://akiya.arshe-corp.com/guide/shinriteki-kashi-kokuchi-gimu): 宅建業法に基づく告知義務の範囲と価格下落率データ
