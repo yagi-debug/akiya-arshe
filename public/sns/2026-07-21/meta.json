@@ -1,0 +1,36 @@
+{
+  "date": "2026-07-21",
+  "slug": "ig-2026-07-21-reel_knowledge",
+  "title": "実家じまい 最初の3ステップ",
+  "type": "reel_knowledge",
+  "theme": "売却ノウハウ",
+  "files": [
+    "reel_2026-07-21.mp4"
+  ],
+  "checks": {
+    "caption_forbidden_words": [],
+    "cta_ok": true,
+    "fallback_used": true,
+    "file_count_ok": true,
+    "dimensions_ok": true,
+    "audio_ok": true,
+    "video_ok": true,
+    "duration_ok": true,
+    "voicevox_credit_ok": true,
+    "probe": {
+      "width": 1080,
+      "height": 1920,
+      "video_codec": "h264",
+      "audio_codec": "aac",
+      "duration": 33.89
+    },
+    "plan_structure_source": "monthly_plan_manual_recovery",
+    "plan_rollover_fallback": false
+  },
+  "fallback_used": true,
+  "fallback_notes": [
+    "Gemini APIを使わず、既存ローカル素材とサイト写真で再制作"
+  ],
+  "source_plan": "/Users/aibot/arshe/1_Projects/realestate-seller/content/CONTENT-PLAN-2026-07.md",
+  "generated_config": "/Users/aibot/arshe/1_Projects/realestate-seller/scripts/instagram/configs/generated/2026-07-21.json"
+}
