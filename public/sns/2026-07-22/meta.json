@@ -1,0 +1,39 @@
+{
+  "date": "2026-07-22",
+  "slug": "ig-2026-07-22-knowledge_carousel",
+  "title": "『貸せばいい』が危ない4つの理由",
+  "type": "knowledge_carousel",
+  "theme": "売却ノウハウ",
+  "files": [
+    "post_01.png",
+    "post_02.png",
+    "post_03.png",
+    "post_04.png",
+    "post_05.png",
+    "post_06.png",
+    "post_07.png"
+  ],
+  "checks": {
+    "caption_forbidden_words": [],
+    "cta_ok": true,
+    "caption_detail_ok": true,
+    "fallback_used": true,
+    "file_count_ok": true,
+    "dimensions_ok": true,
+    "copy_variety_ok": true,
+    "plan_structure_source": "deterministic_local",
+    "plan_rollover_fallback": false
+  },
+  "fallback_used": true,
+  "fallback_notes": [
+    "scene_01: deterministic_local -> rouinhome-akiya-vacant-house.jpg",
+    "scene_02: deterministic_local -> inherited-apartment-restoration-repair-work.jpg",
+    "scene_03: deterministic_local -> inheritance-renunciation-apartment-tenant-lease.jpg",
+    "scene_04: deterministic_local -> souzoku-apart-sublease-kaiyaku-baikyaku-contract.jpg",
+    "scene_05: deterministic_local -> inherited-leasehold-landlord-negotiation.jpg",
+    "scene_06: deterministic_local -> kazoku-shintaku-family-consultation.jpg",
+    "scene_07: deterministic_local -> souzoku-apart-sublease-kaiyaku-baikyaku-consultation.jpg"
+  ],
+  "source_plan": "/Users/aibot/arshe/1_Projects/realestate-seller/content/CONTENT-PLAN-2026-07.md",
+  "generated_config": null
+}
