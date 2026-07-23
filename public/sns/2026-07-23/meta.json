@@ -1,0 +1,45 @@
+{
+  "date": "2026-07-23",
+  "slug": "ig-2026-07-23-reel_story",
+  "title": "雪の中で待っていた家の話",
+  "type": "reel_story",
+  "theme": "物語",
+  "files": [
+    "reel_2026-07-23.mp4"
+  ],
+  "checks": {
+    "caption_forbidden_words": [],
+    "cta_ok": true,
+    "caption_detail_ok": true,
+    "fallback_used": true,
+    "file_count_ok": true,
+    "segment_count_ok": true,
+    "dimensions_ok": true,
+    "audio_ok": true,
+    "video_ok": true,
+    "duration_ok": true,
+    "voicevox_credit_ok": true,
+    "bgm_ok": true,
+    "probe": {
+      "width": 1080,
+      "height": 1920,
+      "video_codec": "h264",
+      "audio_codec": "aac",
+      "duration": 23.807683
+    },
+    "plan_structure_source": "deterministic_local",
+    "plan_rollover_fallback": false
+  },
+  "fallback_used": true,
+  "fallback_notes": [
+    "scene_01: deterministic_local -> scene_01.png",
+    "scene_02: deterministic_local -> scene_02.png",
+    "scene_03: deterministic_local -> scene_03.png",
+    "scene_04: deterministic_local -> scene_04.png",
+    "scene_05: deterministic_local -> scene_05.png",
+    "scene_06: deterministic_local -> scene_06.png",
+    "scene_07: deterministic_local -> scene_07.png"
+  ],
+  "source_plan": "/Users/aibot/arshe/1_Projects/realestate-seller/content/CONTENT-PLAN-2026-07.md",
+  "generated_config": "/Users/aibot/arshe/1_Projects/realestate-seller/scripts/instagram/configs/generated/2026-07-23.json"
+}
