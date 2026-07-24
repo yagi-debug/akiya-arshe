@@ -1,0 +1,39 @@
+{
+  "date": "2026-07-24",
+  "slug": "ig-2026-07-24-story_carousel",
+  "title": "誰も継がなかった、街の電器屋",
+  "type": "story_carousel",
+  "theme": "売却ノウハウ",
+  "files": [
+    "post_01.png",
+    "post_02.png",
+    "post_03.png",
+    "post_04.png",
+    "post_05.png",
+    "post_06.png",
+    "post_07.png"
+  ],
+  "checks": {
+    "caption_forbidden_words": [],
+    "cta_ok": true,
+    "caption_detail_ok": true,
+    "fallback_used": true,
+    "file_count_ok": true,
+    "dimensions_ok": true,
+    "copy_variety_ok": true,
+    "plan_structure_source": "deterministic_local",
+    "plan_rollover_fallback": false
+  },
+  "fallback_used": true,
+  "fallback_notes": [
+    "scene_01: deterministic_local -> rouinhome-akiya-vacant-house.jpg",
+    "scene_02: deterministic_local -> 2026-07-14-scene_03.png",
+    "scene_03: deterministic_local -> souzoku-akiya-3000man-hero.jpg",
+    "scene_04: deterministic_local -> nisekatei-jutaku-family-consultation.jpg",
+    "scene_05: deterministic_local -> scene_04.png",
+    "scene_06: deterministic_local -> scene_05.png",
+    "scene_07: deterministic_local -> scene_06.png"
+  ],
+  "source_plan": "/Users/aibot/arshe/1_Projects/realestate-seller/content/CONTENT-PLAN-2026-07.md",
+  "generated_config": null
+}
