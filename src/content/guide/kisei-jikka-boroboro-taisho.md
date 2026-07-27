@@ -1,6 +1,6 @@
 ---
-title: "帰省したら実家がボロボロだった｜放置リスクと今すぐできる5つの対処法"
-description: "お盆や年末に帰省して実家の劣化に気づいたとき、どう対処すればいいか。屋根・外壁・水回り・シロアリの4カテゴリ別チェックリスト、放置した場合の年間コスト試算、リフォーム・賃貸・自治体制度・解体・買取の5択比較表を宅建業者が解説します。"
+title: "実家がボロボロだった時の対処法5選｜放置で固定資産税6倍になる前に【チェックリスト付】"
+description: "帰省して実家の劣化に気づいた方へ。屋根・外壁・水回り・シロアリの無料チェックリストと、放置1年での固定資産税シミュレーション、リフォーム・賃貸・解体・買取の費用比較を宅地建物取引業者が解説。写真を送るだけのLINE簡易査定も可能です。"
 publishDate: "2026-07-03"
 author: "空き家のミカタ編集部"
 authorTitle: "宅地建物取引業者（大阪府知事(1)第65646号）"
@@ -123,6 +123,13 @@ cluster: "akiya-management"
 | ④ 解体して更地に | 100〜200万円（木造30坪目安） | 1〜3ヶ月 | 業者選定 | 更地後の固定資産税増加に注意 |
 | ⑤ 買取専門業者へ売却 | なし（手数料ゼロ） | 最短2週間 | 少ない | 現況のまま・片付け不要 |
 
+<div style="background:#f0f9f0;border:1px solid #4caf50;border-radius:8px;padding:1.5rem;margin:2rem 0;text-align:center;">
+  <p style="font-size:1.1rem;font-weight:bold;margin-bottom:1rem;">📩 5択のどれが合うか迷ったら</p>
+  <p style="margin-bottom:1rem;">実家の写真をLINEで送るだけで、<br>買取なら査定額を無料でお伝えします</p>
+  <a href="https://lin.ee/9Fk9EUl" style="display:inline-block;background:#4caf50;color:#fff;padding:0.75rem 2rem;border-radius:4px;text-decoration:none;font-weight:bold;margin-bottom:0.5rem;">LINEで無料相談する</a>
+  <p style="margin:0.5rem 0 0;"><a href="/contact" style="color:#4caf50;">お問い合わせフォームはこちら</a></p>
+</div>
+
 ### ① リフォームして自分・家族が活用する
 
 <strong>自分や家族が実際に使う予定がある場合</strong>に有効です。ただし、老朽化が進んでいる物件ではリフォーム費用が想定を大幅に超えることがあります。特に構造体（柱・基礎・屋根）に問題がある場合は、費用対効果を慎重に試算してください。
@@ -168,6 +175,13 @@ cluster: "akiya-management"
 <strong>「急いで手放したい」「老朽化が激しい」「遠方で管理できない」「訳ありの要素がある」</strong>という場合は、買取専門業者へのご相談が最も早く問題を解決できる選択肢になることが多いです。
 
 まずは実家の写真をLINEでお送りいただくだけで、簡易査定をお受けしています。お気軽にご連絡ください。
+
+<div style="background:#f0f9f0;border:1px solid #4caf50;border-radius:8px;padding:1.5rem;margin:2rem 0;text-align:center;">
+  <p style="font-size:1.1rem;font-weight:bold;margin-bottom:1rem;">📩 老朽化・訳ありの実家でも大丈夫です</p>
+  <p style="margin-bottom:1rem;">片付け・修繕は不要。現況のまま査定します。<br>まずは写真をLINEでお送りください</p>
+  <a href="https://lin.ee/9Fk9EUl" style="display:inline-block;background:#4caf50;color:#fff;padding:0.75rem 2rem;border-radius:4px;text-decoration:none;font-weight:bold;margin-bottom:0.5rem;">LINEで無料相談する</a>
+  <p style="margin:0.5rem 0 0;"><a href="/contact" style="color:#4caf50;">お問い合わせフォームはこちら</a></p>
+</div>
 
 ## よくある質問
 
