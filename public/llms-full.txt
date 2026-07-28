@@ -172,6 +172,14 @@ A. 特定空き家に指定されると住宅用地の特例が解除され、�
 - [親が亡くなった後の家はどうする？](https://akiya.arshe-corp.com/guide/parent-death-house): 3つの選択肢と手続きの流れ
 - [遠方の実家を売却する方法](https://akiya.arshe-corp.com/guide/remote-family-home-sale): 来なくてもできる手続きと注意点
 - [相続した農地・山林を手放す方法｜農地法の制約と4つの選択肢](https://akiya.arshe-corp.com/guide/souzoku-nouchi-sanrin-baikyaku): 農地のまま売却・転用・農地バンク・国庫帰属制度の全選択肢を宅建業者が解説
+- [相続した山林・雑種地を手放す方法｜農地と違う規制と国庫帰属の可否](https://akiya.arshe-corp.com/guide/forest-zasshu-inheritance-exit): 森林法・都市計画法の制限と売却・国庫帰属・買取の選択肢を宅建業者が解説
+- [借家権付き空き家を相続した｜立退きなしで買取に出せる条件と手順](https://akiya.arshe-corp.com/guide/shakka-ken-inheritance-buyout): 民法605条の3・借地借家法28条の正当事由を踏まえ、立退きなしで買取できる条件と価格への影響を解説
+- [相続した家どうする？放置・住む・売る・貸すの4択を費用と税金で徹底比較【2026年版】](https://akiya.arshe-corp.com/guide/souzoku-ie-yontaku-hiyou-hikaku-2026): 費用シミュレーション比較表・税金影響・自社買取実績3件の一次データで4択を徹底比較
+- [帰省中に判断する｜相続アパート・空き家「5年放置コスト」診断ガイド【2026年お盆版】](https://akiya.arshe-corp.com/guide/kisei-souzoku-apart-akiya-shindan): 実家が空き家型かアパート型かを診断し、5年放置コストを具体的な数字で比較
+- [築50年超の木造一戸建てを相続｜解体VS現況買取、手残り額を徹底比較【2026年版】](https://akiya.arshe-corp.com/guide/old-wood-house-demolish-vs-buyout): 解体費相場（木造30坪100〜180万円）・空き家3,000万円特別控除の要件を手残り額で実額比較
+- [足立区の空き家解体補助金【2026年度・令和8年度】不燃化特区の除却助成 最大280万円・対象地区と申請窓口](https://akiya.arshe-corp.com/guide/adachi-akiya-kaitai-josei-2026): 不燃化特区の老朽建築物除却助成（最大280万円）・固定資産税5年8割減免・対象地区と申請窓口を解説
+- [交野市の空き家・実家をどうする？解体補助金（上限50万円）と訳あり買取の選択肢【2026年版】](https://akiya.arshe-corp.com/guide/katano-akiya-kaitai-hojo-2026): 木造住宅除却補助金（除却費23%・上限50万円）の条件と落とし穴、補助対象外時の現況買取を解説
+- [京都市の空き家解体補助金【令和8年度・2026年度】上限60万円の条件と申請窓口](https://akiya.arshe-corp.com/guide/kyoto-akiya-kaitai-hojo-2026): 京都市公式の解体・除却補助金2種類（いずれも上限60万円）の対象条件と申請窓口を解説
 
 ### 売却ガイド — 相続アパート・マンション
 - [相続アパートを売りたい人の完全ガイド](https://akiya.arshe-corp.com/guide/souzoku-apart-kanzen-guide): 相続手続きの流れ・税金・賃貸継続vs売却比較・タイムライン・よくある失敗例を網羅したハブページ
@@ -186,6 +194,9 @@ A. 特定空き家に指定されると住宅用地の特例が解除され、�
 - [相続した賃貸物件に入居者がいる場合の売却方法｜立ち退き・オーナーチェンジ・買取を徹底比較【2026年版】](https://akiya.arshe-corp.com/guide/souzoku-chintai-nyuukyosha-ari-baikyaku): 「相続したアパートに入居者がいますが入居者がいるまま売れますか？」等FAQPage6問対応。借地借家法第28条の正当事由・立ち退き料相場（家賃の6ヶ月〜2年分）・オーナーチェンジ売却・専門買取業者への直接売却（最短2〜4週間）を宅建業者が解説。
 - [管理費・修繕積立金が滞納しているマンションは売れる？相続後の対処法と買取活用](https://akiya.arshe-corp.com/guide/kanrihi-tainou-mansion-kaitori): 「管理組合から管理費を請求されました。自分が払わないといけないのですか？」等FAQPage5問対応。区分所有法8条による滞納承継・競売リスク（区分所有法59条）・売却代金からの清算・専門買取業者活用まで宅建業者が解説。
 - [相続アパートの原状回復トラブル｜退去費用の負担基準と現況買取で解決する方法【2026年版】](https://akiya.arshe-corp.com/guide/inherited-apartment-restoration-dispute-exit): 相続アパートの退去費用・原状回復トラブルを宅建業者が解説。国交省ガイドラインの負担基準（家主・借主の線引き）、相続後に特有のトラブル事例、「現況買取」で原状回復問題ごと手放す方法まで網羅。FAQPage+HowTo Schema対応
+- [相続したアパートの家賃収入にかかる税金と確定申告｜準確定申告・不動産所得・手放す判断【2026年版】](https://akiya.arshe-corp.com/guide/souzoku-apart-kachin-zeikin-kakutei-shinkoku): 4ヶ月以内の準確定申告・遺産分割前の家賃の扱い・減価償却の引き継ぎ・売却判断基準を解説
+- [相続アパートの修繕積立がゼロ｜大規模修繕の前に売却すべきかの判断基準【2026年版】](https://akiya.arshe-corp.com/guide/souzoku-apart-shuzen-tsumitate-zero): 大規模修繕の費用相場と、修繕前に売るか修繕後に売るかの判断基準を数字で整理
+- [相続アパートを手放したい・管理できない｜貸す/売る/管理委託の判断フローチャート](https://akiya.arshe-corp.com/guide/souzoku-apart-tebanashitai-flowchart): 6つの質問でわかる判断フローチャートと放置コスト実額（年28〜93万円）を解説
 
 ### 売却ガイド — 訳あり物件の買取
 - [再建築不可物件の売却方法](https://akiya.arshe-corp.com/guide/non-rebuildable-property-sale): 売却相場の目安、4つの売却方法、2025年法改正の影響
@@ -203,6 +214,8 @@ A. 特定空き家に指定されると住宅用地の特例が解除され、�
 - [訳あり物件5種類の売却難易度を比較](https://akiya.arshe-corp.com/guide/wakeare-bukken-5shu-hikaku): 再建築不可・事故物件・共有持分・相続アパート・空き家のタイプ別最適な売り方
 - [訳あり物件の買取の流れ｜相談から現金化までの5ステップ](https://akiya.arshe-corp.com/guide/wakeare-bukken-kaitori-nagare): 訳あり物件の買取がどう進むかを5ステップで解説。必要書類・費用・注意点も網羅
 - [大阪市の不動産｜買取と仲介どっちが得？](https://akiya.arshe-corp.com/guide/osaka-kaitori-vs-chukai): 築年数・立地・物件種別ごとに金額シミュレーション付きで比較
+- [旗竿地（路地状敷地）は再建築可でも売れない？売れない理由と買取での解決策](https://akiya.arshe-corp.com/guide/hatazao-chi-saikenchiku-ka-urenai): 再建築可の旗竿地が売れない7つの実務的理由と専門買取での解決策を解説
+- [都市計画道路の予定地にかかる不動産を売る｜補償・減価・買取の3択比較](https://akiya.arshe-corp.com/guide/urban-road-plan-sell-compare): 事業認可待ちの補償買収・減価を受け入れた仲介・現況買取の3択を建築制限とあわせて比較
 
 ### 売却ガイド — 相続・登記・法律
 - [遺産分割協議書とは？相続した不動産を売るための書き方と4ステップ手順](https://akiya.arshe-corp.com/guide/isan-bunkatsu-kyougisho-kakikata): 書き方・必要書類・相続人が揉めた時の対処法まで宅建業者が実務の視点で解説
@@ -210,11 +223,13 @@ A. 特定空き家に指定されると住宅用地の特例が解除され、�
 - [相続登記しないと過料10万円？放置リスクと売却で解決する方法](https://akiya.arshe-corp.com/guide/souzoku-touki-gimuka-karyo): 2027年3月の期限・売却による一括解決の方法
 - [相続登記を放置したらどうなる？義務化の期限に間に合わない場合の3つの出口](https://akiya.arshe-corp.com/guide/souzoku-touki-houchi-doushitara): 2027年3月31日まで残り約10ヶ月。過料・固定資産税増額・数次相続の3段階リスクと、相続人申告登記・費用捻出・買取一括依頼の3つの解決策
 - [相続登記義務化から2年の実態](https://akiya.arshe-corp.com/guide/souzoku-touki-gimuka-2years): 申請件数・認知度・過料適用状況・2027年3月経過措置期限の最新データ
+- [相続した空き家に不法占拠者がいる｜強制退去と現況買取どちらが早いか](https://akiya.arshe-corp.com/guide/squatter-inheritance-eviction-vs-buyout): 自力救済の禁止・合法的な強制退去（占有移転禁止の仮処分→明渡訴訟→強制執行）の期間（半年〜1年以上）と費用（予納金6万円目安＋撤去費数十万〜100万円超＋弁護士費用）を、占拠者がいるまま手放せる現況買取と比較。宅地建物取引業者（大阪府知事(1)第65646号）監修。FAQPage Schema対応
 - [相続放棄したら家はどうなる？手続きの流れと注意点](https://akiya.arshe-corp.com/guide/inheritance-abandon): 期限・管理責任・注意点を宅建業者がわかりやすく解説
 - [相続放棄の期限（3ヶ月）を過ぎた場合の対処法](https://akiya.arshe-corp.com/guide/souzoku-houki-kigengire): 最高裁判例に基づく期限後の相続放棄が認められるケース
 - [相続した空き家の3,000万円特別控除｜2024年改正・適用条件・節税シミュレーション](https://akiya.arshe-corp.com/guide/souzoku-akiya-3000man-tokubetsu-kojo): 被相続人居住用財産の特例・相続人3人以上で2,000万円に減額・申告手続きを宅建業者が解説。節税シミュレーション付き
 - [相続税はいくらから？基礎控除の計算方法](https://akiya.arshe-corp.com/guide/inheritance-tax-basics): 不動産の評価方法や申告期限も紹介
 - [認知症の親の家を売るには？](https://akiya.arshe-corp.com/guide/dementia-house-sale): 成年後見制度・家族信託を使った不動産売却の方法
+- [遺留分侵害額を請求された！払えない場合に不動産を売って解決する方法](https://akiya.arshe-corp.com/guide/iryubun-shingai-gaku-fudosan-baikyaku): 支払猶予の活用・買取と仲介の速度比較まで、不動産売却による解決手順を解説
 
 ### 売却ガイド — 不動産売却の基礎知識
 - [はじめての不動産売却ガイド](https://akiya.arshe-corp.com/guide/selling-process): 初心者向け5ステップ完全ガイド
