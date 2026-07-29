@@ -6,6 +6,7 @@ prefecture: "北海道"
 avgPricePerSqm: 250000
 population: 1970000
 publishDate: "2026-04-10"
+noindex: true
 ---
 
 > **TL;DR — 札幌市の不動産売却**

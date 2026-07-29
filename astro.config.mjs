@@ -9,6 +9,8 @@ import { fileURLToPath } from 'node:url';
 // コンテンツのfrontmatterから実際の更新日を引く（全URLにビルド日を入れると
 // Googleがlastmodを信頼しなくなるため、実日付が取れるページだけに付ける）
 const lastmodMap = {};
+// noindexページはsitemapにも載せない（noindexなのにsitemap掲載はGoogleへの矛盾シグナルになるため）
+const noindexPaths = new Set();
 for (const coll of ['guide', 'area']) {
   const dir = fileURLToPath(new URL(`./src/content/${coll}`, import.meta.url));
   if (!fs.existsSync(dir)) continue;
@@ -19,7 +21,9 @@ for (const coll of ['guide', 'area']) {
     if (!fm) continue;
     const m = fm[1].match(/updatedDate:\s*["']?(\d{4}-\d{2}-\d{2})/) ||
               fm[1].match(/publishDate:\s*["']?(\d{4}-\d{2}-\d{2})/);
-    if (m) lastmodMap[`/${coll}/${f.replace(/\.md$/, '')}/`] = m[1];
+    const pathname = `/${coll}/${f.replace(/\.md$/, '')}/`;
+    if (m) lastmodMap[pathname] = m[1];
+    if (/^noindex:\s*true/m.test(fm[1])) noindexPaths.add(pathname);
   }
 }
 
@@ -28,6 +32,7 @@ export default defineConfig({
   integrations: [sitemap({
     changefreq: 'weekly',
     priority: 0.7,
+    filter: (page) => !noindexPaths.has(new URL(page).pathname),
     serialize(item) {
       const pathname = new URL(item.url).pathname;
       const lastmod = lastmodMap[pathname];

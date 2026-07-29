@@ -9,7 +9,7 @@ const breadcrumbs = [
   { name: 'エリア相場', url: '/area' },
 ];
 
-const areas = await getCollection('area');
+const areas = await getCollection('area', ({ data }) => !data.noindex);
 
 // エリア名で相場の高い順にソート
 const sortedAreas = areas.sort((a, b) =>

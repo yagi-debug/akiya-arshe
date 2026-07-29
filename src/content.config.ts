@@ -22,6 +22,7 @@ const guide = defineCollection({
     // enumに合わない値は undefined にフォールバックさせる（ビルドを止めない＝根本対策）。
     cluster: z.enum(['inheritance', 'non-rebuildable', 'shared-ownership', 'akiya-tax', 'accident', 'wakeari']).catch(undefined).optional(),
     isPillar: z.boolean().catch(undefined).optional(),
+    noindex: z.boolean().optional(),
   }),
 });
 
@@ -44,6 +45,7 @@ const area = defineCollection({
       question: z.string(),
       answer: z.string(),
     })).optional(),
+    noindex: z.boolean().optional(),
   }),
 });
 

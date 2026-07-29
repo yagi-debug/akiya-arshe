@@ -7,6 +7,7 @@ avgPricePerSqm: 180000
 population: 804000
 publishDate: "2026-04-13"
 heroImage: "/images/sakai-city-hero.jpg"
+noindex: true
 ---
 
 > **TL;DR — 堺市の不動産売却**

@@ -24,7 +24,8 @@ const breadcrumbs = [
 ];
 
 // クラスター内部リンク（ピラー↔サブ記事の双方向リンク強化）
-const allGuides = await getCollection('guide');
+// noindex記事（大阪市24区外の全国ページ）は関連記事候補から除外し、内部リンクを大阪24区に集約する
+const allGuides = (await getCollection('guide')).filter((g) => !g.data.noindex);
 
 const clusterLabels: Record<string, string> = {
   'inheritance':      '相続不動産の出口戦略',
@@ -205,6 +206,7 @@ const displayDate = entry.data.updatedDate || entry.data.publishDate;
   breadcrumbs={breadcrumbs}
   ogType="article"
   ogImage={socialImg}
+  noindex={entry.data.noindex ?? false}
 >
   <article class="mx-auto max-w-3xl px-4 py-8 md:py-12">
     <!-- 記事ヘッダー -->
@@ -265,6 +267,9 @@ const displayDate = entry.data.updatedDate || entry.data.publishDate;
       prose-td:border prose-td:border-border prose-td:px-4 prose-td:py-2
     ">
       <Content />
+      <p class="mt-8">
+        <a href="/satei" class="font-bold text-accent hover:underline">まずは無料査定で概算を確認する →</a>
+      </p>
     </div>
   </article>
 

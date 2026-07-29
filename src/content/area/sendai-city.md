@@ -6,6 +6,7 @@ prefecture: "宮城県"
 avgPricePerSqm: 145000
 population: 1093769
 publishDate: "2026-04-12"
+noindex: true
 ---
 
 > **TL;DR — 仙台市の不動産売却**

@@ -9,7 +9,7 @@ const breadcrumbs = [
   { name: '売却ガイド', url: '/guide' },
 ];
 
-const guides = await getCollection('guide');
+const guides = await getCollection('guide', ({ data }) => !data.noindex);
 // publishDate降順
 const sortedGuides = guides.sort((a, b) =>
   new Date(b.data.publishDate).getTime() - new Date(a.data.publishDate).getTime()
