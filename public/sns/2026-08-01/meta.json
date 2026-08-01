@@ -1,0 +1,55 @@
+{
+  "date": "2026-08-01",
+  "slug": "ig-2026-08-01-knowledge_carousel",
+  "title": "お盆に親と話す「実家どうする？」質問リスト",
+  "type": "knowledge_carousel",
+  "theme": "季節ネタ",
+  "files": [
+    "post_01.png",
+    "post_02.png",
+    "post_03.png",
+    "post_04.png",
+    "post_05.png",
+    "post_06.png",
+    "post_07.png"
+  ],
+  "checks": {
+    "caption_forbidden_words": [],
+    "cta_ok": true,
+    "caption_detail_ok": true,
+    "fallback_used": false,
+    "copy_nonempty_ok": true,
+    "info_band_ok": true,
+    "title_quality_ok": true,
+    "season_ok": true,
+    "offer_stated_ok": true,
+    "cta_bridge_ok": true,
+    "caption_not_filler_ok": true,
+    "file_count_ok": true,
+    "dimensions_ok": true,
+    "copy_variety_ok": true,
+    "scene_hashes": [
+      "4ef8afffcb1c2414ec07265eb835d4be",
+      "e81043dbfbbf8c77f492bb953b9661f6",
+      "3cfec37dfb78af46874b58d308517319",
+      "619b8cd146d42af52bac3b0065e83a0e",
+      "44f1d319d191c2d5421e13c8bb76f38b",
+      "279f9f4f6533e04aa7965081edbda2c3",
+      "9cff539593bde8398f7862f057b29adc"
+    ],
+    "plan_structure_source": "deterministic_local",
+    "plan_rollover_fallback": false
+  },
+  "fallback_used": false,
+  "fallback_notes": [
+    "scene_01: codex_generated",
+    "scene_02: codex_generated",
+    "scene_03: codex_generated",
+    "scene_04: codex_generated",
+    "scene_05: codex_generated",
+    "scene_06: codex_generated",
+    "scene_07: codex_generated"
+  ],
+  "source_plan": "/Users/aibot/arshe/1_Projects/realestate-seller/content/CONTENT-PLAN-2026-07.md",
+  "generated_config": null
+}
