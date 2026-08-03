@@ -1,0 +1,18 @@
+{
+  "date": "2026-08-03",
+  "slug": "ig-2026-08-03-nichijou",
+  "title": "今日こそ誰か来る気がする",
+  "type": "reel_knowledge",
+  "theme": "実家じまい・罪悪感",
+  "files": [
+    "reel_2026-08-03.mp4"
+  ],
+  "angle": "空き家くんの日常",
+  "checks": {
+    "caption_forbidden_words": [],
+    "file_count_ok": true,
+    "voicevox_credit_ok": true,
+    "manual_visual_check": "2026-08-01 会長が完成版を確認しOK"
+  },
+  "fallback_used": false
+}
