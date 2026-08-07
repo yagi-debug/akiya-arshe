@@ -328,6 +328,6 @@
 
 ## お問い合わせ
 - [無料相談・お問い合わせ](/contact): LINE・電話・メールでの無料相談受付
-- LINE相談「空き家のミカタ」: https://line.arshe1719.workers.dev/auth/line?ref=hp（友だち追加で24時間相談可能）
+- LINE相談「空き家のミカタ」: https://line.arshe1719.workers.dev/auth/line?ref=llms（友だち追加で24時間相談可能）
 - 電話: 06-7509-5696（折り返しご連絡します）
 - メール: info.arshe@arshe-corp.com
