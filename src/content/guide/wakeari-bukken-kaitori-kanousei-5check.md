@@ -185,7 +185,7 @@ cluster: "wakeari"
 
 <strong>LINE でのご相談（24時間受付）</strong>
 
-<a href="https://line.arshe1719.workers.dev/auth/line?ref=hp-line-id" style="display:inline-block;background:#06c755;color:#fff;padding:0.8rem 2rem;border-radius:8px;text-decoration:none;font-weight:bold;margin:0.5rem 0;">LINE で無料相談する</a>
+<a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06c755;color:#fff;padding:0.8rem 2rem;border-radius:8px;text-decoration:none;font-weight:bold;margin:0.5rem 0;">LINE で無料相談する</a>
 
 <strong>お問い合わせフォーム</strong>
 

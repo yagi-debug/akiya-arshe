@@ -360,7 +360,7 @@ howToSteps:
 <div style="background:#f0f7f0;border:2px solid #2d7a2d;border-radius:12px;padding:2rem;text-align:center;margin:2rem 0;">
   <p style="font-size:1.1rem;font-weight:bold;margin-bottom:1rem;">LINE「空き家のミカタ」で無料相談</p>
   <p style="margin-bottom:1.5rem;">写真・調査報告書を送っていただければ、査定価格の目安をお伝えします。<br>相談無料・全国対応・秘密厳守</p>
-  <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp-mikata" style="display:inline-block;background:#06C755;color:#fff;font-size:1.1rem;font-weight:bold;padding:0.9rem 2.5rem;border-radius:8px;text-decoration:none;">LINEで無料相談する</a>
+  <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06C755;color:#fff;font-size:1.1rem;font-weight:bold;padding:0.9rem 2.5rem;border-radius:8px;text-decoration:none;">LINEで無料相談する</a>
 </div>
 
 <div style="background:#f8f8f8;border:1px solid #ddd;border-radius:12px;padding:2rem;text-align:center;margin:2rem 0;">

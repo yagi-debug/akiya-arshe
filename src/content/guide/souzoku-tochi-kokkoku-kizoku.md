@@ -198,7 +198,7 @@ howToSteps:
 <div style="background:#fff7e6;border-left:4px solid #f59e0b;padding:1.2rem 1.5rem;border-radius:4px;margin-top:2rem;">
 <strong>無料でご相談できます</strong><br>
 相続した土地の処分方法でお悩みでしたら、当社（空き家のミカタ）にご相談ください。国庫帰属の条件に合うかの確認から、買取査定まで、無料でお答えします。<br><br>
-<a href="https://line.arshe1719.workers.dev/auth/line?ref=hp-mikata" style="display:inline-block;background:#06c755;color:#fff;padding:0.7rem 1.5rem;border-radius:6px;text-decoration:none;font-weight:bold;margin-right:0.8rem;">LINEで無料相談する</a>
+<a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06c755;color:#fff;padding:0.7rem 1.5rem;border-radius:6px;text-decoration:none;font-weight:bold;margin-right:0.8rem;">LINEで無料相談する</a>
 <a href="/contact" style="display:inline-block;background:#1a56db;color:#fff;padding:0.7rem 1.5rem;border-radius:6px;text-decoration:none;font-weight:bold;">お問い合わせフォーム</a>
 </div>
 ---

@@ -7,10 +7,10 @@
   },
   "scripts": {
     "dev": "astro dev",
-    "build": "astro build",
+    "build": "node scripts/check-line-links.mjs && astro build",
     "preview": "astro preview",
     "astro": "astro",
-    "deploy": "astro build && gh-pages -d dist --dotfiles && node scripts/indexnow-ping.mjs"
+    "deploy": "node scripts/check-line-links.mjs && astro build && gh-pages -d dist --dotfiles && node scripts/indexnow-ping.mjs"
   },
   "dependencies": {
     "@astrojs/sitemap": "^3.7.2",
