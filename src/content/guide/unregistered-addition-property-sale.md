@@ -178,4 +178,4 @@ A: 増築部分を取り壊してから売却する場合、減築の変更登�
 
 ---
 
-関連記事: <a href="/guide/unregistered-building-inheritance-sell">未登記建物を相続したら？表題登記の手順・費用と買取での解決策</a> / <a href="/guide/mitouki-fudosan-kaitori">未登記の空き家・相続アパートは売れる？登記前に売る方法</a>
+関連記事: <a href="/guide/unregistered-building-inheritance-sell">未登記建物を相続したら？表題登記の手順・費用と買取での解決策</a> / <a href="/guide/mitouki-fudosan-kaitori">未登記の空き家・相続アパートは売れる？登記前に売る方法</a> / <a href="/guide/kaitori-kyohi-tokucho-7">買取を断られる物件の特徴7つ｜断られる理由は「次の買主に融資が付かない」から</a>

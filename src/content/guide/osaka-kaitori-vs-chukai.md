@@ -34,6 +34,9 @@ howToSteps:
 
 <img src="/images/kaitori-vs-chukai-hero.jpg" alt="不動産の選択肢を比較する電卓とカギ" width="1200" height="800" style="width:100%;height:auto;border-radius:8px;margin-bottom:1.5rem;" />
 
+> **TL;DR — 大阪市の不動産 買取か仲介か**
+> 急いで売る・訳あり・築古なら**買取**（最短7日・仲介手数料ゼロ）。時間に余裕がある・築浅・好立地なら**仲介**（手取り最大・3〜6ヶ月）。**放置は10年で固定資産税・管理費100〜300万円超の損失**になり最悪の選択。大阪市の再建築不可・事故物件・相続アパート・共有持分は仲介では売れないケースが多く、空き家のミカタ（宅建業者・大阪府知事(1)第65646号）が直接買取・全国対応・無料査定。
+
 <div class="speakable-highlight" style="background:#f0f7f4;border-left:4px solid #1a7a50;padding:1rem 1.25rem;border-radius:0 8px 8px 0;margin-bottom:2rem;">
 <strong>結論：</strong>急いで売る・訳あり・築古なら<strong>買取</strong>。時間に余裕がある・築浅・好立地なら<strong>仲介</strong>。<strong>放置は10年で100〜300万円超の損失</strong>になり最悪の選択。判断が難しい場合はまず無料査定で数字を比較する。
 </div>
@@ -238,6 +241,10 @@ D.F.さん（70代男性）は2022年に父から相続した大阪市平野区�
 - <a href="/guide/rentoushi-nagaya-baikyaku">連棟式建物（長屋）は売れない？仲介で断られても買取なら現金化できる理由【大阪対応】</a>
 - <a href="/guide/kaitori-jirei-10sen">訳あり不動産の買取実績10選｜相続・再建築不可・事故物件・共有持分・空き家の解決事例集</a>
 - <a href="/guide/jiko-bukken-hub">事故物件 完全ハブ｜買取・告知義務・心理的瑕疵・価格相場まで全ガイドまとめ【2026年版】</a>
+- <a href="/guide/kaitori-kyohi-tokucho-7">買取を断られる物件の特徴7つ｜断られる理由は「次の買主に融資が付かない」から</a>
+
+
+→ **[60秒で概算査定（無料・匿名OK）](/satei)**　物件種別・築年数・エリアを選ぶだけで市場価格と概算買取価格を即時表示。
 
 ## 大阪市で不動産売却のご相談はこちら
 

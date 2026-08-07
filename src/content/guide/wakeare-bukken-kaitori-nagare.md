@@ -239,6 +239,7 @@ cluster: "accident"
 - <a href="/guide/accident-property-sale">事故物件は売れる？告知義務・売却相場・買取の流れを宅建業者が解説【全国対応・秘密厳守】</a>
 - <a href="/guide/shigaika-chosei-fudosan-baikyaku">市街化調整区域の不動産は売れる？仲介で断られても買取で現金化できる理由【全国対応】</a>
 - <a href="/guide/osaka-kaitori-vs-chukai">大阪市の不動産｜買取と仲介どっちが得？金額シミュレーションで比較</a>
+- <a href="/guide/kaitori-kyohi-tokucho-7">買取を断られる物件の特徴7つ｜断られる理由は「次の買主に融資が付かない」から</a>
 
 ## 訳あり物件の買取、まずはご相談ください
 
