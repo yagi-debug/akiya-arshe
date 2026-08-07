@@ -24,6 +24,14 @@ const SUSPECTS = [
   /https?:\/\/line\.arshe1719\.workers\.dev\/[^\s"'`)\]<>（）、。]*/g,
 ];
 
+// クリック可能CTA（tel:/mailto:）の許可リスト。記事AIは電話番号・メアドも創作する
+// （2026-08-08検出: 架空の06-7777-1373が4月から記事に載っていた）。
+// 本文中の役所等の電話番号は対象外。検査するのはリンク（tel:/mailto:）だけ。
+const ALLOWED_TEL = new Set(['06-7509-5696']);
+const ALLOWED_MAILTO = new Set(['info.arshe@arshe-corp.com']);
+const TEL_RE = /tel:([0-9+-]+)/g;
+const MAILTO_RE = /mailto:([^\s"'`)\]<>（）、。?]+)/g;
+
 const violations = [];
 
 function walk(dir) {
@@ -44,6 +52,14 @@ function check(file) {
         const url = m[0];
         if (!ALLOWED.test(url)) violations.push(`${file}:${i + 1}: ${url}`);
       }
+    }
+    TEL_RE.lastIndex = 0;
+    for (const m of line.matchAll(TEL_RE)) {
+      if (!ALLOWED_TEL.has(m[1])) violations.push(`${file}:${i + 1}: tel:${m[1]}（許可済み電話番号ではない）`);
+    }
+    MAILTO_RE.lastIndex = 0;
+    for (const m of line.matchAll(MAILTO_RE)) {
+      if (m[1] && !ALLOWED_MAILTO.has(m[1])) violations.push(`${file}:${i + 1}: mailto:${m[1]}（許可済みメアドではない）`);
     }
   });
 }
