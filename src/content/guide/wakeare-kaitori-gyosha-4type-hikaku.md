@@ -238,7 +238,7 @@ cluster: "accident"
 - <a href="/guide/akusha-gyosha-5-teguchi-mikiwake">訳あり不動産買取の悪質業者5つの手口｜騙されない見分け方と安全な相見積もり手順</a>
 - <a href="/guide/kyouyuu-mochibun-hub">共有持分 完全ハブ｜売却・買取・トラブル解決・相場まで全ガイドまとめ【2026年版】</a>
 - <a href="/guide/saikenchifu-hub">再建築不可物件 完全ハブ｜売却・買取・価格相場・事例まで全ガイドまとめ【2026年版】</a>
-- <a href="/guide/osaka-wakeare-buyer-5sha-hikaku">大阪 訳あり物件 買取業者4社比較｜相場・口コミ・スピード【2026年版】</a>
+- <a href="/guide/osaka-wakeare-buyer-4sha-hikaku">大阪 訳あり物件 買取業者4社比較｜相場・口コミ・スピード【2026年版】</a>
 
 ## まとめ
 

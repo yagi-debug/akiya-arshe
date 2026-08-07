@@ -266,7 +266,7 @@ A. エリアのイメージだけで判断すると損をする可能性があ�
 - <a href="/guide/souzoku-hub">相続不動産 完全ハブ｜処分・売却・登記・固定資産税まで全ガイドをまとめて確認</a>
 - <a href="/guide/saikenchifu-hub">再建築不可 完全ハブ｜買取・接道・建替えできない物件の処分ガイドまとめ</a>
 - <a href="/guide/lp-wakeari-bukken-kaitori">大阪の訳あり物件 買取（再建築不可・共有持分・相続アパート・事故物件 全国対応）</a>
-- <a href="/guide/osaka-wakeare-buyer-5sha-hikaku">大阪 訳あり物件 買取業者4社比較【2026年版】</a>
+- <a href="/guide/osaka-wakeare-buyer-4sha-hikaku">大阪 訳あり物件 買取業者4社比較【2026年版】</a>
 
 ## 他のエリアの相場を見る
 

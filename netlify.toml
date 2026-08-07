@@ -2,6 +2,18 @@
   command = "npm run build"
   publish = "dist"
 
+[[redirects]]
+  from = "/guide/osaka-wakeare-buyer-5sha-hikaku"
+  to = "/guide/osaka-wakeare-buyer-4sha-hikaku"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/guide/osaka-wakeare-buyer-5sha-hikaku/"
+  to = "/guide/osaka-wakeare-buyer-4sha-hikaku/"
+  status = 301
+  force = true
+
 [[headers]]
   for = "/*"
   [headers.values]

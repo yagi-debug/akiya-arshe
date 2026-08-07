@@ -215,5 +215,5 @@ howToSteps:
 - <a href="/guide/shinriteki-kashi-kokuchi-gimu">心理的瑕疵とは？事故物件の告知義務の範囲・売却時期・価格への影響</a>
 - <a href="/guide/accident-property-sale">事故物件を断られ続けた方へ｜現況のまま買取する方法</a>
 - <a href="/guide/souzoku-jirei-02-jiko-bukken-kaitori">【事例】弟の孤独死マンションを相続。特殊清掃前・遠方から18日で売却できた全記録</a>
-- <a href="/guide/osaka-wakeare-buyer-5sha-hikaku">大阪 訳あり物件 買取｜専門業者を徹底比較</a>
+- <a href="/guide/osaka-wakeare-buyer-4sha-hikaku">大阪 訳あり物件 買取｜専門業者を徹底比較</a>
 - <a href="/guide/wakeare-kaitori-gyosha-erabikata-7check">訳あり物件の買取業者の選び方7つのチェックポイント</a>
