@@ -1,0 +1,75 @@
+---
+import PageHero from "../../components/PageHero.astro";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+
+const breadcrumbs = [
+  { name: "ホーム", url: "/" },
+  { name: "よくある質問", url: "/faq" },
+  { name: "買取業者の責任範囲の確認方法", url: "/faq/wakeari-kaitorigyousha-sekinin-hani" },
+];
+
+const question = "訳あり物件の買取業者を選ぶとき、業者側の責任範囲はどう確認すればいいですか？";
+const answer =
+  "確認すべきは主に3点です。①宅地建物取引業免許の有無（免許番号は都道府県のサイトで確認可能）、②契約不適合責任免責特約の有無と範囲、③重要事項説明の実施有無。免許なしで「買取」と称して個人間売買を仲介する業者や、免許番号を明示しない業者は避けるべきです。当社（合同会社アルシェ）は大阪府知事(1)第65646号の宅建業免許を保有し、重要事項説明を含めた適正な手続きで買取を行っています。";
+
+const qaSchema = {
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": question,
+    "text": question,
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": answer,
+      "url": "https://akiya.arshe-corp.com/faq/wakeari-kaitorigyousha-sekinin-hani/",
+    },
+  },
+};
+---
+
+<BaseLayout
+  title="訳あり物件の買取業者、責任範囲の確認方法｜空き家のミカタ"
+  description="訳あり物件の買取業者を選ぶときに確認すべき宅建業免許・契約不適合責任免責特約・重要事項説明の3点を宅建業者が解説します。"
+  schema={qaSchema}
+  breadcrumbs={breadcrumbs}
+>
+  <PageHero label="よくある質問" title={question} />
+  <section class="px-4 py-12 md:py-16">
+    <div class="mx-auto max-w-2xl">
+      <div class="mb-8 rounded-2xl border border-accent/30 bg-accent-soft/40 p-5 text-sm leading-relaxed text-primary">
+        <p class="font-bold">結論: 免許番号・免責特約・重要事項説明の3点を必ず確認してください。</p>
+        <p class="mt-1">この3点が揃っていない業者は、トラブル時に責任の所在が曖昧になるリスクがあります。</p>
+      </div>
+
+      <div class="mb-8 rounded-2xl border border-border bg-white p-6 shadow-[var(--shadow-soft)]">
+        <p class="mb-2 flex items-start gap-2 font-bold text-primary">
+          <span class="flex h-6 w-6 shrink-0 items-center justify-center rounded-full bg-accent-soft text-xs font-black text-accent">Q</span>
+          {question}
+        </p>
+        <p class="pl-8 text-text-light" set:html={answer} />
+      </div>
+
+      <div class="space-y-4 text-sm leading-relaxed text-text-light">
+        <p><strong>①宅地建物取引業免許</strong>: 不動産の売買を業として行うには宅建業免許が必須です。免許番号（例: 大阪府知事(1)第65646号）は各都道府県の宅建業者名簿検索サイトで実在確認ができます。免許番号を名刺やサイトに明記しない業者は避けるべきです。</p>
+        <p><strong>②契約不適合責任免責特約</strong>: 買取後に見つかった欠陥について、売主・買主どちらがどこまで責任を負うかを契約書で明確にしているかを確認します。口頭説明だけで契約書に記載がない場合はトラブルの元になります。</p>
+        <p><strong>③重要事項説明の実施</strong>: 宅建業法上、宅地建物取引士が契約前に重要事項説明を行うことが義務付けられています。この説明を省略・簡略化する業者は法令遵守の姿勢に疑問があると考えたほうがよいでしょう。</p>
+        <p>これらの確認は査定を依頼する段階でも聞くことができます。回答を濁す業者よりも、免許番号・契約条件をその場で明示できる業者を選ぶことがトラブル回避の第一歩です。</p>
+      </div>
+
+      <div class="mt-10 rounded-2xl border border-border bg-bg p-5 text-sm">
+        <p class="mb-2 font-bold text-primary">あわせて読みたい</p>
+        <ul class="list-inside list-disc space-y-1 text-accent">
+          <li><a href="/guide/kaitori-gyosha-erabikata-checkpoints" class="underline">訳あり不動産買取業者を選ぶ5つのチェックポイント</a></li>
+          <li><a href="/faq/wakeari-kaitori-keiyaku-futekigou-sekinin" class="underline">買取と契約不適合責任の関係を見る</a></li>
+          <li><a href="/faq" class="underline">よくある質問一覧に戻る</a></li>
+        </ul>
+      </div>
+
+      <p class="mt-8 text-center text-xs text-text-light">
+        執筆・監修: 八木宏樹（合同会社アルシェ代表）／合同会社アルシェ（宅建業免許: 大阪府知事(1)第65646号）
+      </p>
+    </div>
+  </section>
+</BaseLayout>

@@ -1,0 +1,74 @@
+---
+import PageHero from "../../components/PageHero.astro";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+
+const breadcrumbs = [
+  { name: "ホーム", url: "/" },
+  { name: "よくある質問", url: "/faq" },
+  { name: "再建築不可物件の固定資産税", url: "/faq/saikenchiku-fuka-koteishisanzei" },
+];
+
+const question = "再建築不可物件の固定資産税は通常物件と同じですか？";
+const answer =
+  "固定資産税の算出方法自体は、再建築の可否（接道状況）と直接連動する項目ではないため、通常物件と同じ基準（固定資産税評価額×1.4%が標準）で計算されます。ただし再建築不可物件は市場性が低いことが土地の路線価・評価額に反映され、結果的に評価額が通常物件より低く算定される傾向があります。住宅用地の特例（200㎡以下の部分は評価額6分の1に軽減）は建物が建っている限り再建築不可物件にも適用されます。正確な税額は毎年送付される固定資産税課税明細書、または物件所在地の区役所資産税担当課で確認できます。";
+
+const qaSchema = {
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": question,
+    "text": question,
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": answer,
+      "url": "https://akiya.arshe-corp.com/faq/saikenchiku-fuka-koteishisanzei/",
+    },
+  },
+};
+---
+
+<BaseLayout
+  title="再建築不可物件の固定資産税は通常物件と同じ？｜空き家のミカタ"
+  description="再建築不可物件の固定資産税の算出方法・住宅用地特例の適用有無・評価額が下がる理由を宅建業者が解説します。"
+  schema={qaSchema}
+  breadcrumbs={breadcrumbs}
+>
+  <PageHero label="よくある質問" title={question} />
+  <section class="px-4 py-12 md:py-16">
+    <div class="mx-auto max-w-2xl">
+      <div class="mb-8 rounded-2xl border border-accent/30 bg-accent-soft/40 p-5 text-sm leading-relaxed text-primary">
+        <p class="font-bold">結論: 算出方法は同じですが、評価額は下がる傾向があります。</p>
+        <p class="mt-1">理由は2つ。①再建築不可という制約自体は課税計算式に組み込まれない、②市場性の低さが土地評価額（路線価）に反映され、結果として税額が通常物件より低くなりやすい。</p>
+      </div>
+
+      <div class="mb-8 rounded-2xl border border-border bg-white p-6 shadow-[var(--shadow-soft)]">
+        <p class="mb-2 flex items-start gap-2 font-bold text-primary">
+          <span class="flex h-6 w-6 shrink-0 items-center justify-center rounded-full bg-accent-soft text-xs font-black text-accent">Q</span>
+          {question}
+        </p>
+        <p class="pl-8 text-text-light" set:html={answer} />
+      </div>
+
+      <div class="space-y-4 text-sm leading-relaxed text-text-light">
+        <p>固定資産税は「固定資産税評価額（課税標準額）× 1.4%」が標準税率です。評価額は3年に一度の評価替えで見直され、土地は接道状況・形状・利便性などを反映した路線価をもとに算定されます。再建築不可であること自体は税額計算式の項目にはなりませんが、買い手がつきにくい＝市場価値が低いという事実は評価額の算定過程で間接的に反映されるため、同じ立地・面積の通常物件と比べて評価額（＝税額）が低めになるケースが多く見られます。</p>
+        <p>住宅用地の特例（小規模住宅用地: 200㎡以下の部分は評価額を6分の1に軽減）は、建物が実際に建っている限り再建築不可物件にも適用されます。ただし解体して更地にすると特例が外れ、税額が最大6倍になる点は通常物件と同様に注意が必要です。</p>
+        <p>正確な評価額・税額を知りたい場合は、毎年4〜6月頃に送付される固定資産税課税明細書、または物件所在地の区役所・市役所の資産税担当課への問い合わせが確実です。</p>
+      </div>
+
+      <div class="mt-10 rounded-2xl border border-border bg-bg p-5 text-sm">
+        <p class="mb-2 font-bold text-primary">あわせて読みたい</p>
+        <ul class="list-inside list-disc space-y-1 text-accent">
+          <li><a href="/guide/saikenchifu-kaitori" class="underline">再建築不可物件の買取について詳しく見る</a></li>
+          <li><a href="/guide/akiya-koteishisanzei-6bai-hikaku" class="underline">固定資産税6倍化の回避策と売却タイミング</a></li>
+          <li><a href="/faq" class="underline">よくある質問一覧に戻る</a></li>
+        </ul>
+      </div>
+
+      <p class="mt-8 text-center text-xs text-text-light">
+        執筆・監修: 八木宏樹（合同会社アルシェ代表）／合同会社アルシェ（宅建業免許: 大阪府知事(1)第65646号）
+      </p>
+    </div>
+  </section>
+</BaseLayout>

@@ -7,6 +7,7 @@ avgPricePerSqm: 220000
 publishDate: "2026-06-19"
 updatedDate: "2026-06-19"
 author: '宅建業者'
+noindex: true
 ---
 
 > <strong>TL;DR — 上新庄エリアの不動産買取</strong>

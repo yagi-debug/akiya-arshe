@@ -7,6 +7,7 @@ avgPricePerSqm: 268000
 publishDate: "2026-05-30"
 updatedDate: "2026-05-30"
 author: '宅建業者'
+noindex: true
 ---
 
 > <strong>TL;DR — 御幣島駅周辺の不動産買取</strong>

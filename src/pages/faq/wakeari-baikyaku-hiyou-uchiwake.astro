@@ -1,0 +1,73 @@
+---
+import PageHero from "../../components/PageHero.astro";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+
+const breadcrumbs = [
+  { name: "ホーム", url: "/" },
+  { name: "よくある質問", url: "/faq" },
+  { name: "訳あり物件売却の費用内訳", url: "/faq/wakeari-baikyaku-hiyou-uchiwake" },
+];
+
+const question = "訳あり物件を売却するとき、売主側にどんな費用がかかりますか？";
+const answer =
+  "買取業者へ直接売却する場合、仲介手数料は発生しません。実費としてかかりうるのは、①抵当権抹消登記費用（住宅ローン等が残っている場合、司法書士報酬含め1〜3万円程度）、②相続登記費用（未登記の場合）、③売買契約書の印紙税、④売却益が出た場合の譲渡所得税・住民税、の4つが中心です。解体費・特殊清掃費・残置物の撤去費用は買取業者が現況のまま引き取るケースが大半で、売主負担にならないのが訳あり物件買取の特徴です。";
+
+const qaSchema = {
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": question,
+    "text": question,
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": answer,
+      "url": "https://akiya.arshe-corp.com/faq/wakeari-baikyaku-hiyou-uchiwake/",
+    },
+  },
+};
+---
+
+<BaseLayout
+  title="訳あり物件の売却費用はいくら？内訳を解説｜空き家のミカタ"
+  description="訳あり物件を買取業者に売却する際に売主が負担する費用の内訳（登記費用・印紙税・譲渡所得税）と、負担にならない費用を宅建業者が解説します。"
+  schema={qaSchema}
+  breadcrumbs={breadcrumbs}
+>
+  <PageHero label="よくある質問" title={question} />
+  <section class="px-4 py-12 md:py-16">
+    <div class="mx-auto max-w-2xl">
+      <div class="mb-8 rounded-2xl border border-accent/30 bg-accent-soft/40 p-5 text-sm leading-relaxed text-primary">
+        <p class="font-bold">結論: 仲介手数料はゼロ。実費は登記・印紙・税金の3種類だけです。</p>
+        <p class="mt-1">解体費や残置物撤去費は買取業者側の負担になるケースが多く、売主が事前にリフォーム・片付け費用を用意する必要はありません。</p>
+      </div>
+
+      <div class="mb-8 rounded-2xl border border-border bg-white p-6 shadow-[var(--shadow-soft)]">
+        <p class="mb-2 flex items-start gap-2 font-bold text-primary">
+          <span class="flex h-6 w-6 shrink-0 items-center justify-center rounded-full bg-accent-soft text-xs font-black text-accent">Q</span>
+          {question}
+        </p>
+        <p class="pl-8 text-text-light" set:html={answer} />
+      </div>
+
+      <div class="space-y-4 text-sm leading-relaxed text-text-light">
+        <p>仲介での売却は成約額の3%＋6万円（+消費税）程度の仲介手数料がかかりますが、買取業者への直接売却は業者が買主本人となるため仲介手数料は発生しません。この差だけで数十万〜百万円単位の負担軽減になるケースもあります。</p>
+        <p>実費として発生しうるのは、住宅ローンが残っている場合の抵当権抹消登記費用、相続登記が未了の場合の登記費用、売買契約書に貼付する印紙税、そして売却益（譲渡所得）が出た場合の譲渡所得税・住民税です。3,000万円特別控除などの特例が使える場合もあるため、税額が発生しそうな場合は税理士への確認をおすすめします。</p>
+        <p>解体費用・特殊清掃費用・家財や残置物の撤去費用は、買取業者が現況のまま買い取るのが一般的で、売主が事前に用意する必要がないことが多いのも訳あり物件買取の大きなメリットです。ただし業者によって条件は異なるため、査定時に費用負担の範囲を必ず確認してください。</p>
+      </div>
+
+      <div class="mt-10 rounded-2xl border border-border bg-bg p-5 text-sm">
+        <p class="mb-2 font-bold text-primary">あわせて読みたい</p>
+        <ul class="list-inside list-disc space-y-1 text-accent">
+          <li><a href="/guide/kaitori-gyosha-erabikata-checkpoints" class="underline">訳あり不動産買取業者を選ぶ5つのチェックポイント</a></li>
+          <li><a href="/faq" class="underline">よくある質問一覧に戻る</a></li>
+        </ul>
+      </div>
+
+      <p class="mt-8 text-center text-xs text-text-light">
+        執筆・監修: 八木宏樹（合同会社アルシェ代表）／合同会社アルシェ（宅建業免許: 大阪府知事(1)第65646号）
+      </p>
+    </div>
+  </section>
+</BaseLayout>

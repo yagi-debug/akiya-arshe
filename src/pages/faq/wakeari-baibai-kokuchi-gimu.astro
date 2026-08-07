@@ -1,0 +1,74 @@
+---
+import PageHero from "../../components/PageHero.astro";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+
+const breadcrumbs = [
+  { name: "ホーム", url: "/" },
+  { name: "よくある質問", url: "/faq" },
+  { name: "訳あり物件売買の告知義務", url: "/faq/wakeari-baibai-kokuchi-gimu" },
+];
+
+const question = "訳あり物件を売買するとき、買主への告知は法律上必須ですか？";
+const answer =
+  "はい、必須です。宅地建物取引業法上、売主・仲介業者には物件に関する重要な事実（心理的瑕疵・物理的瑕疵・法令上の制限など）を告知する義務があります。事故物件については国土交通省が2021年10月に「宅地建物取引業者による人の死の告知に関するガイドライン」を策定し、告知が必要な範囲の目安を示しています。告知を怠ると契約解除や損害賠償請求、宅建業法上の行政処分の対象になる可能性があるため、把握している事実は正直に開示することが重要です。";
+
+const qaSchema = {
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": question,
+    "text": question,
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": answer,
+      "url": "https://akiya.arshe-corp.com/faq/wakeari-baibai-kokuchi-gimu/",
+    },
+  },
+};
+---
+
+<BaseLayout
+  title="訳あり物件の売買、買主への告知義務はある？｜空き家のミカタ"
+  description="訳あり物件の売買における告知義務の法的根拠、国交省ガイドラインの内容、告知を怠った場合のリスクを宅建業者が解説します。"
+  schema={qaSchema}
+  breadcrumbs={breadcrumbs}
+>
+  <PageHero label="よくある質問" title={question} />
+  <section class="px-4 py-12 md:py-16">
+    <div class="mx-auto max-w-2xl">
+      <div class="mb-8 rounded-2xl border border-accent/30 bg-accent-soft/40 p-5 text-sm leading-relaxed text-primary">
+        <p class="font-bold">結論: 告知義務は法律上の義務であり、必ず守る必要があります。</p>
+        <p class="mt-1">売買では告知義務に期限がなく、何年前の事案でも告知が必要です（国交省ガイドライン2021年10月）。</p>
+      </div>
+
+      <div class="mb-8 rounded-2xl border border-border bg-white p-6 shadow-[var(--shadow-soft)]">
+        <p class="mb-2 flex items-start gap-2 font-bold text-primary">
+          <span class="flex h-6 w-6 shrink-0 items-center justify-center rounded-full bg-accent-soft text-xs font-black text-accent">Q</span>
+          {question}
+        </p>
+        <p class="pl-8 text-text-light" set:html={answer} />
+      </div>
+
+      <div class="space-y-4 text-sm leading-relaxed text-text-light">
+        <p>告知義務の対象となる代表例は、心理的瑕疵（過去の死亡事案等）、物理的瑕疵（雨漏り・シロアリ被害・土壌汚染等）、法令上の制限（再建築不可・接道義務違反等）、権利関係の問題（共有持分の紛争・境界未確定等）です。買主が購入を判断するうえで重要な情報は、聞かれなくても自主的に開示する必要があります。</p>
+        <p>事故物件について国交省ガイドライン（2021年10月）は、売買の場合は告知義務に期限がなく永続的に告知が必要と整理しています（賃貸の場合は概ね3年が目安）。ただし自然死・日常生活上の不慮の死は原則として告知不要とされるなど、事案の性質によって扱いが異なります。</p>
+        <p>告知を怠ると、契約不適合を理由に契約解除や損害賠償を請求されるリスクがあるほか、宅建業者が仲介していた場合は業務停止等の行政処分の対象にもなり得ます。判断に迷う事実がある場合は、隠さず不動産会社や買取業者に伝えることが最も安全です。</p>
+      </div>
+
+      <div class="mt-10 rounded-2xl border border-border bg-bg p-5 text-sm">
+        <p class="mb-2 font-bold text-primary">あわせて読みたい</p>
+        <ul class="list-inside list-disc space-y-1 text-accent">
+          <li><a href="/guide/jiko-bukken-kaitori" class="underline">事故物件の買取・告知義務について詳しく見る</a></li>
+          <li><a href="/guide/accident-property-sale" class="underline">告知義務を守りながら買取する方法</a></li>
+          <li><a href="/faq" class="underline">よくある質問一覧に戻る</a></li>
+        </ul>
+      </div>
+
+      <p class="mt-8 text-center text-xs text-text-light">
+        執筆・監修: 八木宏樹（合同会社アルシェ代表）／合同会社アルシェ（宅建業免許: 大阪府知事(1)第65646号）
+      </p>
+    </div>
+  </section>
+</BaseLayout>

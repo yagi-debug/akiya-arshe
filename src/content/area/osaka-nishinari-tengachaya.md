@@ -6,6 +6,7 @@ prefecture: "大阪府"
 avgPricePerSqm: 250000
 publishDate: "2026-05-11"
 updatedDate: "2026-05-11"
+noindex: true
 ---
 
 > **TL;DR — 天下茶屋駅周辺の不動産買取**

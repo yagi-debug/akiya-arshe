@@ -192,6 +192,24 @@ A: 2024年4月1日から相続登記が義務化され、<strong>相続を知っ
 
 ---
 
+<div style="background:#f0f7ff;border:2px solid #1a56db;border-radius:8px;padding:1.2rem 1.5rem;margin:1.5rem 0;">
+<strong>相続アパート、今の状況を3秒でチェック</strong>
+<ul style="margin:0.6rem 0 0.8rem;padding-left:1.2rem;">
+<li>サブリースを解約したい・管理が負担</li>
+<li>空室率が50%以上ある</li>
+<li>築30年以上で大規模修繕が近い</li>
+<li>入居者がいるが売れるか分からない</li>
+</ul>
+<p style="margin:0;font-size:0.9rem;">1つでも当てはまれば、まずは無料査定でご相談ください。処分方法の全体像は<a href="/guide/souzoku-apart-kanzen-guide">相続アパートを手放したい方へ｜売却の流れ・税金・失敗しない判断基準</a>で確認できます。</p>
+</div>
+
+## 関連するガイド記事
+
+- [相続アパートを手放したい方へ｜売却の流れ・税金・失敗しない判断基準](/guide/souzoku-apart-kanzen-guide)
+- [相続アパート管理できない｜放置した場合の年間コスト実例3件と早期解決策](/guide/souzoku-apart-kanri-dekinai-houchi-cost)
+- [相続アパートの修繕積立がゼロ｜大規模修繕の前に売却すべきかの判断基準](/guide/souzoku-apart-shuzen-tsumitate-zero)
+- [入居者がいるアパートの売却方法](/guide/nyukyosha-apart-baikyaku)
+
 <section style="background:#1a5632;color:#fff;padding:2rem;border-radius:8px;text-align:center;margin-top:2rem;">
 
 <strong style="font-size:1.25rem;">「サブリース付きのアパートを手放したい」方へ</strong>

@@ -6,6 +6,7 @@ prefecture: "大阪府"
 avgPricePerSqm: 280000
 publishDate: "2026-05-11"
 updatedDate: "2026-05-11"
+noindex: true
 ---
 
 > **TL;DR — 今里駅周辺の不動産買取**

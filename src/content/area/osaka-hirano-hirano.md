@@ -6,6 +6,7 @@ prefecture: "大阪府"
 avgPricePerSqm: 220000
 publishDate: "2026-05-11"
 updatedDate: "2026-05-11"
+noindex: true
 ---
 
 > **TL;DR — 平野駅周辺の不動産買取**

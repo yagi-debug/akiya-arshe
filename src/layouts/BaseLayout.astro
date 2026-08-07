@@ -15,6 +15,7 @@ interface Props {
   breadcrumbs?: { name: string; url: string }[];
   ogImage?: string;
   ogType?: string;
+  noindex?: boolean;
 }
 
 const {
@@ -26,8 +27,12 @@ const {
   breadcrumbs,
   ogImage = "/images/ogp-default.jpg",
   ogType = "website",
+  noindex = false,
 } = Astro.props;
-const canonicalURL = new URL(Astro.url.pathname, "https://akiya.arshe-corp.com");
+const canonicalPathname = Astro.url.pathname.endsWith("/")
+  ? Astro.url.pathname
+  : `${Astro.url.pathname}/`;
+const canonicalURL = new URL(canonicalPathname, "https://akiya.arshe-corp.com");
 const ogImageURL = new URL(ogImage, "https://akiya.arshe-corp.com");
 
 // RealEstateAgent と Organization は同一事業体のため単一ノードに統合
@@ -223,6 +228,8 @@ const allSchemas = schema ? [organizationSchema, websiteSchema, schema] : [organ
     <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
     <link rel="icon" href="/favicon.ico" sizes="32x32" />
     <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+
+    {noindex && <meta name="robots" content="noindex,follow" />}
 
     <!-- Google Search Console -->
     <meta name="google-site-verification" content="GqwOoxndCWJQybRlsSVMSNgIf1CV2zU5W9x1ZOvW49E" />

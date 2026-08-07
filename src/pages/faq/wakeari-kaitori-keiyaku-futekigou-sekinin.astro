@@ -1,0 +1,73 @@
+---
+import PageHero from "../../components/PageHero.astro";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+
+const breadcrumbs = [
+  { name: "ホーム", url: "/" },
+  { name: "よくある質問", url: "/faq" },
+  { name: "買取と契約不適合責任", url: "/faq/wakeari-kaitori-keiyaku-futekigou-sekinin" },
+];
+
+const question = "中古住宅を買取業者に売却する場合、契約不適合責任は発生しますか？";
+const answer =
+  "買取業者への売却では、契約書に「契約不適合責任免責」の特約を明記して取引するのが一般的です。買取業者はプロとして現況のリスクを織り込んだ価格を提示し、引き渡し後に見つかった欠陥（雨漏り・シロアリ被害・地中埋設物など）について売主が責任を負わない形にします。一般個人への仲介売却では契約不適合責任が発生するのが原則であるため、この違いが古い物件・訳あり物件の売主にとって買取を選ぶ理由の一つになっています。ただし免責の範囲は業者・契約内容によって異なるため、契約前に条項を必ず確認してください。";
+
+const qaSchema = {
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": question,
+    "text": question,
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": answer,
+      "url": "https://akiya.arshe-corp.com/faq/wakeari-kaitori-keiyaku-futekigou-sekinin/",
+    },
+  },
+};
+---
+
+<BaseLayout
+  title="中古住宅を買取に売る場合の契約不適合責任は？｜空き家のミカタ"
+  description="訳あり物件・中古住宅を買取業者に売却する際の契約不適合責任の扱いと、仲介売却との違いを宅建業者が解説します。"
+  schema={qaSchema}
+  breadcrumbs={breadcrumbs}
+>
+  <PageHero label="よくある質問" title={question} />
+  <section class="px-4 py-12 md:py-16">
+    <div class="mx-auto max-w-2xl">
+      <div class="mb-8 rounded-2xl border border-accent/30 bg-accent-soft/40 p-5 text-sm leading-relaxed text-primary">
+        <p class="font-bold">結論: 買取業者への売却は契約不適合責任免責が一般的です。</p>
+        <p class="mt-1">引き渡し後に欠陥が見つかっても、原則として売主が追加費用を求められることはありません。免責の範囲は契約書で必ず確認してください。</p>
+      </div>
+
+      <div class="mb-8 rounded-2xl border border-border bg-white p-6 shadow-[var(--shadow-soft)]">
+        <p class="mb-2 flex items-start gap-2 font-bold text-primary">
+          <span class="flex h-6 w-6 shrink-0 items-center justify-center rounded-full bg-accent-soft text-xs font-black text-accent">Q</span>
+          {question}
+        </p>
+        <p class="pl-8 text-text-light" set:html={answer} />
+      </div>
+
+      <div class="space-y-4 text-sm leading-relaxed text-text-light">
+        <p>契約不適合責任とは、引き渡した物件が契約内容（品質・数量等）に適合しない場合に、売主が買主に対して負う責任のことです（旧・瑕疵担保責任）。一般個人間の仲介売却では、雨漏り・シロアリ被害・給排水管の不具合などが引き渡し後に見つかると、売主が修補・損害賠償・契約解除の請求を受けるリスクがあります。</p>
+        <p>買取業者はこうしたリスクを織り込んだうえで査定額を提示し、契約書に免責特約を盛り込むのが一般的です。そのため売主は「現況のまま」引き渡せば済み、引き渡し後にトラブルを抱えるリスクを大幅に減らせます。これは老朽化した物件や、内部の状態を売主自身も把握しきれていない相続物件などで特に有効です。</p>
+        <p>ただし免責の範囲は業者・契約内容によって異なり、売主が「知っていて故意に告げなかった事実」については免責が及ばない場合もあります。契約前に免責特約の文言と、告知すべき事実の範囲を必ず確認してください。</p>
+      </div>
+
+      <div class="mt-10 rounded-2xl border border-border bg-bg p-5 text-sm">
+        <p class="mb-2 font-bold text-primary">あわせて読みたい</p>
+        <ul class="list-inside list-disc space-y-1 text-accent">
+          <li><a href="/guide/kaitori-gyosha-erabikata-checkpoints" class="underline">訳あり不動産買取業者を選ぶ5つのチェックポイント</a></li>
+          <li><a href="/faq" class="underline">よくある質問一覧に戻る</a></li>
+        </ul>
+      </div>
+
+      <p class="mt-8 text-center text-xs text-text-light">
+        執筆・監修: 八木宏樹（合同会社アルシェ代表）／合同会社アルシェ（宅建業免許: 大阪府知事(1)第65646号）
+      </p>
+    </div>
+  </section>
+</BaseLayout>

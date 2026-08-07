@@ -131,9 +131,23 @@ cluster: "inheritance"
 - [相続アパート「売る・貸す・管理委託する」三択を徹底比較](/guide/souzoku-apart-baikyaku-vs-chintai-vs-kanri)
 - [相続アパートを手放したい方へ｜売却の流れ・税金・失敗しない判断基準](/guide/souzoku-apart-kanzen-guide)
 - [相続アパートの買取｜手放したい・管理できないアパートを最短2週間で現金化](/guide/souzoku-apart-kaitori)
+- [相続アパート管理できない｜放置した場合の年間コスト実例3件と早期解決策](/guide/souzoku-apart-kanri-dekinai-houchi-cost)
+- [相続アパートのサブリース解約｜難しさと売却という選択肢](/guide/souzoku-apart-sublease-kaiyaku-baikyaku)
+- [入居者がいるアパートの売却方法](/guide/nyukyosha-apart-baikyaku)
 
 ---
 - <a href="/guide/souzoku-hub">相続不動産 完全ハブ｜処分・売却・登記・固定資産税・事例まで全ガイドをまとめて確認【2026年版】</a>
+
+<div style="background:#f0f7ff;border:2px solid #1a56db;border-radius:8px;padding:1.2rem 1.5rem;margin:1.5rem 0;">
+<strong>相続アパート、今の状況を3秒でチェック</strong>
+<ul style="margin:0.6rem 0 0.8rem;padding-left:1.2rem;">
+<li>築30年以上で大規模修繕が近い・修繕積立がない</li>
+<li>空室率が50%以上ある</li>
+<li>遠方で管理が難しい・サブリースを解約したい</li>
+<li>入居者がいるが売れるか分からない</li>
+</ul>
+<p style="margin:0;font-size:0.9rem;">1つでも当てはまれば、まずは無料査定でご相談ください。</p>
+</div>
 
 ## 修繕か売却かの判断・現況買取のご相談はこちら
 

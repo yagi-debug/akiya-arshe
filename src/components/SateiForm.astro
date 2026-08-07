@@ -21,14 +21,19 @@ const { id = "satei" } = Astro.props;
         <div class="satei-step-circle flex h-8 w-8 items-center justify-center rounded-full bg-primary text-sm font-bold text-white">1</div>
         <span class="hidden text-sm font-bold text-primary sm:block">物件タイプ</span>
       </div>
-      <div class="mx-3 h-px w-8 bg-border sm:w-12"></div>
+      <div class="mx-2 h-px w-5 bg-border sm:w-8"></div>
       <div class="satei-step-item flex items-center gap-2 opacity-40" data-step="2">
         <div class="satei-step-circle flex h-8 w-8 items-center justify-center rounded-full bg-text-light text-sm font-bold text-white">2</div>
         <span class="hidden text-sm font-bold text-text-light sm:block">エリア</span>
       </div>
-      <div class="mx-3 h-px w-8 bg-border sm:w-12"></div>
+      <div class="mx-2 h-px w-5 bg-border sm:w-8"></div>
       <div class="satei-step-item flex items-center gap-2 opacity-40" data-step="3">
         <div class="satei-step-circle flex h-8 w-8 items-center justify-center rounded-full bg-text-light text-sm font-bold text-white">3</div>
+        <span class="hidden text-sm font-bold text-text-light sm:block">築年数</span>
+      </div>
+      <div class="mx-2 h-px w-5 bg-border sm:w-8"></div>
+      <div class="satei-step-item flex items-center gap-2 opacity-40" data-step="4">
+        <div class="satei-step-circle flex h-8 w-8 items-center justify-center rounded-full bg-text-light text-sm font-bold text-white">4</div>
         <span class="hidden text-sm font-bold text-text-light sm:block">面積</span>
       </div>
     </div>
@@ -90,8 +95,35 @@ const { id = "satei" } = Astro.props;
       </div>
     </div>
 
-    <!-- Step 3: 面積 -->
+    <!-- Step 3: 築年数 -->
     <div class="satei-step-panel" data-panel="3" style="display:none">
+      <div class="px-6 py-6">
+        <h2 class="mb-5 text-lg font-bold text-primary">築年数を教えてください</h2>
+        <div class="grid grid-cols-2 gap-3">
+          {[
+            { value: "new", label: "築10年以内", sub: "査定額：比較的高め" },
+            { value: "mid", label: "築11〜20年", sub: "査定額：標準的な評価" },
+            { value: "old", label: "築21〜30年", sub: "査定額：やや割引" },
+            { value: "vold", label: "築31年以上", sub: "査定額：現況買取向き" },
+          ].map((age) => (
+            <button
+              type="button"
+              class="satei-age-btn rounded-xl border-2 border-border bg-white px-4 py-4 text-left transition-all hover:border-primary hover:shadow-md"
+              data-value={age.value}
+            >
+              <span class="block text-base font-bold text-primary">{age.label}</span>
+              <span class="mt-0.5 block text-xs text-text-light">{age.sub}</span>
+            </button>
+          ))}
+        </div>
+        <div class="mt-6">
+          <button type="button" class="satei-back w-full rounded-lg border border-border px-4 py-3 font-bold text-text-light transition-colors hover:bg-bg" data-to="2">← 戻る</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- Step 4: 面積 -->
+    <div class="satei-step-panel" data-panel="4" style="display:none">
       <div class="px-6 py-6">
         <h2 class="mb-5 text-lg font-bold text-primary">土地面積を入力してください</h2>
         <div class="space-y-3">
@@ -112,7 +144,7 @@ const { id = "satei" } = Astro.props;
           </div>
         </div>
         <div class="mt-6 flex gap-3">
-          <button type="button" class="satei-back flex-1 rounded-lg border border-border px-4 py-3 font-bold text-text-light transition-colors hover:bg-bg" data-to="2">← 戻る</button>
+          <button type="button" class="satei-back-area flex-1 rounded-lg border border-border px-4 py-3 font-bold text-text-light transition-colors hover:bg-bg">← 戻る</button>
           <button type="button" class="satei-calc flex-1 rounded-lg bg-primary px-4 py-3 font-bold text-white opacity-40 transition-all" disabled>無料でAI査定する</button>
         </div>
       </div>
@@ -127,8 +159,8 @@ const { id = "satei" } = Astro.props;
         <p class="text-sm font-bold opacity-80">AI概算査定結果</p>
         <p class="satei-result-summary mt-1 text-sm opacity-70"></p>
       </div>
-      <div class="px-6 py-8 text-center">
-        <p class="mb-2 text-sm font-bold text-text-light">推定市場価格</p>
+      <div class="px-6 py-6 text-center">
+        <p class="mb-1 text-sm font-bold text-text-light">推定市場価格</p>
         <p class="text-4xl font-bold text-primary md:text-5xl">
           <span class="satei-min"></span>
           <span class="mx-2 text-2xl text-text-light">〜</span>
@@ -136,7 +168,16 @@ const { id = "satei" } = Astro.props;
         </p>
         <p class="satei-pref-note mt-2 text-xs text-text-light" style="display:none">※都道府県平均値での概算です</p>
       </div>
-      <div class="satei-type-note mx-6 mb-6 rounded-lg bg-bg px-4 py-3 text-sm text-text-light"></div>
+      <div class="mx-6 mb-4 rounded-xl border-2 border-accent/30 bg-accent/5 px-5 py-4 text-center">
+        <p class="mb-1 text-xs font-bold tracking-wider text-accent">概算買取価格レンジ（訳あり・現況）</p>
+        <p class="text-3xl font-bold text-accent">
+          <span class="satei-buy-min"></span>
+          <span class="mx-2 text-xl text-text-light">〜</span>
+          <span class="satei-buy-max"></span>
+        </p>
+        <p class="mt-1 text-xs text-text-light">仲介手数料なし・現況買取・訳あり対応</p>
+      </div>
+      <div class="satei-type-note mx-6 mb-4 rounded-lg bg-bg px-4 py-3 text-sm text-text-light"></div>
       <div class="mx-6 mb-6 rounded-lg border border-border bg-bg/60 px-4 py-3 text-xs leading-relaxed text-text-light">
         本日時点での過去の不動産取引履歴をもとに、物件の市場価格を推定しています。実際の買取価格は物件の状態・立地条件・権利関係等により変動します。訳あり物件の場合は市場価格より低くなることもあります。
       </div>
@@ -196,6 +237,7 @@ const { id = "satei" } = Astro.props;
     let selectedType = "";
     let selectedPrefecture = "";
     let selectedCity = "";
+    let selectedAge = "";
 
     // --- ステップ表示 ---
     function showPanel(n) {
@@ -272,10 +314,26 @@ const { id = "satei" } = Astro.props;
     }
 
     next2Btn.addEventListener("click", () => {
-      if (selectedPrefecture && selectedCity) showPanel(3);
+      if (selectedPrefecture && selectedCity) {
+        showPanel(selectedType === "land" ? 4 : 3);
+      }
     });
 
-    // --- Step 3: 面積 ---
+    // --- Step 3: 築年数 ---
+    wrap.querySelectorAll(".satei-age-btn").forEach((btn) => {
+      btn.addEventListener("click", () => {
+        wrap.querySelectorAll(".satei-age-btn").forEach((b) => {
+          b.classList.remove("border-primary", "bg-primary/10");
+          b.classList.add("border-border");
+        });
+        btn.classList.add("border-primary", "bg-primary/10");
+        btn.classList.remove("border-border");
+        selectedAge = btn.dataset.value;
+        setTimeout(() => showPanel(4), 200);
+      });
+    });
+
+    // --- Step 4: 面積 ---
     const areaInput = wrap.querySelector(".satei-area");
     const tsuboInput = wrap.querySelector(".satei-tsubo");
     const calcBtn = wrap.querySelector(".satei-calc");
@@ -302,7 +360,36 @@ const { id = "satei" } = Astro.props;
       btn.addEventListener("click", () => showPanel(parseInt(btn.dataset.to)));
     });
 
+    // Step 4 back button: land → step 2, house/other → step 3
+    const backAreaBtn = wrap.querySelector(".satei-back-area");
+    if (backAreaBtn) {
+      backAreaBtn.addEventListener("click", () => {
+        showPanel(selectedType === "land" ? 2 : 3);
+      });
+    }
+
     // --- 計算 ---
+    function getBuyPriceRange(marketMin, marketMax) {
+      let minRate, maxRate;
+      if (selectedType === "land") {
+        minRate = 0.60; maxRate = 0.75;
+      } else if (selectedType === "house") {
+        if (selectedAge === "new")       { minRate = 0.65; maxRate = 0.80; }
+        else if (selectedAge === "mid")  { minRate = 0.55; maxRate = 0.70; }
+        else if (selectedAge === "old")  { minRate = 0.45; maxRate = 0.62; }
+        else                             { minRate = 0.38; maxRate = 0.55; } // vold or unset
+      } else { // other（マンション・共有持分等）
+        if (selectedAge === "new")       { minRate = 0.60; maxRate = 0.75; }
+        else if (selectedAge === "mid")  { minRate = 0.50; maxRate = 0.65; }
+        else if (selectedAge === "old")  { minRate = 0.43; maxRate = 0.58; }
+        else                             { minRate = 0.35; maxRate = 0.52; }
+      }
+      return {
+        buyMin: Math.round(marketMin * minRate),
+        buyMax: Math.round(marketMax * maxRate),
+      };
+    }
+
     function calculate(area) {
       const prefData = rosenkaData[selectedPrefecture];
       let rosenka, usedPrefAvg = false;
@@ -318,30 +405,36 @@ const { id = "satei" } = Astro.props;
       }
       const min = Math.round(rosenka * area * 0.8 / 10000);
       const max = Math.round(rosenka * area * 1.2 / 10000);
+      const { buyMin, buyMax } = getBuyPriceRange(min, max);
 
-      showResult(area, min, max, rosenka, usedPrefAvg);
+      showResult(area, min, max, buyMin, buyMax, rosenka, usedPrefAvg);
       sendGAS(area, min, max, rosenka);
 
       // GA4 コンバージョンイベント
       if (typeof gtag === 'function') {
         gtag('event', 'satei_submit', {
           event_category: 'conversion',
-          event_label: selectedType + '_' + selectedPrefecture + '_' + selectedCity,
+          event_label: selectedType + '_' + selectedAge + '_' + selectedPrefecture + '_' + selectedCity,
           page_path: window.location.pathname,
           estimated_min: min,
-          estimated_max: max
+          estimated_max: max,
+          buy_min: buyMin,
+          buy_max: buyMax
         });
       }
     }
 
-    function showResult(area, min, max, rosenka, usedPrefAvg) {
+    function showResult(area, min, max, buyMin, buyMax, rosenka, usedPrefAvg) {
       formCard.style.display = "none";
       resultEl.style.display = "block";
       const typeLabel = { land: "土地", house: "戸建て", other: "その他" }[selectedType] || "";
-      wrap.querySelector(".satei-result-summary").textContent =
-        `${selectedPrefecture} ${selectedCity} / ${typeLabel} / ${area}㎡`;
+      const ageLabel = { new: "築10年以内", mid: "築11〜20年", old: "築21〜30年", vold: "築31年以上" }[selectedAge] || "";
+      const parts = [selectedPrefecture, selectedCity, typeLabel, ageLabel, `${area}㎡`].filter(Boolean);
+      wrap.querySelector(".satei-result-summary").textContent = parts.join(" / ");
       wrap.querySelector(".satei-min").textContent = `${min.toLocaleString()}万円`;
       wrap.querySelector(".satei-max").textContent = `${max.toLocaleString()}万円`;
+      wrap.querySelector(".satei-buy-min").textContent = `${buyMin.toLocaleString()}万円`;
+      wrap.querySelector(".satei-buy-max").textContent = `${buyMax.toLocaleString()}万円`;
       const note = wrap.querySelector(".satei-pref-note");
       note.style.display = usedPrefAvg ? "block" : "none";
       const typeNotes = {
@@ -355,8 +448,12 @@ const { id = "satei" } = Astro.props;
 
     // --- やり直し ---
     wrap.querySelector(".satei-reset").addEventListener("click", () => {
-      selectedType = ""; selectedPrefecture = ""; selectedCity = "";
+      selectedType = ""; selectedPrefecture = ""; selectedCity = ""; selectedAge = "";
       wrap.querySelectorAll(".satei-type-btn").forEach((b) => {
+        b.classList.remove("border-primary", "bg-primary/10");
+        b.classList.add("border-border");
+      });
+      wrap.querySelectorAll(".satei-age-btn").forEach((b) => {
         b.classList.remove("border-primary", "bg-primary/10");
         b.classList.add("border-border");
       });

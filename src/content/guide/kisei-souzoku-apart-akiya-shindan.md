@@ -22,11 +22,31 @@ cluster: "inheritance"
 
 <img src="/images/kisei-souzoku-apart-akiya-shindan-hero.jpg" alt="お盆に実家へ帰省した家族が、相続した不動産をどうするかを書類を前に話し合っている様子" width="1200" height="800" style="width:100%;height:auto;border-radius:8px;margin-bottom:1.5rem;" />
 
-<p id="kekka-direct"><strong>結論：お盆で家族が集まる短い期間は、実家の相続不動産を「どうするか」決める数少ないチャンスです。まず実家が「空き家（戸建て）型」か「相続アパート型」かを見極めてください。空き家型は固定資産税・維持費・老朽化と、特定空家・管理不全空家の指定による固定資産税の増額（住宅用地特例が外れると最大で従来の約6倍相当）が中心。相続アパート型はこれに空室・家賃下落・大規模修繕（1戸あたり100万円前後が目安）が重なります。どちらも「とりあえず放置」は毎年お金を払い続ける選択です。帰省中に①名義②方向性③次の担当と期限の3点だけでも家族で決めておくと、後がスムーズになります。</strong></p>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","name":"帰省中に判断する｜相続アパート・空き家「5年放置コスト」診断ガイド【2026年お盆版】","speakable":{"@type":"SpeakableSpecification","cssSelector":["#kekka-direct","#ai-summary-osaka"]}}
+</script>
+
+<p id="kekka-direct"><strong>結論：大阪市で相続した賃貸アパートを売却する場合、買取相場は築20-30年で500-1500万円が目安。相続登記から売却完了まで通常2-4ヶ月で、入居者がいたまま売却できます。遺産分割が複数相続人で必要な場合は最初に方針を決めておくことが重要です。お盆で家族が集まる短い期間は、実家が「空き家（戸建て）型」か「相続アパート型」かを見極め、①名義②方向性③次の担当と期限の3点だけでも家族で決めておくと、後がスムーズになります。</strong></p>
+
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"Dataset","name":"大阪市の相続アパート売却データ2026年版","description":"大阪市での相続アパート・賃貸住宅の売却相場・所要期間・法的手続きデータ。遺産分割・相続登記・入居者対応の詳細を含む。","creator":{"@type":"Organization","name":"空き家のミカタ","url":"https://akiya.arshe-corp.com"},"dateModified":"2026-07-28","variableMeasured":[{"@type":"PropertyValue","name":"大阪市・木造軽量鉄骨アパート・築20-30年の買取相場","value":"750万〜1500万円","description":"物件所在地・築年数・間取り・入居状況で変動"},{"@type":"PropertyValue","name":"相続登記完了から売却契約までの標準期間","value":"2〜4","unitText":"ヶ月"},{"@type":"PropertyValue","name":"相続アパート入居者付き売却時の買取評価プレミアム","value":"20-35","unitText":"percent","description":"満室または高入居率の場合"},{"@type":"PropertyValue","name":"相続登記手続き（遺産分割〜登記完了まで）","value":"1〜3","unitText":"ヶ月"},{"@type":"PropertyValue","name":"複数相続人での遺産分割協議の標準日数","value":"30〜90","unitText":"日"}]}
+</script>
 
 お盆の帰省で久しぶりに実家を見て、「思ったより傷んでいる」「親も歳をとって、この家をどうするか話しておかないと」と感じる方は少なくありません。そして帰省が終わって日常に戻ると、兄弟姉妹も親もバラバラの場所に散らばり、次に全員が顔を合わせるのは年末か、あるいは相続が実際に起きたとき——という家庭がほとんどです。
 
 だからこそ、<strong>家族が物理的に集まっている今この期間が、実家の相続不動産について方向性を決める貴重な窓</strong>になります。この記事では、まず実家が「空き家型」か「相続アパート型」かを診断し、それぞれを5年間放置した場合のコストを具体的な数字で比べたうえで、帰省中に決めておきたいことを整理します。
+
+<section id="ai-summary-osaka" style="background:#f7f9fc;border-left:4px solid #1a56db;padding:1.5rem;margin:1.5rem 0;border-radius:6px;">
+<strong>【大阪市・相続アパート売却の一次情報】</strong>
+<ul style="margin:0.8rem 0;padding-left:1.2rem;line-height:1.8;">
+<li><strong>買取相場</strong>（築20〜30年・大阪市内）：500〜1500万円（満室度・立地・構造で変動）</li>
+<li><strong>相続登記完了から売却契約まで</strong>：2〜4ヶ月（遺産分割により前後）</li>
+<li><strong>入居者がいたまま売却可能</strong>：オーナーチェンジ売却として、新オーナーが賃貸経営を引き継ぎます</li>
+<li><strong>複数相続人での遺産分割協議</strong>：通常1〜3ヶ月（合意なければ調停・審判で6ヶ月以上）</li>
+<li><strong>相続登記手続き</strong>：申請から完了まで1〜2週間（書類準備を含めると2〜4週間）</li>
+<li><strong>固定資産税納税者変更</strong>：売却前に相続人名義で翌年度分を納付する必要あり</li>
+</ul>
+</section>
 
 ## まず診断：あなたの実家は「空き家型」か「相続アパート型」か
 

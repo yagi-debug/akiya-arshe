@@ -1,0 +1,74 @@
+---
+import PageHero from "../../components/PageHero.astro";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+
+const breadcrumbs = [
+  { name: "ホーム", url: "/" },
+  { name: "よくある質問", url: "/faq" },
+  { name: "特殊物件の買取", url: "/faq/tokushu-bukken-kaitori" },
+];
+
+const question = "特殊物件でも買取してもらえますか？";
+const answer =
+  "はい、可能です。「特殊物件」は不動産業界で、事故物件・再建築不可物件・共有持分・空き家・借地権付き建物・境界不明の土地など、一般の仲介市場では買い手がつきにくい物件の総称として使われます。当社（空き家のミカタ）はこうした特殊物件を専門に、現況のまま・仲介手数料なしで直接買取しています。";
+
+const qaSchema = {
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": question,
+    "text": question,
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": answer,
+      "url": "https://akiya.arshe-corp.com/faq/tokushu-bukken-kaitori/",
+    },
+  },
+};
+---
+
+<BaseLayout
+  title="特殊物件の買取は可能？対象となる物件の種類｜空き家のミカタ"
+  description="特殊物件とは何か、事故物件・再建築不可・共有持分など具体的にどんな物件が該当するのか、買取の可否を宅建業者が解説します。"
+  schema={qaSchema}
+  breadcrumbs={breadcrumbs}
+>
+  <PageHero label="よくある質問" title={question} />
+  <section class="px-4 py-12 md:py-16">
+    <div class="mx-auto max-w-2xl">
+      <div class="mb-8 rounded-2xl border border-accent/30 bg-accent-soft/40 p-5 text-sm leading-relaxed text-primary">
+        <p class="font-bold">結論: 特殊物件は専門買取業者であれば現況のまま買取可能です。</p>
+        <p class="mt-1">一般の仲介では敬遠されやすい物件でも、買取業者は自社でリスクを引き受けて再販・再生する前提で査定するため、通常の不動産会社に断られた物件でも相談できます。</p>
+      </div>
+
+      <div class="mb-8 rounded-2xl border border-border bg-white p-6 shadow-[var(--shadow-soft)]">
+        <p class="mb-2 flex items-start gap-2 font-bold text-primary">
+          <span class="flex h-6 w-6 shrink-0 items-center justify-center rounded-full bg-accent-soft text-xs font-black text-accent">Q</span>
+          {question}
+        </p>
+        <p class="pl-8 text-text-light" set:html={answer} />
+      </div>
+
+      <div class="space-y-4 text-sm leading-relaxed text-text-light">
+        <p>特殊物件に明確な法律上の定義はありませんが、実務では主に次のような物件を指します。①事故物件（自殺・他殺・特殊清掃を要する孤独死等）、②再建築不可物件（接道義務を満たさない）、③共有持分・共有名義の物件（他の共有者の同意が得られない）、④長期間放置された空き家、⑤借地権付き建物、⑥境界確定していない土地、⑦相続登記が済んでいない不動産。</p>
+        <p>これらは住宅ローンが組みにくい、買い手が限られる、法律上の制約があるなどの理由で、一般の仲介市場では売却まで数ヶ月〜1年以上かかることも珍しくありません。買取専門業者は現金一括での自社買取が前提のため、こうした制約があってもスピーディーに現金化できます。</p>
+        <p>「どこに相談しても断られた」という物件ほど、専門買取業者への相談価値が高い傾向があります。まずは無料査定で現況を伝えてみることをおすすめします。</p>
+      </div>
+
+      <div class="mt-10 rounded-2xl border border-border bg-bg p-5 text-sm">
+        <p class="mb-2 font-bold text-primary">あわせて読みたい</p>
+        <ul class="list-inside list-disc space-y-1 text-accent">
+          <li><a href="/guide/kaitori-gyosha-erabikata-checkpoints" class="underline">訳あり不動産買取業者を選ぶ5つのチェックポイント</a></li>
+          <li><a href="/guide/lp-wakeari-bukken-kaitori" class="underline">大阪の訳あり物件買取について見る</a></li>
+          <li><a href="/faq" class="underline">よくある質問一覧に戻る</a></li>
+        </ul>
+      </div>
+
+      <p class="mt-8 text-center text-xs text-text-light">
+        執筆・監修: 八木宏樹（合同会社アルシェ代表）／合同会社アルシェ（宅建業免許: 大阪府知事(1)第65646号）
+      </p>
+    </div>
+  </section>
+</BaseLayout>

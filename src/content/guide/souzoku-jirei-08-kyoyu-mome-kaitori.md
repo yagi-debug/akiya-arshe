@@ -2,8 +2,8 @@
 title: "【体験談・事例08】「弟が売りたくない」と3年間膠着した実家の共有持分を32日で現金化した全記録"
 description: "父から相続した大阪市の実家をめぐり、弟の同意が得られず3年間固定資産税を払い続けていたBさん（53歳）。「全員の同意なしに売れる」方法を知り、訳あり専門業者への相談から32日で持分を現金化した全記録。共有持分のまま動けた理由と法的根拠を解説。"
 publishDate: "2026-05-23"
-updatedDate: "2026-06-07"
-author: "空き家のミカタ編集部"
+updatedDate: "2026-07-20"
+author: "八木宏樹（合同会社アルシェ代表）"
 authorTitle: "宅地建物取引業者（大阪府知事(1)第65646号）"
 heroImage: "/images/souzoku-jirei-08-hero.jpg"
 faqs:
@@ -337,6 +337,9 @@ Bさんの事例のポイントを整理します。
 - <a href="/guide/joint-ownership-sale">共有名義の不動産を売却する方法——兄弟で相続した家を売るには</a>
 - <a href="/guide/souzoku-jirei-06-kouken-fudosan-kaitori">【体験談06】認知症の父の家を成年後見人として売却した全記録</a>
 - <a href="/guide/kaitori-gyosha-erabikata-checkpoints">訳あり買取業者の選び方——7つのチェックポイント</a>
+
+
+→ **[60秒で概算査定（無料・匿名OK）](/satei)**　物件種別・築年数・エリアを選ぶだけで市場価格と概算買取価格を即時表示。
 
 ## 関連するガイド記事
 

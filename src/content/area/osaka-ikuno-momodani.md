@@ -6,6 +6,7 @@ prefecture: "大阪府"
 avgPricePerSqm: 250000
 publishDate: "2026-06-25"
 updatedDate: "2026-06-25"
+noindex: true
 ---
 
 > **TL;DR — 桃谷駅周辺の不動産買取**

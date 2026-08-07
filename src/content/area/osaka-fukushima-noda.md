@@ -7,6 +7,7 @@ avgPricePerSqm: 650000
 publishDate: "2026-06-11"
 updatedDate: "2026-06-11"
 author: "宅建業者"
+noindex: true
 ---
 
 > **TL;DR — 野田・海老江の不動産買取**

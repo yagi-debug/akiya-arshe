@@ -7,6 +7,7 @@ avgPricePerSqm: 220000
 publishDate: "2026-06-17"
 updatedDate: "2026-06-17"
 author: "宅建業者"
+noindex: true
 ---
 
 > **TL;DR — 放出（はなてん）エリアの不動産買取**

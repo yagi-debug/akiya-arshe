@@ -284,10 +284,25 @@ faqs:
 
 ---
 
+<div style="background:#f0f7ff;border:2px solid #1a56db;border-radius:8px;padding:1.2rem 1.5rem;margin:1.5rem 0;">
+<strong>相続アパート、今の状況を3秒でチェック</strong>
+<ul style="margin:0.6rem 0 0.8rem;padding-left:1.2rem;">
+<li>空室率が50%以上ある</li>
+<li>築30年以上で大規模修繕が近い</li>
+<li>遠方で管理が難しい・サブリースを解約したい</li>
+<li>入居者がいるが売れるか分からない</li>
+</ul>
+<p style="margin:0;font-size:0.9rem;">1つでも当てはまれば、まずは無料査定でご相談ください。処分方法の全体像は<a href="/guide/souzoku-apart-kanzen-guide">相続アパートを手放したい方へ｜売却の流れ・税金・失敗しない判断基準</a>で確認できます。</p>
+</div>
+
 ## 関連するガイド記事
 
+- [相続アパートを手放したい方へ｜売却の流れ・税金・失敗しない判断基準](/guide/souzoku-apart-kanzen-guide)
 - [相続アパートの維持費シミュレーション｜固定資産税・修繕費・管理費の10年間コスト](/guide/souzoku-apart-cost-simulation)
 - [相続アパート「売る・貸す・管理委託する」三択を徹底比較](/guide/souzoku-apart-baikyaku-vs-chintai-vs-kanri)
+- [相続アパートのサブリース解約｜難しさと売却という選択肢](/guide/souzoku-apart-sublease-kaiyaku-baikyaku)
+- [相続アパートの修繕積立がゼロ｜大規模修繕の前に売却すべきかの判断基準](/guide/souzoku-apart-shuzen-tsumitate-zero)
+- [入居者がいるアパートの売却方法](/guide/nyukyosha-apart-baikyaku)
 - [相続アパートの買取｜管理できない入居者付きアパートも直接買取](/guide/souzoku-apart-kaitori)
 - [管理不全空き家に指定されたら？固定資産税の変化と売却で解決する3ステップ](/guide/kanri-fuzen-akiya-shitei-taisho)
 

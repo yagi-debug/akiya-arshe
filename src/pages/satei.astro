@@ -70,8 +70,8 @@ const faqSchema = {
 ---
 
 <BaseLayout
-  title="【匿名OK・60秒】訳あり不動産の買取査定｜相続アパート・空き家・再建築不可の価格がすぐわかる"
-  description="匿名で使える訳あり不動産の買取査定フォーム。物件種別・エリアを選ぶだけで60秒で概算価格を表示。相続アパート・再建築不可・事故物件・共有持分・空き家すべて対応。最短3日で現金化。査定完全無料・売却強制なし。大阪府知事(1)第65646号。"
+  title="【匿名OK】訳あり不動産 買取価格シミュレーター｜物件種別・築年数・エリアで60秒概算査定＋買取vs仲介比較【2026年版】"
+  description="物件種別・築年数・エリアを選ぶだけで60秒で「市場価格」と「概算買取価格」の両方を表示。相続アパート・再建築不可・事故物件・共有持分・空き家すべて対応。買取vs仲介vs放置の比較表付き。完全無料・匿名OK・売却強制なし。大阪府知事(1)第65646号。"
   schema={schema}
   faqSchema={faqSchema}
 >
@@ -89,6 +89,44 @@ const faqSchema = {
       </div>
 
       <SateiForm id="satei-page" />
+
+      <!-- 買取 vs 仲介 vs 放置 比較セクション -->
+      <section class="mt-10 rounded-xl border border-border bg-white p-6">
+        <h2 class="mb-2 text-xl font-bold text-primary">買取 vs 仲介 vs 放置——どれが正解？</h2>
+        <p class="mb-4 text-sm text-text-light">査定額シミュレーター結果と合わせて、3つの選択肢を比較してください。</p>
+        <div class="overflow-x-auto">
+          <table class="w-full text-sm border-collapse">
+            <thead>
+              <tr class="bg-primary/10">
+                <th class="border border-border px-3 py-2 text-left font-bold text-primary">比較軸</th>
+                <th class="border border-border px-3 py-2 text-center font-bold text-accent">買取</th>
+                <th class="border border-border px-3 py-2 text-center font-bold text-primary">仲介</th>
+                <th class="border border-border px-3 py-2 text-center font-bold text-text-light">放置</th>
+              </tr>
+            </thead>
+            <tbody>
+              {[
+                { axis: "現金化スピード", kaitori: "最短2〜3週間", chukai: "3〜12ヶ月", houchi: "なし（ずっと保有）" },
+                { axis: "手取り額", kaitori: "相場の60〜80%（手数料0円）", chukai: "相場通り（手数料3%+6万円）", houchi: "なし。価値は下落" },
+                { axis: "訳あり物件対応", kaitori: "◎ 現況のまま買取", chukai: "△ 断られることが多い", houchi: "✗ 問題は解決しない" },
+                { axis: "内覧・片付け", kaitori: "不要", chukai: "必要", houchi: "管理コストが毎年増加" },
+                { axis: "固定資産税", kaitori: "売却後ゼロ", chukai: "売れるまで毎年発生", houchi: "10年で100〜300万円超" },
+                { axis: "精神的負担", kaitori: "低（早期に解決）", chukai: "中（売れるまで不安）", houchi: "高（老朽化・苦情・特定空き家リスク）" },
+              ].map((row) => (
+                <tr class="even:bg-bg">
+                  <td class="border border-border px-3 py-2 font-bold text-text">{row.axis}</td>
+                  <td class="border border-border px-3 py-2 text-center text-accent">{row.kaitori}</td>
+                  <td class="border border-border px-3 py-2 text-center text-text">{row.chukai}</td>
+                  <td class="border border-border px-3 py-2 text-center text-text-light">{row.houchi}</td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
+        <p class="mt-4 rounded-lg bg-accent/5 border border-accent/20 px-4 py-3 text-sm font-bold text-accent">
+          結論：急いで売る・訳あり・築古なら<strong>買取</strong>が有利。時間に余裕がある・築浅・好立地なら<strong>仲介</strong>を検討。<strong>放置は10年で固定資産税・管理費100〜300万円超の損失</strong>になるため最悪の選択。
+        </p>
+      </section>
 
       <section class="mt-10 rounded-xl border border-border bg-white p-6">
         <h2 class="mb-4 text-xl font-bold text-primary">買取実績（匿名・一部抜粋）</h2>
