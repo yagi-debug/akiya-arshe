@@ -66,7 +66,7 @@ const breadcrumbs = [
           以下のフォームにご記入ください。通常1営業日以内にご連絡いたします。
         </p>
 
-        <form action="#" method="POST" class="space-y-6">
+        <form id="contact-form" class="space-y-6">
           <!-- お名前 -->
           <div>
             <label for="name" class="mb-1 block text-sm font-bold text-text">
@@ -82,33 +82,20 @@ const breadcrumbs = [
             />
           </div>
 
-          <!-- 電話番号 -->
-          <div>
-            <label for="phone" class="mb-1 block text-sm font-bold text-text">
-              電話番号 <span class="text-red-500">*</span>
-            </label>
-            <input
-              type="tel"
-              id="phone"
-              name="phone"
-              required
-              placeholder="例: 090-1234-5678"
-              class="w-full rounded-lg border border-border px-4 py-3 text-sm transition-colors focus:border-accent focus:ring-2 focus:ring-accent/20 focus:outline-none"
-            />
-          </div>
-
-          <!-- メールアドレス -->
+          <!-- メールアドレス（返信先） -->
           <div>
             <label for="email" class="mb-1 block text-sm font-bold text-text">
-              メールアドレス
+              メールアドレス <span class="text-red-500">*</span>
             </label>
             <input
               type="email"
               id="email"
               name="email"
+              required
               placeholder="例: yamada@example.com"
               class="w-full rounded-lg border border-border px-4 py-3 text-sm transition-colors focus:border-accent focus:ring-2 focus:ring-accent/20 focus:outline-none"
             />
+            <p class="mt-1 text-xs text-text-light">ご返信はメールでお送りします（お電話は差し上げません）</p>
           </div>
 
           <!-- 物件の種類 -->
@@ -161,12 +148,57 @@ const breadcrumbs = [
           <div class="text-center">
             <button
               type="submit"
+              id="contact-submit-btn"
               class="inline-block w-full rounded-lg bg-accent px-8 py-4 text-lg font-bold text-white shadow-lg transition-all hover:bg-accent-light hover:shadow-xl sm:w-auto"
             >
               無料相談を申し込む
             </button>
+            <p id="contact-form-error" class="mt-3 hidden text-sm font-bold text-red-500"></p>
           </div>
         </form>
+
+        <!-- 送信完了メッセージ（成功時にフォームと差し替え） -->
+        <div id="contact-form-done" class="hidden rounded-lg bg-primary/5 p-8 text-center">
+          <p class="mb-2 text-lg font-bold text-primary">送信しました</p>
+          <p class="text-sm leading-relaxed text-text">
+            ご相談ありがとうございます。通常1営業日以内に、ご記入いただいたメールアドレスへご返信します。<br />
+            お急ぎの場合は<a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" target="_blank" rel="noopener noreferrer" class="font-bold text-accent underline">LINE</a>からもご相談いただけます。
+          </p>
+        </div>
+
+        <script>
+          const FORM_ENDPOINT = "https://line.arshe1719.workers.dev/api/forms/e713cdc0-17da-4830-89f4-5272886bdd7b/submit";
+          const form = document.getElementById("contact-form") as HTMLFormElement;
+          const errEl = document.getElementById("contact-form-error")!;
+          const doneEl = document.getElementById("contact-form-done")!;
+          const btn = document.getElementById("contact-submit-btn") as HTMLButtonElement;
+          form?.addEventListener("submit", async (e) => {
+            e.preventDefault();
+            errEl.classList.add("hidden");
+            btn.disabled = true;
+            btn.textContent = "送信中…";
+            const fd = new FormData(form);
+            const data = Object.fromEntries(fd.entries());
+            try {
+              const res = await fetch(FORM_ENDPOINT, {
+                method: "POST",
+                headers: { "Content-Type": "application/json" },
+                body: JSON.stringify({ data }),
+              });
+              const json = await res.json();
+              if (!json.success) throw new Error(json.error || "送信に失敗しました");
+              // @ts-ignore
+              if (typeof gtag === "function") gtag("event", "form_submit", { event_category: "conversion", page_path: location.pathname });
+              form.style.display = "none";
+              doneEl.classList.remove("hidden");
+            } catch (err) {
+              errEl.textContent = (err instanceof Error ? err.message : "送信に失敗しました") + "。お手数ですがLINEまたはメールでご連絡ください。";
+              errEl.classList.remove("hidden");
+              btn.disabled = false;
+              btn.textContent = "無料相談を申し込む";
+            }
+          });
+        </script>
       </div>
 
       <!-- 安心メッセージ -->

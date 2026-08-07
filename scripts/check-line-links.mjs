@@ -14,7 +14,7 @@ import { join, extname } from 'node:path';
 
 const ROOTS = ['src', 'public'];
 const EXTS = new Set(['.astro', '.md', '.mdx', '.ts', '.js', '.mjs', '.txt', '.html', '.json', '.xml']);
-const ALLOWED = /^https:\/\/line\.arshe1719\.workers\.dev\/auth\/line\?ref=(hp|llms)$/;
+const ALLOWED = /^https:\/\/line\.arshe1719\.workers\.dev\/(auth\/line\?ref=(hp|llms)|api\/forms\/e713cdc0-17da-4830-89f4-5272886bdd7b\/submit)$/;
 
 // URLらしき塊を拾う各パターン。lin.ee は全面禁止（経路が取れない旧URL＋創作URLの温床）
 const SUSPECTS = [
