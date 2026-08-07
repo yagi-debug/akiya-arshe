@@ -210,5 +210,5 @@ A. 共有関係を解消しやすくするため、①所在不明共有者の�
 
 「共有者と連絡が取れない」「行方不明の共有者がいて売れない」という状況でも、持分だけの売却からご相談いただけます。現状をお聞きして、最適な方法をご提案します。査定・相談は無料です。
 
-<a href="https://lin.ee/9Fk9EUl" style="display:inline-block;background:#06C755;color:#fff;padding:14px 32px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 8px 8px 0;">LINEで無料相談（即日対応）</a>
+<a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06C755;color:#fff;padding:14px 32px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 8px 8px 0;">LINEで無料相談（即日対応）</a>
 <a href="/contact" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 32px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 0;">お問い合わせフォーム</a>

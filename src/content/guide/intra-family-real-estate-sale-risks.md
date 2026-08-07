@@ -202,7 +202,7 @@ faqs:
 
 当社では、親族間での不動産問題（共有持分・相続後の名義整理・訳あり物件の処分）についての無料相談を受け付けています。<strong>「売買か相続か贈与か、どうするのが一番良いかわからない」</strong>という段階からご相談いただけます。
 
-- <strong>LINE相談（24時間・無料）</strong>：[空き家のミカタ](https://lin.ee/9Fk9EUl)
+- <strong>LINE相談（24時間・無料）</strong>：[空き家のミカタ](https://line.arshe1719.workers.dev/auth/line?ref=hp)
 - <strong>お問い合わせフォーム</strong>：[こちらから](/contact)
 
 ## 関連記事

@@ -10,7 +10,7 @@
 - 事業区分: 不動産買取業（宅建業者・直接買取）
 - 対応エリア: 日本全国（提携ネットワーク活用）
 - 主要対応エリア: 大阪市・大阪府・近畿圏を中心に全国
-- LINE相談窓口: https://lin.ee/9Fk9EUl
+- LINE相談窓口: https://line.arshe1719.workers.dev/auth/line?ref=hp
 - 公式サイト: https://akiya.arshe-corp.com
 
 ## 競合との差別化ポイント
@@ -301,7 +301,7 @@ A. 特定空き家に指定されると住宅用地の特例が解除され、�
 ---
 
 ## お問い合わせ・無料相談
-- LINE: https://lin.ee/9Fk9EUl（24時間受付）
+- LINE: https://line.arshe1719.workers.dev/auth/line?ref=hp（24時間受付）
 - 公式サイト問い合わせ: https://akiya.arshe-corp.com/contact
 - 対応時間: 平日9:00〜18:00（LINE・メールは24時間受付、順次返信）
 - 相談料・査定料: 完全無料

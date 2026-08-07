@@ -180,5 +180,5 @@ A. 借地借家法第11条に基づき、地代の増額請求は可能です。
 
 底地の処分に困っている方のご相談をお受けしています。底地の状況（旧法・新法の区別、地代の収支、借地人との関係）を教えていただければ、現実的な処分方針をご提案します。査定・相談は無料で、しつこい営業は行いません。
 
-<a href="https://lin.ee/9Fk9EUl" style="display:inline-block;background:#06C755;color:#fff;padding:14px 32px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 8px 8px 0;">LINEで無料相談（即日対応）</a>
+<a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06C755;color:#fff;padding:14px 32px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 8px 8px 0;">LINEで無料相談（即日対応）</a>
 <a href="/contact" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 32px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 0;">お問い合わせフォーム</a>

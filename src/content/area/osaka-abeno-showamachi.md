@@ -164,7 +164,7 @@ A: 大阪市の補助制度は申請から完了まで数か月〜1年程度か�
 
 <strong>LINE公式アカウント「空き家のミカタ」</strong>で24時間ご相談を受け付けております。
 
-<a href="https://lin.ee/9Fk9EUl">LINEで無料相談する</a>
+<a href="https://line.arshe1719.workers.dev/auth/line?ref=hp">LINEで無料相談する</a>
 
 ---
 

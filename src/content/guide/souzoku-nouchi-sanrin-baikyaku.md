@@ -211,7 +211,7 @@ faqs:
 
 農地・山林は「一般の不動産会社では扱えない」と断られることも多いですが、当社では状況を整理してどの窓口に相談すればよいかまで、<strong>無料でご案内します。</strong>「何から始めればいいかわからない」という段階でも構いません。
 
-<strong><a href="https://lin.ee/9Fk9EUl">LINEで無料相談する</a></strong>
+<strong><a href="https://line.arshe1719.workers.dev/auth/line?ref=hp">LINEで無料相談する</a></strong>
 
 <a href="/contact">お問い合わせフォームはこちら</a>
 

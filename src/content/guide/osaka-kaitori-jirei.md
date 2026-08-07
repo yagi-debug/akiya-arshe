@@ -328,7 +328,7 @@ faqs:
 
 LINEからのお問い合わせが一番スムーズです。物件の写真・登記情報などをそのままお送りいただけます。
 
-[LINEで無料相談する（友だち追加）](https://lin.ee/9Fk9EUl)
+[LINEで無料相談する（友だち追加）](https://line.arshe1719.workers.dev/auth/line?ref=hp)
 
 ### お問い合わせフォーム
 

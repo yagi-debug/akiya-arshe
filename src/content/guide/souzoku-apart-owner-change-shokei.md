@@ -241,7 +241,7 @@ A: 扱いが変わります。サブリースでは相手が入居者ではな�
 
 <p style="margin-top:0.75rem;">「空き家のミカタ」では、入居者が住んでいる相続アパートを、そのままの状態で査定・買取しています。敷金の精算・滞納の扱い・賃貸人変更通知・保証会社の切替まで、承継の実務をこちらで進めます。書類が揃っていない段階でもご相談いただけます。</p>
 
-<a href="https://lin.ee/9Fk9EUl" target="_blank" rel="noopener noreferrer" style="display:inline-block;background:#06C755;color:#fff;padding:0.75rem 2rem;border-radius:8px;font-weight:bold;text-decoration:none;margin-top:1rem;">LINEで無料相談する</a>
+<a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" target="_blank" rel="noopener noreferrer" style="display:inline-block;background:#06C755;color:#fff;padding:0.75rem 2rem;border-radius:8px;font-weight:bold;text-decoration:none;margin-top:1rem;">LINEで無料相談する</a>
 
 <p style="margin-top:0.5rem;font-size:0.9rem;">「空き家のミカタ」を友だち追加してください</p>
 

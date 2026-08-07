@@ -239,6 +239,6 @@ faqs:
 
 お客様の物件情報をもとに、維持費の概算と買取価格の両方をお伝えしますので、比較検討の材料としてご活用ください。査定は無料です。
 
-<a href="https://lin.ee/9Fk9EUl" target="_blank" rel="noopener noreferrer"><strong>LINEで無料相談する</strong></a>
+<a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" target="_blank" rel="noopener noreferrer"><strong>LINEで無料相談する</strong></a>
 
 <a href="/contact"><strong>お問い合わせフォームはこちら</strong></a>

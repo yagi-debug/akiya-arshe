@@ -217,7 +217,7 @@ LINEまたはお問い合わせフォームから、空き家の住所と「だ�
 
 <strong>宅建業者が直接お答えします。</strong>他社で断られた物件も、状態がわからない物件も、まずは査定いたします。
 
-<strong><a href="https://lin.ee/9Fk9EUl">LINEで無料相談する</a></strong>
+<strong><a href="https://line.arshe1719.workers.dev/auth/line?ref=hp">LINEで無料相談する</a></strong>
 
 <a href="/contact">お問い合わせフォームはこちら</a>
 

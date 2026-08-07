@@ -174,7 +174,7 @@ howToSteps:
 
 「まだ滞納していないが不安」「競売の通知が届いた」「とにかく話を聞いてほしい」——どの段階でも構いません。宅建業者が直接、状況に合った選択肢をお伝えします。
 
-<strong>[LINEで無料相談する](https://lin.ee/9Fk9EUl)</strong>
+<strong>[LINEで無料相談する](https://line.arshe1719.workers.dev/auth/line?ref=hp)</strong>
 
 <strong>[お問い合わせフォームはこちら](/contact)</strong>
 

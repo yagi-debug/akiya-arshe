@@ -197,7 +197,7 @@ faqs:
 「接道なしで売れない」と言われた袋地でも、空き家のミカタでは現況のまま直接お買い取りします。全国対応・最短2週間で現金化・仲介手数料ゼロ。まずは無料査定をお試しください。
 
 <ul>
-<li><strong>LINEで無料相談：</strong><a href="https://lin.ee/xxxxx" rel="noopener">公式LINEから相談する</a>（24時間受付・秘密厳守）</li>
+<li><strong>LINEで無料相談：</strong><a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" rel="noopener">公式LINEから相談する</a>（24時間受付・秘密厳守）</li>
 <li><strong>フォームから査定依頼：</strong><a href="/contact">無料査定フォーム</a></li>
 </ul>
 

@@ -182,7 +182,7 @@ howToSteps:
 <div style="background:#f0f7ff;border-left:4px solid #2563eb;padding:1.5rem;border-radius:8px;margin:2rem 0;">
 <strong>無料相談・査定のお申し込み</strong><br>
 訳あり不動産の売却は「空き家のミカタ」にご相談ください。相続アパート・再建築不可・事故物件・共有持分など、一般仲介で断られた物件もお気軽にご相談いただけます。<br><br>
-<p style="margin:0.5rem 0;"><a href="https://lin.ee/9Fk9EUl" style="background:#06c755;color:#fff;padding:0.6rem 1.4rem;border-radius:6px;text-decoration:none;font-weight:bold;display:inline-block;">LINEで無料相談（24時間受付）</a></p>
+<p style="margin:0.5rem 0;"><a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="background:#06c755;color:#fff;padding:0.6rem 1.4rem;border-radius:6px;text-decoration:none;font-weight:bold;display:inline-block;">LINEで無料相談（24時間受付）</a></p>
 <p style="margin:0.5rem 0;"><a href="/contact" style="background:#2563eb;color:#fff;padding:0.6rem 1.4rem;border-radius:6px;text-decoration:none;font-weight:bold;display:inline-block;">お問い合わせフォームから相談する</a></p>
 電話番号の掲載はありませんが、LINEまたはフォームからご連絡いただければ、通常1営業日以内にご返信します。
 </div>

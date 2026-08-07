@@ -183,7 +183,7 @@ A: はい、建物がなくなれば建物に対する火災保険は不要に�
 
 <p style="margin-top:0.75rem;">「空き家のミカタ」では、保険・固定資産税・管理費に悩む空き家オーナーのご相談を無料で受け付けています。現況のまま査定・買取しますので、修繕や解体の費用は不要です。まずお気軽にご状況をお聞かせください。</p>
 
-<a href="https://lin.ee/9Fk9EUl" target="_blank" rel="noopener noreferrer" style="display:inline-block;background:#06C755;color:#fff;padding:0.75rem 2rem;border-radius:8px;font-weight:bold;text-decoration:none;margin-top:1rem;">LINEで無料相談する</a>
+<a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" target="_blank" rel="noopener noreferrer" style="display:inline-block;background:#06C755;color:#fff;padding:0.75rem 2rem;border-radius:8px;font-weight:bold;text-decoration:none;margin-top:1rem;">LINEで無料相談する</a>
 
 <p style="margin-top:0.5rem;font-size:0.9rem;">「空き家のミカタ」を友だち追加してください</p>
 

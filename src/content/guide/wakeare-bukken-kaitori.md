@@ -282,7 +282,7 @@ LINEまたはお問い合わせフォームから物件の状況をお伝えく�
 
 「本当に売れるのか」「いくらになるのか」だけでも教えていただければ、概算査定をお伝えします。複数の選択肢を比較してから判断していただいて構いません。
 
-<strong>[LINEで無料相談する](https://lin.ee/9Fk9EUl)</strong>
+<strong>[LINEで無料相談する](https://line.arshe1719.workers.dev/auth/line?ref=hp)</strong>
 
 <strong>[お問い合わせフォームはこちら](/contact)</strong>
 

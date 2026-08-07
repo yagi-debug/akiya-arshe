@@ -384,7 +384,7 @@ A: 主な選択肢は、アルバリンク（東証グロース上場・全国�
 
 <strong>「他社に断られた」「相談だけでもOK？」という方も歓迎します。</strong>
 
-<a href="https://lin.ee/9Fk9EUl" target="_blank" rel="noopener noreferrer"><strong>LINEで無料相談する（空き家のミカタ）</strong></a>
+<a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" target="_blank" rel="noopener noreferrer"><strong>LINEで無料相談する（空き家のミカタ）</strong></a>
 
 <script type="application/ld+json">
 {

@@ -162,6 +162,6 @@ Q1・Q2のどちらかに「はい」があれば<strong>相続アパート型�
 
 物件情報をもとに、現況のままの買取価格をお伝えします。放置した場合の維持費と並べて、ご家族での話し合いの材料としてご活用ください。査定は無料で、売却の義務はありません。
 
-<a href="https://lin.ee/9Fk9EUl" target="_blank" rel="noopener noreferrer"><strong>LINEで無料相談する</strong></a>
+<a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" target="_blank" rel="noopener noreferrer"><strong>LINEで無料相談する</strong></a>
 
 <a href="/contact"><strong>お問い合わせフォームはこちら</strong></a>

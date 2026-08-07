@@ -130,7 +130,7 @@ faqs:
 
 <div style="background:#fff5f5;border:2px solid #e53e3e;border-radius:12px;padding:1.5rem;margin:2rem 0;text-align:center;">
   <p style="font-size:1.1rem;font-weight:bold;color:#c53030;margin-bottom:1rem;">LINE「空き家のミカタ」で24時間無料相談受付中</p>
-  <a href="https://lin.ee/9Fk9EUl" style="display:inline-block;background:#06c755;color:white;padding:0.75rem 2rem;border-radius:8px;font-size:1rem;font-weight:bold;text-decoration:none;margin-bottom:1rem;">LINEで無料相談する</a>
+  <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06c755;color:white;padding:0.75rem 2rem;border-radius:8px;font-size:1rem;font-weight:bold;text-decoration:none;margin-bottom:1rem;">LINEで無料相談する</a>
   <p style="font-size:0.9rem;color:#666;margin:0;">相続した家・訳あり物件のご相談はお気軽にどうぞ</p>
 </div>
 

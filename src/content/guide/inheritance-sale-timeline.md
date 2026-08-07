@@ -222,7 +222,7 @@ faqs:
 
 相談無料・秘密厳守。宅建業者が丁寧にお話をうかがいます。
 
-<a href="https://lin.ee/9Fk9EUl" target="_blank" rel="noopener noreferrer" style="display:inline-block;background:#06C755;color:#fff;padding:0.75rem 2rem;border-radius:8px;font-weight:bold;text-decoration:none;margin-top:1rem;">LINEで無料相談する</a>
+<a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" target="_blank" rel="noopener noreferrer" style="display:inline-block;background:#06C755;color:#fff;padding:0.75rem 2rem;border-radius:8px;font-weight:bold;text-decoration:none;margin-top:1rem;">LINEで無料相談する</a>
 
 「空き家のミカタ」を友だち追加してください
 

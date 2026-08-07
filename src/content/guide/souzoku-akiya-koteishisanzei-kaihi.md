@@ -204,7 +204,7 @@ cluster: "akiya-tax"
 
 <strong>空き家のミカタ</strong>では、相続した空き家の売却や活用方法のご相談を<strong>無料</strong>でお受けしています。査定・相談は完全無料、強引な営業は一切ありません。
 
-<a href="https://lin.ee/9Fk9EUl" rel="noopener noreferrer">LINE「空き家のミカタ」で無料相談する</a>
+<a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" rel="noopener noreferrer">LINE「空き家のミカタ」で無料相談する</a>
 
 <a href="/contact">お問い合わせフォームはこちら</a>
 

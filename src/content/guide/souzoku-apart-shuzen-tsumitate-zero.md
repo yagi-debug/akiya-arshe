@@ -155,6 +155,6 @@ cluster: "inheritance"
 
 物件情報をもとに、現況のままの買取価格をお伝えします。修繕して保有する場合の負担と並べて、比較検討の材料としてご活用ください。査定は無料で、売却の義務はありません。
 
-<a href="https://lin.ee/9Fk9EUl" target="_blank" rel="noopener noreferrer"><strong>LINEで無料相談する</strong></a>
+<a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" target="_blank" rel="noopener noreferrer"><strong>LINEで無料相談する</strong></a>
 
 <a href="/contact"><strong>お問い合わせフォームはこちら</strong></a>

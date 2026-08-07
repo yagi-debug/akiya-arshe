@@ -114,7 +114,7 @@ const organizationSchema = {
     {
       "@type": "ContactPoint",
       "contactType": "customer service",
-      "url": "https://lin.ee/9Fk9EUl",
+      "url": "https://line.arshe1719.workers.dev/auth/line?ref=hp",
       "areaServed": "JP",
       "availableLanguage": "Japanese",
     },
@@ -147,7 +147,7 @@ const organizationSchema = {
     "https://note.com/akiyanomikata",
     "https://arshe1719.hatenablog.com",
     "https://www.instagram.com/akiyanomikata/",
-    "https://lin.ee/9Fk9EUl",
+    "https://line.arshe1719.workers.dev/auth/line?ref=hp",
     "https://maps.google.com/?cid=6023985736729171148",
     "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=2120003013530",
     "https://www.houjin-bangou.nta.go.jp/henkorireki-johoto.html?selHouzinNo=2120003013530",
@@ -250,8 +250,8 @@ const allSchemas = schema ? [organizationSchema, websiteSchema, schema] : [organ
         var pagePath = window.location.pathname;
         var pageTitle = document.title;
 
-        // LINE友だち追加クリック
-        document.querySelectorAll('a[href*="lin.ee"]').forEach(function(el) {
+        // LINE友だち追加クリック（旧lin.ee直リンクと流入経路計測付き入口URLの両方を拾う）
+        document.querySelectorAll('a[href*="lin.ee"], a[href*="line.arshe1719.workers.dev/auth/line"]').forEach(function(el) {
           el.addEventListener('click', function() {
             gtag('event', 'line_click', {
               event_category: 'conversion',

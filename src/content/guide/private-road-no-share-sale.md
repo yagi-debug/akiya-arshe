@@ -254,7 +254,7 @@ A: 売却は可能ですが、<strong>仲介市場では住宅ローン審査が
 
 「私道の相談」とメッセージをお送りください。宅建業者が対応いたします。
 
-<a href="https://lin.ee/9Fk9EUl" target="_blank" rel="noopener noreferrer" style="display:inline-block;background:#06c755;color:white;padding:12px 24px;border-radius:8px;text-decoration:none;font-weight:bold;margin:0.5rem 0;">LINEで無料査定する</a>
+<a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" target="_blank" rel="noopener noreferrer" style="display:inline-block;background:#06c755;color:white;padding:12px 24px;border-radius:8px;text-decoration:none;font-weight:bold;margin:0.5rem 0;">LINEで無料査定する</a>
 
 <strong>フォームで相談</strong>
 

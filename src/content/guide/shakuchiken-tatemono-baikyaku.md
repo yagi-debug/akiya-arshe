@@ -260,7 +260,7 @@ LINEまたはお問い合わせフォームから、物件の情報をお送り�
 
 <strong>宅建業者が直接お答えします。</strong>「こんな借地権でも売れますか？」という一言だけでも構いません。査定・相談は完全無料です。
 
-<strong><a href="https://lin.ee/9Fk9EUl">LINEで無料相談する</a></strong>
+<strong><a href="https://line.arshe1719.workers.dev/auth/line?ref=hp">LINEで無料相談する</a></strong>
 
 <a href="/contact">お問い合わせフォームはこちら</a>
 

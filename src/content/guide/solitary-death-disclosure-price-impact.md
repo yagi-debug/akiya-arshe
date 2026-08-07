@@ -210,6 +210,6 @@ faqs:
 - <a href="/guide/jiko-bukken-hub">事故物件 完全ハブ｜告知義務・買取・価格相場まで全ガイドまとめ</a>（事故物件関連記事の一覧）
 - <a href="/guide/parent-death-house">親が亡くなった家はどうする？相続から売却・管理まで全ガイド</a>（相続した家全般の対処法）
 
-LINE「空き家のミカタ」：[https://lin.ee/9Fk9EUl](https://lin.ee/9Fk9EUl)
+LINE「空き家のミカタ」：[https://line.arshe1719.workers.dev/auth/line?ref=hp](https://line.arshe1719.workers.dev/auth/line?ref=hp)
 
 <a href="/contact">無料査定・ご相談フォームはこちら</a>

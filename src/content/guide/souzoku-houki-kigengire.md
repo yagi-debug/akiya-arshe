@@ -251,7 +251,7 @@ faqs:
 相続した不動産の扱いにお困りの方は、まずは<strong>無料相談</strong>をご利用ください。訳あり物件の買取実績がある宅建業者が、あなたの状況に合った最善の方法をご提案します。
 
 <strong>LINEで無料相談する（24時間受付）</strong>
-https://lin.ee/9Fk9EUl
+https://line.arshe1719.workers.dev/auth/line?ref=hp
 
 <strong>Webフォームからお問い合わせ</strong>
 https://akiya-mikata.com/contact

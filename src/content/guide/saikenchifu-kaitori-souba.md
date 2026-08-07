@@ -206,7 +206,7 @@ cluster: "non-rebuildable"
 「いくらで売れるか知りたいだけ」という段階でもかまいません。お気軽にご相談ください。
 
 <strong>LINE相談はこちら</strong>（友だち追加で24時間相談受付）
-→ [空き家のミカタ LINE相談](https://lin.ee/9Fk9EUl)
+→ [空き家のミカタ LINE相談](https://line.arshe1719.workers.dev/auth/line?ref=hp)
 
 <strong>メール・フォームでのお問い合わせ</strong>
 → [無料査定・お問い合わせフォーム](/contact)

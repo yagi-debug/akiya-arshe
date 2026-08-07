@@ -209,6 +209,6 @@ A: はい、売却できます。底地は一般の仲介での売却が難し�
 <div style="background:#fff8e1;border-left:4px solid #f59e0b;padding:1.2rem 1.5rem;margin:2rem 0;border-radius:4px;">
 <strong>底地・訳あり不動産の無料相談はこちら</strong><br>
 「空き家のミカタ」（宅地建物取引業者・大阪府知事(1)第65646号）では、底地・借地権付き不動産の買取に対応しています。仲介手数料なし・最短2週間で現金化。まずはLINEまたはお問い合わせフォームからご相談ください。<br><br>
-<a href="https://lin.ee/9Fk9EUl" style="display:inline-block;background:#06c755;color:#fff;padding:0.6rem 1.4rem;border-radius:6px;text-decoration:none;font-weight:bold;margin-right:0.8rem;">LINEで無料相談する</a>
+<a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06c755;color:#fff;padding:0.6rem 1.4rem;border-radius:6px;text-decoration:none;font-weight:bold;margin-right:0.8rem;">LINEで無料相談する</a>
 <a href="/contact" style="display:inline-block;background:#1a56db;color:#fff;padding:0.6rem 1.4rem;border-radius:6px;text-decoration:none;font-weight:bold;">お問い合わせフォーム</a>
 </div>

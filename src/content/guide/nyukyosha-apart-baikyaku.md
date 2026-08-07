@@ -260,7 +260,7 @@ A: できます。入居者が住んでいる状態のまま「オーナーチ�
 「入居者がいるけど売れるのか」「立退きとオーナーチェンジ、どちらが得か」など、お気軽にご相談ください。<strong>入居者がいる状態のまま、現況で買い取ります。</strong>査定・相談は無料です。
 
 <strong>LINEでの無料相談はこちら</strong>
-👉 [空き家のミカタ LINE公式](https://lin.ee/9Fk9EUl)
+👉 [空き家のミカタ LINE公式](https://line.arshe1719.workers.dev/auth/line?ref=hp)
 
 <strong>メールでのお問い合わせ</strong>
 👉 [お問い合わせフォームはこちら](/contact)

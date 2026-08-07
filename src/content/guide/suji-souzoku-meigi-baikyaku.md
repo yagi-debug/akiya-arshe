@@ -215,5 +215,5 @@ A. はい、相談・査定は登記完了前でも可能です。訳あり物�
 
 数次相続で名義が祖父・父のままになっている不動産の処分でお困りの方のご相談をお受けしています。登記手続きの状況・相続人の範囲・売却希望のスケジュールなどをお知らせいただければ、最適な進め方をご提案します。査定・相談は無料で、しつこい営業は行いません。
 
-<a href="https://lin.ee/9Fk9EUl" style="display:inline-block;background:#06C755;color:#fff;padding:14px 32px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 8px 8px 0;">LINEで無料相談（即日対応）</a>
+<a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06C755;color:#fff;padding:14px 32px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 8px 8px 0;">LINEで無料相談（即日対応）</a>
 <a href="/contact" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 32px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 0;">お問い合わせフォーム</a>

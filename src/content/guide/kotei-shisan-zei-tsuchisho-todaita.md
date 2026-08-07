@@ -234,7 +234,7 @@ cluster: "akiya-tax"
 
 <strong>LINEでのお問い合わせ（最短当日回答）</strong>
 
-<a href="https://lin.ee/9Fk9EUl" target="_blank" rel="noopener noreferrer" style="display:inline-block;background:#06C755;color:#fff;padding:12px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 4px 8px 0;">LINEで無料相談する</a>
+<a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" target="_blank" rel="noopener noreferrer" style="display:inline-block;background:#06C755;color:#fff;padding:12px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 4px 8px 0;">LINEで無料相談する</a>
 
 <strong>お問い合わせフォーム（24時間受付）</strong>
 

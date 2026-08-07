@@ -195,7 +195,7 @@ LINEまたはお問い合わせフォームから、底地の住所と概要（�
 
 「まだ売るか決めていない」「まずは金額だけ知りたい」という段階でも構いません。宅建業者が直接お答えします。
 
-<strong>[LINEで無料相談する](https://lin.ee/9Fk9EUl)</strong>
+<strong>[LINEで無料相談する](https://line.arshe1719.workers.dev/auth/line?ref=hp)</strong>
 
 <strong>[お問い合わせフォームはこちら](/contact)</strong>
 

@@ -36,7 +36,7 @@ faqs:
 <div style="background:#f0faf3;border-left:4px solid #06C755;padding:1rem 1.5rem;margin-bottom:1.5rem;border-radius:4px;">
 <strong>ご自身の空き家のリスクを知りたい方へ</strong><br />
 このページのデータは都道府県平均です。ご自身の空き家が特定空家に指定されそうか・今手放すとどうなるかは、立地と建物の状態で変わります。住所と写真をLINEで送っていただければ、宅建業者が無料で目安をお返しします（全国対応・相談だけでも大丈夫です）。<br />
-<a href="https://lin.ee/9Fk9EUl" target="_blank" rel="noopener noreferrer"><strong>▶ LINEで無料相談する（友だち追加）</strong></a>
+<a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" target="_blank" rel="noopener noreferrer"><strong>▶ LINEで無料相談する（友だち追加）</strong></a>
 </div>
 
 「自分の空き家、そのままにしておいて大丈夫だろうか」——そういう不安を抱えながら、なかなか動けずにいる方は多くいます。<strong>2023年の住宅・土地統計調査で、全国の空き家数が初めて900万戸を超えました。</strong>空き家率13.8%という数字は過去最高で、7戸に1戸以上が空き家という状態です。
@@ -293,7 +293,7 @@ faqs:
 <strong>無料査定・ご相談はこちら</strong><br>
 リスクランクS・Aの都道府県に空き家をお持ちの方、行政から通知が届いた方、長年放置していてどうすればいいかわからない方、まずはご相談ください。どんな状況の物件でも現況のまま査定します。<br><br>
 <strong>LINEで気軽に相談</strong>（24時間受付）<br>
-<a href="https://lin.ee/9Fk9EUl" style="display:inline-block;background:#06c755;color:white;padding:10px 24px;border-radius:4px;text-decoration:none;font-weight:bold;margin-top:8px;">LINE「空き家のミカタ」に相談する</a><br><br>
+<a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06c755;color:white;padding:10px 24px;border-radius:4px;text-decoration:none;font-weight:bold;margin-top:8px;">LINE「空き家のミカタ」に相談する</a><br><br>
 <strong>メールでのお問い合わせ</strong><br>
 <a href="/contact">無料相談フォームはこちら</a>（48時間以内にご返信します）
 </div>
@@ -308,7 +308,7 @@ faqs:
     "@type": "Organization",
     "name": "空き家のミカタ（合同会社アルシェ）",
     "url": "https://akiya.arshe-corp.com",
-    "sameAs": "https://lin.ee/9Fk9EUl"
+    "sameAs": "https://line.arshe1719.workers.dev/auth/line?ref=hp"
   },
   "datePublished": "2026-05-28",
   "dateModified": "2026-05-28",

@@ -112,7 +112,7 @@ faqs:
 
 当社の無料査定では、レインズの成約事例をもとにした根拠付きの査定書を作成します。
 
-- LINE：[空き家のミカタ](https://lin.ee/9Fk9EUl)
+- LINE：[空き家のミカタ](https://line.arshe1719.workers.dev/auth/line?ref=hp)
 - 
 
 ## 関連する記事

@@ -141,5 +141,5 @@ faqs:
 
 - <a href="/guide/souzoku-hub">相続不動産 完全ハブ｜処分・売却・登記・固定資産税まで全ガイドをまとめて確認【2026年版】</a>
 
-LINE「空き家のミカタ」：[https://lin.ee/9Fk9EUl](https://lin.ee/9Fk9EUl)
+LINE「空き家のミカタ」：[https://line.arshe1719.workers.dev/auth/line?ref=hp](https://line.arshe1719.workers.dev/auth/line?ref=hp)
 

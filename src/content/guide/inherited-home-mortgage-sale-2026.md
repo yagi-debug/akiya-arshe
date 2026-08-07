@@ -204,7 +204,7 @@ STEP 1: 団信の加入有無を確認（金融機関へ連絡）
 
 <strong>無料相談はこちら（24時間・全国対応）</strong>
 
-- <strong>LINE相談</strong>：[空き家のミカタ（LINEで無料相談）](https://lin.ee/9Fk9EUl)
+- <strong>LINE相談</strong>：[空き家のミカタ（LINEで無料相談）](https://line.arshe1719.workers.dev/auth/line?ref=hp)
 - <strong>お問い合わせフォーム</strong>：[こちらから](/contact)
 
 相続した不動産（ローン残債あり・訳あり物件・再建築不可・空き家）の直接買取・売却相談を全国で受け付けています。

@@ -140,7 +140,7 @@ A. はい、他の共有者の同意なしで自分の持分だけを売却す�
 
 空き家のミカタでは、東京都全域（23区・多摩地域）の訳あり不動産を直接買取しています。<strong>査定・相談は完全無料、仲介手数料なし、現況のまま買取</strong>ですので、まずはお気軽にご連絡ください。
 
-<a href="https://lin.ee/9Fk9EUl" style="display:inline-block;background:#06C755;color:#fff;font-weight:bold;padding:0.75rem 2rem;border-radius:0.5rem;text-decoration:none;margin:0.5rem 0;">LINEで無料相談する（24時間受付）</a>
+<a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06C755;color:#fff;font-weight:bold;padding:0.75rem 2rem;border-radius:0.5rem;text-decoration:none;margin:0.5rem 0;">LINEで無料相談する（24時間受付）</a>
 
 <a href="/contact" style="display:inline-block;background:#2563eb;color:#fff;font-weight:bold;padding:0.75rem 2rem;border-radius:0.5rem;text-decoration:none;margin:0.5rem 0;">お問い合わせフォームはこちら</a>
 

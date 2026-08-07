@@ -252,7 +252,7 @@ D.F.さん（70代男性）は2022年に父から相続した大阪市平野区�
 
 **買取・仲介・放置のどれが合うか、無料で診断いたします。**お気軽にご相談ください。
 
-<a href="https://lin.ee/9Fk9EUl" target="_blank" rel="noopener noreferrer"><strong>LINEで無料相談する</strong></a>
+<a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" target="_blank" rel="noopener noreferrer"><strong>LINEで無料相談する</strong></a>
 
 <a href="/contact"><strong>お問い合わせフォームはこちら</strong></a>
 

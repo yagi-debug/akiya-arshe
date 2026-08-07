@@ -256,7 +256,7 @@ faqs:
 <li><strong>最短2週間で現金化・仲介手数料ゼロ</strong></li>
 </ul>
 <p style="margin-bottom:0.5rem;"><strong>LINEでかんたん相談（返信が一番早いです）</strong></p>
-<a href="https://lin.ee/9Fk9EUl" style="display:inline-block;background:#06c755;color:#fff;padding:0.75rem 2rem;border-radius:50px;text-decoration:none;font-weight:bold;margin-bottom:1rem;">LINEで無料相談する</a>
+<a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06c755;color:#fff;padding:0.75rem 2rem;border-radius:50px;text-decoration:none;font-weight:bold;margin-bottom:1rem;">LINEで無料相談する</a>
 <p style="margin-bottom:0;"><a href="/contact" style="color:#2563eb;">▶ お問い合わせフォームはこちら</a></p>
 </div>
 

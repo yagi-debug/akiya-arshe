@@ -260,7 +260,7 @@ faqs:
 
 **LINEで気軽に相談する（24時間受付）**
 
-<a href="https://lin.ee/xxxx" target="_blank" rel="noopener noreferrer" style="display:inline-block;background:#06C755;color:#fff;padding:12px 24px;border-radius:6px;font-weight:bold;text-decoration:none;">LINE で無料相談する</a>
+<a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" target="_blank" rel="noopener noreferrer" style="display:inline-block;background:#06C755;color:#fff;padding:12px 24px;border-radius:6px;font-weight:bold;text-decoration:none;">LINE で無料相談する</a>
 
 **お問い合わせフォームはこちら**
 

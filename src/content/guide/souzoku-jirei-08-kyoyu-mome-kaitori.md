@@ -318,7 +318,7 @@ Bさんの事例のポイントを整理します。
 
 <strong>LINE「空き家のミカタ」で相談する（24時間受付）</strong>
 
-<a href="https://lin.ee/9Fk9EUl" style="display:inline-block;background:#06c755;color:#fff;padding:0.75rem 1.5rem;border-radius:6px;text-decoration:none;font-weight:bold;margin-bottom:0.75rem;">LINEで無料相談する</a>
+<a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06c755;color:#fff;padding:0.75rem 1.5rem;border-radius:6px;text-decoration:none;font-weight:bold;margin-bottom:0.75rem;">LINEで無料相談する</a>
 
 <strong>お問い合わせフォームはこちら</strong>
 

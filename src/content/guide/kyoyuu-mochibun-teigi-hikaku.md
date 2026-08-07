@@ -143,7 +143,7 @@ A: 共有持分とは、1つの不動産を複数人が所有する場合の「�
 
 「共有持分を手放したいが、どこに相談すればいいかわからない」「兄弟ともめていて話が進まない」——そのようなお悩みにも対応しています。物件の住所・持分割合・状況をお伝えいただければ、宅建業者が無料で概算査定と最適な進め方をご提案します。
 
-<a href="https://lin.ee/9Fk9EUl" style="display:inline-block;background:#06c755;color:#fff;padding:14px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 4px;">LINE「空き家のミカタ」に無料相談する</a>
+<a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06c755;color:#fff;padding:14px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 4px;">LINE「空き家のミカタ」に無料相談する</a>
 
 <a href="/contact" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 4px;">無料査定フォームで相談する</a>
 

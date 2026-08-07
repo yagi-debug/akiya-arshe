@@ -318,7 +318,7 @@ A: 空き家が「特定空き家」または「管理不全空き家」に指�
 
 「空き家のミカタ」の公式LINEから、物件の状況をメッセージでお送りください。概要をお伝えいただければ、売却・賃貸・解体のどの方法が合っているかを無料でお伝えします。
 
-<a href="https://lin.ee/9Fk9EUl" style="display:inline-block;background:#06c755;color:#fff;font-weight:bold;padding:14px 32px;border-radius:8px;text-decoration:none;font-size:1.05rem;margin:8px 4px;">LINE「空き家のミカタ」に相談する（無料）</a>
+<a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06c755;color:#fff;font-weight:bold;padding:14px 32px;border-radius:8px;text-decoration:none;font-size:1.05rem;margin:8px 4px;">LINE「空き家のミカタ」に相談する（無料）</a>
 
 **お問い合わせフォームからのご相談**
 

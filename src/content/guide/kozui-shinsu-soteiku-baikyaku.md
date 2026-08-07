@@ -343,9 +343,9 @@ faqs:
 
 **LINE「空き家のミカタ」で無料相談（24時間受付）**
 
-[![LINEで相談する](https://scdn.line-apps.com/n/line_add_friends/btn/ja.png)](https://lin.ee/9Fk9EUl)
+[![LINEで相談する](https://scdn.line-apps.com/n/line_add_friends/btn/ja.png)](https://line.arshe1719.workers.dev/auth/line?ref=hp)
 
-https://lin.ee/9Fk9EUl
+https://line.arshe1719.workers.dev/auth/line?ref=hp
 
 **お問い合わせフォームはこちら** → [/contact](/contact)
 

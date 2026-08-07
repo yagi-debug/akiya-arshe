@@ -227,7 +227,7 @@ C.M.さんのケースでは、入居者がいる状態（<strong>オーナー�
 お話をうかがった上で「当社では対応できない」と判断した場合も、正直にお伝えします。無理な売り込みは一切行いません。
 
 <div style="text-align:center;margin:2rem 0;">
-  <a href="https://lin.ee/9Fk9EUl" style="display:inline-block;background:#06C755;color:#fff;font-size:1.1rem;font-weight:bold;padding:1rem 2.5rem;border-radius:4px;text-decoration:none;margin-bottom:1rem;">LINEで無料相談する</a>
+  <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06C755;color:#fff;font-size:1.1rem;font-weight:bold;padding:1rem 2.5rem;border-radius:4px;text-decoration:none;margin-bottom:1rem;">LINEで無料相談する</a>
   <br />
   <a href="/contact" style="display:inline-block;background:#1a56db;color:#fff;font-size:1rem;padding:0.75rem 2rem;border-radius:4px;text-decoration:none;margin-top:0.5rem;">お問い合わせフォームへ</a>
 </div>

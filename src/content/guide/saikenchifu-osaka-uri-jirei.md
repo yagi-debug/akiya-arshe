@@ -376,7 +376,7 @@ LINE「空き家のミカタ」に友だち追加し、物件の住所・現在�
 
 <strong>空き家のミカタ</strong>では、大阪市内（生野区・東成区・城東区・西成区・住之江区・平野区など）の再建築不可物件（接道義務違反・旗竿地・狭小地）の買取相談を無料でお受けしています。相続登記未了・未登記増築・境界未確定などの複合課題にも対応しています。
 
-<strong>[LINEで無料相談する（24時間対応）](https://lin.ee/9Fk9EUl)</strong>
+<strong>[LINEで無料相談する（24時間対応）](https://line.arshe1719.workers.dev/auth/line?ref=hp)</strong>
 
 <strong>[お問い合わせフォームはこちら](/contact)</strong>
 

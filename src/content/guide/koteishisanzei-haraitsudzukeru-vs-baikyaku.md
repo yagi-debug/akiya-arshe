@@ -308,7 +308,7 @@ function calcKoteiBaikyaku() {
 </script>
 
 <p style="font-size:0.8rem;color:#888;margin-top:0.5rem;">
-※このシミュレーターは概算です。土地価格は国土交通省地価公示データ（2025年）の都道府県住宅地平均を基準にしています。実際の売却価格・保有コストは物件の状態・立地・権利関係によって大きく異なります。正確な査定は<a href="/contact">こちらのフォーム</a>または<a href="https://lin.ee/9Fk9EUl" target="_blank" rel="noopener noreferrer">LINE</a>から無料でお申し込みいただけます。
+※このシミュレーターは概算です。土地価格は国土交通省地価公示データ（2025年）の都道府県住宅地平均を基準にしています。実際の売却価格・保有コストは物件の状態・立地・権利関係によって大きく異なります。正確な査定は<a href="/contact">こちらのフォーム</a>または<a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" target="_blank" rel="noopener noreferrer">LINE</a>から無料でお申し込みいただけます。
 </p>
 
 ---
@@ -421,7 +421,7 @@ function calcKoteiBaikyaku() {
     <li>大阪市24区を中心に、近畿エリア対応</li>
   </ul>
   <div style="display:flex;flex-wrap:wrap;gap:1rem;">
-    <a href="https://lin.ee/9Fk9EUl" target="_blank" rel="noopener noreferrer" style="display:inline-block;background:#06C755;color:white;text-decoration:none;padding:12px 24px;border-radius:6px;font-weight:bold;font-size:0.95rem;">
+    <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" target="_blank" rel="noopener noreferrer" style="display:inline-block;background:#06C755;color:white;text-decoration:none;padding:12px 24px;border-radius:6px;font-weight:bold;font-size:0.95rem;">
       LINEで無料相談する
     </a>
     <a href="/contact" style="display:inline-block;background:white;color:#1a56db;text-decoration:none;padding:12px 24px;border-radius:6px;font-weight:bold;font-size:0.95rem;border:2px solid #1a56db;">

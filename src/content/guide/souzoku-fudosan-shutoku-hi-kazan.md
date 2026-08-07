@@ -248,7 +248,7 @@ faqs:
     <li>全国対応・仲介手数料なし・現況買取</li>
   </ul>
   <p style="margin-top:1rem;margin-bottom:0;">
-    <a href="https://lin.ee/9Fk9EUl" style="display:inline-block;background:#06c755;color:#fff;padding:0.7rem 1.8rem;border-radius:5px;text-decoration:none;font-weight:bold;margin-right:1rem;">LINEで無料相談</a>
+    <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06c755;color:#fff;padding:0.7rem 1.8rem;border-radius:5px;text-decoration:none;font-weight:bold;margin-right:1rem;">LINEで無料相談</a>
     <a href="/contact" style="display:inline-block;background:#4a7c3f;color:#fff;padding:0.7rem 1.8rem;border-radius:5px;text-decoration:none;font-weight:bold;">お問い合わせフォーム</a>
   </p>
 </div>

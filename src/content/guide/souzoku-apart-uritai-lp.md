@@ -196,7 +196,7 @@ LINEまたはお問い合わせフォームから物件の基本情報（所在�
 <div style="background:#f0f7ff;border:2px solid #1a56db;padding:1.5rem;border-radius:8px;margin:2rem 0;text-align:center;">
 <p style="font-size:1.1rem;font-weight:bold;margin-bottom:0.8rem;">相続アパートの無料査定・ご相談はこちら</p>
 <p style="margin-bottom:1rem;font-size:0.95rem;">管理会社に断られた物件・築古・空室多数でも対応します。<br>最短2週間で現金化・仲介手数料ゼロ・全国対応</p>
-<strong><a href="https://lin.ee/9Fk9EUl" style="display:inline-block;background:#06c755;color:#fff;padding:0.8rem 2rem;border-radius:6px;text-decoration:none;font-size:1.05rem;margin-bottom:0.8rem;">LINEで無料相談する（24時間受付）</a></strong>
+<strong><a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06c755;color:#fff;padding:0.8rem 2rem;border-radius:6px;text-decoration:none;font-size:1.05rem;margin-bottom:0.8rem;">LINEで無料相談する（24時間受付）</a></strong>
 <br>
 <a href="/contact" style="font-size:0.9rem;color:#1a56db;">お問い合わせフォームはこちら</a>
 <p style="font-size:0.8rem;color:#666;margin-top:0.8rem;">相談・査定無料 / 秘密厳守 / 全国対応<br>宅地建物取引業者（大阪府知事(1)第65646号）</p>

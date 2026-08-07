@@ -550,7 +550,7 @@ faqs:
 
 「自分の状況はどれに当てはまるかわからない」「複数のトラブルが重なっている」という方も、まずはご状況をお聞かせください。
 
-<strong>LINEで無料相談する</strong>: [https://lin.ee/9Fk9EUl](https://lin.ee/9Fk9EUl)
+<strong>LINEで無料相談する</strong>: [https://line.arshe1719.workers.dev/auth/line?ref=hp](https://line.arshe1719.workers.dev/auth/line?ref=hp)
 
 <strong>お問い合わせフォームはこちら</strong>: [/contact](/contact)
 

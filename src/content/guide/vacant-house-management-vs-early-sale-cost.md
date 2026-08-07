@@ -152,9 +152,9 @@ howToSteps:
 
 遠方からでも対応可能です。まずはLINEで物件の状況をお聞かせください。
 
-[![LINE相談はこちら](https://lin.ee/9Fk9EUl)](https://lin.ee/9Fk9EUl)
+[![LINE相談はこちら](https://line.arshe1719.workers.dev/auth/line?ref=hp)](https://line.arshe1719.workers.dev/auth/line?ref=hp)
 
-**LINE「空き家のミカタ」を友だち追加して相談する →** [https://lin.ee/9Fk9EUl](https://lin.ee/9Fk9EUl)
+**LINE「空き家のミカタ」を友だち追加して相談する →** [https://line.arshe1719.workers.dev/auth/line?ref=hp](https://line.arshe1719.workers.dev/auth/line?ref=hp)
 
 ---
 

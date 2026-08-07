@@ -322,7 +322,7 @@ Cさんのように「相続人が複数いてなかなかまとまらない」�
 
 ---
 
-<strong>[LINEで無料相談する（24時間受付）](https://lin.ee/9Fk9EUl)</strong>
+<strong>[LINEで無料相談する（24時間受付）](https://line.arshe1719.workers.dev/auth/line?ref=hp)</strong>
 
 <strong>[お問い合わせフォームはこちら](/contact)</strong>
 

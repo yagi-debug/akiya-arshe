@@ -194,7 +194,7 @@ A: ①相続を知ってから3ヶ月以内に「相続放棄するか否か」�
 
 <strong>空き家のミカタ</strong>では、相続した不動産のご相談を無料でお受けしています。「何から始めればいいかわからない」「売るか貸すか迷っている」という段階でも構いません。宅建業者が直接お答えします。
 
-<strong><a href="https://lin.ee/9Fk9EUl">LINEで無料相談する</a></strong>
+<strong><a href="https://line.arshe1719.workers.dev/auth/line?ref=hp">LINEで無料相談する</a></strong>
 
 <a href="/contact">お問い合わせフォームはこちら</a>
 

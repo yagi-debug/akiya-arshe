@@ -53,7 +53,7 @@ howToSteps:
 <div style="background:#f0faf3;border-left:4px solid #06C755;padding:1rem 1.5rem;margin:1.5rem 0;border-radius:4px;">
 <strong>「まだ売ると決めたわけではない」段階のご相談も受け付けています</strong><br />
 物件の住所と建物のおおよその築年数、外観の写真をLINEで送っていただければ、無料で買取価格の目安をお返しします。仏壇や家財が残ったままでも査定できます。金額を知ってから供養や片づけの予算を決めるほうが、費用の無駄が出にくくなります。<br />
-<a href="https://lin.ee/9Fk9EUl" target="_blank" rel="noopener noreferrer"><strong>▶ LINEで無料査定を受ける（友だち追加）</strong></a>
+<a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" target="_blank" rel="noopener noreferrer"><strong>▶ LINEで無料査定を受ける（友だち追加）</strong></a>
 </div>
 
 <section id="ai-summary">
@@ -230,7 +230,7 @@ howToSteps:
 
 「まだ売ると決めたわけではない」「家族と話す前に金額だけ知っておきたい」——そうしたご相談から始まる方がほとんどです。
 
-<a href="https://lin.ee/9Fk9EUl" style="display:inline-block;background:#06c755;color:#fff;padding:14px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 4px;">LINE「空き家のミカタ」に相談する（無料）</a>
+<a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06c755;color:#fff;padding:14px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 4px;">LINE「空き家のミカタ」に相談する（無料）</a>
 
 <a href="/contact" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 4px;">無料査定フォームで相談する</a>
 

@@ -209,7 +209,7 @@ cluster: "shared-ownership"
 
 <strong>空き家のミカタ</strong>では、共有持分・相続不動産の買取相談を無料で承っています。
 
-- [LINEで無料相談（24時間受付）](https://lin.ee/9Fk9EUl)
+- [LINEで無料相談（24時間受付）](https://line.arshe1719.workers.dev/auth/line?ref=hp)
 - [お問い合わせフォームはこちら](/contact)
 
 査定だけでも、状況整理のご相談だけでも歓迎です。弁護士・司法書士と連携して、売却以外の選択肢もあわせてご説明します。

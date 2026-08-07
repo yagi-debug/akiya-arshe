@@ -228,7 +228,7 @@ A: 状態の良い物件・建て替えができる物件は、仲介のほう�
 
 <strong>LINEで24時間ご相談を受け付けています。</strong>
 
-<a href="https://lin.ee/9Fk9EUl">LINEで無料相談する（空き家のミカタ公式）</a>
+<a href="https://line.arshe1719.workers.dev/auth/line?ref=hp">LINEで無料相談する（空き家のミカタ公式）</a>
 
 メールでのご相談は<a href="/contact">お問い合わせフォーム</a>からもどうぞ。
 

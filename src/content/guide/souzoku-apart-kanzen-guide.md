@@ -427,7 +427,7 @@ A: 築30年以上・空室率50%以上・旧耐震基準・遠方管理のいず
 <div style="background:#fff3cd;border:2px solid #f0a500;border-radius:8px;padding:1.5rem;margin:2rem 0;text-align:center;">
   <p style="font-size:1.1rem;font-weight:bold;margin-bottom:1rem;">相続アパートのお悩み、無料でご相談できます</p>
   <p style="margin-bottom:1rem;">査定・相談は完全無料。仲介手数料なし。全国対応。</p>
-  <a href="https://lin.ee/9Fk9EUl" style="display:inline-block;background:#06c755;color:white;padding:0.8rem 2rem;border-radius:4px;font-weight:bold;font-size:1.1rem;text-decoration:none;margin-bottom:0.5rem;">LINEで無料相談する</a>
+  <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06c755;color:white;padding:0.8rem 2rem;border-radius:4px;font-weight:bold;font-size:1.1rem;text-decoration:none;margin-bottom:0.5rem;">LINEで無料相談する</a>
   <p style="margin:0.5rem 0;font-size:0.9rem;">または</p>
   <a href="/contact" style="display:inline-block;background:#1a56db;color:white;padding:0.8rem 2rem;border-radius:4px;font-weight:bold;font-size:1.1rem;text-decoration:none;">お問い合わせフォームへ</a>
   <p style="margin-top:1rem;font-size:0.85rem;color:#666;">宅建業免許：大阪府知事(1)第65646号　合同会社アルシェ</p>

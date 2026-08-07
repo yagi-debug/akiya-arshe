@@ -281,6 +281,6 @@ faqs:
 
 <strong>解体するか、そのまま売るか。どちらが得かを具体的な数字でお伝えします。</strong>
 
-<a href="https://lin.ee/9Fk9EUl">LINEで無料相談する</a>
+<a href="https://line.arshe1719.workers.dev/auth/line?ref=hp">LINEで無料相談する</a>
 
 <a href="/contact">お問い合わせフォームはこちら</a>

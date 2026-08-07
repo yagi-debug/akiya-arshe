@@ -441,7 +441,7 @@ A. 賃貸に出した後でも売却は可能です（入居者がいる場合�
 
 状況をお聞きすれば、<strong>あなたの物件・状況に合った最短ルートをご提案できます。</strong>宅建業者として、相続登記の確認から査定・買取まで一貫してサポートしています。相談無料・全国対応・秘密厳守です。
 
-<strong><a href="https://lin.ee/9Fk9EUl">LINEで無料相談する（空き家のミカタ）</a></strong>
+<strong><a href="https://line.arshe1719.workers.dev/auth/line?ref=hp">LINEで無料相談する（空き家のミカタ）</a></strong>
 
 <a href="/contact">お問い合わせフォームはこちら</a>
 

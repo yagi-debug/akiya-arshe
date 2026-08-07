@@ -231,7 +231,7 @@ cluster: "wakeari"
 <div style="background:#f0f7ff;border-radius:12px;padding:1.5rem;margin:2rem 0;text-align:center;">
   <p style="font-size:1.1rem;font-weight:bold;margin-bottom:1rem;">訳あり物件の無料査定・ご相談</p>
   <p style="margin-bottom:1rem;">LINE「空き家のミカタ」でLINEからすぐ相談できます</p>
-  <a href="https://lin.ee/9Fk9EUl" style="display:inline-block;background:#06C755;color:white;padding:0.8rem 2rem;border-radius:8px;font-weight:bold;text-decoration:none;margin-bottom:0.8rem;">LINEで無料相談する</a>
+  <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06C755;color:white;padding:0.8rem 2rem;border-radius:8px;font-weight:bold;text-decoration:none;margin-bottom:0.8rem;">LINEで無料相談する</a>
   <p style="margin:0.5rem 0;">または</p>
   <a href="/contact" style="display:inline-block;background:#1a56db;color:white;padding:0.8rem 2rem;border-radius:8px;font-weight:bold;text-decoration:none;">お問い合わせフォームへ</a>
   <p style="margin-top:1rem;font-size:0.9rem;color:#555;">宅建業免許: 大阪府知事(1)第65646号｜合同会社アルシェ<br>秘密厳守・査定無料・全国対応</p>

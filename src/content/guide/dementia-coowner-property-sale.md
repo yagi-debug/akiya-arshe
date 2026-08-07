@@ -274,7 +274,7 @@ cluster: "shared-ownership"
 「共有者が認知症で不動産を売れずに困っている」「成年後見と持分売却、どちらがいいのか判断がつかない」など、お気軽にご相談ください。<strong>共有持分のみの買取にも対応しています。</strong>査定・相談は無料です。
 
 <strong>LINEでの無料相談はこちら</strong>
-👉 [空き家のミカタ LINE公式](https://lin.ee/9Fk9EUl)
+👉 [空き家のミカタ LINE公式](https://line.arshe1719.workers.dev/auth/line?ref=hp)
 
 <strong>メールでのお問い合わせ</strong>
 👉 [お問い合わせフォームはこちら](/contact)

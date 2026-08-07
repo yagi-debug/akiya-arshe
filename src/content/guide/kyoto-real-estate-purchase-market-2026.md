@@ -218,9 +218,9 @@ LINEまたはフォームから、物件の状況（エリア・築年数・接�
 
 「どこに相談していいかわからない」という段階でも構いません。京都市の訳あり不動産・相続物件について、まず状況をお聞かせください。
 
-[![LINE相談はこちら](https://lin.ee/9Fk9EUl)](https://lin.ee/9Fk9EUl)
+[![LINE相談はこちら](https://line.arshe1719.workers.dev/auth/line?ref=hp)](https://line.arshe1719.workers.dev/auth/line?ref=hp)
 
-**LINE「空き家のミカタ」を友だち追加して相談する →** [https://lin.ee/9Fk9EUl](https://lin.ee/9Fk9EUl)
+**LINE「空き家のミカタ」を友だち追加して相談する →** [https://line.arshe1719.workers.dev/auth/line?ref=hp](https://line.arshe1719.workers.dev/auth/line?ref=hp)
 
 ---
 

@@ -177,7 +177,7 @@ faqs:
 
 <div style="background:#f0f7ff;border-radius:8px;padding:1.5rem;margin:2rem 0;">
 <strong>▶ LINEで無料相談（24時間受付）</strong><br />
-<a href="https://lin.ee/9Fk9EUl" style="display:inline-block;margin-top:0.5rem;padding:0.75rem 1.5rem;background:#06C755;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;">LINE友だち追加で相談する</a>
+<a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;margin-top:0.5rem;padding:0.75rem 1.5rem;background:#06C755;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;">LINE友だち追加で相談する</a>
 </div>
 
 <div style="background:#fff8f0;border-radius:8px;padding:1.5rem;margin:2rem 0;">

@@ -94,7 +94,7 @@ JR・阪急2路線利用可で大阪・京都双方へのアクセスが良い�
 
 空き家のミカタでは、高槻市全域の訳あり不動産を直接買取しています。<strong>査定・相談は完全無料、仲介手数料なし、現況のまま買取</strong>ですので、まずはお気軽にご連絡ください。
 
-<a href="https://lin.ee/9Fk9EUl" style="display:inline-block;background:#06C755;color:#fff;font-weight:bold;padding:0.75rem 2rem;border-radius:0.5rem;text-decoration:none;margin:0.5rem 0;">LINEで無料相談する（24時間受付）</a>
+<a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06C755;color:#fff;font-weight:bold;padding:0.75rem 2rem;border-radius:0.5rem;text-decoration:none;margin:0.5rem 0;">LINEで無料相談する（24時間受付）</a>
 
 <a href="/contact" style="display:inline-block;background:#2563eb;color:#fff;font-weight:bold;padding:0.75rem 2rem;border-radius:0.5rem;text-decoration:none;margin:0.5rem 0;">お問い合わせフォームはこちら</a>
 

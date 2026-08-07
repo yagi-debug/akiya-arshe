@@ -169,5 +169,5 @@ A. 法的措置が進行中でも売却の手続き自体は可能です。た�
 
 管理費の滞納があるマンションの処分に困っている方のご相談を受け付けています。滞納額・管理組合との状況・相続登記の進捗などを教えていただければ、最適な進め方をご提案します。査定・相談は無料で、しつこい営業は行いません。
 
-<a href="https://lin.ee/9Fk9EUl" style="display:inline-block;background:#06C755;color:#fff;padding:14px 32px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 8px 8px 0;">LINEで無料相談（即日対応）</a>
+<a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06C755;color:#fff;padding:14px 32px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 8px 8px 0;">LINEで無料相談（即日対応）</a>
 <a href="/contact" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 32px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 0;">お問い合わせフォーム</a>

@@ -151,7 +151,7 @@ howToSteps:
 
 <strong>無料相談はこちら（24時間・全国対応）</strong>
 
-- <strong>LINE相談</strong>：[空き家のミカタ（LINEで無料相談）](https://lin.ee/9Fk9EUl)
+- <strong>LINE相談</strong>：[空き家のミカタ（LINEで無料相談）](https://line.arshe1719.workers.dev/auth/line?ref=hp)
 - <strong>お問い合わせフォーム</strong>：[こちらから](/contact)
 
 配偶者居住権が設定された不動産・相続で揉めている物件・訳あり不動産の直接買取・売却相談を全国で受け付けています。

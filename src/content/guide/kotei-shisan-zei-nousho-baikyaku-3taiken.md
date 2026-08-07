@@ -140,7 +140,7 @@ Aさんは「正直もっと安いと思っていた」とおっしゃってい�
 <div style="background:#fff8f0;border:2px solid #ff6b35;padding:1.5rem;margin:2rem 0;border-radius:8px;text-align:center;">
 <p style="margin:0 0 1rem;font-size:1.1rem;"><strong>無料査定・ご相談はこちら</strong></p>
 <p style="margin:0 0 1rem;">LINE「空き家のミカタ」に友だち追加するだけで、24時間いつでも相談できます</p>
-<a href="https://lin.ee/9Fk9EUl" style="display:inline-block;background:#06c755;color:#fff;padding:0.8rem 2rem;border-radius:4px;text-decoration:none;font-weight:bold;margin-bottom:0.5rem;">LINEで無料相談する</a>
+<a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06c755;color:#fff;padding:0.8rem 2rem;border-radius:4px;text-decoration:none;font-weight:bold;margin-bottom:0.5rem;">LINEで無料相談する</a>
 <p style="margin:0.5rem 0 0;font-size:0.9rem;"><a href="/contact">メール・フォームでのお問い合わせはこちら</a></p>
 </div>
 
@@ -185,7 +185,7 @@ Bさんが当社にご連絡いただき、名古屋市内の戸建て（築38�
 
 <div style="background:#fff8f0;border:2px solid #ff6b35;padding:1.5rem;margin:2rem 0;border-radius:8px;text-align:center;">
 <p style="margin:0 0 1rem;font-size:1.1rem;"><strong>共有持分のご相談も受け付けています</strong></p>
-<a href="https://lin.ee/9Fk9EUl" style="display:inline-block;background:#06c755;color:#fff;padding:0.8rem 2rem;border-radius:4px;text-decoration:none;font-weight:bold;margin-bottom:0.5rem;">LINEで無料相談する</a>
+<a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06c755;color:#fff;padding:0.8rem 2rem;border-radius:4px;text-decoration:none;font-weight:bold;margin-bottom:0.5rem;">LINEで無料相談する</a>
 <p style="margin:0.5rem 0 0;font-size:0.9rem;"><a href="/contact">メール・フォームでのお問い合わせはこちら</a></p>
 </div>
 
@@ -226,7 +226,7 @@ Dさんはすぐにインターネットで調べ、特定空き家に指定・�
 
 <div style="background:#fff8f0;border:2px solid #ff6b35;padding:1.5rem;margin:2rem 0;border-radius:8px;text-align:center;">
 <p style="margin:0 0 1rem;font-size:1.1rem;"><strong>特定空き家指定の通知が届いた方はお早めに</strong></p>
-<a href="https://lin.ee/9Fk9EUl" style="display:inline-block;background:#06c755;color:#fff;padding:0.8rem 2rem;border-radius:4px;text-decoration:none;font-weight:bold;margin-bottom:0.5rem;">LINEで無料相談する</a>
+<a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06c755;color:#fff;padding:0.8rem 2rem;border-radius:4px;text-decoration:none;font-weight:bold;margin-bottom:0.5rem;">LINEで無料相談する</a>
 <p style="margin:0.5rem 0 0;font-size:0.9rem;"><a href="/contact">メール・フォームでのお問い合わせはこちら</a></p>
 </div>
 
@@ -283,7 +283,7 @@ Dさんのケースは特定空き家指定の予告通知が届いた後でし�
 <div style="background:#fff8f0;border:2px solid #ff6b35;padding:2rem;margin:2rem 0;border-radius:8px;text-align:center;">
 <p style="margin:0 0 0.5rem;font-size:1.2rem;font-weight:bold;">無料査定・ご相談はこちら</p>
 <p style="margin:0 0 1.5rem;color:#555;">LINEに友だち追加するだけ。24時間いつでも受け付けています</p>
-<a href="https://lin.ee/9Fk9EUl" style="display:inline-block;background:#06c755;color:#fff;padding:1rem 2.5rem;border-radius:4px;text-decoration:none;font-weight:bold;font-size:1.1rem;margin-bottom:1rem;">LINE「空き家のミカタ」で無料相談</a>
+<a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06c755;color:#fff;padding:1rem 2.5rem;border-radius:4px;text-decoration:none;font-weight:bold;font-size:1.1rem;margin-bottom:1rem;">LINE「空き家のミカタ」で無料相談</a>
 <br>
 <a href="/contact" style="display:inline-block;background:#1a56db;color:#fff;padding:0.8rem 2rem;border-radius:4px;text-decoration:none;font-weight:bold;margin-top:0.5rem;">メール・フォームでお問い合わせ</a>
 </div>

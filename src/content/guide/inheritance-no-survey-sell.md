@@ -189,7 +189,7 @@ A: 売れます。測量なしで売却できるケースがあります。特�
 
 <p style="margin-top:0.75rem;">「空き家のミカタ」では、測量未済・境界未確定・残置物あり・老朽化状態の相続不動産も現況のまま買取しています。測量費用は一切不要です。査定・相談は無料で、匿名のままご相談いただけます。</p>
 
-<a href="https://lin.ee/9Fk9EUl" target="_blank" rel="noopener noreferrer" style="display:inline-block;background:#06C755;color:#fff;padding:0.75rem 2rem;border-radius:8px;font-weight:bold;text-decoration:none;margin-top:1rem;">LINEで無料相談する</a>
+<a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" target="_blank" rel="noopener noreferrer" style="display:inline-block;background:#06C755;color:#fff;padding:0.75rem 2rem;border-radius:8px;font-weight:bold;text-decoration:none;margin-top:1rem;">LINEで無料相談する</a>
 
 <p style="margin-top:0.5rem;font-size:0.9rem;">「空き家のミカタ」を友だち追加してください</p>
 

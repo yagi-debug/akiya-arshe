@@ -231,7 +231,7 @@ faqs:
 
 査定・相談は無料で、査定後にお断りいただいても問題ありません。大阪市24区以外の物件については、対応の可否を含めて率直にお答えします。
 
-<strong>[LINEで無料相談する（24時間受付）](https://lin.ee/9Fk9EUl)</strong>
+<strong>[LINEで無料相談する（24時間受付）](https://line.arshe1719.workers.dev/auth/line?ref=hp)</strong>
 
 <strong>[お問い合わせフォームはこちら](/contact)</strong>
 

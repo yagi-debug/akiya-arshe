@@ -183,7 +183,7 @@ cluster: "akiya-tax"
 **LINE「空き家のミカタ」で無料相談**
 物件の写真・住所・状況をメッセージするだけで査定を開始します。
 
-[LINEで無料相談する](https://lin.ee/9Fk9EUl){target="_blank" rel="noopener"}
+[LINEで無料相談する](https://line.arshe1719.workers.dev/auth/line?ref=hp){target="_blank" rel="noopener"}
 
 </div>
 

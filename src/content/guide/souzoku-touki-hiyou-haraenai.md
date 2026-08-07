@@ -206,6 +206,6 @@ howToSteps:
 
 ---
 
-<a href="https://lin.ee/gyFhEvp" rel="noopener noreferrer" target="_blank"><strong>LINEで無料相談する（24時間受付）</strong></a>
+<a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" rel="noopener noreferrer" target="_blank"><strong>LINEで無料相談する（24時間受付）</strong></a>
 
 <a href="/contact"><strong>問い合わせフォームから相談する</strong></a>

@@ -212,7 +212,7 @@ cluster: "non-rebuildable"
 
 再建築不可物件の売却でお悩みでしたら、LINEまたはお問い合わせフォームからお気軽にご相談ください。宅建業者が直接お答えします。
 
-- LINE: [空き家のミカタ](https://lin.ee/9Fk9EUl)（24時間受付）
+- LINE: [空き家のミカタ](https://line.arshe1719.workers.dev/auth/line?ref=hp)（24時間受付）
 - お問い合わせ: [無料相談フォーム](/contact)
 
 ---

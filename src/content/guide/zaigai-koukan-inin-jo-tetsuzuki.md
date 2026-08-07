@@ -219,6 +219,6 @@ A. 委任状の作成・公証自体は相続登記の完了前でも可能で�
 <div style="background:#f0f9f0;border:2px solid #06C755;border-radius:12px;padding:2rem;margin:2rem 0;">
 <p style="font-weight:bold;font-size:1.1rem;margin-bottom:1rem;">海外在住で日本の不動産の処分にお困りの方へ</p>
 <p>「在外公館の手続きをどう進めればいいか」「委任状の内容が正しいか確認したい」——そういったご相談をLINEやメールでお受けしています。連携している司法書士と一緒に、手続き全体をサポートします。</p>
-<a href="https://lin.ee/9Fk9EUl" style="display:inline-block;background:#06C755;color:#fff;padding:14px 32px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 8px 8px 0;">LINEで無料相談（即日対応）</a>
+<a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06C755;color:#fff;padding:14px 32px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 8px 8px 0;">LINEで無料相談（即日対応）</a>
 <a href="/contact" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 32px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 0;">お問い合わせフォーム</a>
 </div>

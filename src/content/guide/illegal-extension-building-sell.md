@@ -186,7 +186,7 @@ A: 売却できます。仲介では住宅ローンが通りにくく買い手�
     <li>宅建業免許: 大阪府知事(1)第65646号</li>
   </ul>
   <p>
-    <a href="https://lin.ee/9Fk9EUl" style="display:inline-block; background:#06C755; color:#fff; padding:0.8em 2em; border-radius:4px; text-decoration:none; font-weight:bold; margin-right:1em;">LINEで無料相談する</a>
+    <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block; background:#06C755; color:#fff; padding:0.8em 2em; border-radius:4px; text-decoration:none; font-weight:bold; margin-right:1em;">LINEで無料相談する</a>
     <a href="/contact" style="display:inline-block; background:#0070f3; color:#fff; padding:0.8em 2em; border-radius:4px; text-decoration:none; font-weight:bold;">お問い合わせフォーム</a>
   </p>
 </div>

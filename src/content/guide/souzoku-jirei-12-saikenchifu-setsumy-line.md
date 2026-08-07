@@ -147,7 +147,7 @@ A: はい、できます。建築基準法第43条の接道義務（道路に2m�
 
 仲介で断られた再建築不可・旗竿地・袋地・接道不良物件を直接買取します。LINEで物件住所を送るだけで翌日査定。空き家のミカタ（宅建業者・大阪府知事(1)第65646号）が全国対応・仲介手数料ゼロ・最短2週間で現金化。
 
-<a href="https://lin.ee/9Fk9EUl" target="_blank" rel="noopener noreferrer" style="display:inline-block;background:#06C755;color:#fff;padding:0.75rem 2rem;border-radius:8px;font-weight:bold;text-decoration:none;margin-top:1rem;">LINEで無料相談する（24時間受付）</a>
+<a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" target="_blank" rel="noopener noreferrer" style="display:inline-block;background:#06C755;color:#fff;padding:0.75rem 2rem;border-radius:8px;font-weight:bold;text-decoration:none;margin-top:1rem;">LINEで無料相談する（24時間受付）</a>
 
 </section>
 

@@ -294,7 +294,7 @@ A: 訳あり不動産の買取を専門とする業者であれば、老朽化�
 
 <strong>LINE「空き家のミカタ」から無料相談（24時間受付）</strong>
 
-[LINEで無料相談する](https://lin.ee/9Fk9EUl)
+[LINEで無料相談する](https://line.arshe1719.workers.dev/auth/line?ref=hp)
 
 - 相談無料・査定無料
 - 相続登記が未了でもご相談いただけます

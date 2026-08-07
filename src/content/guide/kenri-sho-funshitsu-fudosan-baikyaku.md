@@ -184,7 +184,7 @@ A: いいえ、売れます。権利証がなくても、法律が認めた2つ�
 <section style="background:linear-gradient(135deg,#1a56db,#0e3a8c);color:#fff;padding:2rem;border-radius:12px;margin-top:2rem;text-align:center;">
 <h2 style="color:#fff;margin-top:0;">権利証が見つからない不動産の売却、まずご相談ください</h2>
 <p>書類の不備・紛失がある物件でも、現況のまま査定いたします。<br>司法書士との連携で手続きも丸ごとサポートします。</p>
-<a href="https://lin.ee/9Fk9EUl" target="_blank" rel="noopener noreferrer" style="display:inline-block;background:#06C755;color:#fff;padding:0.75rem 2rem;border-radius:8px;font-weight:bold;text-decoration:none;margin-top:1rem;">LINEで無料相談する</a>
+<a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" target="_blank" rel="noopener noreferrer" style="display:inline-block;background:#06C755;color:#fff;padding:0.75rem 2rem;border-radius:8px;font-weight:bold;text-decoration:none;margin-top:1rem;">LINEで無料相談する</a>
 <p style="margin-top:0.5rem;font-size:0.9rem;">「空き家のミカタ」を友だち追加してください</p>
 <a href="/contact" style="display:inline-block;border:2px solid rgba(255,255,255,0.4);color:#fff;padding:0.5rem 1.5rem;border-radius:8px;font-weight:bold;text-decoration:none;margin-top:0.5rem;">フォームで相談する</a>
 </section>

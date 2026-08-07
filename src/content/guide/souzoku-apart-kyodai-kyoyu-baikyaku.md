@@ -162,7 +162,7 @@ howToSteps:
 
 登記簿や固定資産税通知書の写真を送っていただければ、おおよその手取り額の見当をお伝えします。査定・相談は完全無料で、査定後にお断りいただいても問題ありません。
 
-<strong>[LINEで無料相談する（24時間受付）](https://lin.ee/9Fk9EUl)</strong>
+<strong>[LINEで無料相談する（24時間受付）](https://line.arshe1719.workers.dev/auth/line?ref=hp)</strong>
 
 <strong>[お問い合わせフォームはこちら](/contact)</strong>
 

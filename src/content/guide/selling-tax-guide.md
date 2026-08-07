@@ -148,7 +148,7 @@ faqs:
 - <a href="/guide/selling-process">はじめての不動産売却ガイド</a>
 - <a href="/guide/inheritance-sale">相続した不動産を売却する完全ガイド</a>
 
-LINE「空き家のミカタ」：[https://lin.ee/9Fk9EUl](https://lin.ee/9Fk9EUl)
+LINE「空き家のミカタ」：[https://line.arshe1719.workers.dev/auth/line?ref=hp](https://line.arshe1719.workers.dev/auth/line?ref=hp)
 ---
 
 **このカテゴリの全ガイド一覧:** [→ 相続不動産 完全ハブ【2026年版】](/guide/souzoku-hub)

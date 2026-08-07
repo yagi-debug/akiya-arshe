@@ -178,7 +178,7 @@ howToSteps:
 <strong>【無料相談窓口】空き家のミカタ</strong><br/>
 宅地建物取引業者（大阪府知事(1)第65646号）<br/>
 <br/>
-▶ <a href="https://lin.ee/9Fk9EUl" target="_blank" rel="noopener noreferrer">LINEで24時間相談する（友だち追加）</a><br/>
+▶ <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" target="_blank" rel="noopener noreferrer">LINEで24時間相談する（友だち追加）</a><br/>
 ▶ <a href="/contact">メール・フォームで相談する</a>
 </div>
 

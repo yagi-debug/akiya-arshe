@@ -233,7 +233,7 @@ cluster: "akiya-tax"
 
 <strong>「相続した空き家をどうすればいいかわからない」</strong>そんなお悩みを、訳あり物件専門の宅建業者が無料で相談に乗ります。査定だけのご依頼も歓迎です。
 
-- LINEで無料相談: [空き家のミカタ公式LINE](https://lin.ee/9Fk9EUl)
+- LINEで無料相談: [空き家のミカタ公式LINE](https://line.arshe1719.workers.dev/auth/line?ref=hp)
 - Webからのお問い合わせ: [お問い合わせフォーム](/contact)
 ---
 

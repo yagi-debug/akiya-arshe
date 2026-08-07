@@ -200,7 +200,7 @@ faqs:
 <li>大阪市24区を中心に全国対応</li>
 </ul>
 <p>
-<a href="https://lin.ee/9Fk9EUl" style="display:inline-block;background:#06c755;color:white;padding:0.75rem 2rem;border-radius:8px;text-decoration:none;font-weight:bold;margin-right:1rem;">LINEで無料相談（24時間）</a>
+<a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06c755;color:white;padding:0.75rem 2rem;border-radius:8px;text-decoration:none;font-weight:bold;margin-right:1rem;">LINEで無料相談（24時間）</a>
 <a href="/contact" style="display:inline-block;background:#1a73e8;color:white;padding:0.75rem 2rem;border-radius:8px;text-decoration:none;font-weight:bold;">お問い合わせフォーム</a>
 </p>
 </div>

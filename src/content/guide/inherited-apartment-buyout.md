@@ -299,7 +299,7 @@ A: はい。大阪市生野区を本社とする訳あり不動産専門の直�
 
 <strong>「持ち続けるべきか、手放すべきか」の判断からご相談いただけます。</strong>査定は無料です。お気軽にお問い合わせください。
 
-<a href="https://lin.ee/9Fk9EUl" target="_blank" rel="noopener noreferrer"><strong>LINEで無料相談する</strong></a>
+<a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" target="_blank" rel="noopener noreferrer"><strong>LINEで無料相談する</strong></a>
 
 電話でのご相談：<a href="tel:06-7509-5696">06-7509-5696</a>（折り返しご連絡します）
 

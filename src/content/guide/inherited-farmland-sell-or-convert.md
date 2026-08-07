@@ -259,5 +259,5 @@ A. 可能です（家庭裁判所に申述、3ヶ月以内）。ただし2023年
 
 農地の相続・売却・転用について、訳あり不動産専門の宅建業者が無料でご相談をお受けしています。農地法の手続きが複雑でお困りの方、農振農地で転用が難しい方、早期に現金化したい方など、どのようなご事情でもお気軽にご連絡ください。
 
-<a href="https://lin.ee/9Fk9EUl" style="display:inline-block;background:#06C755;color:#fff;padding:14px 32px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 8px 8px 0;">LINEで無料相談（即日対応）</a>
+<a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06C755;color:#fff;padding:14px 32px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 8px 8px 0;">LINEで無料相談（即日対応）</a>
 <a href="/contact" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 32px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 0;">お問い合わせフォーム</a>

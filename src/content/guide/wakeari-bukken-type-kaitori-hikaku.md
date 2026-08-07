@@ -189,6 +189,6 @@ cluster: "accident"
 
 <div style="background:#f8f9fa;border:2px solid #28a745;border-radius:8px;padding:1.5rem;margin:2rem 0;text-align:center;">
 <p style="font-size:1.1em;font-weight:bold;margin-bottom:1rem;">物件タイプの確認・無料相談はこちら</p>
-<p><a href="https://lin.ee/9Fk9EUl" style="display:inline-block;background:#06C755;color:#fff;padding:0.8rem 2rem;border-radius:4px;text-decoration:none;font-weight:bold;font-size:1.1em;">LINEで無料相談（空き家のミカタ）</a></p>
+<p><a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06C755;color:#fff;padding:0.8rem 2rem;border-radius:4px;text-decoration:none;font-weight:bold;font-size:1.1em;">LINEで無料相談（空き家のミカタ）</a></p>
 <p style="margin-top:1rem;font-size:0.9em;color:#666;">または <a href="/contact">お問い合わせフォーム</a>からもご連絡いただけます。</p>
 </div>

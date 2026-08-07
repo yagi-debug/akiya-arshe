@@ -210,5 +210,5 @@ A. 訳あり物件専門の買取業者への相談をお勧めします。専�
 
 アスベスト含有建物・古い建物の相続・売却について、訳あり物件専門の宅建業者が無料でご相談をお受けしています。解体費用の見通しが立たない・仲介業者に断られた・早く手放したいなど、どのようなご事情でもお気軽にご連絡ください。
 
-<a href="https://lin.ee/9Fk9EUl" style="display:inline-block;background:#06C755;color:#fff;padding:14px 32px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 8px 8px 0;">LINEで無料相談（即日対応）</a>
+<a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06C755;color:#fff;padding:14px 32px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 8px 8px 0;">LINEで無料相談（即日対応）</a>
 <a href="/contact" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 32px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 0;">お問い合わせフォーム</a>

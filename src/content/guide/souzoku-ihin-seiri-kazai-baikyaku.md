@@ -169,7 +169,7 @@ faqs:
 
 空き家のミカタは、家財・残置物が残っている状態でも買取に対応しています。「片付けが大変で困っている」「遠方にいて管理できない」といったご事情も、まずはご相談ください。
 
-<a href="https://lin.ee/9Fk9EUl" target="_blank" rel="noopener noreferrer"><strong>LINEで無料相談する（24時間受付）</strong></a>
+<a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" target="_blank" rel="noopener noreferrer"><strong>LINEで無料相談する（24時間受付）</strong></a>
 
 <a href="/contact"><strong>お問い合わせフォームはこちら</strong></a>
 ---

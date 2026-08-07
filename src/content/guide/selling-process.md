@@ -242,5 +242,5 @@ howToSteps:
 - <a href="/guide/selling-tax-guide">不動産売却時の税金と節税対策</a>
 - <a href="/guide/inheritance-sale">相続した不動産を売却する完全ガイド</a>
 
-<strong>LINE無料相談：[空き家のミカタ](https://lin.ee/9Fk9EUl)</strong>
+<strong>LINE無料相談：[空き家のミカタ](https://line.arshe1719.workers.dev/auth/line?ref=hp)</strong>
 

@@ -221,7 +221,7 @@ A. いいえ。査定・相談は無料で、価格を聞いてから判断し�
 
 ---
 
-<a href="https://lin.ee/9Fk9EUl" target="_blank" rel="noopener noreferrer"><strong>LINEで無料相談する（旗竿地・路地状敷地の売却相談）</strong></a>
+<a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" target="_blank" rel="noopener noreferrer"><strong>LINEで無料相談する（旗竿地・路地状敷地の売却相談）</strong></a>
 
 <a href="/contact"><strong>お問い合わせフォームはこちら</strong></a>
 

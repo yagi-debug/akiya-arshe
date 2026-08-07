@@ -222,7 +222,7 @@ LINEまたはお問い合わせフォームから、物件の情報をお送り�
 
 <strong>宅建業者が、あなたの状況に合った選択肢を一緒に整理します。</strong>「売るかどうかまだ決まっていない」という段階でも構いません。相談は完全無料です。
 
-<strong><a href="https://lin.ee/9Fk9EUl">LINEで無料相談する</a></strong>
+<strong><a href="https://line.arshe1719.workers.dev/auth/line?ref=hp">LINEで無料相談する</a></strong>
 
 電話でのご相談：<a href="tel:06-7509-5696">06-7509-5696</a>（折り返しご連絡します）
 

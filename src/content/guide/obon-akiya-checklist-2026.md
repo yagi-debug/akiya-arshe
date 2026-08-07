@@ -470,7 +470,7 @@ function calcCost() {
 <div style="background:#f0f9ff;border:2px solid #0ea5e9;border-radius:8px;padding:1.5rem;margin:2rem 0;">
 <strong>無料査定・ご相談はこちら</strong><br />
 LINEで写真を送るだけで、最短即日に概算査定をお伝えします。帰省中でもスマートフォンから相談できます。しつこい営業・勧誘は一切ありません。<br /><br />
-<a href="https://lin.ee/9Fk9EUl" style="display:inline-block;background:#06C755;color:#fff;padding:0.75rem 2rem;border-radius:4px;text-decoration:none;font-weight:bold;">LINE「空き家のミカタ」に無料相談</a><br /><br />
+<a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06C755;color:#fff;padding:0.75rem 2rem;border-radius:4px;text-decoration:none;font-weight:bold;">LINE「空き家のミカタ」に無料相談</a><br /><br />
 またはお問い合わせフォームからもどうぞ。<br />
 <a href="/contact">→ お問い合わせフォームはこちら</a>
 </div>

@@ -490,7 +490,7 @@ function calcAkiyaSim() {
     <li>最短2週間〜1ヶ月で現金化できます</li>
   </ul>
   <div style="display:flex;flex-wrap:wrap;gap:1rem;">
-    <a href="https://lin.ee/9Fk9EUl" target="_blank" rel="noopener noreferrer" style="display:inline-block;background:#06C755;color:white;text-decoration:none;padding:12px 24px;border-radius:6px;font-weight:bold;font-size:0.95rem;">
+    <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" target="_blank" rel="noopener noreferrer" style="display:inline-block;background:#06C755;color:white;text-decoration:none;padding:12px 24px;border-radius:6px;font-weight:bold;font-size:0.95rem;">
       LINEで無料相談する
     </a>
     <a href="/contact" style="display:inline-block;background:white;color:#1a56db;text-decoration:none;padding:12px 24px;border-radius:6px;font-weight:bold;font-size:0.95rem;border:2px solid #1a56db;">

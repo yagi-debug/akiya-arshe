@@ -668,7 +668,7 @@ faqs:
 
 <strong>空き家のミカタ</strong>では、相続アパート・再建築不可・事故物件・共有持分・遠方空き家・借地権・底地・農地など、仲介では売りにくい訳あり不動産の買取相談を無料でお受けしています。「どこに相談しても断られた」「こんな物件でも売れるのか不安」という方も、まずはお気軽にご連絡ください。
 
-<strong>[LINEで無料相談する](https://lin.ee/9Fk9EUl)</strong>
+<strong>[LINEで無料相談する](https://line.arshe1719.workers.dev/auth/line?ref=hp)</strong>
 
 <strong>[お問い合わせフォームはこちら](/contact)</strong>
 

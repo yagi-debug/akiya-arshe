@@ -302,7 +302,7 @@ faqs:
 <div style="background:#f0f7ff;border:2px solid #1976d2;border-radius:8px;padding:1.5rem;text-align:center;margin:2rem 0;">
 <p style="font-size:1.1rem;font-weight:bold;margin-bottom:0.5rem;">相続不動産の処分でお困りですか？</p>
 <p style="margin-bottom:1rem;">まずは無料で現状をお聞かせください。最適な処分方法をご提案します。</p>
-<a href="https://lin.ee/akiya-mikata" style="background:#06c755;color:white;padding:0.8rem 2rem;border-radius:4px;text-decoration:none;font-weight:bold;display:inline-block;">LINEで無料相談する</a>
+<a href="https://line.arshe1719.workers.dev/auth/line?ref=hp-mikata" style="background:#06c755;color:white;padding:0.8rem 2rem;border-radius:4px;text-decoration:none;font-weight:bold;display:inline-block;">LINEで無料相談する</a>
 </div>
 
 ---

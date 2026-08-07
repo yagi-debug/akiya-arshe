@@ -178,7 +178,7 @@ A: 相続放棄をしても入居者の賃貸借契約は法律上継続しま�
 <strong>相続アパートの無料査定・ご相談</strong><br>
 入居者がいる状態でも、老朽化していても、相続直後でも対応可能です。<br>
 空き家のミカタ（宅建業者・大阪府知事(1)第65646号）が、最短2週間で現金化できるプランをご提案します。<br><br>
-<a href="https://lin.ee/9Fk9EUl" style="display:inline-block;background:#06C755;color:#fff;padding:0.75rem 1.5rem;border-radius:6px;text-decoration:none;font-weight:bold;margin-right:1rem;">LINEで無料相談する</a>
+<a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06C755;color:#fff;padding:0.75rem 1.5rem;border-radius:6px;text-decoration:none;font-weight:bold;margin-right:1rem;">LINEで無料相談する</a>
 <a href="/contact" style="display:inline-block;background:#1d4ed8;color:#fff;padding:0.75rem 1.5rem;border-radius:6px;text-decoration:none;font-weight:bold;">お問い合わせフォームへ</a>
 </div>
 

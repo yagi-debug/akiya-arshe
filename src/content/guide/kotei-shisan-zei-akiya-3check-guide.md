@@ -180,7 +180,7 @@ A. 本当です。更地にすると住宅用地の特例が適用されなく�
 
 <div style="background:#f0f7ff;border-left:4px solid #1a56db;padding:1.25rem 1.5rem;margin:1.5rem 0;border-radius:4px;">
 <strong>無料査定・ご相談の方法</strong><br>
-▶ <a href="https://lin.ee/9Fk9EUl" target="_blank" rel="noopener">LINE「空き家のミカタ」で相談する</a>（友だち追加後、24時間受付・最短3日で査定額をご提示）<br>
+▶ <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" target="_blank" rel="noopener">LINE「空き家のミカタ」で相談する</a>（友だち追加後、24時間受付・最短3日で査定額をご提示）<br>
 ▶ <a href="/contact">お問い合わせフォームから相談する</a>（折り返しご連絡します）<br><br>
 現況のまま・片付け不要・仲介手数料なしで査定します。
 </div>

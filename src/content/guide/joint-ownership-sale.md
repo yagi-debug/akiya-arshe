@@ -232,7 +232,7 @@ A: 兄弟などの共有者と意見が合わない場合でも、自分の持�
 
 共有名義の不動産売却でお悩みでしたら、LINEまたはお問い合わせフォームでお気軽にご相談ください。宅建業者が直接お答えします。
 
-- LINE: <a href="https://lin.ee/9Fk9EUl">空き家のミカタ</a>（24時間受付）
+- LINE: <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp">空き家のミカタ</a>（24時間受付）
 - お問い合わせ: <a href="/contact">無料相談フォーム</a>
 
 ---

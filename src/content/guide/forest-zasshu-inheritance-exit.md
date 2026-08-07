@@ -194,5 +194,5 @@ faqs:
 
 相続した山林・雑種地の処分でお困りでしたら、空き家のミカタにご相談ください。農地法の許可が不要な分、農地より手続きがシンプルです。国庫帰属制度の要件確認や、現況での買取についても、遠慮なくお問い合わせいただければと思います。
 
-<a href="https://lin.ee/9Fk9EUl" style="display:inline-block;background:#06C755;color:#fff;padding:14px 32px;border-radius:8px;text-decoration:none;font-weight:bold;font-size:1.1rem;margin:8px 4px;">LINEで無料相談</a>
+<a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06C755;color:#fff;padding:14px 32px;border-radius:8px;text-decoration:none;font-weight:bold;font-size:1.1rem;margin:8px 4px;">LINEで無料相談</a>
 <a href="/contact" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 32px;border-radius:8px;text-decoration:none;font-weight:bold;font-size:1.1rem;margin:8px 4px;">メールで問い合わせる</a>

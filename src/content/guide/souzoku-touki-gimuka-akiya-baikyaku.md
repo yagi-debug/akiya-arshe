@@ -242,6 +242,6 @@ faqs:
 
 相続した戸建てや空き家の売却についてお悩みの方は、お気軽にご連絡ください。相続登記が未了の状態でも、司法書士との連携を含めてサポートいたします。
 
-<a href="https://lin.ee/gyFhEvp" rel="noopener noreferrer" target="_blank"><strong>LINEで無料相談する</strong></a>
+<a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" rel="noopener noreferrer" target="_blank"><strong>LINEで無料相談する</strong></a>
 
 <a href="/contact"><strong>問い合わせフォームから相談する</strong></a>

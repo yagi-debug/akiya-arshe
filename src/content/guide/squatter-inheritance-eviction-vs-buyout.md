@@ -145,7 +145,7 @@ cluster: "inheritance"
 「知らない人が住み着いている」「元借主が出ていかない」「裁判までする気力もお金もない」——そんな状態でも、<strong>占拠者がいる現況のまま買い取れる場合があります。</strong>退去交渉や法的手続きの負担を抱えたまま、まず手を離したい方はご相談ください。査定・相談は無料で、売却の義務はありません。
 
 <strong>LINEでの無料相談はこちら</strong>
-👉 [空き家のミカタ LINE公式](https://lin.ee/9Fk9EUl)
+👉 [空き家のミカタ LINE公式](https://line.arshe1719.workers.dev/auth/line?ref=hp)
 
 <strong>メールでのお問い合わせ</strong>
 👉 [お問い合わせフォームはこちら](/contact)

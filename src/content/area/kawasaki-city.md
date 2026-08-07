@@ -40,7 +40,7 @@ A: はい、対応できます。訳あり物件専門の宅建業者「空き�
 
 まずはお気軽にご相談ください。
 
-**[LINEで無料相談する](https://lin.ee/9Fk9EUl)** ｜ **[お問い合わせフォーム](/contact)**
+**[LINEで無料相談する](https://line.arshe1719.workers.dev/auth/line?ref=hp)** ｜ **[お問い合わせフォーム](/contact)**
 
 空き家のミカタ（宅建業者）
 ---

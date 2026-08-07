@@ -127,7 +127,7 @@ howToSteps:
 
 当社では、相続した不動産の査定を無料で行っています。放棄すべきか売却すべきか迷っている方は、まず不動産の価値を確認するところから始めてみてください。
 
-- LINE：[空き家のミカタ](https://lin.ee/9Fk9EUl)
+- LINE：[空き家のミカタ](https://line.arshe1719.workers.dev/auth/line?ref=hp)
 - 
 
 ## 関連する記事

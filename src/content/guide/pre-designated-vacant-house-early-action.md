@@ -257,7 +257,7 @@ cluster: "akiya-tax"
 <div style="margin:2rem 0;padding:1.5rem;background:#f0fdf4;border-radius:8px;border:1px solid #86efac;">
   <p style="margin:0 0 1rem;font-weight:bold;font-size:1.1rem;">無料相談・査定のお申し込み</p>
   <p style="margin:0 0 1rem;">LINE「空き家のミカタ」で簡単に相談できます。物件の写真・住所をお送りいただくだけでOKです。</p>
-  <a href="https://lin.ee/9Fk9EUl" style="display:inline-block;background:#06c755;color:#fff;padding:0.75rem 2rem;border-radius:4px;text-decoration:none;font-weight:bold;">LINEで無料相談する</a>
+  <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06c755;color:#fff;padding:0.75rem 2rem;border-radius:4px;text-decoration:none;font-weight:bold;">LINEで無料相談する</a>
   <span style="display:inline-block;margin-left:1rem;">または</span>
   <a href="/contact" style="display:inline-block;margin-left:0.5rem;color:#15803d;font-weight:bold;">メールフォームで相談する →</a>
 </div>

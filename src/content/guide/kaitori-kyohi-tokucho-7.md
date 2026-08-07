@@ -243,7 +243,7 @@ howToSteps:
 
 対応しているのは、大阪市24区（北区・都島区・福島区・此花区・中央区・西区・港区・大正区・天王寺区・浪速区・西淀川区・淀川区・東淀川区・東成区・生野区・旭区・城東区・鶴見区・阿倍野区・住之江区・住吉区・東住吉区・平野区・西成区）の訳あり不動産を中心とした地域です。
 
-<strong>[LINEで無料相談する（24時間受付）](https://lin.ee/9Fk9EUl)</strong>
+<strong>[LINEで無料相談する（24時間受付）](https://line.arshe1719.workers.dev/auth/line?ref=hp)</strong>
 
 <strong>[お問い合わせフォームはこちら](/contact)</strong>
 

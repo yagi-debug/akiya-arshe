@@ -229,7 +229,7 @@ cluster: "wakeari"
 <p style="margin-bottom:16px;">物件の住所と写真をLINEで送るだけで、24時間以内に概算査定額をご返答します。断られた経緯があれば、合わせてお伝えください。</p>
 <p style="margin-bottom:8px;"><strong>▶ LINEで無料査定（推奨）</strong><br>
 友だち追加後、物件の住所と写真を送るだけ。<br>
-<a href="https://lin.ee/9Fk9EUl" style="color:#1d4ed8;font-weight:bold;">https://lin.ee/9Fk9EUl</a></p>
+<a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="color:#1d4ed8;font-weight:bold;">https://line.arshe1719.workers.dev/auth/line?ref=hp</a></p>
 <p style="margin-bottom:0;"><strong>▶ お問い合わせフォームから相談する</strong><br>
 <a href="/contact" style="color:#1d4ed8;font-weight:bold;">無料相談フォームはこちら</a>（メールでも対応可能）</p>
 </div>

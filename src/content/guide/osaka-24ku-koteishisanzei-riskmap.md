@@ -267,7 +267,7 @@ cluster: "akiya-tax"
 
 <strong>空き家のミカタ</strong>では、大阪市全24区の空き家・訳あり物件の無料査定・無料相談を随時受け付けています。老朽化・再建築不可・相続未登記・空き家特措法の指導が来ている物件も対応可能です。
 
-<a href="https://lin.ee/9Fk9EUl" target="_blank" rel="noopener noreferrer" style="display:inline-block;background:#06C755;color:#fff;padding:12px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 0;">LINEで無料相談する（24時間受付）</a>
+<a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" target="_blank" rel="noopener noreferrer" style="display:inline-block;background:#06C755;color:#fff;padding:12px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 0;">LINEで無料相談する（24時間受付）</a>
 
 <a href="/contact" style="display:inline-block;background:#1a56db;color:#fff;padding:12px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 0;">フォームで無料査定を依頼する</a>
 

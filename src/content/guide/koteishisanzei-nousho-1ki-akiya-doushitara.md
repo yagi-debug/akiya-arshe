@@ -315,9 +315,9 @@ A: 市区町村から「特定空き家」に指定され、助言・指導を�
 
 <strong>LINE「空き家のミカタ」で無料相談（24時間受付）</strong>
 
-[![LINEで相談する](https://scdn.line-apps.com/n/line_add_friends/btn/ja.png)](https://lin.ee/9Fk9EUl)
+[![LINEで相談する](https://scdn.line-apps.com/n/line_add_friends/btn/ja.png)](https://line.arshe1719.workers.dev/auth/line?ref=hp)
 
-https://lin.ee/9Fk9EUl
+https://line.arshe1719.workers.dev/auth/line?ref=hp
 
 <strong>お問い合わせフォームはこちら</strong> → [/contact](/contact)
 

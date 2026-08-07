@@ -230,7 +230,7 @@ A：相続人が3人以上いる場合も基本は同じです。例えば不動
 
 <p style="margin-top:0.75rem;">「空き家のミカタ」では、相続した不動産（訳あり・共有持分・築古・再建築不可）を現況のまま査定・買取しています。代償分割が難しいと感じたら、換価分割の選択肢として、まず無料相談でご状況をお聞かせください。司法書士・税理士とも連携して対応しています。</p>
 
-<a href="https://lin.ee/9Fk9EUl" target="_blank" rel="noopener noreferrer" style="display:inline-block;background:#06C755;color:#fff;padding:0.75rem 2rem;border-radius:8px;font-weight:bold;text-decoration:none;margin-top:1rem;">LINEで無料相談する</a>
+<a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" target="_blank" rel="noopener noreferrer" style="display:inline-block;background:#06C755;color:#fff;padding:0.75rem 2rem;border-radius:8px;font-weight:bold;text-decoration:none;margin-top:1rem;">LINEで無料相談する</a>
 
 <p style="margin-top:0.5rem;font-size:0.9rem;">「空き家のミカタ」を友だち追加してください</p>
 

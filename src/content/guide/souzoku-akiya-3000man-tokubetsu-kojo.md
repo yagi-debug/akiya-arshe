@@ -241,7 +241,7 @@ A. 買取業者（当社のような不動産買取業者）への売却でも�
 「この特例が使えるか確認したい」「旧耐震基準かどうかわからない」「そもそも売れるか不安」という段階でも構いません。査定は無料で、相談したからといって売却の義務は生じません。
 
 <strong>LINEで無料相談（24時間受付）</strong><br>
-<a href="https://lin.ee/9Fk9EUl" style="display:inline-block;background:#06c755;color:#fff;font-weight:bold;padding:14px 32px;border-radius:8px;text-decoration:none;font-size:1.05rem;margin:8px 4px;">LINE「空き家のミカタ」に相談する（無料）</a>
+<a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06c755;color:#fff;font-weight:bold;padding:14px 32px;border-radius:8px;text-decoration:none;font-size:1.05rem;margin:8px 4px;">LINE「空き家のミカタ」に相談する（無料）</a>
 
 物件の住所・築年数・現状をお知らせいただくだけで査定できます。
 

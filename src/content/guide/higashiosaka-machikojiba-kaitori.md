@@ -180,7 +180,7 @@ A: 用途地域は東大阪市の都市計画図で確認できますが、ご�
 
 ### LINEで相談する（最短当日返信）
 
-<a href="https://lin.ee/9Fk9EUl" target="_blank" rel="noopener noreferrer"><strong>→ LINE「空き家のミカタ」に工場売却の相談を送る</strong></a>
+<a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" target="_blank" rel="noopener noreferrer"><strong>→ LINE「空き家のミカタ」に工場売却の相談を送る</strong></a>
 
 写真・住所・状況をお送りいただければ、おおよその査定感をご返答します。お気軽にメッセージをお送りください。
 

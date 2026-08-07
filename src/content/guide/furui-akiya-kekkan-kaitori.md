@@ -190,7 +190,7 @@ LINEまたはお問い合わせフォームからご連絡ください。物件�
 - 対応エリア：全国（大阪市24区を中心に対応）
 - 仲介手数料なし・現況買取・秘密厳守
 
-<strong><a href="https://lin.ee/9Fk9EUl">LINEで無料査定を依頼する（24時間受付）</a></strong>
+<strong><a href="https://line.arshe1719.workers.dev/auth/line?ref=hp">LINEで無料査定を依頼する（24時間受付）</a></strong>
 
 <a href="/contact">お問い合わせフォームはこちら</a>
 

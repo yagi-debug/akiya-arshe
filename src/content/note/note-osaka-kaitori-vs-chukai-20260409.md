@@ -101,4 +101,4 @@
 **空き家のミカタ（大阪市生野区）**
 宅建業者が直接対応します。買取・仲介どちらが向いているか、無料で診断します。
 
-👉 LINEで気軽に相談する：https://lin.ee/9Fk9EUl
+👉 LINEで気軽に相談する：https://line.arshe1719.workers.dev/auth/line?ref=hp

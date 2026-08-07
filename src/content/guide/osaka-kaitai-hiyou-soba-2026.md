@@ -53,7 +53,7 @@ howToSteps:
 <div style="background:#f0faf3;border-left:4px solid #06C755;padding:1rem 1.5rem;margin:1.5rem 0;border-radius:4px;">
 <strong>「解体していくら残るか」がわからないまま見積りを取ると、判断できません</strong><br />
 物件の住所・おおよその延べ床面積・前面道路の幅をLINEで送っていただければ、宅地建物取引業者が無料で「解体して売った場合の手残り」と「現況のまま買取に出した場合の手取り」の目安を並べてお返しします。相談だけでも大丈夫です。<br />
-<a href="https://lin.ee/9Fk9EUl" target="_blank" rel="noopener noreferrer"><strong>▶ LINEで無料の手残り比較を受ける（友だち追加）</strong></a>
+<a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" target="_blank" rel="noopener noreferrer"><strong>▶ LINEで無料の手残り比較を受ける（友だち追加）</strong></a>
 </div>
 
 <section id="ai-summary">
@@ -323,7 +323,7 @@ A: 木造30坪なら、重機が入る標準的な条件で<strong>約120〜180�
 
 解体費用の見積りが思ったより高かった、補助金の対象外だと言われた、そもそも費用を出せない——そういったご相談にも対応しています。
 
-<a href="https://lin.ee/9Fk9EUl" style="display:inline-block;background:#06c755;color:#fff;padding:14px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 4px;">LINE「空き家のミカタ」に相談する（無料）</a>
+<a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06c755;color:#fff;padding:14px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 4px;">LINE「空き家のミカタ」に相談する（無料）</a>
 
 <a href="/contact" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 4px;">無料査定フォームで相談する</a>
 

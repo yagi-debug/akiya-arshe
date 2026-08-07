@@ -238,7 +238,7 @@ faqs:
 
 <strong>無料相談はこちら（24時間・全国対応）</strong>
 
-- <strong>LINE相談</strong>：[空き家のミカタ（LINEで無料相談）](https://lin.ee/9Fk9EUl)
+- <strong>LINE相談</strong>：[空き家のミカタ（LINEで無料相談）](https://line.arshe1719.workers.dev/auth/line?ref=hp)
 - <strong>お問い合わせフォーム</strong>：[こちらから](/contact)
 
 荷物が残ったまま・修繕なし・再建築不可・老朽化など、どんな状態の相続物件でもご相談いただけます。仲介手数料なし・全国対応。

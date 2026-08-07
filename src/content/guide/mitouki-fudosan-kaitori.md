@@ -165,7 +165,7 @@ faqs:
 
 「未登記物件の相談」とメッセージをお送りください。宅建業者が対応いたします。
 
-<a href="https://lin.ee/eJoGMBj" target="_blank" rel="noopener noreferrer" style="display:inline-block;background:#06c755;color:white;padding:12px 24px;border-radius:8px;text-decoration:none;font-weight:bold;margin:0.5rem 0;">LINEで無料相談する</a>
+<a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" target="_blank" rel="noopener noreferrer" style="display:inline-block;background:#06c755;color:white;padding:12px 24px;border-radius:8px;text-decoration:none;font-weight:bold;margin:0.5rem 0;">LINEで無料相談する</a>
 
 <strong>フォームで相談</strong>
 

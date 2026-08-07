@@ -454,7 +454,7 @@ cluster: "non-rebuildable"
 
 <strong>空き家のミカタ</strong>では、再建築不可物件（袋地・2m未満接道・旗竿地・未登記増築・境界未確定など）の買取相談を無料でお受けしています。「仲介に断られた」「どこに相談していいかわからない」という方も、お気軽にご連絡ください。
 
-<strong>[LINEで無料相談する（24時間対応）](https://lin.ee/9Fk9EUl)</strong>
+<strong>[LINEで無料相談する（24時間対応）](https://line.arshe1719.workers.dev/auth/line?ref=hp)</strong>
 
 <strong>[お問い合わせフォームはこちら](/contact)</strong>
 

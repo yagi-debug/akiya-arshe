@@ -211,7 +211,7 @@ faqs:
 
 <strong>まずはLINEで気軽にご相談ください。査定・相談は完全無料、秘密厳守です。</strong>
 
-<a href="https://lin.ee/9Fk9EUl" style="display:inline-block;background:#06C755;color:#fff;padding:14px 28px;border-radius:6px;font-weight:bold;text-decoration:none;font-size:1.05em;">LINEで無料相談する（空き家のミカタ）</a>
+<a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06C755;color:#fff;padding:14px 28px;border-radius:6px;font-weight:bold;text-decoration:none;font-size:1.05em;">LINEで無料相談する（空き家のミカタ）</a>
 
 <a href="/contact">お問い合わせフォームはこちら</a>
 

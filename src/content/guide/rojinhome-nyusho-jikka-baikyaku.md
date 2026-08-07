@@ -151,6 +151,6 @@ A: 親ご本人が判断能力を持っている場合は通常の売却手続�
 <div style="background:#f0f9f0;border-left:4px solid #22c55e;padding:1.5rem;margin:2rem 0;border-radius:4px;">
 <strong>無料相談・査定のご案内</strong><br/>
 LINE「空き家のミカタ」から24時間ご相談いただけます。<br/>
-👉 <a href="https://lin.ee/9Fk9EUl" target="_blank" rel="noopener">LINE友だち追加で無料相談</a><br/><br/>
+👉 <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" target="_blank" rel="noopener">LINE友だち追加で無料相談</a><br/><br/>
 メールでのご相談は <a href="/contact">お問い合わせフォーム</a> からどうぞ。
 </div>

@@ -266,6 +266,6 @@ cluster: "accident"
 <div style="background:#f0f7ff;border-left:4px solid #2563eb;padding:1.5rem 1.5rem 1rem;border-radius:0 8px 8px 0;margin:2rem 0;">
 <p style="font-weight:bold;margin:0 0 0.5rem;">訳あり物件の査定・ご相談（無料）</p>
 <p style="margin:0 0 1rem;">当社（空き家のミカタ）は、大阪府知事(1)第65646号の宅建業者として、訳あり不動産の直接買取を行っています。査定根拠の説明・費用の透明性・持ち帰り検討への対応など、誠実な取引を心がけています。「他社で断られた」「査定に疑問を感じている」という方もお気軽にご相談ください。</p>
-<p style="margin:0.5rem 0;"><a href="https://lin.ee/9Fk9EUl" style="background:#06c755;color:#fff;padding:0.6rem 1.4rem;border-radius:6px;text-decoration:none;font-weight:bold;display:inline-block;">LINEで無料相談（24時間受付）</a></p>
+<p style="margin:0.5rem 0;"><a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="background:#06c755;color:#fff;padding:0.6rem 1.4rem;border-radius:6px;text-decoration:none;font-weight:bold;display:inline-block;">LINEで無料相談（24時間受付）</a></p>
 <p style="margin:0.5rem 0;"><a href="/contact" style="background:#2563eb;color:#fff;padding:0.6rem 1.4rem;border-radius:6px;text-decoration:none;font-weight:bold;display:inline-block;">お問い合わせフォームから相談する</a></p>
 </div>

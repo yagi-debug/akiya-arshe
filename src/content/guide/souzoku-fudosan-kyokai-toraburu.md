@@ -190,7 +190,7 @@ cluster: "inheritance"
 
 まずはLINEで状況をお聞かせください。査定・ご相談は完全無料、秘密厳守でお受けしています。
 
-<strong><a href="https://lin.ee/9Fk9EUl">LINEで無料相談する（空き家のミカタ）</a></strong>
+<strong><a href="https://line.arshe1719.workers.dev/auth/line?ref=hp">LINEで無料相談する（空き家のミカタ）</a></strong>
 
 <a href="/contact">お問い合わせフォームはこちら</a>
 

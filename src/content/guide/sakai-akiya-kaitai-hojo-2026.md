@@ -51,7 +51,7 @@ cluster: "akiya-tax"
 <div style="background:#f0faf3;border-left:4px solid #06C755;padding:1rem 1.5rem;margin:1.5rem 0;border-radius:4px;">
 <strong>「補助金で解体してから売る」か「現況のまま売る」か迷ったら</strong><br />
 どちらが得かは、物件の場所・老朽度・補助対象かどうかで変わります。物件の住所と状況をLINEで送っていただければ、宅建業者が無料で「補助金向きか、現況買取向きか」の目安をお返しします（全国対応・相談だけでも大丈夫です）。<br />
-<a href="https://lin.ee/9Fk9EUl" target="_blank" rel="noopener noreferrer"><strong>▶ LINEで無料相談する（友だち追加）</strong></a>
+<a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" target="_blank" rel="noopener noreferrer"><strong>▶ LINEで無料相談する（友だち追加）</strong></a>
 </div>
 
 <section id="ai-summary">
@@ -244,7 +244,7 @@ A: 堺市では老朽危険建築物と認定された空き家の解体費用�
 
 > **補助金の対象外と言われた、相続人がまとまらない、どこに相談すればいいかわからない——そういった個別ケースはLINEでそのまま相談いただけます。**
 >
-> <a href="https://lin.ee/9Fk9EUl" style="display:inline-block;background:#06c755;color:#fff;padding:10px 22px;border-radius:6px;font-weight:bold;text-decoration:none;margin-top:4px;">LINE「空き家のミカタ」に無料相談する</a>
+> <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06c755;color:#fff;padding:10px 22px;border-radius:6px;font-weight:bold;text-decoration:none;margin-top:4px;">LINE「空き家のミカタ」に無料相談する</a>
 
 ### 売却と補助金の比較パターン
 
@@ -276,7 +276,7 @@ A: 堺市では老朽危険建築物と認定された空き家の解体費用�
 
 補助金の対象外だった、手続きが複雑で困っている、急いで売りたい——そういったお悩みにもお応えしています。
 
-<a href="https://lin.ee/9Fk9EUl" style="display:inline-block;background:#06c755;color:#fff;padding:14px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 4px;">LINE「空き家のミカタ」に相談する（無料）</a>
+<a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06c755;color:#fff;padding:14px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 4px;">LINE「空き家のミカタ」に相談する（無料）</a>
 
 <a href="/contact" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 4px;">無料査定フォームで相談する</a>
 

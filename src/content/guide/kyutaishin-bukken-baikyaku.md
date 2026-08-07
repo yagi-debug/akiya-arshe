@@ -201,7 +201,7 @@ A. 法的には可能ですが、入居者への告知義務があります。�
 耐震診断なし・改修工事なし・片付け不要。現況のまま最短3日で現金化できます。
 
 <strong>LINEで無料相談（24時間受付）</strong><br>
-→ <a href="https://lin.ee/9Fk9EUl">空き家のミカタ（LINE公式アカウント）</a>
+→ <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp">空き家のミカタ（LINE公式アカウント）</a>
 
 物件の住所・築年数・現状をお知らせいただくだけで査定できます。
 

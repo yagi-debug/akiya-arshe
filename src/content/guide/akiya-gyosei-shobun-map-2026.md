@@ -245,7 +245,7 @@ cluster: "akiya-tax"
 <strong>無料査定・ご相談はこちら</strong><br>
 相続した空き家・行政通知が届いた物件・長年放置している不動産など、どんな状況でもまずはご相談ください。<br><br>
 <strong>LINEで気軽に相談</strong>（24時間受付）<br>
-<a href="https://lin.ee/9Fk9EUl" style="display:inline-block;background:#06c755;color:white;padding:10px 24px;border-radius:4px;text-decoration:none;font-weight:bold;margin-top:8px;">LINE「空き家のミカタ」に相談する</a><br><br>
+<a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06c755;color:white;padding:10px 24px;border-radius:4px;text-decoration:none;font-weight:bold;margin-top:8px;">LINE「空き家のミカタ」に相談する</a><br><br>
 <strong>メールでのお問い合わせ</strong><br>
 <a href="/contact">無料相談フォームはこちら</a>（48時間以内にご返信します）
 </div>

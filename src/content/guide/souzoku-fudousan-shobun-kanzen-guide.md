@@ -380,7 +380,7 @@ howToSteps:
 まずは<strong>LINEでの無料相談</strong>をご利用ください。物件の状況をお聞きした上で、査定価格の目安をお伝えします。
 
 <div style="text-align:center;margin:2rem 0;">
-  <a href="https://lin.ee/9Fk9EUl" style="display:inline-block;background:#06C755;color:white;padding:1rem 2.5rem;border-radius:50px;font-size:1.1rem;font-weight:bold;text-decoration:none;">LINEで無料相談する（24時間受付）</a>
+  <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06C755;color:white;padding:1rem 2.5rem;border-radius:50px;font-size:1.1rem;font-weight:bold;text-decoration:none;">LINEで無料相談する（24時間受付）</a>
 </div>
 
 お電話・メールでのご相談は、お問い合わせフォームをご利用ください。

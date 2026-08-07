@@ -126,7 +126,7 @@ cluster: "akiya-management"
 <div style="background:#f0f9f0;border:1px solid #4caf50;border-radius:8px;padding:1.5rem;margin:2rem 0;text-align:center;">
   <p style="font-size:1.1rem;font-weight:bold;margin-bottom:1rem;">📩 5択のどれが合うか迷ったら</p>
   <p style="margin-bottom:1rem;">実家の写真をLINEで送るだけで、<br>買取なら査定額を無料でお伝えします</p>
-  <a href="https://lin.ee/9Fk9EUl" style="display:inline-block;background:#4caf50;color:#fff;padding:0.75rem 2rem;border-radius:4px;text-decoration:none;font-weight:bold;margin-bottom:0.5rem;">LINEで無料相談する</a>
+  <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#4caf50;color:#fff;padding:0.75rem 2rem;border-radius:4px;text-decoration:none;font-weight:bold;margin-bottom:0.5rem;">LINEで無料相談する</a>
   <p style="margin:0.5rem 0 0;"><a href="/contact" style="color:#4caf50;">お問い合わせフォームはこちら</a></p>
 </div>
 
@@ -179,7 +179,7 @@ cluster: "akiya-management"
 <div style="background:#f0f9f0;border:1px solid #4caf50;border-radius:8px;padding:1.5rem;margin:2rem 0;text-align:center;">
   <p style="font-size:1.1rem;font-weight:bold;margin-bottom:1rem;">📩 老朽化・訳ありの実家でも大丈夫です</p>
   <p style="margin-bottom:1rem;">片付け・修繕は不要。現況のまま査定します。<br>まずは写真をLINEでお送りください</p>
-  <a href="https://lin.ee/9Fk9EUl" style="display:inline-block;background:#4caf50;color:#fff;padding:0.75rem 2rem;border-radius:4px;text-decoration:none;font-weight:bold;margin-bottom:0.5rem;">LINEで無料相談する</a>
+  <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#4caf50;color:#fff;padding:0.75rem 2rem;border-radius:4px;text-decoration:none;font-weight:bold;margin-bottom:0.5rem;">LINEで無料相談する</a>
   <p style="margin:0.5rem 0 0;"><a href="/contact" style="color:#4caf50;">お問い合わせフォームはこちら</a></p>
 </div>
 
@@ -202,7 +202,7 @@ cluster: "akiya-management"
 <div style="background:#f0f9f0;border:1px solid #4caf50;border-radius:8px;padding:1.5rem;margin:2rem 0;text-align:center;">
   <p style="font-size:1.1rem;font-weight:bold;margin-bottom:1rem;">📩 無料相談はこちら</p>
   <p style="margin-bottom:1rem;">LINE「空き家のミカタ」に実家の写真を送るだけで<br>簡易査定を無料でお伝えします</p>
-  <a href="https://lin.ee/9Fk9EUl" style="display:inline-block;background:#4caf50;color:#fff;padding:0.75rem 2rem;border-radius:4px;text-decoration:none;font-weight:bold;margin-bottom:0.5rem;">LINEで無料相談する</a>
+  <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#4caf50;color:#fff;padding:0.75rem 2rem;border-radius:4px;text-decoration:none;font-weight:bold;margin-bottom:0.5rem;">LINEで無料相談する</a>
   <p style="margin:0.5rem 0 0;"><a href="/contact" style="color:#4caf50;">お問い合わせフォームはこちら</a></p>
 </div>
 ---

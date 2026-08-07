@@ -187,6 +187,6 @@ faqs:
 
 親が存命中の売却・成年後見が必要なケース・築古・訳あり物件、いずれにも対応しております。査定・相談は無料です。
 
-<a href="https://lin.ee/9Fk9EUl" target="_blank" rel="noopener noreferrer"><strong>LINEで無料相談する</strong></a>
+<a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" target="_blank" rel="noopener noreferrer"><strong>LINEで無料相談する</strong></a>
 
 <a href="/contact"><strong>お問い合わせフォームはこちら</strong></a>

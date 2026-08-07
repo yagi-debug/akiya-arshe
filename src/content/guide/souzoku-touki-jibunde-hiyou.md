@@ -194,6 +194,6 @@ faqs:
 
 相続した不動産の扱いにお困りの方は、お気軽にご相談ください。相続登記が済んでいない物件でも、登記手続きのサポートを含めて対応いたします。
 
-<a href="https://lin.ee/gyFhEvp" rel="noopener noreferrer" target="_blank"><strong>LINEで無料相談する</strong></a>
+<a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" rel="noopener noreferrer" target="_blank"><strong>LINEで無料相談する</strong></a>
 
 <a href="/contact"><strong>問い合わせフォームから相談する</strong></a>

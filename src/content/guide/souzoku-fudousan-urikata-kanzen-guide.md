@@ -242,7 +242,7 @@ howToSteps:
 
 <div style="background:#f0f7ff;border:2px solid #1a56db;border-radius:8px;padding:1.5rem;margin:2rem 0;text-align:center;">
   <p style="font-size:1.1rem;font-weight:bold;margin-bottom:1rem;">無料相談・査定のご依頼</p>
-  <a href="https://lin.ee/9Fk9EUl" style="display:inline-block;background:#06c755;color:#fff;font-weight:bold;padding:0.75rem 2rem;border-radius:8px;text-decoration:none;margin:0.5rem;">LINEで無料相談する</a>
+  <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06c755;color:#fff;font-weight:bold;padding:0.75rem 2rem;border-radius:8px;text-decoration:none;margin:0.5rem;">LINEで無料相談する</a>
   <a href="/contact" style="display:inline-block;background:#1a56db;color:#fff;font-weight:bold;padding:0.75rem 2rem;border-radius:8px;text-decoration:none;margin:0.5rem;">お問い合わせフォーム</a>
   <p style="font-size:0.9rem;color:#666;margin-top:0.75rem;">24時間受付・全国対応・相談無料</p>
 </div>

@@ -257,6 +257,6 @@ cluster: "accident"
 <div style="background:#f0f7ff;border-left:4px solid #2563eb;padding:1.5rem 1.5rem 1rem;border-radius:0 8px 8px 0;margin:2rem 0;">
 <p style="font-weight:bold;margin:0 0 0.5rem;">無料相談・査定のご依頼</p>
 <p style="margin:0 0 1rem;">訳あり物件の売却について、宅建業者が直接ご対応します。査定・相談は完全無料です。</p>
-<p style="margin:0.5rem 0;"><a href="https://lin.ee/9Fk9EUl" style="background:#06c755;color:#fff;padding:0.6rem 1.4rem;border-radius:6px;text-decoration:none;font-weight:bold;display:inline-block;">LINEで無料相談（24時間受付）</a></p>
+<p style="margin:0.5rem 0;"><a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="background:#06c755;color:#fff;padding:0.6rem 1.4rem;border-radius:6px;text-decoration:none;font-weight:bold;display:inline-block;">LINEで無料相談（24時間受付）</a></p>
 <p style="margin:0.5rem 0;"><a href="/contact" style="background:#2563eb;color:#fff;padding:0.6rem 1.4rem;border-radius:6px;text-decoration:none;font-weight:bold;display:inline-block;">お問い合わせフォームから相談する</a></p>
 </div>

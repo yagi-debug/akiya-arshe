@@ -212,6 +212,6 @@ howToSteps:
 </div>
 
 <div style="display:flex;flex-wrap:wrap;gap:1rem;margin:1.5rem 0;">
-  <a href="https://lin.ee/3hX0bm4" target="_blank" rel="noopener noreferrer" style="display:inline-block;background:#06C755;color:#fff;font-weight:700;padding:0.9rem 2rem;border-radius:6px;text-decoration:none;font-size:1rem;">LINEで無料相談する</a>
+  <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" target="_blank" rel="noopener noreferrer" style="display:inline-block;background:#06C755;color:#fff;font-weight:700;padding:0.9rem 2rem;border-radius:6px;text-decoration:none;font-size:1rem;">LINEで無料相談する</a>
   <a href="/contact" style="display:inline-block;background:#1a56db;color:#fff;font-weight:700;padding:0.9rem 2rem;border-radius:6px;text-decoration:none;font-size:1rem;">お問い合わせフォームはこちら</a>
 </div>

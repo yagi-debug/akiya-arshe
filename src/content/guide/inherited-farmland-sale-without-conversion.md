@@ -214,7 +214,7 @@ JAや農業委員会に買い手候補の紹介を依頼する方法がありま
 <li>農業委員会手続きのサポートあり</li>
 </ul>
 <p>
-<a href="https://lin.ee/9Fk9EUl" style="display:inline-block;background:#06c755;color:white;padding:0.75rem 2rem;border-radius:8px;text-decoration:none;font-weight:bold;margin-right:1rem;">LINEで無料相談（24時間受付）</a>
+<a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06c755;color:white;padding:0.75rem 2rem;border-radius:8px;text-decoration:none;font-weight:bold;margin-right:1rem;">LINEで無料相談（24時間受付）</a>
 <a href="/contact" style="display:inline-block;background:#1a73e8;color:white;padding:0.75rem 2rem;border-radius:8px;text-decoration:none;font-weight:bold;">お問い合わせフォーム</a>
 </p>
 </div>

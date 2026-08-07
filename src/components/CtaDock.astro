@@ -3,9 +3,9 @@
 // モバイル: 画面下部固定バー（LINE相談 + 60秒AI査定の2択）。
 //   ファーストビューを塞がないよう、少しスクロールしてから出す。
 // PC: 従来どおり右下のフローティングLINEボタン。
-// クリックは BaseLayout の gtag( a[href*="lin.ee"] ) で自動計測される。
+// クリックは BaseLayout の gtag( a[href*="lin.ee"], a[href*="line.arshe1719.workers.dev/auth/line"] ) で自動計測される。
 import LineIcon from "./LineIcon.astro";
-const LINE_URL = "https://lin.ee/9Fk9EUl";
+const LINE_URL = "https://line.arshe1719.workers.dev/auth/line?ref=hp";
 ---
 
 <!-- モバイル: 下部固定バー -->

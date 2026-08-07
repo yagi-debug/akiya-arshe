@@ -156,7 +156,7 @@ A: できます。民法第206条により、共有持分は各共有者が単�
 
 自分の持分だけなら、今すぐ単独で売却できます。LINEで相談→翌日査定→最短2週間で現金化。空き家のミカタ（宅建業者・大阪府知事(1)第65646号）が直接買取します。
 
-<a href="https://lin.ee/9Fk9EUl" target="_blank" rel="noopener noreferrer" style="display:inline-block;background:#06C755;color:#fff;padding:0.75rem 2rem;border-radius:8px;font-weight:bold;text-decoration:none;margin-top:1rem;">LINEで無料相談する（24時間受付）</a>
+<a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" target="_blank" rel="noopener noreferrer" style="display:inline-block;background:#06C755;color:#fff;padding:0.75rem 2rem;border-radius:8px;font-weight:bold;text-decoration:none;margin-top:1rem;">LINEで無料相談する（24時間受付）</a>
 
 </section>
 

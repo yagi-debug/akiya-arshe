@@ -246,7 +246,7 @@ LINEまたはお問い合わせフォームから、物件の住所・状況を�
 <p>相談・査定は完全無料。仲介手数料もかかりません。</p>
 <p>
   <strong>▶ LINEで無料相談（最短即日回答）</strong><br>
-  <a href="https://lin.ee/BBHr3Sn" target="_blank" rel="noopener">https://lin.ee/BBHr3Sn</a>
+  <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" target="_blank" rel="noopener">https://line.arshe1719.workers.dev/auth/line?ref=hp</a>
 </p>
 <p>
   <strong>▶ お問い合わせフォーム</strong><br>

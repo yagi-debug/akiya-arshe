@@ -271,7 +271,7 @@ cluster: "inheritance"
 
 相続アパートをどう手放すか、迷っている方はまずお気軽にご連絡ください。<strong>宅建業者が直接お答えします。</strong> 「どの方法が自分に合っているかわからない」という段階からのご相談も大歓迎です。査定・相談は完全無料です。
 
-<strong><a href="https://lin.ee/9Fk9EUl">LINEで無料相談する</a></strong>
+<strong><a href="https://line.arshe1719.workers.dev/auth/line?ref=hp">LINEで無料相談する</a></strong>
 
 <a href="/contact">お問い合わせフォームはこちら</a>
 

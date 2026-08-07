@@ -204,7 +204,7 @@ A: 2019年改正法では、支払いに窮する場合に家庭裁判所への�
 
 ---
 
-<a href="https://lin.ee/9Fk9EUl" target="_blank" rel="noopener noreferrer"><strong>LINEで無料相談する（遺留分侵害額請求・不動産売却の相談）</strong></a>
+<a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" target="_blank" rel="noopener noreferrer"><strong>LINEで無料相談する（遺留分侵害額請求・不動産売却の相談）</strong></a>
 
 <a href="/contact"><strong>お問い合わせフォームはこちら</strong></a>
 

@@ -197,7 +197,7 @@ howToSteps:
 <div style="background:#f0f7ff;border:1px solid #1a56db;border-radius:8px;padding:1.5rem;margin:1.5rem 0;">
 <p style="margin:0 0 0.75rem;font-weight:bold;font-size:1.05rem;">📋 無料査定・ご相談</p>
 <p style="margin:0 0 0.5rem;">訳あり物件・相続物件・空き家の買取相談を受け付けています。</p>
-<p style="margin:0 0 0.5rem;"><strong>LINE（空き家のミカタ）</strong>: <a href="https://lin.ee/9Fk9EUl" style="color:#1a56db;">https://lin.ee/9Fk9EUl</a>（24時間受付、返信は翌営業日まで）</p>
+<p style="margin:0 0 0.5rem;"><strong>LINE（空き家のミカタ）</strong>: <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="color:#1a56db;">https://line.arshe1719.workers.dev/auth/line?ref=hp</a>（24時間受付、返信は翌営業日まで）</p>
 <p style="margin:0;"><strong>お問い合わせフォーム</strong>: <a href="/contact" style="color:#1a56db;">こちらからどうぞ</a></p>
 </div>
 

@@ -256,5 +256,5 @@ A. 訳あり物件専門の買取業者であれば、土壌汚染リスクが�
 
 土壌汚染が疑われる相続不動産・元工場跡地・元ガソリンスタンドの売却について、訳あり物件専門の宅建業者が無料でご相談をお受けしています。調査前でも、告知義務について不安がある方も、まずはお気軽にご連絡ください。
 
-<a href="https://lin.ee/9Fk9EUl" style="display:inline-block;background:#06C755;color:#fff;padding:14px 32px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 8px 8px 0;">LINEで無料相談（即日対応）</a>
+<a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06C755;color:#fff;padding:14px 32px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 8px 8px 0;">LINEで無料相談（即日対応）</a>
 <a href="/contact" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 32px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 0;">お問い合わせフォーム</a>

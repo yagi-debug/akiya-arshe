@@ -166,7 +166,7 @@ faqs:
 
 相続・空き家の売却でお悩みでしたら、LINEまたはお電話でお気軽にご相談ください。宅建業者が直接お答えします。
 
-- LINE: [空き家のミカタ](https://lin.ee/9Fk9EUl)（24時間受付）
+- LINE: [空き家のミカタ](https://line.arshe1719.workers.dev/auth/line?ref=hp)（24時間受付）
 
 
 関連記事:

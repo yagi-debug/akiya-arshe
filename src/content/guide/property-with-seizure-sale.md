@@ -177,7 +177,7 @@ howToSteps:
 
 <strong>「空き家のミカタ」公式LINEアカウント</strong>
 
-[![LINEで相談する](https://img.shields.io/badge/LINE-%E7%84%A1%E6%96%99%E7%9B%B8%E8%AB%87-06C755?style=for-the-badge&logo=line)](https://lin.ee/9Fk9EUl)
+[![LINEで相談する](https://img.shields.io/badge/LINE-%E7%84%A1%E6%96%99%E7%9B%B8%E8%AB%87-06C755?style=for-the-badge&logo=line)](https://line.arshe1719.workers.dev/auth/line?ref=hp)
 
 - 差押え・仮差押えの状況をお伝えください
 - 査定・相談は完全無料

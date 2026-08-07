@@ -355,7 +355,7 @@ document.addEventListener('DOMContentLoaded', calculateSim);
 
 <div style="background:#f0f7ff;border:2px solid #1a56db;border-radius:8px;padding:1.5rem;margin:1.5rem 0;text-align:center;">
   <p style="font-size:1.1rem;font-weight:bold;margin-bottom:1rem;">今すぐ無料で相談する</p>
-  <a href="https://lin.ee/example" style="display:inline-block;background:#06C755;color:white;padding:12px 32px;border-radius:6px;text-decoration:none;font-weight:bold;font-size:1rem;margin-right:8px;">LINEで相談（無料）</a>
+  <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06C755;color:white;padding:12px 32px;border-radius:6px;text-decoration:none;font-weight:bold;font-size:1rem;margin-right:8px;">LINEで相談（無料）</a>
   <a href="/contact" style="display:inline-block;background:#1a56db;color:white;padding:12px 32px;border-radius:6px;text-decoration:none;font-weight:bold;font-size:1rem;margin-top:8px;">お問い合わせフォーム</a>
   <p style="font-size:0.85rem;color:#666;margin-top:1rem;">査定は無料・しつこい営業はしません。宅建業者の代表が直接対応します。</p>
 </div>

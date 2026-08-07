@@ -274,6 +274,6 @@ cluster: "wakeari"
 <div style="background:#fff8f0;border:2px solid #ff6b35;padding:1.5rem;margin:2rem 0;border-radius:8px;text-align:center;">
 <p style="margin:0 0 0.5rem;font-size:1.1rem;"><strong>無料査定・ご相談はこちら</strong></p>
 <p style="margin:0 0 1rem;font-size:0.9rem;">相続アパート・再建築不可・事故物件・共有持分・空き家の買取相談を受け付けています</p>
-<a href="https://lin.ee/9Fk9EUl" style="display:inline-block;background:#06c755;color:#fff;padding:0.8rem 2rem;border-radius:4px;text-decoration:none;font-weight:bold;margin-bottom:0.5rem;">LINEで無料相談する（24時間対応）</a>
+<a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06c755;color:#fff;padding:0.8rem 2rem;border-radius:4px;text-decoration:none;font-weight:bold;margin-bottom:0.5rem;">LINEで無料相談する（24時間対応）</a>
 <p style="margin:0.5rem 0 0;font-size:0.9rem;"><a href="/contact">メール・お問い合わせフォームはこちら</a></p>
 </div>

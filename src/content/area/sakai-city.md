@@ -153,7 +153,7 @@ A. 当社は買取専門のため、管理代行サービスは行っており�
 
 堺市の不動産売却をご検討の方は、最新の市場データをもとに無料で査定いたします。空き家・相続物件・訳あり不動産もお気軽にご相談ください。
 
-<a href="https://lin.ee/9Fk9EUl"><strong>LINEで無料相談する</strong></a> ｜ <a href="/contact"><strong>お問い合わせフォーム</strong></a>
+<a href="https://line.arshe1719.workers.dev/auth/line?ref=hp"><strong>LINEで無料相談する</strong></a> ｜ <a href="/contact"><strong>お問い合わせフォーム</strong></a>
 
 空き家のミカタ（宅建業者）
 ---

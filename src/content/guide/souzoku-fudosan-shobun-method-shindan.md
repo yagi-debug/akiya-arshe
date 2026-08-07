@@ -281,7 +281,7 @@ howToSteps:
 
 <strong>空き家のミカタ</strong>（合同会社アルシェ）は、訳あり不動産・相続不動産の買取に特化した宅建業者です。全国対応・仲介手数料なし・現況のままお引き受けします。
 
-- **LINE相談（24時間受付）**: [https://lin.ee/9Fk9EUl](https://lin.ee/9Fk9EUl)
+- **LINE相談（24時間受付）**: [https://line.arshe1719.workers.dev/auth/line?ref=hp](https://line.arshe1719.workers.dev/auth/line?ref=hp)
 - **お問い合わせフォーム**: [/contact](/contact)
 
 査定・相談は完全無料です。「話を聞くだけ」も歓迎しています。

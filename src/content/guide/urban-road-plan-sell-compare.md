@@ -240,7 +240,7 @@ faqs:
 
 ---
 
-<a href="https://lin.ee/9Fk9EUl" target="_blank" rel="noopener noreferrer"><strong>LINEで無料相談する（都市計画道路の予定地・建築制限のある物件もOK）</strong></a>
+<a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" target="_blank" rel="noopener noreferrer"><strong>LINEで無料相談する（都市計画道路の予定地・建築制限のある物件もOK）</strong></a>
 
 <a href="/contact"><strong>お問い合わせフォームはこちら</strong></a>
 

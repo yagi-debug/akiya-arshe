@@ -267,7 +267,7 @@ A: 住む・貸す予定がなければ、売却（仲介・買取）・相続�
 
 <strong>状況をお聞きすれば、最短ルートをご提案できます。</strong>宅建業者として、相続登記の確認から査定・買取まで一貫してサポートしています。全国対応、秘密厳守でお受けしています。
 
-<strong><a href="https://lin.ee/9Fk9EUl">LINEで無料相談する（空き家のミカタ）</a></strong>
+<strong><a href="https://line.arshe1719.workers.dev/auth/line?ref=hp">LINEで無料相談する（空き家のミカタ）</a></strong>
 
 <a href="/contact">お問い合わせフォームはこちら</a>
 

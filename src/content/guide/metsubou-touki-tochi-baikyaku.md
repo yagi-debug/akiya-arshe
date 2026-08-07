@@ -218,7 +218,7 @@ A. 建物滅失登記が完了すると、市区町村への通知が行われ�
 
 「建物を解体したのに登記が残ったまま」「相続した土地の売却を急いでいる」「何から始めればいいかわからない」——そのような状況でも、当社への相談・査定は<strong>無料</strong>です。
 
-<a href="https://lin.ee/9Fk9EUl" target="_blank" rel="noopener noreferrer" style="display:inline-block;background:#06C755;color:#fff;padding:12px 28px;border-radius:6px;text-decoration:none;font-weight:bold;margin:8px 4px;">LINE「空き家のミカタ」に相談する（無料）</a>
+<a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" target="_blank" rel="noopener noreferrer" style="display:inline-block;background:#06C755;color:#fff;padding:12px 28px;border-radius:6px;text-decoration:none;font-weight:bold;margin:8px 4px;">LINE「空き家のミカタ」に相談する（無料）</a>
 
 <a href="/contact" style="display:inline-block;background:#333;color:#fff;padding:12px 28px;border-radius:6px;text-decoration:none;font-weight:bold;margin:8px 4px;">お問い合わせフォームで相談する</a>
 
