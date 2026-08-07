@@ -24,10 +24,12 @@ const SUSPECTS = [
   /https?:\/\/line\.arshe1719\.workers\.dev\/[^\s"'`)\]<>（）、。]*/g,
 ];
 
-// クリック可能CTA（tel:/mailto:）の許可リスト。記事AIは電話番号・メアドも創作する
+// クリック可能CTA（tel:/mailto:）の検査。記事AIは電話番号・メアドも創作する
 // （2026-08-08検出: 架空の06-7777-1373が4月から記事に載っていた）。
-// 本文中の役所等の電話番号は対象外。検査するのはリンク（tel:/mailto:）だけ。
-const ALLOWED_TEL = new Set(['06-7509-5696']);
+// 電話は会長方針（2026-08-08）で「基本載せない」— tel:リンクは全面禁止。
+// 電話番号の記載は /about の会社概要（テキストのみ）とJSON-LDだけに残す。
+// 本文中の役所等の電話番号（リンクでないもの）は対象外。
+const ALLOWED_TEL = new Set(); // tel:リンクは1件も許可しない
 const ALLOWED_MAILTO = new Set(['info.arshe@arshe-corp.com']);
 const TEL_RE = /tel:([0-9+-]+)/g;
 const MAILTO_RE = /mailto:([^\s"'`)\]<>（）、。?]+)/g;
