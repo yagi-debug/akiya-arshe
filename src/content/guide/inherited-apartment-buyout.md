@@ -24,6 +24,11 @@ heroImage: "/images/inherited-apartment-hero.jpg"
 **Q: 入居者がいる状態で相続アパートを売却（買取）できますか？**
 A: はい、入居者がいるまま「オーナーチェンジ」で売却できます。入居者の退去を求める必要はなく、現在の入居状況のまま所有権を移転する方法（オーナーチェンジ）で買取が成立します。最短2週間で現金化でき、仲介手数料も不要です。相続登記が未了の場合もご相談ください。
 
+<div style="background:#fff3cd;border-left:4px solid #ff9800;padding:1rem 1.5rem;margin-bottom:1.5rem;border-radius:4px;">
+<strong>【要点】相続アパート買取で損をしない判断基準</strong>
+相続アパートの実質利回りは3〜4%程度で、空室リスク・修繕費・共有名義トラブルが積み重なる。買取なら仲介手数料0円・最短2〜4週間で現金化でき、入居者付きオーナーチェンジ・旧耐震基準も対応可能。
+</div>
+
 <div style="background:#f0f7ff;border-left:4px solid #1a56db;padding:1rem 1.5rem;margin-bottom:1.5rem;border-radius:4px;">
 <strong>相続したアパートを手放したい場合の結論：</strong>買取業者への売却が最短・最もリスクの低い選択肢です。入居者がいるオーナーチェンジ物件も、旧耐震基準の築古物件も、現況のまま売却できます。仲介手数料なし・最短2週間で現金化できます。
 </div>
