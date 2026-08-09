@@ -214,6 +214,7 @@ A. ①戸籍謄本から現住所を追跡②家庭裁判所に「不在者財�
 ## 関連するガイド記事
 
 - <a href="/guide/kyouyuu-mochibun-qa-hub">共有持分Q&Aハブ｜18の疑問に宅建業者が本音で回答</a>
+- <a href="/guide/kyouyuu-butsu-bunkatsu-seikyu-jitsumu">共有持分を売った後どうなる？共有物分割請求の流れ・期間・費用【2026年版】</a>
 - <a href="/guide/souzoku-jirei-08-kyoyu-mome-kaitori">【体験談・事例08】「弟が売りたくない」と3年間膠着した実家の共有持分を32日で現金化した全記録</a>
 - <a href="/guide/kyouyuu-mochibun-kaitori">共有持分の買取｜他の共有者の同意不要・もめずに持分だけ売る方法【最短2週間・全国対応】</a>
 - <a href="/guide/souzoku-apart-kanzen-guide">相続アパートを手放したい方へ｜売却の流れ・税金・失敗しない判断基準を宅建業者が完全解説【2026年最新】</a>

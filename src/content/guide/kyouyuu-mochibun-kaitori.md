@@ -276,6 +276,7 @@ LINEまたはお問い合わせフォームから、物件の情報と持分割�
 ## 関連するガイド記事
 
 - <a href="/guide/kyouyuu-mochibun-hub">共有持分 完全ハブ｜売却・買取・トラブル解決・相場まで全ガイドまとめ【2026年版】</a>
+- <a href="/guide/kyouyuu-butsu-bunkatsu-seikyu-jitsumu">共有持分を売った後どうなる？共有物分割請求の流れ・期間・費用【2026年版】</a>
 
 相談無料・秘密厳守・全国対応
 

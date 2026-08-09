@@ -249,6 +249,7 @@ LINEでのご相談は、ご自身の端末の履歴以外に外へ出ること�
 - [共有持分の買取相場はいくら？持分割合・物件種別・地域別の計算式](/guide/kyouyuu-mochibun-kaitori-soba)
 - [共有持分とは｜定義・持分割合の意味・処分方法4つの比較表](/guide/kyoyuu-mochibun-teigi-hikaku)
 - [共有持分Q&Aハブ｜18の疑問に回答](/guide/kyouyuu-mochibun-qa-hub)
+- [共有持分を売った後どうなる？共有物分割請求の流れ・期間・費用](/guide/kyouyuu-butsu-bunkatsu-seikyu-jitsumu)
 - [相続したアパートを兄弟の共有名義で売却する方法](/guide/souzoku-apart-kyodai-kyoyu-baikyaku)
 - [共有持分 完全ハブ｜売却・買取・トラブル解決・相場まで](/guide/kyouyuu-mochibun-hub)
 
