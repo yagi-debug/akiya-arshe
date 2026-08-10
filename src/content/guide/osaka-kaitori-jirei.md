@@ -310,6 +310,7 @@ faqs:
 - <a href="/guide/mitouki-fudosan-kaitori">未登記の空き家・相続アパートは売れる？登記前に売る方法を宅建業者が解説</a>
 - <a href="/guide/lp-wakeari-bukken-kaitori">訳あり物件を今すぐ買取｜仲介不可・相続・共有持分・再建築不可、全国対応【空き家のミカタ】</a>
 - <a href="/guide/wakeare-bukken-kaitori">訳あり物件の買取｜再建築不可・事故物件・共有持分・空き家を手放す完全ガイド【2026年版】</a>
+- <a href="/guide/osaka-wakeare-buyer-4sha-hikaku">訳あり物件5タイプ 買取価格・売却期間の比較表｜再建築不可から相続アパートまで</a>
 
 
 → **[60秒で概算査定（無料・匿名OK）](/satei)**　物件種別・築年数・エリアを選ぶだけで市場価格と概算買取価格を即時表示。
