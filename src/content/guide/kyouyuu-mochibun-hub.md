@@ -163,6 +163,7 @@ faqs:
 - [共有持分の買取｜他の共有者と揉めずに自分の持分だけ売る方法](/guide/kyouyuu-mochibun-kaitori) — 持分売却の仕組み・価格・手順（ピラーページ）
 - [共有持分とは？定義・種類・発生原因を宅建士が比較解説](/guide/kyoyuu-mochibun-teigi-hikaku) — 法定相続・遺産分割・持分割合の意味
 - [共有持分Q&Aハブ｜18の疑問に宅建業者が本音で回答](/guide/kyouyuu-mochibun-qa-hub) — 共有持分に関する全疑問への詳細回答
+- [共有持分はいくらで売れる？大阪市の路線価から自分で計算する4ステップ](/guide/kyouyuu-mochibun-osaka-jibunde-keisan) — 路線価÷0.8で時価を出す手順・大阪市24区の路線価目安・掛け目の条件別レンジ・3ケースの実額試算
 
 ---
 
