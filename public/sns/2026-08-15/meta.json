@@ -1,0 +1,55 @@
+{
+  "date": "2026-08-15",
+  "slug": "ig-2026-08-15-knowledge_carousel",
+  "title": "お盆に実家で見ておく5つ",
+  "type": "knowledge_carousel",
+  "theme": "季節ネタ",
+  "files": [
+    "post_01.png",
+    "post_02.png",
+    "post_03.png",
+    "post_04.png",
+    "post_05.png",
+    "post_06.png",
+    "post_07.png"
+  ],
+  "checks": {
+    "caption_forbidden_words": [],
+    "cta_ok": true,
+    "caption_detail_ok": true,
+    "fallback_used": false,
+    "copy_nonempty_ok": true,
+    "info_band_ok": true,
+    "title_quality_ok": true,
+    "season_ok": true,
+    "offer_stated_ok": true,
+    "cta_bridge_ok": true,
+    "caption_not_filler_ok": true,
+    "file_count_ok": true,
+    "dimensions_ok": true,
+    "copy_variety_ok": true,
+    "scene_hashes": [
+      "4b75c71d5abf9514d23e835ed053df30",
+      "997766ed993ad0201cf6f5c8e80976a4",
+      "073a3b1a4c82feb47e1a5929741b9c7e",
+      "e09d29de0ef95bfec3571e777c66881a",
+      "96979460fb76a54837ede03e911cc856",
+      "56473fb68956e1b3a90e04f3a6e32fc3",
+      "3d3b9d37750e131487d52ced06a335cf"
+    ],
+    "plan_structure_source": "deterministic_local",
+    "plan_rollover_fallback": false
+  },
+  "fallback_used": false,
+  "fallback_notes": [
+    "scene_01: codex_generated",
+    "scene_02: codex_generated",
+    "scene_03: codex_generated",
+    "scene_04: codex_generated",
+    "scene_05: codex_generated",
+    "scene_06: codex_generated",
+    "scene_07: codex_generated"
+  ],
+  "source_plan": "/Users/aibot/arshe/1_Projects/realestate-seller/content/CONTENT-PLAN-2026-08.md",
+  "generated_config": null
+}
