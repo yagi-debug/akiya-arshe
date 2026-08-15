@@ -334,6 +334,10 @@ const allSchemas = schema ? [organizationSchema, websiteSchema, schema] : [organ
     {breadcrumbSchema && (
       <script type="application/ld+json" set:html={JSON.stringify(breadcrumbSchema)} />
     )}
+    {/* Rondo LP計測（トップのみ・個人識別子なし。2026-08-16） */}
+    {Astro.url.pathname === '/' && (
+      <script src="https://rondo.arshe1719.workers.dev/heat.js" data-page="fudosan-top" defer is:inline></script>
+    )}
   </head>
   <body class="flex min-h-screen flex-col">
     <Header />

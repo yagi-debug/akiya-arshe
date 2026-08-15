@@ -66,7 +66,7 @@ const homeWebPageSchema = {
   faqSchema={homeFaqSchema}
 >
   <!-- ファーストビュー（画像フル＋コピー帯・Ken Burns） -->
-  <section class="relative overflow-hidden bg-primary-dark">
+  <section data-sec="hero" class="relative overflow-hidden bg-primary-dark">
     <!-- 背景写真スライドショー: 3枚をクロスフェード＋Ken Burnsで映像のように見せる -->
     <div class="absolute inset-0 overflow-hidden">
       <div class="hero-slide hero-slide-1">
@@ -117,7 +117,7 @@ const homeWebPageSchema = {
         <a
           href="/satei"
           class="inline-flex w-full items-center justify-center gap-2 rounded-full border-2 border-white/70 bg-white/10 px-8 py-4 text-base font-bold text-white backdrop-blur-sm transition-all hover:-translate-y-0.5 hover:bg-white hover:text-primary sm:w-auto"
-        >
+         data-rondo-cta>
           60秒でわかる無料AI査定 →
         </a>
       </div>
@@ -143,7 +143,7 @@ const homeWebPageSchema = {
   </section>
 
   <!-- 対応物件マーキー（流れる帯） -->
-  <section class="overflow-hidden border-y border-border bg-white py-4" aria-hidden="true">
+  <section data-sec="ticker" class="overflow-hidden border-y border-border bg-white py-4" aria-hidden="true">
     <div class="marquee-track gap-3">
       {[0, 1].map(() => (
         ["相続アパート", "空き家・放置物件", "再建築不可", "共有持分", "事故物件", "底地・借地権", "リゾートマンション", "遠方の実家", "残置物そのまま", "相続登記前でも相談可"].map((label) => (
@@ -157,7 +157,7 @@ const homeWebPageSchema = {
   </section>
 
   <!-- 無料AI査定セクション -->
-  <section class="bg-white px-4 py-16 md:py-24">
+  <section data-sec="property-types" class="bg-white px-4 py-16 md:py-24">
     <div class="mx-auto max-w-3xl">
       <div class="reveal mb-10 text-center">
         <p class="label-line mb-3">かんたん査定</p>
@@ -177,7 +177,7 @@ const homeWebPageSchema = {
   </section>
 
   <!-- 悩み共感セクション -->
-  <section class="px-4 py-16 md:py-24">
+  <section data-sec="onayami" class="px-4 py-16 md:py-24">
     <div class="mx-auto max-w-3xl">
       <div class="reveal mb-10 text-center">
         <p class="label-line mb-3">よくあるご相談</p>
@@ -207,7 +207,7 @@ const homeWebPageSchema = {
   </section>
 
   <!-- 転換バンド（破調・フルブリード・夜景写真） -->
-  <section class="relative overflow-hidden bg-primary-dark py-20 text-white md:py-28">
+  <section data-sec="cta-mid" class="relative overflow-hidden bg-primary-dark py-20 text-white md:py-28">
     <div class="absolute inset-0 overflow-hidden">
       <img
         src="/images/site/night.webp"
@@ -241,7 +241,7 @@ const homeWebPageSchema = {
   </section>
 
   <!-- 選ばれる理由セクション -->
-  <section class="bg-white px-4 py-16 md:py-24">
+  <section data-sec="reasons" class="bg-white px-4 py-16 md:py-24">
     <div class="mx-auto max-w-5xl">
       <div class="reveal mb-12 text-center">
         <p class="label-line mb-3">私たちの強み</p>
@@ -285,7 +285,7 @@ const homeWebPageSchema = {
   </section>
 
   <!-- 売却の流れセクション -->
-  <section class="px-4 py-16 md:py-24">
+  <section data-sec="flow" class="px-4 py-16 md:py-24">
     <div class="mx-auto max-w-3xl">
       <div class="reveal mb-12 text-center">
         <p class="label-line mb-3">ご相談から決済まで</p>
@@ -335,7 +335,7 @@ const homeWebPageSchema = {
   </section>
 
   <!-- 参考事例セクション（証拠・信頼） -->
-  <section class="bg-white px-4 py-16 md:py-24">
+  <section data-sec="cases" class="bg-white px-4 py-16 md:py-24">
     <div class="mx-auto max-w-5xl">
       <div class="reveal mb-12 text-center">
         <p class="label-line mb-3">解決までの道すじ</p>
@@ -409,7 +409,7 @@ const homeWebPageSchema = {
   </section>
 
   <!-- ピラーページ種類別ガイドセクション -->
-  <section class="bg-white px-4 py-16 md:py-24">
+  <section data-sec="guide" class="bg-white px-4 py-16 md:py-24">
     <div class="mx-auto max-w-5xl">
       <div class="reveal mb-12 text-center">
         <p class="label-line mb-3">物件タイプ別</p>
@@ -491,7 +491,7 @@ const homeWebPageSchema = {
   </section>
 
   <!-- いま読まれている記事（検索で伸びているページへの内部リンク） -->
-  <section class="bg-white px-4 pb-16 md:pb-20">
+  <section data-sec="cta-bottom" class="bg-white px-4 pb-16 md:pb-20">
     <div class="mx-auto max-w-3xl">
       <div class="reveal rounded-3xl border border-border bg-bg p-6 md:p-8">
         <p class="mb-4 flex items-center gap-2 text-sm font-black tracking-widest text-primary">
@@ -519,7 +519,7 @@ const homeWebPageSchema = {
   </section>
 
   <!-- よくある質問セクション -->
-  <section class="px-4 py-16 md:py-24">
+  <section data-sec="faq" class="px-4 py-16 md:py-24">
     <div class="mx-auto max-w-3xl">
       <div class="reveal mb-10 text-center">
         <p class="label-line mb-3">ご不安にお答えします</p>
