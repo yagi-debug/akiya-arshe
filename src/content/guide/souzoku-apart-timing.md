@@ -33,6 +33,10 @@ cluster: "inheritance"
 
 この記事では、相続アパートの売却相談を多くお受けしてきた宅建業者の実務経験をもとに、<strong>売却タイミングの判断基準</strong>と<strong>具体的な手順</strong>をお伝えします。
 
+<div style="background:#f8f9fa;border:1px solid #dee2e6;border-radius:8px;padding:1rem 1.2rem;margin:1.2rem 0;font-size:0.95rem;">
+この記事は<strong>「いつ売るか」の判断</strong>に特化しています。相続手続き全体の流れは<a href="/guide/souzoku-apart-kanzen-guide">相続アパート処分の完全ガイド</a>、相続登記の手続き詳細は<a href="/guide/souzoku-touki-apart-baikyaku">相続登記義務化とアパート売却の手順</a>をご覧ください。
+</div>
+
 ## なぜ「いつ売るか」がこれほど重要なのか
 
 相続アパートの売却で損をする方の多くは、<strong>「売り時」を逃している</strong>ことが原因です。具体的には、以下の3つの理由があります。
@@ -59,23 +63,11 @@ cluster: "inheritance"
 
 ## 2024年相続登記義務化がタイミングに与える影響
 
-<img src="/images/souzoku-apart-timing-consultation.jpg" alt="相続登記の書類に記入する様子" width="1200" height="800" style="width:100%;height:auto;border-radius:8px;margin-bottom:1.5rem;" />
+不動産を売却するには<strong>相続登記が完了していることが前提</strong>です。名義が亡くなった方のままでは売買契約を結べません。2024年4月1日の義務化により、相続を知った日から<strong>3年以内</strong>の登記が法律で義務づけられ（過去の相続も対象、猶予期限2027年3月31日）、期限超過には10万円以下の過料もあり得ます。
 
-2024年4月1日から、相続登記（亡くなった方の名義を相続人の名義に変更する手続き）が<strong>法律で義務化</strong>されました。これにより、相続アパートの売却タイミングに大きな影響が出ています。
+つまり、「いつか売ろう」と登記もせずに放置していると、<strong>過料のリスクを抱えたまま売却もできない</strong>状態になります。登記と売却は<strong>セットで進める</strong>のが最も効率的です。
 
-### 義務化のポイント
-
-- <strong>期限</strong>：相続により不動産を取得したことを知った日から<strong>3年以内</strong>
-- <strong>罰則</strong>：正当な理由なく期限を過ぎた場合、<strong>10万円以下の過料</strong>
-- <strong>過去の相続にも適用</strong>：2024年4月より前に発生した相続も対象。猶予期限は<strong>2027年3月31日</strong>
-
-### 売却タイミングへの影響
-
-不動産を売却するには、<strong>相続登記が完了していることが前提</strong>です。名義が亡くなった方のままでは売買契約を結ぶことができません。
-
-つまり、「いつか売ろう」と思いながら登記もせずに放置していると、<strong>過料のリスクを抱えたまま売却もできない</strong>という状態になります。
-
-登記と売却を<strong>セットで進める</strong>のが最も効率的です。相続登記の詳しい手続きは<a href="/guide/inheritance-registry">相続登記の義務化ガイド</a>をご覧ください。
+義務化の詳細な要件・相続人申告登記による救済策・過料が免除される「正当な理由」などは<a href="/guide/souzoku-touki-apart-baikyaku">相続登記義務化とアパート売却の手順</a>で手続き専門に解説しています。
 
 ## 3つの売却タイミングを比較
 

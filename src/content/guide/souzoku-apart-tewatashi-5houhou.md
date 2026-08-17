@@ -34,6 +34,10 @@ cluster: "inheritance"
 
 この記事では、相続アパートを手放すための5つの方法について、メリット・デメリット・費用・期間を表形式で中立的に比較し、状況に合った選択肢を見つけるためのポイントをお伝えします。
 
+<div style="background:#f8f9fa;border:1px solid #dee2e6;border-radius:8px;padding:1rem 1.2rem;margin:1.2rem 0;font-size:0.95rem;">
+この記事は<strong>5つの手放し方の比較</strong>に特化しています。処分方法全体の流れは<a href="/guide/souzoku-apart-kanzen-guide">相続アパート処分の完全ガイド</a>、相続放棄と限定承認の違いを詳しく知りたい方は<a href="/guide/souzoku-shitakunai-apart-hikaku">相続したくないアパートだけ放棄できる？</a>をご覧ください。
+</div>
+
 > **相続アパートを手放す5つの方法 — まとめ**
 >
 > | 方法 | 期間 | 費用 | 向く物件・状況 |

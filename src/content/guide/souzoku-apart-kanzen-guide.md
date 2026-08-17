@@ -55,6 +55,13 @@ A: <strong>①相続登記（義務化済・3年以内）→②複数業者へ�
 
 「親が亡くなって、アパートを相続した。でも、どうしたらいいかわからない」という方は多くいます。<strong>管理できない・遠方にある・入居者がいる・築古すぎて仲介では売れない――そういった悩みをお持ちの方に向けて、相続アパートの処分方法を宅建業者の立場から完全解説します。</strong>
 
+<div style="background:#f8f9fa;border:1px solid #dee2e6;border-radius:8px;padding:1rem 1.2rem;margin:1.2rem 0;font-size:0.95rem;">
+<strong>この記事は「まず読む1ページ」の全体ガイドです。特定のテーマを深く知りたい方は専門記事へどうぞ。</strong><br>
+・<strong>いつ売るのがベストか</strong>を詳しく知りたい → <a href="/guide/souzoku-apart-timing">相続アパートの売却タイミング判断基準</a><br>
+・<strong>相続登記の手続き</strong>を詳しく知りたい → <a href="/guide/souzoku-touki-apart-baikyaku">相続登記義務化とアパート売却の手順</a><br>
+・<strong>手放す方法（仲介/買取/管理委託/相続放棄/法人化）を比較したい</strong> → <a href="/guide/souzoku-apart-tewatashi-5houhou">相続アパートを手放す5つの方法</a>
+</div>
+
 ---
 
 ## 相続後のアパート処分フローチャート

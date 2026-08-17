@@ -31,6 +31,10 @@ faqs:
 
 「相続したアパートを売りたいけど、登記はどうすればいいのか」「いつまでに売却すれば税金が安くなるのか」——この記事では、相続登記義務化がアパートオーナーに与える影響と、売却の手順・タイミングを宅建業者の立場から解説します。
 
+<div style="background:#f8f9fa;border:1px solid #dee2e6;border-radius:8px;padding:1rem 1.2rem;margin:1.2rem 0;font-size:0.95rem;">
+この記事は<strong>相続登記の手続き</strong>に特化しています。処分方法全体の流れは<a href="/guide/souzoku-apart-kanzen-guide">相続アパート処分の完全ガイド</a>、「いつ売るか」の判断基準は<a href="/guide/souzoku-apart-timing">相続アパートの売却タイミング判断基準</a>をご覧ください。
+</div>
+
 ## 相続登記の義務化とは？アパートオーナーへの影響
 
 2024年4月1日の不動産登記法改正により、相続で不動産を取得した方には<strong>相続登記の申請が義務</strong>づけられました。アパートも例外ではありません。
