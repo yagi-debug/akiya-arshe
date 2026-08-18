@@ -1,0 +1,68 @@
+{
+  "date": "2026-08-18",
+  "slug": "ig-2026-08-18-reel_story",
+  "title": "二十年、開けなかった部屋",
+  "type": "reel_story",
+  "theme": "物語",
+  "files": [
+    "reel_2026-08-18.mp4"
+  ],
+  "checks": {
+    "caption_forbidden_words": [],
+    "cta_ok": true,
+    "caption_detail_ok": true,
+    "fallback_used": false,
+    "copy_nonempty_ok": true,
+    "info_band_ok": true,
+    "title_quality_ok": true,
+    "season_ok": true,
+    "offer_stated_ok": true,
+    "cta_bridge_ok": true,
+    "caption_not_filler_ok": true,
+    "file_count_ok": true,
+    "segment_count_ok": true,
+    "dimensions_ok": true,
+    "audio_ok": true,
+    "video_ok": true,
+    "duration_ok": true,
+    "voice_credit_ok": true,
+    "bgm_ok": true,
+    "probe": {
+      "width": 1080,
+      "height": 1920,
+      "video_codec": "h264",
+      "audio_codec": "aac",
+      "duration": 45.74
+    },
+    "scene_hashes": [
+      "bfe3d75e61f5842f86b89cc60be57406",
+      "223c903df658939498b2ac93bf9d5b9a",
+      "9f30d4010fc862f6cb36ab94314ded0e",
+      "fcc242e4855647ce2626fcabb1dcad13",
+      "42f9081a5ead9cb45225e71c09877cb4",
+      "77f2ae58569923da8e44c902953bb0d6",
+      "01d208c8bed58d8627a16652a344fd52"
+    ],
+    "plan_structure_source": "deterministic_local",
+    "plan_rollover_fallback": false
+  },
+  "fallback_used": false,
+  "fallback_notes": [
+    "scene_01: codex_generated",
+    "scene_02: codex_generated",
+    "scene_03: codex_generated",
+    "scene_04: codex_generated",
+    "scene_05: codex_generated",
+    "scene_06: codex_generated",
+    "scene_07: codex_generated",
+    "scene_01: veo_failed(リトライ上限→静止画)",
+    "scene_02: veo_failed(リトライ上限→静止画)",
+    "scene_03: veo_failed(リトライ上限→静止画)",
+    "scene_04: veo_failed(リトライ上限→静止画)",
+    "scene_05: veo_failed(リトライ上限→静止画)",
+    "scene_06: veo_failed(リトライ上限→静止画)",
+    "scene_07: veo_failed(リトライ上限→静止画)"
+  ],
+  "source_plan": "/Users/aibot/arshe/1_Projects/realestate-seller/content/CONTENT-PLAN-2026-08.md",
+  "generated_config": "/Users/aibot/arshe/1_Projects/realestate-seller/scripts/instagram/configs/generated/2026-08-18.json"
+}
