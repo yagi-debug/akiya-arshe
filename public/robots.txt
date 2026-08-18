@@ -1,5 +1,7 @@
 User-agent: *
 Allow: /
+# LINE友だち限定の特典受け取りページ・PDFは検索に載せない
+Disallow: /tokuten/
 Sitemap: https://akiya.arshe-corp.com/sitemap-index.xml
 
 # AI Crawlers - Welcome

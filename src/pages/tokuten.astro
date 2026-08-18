@@ -1,0 +1,83 @@
+---
+// LINE友だち追加特典の受け取りページ。
+// このURLはLINEの挨拶メッセージ・自動返信「特典」からのみ案内する（サイト内リンクなし・noindex・sitemap除外）。
+// PDFの実体は public/tokuten/*.pdf（生成元: /Users/aibot/arshe/1_Projects/realestate-seller/tokuten/）。
+import BaseLayout from "../layouts/BaseLayout.astro";
+
+const items = [
+  {
+    num: "①",
+    title: "空き家の維持費・放置コスト計算シート",
+    desc: "書き込み式。固定資産税・保険・管理費を書き出して「持っているだけで年いくらか」を3分で確認。固定資産税6倍リスクのチェック付き。",
+    file: "/tokuten/akiya-ijihi-keisan-sheet.pdf",
+  },
+  {
+    num: "②",
+    title: "相続した家の売却 期限つき段取りチェックシート",
+    desc: "死亡届7日・相続放棄3ヶ月・相続税10ヶ月・登記3年・3,000万円控除は3年目の年末まで——期限を1つも逃さないための1枚。",
+    file: "/tokuten/souzoku-baikyaku-dandori-checklist.pdf",
+  },
+  {
+    num: "③",
+    title: "相続登記・売却の必要書類チェックリスト",
+    desc: "「どこで取るか」までセット。役所を何度も往復しないための取得先つきリスト。費用の目安も掲載。",
+    file: "/tokuten/hitsuyou-shorui-checklist.pdf",
+  },
+  {
+    num: "④",
+    title: "悪質な買取業者を見抜く10のチェックリスト",
+    desc: "釣り上げ査定・手付金要求・危険な契約条項・せかし文句の実例と切り返し方。査定を受ける前に必ず確認。",
+    file: "/tokuten/kaitori-gyosha-mikiwame-checklist.pdf",
+  },
+  {
+    num: "⑤",
+    title: "大阪市24区 空き家補助金・窓口 早見表 2026",
+    desc: "解体で最大170万円・改修で最大300万円。2026年度の制度一覧と24区の申請窓口、申請の落とし穴をこの1枚に。",
+    file: "/tokuten/osaka24ku-hojokin-madoguchi-2026.pdf",
+  },
+];
+---
+
+<BaseLayout
+  title="友だち追加特典の受け取り｜空き家のミカタ"
+  description="LINE友だち追加ありがとうございます。5つの特典資料（PDF）はこのページからダウンロードできます。"
+  noindex={true}
+>
+  <section class="mx-auto max-w-3xl px-4 py-12 md:py-16">
+    <p class="mb-2 text-center text-xs font-bold tracking-[0.3em] text-accent">LINE友だち追加特典</p>
+    <h1 class="serif mb-3 text-center text-2xl font-bold text-primary md:text-3xl">5つの特典資料を受け取る</h1>
+    <p class="mb-8 text-center text-sm leading-relaxed text-text-light">
+      友だち追加ありがとうございます。下のボタンからPDFをダウンロードしてご利用ください。<br class="hidden md:block" />
+      印刷してご家族との話し合いにもお使いいただけます。
+    </p>
+
+    <div class="space-y-4">
+      {items.map((item) => (
+        <div class="flex flex-col gap-3 rounded-2xl border border-border bg-white p-5 shadow-soft sm:flex-row sm:items-center">
+          <div class="flex-1">
+            <p class="mb-1 font-black text-primary">{item.num} {item.title}</p>
+            <p class="text-xs leading-relaxed text-text-light">{item.desc}</p>
+          </div>
+          <a
+            href={item.file}
+            target="_blank"
+            rel="noopener"
+            class="inline-flex flex-shrink-0 items-center justify-center gap-1.5 rounded-full bg-accent px-5 py-2.5 text-sm font-bold text-white shadow transition-all hover:-translate-y-0.5 hover:shadow-lg"
+          >
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M4 16v2a2 2 0 002 2h12a2 2 0 002-2v-2M12 4v12m0 0l-4-4m4 4l4-4" />
+            </svg>
+            PDFを開く
+          </a>
+        </div>
+      ))}
+    </div>
+
+    <div class="mt-8 rounded-2xl bg-accent-soft p-5 text-sm leading-relaxed">
+      <p class="mb-1 font-bold text-primary">使い方に迷ったら、そのままLINEで聞いてください</p>
+      <p class="text-text-light">
+        「シートに書いてみたけどこの金額は高い？」「うちはどの期限が残っている？」——記入した内容や物件の状況をトークに送っていただければ、宅建業者がお答えします。相談は無料で、しつこい勧誘はいたしません。
+      </p>
+    </div>
+  </section>
+</BaseLayout>

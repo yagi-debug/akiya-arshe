@@ -36,6 +36,28 @@ const LINE_URL = "https://line.arshe1719.workers.dev/auth/line?ref=hp";
       ))}
     </div>
 
+    <!-- 友だち追加特典（5大プレゼント） -->
+    <div class="mb-8 rounded-2xl border border-accent-light/40 bg-white/10 p-5 backdrop-blur-sm">
+      <p class="mb-3 text-center text-sm font-black text-accent-light">＼ いま友だち追加すると、5つの実用資料をプレゼント ／</p>
+      <ul class="grid gap-x-4 gap-y-1.5 text-xs text-white/90 sm:grid-cols-2">
+        {[
+          "① 空き家の維持費・放置コスト計算シート（書き込み式）",
+          "② 相続した家の売却 期限つき段取りチェックシート",
+          "③ 相続登記・売却の必要書類チェックリスト（取得先つき）",
+          "④ 悪質な買取業者を見抜く10のチェックリスト",
+          "⑤ 大阪市24区 空き家補助金・窓口 早見表 2026",
+        ].map((label) => (
+          <li class="flex items-start gap-1.5">
+            <svg xmlns="http://www.w3.org/2000/svg" class="mt-0.5 h-3.5 w-3.5 flex-shrink-0 text-accent" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2.5">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M12 4v12m0 0l-4-4m4 4l4-4M4 20h16" />
+            </svg>
+            {label}
+          </li>
+        ))}
+      </ul>
+      <p class="mt-2.5 text-center text-[11px] text-white/60">友だち追加後、あいさつメッセージから全部まとめて受け取れます（PDF・無料）</p>
+    </div>
+
     <div class="text-center">
       <!-- LINEボタン（メイン） -->
       <a

@@ -32,7 +32,11 @@ export default defineConfig({
   integrations: [sitemap({
     changefreq: 'weekly',
     priority: 0.7,
-    filter: (page) => !noindexPaths.has(new URL(page).pathname),
+    // /tokuten/ はLINE友だち限定の特典受け取りページ（noindex）なのでsitemapに載せない
+    filter: (page) => {
+      const pathname = new URL(page).pathname;
+      return !noindexPaths.has(pathname) && pathname !== '/tokuten/';
+    },
     serialize(item) {
       const pathname = new URL(item.url).pathname;
       const lastmod = lastmodMap[pathname];
