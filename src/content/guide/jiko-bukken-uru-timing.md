@@ -232,3 +232,4 @@ howToSteps:
 - <a href="/guide/solitary-death-disclosure-price-impact">孤独死物件の告知義務と価格への影響｜自殺との違い・告知期間・値引き幅</a>
 - <a href="/guide/souzoku-akiya-3000man-tokubetsu-kojo">相続した空き家を売るときの3,000万円特別控除｜適用条件・2024年改正・申告方法</a>
 - <a href="/guide/souzoku-jirei-02-jiko-bukken-kaitori">【事例】弟の孤独死マンションを相続。特殊清掃前・遠方から18日で売却できた全記録</a>
+- <a href="/guide/oya-shigo-hiyou-souzokuzei-koujo">親の死後にかかった費用は相続税から引ける？特殊清掃・遺品整理・解体費を国税庁の基準で仕分ける</a>

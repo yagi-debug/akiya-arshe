@@ -164,6 +164,7 @@ faqs:
 - <a href="/guide/souzoku-fudousan-urikata-kanzen-guide">【2026年版】相続した不動産の売り方 完全ガイド｜実務手順・費用・業者選定を買取業者が解説</a>
 - <a href="/guide/akiya-shobun-5-hikaku">空き家処分の5大選択肢を徹底比較【2026年版】費用・期間・手残り額</a>
 - <a href="/guide/akiya-kaitai-hiyou-haraenai">相続した実家の解体費用が払えない｜補助金・現況買取で費用ゼロで手放す3つの方法</a>
+- <a href="/guide/oya-shigo-hiyou-souzokuzei-koujo">親の死後にかかった費用は相続税から引ける？特殊清掃・遺品整理・解体費を国税庁の基準で仕分ける</a>
 
 ## 相続した家の家財・残置物の扱いについて無料相談
 

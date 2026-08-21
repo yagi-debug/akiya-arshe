@@ -209,6 +209,7 @@ faqs:
 - <a href="/guide/jiko-bukken-kaitori">事故物件の買取｜告知義務ありでも最短3日で現金化【完全ガイド】</a>（買取フロー・価格シミュレーション）
 - <a href="/guide/jiko-bukken-hub">事故物件 完全ハブ｜告知義務・買取・価格相場まで全ガイドまとめ</a>（事故物件関連記事の一覧）
 - <a href="/guide/parent-death-house">親が亡くなった家はどうする？相続から売却・管理まで全ガイド</a>（相続した家全般の対処法）
+- <a href="/guide/oya-shigo-hiyou-souzokuzei-koujo">親の死後にかかった費用は相続税から引ける？特殊清掃・遺品整理・解体費を国税庁の基準で仕分ける</a>
 
 LINE「空き家のミカタ」：[https://line.arshe1719.workers.dev/auth/line?ref=hp](https://line.arshe1719.workers.dev/auth/line?ref=hp)
 

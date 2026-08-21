@@ -212,6 +212,7 @@ howToSteps:
 - <a href="/guide/accident-property-sale">事故物件を断られ続けた方へ｜現況のまま買取する方法</a>
 - <a href="/guide/souzoku-jirei-02-jiko-bukken-kaitori">【事例】弟の孤独死マンションを相続。特殊清掃前・遠方から18日で売却できた全記録</a>
 - <a href="/guide/gomiyashiki-bukken-kaitori">ゴミ屋敷状態の物件を片付けずに売る方法｜残置物そのままの買取</a>
+- <a href="/guide/oya-shigo-hiyou-souzokuzei-koujo">親の死後にかかった費用は相続税から引ける？特殊清掃・遺品整理・解体費を国税庁の基準で仕分ける</a>
 
 ---
 
