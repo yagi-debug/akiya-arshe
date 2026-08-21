@@ -1,0 +1,31 @@
+{
+  "date": "2026-08-21",
+  "slug": "ig-2026-08-21-manga_E-G1",
+  "title": "放置された空き家の本音",
+  "type": "manga_carousel",
+  "variant": "E-G1",
+  "theme": "空き家リスク",
+  "files": [
+    "01.png",
+    "02.png",
+    "03.png",
+    "04.png",
+    "05.png",
+    "06.png"
+  ],
+  "checks": {
+    "script_ok": true,
+    "useful_point_ok": true,
+    "forbidden_ok": true,
+    "panels": 6,
+    "dimensions": "1080x1350",
+    "art_md5": [
+      "1a26512ab1e0bfe184019ab6ff88a706",
+      "a8bae07e7ef2a1dd1795c57d02ea7848",
+      "ae4c785ccb189cac060b1fde69bd8659",
+      "c693623fd558e8a22efd443c34139c15",
+      "ee0f8a6d93241ac5dc1c954b94a9de8b"
+    ],
+    "dry_run": false
+  }
+}
