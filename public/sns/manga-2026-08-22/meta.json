@@ -1,0 +1,31 @@
+{
+  "date": "2026-08-22",
+  "slug": "ig-2026-08-22-manga_E-K2",
+  "title": "相続放棄したのに\n管理責任？",
+  "type": "manga_carousel",
+  "variant": "E-K2",
+  "theme": "相続手続き",
+  "files": [
+    "01.png",
+    "02.png",
+    "03.png",
+    "04.png",
+    "05.png",
+    "06.png"
+  ],
+  "checks": {
+    "script_ok": true,
+    "useful_point_ok": true,
+    "forbidden_ok": true,
+    "panels": 6,
+    "dimensions": "1080x1350",
+    "art_md5": [
+      "087490c4c6d1ca4644f3d1cd7a224608",
+      "19243335c63ce8a89c59f7be8f550b10",
+      "81f647de32621a19c0d5e5c4d0d0760c",
+      "cf49fb58a54ef6971b42b8701334ed79",
+      "ea2a8192b751947fefdfdb6b19ab8052"
+    ],
+    "dry_run": false
+  }
+}
