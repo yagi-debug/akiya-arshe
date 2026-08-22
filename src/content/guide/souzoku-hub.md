@@ -251,6 +251,7 @@ faqs:
 
 - [相続放棄したら家はどうなる？手続きの流れと注意点](/guide/inheritance-abandon)
 - [相続放棄の期限（3ヶ月）を過ぎたらどうなる？期限切れ後の対処法](/guide/souzoku-houki-kigengire)
+- [疎遠な親族の相続人になったと通知が来たら｜対応3ステップと3か月の期限](/guide/soen-souzokunin-tsuchi-taiou)
 - [相続した土地を国に返す方法【国庫帰属制度2026年版】](/guide/souzoku-tochi-kokkoku-kizoku)
 - [相続税はいくらから？基礎控除の計算方法を宅建業者がわかりやすく解説](/guide/inheritance-tax-basics)
 

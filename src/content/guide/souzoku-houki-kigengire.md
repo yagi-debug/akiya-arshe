@@ -232,6 +232,7 @@ faqs:
 - <a href="/guide/souzoku-fudousan-urikata-kanzen-guide">【2026年版】相続した不動産の売り方 完全ガイド｜実務手順・費用・業者選定を買取業者が解説</a>
 - <a href="/guide/akiya-kotei-shisan-zei-haraenai">空き家の固定資産税が払えないとき｜分納・減免・売却・相続放棄の4つの選択肢【2026年版】</a>
 - <a href="/guide/akiya-shobun-5-hikaku">空き家処分の5大選択肢を徹底比較【2026年版】費用・期間・手残り額</a>
+- <a href="/guide/soen-souzokunin-tsuchi-taiou">疎遠な親族の相続人になったと通知が来たら｜対応3ステップと3か月の期限【2026年版】</a>
 
 ## まとめ
 
