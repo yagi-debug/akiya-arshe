@@ -172,6 +172,7 @@ cluster: "akiya-tax"
 - <a href="/guide/kotei-shisan-zei-nousho-baikyaku-3taiken">【実録】固定資産税の通知書が届き、空き家売却を決意した3つの体験談【2026年5月】</a>
 - <a href="/guide/souzoku-fudousan-urikata-kanzen-guide">【2026年版】相続した不動産の売り方 完全ガイド｜実務手順・費用・業者選定を買取業者が解説</a>
 - <a href="/guide/furui-akiya-kekkan-kaitori">雨漏り・傾き・老朽化した家でも売れる？現況買取の仕組みと3つの解決策【2026年版】</a>
+- <a href="/guide/katazukenaide-soudan">片付けないでご相談ください｜実家7つの状態別・手残り比較</a>
 
 ## まずはお気軽にご相談ください
 

@@ -258,6 +258,7 @@ cluster: "akiya-tax"
 
 - <a href="/guide/gomiyashiki-bukken-kaitori">ゴミ屋敷・汚部屋の不動産を売りたい｜片付け不要の現況買取を解説</a>
 - <a href="/guide/movables-disposal-sell-as-is">残置物・動産を処分せずに不動産を売る方法</a>
+- <a href="/guide/katazukenaide-soudan">片付けないでご相談ください｜実家7つの状態別・手残り比較</a>
 - <a href="/guide/akiya-koteishisanzei-6bai-hikaku">空き家の固定資産税が6倍に？特定空き家の条件と回避する方法</a>
 - <a href="/guide/souzoku-touki-gimuka-karyo">相続登記の義務化と10万円以下の過料｜期限と対処法</a>
 - <a href="/guide/akiya-kaitori">空き家の買取｜放置している空き家を現金化する方法</a>

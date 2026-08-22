@@ -247,6 +247,7 @@ faqs:
 
 - <a href="/guide/inheritance-sale">相続した不動産を売却する完全ガイド</a>
 - <a href="/guide/souzoku-ihin-seiri-kazai-baikyaku">相続した家の遺品整理と家財売却の進め方</a>
+- <a href="/guide/katazukenaide-soudan">片付けないでご相談ください｜実家7つの状態別・手残り比較</a>
 - <a href="/guide/akiya-kaitori">空き家買取の完全ガイド｜費用・相場・業者の選び方</a>
 - <a href="/guide/fudosan-kotowarareta-ato-dekiru-koto">不動産会社に断られた物件、次にできること</a>
 - <a href="/guide/souzoku-hub">相続不動産 完全ハブ｜全ガイドをまとめて確認</a>
