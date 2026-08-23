@@ -1,0 +1,31 @@
+{
+  "date": "2026-08-23",
+  "slug": "ig-2026-08-23-manga_E-G2",
+  "title": "空き家は更地に\nすれば安心？",
+  "type": "manga_carousel",
+  "variant": "E-G2",
+  "theme": "固定資産税・お金",
+  "files": [
+    "01.png",
+    "02.png",
+    "03.png",
+    "04.png",
+    "05.png",
+    "06.png"
+  ],
+  "checks": {
+    "script_ok": true,
+    "useful_point_ok": true,
+    "forbidden_ok": true,
+    "panels": 6,
+    "dimensions": "1080x1350",
+    "art_md5": [
+      "0729c3c78c83a28e95911c02953b22a1",
+      "0f78f15eea26a8eaa972bad95d042d79",
+      "277aafb73230329fd6ab50d366e9574f",
+      "3abbbbcb0d05577b3e279f0622ede931",
+      "485e39a7f9374a06c948cf77cad83c56"
+    ],
+    "dry_run": false
+  }
+}
