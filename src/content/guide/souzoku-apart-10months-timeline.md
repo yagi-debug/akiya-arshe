@@ -3,7 +3,7 @@ title: "相続発生から10ヶ月でやること完全タイムライン｜ア�
 description: "相続したアパートの処分を10ヶ月以内に判断するための月別チェックリスト。相続税の基礎控除計算式、遺産分割協議の進め方、保有・売却・買取の比較まで宅建業者が解説します。"
 publishDate: "2026-04-19"
 author: "八木 宏樹"
-updatedDate: "2026-08-02"
+updatedDate: "2026-08-23"
 heroImage: "/images/souzoku-apart-10months-hero.jpg"
 faqs:
   - question: "相続したアパートは10ヶ月以内に売却しないといけませんか？"
