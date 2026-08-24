@@ -1,0 +1,44 @@
+{
+  "date": "2026-08-25",
+  "slug": "ig-2026-08-25-manga_serial",
+  "title": "築45年、\n婚活はじめ\nました",
+  "type": "manga_carousel",
+  "variant": "serial",
+  "theme": "売却ノウハウ",
+  "format": 2,
+  "files": [
+    "01.png",
+    "02.png",
+    "03.png",
+    "04.png",
+    "05.png",
+    "06.png"
+  ],
+  "checks": {
+    "script_ok": true,
+    "useful_point_ok": true,
+    "forbidden_ok": true,
+    "pages": 6,
+    "panels": 10,
+    "layouts": [
+      "v2",
+      "t2b1",
+      "t2b1",
+      "full"
+    ],
+    "dimensions": "1080x1350",
+    "art_md5": [
+      "08792bf925498e059765aca55c2e9a83",
+      "2f530d5b1f57759d953dce3f20405a17",
+      "472a41c338eb30d6f1c3878cafe53efb",
+      "4d8ebccbf22222177e69cc178f0627a1",
+      "4f2849da270c50420e6040f3fea3f681",
+      "739f12c05e62224d2bac6c4b185a8b5c",
+      "a377ecd70cd16303771207f78791e716",
+      "a4e12ab4dc18d4d45efc1a61053b9a87",
+      "d4dc8a4398cb4a69c132f3b1fe5b2578",
+      "fcf0d10cfdc39ecb1ca4c7d62e62350a"
+    ],
+    "dry_run": false
+  }
+}
