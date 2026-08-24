@@ -1,0 +1,120 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 742" width="820" height="742" font-family="Hiragino Sans, Yu Gothic, Meiryo, sans-serif" role="img" aria-label="大阪市24区の長屋建住宅の構成比を示す横棒グラフ">
+<rect width="820" height="742" fill="#ffffff"/>
+<text x="24" y="32" font-size="19" font-weight="bold" fill="#1a2b4c">大阪市24区別 長屋建住宅の構成比（令和5年）</text>
+<text x="24" y="55" font-size="13" fill="#5a6b84">居住世帯のある住宅に占める長屋建の割合。市全体は2.1％（31,200戸）／出典：大阪市「令和5年住宅・土地統計調査」</text>
+<line x1="190.0" y1="70" x2="190.0" y2="696" stroke="#e3e8ef" stroke-width="1"/>
+<text x="190.0" y="64" font-size="11" fill="#8b98ab" text-anchor="middle">0%</text>
+<line x1="270.0" y1="70" x2="270.0" y2="696" stroke="#e3e8ef" stroke-width="1"/>
+<text x="270.0" y="64" font-size="11" fill="#8b98ab" text-anchor="middle">1%</text>
+<line x1="350.0" y1="70" x2="350.0" y2="696" stroke="#e3e8ef" stroke-width="1"/>
+<text x="350.0" y="64" font-size="11" fill="#8b98ab" text-anchor="middle">2%</text>
+<line x1="430.0" y1="70" x2="430.0" y2="696" stroke="#e3e8ef" stroke-width="1"/>
+<text x="430.0" y="64" font-size="11" fill="#8b98ab" text-anchor="middle">3%</text>
+<line x1="510.0" y1="70" x2="510.0" y2="696" stroke="#e3e8ef" stroke-width="1"/>
+<text x="510.0" y="64" font-size="11" fill="#8b98ab" text-anchor="middle">4%</text>
+<line x1="590.0" y1="70" x2="590.0" y2="696" stroke="#e3e8ef" stroke-width="1"/>
+<text x="590.0" y="64" font-size="11" fill="#8b98ab" text-anchor="middle">5%</text>
+<line x1="670.0" y1="70" x2="670.0" y2="696" stroke="#e3e8ef" stroke-width="1"/>
+<text x="670.0" y="64" font-size="11" fill="#8b98ab" text-anchor="middle">6%</text>
+<line x1="750.0" y1="70" x2="750.0" y2="696" stroke="#e3e8ef" stroke-width="1"/>
+<text x="750.0" y="64" font-size="11" fill="#8b98ab" text-anchor="middle">7%</text>
+<line x1="358.0" y1="70" x2="358.0" y2="696" stroke="#e07b39" stroke-width="1.5" stroke-dasharray="4 3"/>
+<text x="138" y="89" font-size="13" fill="#243b53" text-anchor="end">生野区</text>
+<text x="182" y="89" font-size="12" fill="#7b8794" text-anchor="end">4,590戸</text>
+<rect x="190" y="79" width="520.0" height="15" fill="#c2410c" rx="2"/>
+<text x="717.0" y="91" font-size="12" fill="#243b53">6.5%</text>
+<text x="138" y="115" font-size="13" fill="#243b53" text-anchor="end">西成区</text>
+<text x="182" y="115" font-size="12" fill="#7b8794" text-anchor="end">3,800戸</text>
+<rect x="190" y="105" width="464.0" height="15" fill="#c2410c" rx="2"/>
+<text x="661.0" y="117" font-size="12" fill="#243b53">5.8%</text>
+<text x="138" y="141" font-size="13" fill="#243b53" text-anchor="end">東住吉区</text>
+<text x="182" y="141" font-size="12" fill="#7b8794" text-anchor="end">3,040戸</text>
+<rect x="190" y="131" width="392.0" height="15" fill="#c2410c" rx="2"/>
+<text x="589.0" y="143" font-size="12" fill="#243b53">4.9%</text>
+<text x="138" y="167" font-size="13" fill="#243b53" text-anchor="end">港区</text>
+<text x="182" y="167" font-size="12" fill="#7b8794" text-anchor="end">1,530戸</text>
+<rect x="190" y="157" width="288.0" height="15" fill="#1a56db" rx="2"/>
+<text x="485.0" y="169" font-size="12" fill="#243b53">3.6%</text>
+<text x="138" y="193" font-size="13" fill="#243b53" text-anchor="end">東成区</text>
+<text x="182" y="193" font-size="12" fill="#7b8794" text-anchor="end">1,630戸</text>
+<rect x="190" y="183" width="272.0" height="15" fill="#1a56db" rx="2"/>
+<text x="469.0" y="195" font-size="12" fill="#243b53">3.4%</text>
+<text x="138" y="219" font-size="13" fill="#243b53" text-anchor="end">此花区</text>
+<text x="182" y="219" font-size="12" fill="#7b8794" text-anchor="end">1,090戸</text>
+<rect x="190" y="209" width="264.0" height="15" fill="#1a56db" rx="2"/>
+<text x="461.0" y="221" font-size="12" fill="#243b53">3.3%</text>
+<text x="138" y="245" font-size="13" fill="#243b53" text-anchor="end">平野区</text>
+<text x="182" y="245" font-size="12" fill="#7b8794" text-anchor="end">3,020戸</text>
+<rect x="190" y="235" width="264.0" height="15" fill="#1a56db" rx="2"/>
+<text x="461.0" y="247" font-size="12" fill="#243b53">3.3%</text>
+<text x="138" y="271" font-size="13" fill="#243b53" text-anchor="end">阿倍野区</text>
+<text x="182" y="271" font-size="12" fill="#7b8794" text-anchor="end">1,650戸</text>
+<rect x="190" y="261" width="240.0" height="15" fill="#1a56db" rx="2"/>
+<text x="437.0" y="273" font-size="12" fill="#243b53">3.0%</text>
+<text x="138" y="297" font-size="13" fill="#243b53" text-anchor="end">住吉区</text>
+<text x="182" y="297" font-size="12" fill="#7b8794" text-anchor="end">2,170戸</text>
+<rect x="190" y="287" width="208.0" height="15" fill="#1a56db" rx="2"/>
+<text x="405.0" y="299" font-size="12" fill="#243b53">2.6%</text>
+<text x="138" y="323" font-size="13" fill="#243b53" text-anchor="end">旭区</text>
+<text x="182" y="323" font-size="12" fill="#7b8794" text-anchor="end">960戸</text>
+<rect x="190" y="313" width="168.0" height="15" fill="#1a56db" rx="2"/>
+<text x="365.0" y="325" font-size="12" fill="#243b53">2.1%</text>
+<text x="138" y="349" font-size="13" fill="#243b53" text-anchor="end">鶴見区</text>
+<text x="182" y="349" font-size="12" fill="#7b8794" text-anchor="end">1,040戸</text>
+<rect x="190" y="339" width="168.0" height="15" fill="#1a56db" rx="2"/>
+<text x="365.0" y="351" font-size="12" fill="#243b53">2.1%</text>
+<text x="138" y="375" font-size="13" fill="#243b53" text-anchor="end">城東区</text>
+<text x="182" y="375" font-size="12" fill="#7b8794" text-anchor="end">1,490戸</text>
+<rect x="190" y="365" width="144.0" height="15" fill="#94a3b8" rx="2"/>
+<text x="341.0" y="377" font-size="12" fill="#243b53">1.8%</text>
+<text x="138" y="401" font-size="13" fill="#243b53" text-anchor="end">淀川区</text>
+<text x="182" y="401" font-size="12" fill="#7b8794" text-anchor="end">1,480戸</text>
+<rect x="190" y="391" width="112.0" height="15" fill="#94a3b8" rx="2"/>
+<text x="309.0" y="403" font-size="12" fill="#243b53">1.4%</text>
+<text x="138" y="427" font-size="13" fill="#243b53" text-anchor="end">住之江区</text>
+<text x="182" y="427" font-size="12" fill="#7b8794" text-anchor="end">790戸</text>
+<rect x="190" y="417" width="104.0" height="15" fill="#94a3b8" rx="2"/>
+<text x="301.0" y="429" font-size="12" fill="#243b53">1.3%</text>
+<text x="138" y="453" font-size="13" fill="#243b53" text-anchor="end">天王寺区</text>
+<text x="182" y="453" font-size="12" fill="#7b8794" text-anchor="end">450戸</text>
+<rect x="190" y="443" width="80.0" height="15" fill="#94a3b8" rx="2"/>
+<text x="277.0" y="455" font-size="12" fill="#243b53">1.0%</text>
+<text x="138" y="479" font-size="13" fill="#243b53" text-anchor="end">都島区</text>
+<text x="182" y="479" font-size="12" fill="#7b8794" text-anchor="end">520戸</text>
+<rect x="190" y="469" width="72.0" height="15" fill="#94a3b8" rx="2"/>
+<text x="269.0" y="481" font-size="12" fill="#243b53">0.9%</text>
+<text x="138" y="505" font-size="13" fill="#243b53" text-anchor="end">福島区</text>
+<text x="182" y="505" font-size="12" fill="#7b8794" text-anchor="end">420戸</text>
+<rect x="190" y="495" width="72.0" height="15" fill="#94a3b8" rx="2"/>
+<text x="269.0" y="507" font-size="12" fill="#243b53">0.9%</text>
+<text x="138" y="531" font-size="13" fill="#243b53" text-anchor="end">大正区</text>
+<text x="182" y="531" font-size="12" fill="#7b8794" text-anchor="end">240戸</text>
+<rect x="190" y="521" width="64.0" height="15" fill="#94a3b8" rx="2"/>
+<text x="261.0" y="533" font-size="12" fill="#243b53">0.8%</text>
+<text x="138" y="557" font-size="13" fill="#243b53" text-anchor="end">西淀川区</text>
+<text x="182" y="557" font-size="12" fill="#7b8794" text-anchor="end">330戸</text>
+<rect x="190" y="547" width="56.0" height="15" fill="#94a3b8" rx="2"/>
+<text x="253.0" y="559" font-size="12" fill="#243b53">0.7%</text>
+<text x="138" y="583" font-size="13" fill="#243b53" text-anchor="end">北区</text>
+<text x="182" y="583" font-size="12" fill="#7b8794" text-anchor="end">310戸</text>
+<rect x="190" y="573" width="24.0" height="15" fill="#94a3b8" rx="2"/>
+<text x="221.0" y="585" font-size="12" fill="#243b53">0.3%</text>
+<text x="138" y="609" font-size="13" fill="#243b53" text-anchor="end">中央区</text>
+<text x="182" y="609" font-size="12" fill="#7b8794" text-anchor="end">230戸</text>
+<rect x="190" y="599" width="24.0" height="15" fill="#94a3b8" rx="2"/>
+<text x="221.0" y="611" font-size="12" fill="#243b53">0.3%</text>
+<text x="138" y="635" font-size="13" fill="#243b53" text-anchor="end">東淀川区</text>
+<text x="182" y="635" font-size="12" fill="#7b8794" text-anchor="end">300戸</text>
+<rect x="190" y="625" width="24.0" height="15" fill="#94a3b8" rx="2"/>
+<text x="221.0" y="637" font-size="12" fill="#243b53">0.3%</text>
+<text x="138" y="661" font-size="13" fill="#243b53" text-anchor="end">西区</text>
+<text x="182" y="661" font-size="12" fill="#7b8794" text-anchor="end">90戸</text>
+<rect x="190" y="651" width="8.0" height="15" fill="#94a3b8" rx="2"/>
+<text x="205.0" y="663" font-size="12" fill="#243b53">0.1%</text>
+<text x="138" y="687" font-size="13" fill="#243b53" text-anchor="end">浪速区</text>
+<text x="182" y="687" font-size="12" fill="#7b8794" text-anchor="end">30戸</text>
+<rect x="190" y="677" width="8.0" height="15" fill="#94a3b8" rx="2"/>
+<text x="205.0" y="689" font-size="12" fill="#243b53">0.1%</text>
+<text x="138" y="718" font-size="11.5" fill="#8b98ab" text-anchor="end">橙の破線＝市平均2.1%</text>
+<text x="190" y="718" font-size="11.5" fill="#8b98ab">24区の合計は31,200戸で市全体と一致します</text>
+</svg>
