@@ -1,0 +1,43 @@
+{
+  "date": "2026-08-24",
+  "slug": "ig-2026-08-24-manga_cry",
+  "title": "売られる日\n家が言った\nこと",
+  "type": "manga_carousel",
+  "variant": "cry",
+  "theme": "実家じまい・罪悪感",
+  "format": 2,
+  "files": [
+    "01.png",
+    "02.png",
+    "03.png",
+    "04.png",
+    "05.png",
+    "06.png"
+  ],
+  "checks": {
+    "script_ok": true,
+    "useful_point_ok": true,
+    "forbidden_ok": true,
+    "pages": 6,
+    "panels": 9,
+    "layouts": [
+      "v2big",
+      "t2b1",
+      "v2",
+      "full"
+    ],
+    "dimensions": "1080x1350",
+    "art_md5": [
+      "1697cc8f4d80f050845a87685d6429f5",
+      "289798a3e6cb66578e121bd477cf1cbe",
+      "40d475d815f26d883f8b24ab02b44c3e",
+      "43f93d7e78651e9e4aad6567eadd73fc",
+      "6e81328824a5e51b883fbb0a0752cbeb",
+      "7658a7b658422986766ec1eb19256867",
+      "8b3721ae60b4c0e71f9ab47b817a3453",
+      "c13b7ad55a74bfc547770dfd9cb0c5e7",
+      "f5878949a185ec2b63df56c1ab1823a0"
+    ],
+    "dry_run": false
+  }
+}
