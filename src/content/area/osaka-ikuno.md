@@ -290,6 +290,7 @@ A. 生野区は都心部のような大幅な値上がりは期待しにくい�
 - <a href="/guide/osaka-24ku-kaitori-data-2026">大阪市24区｜再建築不可買取坪単価・共有持分相談件数・直近実績エリアデータ【2026年】</a>
 - <a href="/guide/lp-wakeari-bukken-kaitori">大阪の訳あり物件 買取（再建築不可・共有持分・相続アパート・事故物件 全国対応）</a>
 - <a href="/guide/osaka-wakeare-buyer-4sha-hikaku">大阪 訳あり物件 買取業者4社比較【2026年版】</a>
+- <a href="/guide/osaka-ku-akiya-hojo-madoguchi-2026">生野区の空き家解体補助金・24区の申請窓口を見る</a>
 
 ## 他のエリアの相場を見る
 

@@ -186,6 +186,7 @@ A: 特定空き家に指定されると固定資産税が最大6倍になりま�
 
 - <a href="/guide/souzoku-hub">相続不動産 完全ハブ｜処分・売却・登記・固定資産税まで全ガイドをまとめて確認</a>
 - <a href="/guide/saikenchifu-hub">再建築不可 完全ハブ｜買取・接道・建替えできない物件の処分ガイドまとめ</a>
+- <a href="/guide/osaka-ku-akiya-hojo-madoguchi-2026">大正区の空き家解体補助金・24区の申請窓口を見る</a>
 
 ---
 

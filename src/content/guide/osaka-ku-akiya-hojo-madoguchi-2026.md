@@ -2,7 +2,7 @@
 title: "大阪市の空き家解体補助金【令和8年度】対象外でも最短3日査定・手数料0円"
 description: "大阪市の空き家解体補助金は所得・老朽度で対象外になるケースが多数。24区の窓口一覧、補助対象外でも古家付きのまま最短3日で査定、手数料0円で買取できる方法をLINEで無料相談できます。"
 publishDate: "2026-05-13"
-updatedDate: "2026-07-31"
+updatedDate: "2026-08-25"
 author: "八木宏樹"
 authorTitle: "宅地建物取引業者（大阪府知事(1)第65646号）"
 heroImage: "/images/osaka-ku-hojo-hero.jpg"
@@ -180,40 +180,42 @@ A: 申請できます。2026年度（令和8年度）も「狭あい道路沿道
 
 ---
 
-## 大阪市24区の担当窓口一覧（まちづくり推進課）
+## 空き家解体補助金は大阪市24区のどこが対象？区別の対象有無・上限額・受付期間
 
 <img src="/images/osaka-ku-hojo-consultation.jpg" alt="区役所窓口での相談。空き家補助金の申請は物件がある区のまちづくり推進課が担当する" width="1200" height="800" style="width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" />
 
-補助金申請は<strong>物件がある区の区役所</strong>が窓口です。各区の「まちづくり推進課」または「都市整備課」に問い合わせてください。下表の区名リンクから各区役所の公式ページに直接アクセスできます。
+大阪市の空き家解体補助金（狭あい道路沿道老朽住宅除却促進制度）は<strong>大阪市内どこでも使える制度ではなく、区の中の指定区域内かどうかで対象が決まります</strong>。物件がある区の区役所「まちづくり推進課」または「都市整備課」が窓口です。下表の区名リンクから各区役所の公式ページに直接アクセスできます。
 
-| 区名 | 担当課（目安） | 区役所公式ページ |
-|------|-------------|--------------|
-| <a href="https://www.city.osaka.lg.jp/kita/">北区</a> | まちづくり推進課 | city.osaka.lg.jp/kita |
-| <a href="https://www.city.osaka.lg.jp/miyakojima/">都島区</a> | まちづくり推進課 | city.osaka.lg.jp/miyakojima |
-| <a href="https://www.city.osaka.lg.jp/fukushima/">福島区</a> | まちづくり推進課 | city.osaka.lg.jp/fukushima |
-| <a href="https://www.city.osaka.lg.jp/konohana/">此花区</a> | まちづくり推進課 | city.osaka.lg.jp/konohana |
-| <a href="https://www.city.osaka.lg.jp/chuo/">中央区</a> | まちづくり推進課 | city.osaka.lg.jp/chuo |
-| <a href="https://www.city.osaka.lg.jp/nishi/">西区</a> | まちづくり推進課 | city.osaka.lg.jp/nishi |
-| <a href="https://www.city.osaka.lg.jp/minato/">港区</a> | まちづくり推進課 | city.osaka.lg.jp/minato |
-| <a href="https://www.city.osaka.lg.jp/taisho/">大正区</a> | まちづくり推進課 | city.osaka.lg.jp/taisho |
-| <a href="https://www.city.osaka.lg.jp/tennoji/">天王寺区</a> | まちづくり推進課 | city.osaka.lg.jp/tennoji |
-| <a href="https://www.city.osaka.lg.jp/naniwa/">浪速区</a> | まちづくり推進課 | city.osaka.lg.jp/naniwa |
-| <a href="https://www.city.osaka.lg.jp/nishiyodogawa/">西淀川区</a> | まちづくり推進課 | city.osaka.lg.jp/nishiyodogawa |
-| <a href="https://www.city.osaka.lg.jp/yodogawa/">淀川区</a> | まちづくり推進課 | city.osaka.lg.jp/yodogawa |
-| <a href="https://www.city.osaka.lg.jp/higashiyodogawa/">東淀川区</a> | まちづくり推進課 | city.osaka.lg.jp/higashiyodogawa |
-| <a href="https://www.city.osaka.lg.jp/higashinari/">東成区</a> | まちづくり推進課 | city.osaka.lg.jp/higashinari |
-| <a href="https://www.city.osaka.lg.jp/ikuno/">生野区</a> | まちづくり推進課 | city.osaka.lg.jp/ikuno |
-| <a href="https://www.city.osaka.lg.jp/asahi/">旭区</a> | まちづくり推進課 | city.osaka.lg.jp/asahi |
-| <a href="https://www.city.osaka.lg.jp/joto/">城東区</a> | まちづくり推進課 | city.osaka.lg.jp/joto |
-| <a href="https://www.city.osaka.lg.jp/tsurumi/">鶴見区</a> | まちづくり推進課 | city.osaka.lg.jp/tsurumi |
-| <a href="https://www.city.osaka.lg.jp/abeno/">阿倍野区</a> | まちづくり推進課 | city.osaka.lg.jp/abeno |
-| <a href="https://www.city.osaka.lg.jp/suminoe/">住之江区</a> | まちづくり推進課 | city.osaka.lg.jp/suminoe |
-| <a href="https://www.city.osaka.lg.jp/sumiyoshi/">住吉区</a> | まちづくり推進課 | city.osaka.lg.jp/sumiyoshi |
-| <a href="https://www.city.osaka.lg.jp/higashisumiyoshi/">東住吉区</a> | まちづくり推進課 | city.osaka.lg.jp/higashisumiyoshi |
-| <a href="https://www.city.osaka.lg.jp/hirano/">平野区</a> | まちづくり推進課 | city.osaka.lg.jp/hirano |
-| <a href="https://www.city.osaka.lg.jp/nishinari/">西成区</a> | まちづくり推進課 | city.osaka.lg.jp/nishinari |
+| 区名 | 対策地区・重点対策地区の指定 | 上限額の目安（対象区域内の場合） | 受付期間 |
+|------|------------------------------|----------------------------------|---------|
+| <a href="https://www.city.osaka.lg.jp/yodogawa/">淀川区</a> | 対象区域あり | 戸建最大170万円・集合最大200万円 | 契約予定日の40日前〜令和8年12月28日 |
+| <a href="https://www.city.osaka.lg.jp/asahi/">旭区</a> | 対象区域あり | 戸建最大170万円・集合最大200万円 | 同上 |
+| <a href="https://www.city.osaka.lg.jp/miyakojima/">都島区</a> | 対象区域あり | 戸建最大170万円・集合最大200万円 | 同上 |
+| <a href="https://www.city.osaka.lg.jp/fukushima/">福島区</a> | 対象区域あり | 戸建最大170万円・集合最大200万円 | 同上 |
+| <a href="https://www.city.osaka.lg.jp/tsurumi/">鶴見区</a> | 対象区域あり | 戸建最大170万円・集合最大200万円 | 同上 |
+| <a href="https://www.city.osaka.lg.jp/joto/">城東区</a> | 対象区域あり | 戸建最大170万円・集合最大200万円 | 同上 |
+| <a href="https://www.city.osaka.lg.jp/higashinari/">東成区</a> | 対象区域あり | 戸建最大170万円・集合最大200万円 | 同上 |
+| <a href="https://www.city.osaka.lg.jp/ikuno/">生野区</a> | 対象区域あり | 戸建最大170万円・集合最大200万円 | 同上 |
+| <a href="https://www.city.osaka.lg.jp/tennoji/">天王寺区</a> | 対象区域あり | 戸建最大170万円・集合最大200万円 | 同上 |
+| <a href="https://www.city.osaka.lg.jp/taisho/">大正区</a> | 対象区域あり | 戸建最大170万円・集合最大200万円 | 同上 |
+| <a href="https://www.city.osaka.lg.jp/abeno/">阿倍野区</a> | 対象区域あり | 戸建最大170万円・集合最大200万円 | 同上 |
+| <a href="https://www.city.osaka.lg.jp/nishinari/">西成区</a> | 対象区域あり | 戸建最大170万円・集合最大200万円 | 同上 |
+| <a href="https://www.city.osaka.lg.jp/hirano/">平野区</a> | 対象区域あり | 戸建最大170万円・集合最大200万円 | 同上 |
+| <a href="https://www.city.osaka.lg.jp/higashisumiyoshi/">東住吉区</a> | 対象区域あり | 戸建最大170万円・集合最大200万円 | 同上 |
+| <a href="https://www.city.osaka.lg.jp/sumiyoshi/">住吉区</a> | 対象区域あり | 戸建最大170万円・集合最大200万円 | 同上 |
+| <a href="https://www.city.osaka.lg.jp/suminoe/">住之江区</a> | 対象区域あり（区内の一部） | 戸建最大170万円・集合最大200万円 | 同上 |
+| <a href="https://www.city.osaka.lg.jp/kita/">北区</a> | 要個別確認（公表区域外の可能性） | 老朽危険建築物除却補助（一般・最大75万円）は区域外でも対象になり得る | 同上 |
+| <a href="https://www.city.osaka.lg.jp/konohana/">此花区</a> | 要個別確認（公表区域外の可能性） | 同上 | 同上 |
+| <a href="https://www.city.osaka.lg.jp/chuo/">中央区</a> | 要個別確認（公表区域外の可能性） | 同上 | 同上 |
+| <a href="https://www.city.osaka.lg.jp/nishi/">西区</a> | 要個別確認（公表区域外の可能性） | 同上 | 同上 |
+| <a href="https://www.city.osaka.lg.jp/minato/">港区</a> | 要個別確認（公表区域外の可能性） | 同上 | 同上 |
+| <a href="https://www.city.osaka.lg.jp/naniwa/">浪速区</a> | 要個別確認（公表区域外の可能性） | 同上 | 同上 |
+| <a href="https://www.city.osaka.lg.jp/nishiyodogawa/">西淀川区</a> | 要個別確認（公表区域外の可能性） | 同上 | 同上 |
+| <a href="https://www.city.osaka.lg.jp/higashiyodogawa/">東淀川区</a> | 要個別確認（公表区域外の可能性） | 同上 | 同上 |
 
-> <strong>注意</strong>：担当課名は区によって「都市整備課」「建設局窓口」等と異なる場合があります。各区役所ページのトップから「空き家」「老朽建築物」等のキーワードで検索するか、区役所代表番号（06-XXXX-9986 の形式で各区共通）に電話してご確認ください。補助金に関する相談は<strong>大阪市住まい情報センター（06-6242-1177）</strong>でも一括して受け付けています。
+> <strong>出典</strong>：<a href="https://www.city.osaka.lg.jp/toshiseibi/page/0000531835.html" target="_blank" rel="noopener noreferrer">大阪市「狭あい道路沿道老朽住宅除却促進制度」補助金申請の手引き（令和8年度版・Ver.2026.04）</a>（アクセス日: 2026-07-31）。「対象区域あり」の16区は同資料が対策地区・重点対策地区として名指ししている区、「要個別確認」の8区は同資料に区域の明記がなく、老朽危険建築物除却補助（一般）等の別制度のみ利用できる可能性があります。<strong>同じ区内でも街区単位で対象・対象外が分かれる</strong>ため、最終判断は必ず担当窓口での事前相談で確認してください。
+>
+> <strong>注意</strong>：担当課名は区によって「都市整備課」「建設局窓口」等と異なる場合があります。各区役所ページのトップから「空き家」「老朽建築物」等のキーワードで検索するか、区役所代表番号に電話してご確認ください。補助金に関する相談は<strong>大阪市住まい情報センター（06-6242-1177）</strong>でも一括して受け付けています。堺市の解体補助金は<a href="/guide/sakai-akiya-kaitai-hojo-2026">堺市の空き家解体補助金2026年度版</a>、交野市は<a href="/guide/katano-akiya-kaitai-hojo-2026">交野市の空き家・解体補助金ガイド</a>をご確認ください。
 
 ---
 
