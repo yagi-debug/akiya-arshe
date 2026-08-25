@@ -1,0 +1,68 @@
+{
+  "date": "2026-08-25",
+  "slug": "ig-2026-08-25-reel_story",
+  "title": "毎月、お金が出ていくアパート",
+  "type": "reel_story",
+  "theme": "物語",
+  "files": [
+    "reel_2026-08-25.mp4"
+  ],
+  "checks": {
+    "caption_forbidden_words": [],
+    "cta_ok": true,
+    "caption_detail_ok": true,
+    "fallback_used": false,
+    "copy_nonempty_ok": true,
+    "info_band_ok": true,
+    "title_quality_ok": true,
+    "season_ok": true,
+    "offer_stated_ok": true,
+    "cta_bridge_ok": true,
+    "caption_not_filler_ok": true,
+    "file_count_ok": true,
+    "segment_count_ok": true,
+    "dimensions_ok": true,
+    "audio_ok": true,
+    "video_ok": true,
+    "duration_ok": true,
+    "voice_credit_ok": true,
+    "bgm_ok": true,
+    "probe": {
+      "width": 1080,
+      "height": 1920,
+      "video_codec": "h264",
+      "audio_codec": "aac",
+      "duration": 57.252
+    },
+    "scene_hashes": [
+      "7999663bd9c8925542701531e035ae6e",
+      "1f5605a442873d3809c99296fc7c4c4d",
+      "dad2d1429379d8c3c423d02781304c1e",
+      "37da5718c72852d975d4edc893d25ca9",
+      "cca3890942a7daf3a85f78baa7644437",
+      "f1e062e62dbc20f11a17cd95acaf432f",
+      "6c2946f7cf380cf66de2336b4483d2db"
+    ],
+    "plan_structure_source": "deterministic_local",
+    "plan_rollover_fallback": false
+  },
+  "fallback_used": false,
+  "fallback_notes": [
+    "scene_01: codex_generated",
+    "scene_02: codex_generated",
+    "scene_03: codex_generated",
+    "scene_04: codex_generated",
+    "scene_05: codex_generated",
+    "scene_06: codex_generated",
+    "scene_07: codex_generated",
+    "scene_01: veo_failed(リトライ上限→静止画)",
+    "scene_02: veo_failed(リトライ上限→静止画)",
+    "scene_03: veo_failed(リトライ上限→静止画)",
+    "scene_04: veo_failed(リトライ上限→静止画)",
+    "scene_05: veo_failed(リトライ上限→静止画)",
+    "scene_06: veo_failed(リトライ上限→静止画)",
+    "scene_07: veo_failed(リトライ上限→静止画)"
+  ],
+  "source_plan": "/Users/aibot/arshe/1_Projects/realestate-seller/content/CONTENT-PLAN-2026-08.md",
+  "generated_config": "/Users/aibot/arshe/1_Projects/realestate-seller/scripts/instagram/configs/generated/2026-08-25.json"
+}
