@@ -1,0 +1,43 @@
+{
+  "date": "2026-08-26",
+  "slug": "ig-2026-08-26-manga_serial",
+  "title": "ライバルは\nピカピカの\n新築ちゃん",
+  "type": "manga_carousel",
+  "variant": "serial",
+  "theme": "売却ノウハウ",
+  "format": 2,
+  "files": [
+    "01.png",
+    "02.png",
+    "03.png",
+    "04.png",
+    "05.png",
+    "06.png"
+  ],
+  "checks": {
+    "script_ok": true,
+    "useful_point_ok": true,
+    "forbidden_ok": true,
+    "pages": 6,
+    "panels": 9,
+    "layouts": [
+      "v2",
+      "t2b1",
+      "v2big",
+      "full"
+    ],
+    "dimensions": "1080x1350",
+    "art_md5": [
+      "0d22d53f59c364dd28a03758de1b93e9",
+      "23546137a529abc834602cbba5c6f523",
+      "2a8d9f4675a0a29f57c29be46a1f4876",
+      "45152e75bd39adfbbc90e099e6a86af0",
+      "4bedfcfdc81d48eb169cfeb8e2a53340",
+      "9693de4598ca259ce4b866ecdcd99f8f",
+      "c3399389a54747d4fa5adf6c0a03d700",
+      "c472ff9f4af724cdc8cb029d5b5ac1d9",
+      "f17df54e6a7e926e0f167fa81d766dd3"
+    ],
+    "dry_run": false
+  }
+}
