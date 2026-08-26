@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 600" width="880" height="600" font-family="'Hiragino Sans','Noto Sans JP',sans-serif" role="img" aria-label="祖父名義の土地1200万円と建物800万円を例に、1件でまとめた場合と2件に分けた場合の登録免許税を比較した図">
+  <rect width="880" height="600" fill="#f8fafc"/>
+  <text x="440" y="34" text-anchor="middle" font-size="21" font-weight="bold" fill="#0f172a">申請の分け方で、登録免許税はここまで変わります</text>
+  <text x="440" y="60" text-anchor="middle" font-size="13.5" fill="#475569">前提：祖父名義の土地1,200万円・建物800万円／祖父の相続人は父と叔父／父は死亡済（相続人は子）／税率は1000分の4</text>
+
+  <!-- A -->
+  <rect x="20" y="80" width="272" height="392" rx="12" fill="#fff" stroke="#16a34a" stroke-width="2"/>
+  <rect x="20" y="80" width="272" height="44" rx="12" fill="#16a34a"/><rect x="20" y="112" width="272" height="12" fill="#16a34a"/>
+  <text x="156" y="110" text-anchor="middle" font-size="17" font-weight="bold" fill="#fff">A まとめて1件</text>
+  <g font-size="14" fill="#1f2937">
+    <text x="38" y="150" font-weight="bold" fill="#15803d">遺産分割協議で</text>
+    <text x="38" y="172" font-weight="bold" fill="#15803d">「父が単独で取得」と決めた</text>
+    <text x="38" y="200">申請は1回：祖父 → 子</text>
+    <rect x="38" y="214" width="236" height="1" fill="#e2e8f0"/>
+    <text x="38" y="242">課税価格 2,000万円</text>
+    <text x="38" y="266">土地 1,200万×0.4% ＝ 48,000円</text>
+    <text x="38" y="290">建物 800万×0.4% ＝ 32,000円</text>
+    <rect x="38" y="306" width="236" height="1" fill="#e2e8f0"/>
+    <text x="38" y="336" font-size="17" font-weight="bold" fill="#15803d">登録免許税 80,000円</text>
+    <text x="38" y="368">司法書士報酬も1件分</text>
+    <text x="38" y="392">結果：子が単独所有</text>
+    <text x="38" y="424" font-size="13.5" fill="#475569">法務局の「数次相続」の様式が</text>
+    <text x="38" y="446" font-size="13.5" fill="#475569">そのまま使えるのはこの形です</text>
+  </g>
+
+  <!-- B -->
+  <rect x="304" y="80" width="272" height="392" rx="12" fill="#fff" stroke="#f59e0b" stroke-width="2"/>
+  <rect x="304" y="80" width="272" height="44" rx="12" fill="#f59e0b"/><rect x="304" y="112" width="272" height="12" fill="#f59e0b"/>
+  <text x="440" y="110" text-anchor="middle" font-size="17" font-weight="bold" fill="#fff">B 2件＋免税あり</text>
+  <g font-size="14" fill="#1f2937">
+    <text x="322" y="150" font-weight="bold" fill="#b45309">分け方を決めず、</text>
+    <text x="322" y="172" font-weight="bold" fill="#b45309">法定相続分のまま登記した</text>
+    <text x="322" y="200">1件目：祖父 → 父1/2・叔父1/2</text>
+    <rect x="322" y="214" width="236" height="1" fill="#e2e8f0"/>
+    <text x="322" y="242">土地の父持分600万 ＝ 0円（免税）</text>
+    <text x="322" y="266">土地の叔父持分600万 ＝ 24,000円</text>
+    <text x="322" y="290">建物800万（免税対象外）＝ 32,000円</text>
+    <text x="322" y="316">2件目：父持分1/2 → 子</text>
+    <text x="322" y="340">課税価格1,000万 ＝ 40,000円</text>
+    <rect x="322" y="354" width="236" height="1" fill="#e2e8f0"/>
+    <text x="322" y="384" font-size="17" font-weight="bold" fill="#b45309">登録免許税 96,000円</text>
+    <text x="322" y="416" font-size="13.5">司法書士報酬は2件分</text>
+    <text x="322" y="438" font-size="13.5">結果：子1/2・叔父1/2の共有</text>
+  </g>
+
+  <!-- C -->
+  <rect x="588" y="80" width="272" height="392" rx="12" fill="#fff" stroke="#dc2626" stroke-width="2"/>
+  <rect x="588" y="80" width="272" height="44" rx="12" fill="#dc2626"/><rect x="588" y="112" width="272" height="12" fill="#dc2626"/>
+  <text x="724" y="110" text-anchor="middle" font-size="17" font-weight="bold" fill="#fff">C 2件＋免税なし</text>
+  <g font-size="14" fill="#1f2937">
+    <text x="606" y="150" font-weight="bold" fill="#b91c1c">Bと同じ内容だが、</text>
+    <text x="606" y="172" font-weight="bold" fill="#b91c1c">免税の記載を書き忘れた</text>
+    <text x="606" y="200">または2027年4月以降に申請した</text>
+    <rect x="606" y="214" width="236" height="1" fill="#e2e8f0"/>
+    <text x="606" y="242">1件目 課税価格2,000万</text>
+    <text x="606" y="266">＝ 80,000円</text>
+    <text x="606" y="292">2件目 課税価格1,000万</text>
+    <text x="606" y="316">＝ 40,000円</text>
+    <rect x="606" y="332" width="236" height="1" fill="#e2e8f0"/>
+    <text x="606" y="362" font-size="17" font-weight="bold" fill="#b91c1c">登録免許税 120,000円</text>
+    <text x="606" y="394" font-size="13.5">Aより40,000円多く、</text>
+    <text x="606" y="416" font-size="13.5">司法書士報酬も2件分です</text>
+  </g>
+
+  <rect x="20" y="488" width="840" height="94" rx="10" fill="#eff6ff" stroke="#bfdbfe"/>
+  <text x="40" y="514" font-size="14.5" fill="#1e3a8a">免税は自動では適用されません。申請書に「租税特別措置法第84条の2の3第1項により非課税」と記載する必要があります。</text>
+  <text x="40" y="537" font-size="14.5" fill="#1e3a8a">対象は土地だけで、建物は対象外です。適用期限は2027年（令和9年）3月31日までです。</text>
+  <text x="40" y="562" font-size="12.5" fill="#475569">※評価額を仮に置いた計算例です。実際の税額は固定資産課税台帳の価格・持分・免税の適用可否で変わります。個別の判断は司法書士にご確認ください。</text>
+</svg>
