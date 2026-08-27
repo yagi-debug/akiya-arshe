@@ -1,0 +1,43 @@
+{
+  "date": "2026-08-27",
+  "slug": "ig-2026-08-27-manga_serial",
+  "title": "高望みって\n言われまして",
+  "type": "manga_carousel",
+  "variant": "serial",
+  "theme": "固定資産税・お金",
+  "format": 2,
+  "files": [
+    "01.png",
+    "02.png",
+    "03.png",
+    "04.png",
+    "05.png",
+    "06.png"
+  ],
+  "checks": {
+    "script_ok": true,
+    "useful_point_ok": true,
+    "forbidden_ok": true,
+    "pages": 6,
+    "panels": 9,
+    "layouts": [
+      "v2",
+      "t2b1",
+      "v2big",
+      "full"
+    ],
+    "dimensions": "1080x1350",
+    "art_md5": [
+      "0798c27d174f50af8e6775d11019adeb",
+      "22626c0cc1d451a3a2f0870096b806e7",
+      "768aaaddcf42baf2ba63f5e6d84d736a",
+      "948cfcb8d05a62e52167a85af85792e0",
+      "aaafda1cc7a78446b67764ad996cea75",
+      "b7a531a1d78ddf891ae41bbb871e8862",
+      "eb4114256d95236971b735977f0d5cd9",
+      "f4b862e15b44155d9e030667d3d8d57c",
+      "faf4162f578f64bffce13dcbb44a06ef"
+    ],
+    "dry_run": false
+  }
+}
