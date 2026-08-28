@@ -1,0 +1,66 @@
+{
+  "date": "2026-08-28",
+  "slug": "ig-2026-08-28-reel_knowledge",
+  "title": "特定空家に指定されると、どうなる？",
+  "type": "reel_knowledge",
+  "theme": "空き家リスク",
+  "files": [
+    "reel_2026-08-28.mp4"
+  ],
+  "checks": {
+    "caption_forbidden_words": [],
+    "cta_ok": true,
+    "caption_detail_ok": true,
+    "fallback_used": false,
+    "copy_nonempty_ok": true,
+    "info_band_ok": true,
+    "title_quality_ok": true,
+    "season_ok": true,
+    "offer_stated_ok": true,
+    "cta_bridge_ok": true,
+    "caption_not_filler_ok": true,
+    "file_count_ok": true,
+    "segment_count_ok": true,
+    "dimensions_ok": true,
+    "audio_ok": true,
+    "video_ok": true,
+    "duration_ok": true,
+    "voice_credit_ok": true,
+    "bgm_ok": true,
+    "probe": {
+      "width": 1080,
+      "height": 1920,
+      "video_codec": "h264",
+      "audio_codec": "aac",
+      "duration": 58.668
+    },
+    "scene_hashes": [
+      "0913636235d697e578bca99c31f5dc5e",
+      "92781cff50f9d1bee8eada37b13914ef",
+      "0b3aa6f55849083ca156566a8f70427b",
+      "e9d38e3f6dbf43dde3e12ac48028fa9f",
+      "65d649eb4179b927d2d9128f35f15118",
+      "79688adc00d3540ebde158ab5c7754b0",
+      "cf318bd7870c5f82208302f01ea6e4ce",
+      "2d898a1944ba097f0eb6e5be36db8a4c",
+      "805f56c30ddcd0d594521b841027970a"
+    ],
+    "plan_structure_source": "deterministic_local",
+    "plan_rollover_fallback": false
+  },
+  "fallback_used": false,
+  "fallback_notes": [
+    "scene_01: codex_generated",
+    "scene_02: codex_generated",
+    "scene_03: codex_generated",
+    "scene_04: codex_generated",
+    "scene_05: codex_generated",
+    "scene_06: codex_generated",
+    "scene_07: codex_generated",
+    "scene_08: codex_generated",
+    "scene_09: codex_generated",
+    "veo: 無効（スキル不在またはIG_DISABLE_VEO=1）"
+  ],
+  "source_plan": "/Users/aibot/arshe/1_Projects/realestate-seller/content/CONTENT-PLAN-2026-08.md",
+  "generated_config": "/Users/aibot/arshe/1_Projects/realestate-seller/scripts/instagram/configs/generated/2026-08-28.json"
+}
