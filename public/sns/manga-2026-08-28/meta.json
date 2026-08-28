@@ -1,0 +1,43 @@
+{
+  "date": "2026-08-28",
+  "slug": "ig-2026-08-28-manga_serial",
+  "title": "お見合いで\n『更地にしろ』\nと言われた",
+  "type": "manga_carousel",
+  "variant": "serial",
+  "theme": "空き家リスク",
+  "format": 2,
+  "files": [
+    "01.png",
+    "02.png",
+    "03.png",
+    "04.png",
+    "05.png",
+    "06.png"
+  ],
+  "checks": {
+    "script_ok": true,
+    "useful_point_ok": true,
+    "forbidden_ok": true,
+    "pages": 6,
+    "panels": 9,
+    "layouts": [
+      "v2",
+      "v2big",
+      "t2b1",
+      "full"
+    ],
+    "dimensions": "1080x1350",
+    "art_md5": [
+      "1db66bb3132d9541efeae213d49a52cc",
+      "3d2acfb506c8bbeba31ca175d3ccb02a",
+      "45dd6871ac97d7440b6e8d3c81528464",
+      "621efa31510122db216e98994407550a",
+      "8576ae43212da7feae44ecef5e11def8",
+      "90874617daf7bfad162097b89a4c7026",
+      "aa06c217dd9f015a2236a773e8d3a87a",
+      "bcdb3c5a9bae14b2694b6b5b920622d3",
+      "e40afb86739c8ef772cd740e95f1b27c"
+    ],
+    "dry_run": false
+  }
+}
