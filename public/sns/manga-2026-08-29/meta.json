@@ -1,0 +1,43 @@
+{
+  "date": "2026-08-29",
+  "slug": "ig-2026-08-29-manga_serial",
+  "title": "築45年、\n嫁ぎ先が\n決まりました",
+  "type": "manga_carousel",
+  "variant": "serial",
+  "theme": "実家じまい・罪悪感",
+  "format": 2,
+  "files": [
+    "01.png",
+    "02.png",
+    "03.png",
+    "04.png",
+    "05.png",
+    "06.png"
+  ],
+  "checks": {
+    "script_ok": true,
+    "useful_point_ok": true,
+    "forbidden_ok": true,
+    "pages": 6,
+    "panels": 9,
+    "layouts": [
+      "v2big",
+      "t2b1",
+      "v2",
+      "full"
+    ],
+    "dimensions": "1080x1350",
+    "art_md5": [
+      "1c914c83f223d935118c4802566d264a",
+      "268f07037a05a3636d77d112cf37640d",
+      "41281305c2ba8a52fb9a9841b6ec37b6",
+      "4bb5e3abc16a298b6e2b476fbf015b9e",
+      "8508bcb2d2b368b80cc860f20666849f",
+      "9f5b1657d6fb07c171b077ca011e38c3",
+      "b937549d110f75a398b62c6d8bc83c7d",
+      "c85be8132a0247410a03e2c889e64254",
+      "ea4d5390aeb266d81b4bf50245368735"
+    ],
+    "dry_run": false
+  }
+}
