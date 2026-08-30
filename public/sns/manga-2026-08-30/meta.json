@@ -1,0 +1,43 @@
+{
+  "date": "2026-08-30",
+  "slug": "ig-2026-08-30-manga_serial",
+  "title": "長所を\n聞いたら\n土下座された",
+  "type": "manga_carousel",
+  "variant": "serial",
+  "theme": "再建築不可・共有持分",
+  "format": 2,
+  "files": [
+    "01.png",
+    "02.png",
+    "03.png",
+    "04.png",
+    "05.png",
+    "06.png"
+  ],
+  "checks": {
+    "script_ok": true,
+    "useful_point_ok": true,
+    "forbidden_ok": true,
+    "pages": 6,
+    "panels": 9,
+    "layouts": [
+      "v2",
+      "v2big",
+      "t2b1",
+      "full"
+    ],
+    "dimensions": "1080x1350",
+    "art_md5": [
+      "167f057292a3bc1ffda5bf7909520433",
+      "2997be2a72614d15d50c4c3f86676bcd",
+      "498bfe85b0736a69fa39938edc552505",
+      "540d6a3da016dfb14570553f503210be",
+      "5e4645ae567bcd9b0b430a94f4dffc87",
+      "6025c177031009528c4fdef9089968f5",
+      "62fbfb715bf3a94a76e791e385c6c92f",
+      "6e2c3343ded5e6ffe7abec024d300acd",
+      "cdb19219cc05b186996529250345d5b9"
+    ],
+    "dry_run": false
+  }
+}
