@@ -1,0 +1,43 @@
+{
+  "date": "2026-08-31",
+  "slug": "ig-2026-08-31-manga_serial",
+  "title": "自己PRの\n最中に\n全員消えた",
+  "type": "manga_carousel",
+  "variant": "serial",
+  "theme": "売却ノウハウ",
+  "format": 2,
+  "files": [
+    "01.png",
+    "02.png",
+    "03.png",
+    "04.png",
+    "05.png",
+    "06.png"
+  ],
+  "checks": {
+    "script_ok": true,
+    "useful_point_ok": true,
+    "forbidden_ok": true,
+    "pages": 6,
+    "panels": 9,
+    "layouts": [
+      "v2",
+      "v2big",
+      "t1b2",
+      "full"
+    ],
+    "dimensions": "1080x1350",
+    "art_md5": [
+      "27508cc2d95dc680642e27cbe45fde5c",
+      "2c8595de9ddda4408ec030ec33c4bd7b",
+      "426f5f06c03c75dda89d4b3f9bf499b7",
+      "5293dd35ae1062ad78a6593d7089c702",
+      "6a0e3439756365d7415b7ed1e33858af",
+      "72dd4f60073a433c300f4224c396022e",
+      "9b9d5ac9276b1411ad4f08e2650e4d78",
+      "aeb3b27d7ac2efa9ece57a03435efadd",
+      "f94f835f0a90e5631c42352e751e71e7"
+    ],
+    "dry_run": false
+  }
+}
