@@ -1,0 +1,43 @@
+{
+  "date": "2026-09-01",
+  "slug": "ig-2026-09-01-manga_serial",
+  "title": "初めての\nお申込みに\n書いてた条件",
+  "type": "manga_carousel",
+  "variant": "serial",
+  "theme": "再建築不可・共有持分",
+  "format": 2,
+  "files": [
+    "01.png",
+    "02.png",
+    "03.png",
+    "04.png",
+    "05.png",
+    "06.png"
+  ],
+  "checks": {
+    "script_ok": true,
+    "useful_point_ok": true,
+    "forbidden_ok": true,
+    "pages": 6,
+    "panels": 9,
+    "layouts": [
+      "v2",
+      "v2big",
+      "t2b1",
+      "full"
+    ],
+    "dimensions": "1080x1350",
+    "art_md5": [
+      "1ec160247648769981036976e317d7a4",
+      "41afcf545dbfd2d61a5361cedf1e29bf",
+      "4e44f013b4754b54d637ad7786bb9c05",
+      "5551afeb2e6f681c32f1edfe51fbfdd2",
+      "899b3471e4cb3f0229c8e9189a159211",
+      "8da26b7bf2b2dcd0092da5ed9503a888",
+      "9887de7101c43b49a33177f35e2dde70",
+      "bf85665e39446875689a363fd727bf0e",
+      "d354cfdf738c3cd09671fc9ad5cacac2"
+    ],
+    "dry_run": false
+  }
+}
