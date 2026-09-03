@@ -1,0 +1,43 @@
+{
+  "date": "2026-09-03",
+  "slug": "ig-2026-09-03-manga_serial",
+  "title": "初対面で\n８本ぜんぶ\n渡した話",
+  "type": "manga_carousel",
+  "variant": "serial",
+  "theme": "相続アパート・引き渡しの支度",
+  "format": 2,
+  "files": [
+    "01.png",
+    "02.png",
+    "03.png",
+    "04.png",
+    "05.png",
+    "06.png"
+  ],
+  "checks": {
+    "script_ok": true,
+    "useful_point_ok": true,
+    "forbidden_ok": true,
+    "pages": 6,
+    "panels": 9,
+    "layouts": [
+      "v2",
+      "v2big",
+      "t1b2",
+      "full"
+    ],
+    "dimensions": "1080x1350",
+    "art_md5": [
+      "072722fc535a93a3365bd1d0a57b1ff8",
+      "31d61e9fcc76740fac5e6b4c7edf892f",
+      "4ce62e0df0f2145e9f6f231afa1430d7",
+      "54cb0c156762b310ac4b6e1a0278fde4",
+      "5c3a742b28a29a7d97a00ffef157d88f",
+      "7b10c7239a7687fb2ae2a99103f39b69",
+      "e361d8e5e4984f3c55e16910b3d015ad",
+      "e862512ee34f8ceab179be96d4e68562",
+      "edd2450e1ac18d8a4fa523df8a271677"
+    ],
+    "dry_run": false
+  }
+}
