@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 700" width="900" height="700" role="img" aria-label="相続税の不動産評価額を路線価方式と倍率方式のどちらで計算するかを判定し、土地と家屋それぞれの評価額を出す手順のフローチャート">
+  <title>相続税の不動産評価額を出す手順（土地・家屋）</title>
+  <rect x="0" y="0" width="900" height="700" fill="#ffffff"/>
+  <text x="450" y="36" text-anchor="middle" font-family="'Hiragino Sans','Noto Sans JP',sans-serif" font-size="22" font-weight="bold" fill="#111827">相続税の不動産評価額を出す4ステップ</text>
+
+  <!-- STEP1 -->
+  <rect x="250" y="58" width="400" height="58" rx="10" fill="#1a56db"/>
+  <text x="450" y="84" text-anchor="middle" font-family="'Hiragino Sans','Noto Sans JP',sans-serif" font-size="16" font-weight="bold" fill="#ffffff">STEP1　財産評価基準書（路線価図・評価倍率表）を見る</text>
+  <text x="450" y="105" text-anchor="middle" font-family="'Hiragino Sans','Noto Sans JP',sans-serif" font-size="14" fill="#dbeafe">rosenka.nta.go.jp　亡くなった年分を選ぶ</text>
+  <path d="M450 116 L450 142" stroke="#1a56db" stroke-width="3"/>
+  <path d="M450 150 l-7 -12 h14 z" fill="#1a56db"/>
+
+  <!-- STEP2 分岐 -->
+  <rect x="230" y="152" width="440" height="50" rx="10" fill="#eef2ff" stroke="#1a56db" stroke-width="2"/>
+  <text x="450" y="183" text-anchor="middle" font-family="'Hiragino Sans','Noto Sans JP',sans-serif" font-size="16" font-weight="bold" fill="#1a56db">STEP2　その土地に路線価が付いていますか？</text>
+
+  <path d="M330 202 L330 232 L230 232 L230 258" stroke="#1a56db" stroke-width="3" fill="none"/>
+  <path d="M230 266 l-7 -12 h14 z" fill="#1a56db"/>
+  <path d="M570 202 L570 232 L670 232 L670 258" stroke="#6b7280" stroke-width="3" fill="none"/>
+  <path d="M670 266 l-7 -12 h14 z" fill="#6b7280"/>
+  <text x="252" y="226" font-family="'Hiragino Sans','Noto Sans JP',sans-serif" font-size="15" font-weight="bold" fill="#1a56db">付いている</text>
+  <text x="580" y="226" font-family="'Hiragino Sans','Noto Sans JP',sans-serif" font-size="15" font-weight="bold" fill="#374151">付いていない</text>
+
+  <!-- 路線価方式 -->
+  <rect x="40" y="268" width="380" height="150" rx="10" fill="#ffffff" stroke="#1a56db" stroke-width="2"/>
+  <text x="230" y="296" text-anchor="middle" font-family="'Hiragino Sans','Noto Sans JP',sans-serif" font-size="17" font-weight="bold" fill="#1a56db">路線価方式</text>
+  <text x="230" y="328" text-anchor="middle" font-family="'Hiragino Sans','Noto Sans JP',sans-serif" font-size="15" fill="#111827">路線価（千円単位・1㎡あたり）</text>
+  <text x="230" y="352" text-anchor="middle" font-family="'Hiragino Sans','Noto Sans JP',sans-serif" font-size="15" fill="#111827">× 奥行価格補正率などの各種補正率</text>
+  <text x="230" y="376" text-anchor="middle" font-family="'Hiragino Sans','Noto Sans JP',sans-serif" font-size="15" fill="#111827">× 地積（課税時期の実際の面積）</text>
+  <text x="230" y="404" text-anchor="middle" font-family="'Hiragino Sans','Noto Sans JP',sans-serif" font-size="14" fill="#6b7280">市街地の宅地はこちらが基本です</text>
+
+  <!-- 倍率方式 -->
+  <rect x="480" y="268" width="380" height="150" rx="10" fill="#ffffff" stroke="#6b7280" stroke-width="2"/>
+  <text x="670" y="296" text-anchor="middle" font-family="'Hiragino Sans','Noto Sans JP',sans-serif" font-size="17" font-weight="bold" fill="#374151">倍率方式</text>
+  <text x="670" y="328" text-anchor="middle" font-family="'Hiragino Sans','Noto Sans JP',sans-serif" font-size="15" fill="#111827">土地の固定資産税評価額</text>
+  <text x="670" y="352" text-anchor="middle" font-family="'Hiragino Sans','Noto Sans JP',sans-serif" font-size="15" fill="#111827">× 評価倍率表に定められた倍率</text>
+  <text x="670" y="382" text-anchor="middle" font-family="'Hiragino Sans','Noto Sans JP',sans-serif" font-size="14" fill="#6b7280">郊外・農村部の土地はこちらです</text>
+
+  <path d="M230 418 L230 446 L450 446 L450 470" stroke="#1a56db" stroke-width="3" fill="none"/>
+  <path d="M670 418 L670 446 L450 446" stroke="#6b7280" stroke-width="3" fill="none"/>
+  <path d="M450 478 l-7 -12 h14 z" fill="#1a56db"/>
+
+  <!-- STEP3 家屋 -->
+  <rect x="180" y="480" width="540" height="70" rx="10" fill="#f0fdf4" stroke="#15803d" stroke-width="2"/>
+  <text x="450" y="508" text-anchor="middle" font-family="'Hiragino Sans','Noto Sans JP',sans-serif" font-size="16" font-weight="bold" fill="#15803d">STEP3　家屋は「固定資産税評価額 × 1.0」</text>
+  <text x="450" y="534" text-anchor="middle" font-family="'Hiragino Sans','Noto Sans JP',sans-serif" font-size="15" fill="#111827">課税明細書に書かれている価格が、そのまま相続税評価額です</text>
+  <path d="M450 550 L450 578" stroke="#15803d" stroke-width="3"/>
+  <path d="M450 586 l-7 -12 h14 z" fill="#15803d"/>
+
+  <!-- STEP4 -->
+  <rect x="120" y="588" width="660" height="80" rx="10" fill="#fff7ed" stroke="#c2410c" stroke-width="2"/>
+  <text x="450" y="616" text-anchor="middle" font-family="'Hiragino Sans','Noto Sans JP',sans-serif" font-size="16" font-weight="bold" fill="#c2410c">STEP4　貸している・形が悪い・広すぎる場合は減額の調整をする</text>
+  <text x="450" y="640" text-anchor="middle" font-family="'Hiragino Sans','Noto Sans JP',sans-serif" font-size="15" fill="#111827">貸家建付地・貸宅地・不整形地・地積規模の大きな宅地・小規模宅地等の特例</text>
+  <text x="450" y="660" text-anchor="middle" font-family="'Hiragino Sans','Noto Sans JP',sans-serif" font-size="13" fill="#6b7280">出典：国税庁タックスアンサーNo.4602・No.4604・No.4609・No.4613・No.4614・No.4124をもとに空き家のミカタ作成</text>
+</svg>

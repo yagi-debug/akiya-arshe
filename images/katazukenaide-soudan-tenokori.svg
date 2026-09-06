@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620" width="900" height="620" role="img" aria-label="片付けてから相談した場合とそのまま相談した場合の手残り比較図">
+  <style>
+    text { font-family: "Hiragino Sans", "Yu Gothic", sans-serif; fill: #1f2937; }
+    .ttl { font-size: 22px; font-weight: bold; }
+    .h { font-size: 17px; font-weight: bold; }
+    .b { font-size: 14px; }
+    .s { font-size: 12.5px; fill: #4b5563; }
+    .num { font-size: 20px; font-weight: bold; }
+  </style>
+  <rect x="0" y="0" width="900" height="620" fill="#ffffff"/>
+  <text class="ttl" x="450" y="38" text-anchor="middle">3LDK戸建・解体を前提に買い取る場合の手残り比較</text>
+  <text class="s" x="450" y="60" text-anchor="middle">※金額は当社が大阪市内でお受けした相談で見かける帯であり、物件ごとに変わります</text>
+
+  <!-- Left: cleaned first -->
+  <rect x="30" y="80" width="400" height="440" rx="10" fill="#fef2f2" stroke="#dc2626" stroke-width="2"/>
+  <text class="h" x="230" y="110" text-anchor="middle" fill="#b91c1c">A. 先に片付けてから相談した</text>
+
+  <rect x="55" y="130" width="350" height="62" rx="6" fill="#ffffff" stroke="#fca5a5"/>
+  <text class="b" x="70" y="153">① 遺品整理業者へ自分で発注</text>
+  <text class="num" x="390" y="176" text-anchor="end" fill="#b91c1c">−40〜80万円</text>
+
+  <rect x="55" y="204" width="350" height="62" rx="6" fill="#ffffff" stroke="#fca5a5"/>
+  <text class="b" x="70" y="227">② 買取価格への上乗せ</text>
+  <text class="s" x="70" y="248">業者側で消えた原価＝解体に含める残置物処分費</text>
+  <text class="num" x="390" y="250" text-anchor="end" fill="#15803d">＋10〜30万円</text>
+
+  <line x1="55" y1="288" x2="405" y2="288" stroke="#dc2626" stroke-width="1.5"/>
+  <text class="h" x="70" y="318">差引きの増減</text>
+  <text class="num" x="390" y="318" text-anchor="end" fill="#b91c1c">−10〜70万円</text>
+
+  <rect x="55" y="342" width="350" height="150" rx="6" fill="#ffffff" stroke="#fca5a5"/>
+  <text class="b" x="70" y="368">起きていること</text>
+  <text class="s" x="70" y="392">・家ごと壊す物件では、中身も一緒に壊して処分する</text>
+  <text class="s" x="70" y="414">・そのため片付けの大半は、やってもやらなくても</text>
+  <text class="s" x="86" y="434">　解体費が変わらない部分に消える</text>
+  <text class="s" x="70" y="456">・個人の発注単価と、業者の解体同時処理の単価が</text>
+  <text class="s" x="86" y="476">　そもそも違う</text>
+
+  <!-- Right: as-is -->
+  <rect x="470" y="80" width="400" height="440" rx="10" fill="#f0fdf4" stroke="#16a34a" stroke-width="2"/>
+  <text class="h" x="670" y="110" text-anchor="middle" fill="#15803d">B. そのままの状態で相談した</text>
+
+  <rect x="495" y="130" width="350" height="62" rx="6" fill="#ffffff" stroke="#86efac"/>
+  <text class="b" x="510" y="153">① 事前の持ち出し</text>
+  <text class="num" x="830" y="176" text-anchor="end" fill="#15803d">0円</text>
+
+  <rect x="495" y="204" width="350" height="62" rx="6" fill="#ffffff" stroke="#86efac"/>
+  <text class="b" x="510" y="227">② 買取価格に反映される処分原価</text>
+  <text class="s" x="510" y="248">解体見積りに残置物処分費として計上される</text>
+  <text class="num" x="830" y="250" text-anchor="end" fill="#b91c1c">−10〜30万円</text>
+
+  <line x1="495" y1="288" x2="845" y2="288" stroke="#16a34a" stroke-width="1.5"/>
+  <text class="h" x="510" y="318">差引きの増減</text>
+  <text class="num" x="830" y="318" text-anchor="end" fill="#b91c1c">−10〜30万円</text>
+
+  <rect x="495" y="342" width="350" height="150" rx="6" fill="#ffffff" stroke="#86efac"/>
+  <text class="b" x="510" y="368">起きていること</text>
+  <text class="s" x="510" y="392">・現金の持ち出しが先に発生しない</text>
+  <text class="s" x="510" y="414">・処分費は買取価格の中で一度だけ引かれる</text>
+  <text class="s" x="510" y="436">・売らない判断に戻っても、失う費用がない</text>
+  <text class="s" x="510" y="458">・形見と重要書類だけは、契約前に持ち出す</text>
+  <text class="s" x="510" y="480">　（権利証・売買契約書・保険証券・通帳・写真）</text>
+
+  <rect x="30" y="540" width="840" height="58" rx="8" fill="#eff6ff" stroke="#1a56db"/>
+  <text class="b" x="450" y="565" text-anchor="middle" fill="#1e3a8a">同じ費目を二度払わないために、片付けの見積りを取る前に、まず買取金額を先に見てください。</text>
+  <text class="s" x="450" y="586" text-anchor="middle">片付けが金額を押し上げるのは「そのまま住める家として売る」場合で、解体前提の物件では効きにくくなります。</text>
+</svg>

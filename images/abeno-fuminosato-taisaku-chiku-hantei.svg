@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 830" width="900" height="830" role="img" aria-label="阿倍野区文の里の家が大阪市の狭あい道路沿道老朽住宅除却促進制度（対策地区）の解体費補助に当たるかどうかの判定フロー">
+  <rect width="900" height="830" fill="#ffffff"/>
+  <text x="450" y="38" text-anchor="middle" font-family="'Hiragino Sans','Noto Sans JP',sans-serif" font-size="21" font-weight="bold" fill="#1f2937">文の里の家に解体費補助が使えるかの判定フロー</text>
+  <text x="450" y="64" text-anchor="middle" font-family="'Hiragino Sans','Noto Sans JP',sans-serif" font-size="14" fill="#6b7280">大阪市 狭あい道路沿道老朽住宅除却促進制度（令和8年度・対策地区の要件）</text>
+
+  <g font-family="'Hiragino Sans','Noto Sans JP',sans-serif">
+    <!-- step 1 -->
+    <rect x="50" y="92" width="700" height="66" rx="8" fill="#eff6ff" stroke="#1a56db" stroke-width="1.5"/>
+    <text x="70" y="118" font-size="15" font-weight="bold" fill="#1a56db">① 住所は文の里1〜4丁目ですか</text>
+    <text x="70" y="142" font-size="13" fill="#374151">文の里1〜4丁目は全域が「対策地区」として要綱の別表1に記載されています</text>
+    <text x="770" y="132" font-size="15" font-weight="bold" fill="#059669">はい ↓</text>
+
+    <!-- step 2 -->
+    <rect x="50" y="180" width="700" height="66" rx="8" fill="#eff6ff" stroke="#1a56db" stroke-width="1.5"/>
+    <text x="70" y="206" font-size="15" font-weight="bold" fill="#1a56db">② 木造住宅ですか</text>
+    <text x="70" y="230" font-size="13" fill="#374151">店舗併用は延床の2分の1以上が住宅であること。賃貸は入居者の同意が必要です</text>
+    <text x="770" y="220" font-size="15" font-weight="bold" fill="#059669">はい ↓</text>
+
+    <!-- step 3 -->
+    <rect x="50" y="268" width="700" height="66" rx="8" fill="#eff6ff" stroke="#1a56db" stroke-width="1.5"/>
+    <text x="70" y="294" font-size="15" font-weight="bold" fill="#1a56db">③ 昭和25年以前に建てられていますか</text>
+    <text x="70" y="318" font-size="13" fill="#374151">建築年は固定資産（家屋）評価証明書で確認します。昭和26年以降の増改築部分は対象外です</text>
+    <text x="770" y="308" font-size="15" font-weight="bold" fill="#059669">はい ↓</text>
+
+    <!-- step 4 -->
+    <rect x="50" y="356" width="700" height="84" rx="8" fill="#eff6ff" stroke="#1a56db" stroke-width="1.5"/>
+    <text x="70" y="382" font-size="15" font-weight="bold" fill="#1a56db">④ 道路の条件を満たしていますか</text>
+    <text x="70" y="404" font-size="13" fill="#374151">幅員4m未満の道路に面している、または</text>
+    <text x="70" y="426" font-size="13" fill="#374151">建築基準法42条の道路に2m以上接していない（＝再建築不可の敷地も対象になります）</text>
+    <text x="770" y="400" font-size="15" font-weight="bold" fill="#059669">はい ↓</text>
+
+    <!-- result yes -->
+    <rect x="50" y="462" width="700" height="112" rx="8" fill="#ecfdf5" stroke="#059669" stroke-width="2"/>
+    <text x="70" y="490" font-size="16" font-weight="bold" fill="#065f46">対策地区の解体費補助の対象になり得ます</text>
+    <text x="70" y="516" font-size="13" fill="#374151">補助率＝解体・整地費の契約金額と市が定める額（27,000円／㎡）の低い方の2分の1以内</text>
+    <text x="70" y="538" font-size="13" fill="#374151">補助限度額＝戸建住宅105万円／戸、集合住宅80万円／戸（いずれも予算の範囲内）</text>
+    <text x="70" y="560" font-size="13" fill="#b45309">交付申請の前に解体の工事契約をすると原則として対象外になります</text>
+
+    <!-- no branch -->
+    <rect x="50" y="596" width="700" height="88" rx="8" fill="#fef2f2" stroke="#dc2626" stroke-width="1.5"/>
+    <text x="70" y="622" font-size="15" font-weight="bold" fill="#991b1b">③または④が「いいえ」だったとき</text>
+    <text x="70" y="646" font-size="13" fill="#374151">この補助は使えません。ただし④が「いいえ」＝幅4m以上の道路に2m以上接しているなら、</text>
+    <text x="70" y="668" font-size="13" fill="#374151">建て替えができる土地です。買取より仲介のほうが手残りが多くなる可能性があります。</text>
+  </g>
+
+  <line x1="50" y1="710" x2="850" y2="710" stroke="#d1d5db" stroke-width="1"/>
+  <g font-family="'Hiragino Sans','Noto Sans JP',sans-serif" font-size="12.5" fill="#6b7280">
+    <text x="50" y="734">※受付期間は4月1日〜12月28日。工事着手予定日の40日以上前に申請が必要で、交付の可否が決まるまで40日程度かかります。</text>
+    <text x="50" y="756">※令和9年2月26日までに解体工事の完了報告、令和9年4月30日までに補助金の請求を行わないと補助を受けられません。</text>
+    <text x="50" y="778">※予算の状況により受付期間中でも受付を停止・終了することがあります。最新の条件は大阪市の受付窓口でご確認ください。</text>
+  </g>
+  <text x="50" y="808" font-family="'Hiragino Sans','Noto Sans JP',sans-serif" font-size="12" fill="#9ca3af">出典: 大阪市「狭あい道路沿道老朽住宅除却促進制度」および同補助金交付要綱 別表1〜2（2026年4月1日更新）／作図: 空き家のミカタ編集部</text>
+</svg>

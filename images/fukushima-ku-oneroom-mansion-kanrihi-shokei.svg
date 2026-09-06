@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 470" width="900" height="470" role="img" aria-label="滞納した管理費・修繕積立金が買主に引き継がれる仕組みと、買取価格への反映を示した図">
+  <rect width="900" height="470" fill="#f7f9fc"/>
+  <text x="450" y="38" text-anchor="middle" font-family="Hiragino Sans, Noto Sans JP, sans-serif" font-size="21" font-weight="bold" fill="#12263f">滞納した管理費・修繕積立金は、売っても消えません（区分所有法7条・8条）</text>
+
+  <!-- 売主 -->
+  <rect x="40" y="80" width="240" height="150" rx="10" fill="#ffffff" stroke="#1a56db" stroke-width="2"/>
+  <text x="160" y="110" text-anchor="middle" font-family="Hiragino Sans, Noto Sans JP, sans-serif" font-size="17" font-weight="bold" fill="#1a56db">売主（今の区分所有者）</text>
+  <text x="160" y="142" text-anchor="middle" font-family="Hiragino Sans, Noto Sans JP, sans-serif" font-size="15" fill="#12263f">管理費＋修繕積立金</text>
+  <text x="160" y="168" text-anchor="middle" font-family="Hiragino Sans, Noto Sans JP, sans-serif" font-size="15" fill="#12263f">月12,000円を24か月滞納</text>
+  <text x="160" y="202" text-anchor="middle" font-family="Hiragino Sans, Noto Sans JP, sans-serif" font-size="19" font-weight="bold" fill="#c81e1e">滞納額 288,000円</text>
+
+  <!-- 矢印 -->
+  <line x1="285" y1="155" x2="345" y2="155" stroke="#8a94a6" stroke-width="3"/>
+  <polygon points="345,148 362,155 345,162" fill="#8a94a6"/>
+  <text x="323" y="140" text-anchor="middle" font-family="Hiragino Sans, Noto Sans JP, sans-serif" font-size="14" fill="#4a5568">売買</text>
+
+  <!-- 買主 -->
+  <rect x="368" y="80" width="240" height="150" rx="10" fill="#ffffff" stroke="#c81e1e" stroke-width="2"/>
+  <text x="488" y="110" text-anchor="middle" font-family="Hiragino Sans, Noto Sans JP, sans-serif" font-size="17" font-weight="bold" fill="#c81e1e">買主（特定承継人）</text>
+  <text x="488" y="142" text-anchor="middle" font-family="Hiragino Sans, Noto Sans JP, sans-serif" font-size="15" fill="#12263f">管理組合は買主にも</text>
+  <text x="488" y="168" text-anchor="middle" font-family="Hiragino Sans, Noto Sans JP, sans-serif" font-size="15" fill="#12263f">滞納分を請求できます</text>
+  <text x="488" y="202" text-anchor="middle" font-family="Hiragino Sans, Noto Sans JP, sans-serif" font-size="19" font-weight="bold" fill="#c81e1e">288,000円を負担</text>
+
+  <!-- 管理組合 -->
+  <rect x="660" y="80" width="200" height="150" rx="10" fill="#eef2ff" stroke="#4c51bf" stroke-width="2"/>
+  <text x="760" y="118" text-anchor="middle" font-family="Hiragino Sans, Noto Sans JP, sans-serif" font-size="17" font-weight="bold" fill="#4c51bf">管理組合</text>
+  <text x="760" y="150" text-anchor="middle" font-family="Hiragino Sans, Noto Sans JP, sans-serif" font-size="14" fill="#12263f">売主・買主のどちらにも</text>
+  <text x="760" y="172" text-anchor="middle" font-family="Hiragino Sans, Noto Sans JP, sans-serif" font-size="14" fill="#12263f">請求できます</text>
+  <text x="760" y="202" text-anchor="middle" font-family="Hiragino Sans, Noto Sans JP, sans-serif" font-size="14" fill="#4c51bf">先取特権あり（7条）</text>
+  <line x1="655" y1="155" x2="614" y2="155" stroke="#4c51bf" stroke-width="3"/>
+  <polygon points="614,148 597,155 614,162" fill="#4c51bf"/>
+
+  <!-- 下段：価格への反映 -->
+  <rect x="40" y="266" width="820" height="170" rx="10" fill="#ffffff" stroke="#8a94a6" stroke-width="2"/>
+  <text x="60" y="298" font-family="Hiragino Sans, Noto Sans JP, sans-serif" font-size="18" font-weight="bold" fill="#12263f">だから買取の査定では、滞納額がそのまま価格から引かれます</text>
+
+  <text x="60" y="336" font-family="Hiragino Sans, Noto Sans JP, sans-serif" font-size="15" fill="#12263f">評価額（滞納がない場合）</text>
+  <text x="470" y="336" text-anchor="end" font-family="Hiragino Sans, Noto Sans JP, sans-serif" font-size="15" fill="#12263f">6,000,000円</text>
+
+  <text x="60" y="366" font-family="Hiragino Sans, Noto Sans JP, sans-serif" font-size="15" fill="#c81e1e">− 承継する滞納管理費・修繕積立金</text>
+  <text x="470" y="366" text-anchor="end" font-family="Hiragino Sans, Noto Sans JP, sans-serif" font-size="15" fill="#c81e1e">288,000円</text>
+
+  <text x="60" y="396" font-family="Hiragino Sans, Noto Sans JP, sans-serif" font-size="15" fill="#c81e1e">− 遅延損害金・回収に要する費用の見込み</text>
+  <text x="470" y="396" text-anchor="end" font-family="Hiragino Sans, Noto Sans JP, sans-serif" font-size="15" fill="#c81e1e">規約による</text>
+
+  <line x1="60" y1="408" x2="470" y2="408" stroke="#12263f" stroke-width="1.5"/>
+  <text x="60" y="428" font-family="Hiragino Sans, Noto Sans JP, sans-serif" font-size="16" font-weight="bold" fill="#12263f">提示できる買取価格</text>
+  <text x="470" y="428" text-anchor="end" font-family="Hiragino Sans, Noto Sans JP, sans-serif" font-size="16" font-weight="bold" fill="#12263f">5,712,000円 −α</text>
+
+  <rect x="505" y="316" width="335" height="106" rx="8" fill="#fff8e6" stroke="#d69e2e" stroke-width="1.5"/>
+  <text x="522" y="342" font-family="Hiragino Sans, Noto Sans JP, sans-serif" font-size="14" font-weight="bold" fill="#8a6d1a">先に管理会社へ残高を照会してください</text>
+  <text x="522" y="366" font-family="Hiragino Sans, Noto Sans JP, sans-serif" font-size="13" fill="#5c4a12">滞納額がわからないまま査定を受けると、</text>
+  <text x="522" y="386" font-family="Hiragino Sans, Noto Sans JP, sans-serif" font-size="13" fill="#5c4a12">契約後に金額が動きます。金額は数値例で、</text>
+  <text x="522" y="406" font-family="Hiragino Sans, Noto Sans JP, sans-serif" font-size="13" fill="#5c4a12">実際の管理費・積立金は物件ごとに違います。</text>
+</svg>

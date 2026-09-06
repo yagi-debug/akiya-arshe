@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" width="900" height="600" role="img">
+<rect width="900" height="600" fill="#ffffff"/>
+<text x="30" y="42" font-family="Hiragino Sans, Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="24" font-weight="bold" fill="#16202a">年内決済から逆算した所要日数の目安</text>
+<text x="30" y="70" font-family="Hiragino Sans, Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="14" fill="#5a6b76">相続した空き家を12月31日までに決済するには、いつ動き出す必要があるか（当社の実務での目安）</text>
+<line x1="800.0" y1="95" x2="800.0" y2="470" stroke="#c23b3b" stroke-width="3"/>
+<text x="808.0" y="112" font-family="Hiragino Sans, Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="15" font-weight="bold" fill="#c23b3b">12/31</text>
+<text x="808.0" y="132" font-family="Hiragino Sans, Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="13" fill="#c23b3b">決済期限</text>
+<text x="30" y="168" font-family="Hiragino Sans, Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="17" font-weight="bold" fill="#16202a">仲介で売る場合</text>
+<rect x="140.0" y="182" width="116.0" height="42" fill="#1a5632" />
+<text x="198.0" y="208.0" font-family="Hiragino Sans, Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="14" fill="#ffffff" text-anchor="middle">45日</text>
+<rect x="256.0" y="182" width="54.1" height="42" fill="#2e7d5b" />
+<text x="283.1" y="208.0" font-family="Hiragino Sans, Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="14" fill="#ffffff" text-anchor="middle">21日</text>
+<rect x="310.2" y="182" width="154.7" height="42" fill="#4a9d78" />
+<text x="387.5" y="208.0" font-family="Hiragino Sans, Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="14" fill="#ffffff" text-anchor="middle">60日</text>
+<rect x="464.8" y="182" width="232.0" height="42" fill="#c9a227" />
+<text x="580.9" y="208.0" font-family="Hiragino Sans, Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="14" fill="#ffffff" text-anchor="middle">90日</text>
+<rect x="696.9" y="182" width="103.1" height="42" fill="#c23b3b" />
+<text x="748.4" y="208.0" font-family="Hiragino Sans, Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="14" fill="#ffffff" text-anchor="middle">40日</text>
+<text x="30" y="248" font-family="Hiragino Sans, Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="14" fill="#5a6b76">合計 約256日（およそ8か月半）</text>
+<text x="30" y="270" font-family="Hiragino Sans, Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="13" fill="#c23b3b">→ 逆算すると、動き出しは前年の4月ごろになります</text>
+<text x="30" y="330" font-family="Hiragino Sans, Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="17" font-weight="bold" fill="#16202a">現況のまま買取に出す場合</text>
+<rect x="611.8" y="344" width="116.0" height="42" fill="#1a5632" />
+<text x="669.8" y="370.0" font-family="Hiragino Sans, Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="14" fill="#ffffff" text-anchor="middle">45日</text>
+<rect x="727.8" y="344" width="18.0" height="42" fill="#4a9d78" />
+<rect x="745.9" y="344" width="54.1" height="42" fill="#c23b3b" />
+<text x="772.9" y="370.0" font-family="Hiragino Sans, Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="14" fill="#ffffff" text-anchor="middle">21日</text>
+<text x="30" y="410" font-family="Hiragino Sans, Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="14" fill="#5a6b76">合計 約73日（およそ2か月半）</text>
+<text x="30" y="432" font-family="Hiragino Sans, Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="13" fill="#1a5632">→ 残置物の処分と測量が工程から外れるため、10月中の相談でも年内決済が視野に入ります</text>
+<line x1="30" y1="470" x2="870" y2="470" stroke="#dde4e0" stroke-width="1"/>
+<rect x="30" y="485" width="14" height="14" rx="3" fill="#1a5632"/>
+<text x="52" y="496" font-family="Hiragino Sans, Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="13" fill="#3c4a55">相続登記・必要書類の収集</text>
+<rect x="470" y="485" width="14" height="14" rx="3" fill="#2e7d5b"/>
+<text x="492" y="496" font-family="Hiragino Sans, Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="13" fill="#3c4a55">残置物の処分・清掃</text>
+<rect x="30" y="513" width="14" height="14" rx="3" fill="#4a9d78"/>
+<text x="52" y="524" font-family="Hiragino Sans, Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="13" fill="#3c4a55">測量・境界確定／査定・条件確定</text>
+<rect x="470" y="513" width="14" height="14" rx="3" fill="#c9a227"/>
+<text x="492" y="524" font-family="Hiragino Sans, Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="13" fill="#3c4a55">販売活動（買主探し）</text>
+<rect x="30" y="541" width="14" height="14" rx="3" fill="#c23b3b"/>
+<text x="52" y="552" font-family="Hiragino Sans, Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="13" fill="#3c4a55">契約〜決済・引渡し</text>
+<text x="30" y="584" font-family="Hiragino Sans, Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="12" fill="#8b98a3">※ 日数は物件の状態・相続人の人数・書類の揃い具合により変わります。測量が不要な物件もあります。</text>
+</svg>

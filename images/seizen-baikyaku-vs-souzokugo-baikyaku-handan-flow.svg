@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 760" width="1000" height="760" role="img" aria-label="自宅を生前に売るか相続後に売るかを、相続税の有無・同居の有無・建築年で判定するフロー図">
+  <style>
+    .bg{fill:#f7f9fb}
+    .ttl{font:bold 28px "Hiragino Sans","Noto Sans JP",sans-serif;fill:#12324a}
+    .sub{font:16px "Hiragino Sans","Noto Sans JP",sans-serif;fill:#5b6b78}
+    .q{font:bold 19px "Hiragino Sans","Noto Sans JP",sans-serif;fill:#12324a}
+    .qs{font:15px "Hiragino Sans","Noto Sans JP",sans-serif;fill:#5b6b78}
+    .yn{font:bold 15px "Hiragino Sans","Noto Sans JP",sans-serif;fill:#1a56db}
+    .ansttl{font:bold 18px "Hiragino Sans","Noto Sans JP",sans-serif;fill:#fff}
+    .ans{font:15px "Hiragino Sans","Noto Sans JP",sans-serif;fill:#3c4a55}
+    .note{font:14px "Hiragino Sans","Noto Sans JP",sans-serif;fill:#5b6b78}
+    .qbox{fill:#fff;stroke:#1a56db;stroke-width:2}
+    .abox{fill:#fff;stroke:#d7e0e8;stroke-width:2}
+    .line{stroke:#9db2c2;stroke-width:2;fill:none}
+  </style>
+  <rect class="bg" x="0" y="0" width="1000" height="760"/>
+  <text class="ttl" x="40" y="50">3つの質問で、4つの型のどれかに分かれます</text>
+  <text class="sub" x="40" y="80">先に決めるのは売り方ではなく、ご自身の家がどの型かです。型が決まれば、順番は自動的に決まります。</text>
+
+  <!-- Q1 -->
+  <rect class="qbox" x="40" y="110" width="920" height="80" rx="10"/>
+  <text class="q" x="64" y="145">質問1　財産の合計は「3,000万円＋600万円×相続人の数」を超えますか</text>
+  <text class="qs" x="64" y="172">自宅の評価額（土地は路線価、建物は固定資産税評価額）と預貯金を足した金額で見ます。</text>
+
+  <path class="line" d="M 250 190 L 250 226" marker-end="url(#ar)"/>
+  <path class="line" d="M 750 190 L 750 226" marker-end="url(#ar)"/>
+  <text class="yn" x="262" y="214">いいえ（相続税はかからない）</text>
+  <text class="yn" x="762" y="214">はい（相続税がかかる）</text>
+
+  <!-- Left branch: Q2 -->
+  <rect class="qbox" x="40" y="234" width="440" height="88" rx="10"/>
+  <text class="q" x="64" y="266">質問2　家は昭和56年5月31日</text>
+  <text class="q" x="64" y="292">　　　　以前の建築ですか</text>
+  <text class="qs" x="64" y="313">区分所有のマンションは対象外です。</text>
+
+  <!-- Right branch: Q3 -->
+  <rect class="qbox" x="520" y="234" width="440" height="88" rx="10"/>
+  <text class="q" x="544" y="266">質問3　配偶者か同居の親族が</text>
+  <text class="q" x="544" y="292">　　　　自宅を相続しますか</text>
+  <text class="qs" x="544" y="313">同居していない子だけの場合は「いいえ」です。</text>
+
+  <path class="line" d="M 140 322 L 140 372" marker-end="url(#ar)"/>
+  <path class="line" d="M 380 322 L 380 372" marker-end="url(#ar)"/>
+  <path class="line" d="M 620 322 L 620 372" marker-end="url(#ar)"/>
+  <path class="line" d="M 860 322 L 860 372" marker-end="url(#ar)"/>
+  <text class="yn" x="96" y="348">はい</text>
+  <text class="yn" x="336" y="348">いいえ</text>
+  <text class="yn" x="576" y="348">はい</text>
+  <text class="yn" x="816" y="348">いいえ</text>
+
+  <!-- Answers -->
+  <rect class="abox" x="40" y="380" width="220" height="240" rx="10"/>
+  <rect x="40" y="380" width="220" height="42" rx="10" fill="#2e7d5b"/>
+  <rect x="40" y="410" width="220" height="12" fill="#2e7d5b"/>
+  <text class="ansttl" x="60" y="409">型1　どちらでも近い</text>
+  <text class="ans" x="60" y="452">相続後でも空き家の</text>
+  <text class="ans" x="60" y="474">3,000万円控除が使え</text>
+  <text class="ans" x="60" y="496">る見込みがあります。</text>
+  <text class="ans" x="60" y="526">取壊し費用と、空き家</text>
+  <text class="ans" x="60" y="548">の間の管理の手間を</text>
+  <text class="ans" x="60" y="570">どう見るかで決めます。</text>
+
+  <rect class="abox" x="280" y="380" width="200" height="240" rx="10"/>
+  <rect x="280" y="380" width="200" height="42" rx="10" fill="#1a56db"/>
+  <rect x="280" y="410" width="200" height="12" fill="#1a56db"/>
+  <text class="ansttl" x="300" y="409">型2　生前が有利</text>
+  <text class="ans" x="300" y="452">相続後は控除がなく、</text>
+  <text class="ans" x="300" y="474">利益に20.315％が</text>
+  <text class="ans" x="300" y="496">かかります。</text>
+  <text class="ans" x="300" y="526">親が住んでいるうちに</text>
+  <text class="ans" x="300" y="548">売れば3,000万円控除</text>
+  <text class="ans" x="300" y="570">が使えます。</text>
+
+  <rect class="abox" x="520" y="380" width="200" height="240" rx="10"/>
+  <rect x="520" y="380" width="200" height="42" rx="10" fill="#b4553a"/>
+  <rect x="520" y="410" width="200" height="12" fill="#b4553a"/>
+  <text class="ansttl" x="540" y="409">型3　相続後が有利</text>
+  <text class="ans" x="540" y="452">小規模宅地等の特例で</text>
+  <text class="ans" x="540" y="474">土地330㎡までの評価</text>
+  <text class="ans" x="540" y="496">が80％下がります。</text>
+  <text class="ans" x="540" y="526">売るのは相続税の申告</text>
+  <text class="ans" x="540" y="548">期限より後にすると</text>
+  <text class="ans" x="540" y="570">特例が守られます。</text>
+
+  <rect class="abox" x="740" y="380" width="220" height="240" rx="10"/>
+  <rect x="740" y="380" width="220" height="42" rx="10" fill="#6b5b8a"/>
+  <rect x="740" y="410" width="220" height="12" fill="#6b5b8a"/>
+  <text class="ansttl" x="760" y="409">型4　試算してから</text>
+  <text class="ans" x="760" y="452">小規模宅地等の特例も</text>
+  <text class="ans" x="760" y="474">空き家の控除も使えない</text>
+  <text class="ans" x="760" y="496">おそれがあります。</text>
+  <text class="ans" x="760" y="526">生前の売却益と、相続税</text>
+  <text class="ans" x="760" y="548">の増え方を並べて比べる</text>
+  <text class="ans" x="760" y="570">必要があります。</text>
+
+  <text class="note" x="40" y="662">※ 型1と型2でも、親が住み替える先の費用がかかる場合は、その分を差し引いて比べてください。</text>
+  <text class="note" x="40" y="690">※ 相続人が3人以上の場合、空き家の3,000万円控除は2,000万円に下がります（令和6年1月1日以後の譲渡）。</text>
+  <text class="note" x="40" y="718">※ この図は考え方の順序を示すものです。実際の税額の判定は税理士にご確認ください。</text>
+
+  <defs>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#9db2c2"/>
+    </marker>
+  </defs>
+</svg>

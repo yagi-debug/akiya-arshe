@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 440" width="860" height="440" font-family="'Hiragino Sans','Noto Sans JP',sans-serif" role="img" aria-label="名義変更のあと、近隣が実際に売却に気づくきっかけと時期を示したタイムライン図">
+  <rect width="860" height="440" fill="#f8fafc"/>
+  <text x="430" y="34" text-anchor="middle" font-size="21" font-weight="bold" fill="#0f172a">近隣が「売ったこと」に気づくのは、登記そのものではありません</text>
+  <text x="430" y="60" text-anchor="middle" font-size="14" fill="#475569">登記に自動通知はなく、実際のきっかけは買主が動いたときです</text>
+
+  <line x1="70" y1="150" x2="800" y2="150" stroke="#94a3b8" stroke-width="3"/>
+  <polygon points="800,143 820,150 800,157" fill="#94a3b8"/>
+
+  <g font-size="14">
+    <circle cx="120" cy="150" r="11" fill="#0f172a"/>
+    <text x="120" y="123" text-anchor="middle" font-size="15" font-weight="bold" fill="#0f172a">決済・引渡し</text>
+    <rect x="40" y="176" width="160" height="96" rx="8" fill="#fff" stroke="#cbd5e1"/>
+    <text x="120" y="200" text-anchor="middle" font-weight="bold" fill="#0f172a">同日に所有権移転登記</text>
+    <text x="120" y="224" text-anchor="middle" fill="#475569">近隣への通知は</text>
+    <text x="120" y="246" text-anchor="middle" fill="#475569">ありません</text>
+    <text x="120" y="266" text-anchor="middle" font-size="12" fill="#94a3b8">気づかれる可能性：低</text>
+
+    <circle cx="330" cy="150" r="11" fill="#f59e0b"/>
+    <text x="330" y="123" text-anchor="middle" font-size="15" font-weight="bold" fill="#0f172a">引渡し後 数日〜数週間</text>
+    <rect x="240" y="176" width="180" height="96" rx="8" fill="#fffbeb" stroke="#fcd34d"/>
+    <text x="330" y="200" text-anchor="middle" font-weight="bold" fill="#b45309">残置物の搬出・鍵交換</text>
+    <text x="330" y="224" text-anchor="middle" fill="#78350f">トラックが入るため、</text>
+    <text x="330" y="246" text-anchor="middle" fill="#78350f">向かいの家は気づきます</text>
+    <text x="330" y="266" text-anchor="middle" font-size="12" fill="#a16207">気づかれる可能性：中</text>
+
+    <circle cx="545" cy="150" r="11" fill="#dc2626"/>
+    <text x="545" y="123" text-anchor="middle" font-size="15" font-weight="bold" fill="#0f172a">引渡し後 1〜6か月</text>
+    <rect x="455" y="176" width="180" height="96" rx="8" fill="#fef2f2" stroke="#fecaca"/>
+    <text x="545" y="200" text-anchor="middle" font-weight="bold" fill="#b91c1c">解体・リフォーム工事</text>
+    <text x="545" y="224" text-anchor="middle" fill="#7f1d1d">近隣挨拶と工事看板で、</text>
+    <text x="545" y="246" text-anchor="middle" fill="#7f1d1d">町内に確実に伝わります</text>
+    <text x="545" y="266" text-anchor="middle" font-size="12" fill="#b91c1c">気づかれる可能性：高</text>
+
+    <circle cx="740" cy="150" r="11" fill="#dc2626"/>
+    <text x="740" y="123" text-anchor="middle" font-size="15" font-weight="bold" fill="#0f172a">工事の前後</text>
+    <rect x="655" y="176" width="180" height="96" rx="8" fill="#fef2f2" stroke="#fecaca"/>
+    <text x="745" y="200" text-anchor="middle" font-weight="bold" fill="#b91c1c">境界立会い・私道承諾</text>
+    <text x="745" y="224" text-anchor="middle" fill="#7f1d1d">隣地の方に直接</text>
+    <text x="745" y="246" text-anchor="middle" fill="#7f1d1d">連絡が入ります</text>
+    <text x="745" y="266" text-anchor="middle" font-size="12" fill="#b91c1c">気づかれる可能性：高</text>
+  </g>
+
+  <rect x="40" y="300" width="780" height="112" rx="10" fill="#eff6ff" stroke="#bfdbfe"/>
+  <text x="60" y="328" font-size="16" font-weight="bold" fill="#1e40af">売主が動かせるのは「いつ・誰に・どこまで」だけです</text>
+  <g font-size="14" fill="#1e3a8a">
+    <text x="60" y="356">・登記簿は不動産登記法119条1項で誰でも取得できます。ただし、他人の家の登記をわざわざ取る近隣の方はほとんどいません</text>
+    <text x="60" y="380">・現実の情報源は「工事」と「立会い依頼」です。売却の事実そのものより、買主のその後の行動で伝わります</text>
+    <text x="60" y="404">・長屋の共有壁・私道・ゴミ置き場が絡む物件は、引渡し前に説明の順番を決めておくほうが波風が立ちません</text>
+  </g>
+</svg>

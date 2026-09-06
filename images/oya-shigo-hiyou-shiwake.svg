@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560" width="900" height="560" role="img" aria-label="親の死後にかかった費用を相続税の債務控除・葬式費用・譲渡費用のどこに入るかで仕分けるフロー図">
+<rect width="900" height="560" fill="#ffffff"/>
+<text x="24" y="36" font-family="Hiragino Sans, Yu Gothic, sans-serif" font-size="21" font-weight="bold" fill="#1a2b4c">親の死後に払った費用は、どの「箱」に入るのか</text>
+<text x="24" y="60" font-family="Hiragino Sans, Yu Gothic, sans-serif" font-size="13" fill="#5a6b85">国税庁タックスアンサー No.4126／No.4129／No.3255／No.3252 の区分にもとづく仕分け</text>
+
+<rect x="300" y="80" width="300" height="46" rx="23" fill="#1a2b4c"/>
+<text x="450" y="109" text-anchor="middle" font-family="Hiragino Sans, Yu Gothic, sans-serif" font-size="16" font-weight="bold" fill="#ffffff">払った費用を1つ選ぶ</text>
+<line x1="450" y1="126" x2="450" y2="152" stroke="#8895a8" stroke-width="2"/>
+<polygon points="444,152 456,152 450,164" fill="#8895a8"/>
+
+<rect x="230" y="164" width="440" height="44" rx="6" fill="#f6f8fb" stroke="#8895a8"/>
+<text x="450" y="192" text-anchor="middle" font-family="Hiragino Sans, Yu Gothic, sans-serif" font-size="15" font-weight="bold" fill="#1a2b4c">亡くなった時点で、すでに存在していた債務ですか？</text>
+
+<path d="M230 186 L150 186 L150 250" fill="none" stroke="#2e7d4f" stroke-width="2"/>
+<polygon points="144,250 156,250 150,262" fill="#2e7d4f"/>
+<text x="186" y="178" text-anchor="middle" font-family="Hiragino Sans, Yu Gothic, sans-serif" font-size="14" font-weight="bold" fill="#2e7d4f">はい</text>
+
+<path d="M670 186 L750 186 L750 250" fill="none" stroke="#8895a8" stroke-width="2"/>
+<polygon points="744,250 756,250 750,262" fill="#8895a8"/>
+<text x="714" y="178" text-anchor="middle" font-family="Hiragino Sans, Yu Gothic, sans-serif" font-size="14" font-weight="bold" fill="#5a6b85">いいえ</text>
+
+<rect x="24" y="262" width="252" height="130" rx="8" fill="#eaf7ee" stroke="#2e7d4f" stroke-width="2"/>
+<text x="40" y="288" font-family="Hiragino Sans, Yu Gothic, sans-serif" font-size="15" font-weight="bold" fill="#1f5c39">箱① 相続税の債務控除</text>
+<text x="40" y="310" font-family="Hiragino Sans, Yu Gothic, sans-serif" font-size="12" fill="#2e7d4f">借入金・未払医療費・未払の</text>
+<text x="40" y="328" font-family="Hiragino Sans, Yu Gothic, sans-serif" font-size="12" fill="#2e7d4f">固定資産税や住民税など</text>
+<text x="40" y="352" font-family="Hiragino Sans, Yu Gothic, sans-serif" font-size="12" fill="#5a6b85">※死後に確定する所得税も対象</text>
+<text x="40" y="370" font-family="Hiragino Sans, Yu Gothic, sans-serif" font-size="12" fill="#5a6b85">（延滞税・加算税を除く）</text>
+<text x="40" y="386" font-family="Hiragino Sans, Yu Gothic, sans-serif" font-size="11" fill="#8895a8">出典：No.4126</text>
+
+<rect x="624" y="262" width="252" height="88" rx="8" fill="#f6f8fb" stroke="#8895a8"/>
+<text x="640" y="288" font-family="Hiragino Sans, Yu Gothic, sans-serif" font-size="14" font-weight="bold" fill="#3d4c63">葬式・葬送のための費用？</text>
+<text x="640" y="312" font-family="Hiragino Sans, Yu Gothic, sans-serif" font-size="12" fill="#5a6b85">通夜・火葬・埋葬・読経料・</text>
+<text x="640" y="330" font-family="Hiragino Sans, Yu Gothic, sans-serif" font-size="12" fill="#5a6b85">遺体や遺骨の捜索・運搬</text>
+
+<path d="M624 306 L560 306 L560 380" fill="none" stroke="#2e7d4f" stroke-width="2"/>
+<polygon points="554,380 566,380 560,392" fill="#2e7d4f"/>
+<text x="592" y="298" text-anchor="middle" font-family="Hiragino Sans, Yu Gothic, sans-serif" font-size="13" font-weight="bold" fill="#2e7d4f">はい</text>
+<line x1="750" y1="350" x2="750" y2="392" stroke="#8895a8" stroke-width="2"/>
+<polygon points="744,392 756,392 750,404" fill="#8895a8"/>
+<text x="782" y="376" font-family="Hiragino Sans, Yu Gothic, sans-serif" font-size="13" font-weight="bold" fill="#5a6b85">いいえ</text>
+
+<rect x="300" y="392" width="252" height="106" rx="8" fill="#eaf7ee" stroke="#2e7d4f" stroke-width="2"/>
+<text x="316" y="418" font-family="Hiragino Sans, Yu Gothic, sans-serif" font-size="15" font-weight="bold" fill="#1f5c39">箱② 相続税の葬式費用</text>
+<text x="316" y="440" font-family="Hiragino Sans, Yu Gothic, sans-serif" font-size="12" fill="#2e7d4f">遺産総額から差し引けます</text>
+<text x="316" y="464" font-family="Hiragino Sans, Yu Gothic, sans-serif" font-size="12" fill="#c0392b">×香典返し ×墓石・墓地の購入</text>
+<text x="316" y="481" font-family="Hiragino Sans, Yu Gothic, sans-serif" font-size="12" fill="#c0392b">×初七日など法事の費用</text>
+<text x="316" y="494" font-family="Hiragino Sans, Yu Gothic, sans-serif" font-size="11" fill="#8895a8">出典：No.4129</text>
+
+<rect x="624" y="404" width="252" height="94" rx="8" fill="#eaf2fb" stroke="#3d6fb4" stroke-width="2"/>
+<text x="640" y="428" font-family="Hiragino Sans, Yu Gothic, sans-serif" font-size="15" font-weight="bold" fill="#1c4a86">箱③ 売るときの経費</text>
+<text x="640" y="450" font-family="Hiragino Sans, Yu Gothic, sans-serif" font-size="12" fill="#3d6fb4">仲介手数料・売主負担の印紙税・</text>
+<text x="640" y="468" font-family="Hiragino Sans, Yu Gothic, sans-serif" font-size="12" fill="#3d6fb4">土地を売るための建物取壊し費用</text>
+<text x="640" y="490" font-family="Hiragino Sans, Yu Gothic, sans-serif" font-size="11" fill="#8895a8">出典：No.3255／No.3252</text>
+
+<rect x="24" y="412" width="252" height="86" rx="8" fill="#fdeeee" stroke="#c0392b" stroke-width="2"/>
+<text x="40" y="436" font-family="Hiragino Sans, Yu Gothic, sans-serif" font-size="15" font-weight="bold" fill="#a02b1f">どの箱にも入らない費用</text>
+<text x="40" y="458" font-family="Hiragino Sans, Yu Gothic, sans-serif" font-size="12" fill="#c0392b">特殊清掃費・遺品整理費・</text>
+<text x="40" y="476" font-family="Hiragino Sans, Yu Gothic, sans-serif" font-size="12" fill="#c0392b">保有中の修繕費や固定資産税</text>
+<text x="40" y="492" font-family="Hiragino Sans, Yu Gothic, sans-serif" font-size="11" fill="#8895a8">※個別判断になるものは本文参照</text>
+
+<line x1="150" y1="392" x2="150" y2="412" stroke="#c0392b" stroke-width="2" stroke-dasharray="4 3"/>
+
+<rect x="24" y="516" width="852" height="34" rx="6" fill="#fff8e1" stroke="#e0a800"/>
+<text x="40" y="538" font-family="Hiragino Sans, Yu Gothic, sans-serif" font-size="13" fill="#6b5400">最終的な適用の可否は個別の事情で変わります。金額が大きいときは、申告前に税理士へご確認ください。</text>
+</svg>
