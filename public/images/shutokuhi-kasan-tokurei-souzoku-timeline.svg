@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 420" width="1000" height="420" role="img" aria-label="相続開始から取得費加算の特例が使える期限までのタイムライン図">
+  <rect width="1000" height="420" fill="#f8fafc"/>
+  <text x="500" y="42" text-anchor="middle" font-family="'Hiragino Sans','Noto Sans JP',sans-serif" font-size="24" font-weight="bold" fill="#0f172a">取得費加算の特例が使える期間（相続開始から約3年10か月）</text>
+
+  <!-- base line -->
+  <line x1="80" y1="200" x2="920" y2="200" stroke="#cbd5e1" stroke-width="6" stroke-linecap="round"/>
+  <!-- usable range -->
+  <rect x="80" y="188" width="760" height="24" rx="12" fill="#1a56db" opacity="0.85"/>
+  <!-- after deadline -->
+  <rect x="840" y="188" width="80" height="24" rx="12" fill="#e2e8f0"/>
+
+  <!-- markers -->
+  <g font-family="'Hiragino Sans','Noto Sans JP',sans-serif">
+    <!-- 1 相続開始 -->
+    <circle cx="80" cy="200" r="14" fill="#0f172a"/>
+    <text x="80" y="150" text-anchor="middle" font-size="19" font-weight="bold" fill="#0f172a">相続開始</text>
+    <text x="80" y="174" text-anchor="middle" font-size="15" fill="#475569">（亡くなった日）</text>
+    <text x="80" y="252" text-anchor="middle" font-size="15" fill="#475569">0か月</text>
+
+    <!-- 2 相続税の申告期限 -->
+    <circle cx="280" cy="200" r="14" fill="#0f172a"/>
+    <text x="280" y="150" text-anchor="middle" font-size="19" font-weight="bold" fill="#0f172a">相続税の申告期限</text>
+    <text x="280" y="174" text-anchor="middle" font-size="15" fill="#475569">（知った日の翌日から10か月）</text>
+    <text x="280" y="252" text-anchor="middle" font-size="15" fill="#475569">10か月</text>
+
+    <!-- 3 空き家特例の期限 -->
+    <circle cx="620" cy="200" r="14" fill="#b45309"/>
+    <text x="620" y="150" text-anchor="middle" font-size="19" font-weight="bold" fill="#b45309">空き家特例の期限</text>
+    <text x="620" y="174" text-anchor="middle" font-size="15" fill="#92400e">相続開始から3年を経過する日の属する年の12月31日</text>
+    <text x="620" y="252" text-anchor="middle" font-size="15" fill="#92400e">3年＋年末まで</text>
+
+    <!-- 4 取得費加算の期限 -->
+    <circle cx="840" cy="200" r="16" fill="#dc2626"/>
+    <text x="840" y="150" text-anchor="middle" font-size="20" font-weight="bold" fill="#dc2626">取得費加算の期限</text>
+    <text x="840" y="174" text-anchor="middle" font-size="15" fill="#b91c1c">申告期限の翌日以後3年を経過する日</text>
+    <text x="840" y="252" text-anchor="middle" font-size="16" font-weight="bold" fill="#b91c1c">約3年10か月</text>
+  </g>
+
+  <!-- range label -->
+  <g font-family="'Hiragino Sans','Noto Sans JP',sans-serif">
+    <text x="460" y="304" text-anchor="middle" font-size="18" font-weight="bold" fill="#1a56db">この期間内に「引渡し（譲渡）」まで終わっていれば使えます</text>
+    <text x="500" y="340" text-anchor="middle" font-size="16" fill="#475569">例：2026年1月6日に亡くなった場合 → 申告期限は2026年11月6日 → 取得費加算の期限は2029年11月6日</text>
+    <text x="500" y="372" text-anchor="middle" font-size="15" fill="#64748b">※取得費加算と空き家の3,000万円特別控除は、同じ物件について選択制です（どちらか一方）</text>
+    <text x="500" y="400" text-anchor="middle" font-size="13" fill="#94a3b8">出典：国税庁 No.3267／No.3306／No.4205　作成：空き家のミカタ（合同会社アルシェ）</text>
+  </g>
+</svg>
