@@ -17,6 +17,7 @@ faqs:
     answer: "売却前に「3,000万円特別控除（相続空き家特例）」や「取得費加算の特例」を使って課税所得を圧縮することが有効です。課税所得が下がれば保険料の算定基準も下がります。詳細は税理士にご相談ください。"
   - question: "売却を急いだほうが保険料への影響は少なくなりますか？"
     answer: "保険料への影響が出るのは必ず「売却した翌年」の1年間です。売却を数年に分けて行うわけにはいかないので、影響を減らすには「売却前に課税所得を下げる特例を最大活用すること」が重要です。"
+updatedDate: "2026-09-07"
 ---
 
 <img src="/images/souzoku-fudosan-baikyaku-kokuho-kaigo-kyuzo-hero.jpg" alt="不動産売却後の書類確認シーン　相続不動産売却後の手続きイメージ" width="1260" height="750" style="width:100%;height:auto;border-radius:8px;margin-bottom:1.5rem;" />
@@ -204,7 +205,7 @@ faqs:
   <ul style="margin:0;padding-left:1.2rem;">
     <li>宅建業免許：大阪府知事(1)第65646号</li>
     <li>再建築不可・事故物件・共有持分・相続アパートも対応</li>
-    <li>全国対応・仲介手数料なし・現況買取</li>
+    <li>大阪・近畿対応・仲介手数料なし・現況買取</li>
   </ul>
   <p style="margin-top:1rem;margin-bottom:0;">
     <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06c755;color:#fff;padding:0.7rem 1.8rem;border-radius:5px;text-decoration:none;font-weight:bold;margin-right:1rem;">LINEで無料相談</a>

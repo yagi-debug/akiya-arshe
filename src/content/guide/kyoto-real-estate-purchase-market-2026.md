@@ -1,4 +1,5 @@
 ---
+serviceAreaClosed: "京都市"
 noindex: true
 title: "京都市の不動産買取相場（2026年版）｜町家・再建築不可・相続物件の売却事情"
 description: "京都市で訳あり物件・空き家・相続不動産の売却をお考えの方へ。2026年版の買取相場データ、京町家・再建築不可・相続アパート・共有持分の買取事情を宅建業者が解説。仲介手数料なし・最短3日で現金化。"
@@ -25,6 +26,7 @@ howToSteps:
     text: "弊社の提携ネットワークが現地を確認し、通常1〜3営業日以内に買取価格をご提示します。価格に納得いただけた場合のみ次のステップに進みます。"
   - name: "売買契約・決済・引き渡し"
     text: "契約は郵送・オンライン対応が可能です。最短3日〜数週間で現金振込が完了します。現地に来ていただく必要はありません。"
+updatedDate: "2026-09-07"
 ---
 
 <img src="/images/kyoto-real-estate-purchase-market-2026-hero.jpg" alt="京都市の伝統的な街並み　町家が並ぶ路地　不動産買取相場2026年版" width="1200" height="800" style="width:100%;height:auto;border-radius:8px;margin-bottom:1.5rem;" />

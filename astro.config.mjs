@@ -1,4 +1,5 @@
 // @ts-check
+import { SERVICE_PREFECTURES } from './src/data/service-area.mjs';
 import { defineConfig } from 'astro/config';
 import tailwindcss from '@tailwindcss/vite';
 import sitemap from '@astrojs/sitemap';
@@ -23,7 +24,7 @@ for (const coll of ['guide', 'area']) {
               fm[1].match(/publishDate:\s*["']?(\d{4}-\d{2}-\d{2})/);
     const pathname = `/${coll}/${f.replace(/\.md$/, '')}/`;
     if (m) lastmodMap[pathname] = m[1];
-    if (/^noindex:\s*true/m.test(fm[1])) noindexPaths.add(pathname);
+    if (/^noindex:\s*true/m.test(fm[1]) || (coll === 'area' && !SERVICE_PREFECTURES.includes((fm[1].match(/^prefecture:\s*["']?([^\n"']+)/m)?.[1] || '').trim()))) noindexPaths.add(pathname);
   }
 }
 

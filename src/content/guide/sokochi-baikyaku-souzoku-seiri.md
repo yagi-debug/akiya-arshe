@@ -42,6 +42,8 @@ howToSteps:
 
 ## 目次
 
+![目次のイラスト - 空き家のミカタ](/images/sokochi-baikyaku-souzoku-seiri-h2-1.jpg)
+
 1. [底地売却と相続の整理は、着手する順番で手残りが変わります](#order)
 2. [底地とは｜相続してはじめて登記簿で知る人がほとんどです](#what)
 3. [相続した底地を持ち続ける5つのデメリット](#demerit)
@@ -268,6 +270,8 @@ A. 譲渡所得として課税されます。取得費が分からない場合�
 
 ## 関連記事
 
+![関連記事のイラスト - 空き家のミカタ](/images/sokochi-baikyaku-souzoku-seiri-h2-2.jpg)
+
 - <a href="/guide/sokochi-souzoku-baikyaku">相続した底地を手放したい｜処分・売却の4つの方法をわかりやすく解説</a>
 - <a href="/guide/sokochi-kaitori">底地の買取｜借地権付き土地を手放す方法を宅建業者が解説</a>
 - <a href="/guide/shakuchiken-tatemono-baikyaku">借地権付き建物の売却方法｜地主の承諾から買取まで</a>
@@ -280,6 +284,8 @@ A. 譲渡所得として課税されます。取得費が分からない場合�
 - <a href="/guide/inheritance-sale-timeline">相続不動産の売却スケジュール</a>
 
 ## 出典（2026年9月7日確認）
+
+![出典（2026年9月7日確認）のイラスト - 空き家のミカタ](/images/sokochi-baikyaku-souzoku-seiri-h2-3.jpg)
 
 - 借地借家法（存続期間＝第3条／更新後の期間＝第4条／更新請求＝第5条／更新拒絶の要件＝第6条／強行規定＝第9条／対抗力＝第10条／地代等増減請求権＝第11条／建物買取請求権＝第13条／賃借権の譲渡・転貸の許可＝第19条／建物競売等の場合の許可＝第20条／定期借地権＝第22条／更新に関する経過措置＝附則第6条）<br />https://laws.e-gov.go.jp/law/403AC0000000090
 - 地方税法（住宅用地に対する固定資産税の課税標準の特例＝第349条の3の2）<br />https://laws.e-gov.go.jp/law/325AC0000000226

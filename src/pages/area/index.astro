@@ -2,6 +2,7 @@
 import { getCollection } from 'astro:content';
 import PageHero from "../../components/PageHero.astro";
 import BaseLayout from '../../layouts/BaseLayout.astro';
+import { SERVICE_PREFECTURES } from "../../data/service-area.mjs";
 import Breadcrumb from '../../components/Breadcrumb.astro';
 
 const breadcrumbs = [
@@ -9,7 +10,7 @@ const breadcrumbs = [
   { name: 'エリア相場', url: '/area' },
 ];
 
-const areas = await getCollection('area', ({ data }) => !data.noindex);
+const areas = await getCollection('area', ({ data }) => data.prefecture === '大阪府' && !data.noindex);
 
 // エリア名で相場の高い順にソート
 const sortedAreas = areas.sort((a, b) =>
@@ -20,20 +21,41 @@ const formatPrice = (price: number) => `${(price / 10000).toFixed(0)}万円`;
 ---
 
 <BaseLayout
-  title="全国エリア別 不動産売却相場｜宅建業者が解説"
-  description="全国の主要エリア別に不動産売却相場をまとめました。大阪・福岡・名古屋・横浜・さいたま等のマンション・一戸建て・土地の最新相場データ。"
+  title="大阪の不動産買取｜近畿の対応エリア・地域別相場"
+  description="大阪市・堺市・北摂・河内・泉州など、大阪府全域の空き家・相続物件・訳あり不動産の買取に対応。兵庫・京都・奈良・滋賀・和歌山のご相談も受け付けています。"
   breadcrumbs={breadcrumbs}
 >
   <PageHero
     label="対応物件・エリア"
-    title="全国エリア別 不動産売却相場"
-    sub="全国の主要エリアの不動産相場を宅建業者が解説。売却の参考にしてください。"
+    title="大阪を中心に近畿対応・不動産買取エリア"
+    sub="大阪・兵庫・京都・奈良・滋賀・和歌山の物件のご相談を受け付けています。買取の可否・条件は所在地と状況を確認してご案内します。"
     image="/images/site/hero.webp"
   />
   <section class="px-4 py-12 md:py-16">
     <div class="mx-auto max-w-4xl">
 
 
+      <div class="mb-10 rounded-xl border border-accent/30 bg-accent/5 p-6">
+        <h2 class="mb-4 text-xl font-bold text-primary">大阪府内の43市町村に対応</h2>
+        <dl class="space-y-4 text-sm leading-relaxed">
+          <div><dt class="font-bold text-primary">大阪市・堺市</dt><dd><a href="/osaka/" class="underline">大阪市全24区</a>・堺市全7区</dd></div>
+          <div><dt class="font-bold text-primary">北摂（豊能・三島）</dt><dd>豊中市・池田市・箕面市・豊能町・能勢町・吹田市・高槻市・茨木市・摂津市・島本町</dd></div>
+          <div><dt class="font-bold text-primary">北河内・中河内</dt><dd>守口市・枚方市・寝屋川市・大東市・門真市・四條畷市・交野市・八尾市・柏原市・東大阪市</dd></div>
+          <div><dt class="font-bold text-primary">南河内</dt><dd>富田林市・河内長野市・松原市・羽曳野市・藤井寺市・大阪狭山市・太子町・河南町・千早赤阪村</dd></div>
+          <div><dt class="font-bold text-primary">泉州（堺市以外）</dt><dd>泉大津市・和泉市・高石市・忠岡町・岸和田市・貝塚市・泉佐野市・泉南市・阪南市・熊取町・田尻町・岬町</dd></div>
+        </dl>
+        <p class="mt-5 text-sm text-text-light">物件が大阪府内なら、所有者は府外在住でもご相談いただけます。買取の可否・価格は物件ごとの確認後にご案内します。</p>
+        <a href="/contact/" class="mt-5 inline-block rounded-lg bg-primary px-6 py-3 font-bold text-white">大阪府内の物件を無料相談する</a>
+      </div>
+      <section class="mb-10 rounded-xl border border-border bg-white p-6">
+        <h2 class="mb-4 text-xl font-bold text-primary">近畿圏の物件もご相談ください</h2>
+        <p class="mb-4 leading-relaxed">大阪を中心に、{SERVICE_PREFECTURES.join('・')}の物件に対応しています。空き家・相続物件・再建築不可など、所在地と現在の状況をお知らせください。現地確認の方法や買取の可否は、物件ごとにご案内します。</p>
+        <ul class="flex flex-wrap gap-4 text-accent underline">
+          <li><a href="/area/hyogo-pref/">兵庫県</a></li><li><a href="/area/kobe-city/">神戸市</a></li><li><a href="/area/amagasaki-city/">尼崎市</a></li><li><a href="/area/nishinomiya-city/">西宮市</a></li><li><a href="/area/kyoto-city/">京都市</a></li><li><a href="/area/nara-city/">奈良市</a></li><li><a href="/area/wakayama-pref/">和歌山県</a></li>
+        </ul>
+        <a href="/contact/" class="mt-5 inline-block rounded-lg bg-primary px-6 py-3 font-bold text-white">大阪・近畿の物件を無料相談する</a>
+      </section>
+      <h2 class="mb-4 text-xl font-bold text-primary">大阪の地域別相場・売却ガイド</h2>
       <!-- 相場比較表 -->
       <div class="mb-10 overflow-hidden rounded-xl border border-border bg-white shadow-sm">
         <table class="w-full text-sm">
@@ -100,7 +122,7 @@ const formatPrice = (price: number) => `${(price / 10000).toFixed(0)}万円`;
       <!-- 対応エリア説明 -->
       <div class="mt-8 text-center">
         <p class="text-sm text-text-light">
-          上記以外のエリアも対応しています。全国どこでも訳あり不動産の買取が可能です。お気軽にご相談ください。
+          大阪・兵庫・京都・奈良・滋賀・和歌山であれば、個別ページがない市町村もご相談いただけます。買取の可否は個別に確認します。
         </p>
       </div>
     </div>

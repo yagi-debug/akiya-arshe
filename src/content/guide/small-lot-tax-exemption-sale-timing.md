@@ -17,6 +17,7 @@ faqs:
     answer: "小規模宅地等の特例は相続税の評価額を下げる制度ですが、売却時の取得費には影響しません。売却時の取得費は「相続時の時価（路線価等をもとにした評価額）」が基準になります。ただし、相続税申告書に記載された相続税評価額を取得費とすることもでき、税理士への確認をお勧めします。"
   - question: "3,000万円特別控除（相続空き家特例）と小規模宅地等の特例は同時に使えますか？"
     answer: "原則として、同じ土地・建物について両方を重複して使うことはできません。小規模宅地等の特例は相続税の軽減、3,000万円特別控除（措置法35条3項）は売却時の譲渡所得税の軽減です。どちらが有利かは個別状況（土地の評価額・売却価格・相続税率）によって異なるため、税理士にシミュレーションを依頼することをお勧めします。"
+updatedDate: "2026-09-07"
 ---
 
 <img src="/images/small-lot-tax-exemption-sale-timing-hero.jpg" alt="相続税の書類と電卓　小規模宅地等の特例と売却タイミングのイメージ" width="1260" height="750" style="width:100%;height:auto;border-radius:8px;margin-bottom:1.5rem;" />
@@ -178,7 +179,7 @@ faqs:
 
 - 再建築不可の土地、旧耐震のアパート、共有持分の土地でも対応
 - 現況のまま、解体・修繕なしで買取OK
-- 全国対応・最短2〜4週間でお手元に現金
+- 大阪・近畿対応・最短2〜4週間でお手元に現金
 
 <strong>小規模宅地等の特例の申告期限を待ってから売却する流れもサポートします。</strong>「10ヶ月後に売りたいが、今のうちから動きたい」という方もお気軽にご相談ください。
 
@@ -209,7 +210,7 @@ faqs:
   <ul style="margin:0;padding-left:1.2rem;">
     <li>宅建業免許：大阪府知事(1)第65646号</li>
     <li>再建築不可・事故物件・共有持分・相続アパートも対応</li>
-    <li>全国対応・仲介手数料なし・現況買取</li>
+    <li>大阪・近畿対応・仲介手数料なし・現況買取</li>
   </ul>
   <p style="margin-top:1rem;margin-bottom:0;">
     <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06c755;color:#fff;padding:0.7rem 1.8rem;border-radius:5px;text-decoration:none;font-weight:bold;margin-right:1rem;">LINEで無料相談</a>

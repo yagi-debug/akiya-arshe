@@ -25,7 +25,7 @@ const LINE_URL = "https://line.arshe1719.workers.dev/auth/line?ref=hp";
     <div class="mb-8 grid gap-3 sm:grid-cols-3">
       {[
         { num: "1", title: "友だち追加", desc: "下のボタンを押すだけ。登録情報の入力は不要です" },
-        { num: "2", title: "状況を送る", desc: "物件の場所と状況を、わかる範囲で送ってください。写真があればより正確です" },
+        { num: "2", title: "状況を送る", desc: "大阪・近畿の物件の場所と状況を、わかる範囲で送ってください。写真があればより正確です" },
         { num: "3", title: "代表が返信", desc: "買取できるか・いくらくらいかを、代表の八木が原則24時間以内にお答えします" },
       ].map((step) => (
         <div class="rounded-2xl border border-white/10 bg-white/10 p-5 text-center backdrop-blur-sm">
@@ -107,7 +107,7 @@ const LINE_URL = "https://line.arshe1719.workers.dev/auth/line?ref=hp";
 
       <!-- 安心メッセージ -->
       <div class="mt-6 flex flex-wrap items-center justify-center gap-4 text-xs text-white/70 md:text-sm">
-        {["相談・査定 無料", "秘密厳守", "全国対応", "しつこい勧誘なし"].map((label) => (
+        {["相談・査定 無料", "秘密厳守", "大阪・近畿対応", "しつこい勧誘なし"].map((label) => (
           <span class="flex items-center gap-1">
             <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 text-accent" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
               <path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7" />

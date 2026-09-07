@@ -1,0 +1,74 @@
+---
+import PageHero from "../../components/PageHero.astro";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+
+const breadcrumbs = [
+  { name: "ホーム", url: "/" },
+  { name: "よくある質問", url: "/faq" },
+  { name: "鶴見区の家売却", url: "/faq/tsurumi-ku-ie-uru" },
+];
+
+const question = "大阪市鶴見区で家を売りたいのですが、買取してもらえますか？";
+const answer =
+  "はい、対応できます。鶴見区の一戸建て相場は坪単価120〜180万円が目安で、鶴見緑地周辺は高値安定の傾向があります。相続した空き家・老朽化した一戸建てなど、仲介で売りにくい物件も現況のまま仲介手数料0円で直接買取しています。";
+
+const qaSchema = {
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": question,
+    "text": question,
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": answer,
+      "url": "https://akiya.arshe-corp.com/faq/tsurumi-ku-ie-uru/",
+    },
+  },
+};
+---
+
+<BaseLayout
+  title="鶴見区の家（一戸建て）を売りたい｜坪単価120〜180万円の目安・直接買取"
+  description="大阪市鶴見区の一戸建て売却・買取について、相場目安と直接買取の流れを宅建業者が解説します。"
+  schema={qaSchema}
+  breadcrumbs={breadcrumbs}
+>
+  <PageHero label="よくある質問" title={question} />
+  <section class="px-4 py-12 md:py-16">
+    <div class="mx-auto max-w-2xl">
+      <div class="mb-8 rounded-2xl border border-accent/30 bg-accent-soft/40 p-5 text-sm leading-relaxed text-primary">
+        <p class="font-bold">結論: 鶴見区の一戸建ては坪単価120〜180万円が相場目安で、現況のまま直接買取に対応しています。</p>
+        <p class="mt-1">築年数・接道状況・権利関係によって価格は変わるため、正確な金額は無料査定でご確認ください。</p>
+      </div>
+
+      <div class="mb-8 rounded-2xl border border-border bg-white p-6 shadow-[var(--shadow-soft)]">
+        <p class="mb-2 flex items-start gap-2 font-bold text-primary">
+          <span class="flex h-6 w-6 shrink-0 items-center justify-center rounded-full bg-accent-soft text-xs font-black text-accent">Q</span>
+          {question}
+        </p>
+        <p class="pl-8 text-text-light" set:html={answer} />
+      </div>
+
+      <div class="space-y-4 text-sm leading-relaxed text-text-light">
+        <p>大阪市鶴見区は鶴見緑地・横堤駅周辺を中心に住宅地が広がるエリアです。一戸建ての相場は坪単価120〜180万円が目安で、鶴見緑地周辺の住宅地は高値安定の傾向があります。住宅地の土地は坪単価115〜185万円（2026年公示地価では横堤5丁目が約48万円/m2）、マンションは約32万円/m2（鶴見緑地・横堤駅周辺は約35万円/m2）が目安です。</p>
+        <p>親から相続した一戸建てをそのまま維持できない、リフォーム費用をかけずに売りたい、再建築不可の土地で仲介では断られた、といったご相談にも対応しています。当社は現況のまま直接買取するため、仲介手数料はかからず、最短3日で査定結果をお伝えします。</p>
+        <p>空き家のまま放置すると固定資産税が最大6倍になるリスクもあるため、活用予定がない場合は早めのご相談をおすすめします。</p>
+      </div>
+
+      <div class="mt-10 rounded-2xl border border-border bg-bg p-5 text-sm">
+        <p class="mb-2 font-bold text-primary">あわせて読みたい</p>
+        <ul class="list-inside list-disc space-y-1 text-accent">
+          <li><a href="/area/osaka-tsurumi" class="underline">鶴見区の不動産買取相場を見る</a></li>
+          <li><a href="/guide/vacancy-tax-6times" class="underline">空き家の固定資産税6倍リスクを確認する</a></li>
+          <li><a href="/faq" class="underline">よくある質問一覧に戻る</a></li>
+        </ul>
+      </div>
+
+      <p class="mt-8 text-center text-xs text-text-light">
+        執筆・監修: 八木宏樹（合同会社アルシェ代表）／合同会社アルシェ（宅建業免許: 大阪府知事(1)第65646号）
+      </p>
+    </div>
+  </section>
+</BaseLayout>

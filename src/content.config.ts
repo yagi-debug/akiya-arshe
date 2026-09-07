@@ -23,6 +23,7 @@ const guide = defineCollection({
     cluster: z.enum(['inheritance', 'non-rebuildable', 'shared-ownership', 'akiya-tax', 'accident', 'wakeari']).catch(undefined).optional(),
     isPillar: z.boolean().catch(undefined).optional(),
     noindex: z.boolean().optional(),
+    serviceAreaClosed: z.string().optional(),
   }),
 });
 

@@ -1,0 +1,19 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { SERVICE_PREFECTURES } from '../data/service-area.mjs';
+const { region } = Astro.props;
+---
+<BaseLayout title={`${region}の空き家・訳あり不動産の買取相談｜空き家のミカタ`}
+  description={`${region}の空き家・相続物件・再建築不可などの買取相談を受け付けています。大阪を拠点に近畿対応。所在地と状況を確認し、買取の可否・条件をご案内します。`}
+  noindex={true}>
+  <section class="mx-auto max-w-3xl px-4 py-16">
+    <p class="mb-3 text-sm font-bold text-accent">大阪を中心に近畿対応</p>
+    <h1 class="mb-6 text-2xl font-bold text-primary">{region}の空き家・訳あり不動産の買取相談</h1>
+    <p class="mb-6 leading-relaxed">空き家のミカタは、大阪市を拠点に{region}の物件のご相談を受け付けています。空き家・相続物件・再建築不可・共有持分など、まずは所在地と現在の状況をお聞かせください。</p>
+    <h2 class="mb-3 text-xl font-bold text-primary">ご相談から現地確認まで</h2>
+    <ol class="mb-6 list-decimal space-y-3 pl-6 leading-relaxed"><li>LINEまたはフォームから、物件の所在地・種類・現在の状況をお知らせください。</li><li>担当者が内容を確認し、追加で必要な情報と現地確認の方法をご案内します。</li><li>所在地や建物・権利関係を確認し、買取の可否・条件をお伝えします。</li></ol>
+    <p class="mb-6 leading-relaxed">所有者が遠方にお住まいでもご相談いただけます。査定・相談は無料です。対応地域：{SERVICE_PREFECTURES.join('・')}。</p>
+    <a href="/contact/" class="mb-6 inline-block rounded-lg bg-primary px-6 py-3 font-bold text-white">{region}の物件を無料相談する</a>
+    <p><a href="/area/" class="font-bold text-accent underline">大阪・近畿の対応エリアを見る</a></p>
+  </section>
+</BaseLayout>

@@ -1,0 +1,74 @@
+---
+import PageHero from "../../components/PageHero.astro";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+
+const breadcrumbs = [
+  { name: "ホーム", url: "/" },
+  { name: "よくある質問", url: "/faq" },
+  { name: "浪速区の不動産売却相場", url: "/faq/naniwa-ku-fudosan-baikyaku-souba" },
+];
+
+const question = "大阪市浪速区で不動産を売却する場合、相場はどれくらいですか？";
+const answer =
+  "浪速区は投資用ワンルームマンションの取引が中心のエリアです。マンションは約76万円/m2（中央値約1,500万円）、土地は商業地で坪単価240万円〜、住宅地で坪単価160万円前後が目安です。一戸建ての流通は限定的です。当社は現況のまま仲介手数料0円で直接買取しています。";
+
+const qaSchema = {
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": question,
+    "text": question,
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": answer,
+      "url": "https://akiya.arshe-corp.com/faq/naniwa-ku-fudosan-baikyaku-souba/",
+    },
+  },
+};
+---
+
+<BaseLayout
+  title="浪速区の不動産売却相場は？マンション76万円/m2の目安｜空き家のミカタ"
+  description="大阪市浪速区の不動産売却相場と、訳あり物件・空き家の直接買取について宅建業者が解説します。"
+  schema={qaSchema}
+  breadcrumbs={breadcrumbs}
+>
+  <PageHero label="よくある質問" title={question} />
+  <section class="px-4 py-12 md:py-16">
+    <div class="mx-auto max-w-2xl">
+      <div class="mb-8 rounded-2xl border border-accent/30 bg-accent-soft/40 p-5 text-sm leading-relaxed text-primary">
+        <p class="font-bold">結論: 浪速区はマンション取引が中心で、平均約76万円/m2が相場目安です。</p>
+        <p class="mt-1">物件個別の条件によって価格は変動するため、正確な金額は無料査定でご確認ください。</p>
+      </div>
+
+      <div class="mb-8 rounded-2xl border border-border bg-white p-6 shadow-[var(--shadow-soft)]">
+        <p class="mb-2 flex items-start gap-2 font-bold text-primary">
+          <span class="flex h-6 w-6 shrink-0 items-center justify-center rounded-full bg-accent-soft text-xs font-black text-accent">Q</span>
+          {question}
+        </p>
+        <p class="pl-8 text-text-light" set:html={answer} />
+      </div>
+
+      <div class="space-y-4 text-sm leading-relaxed text-text-light">
+        <p>大阪市浪速区は、なんば・新世界・日本橋を擁する大阪市24区の中で最も面積が小さい区です。なんば駅・大国町駅周辺を中心に投資用ワンルーム・1Kマンションの取引が非常に多く、区内マンション取引の大部分を占めています。</p>
+        <p>相場は物件種別によって幅があります。マンションは約76万円/m2、土地は商業地で坪単価240万円〜（元町・日本橋エリアは坪単価350万円超のケースも）、住宅地（塩草・桜川エリアが中心）で坪単価160万円前後が目安です。一戸建ては商業地・マンション地が大半のため流通が限定的です。</p>
+        <p>相続した空き家や、投資用マンションの共有持分など、仲介では買い手がつきにくい物件も現況のまま直接買取しています。仲介手数料はかからず、最短3日で査定結果をお伝えします。</p>
+      </div>
+
+      <div class="mt-10 rounded-2xl border border-border bg-bg p-5 text-sm">
+        <p class="mb-2 font-bold text-primary">あわせて読みたい</p>
+        <ul class="list-inside list-disc space-y-1 text-accent">
+          <li><a href="/area/osaka-naniwa" class="underline">浪速区の不動産買取相場を見る</a></li>
+          <li><a href="/guide/kaitori-gyosha-erabikata-checkpoints" class="underline">訳あり不動産買取業者を選ぶ5つのチェックポイント</a></li>
+          <li><a href="/faq" class="underline">よくある質問一覧に戻る</a></li>
+        </ul>
+      </div>
+
+      <p class="mt-8 text-center text-xs text-text-light">
+        執筆・監修: 八木宏樹（合同会社アルシェ代表）／合同会社アルシェ（宅建業免許: 大阪府知事(1)第65646号）
+      </p>
+    </div>
+  </section>
+</BaseLayout>

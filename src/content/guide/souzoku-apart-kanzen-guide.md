@@ -1,8 +1,8 @@
 ---
 title: "相続アパートを手放したい方へ｜売却の流れ・税金・失敗しない判断基準を宅建業者が完全解説【2026年最新】"
-description: "相続したアパートをどうする？大阪市・全国対応の宅建業者が手続きの流れ・相続税・譲渡所得税・仲介vs買取比較を完全解説。10ヶ月タイムライン・フローチャート付き。まず読む1ページ。"
+description: "相続したアパートをどうする？大阪・近畿対応の宅建業者が手続きの流れ・相続税・譲渡所得税・仲介vs買取比較を完全解説。10ヶ月タイムライン・フローチャート付き。まず読む1ページ。"
 publishDate: "2026-04-20"
-updatedDate: "2026-08-17"
+updatedDate: "2026-09-07"
 cluster: "inheritance"
 isPillar: true
 author: "八木宏樹（合同会社アルシェ代表）"
@@ -40,7 +40,7 @@ faqs:
 ---
 
 > **TL;DR — 相続アパートを手放したい・管理できない**
-> 処分の流れ: ①相続登記（義務化・3年以内）→②複数業者に査定依頼→③仲介 or 直接買取を選択。築30年超・空室50%以上・遠方管理なら<strong>直接買取（最短2週間・仲介手数料0円）</strong>が現実解。取得費加算の特例（節税）は相続から3年10か月以内が期限。空き家のミカタ（宅建業者・大阪府知事(1)第65646号）が全国対応で直接買取。
+> 処分の流れ: ①相続登記（義務化・3年以内）→②複数業者に査定依頼→③仲介 or 直接買取を選択。築30年超・空室50%以上・遠方管理なら<strong>直接買取（最短2週間・仲介手数料0円）</strong>が現実解。取得費加算の特例（節税）は相続から3年10か月以内が期限。空き家のミカタ（宅建業者・大阪府知事(1)第65646号）が大阪・近畿対応で直接買取。
 
 <img src="/images/souzoku-apart-kanzen-guide-hero.jpg" alt="相続アパートの外観　相続アパートを売りたい人の完全ガイド" width="1200" height="800" style="width:100%;height:auto;border-radius:8px;margin-bottom:1.5rem;" />
 
@@ -315,7 +315,7 @@ A: <strong>①相続登記（義務化済・3年以内）→②複数業者へ�
 
 <details>
 <summary><strong>Q. 相続人が遠方にいますが、手続きはできますか？</strong></summary>
-<p>大丈夫です。全国対応しており、現地調査はこちらで手配します。契約手続きも郵送・オンラインで対応可能です。遠方にいる相続人の方も、来社不要で手続きを進められます。</p>
+<p>大丈夫です。大阪・近畿対応しており、現地調査はこちらで手配します。契約手続きも郵送・オンラインで対応可能です。遠方にいる相続人の方も、来社不要で手続きを進められます。</p>
 </details>
 
 <details>
@@ -433,7 +433,7 @@ A: 築30年以上・空室率50%以上・旧耐震基準・遠方管理のいず
 
 <div style="background:#fff3cd;border:2px solid #f0a500;border-radius:8px;padding:1.5rem;margin:2rem 0;text-align:center;">
   <p style="font-size:1.1rem;font-weight:bold;margin-bottom:1rem;">相続アパートのお悩み、無料でご相談できます</p>
-  <p style="margin-bottom:1rem;">査定・相談は完全無料。仲介手数料なし。全国対応。</p>
+  <p style="margin-bottom:1rem;">査定・相談は完全無料。仲介手数料なし。大阪・近畿対応。</p>
   <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06c755;color:white;padding:0.8rem 2rem;border-radius:4px;font-weight:bold;font-size:1.1rem;text-decoration:none;margin-bottom:0.5rem;">LINEで無料相談する</a>
   <p style="margin:0.5rem 0;font-size:0.9rem;">または</p>
   <a href="/contact" style="display:inline-block;background:#1a56db;color:white;padding:0.8rem 2rem;border-radius:4px;font-weight:bold;font-size:1.1rem;text-decoration:none;">お問い合わせフォームへ</a>

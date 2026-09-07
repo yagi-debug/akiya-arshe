@@ -17,6 +17,7 @@ faqs:
   - question: "私道に面した不動産の買取価格はどのくらい下がりますか？"
     answer: "問題の内容によって異なります。通行承諾・掘削承諾が書面で取得済みの場合は市場価格の80〜90%程度、承諾が口頭のみ・または未取得の場合は60〜80%程度が目安です。私道持分なし・通行権争いがある場合はさらに下がることがあります。まず無料査定でご確認ください。"
 cluster: "non-rebuildable"
+updatedDate: "2026-09-07"
 ---
 
 **Q: 私道に面した不動産は売却できますか？**
@@ -190,7 +191,7 @@ A: 売却できます。ただし通行権・掘削承諾・私道持分の問�
 ## 関連するガイド記事
 
 - <a href="/guide/saikenchifu-hub">再建築不可物件 完全ハブ｜売却・買取・価格相場・事例まで全ガイドまとめ【2026年版】</a>
-- <a href="/guide/kenchiku-kijunho-ihan-bukken-baikyaku">建築基準法違反物件を売りたい｜仲介で断られた物件を買取で現金化する方法【全国対応】</a>
+- <a href="/guide/kenchiku-kijunho-ihan-bukken-baikyaku">建築基準法違反物件を売りたい｜仲介で断られた物件を買取で現金化する方法【大阪・近畿対応】</a>
 - <a href="/guide/ettsukyo-bukken-baikyaku">越境物件を売りたい｜越境の種類・告知義務・解決策と現況買取</a>
 - <a href="/guide/souzoku-fudosan-kyoukaisen-fumei-baikyaku">相続した土地の境界が不明｜境界未確定不動産の売却・買取の全手順</a>
 - <a href="/guide/hatazao-chi-baikyaku">旗竿地を売りたい｜売れにくい理由・価格への影響と買取での解決策</a>
@@ -200,7 +201,7 @@ A: 売却できます。ただし通行権・掘削承諾・私道持分の問�
 私道に面した不動産のご売却は、訳あり不動産の実績がある買取専門業者へご相談ください。
 
 <div style="margin: 2em 0; padding: 1.5em; background: #f0f9ff; border-left: 4px solid #0070f3; border-radius: 4px;">
-  <p><strong>空き家のミカタ｜訳あり不動産の直接買取（全国対応）</strong></p>
+  <p><strong>空き家のミカタ｜訳あり不動産の直接買取（大阪・近畿対応）</strong></p>
   <ul>
     <li>私道・通行権トラブル・掘削承諾未取得など訳あり物件の専門買取</li>
     <li>仲介手数料なし・現況買取・最短2週間で現金化</li>

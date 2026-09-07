@@ -1,4 +1,5 @@
 ---
+import { SERVICE_AREAS_SCHEMA } from "../data/service-area.mjs";
 import Header from "../components/Header.astro";
 import Footer from "../components/Footer.astro";
 import CTA from "../components/CTA.astro";
@@ -16,6 +17,7 @@ interface Props {
   ogImage?: string;
   ogType?: string;
   noindex?: boolean;
+  showContactCta?: boolean;
 }
 
 const {
@@ -28,6 +30,7 @@ const {
   ogImage = "/images/ogp-default.jpg",
   ogType = "website",
   noindex = false,
+  showContactCta = true,
 } = Astro.props;
 const canonicalPathname = Astro.url.pathname.endsWith("/")
   ? Astro.url.pathname
@@ -54,9 +57,9 @@ const organizationSchema = {
     { "@type": "Organization", "name": "公益社団法人 不動産保証協会" },
     { "@type": "Organization", "name": "一般社団法人 全国不動産協会" },
   ],
-  "description": "訳あり不動産（空き家買取・相続不動産・再建築不可・共有持分買取・事故物件）の直接買取専門。仲介手数料なし・現況買取・最短3日で現金化。全国対応。宅地建物取引業免許：大阪府知事 (1) 第65646号。",
+  "description": "訳あり不動産（空き家買取・相続不動産・再建築不可・共有持分買取・事故物件）の直接買取専門。仲介手数料なし・現況買取・最短3日で現金化。大阪・近畿対応。宅地建物取引業免許：大阪府知事 (1) 第65646号。",
   "keywords": ["空き家買取", "相続不動産買取", "再建築不可買取", "共有持分買取", "訳あり不動産買取", "事故物件買取", "相続アパート買取", "底地・借地権買取"],
-  "slogan": "どこにも断られた物件も、全国対応で現金買取",
+  "slogan": "どこにも断られた物件も、大阪・近畿対応で現金買取",
   "url": "https://akiya.arshe-corp.com",
   "telephone": "+81-6-7509-5696",
   "email": "info.arshe@arshe-corp.com",
@@ -80,18 +83,7 @@ const organizationSchema = {
     "postalCode": "544-0002",
     "addressCountry": "JP",
   },
-  "areaServed": [
-    { "@type": "Country", "name": "日本" },
-    { "@type": "AdministrativeArea", "name": "東京都" },
-    { "@type": "City", "name": "大阪市", "containedInPlace": { "@type": "AdministrativeArea", "name": "大阪府" } },
-    { "@type": "City", "name": "名古屋市", "containedInPlace": { "@type": "AdministrativeArea", "name": "愛知県" } },
-    { "@type": "City", "name": "横浜市", "containedInPlace": { "@type": "AdministrativeArea", "name": "神奈川県" } },
-    { "@type": "City", "name": "福岡市", "containedInPlace": { "@type": "AdministrativeArea", "name": "福岡県" } },
-    { "@type": "City", "name": "神戸市", "containedInPlace": { "@type": "AdministrativeArea", "name": "兵庫県" } },
-    { "@type": "City", "name": "京都市", "containedInPlace": { "@type": "AdministrativeArea", "name": "京都府" } },
-    { "@type": "City", "name": "さいたま市", "containedInPlace": { "@type": "AdministrativeArea", "name": "埼玉県" } },
-    { "@type": "City", "name": "川崎市", "containedInPlace": { "@type": "AdministrativeArea", "name": "神奈川県" } },
-  ],
+  "areaServed": SERVICE_AREAS_SCHEMA,
   "hasCredential": {
     "@type": "EducationalOccupationalCredential",
     "name": "宅地建物取引業免許",
@@ -108,14 +100,14 @@ const organizationSchema = {
       "contactType": "customer service",
       "telephone": "+81-6-7509-5696",
       "email": "info.arshe@arshe-corp.com",
-      "areaServed": "JP",
+      "areaServed": SERVICE_AREAS_SCHEMA,
       "availableLanguage": "Japanese",
     },
     {
       "@type": "ContactPoint",
       "contactType": "customer service",
       "url": "https://line.arshe1719.workers.dev/auth/line?ref=hp",
-      "areaServed": "JP",
+      "areaServed": SERVICE_AREAS_SCHEMA,
       "availableLanguage": "Japanese",
     },
   ],
@@ -130,7 +122,7 @@ const organizationSchema = {
     "name": "八木 宏樹",
     "url": "https://akiya.arshe-corp.com/about/hiroki",
     "jobTitle": "代表社員",
-    "description": "合同会社アルシェ（宅建業免許: 大阪府知事(1)第65646号）代表社員。空き家・相続アパート・再建築不可・事故物件・共有持分など訳あり不動産の直接買取専門家。「どこにも断られた物件」を全国対応で現金買取。",
+    "description": "合同会社アルシェ（宅建業免許: 大阪府知事(1)第65646号）代表社員。空き家・相続アパート・再建築不可・事故物件・共有持分など訳あり不動産の直接買取専門家。「どこにも断られた物件」を大阪・近畿対応で現金買取。",
     "telephone": "+81-6-7509-5696",
     "email": "info.arshe@arshe-corp.com",
     "knowsAbout": ["訳あり不動産", "空き家買取", "相続不動産", "再建築不可", "共有持分買取", "事故物件買取", "相続アパート買取", "底地・借地権買取", "空き家対策", "相続不動産売却"],
@@ -187,7 +179,7 @@ const organizationSchema = {
     "itemOffered": {
       "@type": "Service",
       "name": "訳あり不動産の直接買取",
-      "description": "空き家・再建築不可・事故物件・共有持分・相続物件など、訳あり不動産を直接買取。仲介手数料なし・現況買取・全国対応。",
+      "description": "空き家・再建築不可・事故物件・共有持分・相続物件など、訳あり不動産を直接買取。仲介手数料なし・現況買取・大阪・近畿対応。",
     },
   },
 };
@@ -284,17 +276,7 @@ const allSchemas = schema ? [organizationSchema, websiteSchema, schema] : [organ
             });
           });
         });
-        // フォーム送信
-        document.querySelectorAll('form').forEach(function(form) {
-          form.addEventListener('submit', function() {
-            gtag('event', 'form_submit', {
-              event_category: 'conversion',
-              event_label: 'contact_form',
-              page_path: pagePath,
-              page_title: pageTitle
-            });
-          });
-        });
+        // 受信成功の計測は contact.astro が担当する（送信操作では数えない）。
       });
     </script>
 
@@ -352,12 +334,12 @@ const allSchemas = schema ? [organizationSchema, websiteSchema, schema] : [organ
       <slot />
     </main>
 
-    <CTA />
+    {showContactCta && <CTA />}
     <Footer />
 
     <!-- モバイルCTAバーに隠れないための余白 -->
     <div class="h-16 md:hidden" aria-hidden="true"></div>
-    <CtaDock />
+    {showContactCta && <CtaDock />}
 
     <!-- モーションポリシー: 既定は全員フル演出。reduced-motion環境には停止ボタンを出し、
          明示的に停止した人だけ静的表示（sessionStorage 'site-motion'） -->

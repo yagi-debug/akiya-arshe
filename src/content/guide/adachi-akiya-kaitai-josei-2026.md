@@ -1,9 +1,10 @@
 ---
+serviceAreaClosed: "足立区"
 noindex: true
 title: "足立区の空き家解体補助金【2026年度・令和8年度】不燃化特区の除却助成 最大280万円・対象地区と申請窓口"
 description: "足立区の空き家解体補助金（2026年度・令和8年度）を宅建業者が整理。不燃化特区の老朽建築物除却助成は最大280万円、解体後の更地は固定資産税が最長5年度分8割減免。対象地区・条件・申請窓口・申請の流れを解説。補助対象外の老朽物件は現況のまま買取査定・LINE相談無料。"
 publishDate: "2026-07-23"
-updatedDate: "2026-07-23"
+updatedDate: "2026-09-07"
 author: "空き家のミカタ編集部"
 authorTitle: "宅地建物取引業者（大阪府知事(1)第65646号）"
 heroImage: "/images/adachi-akiya-kaitai-josei-2026-hero.jpg"

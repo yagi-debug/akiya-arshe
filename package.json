@@ -10,7 +10,7 @@
     "build": "node scripts/check-line-links.mjs && astro build",
     "preview": "astro preview",
     "astro": "astro",
-    "deploy": "node scripts/check-line-links.mjs && astro build && gh-pages -d dist --dotfiles && node scripts/indexnow-ping.mjs"
+    "deploy": "node scripts/check-line-links.mjs && astro build && gh-pages -d dist --dotfiles --no-history && node scripts/indexnow-ping.mjs"
   },
   "dependencies": {
     "@astrojs/sitemap": "^3.7.2",

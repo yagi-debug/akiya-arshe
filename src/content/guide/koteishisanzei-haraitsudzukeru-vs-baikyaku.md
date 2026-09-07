@@ -17,6 +17,7 @@ faqs:
   - question: "相続した空き家の固定資産税は誰が払いますか？"
     answer: "毎年1月1日時点での所有者（固定資産課税台帳の名義人）に課税されます。相続登記が完了するまで旧名義での課税が続きますが、実際には相続人が代わりに支払うことになります。相続人が複数いる場合は法定相続分で按分されますが、一人が代表して支払うケースがほとんどです。"
 cluster: "akiya-tax"
+updatedDate: "2026-09-07"
 ---
 
 <img src="/images/kotei-shisan-zei-vs-baikyaku-hero.jpg" alt="固定資産税の納付書と電卓　払い続けるか売却するかを比較する損益分岐シミュレーションのイメージ" width="1200" height="800" style="width:100%;height:auto;border-radius:8px;margin-bottom:1.5rem;" />
@@ -418,7 +419,7 @@ function calcKoteiBaikyaku() {
   <ul style="margin-bottom:1.5rem;font-size:0.9rem;padding-left:1.5rem;">
     <li>査定・ご相談は<strong>完全無料</strong>・しつこい営業はしません</li>
     <li>訳あり物件（再建築不可・事故物件・共有持分・相続アパート等）も対応可能</li>
-    <li>大阪市24区を中心に、近畿エリア対応</li>
+    <li>大阪府全域に対応</li>
   </ul>
   <div style="display:flex;flex-wrap:wrap;gap:1rem;">
     <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" target="_blank" rel="noopener noreferrer" style="display:inline-block;background:#06C755;color:white;text-decoration:none;padding:12px 24px;border-radius:6px;font-weight:bold;font-size:0.95rem;">

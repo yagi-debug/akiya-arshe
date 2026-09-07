@@ -2,7 +2,7 @@
 title: "訳あり物件とは？5種類の定義・告知義務・売却可否チェックリストを宅建業者が解説【2026年版】"
 description: "訳あり物件（再建築不可・事故物件・共有持分・相続アパート・空き家）の定義・種類・告知義務・売却可否チェックリストを中立的に解説。仲介で断られた方向けに宅建業者が現実的な選択肢を説明します。"
 publishDate: "2026-04-30"
-updatedDate: "2026-06-16"
+updatedDate: "2026-09-07"
 author: "八木宏樹（合同会社アルシェ代表）"
 heroImage: "/images/wakare-bukken-to-wa-hero.jpg"
 faqs:
@@ -183,7 +183,7 @@ cluster: "wakeari"
 
 | 物件の種類 | 対応状況 |
 |-----------|---------|
-| 再建築不可物件 | ◎ 対応可（全国） |
+| 再建築不可物件 | ◎ 対応可（大阪府内） |
 | 事故物件（告知義務あり） | ◎ 対応可・秘密厳守 |
 | 共有持分物件 | ◎ 1人の持分のみでも対応可 |
 | 相続アパート（入居者付き） | ◎ オーナーチェンジでの買取可 |
@@ -198,7 +198,7 @@ cluster: "wakeari"
 - <strong>現況買取</strong>（片付け・修繕不要）
 - <strong>最短3日〜2週間で現金化</strong>（物件状況による）
 - <strong>秘密厳守</strong>（事故物件・相続問題等も対応）
-- <strong>全国対応</strong>（拠点: 大阪市。提携ネットワーク活用）
+- <strong>大阪・近畿対応</strong>（拠点: 大阪市。提携ネットワーク活用）
 
 > <strong>宅建業者の視点</strong>：「どこに相談しても断られた」「仲介会社に取り扱えないと言われた」というお問い合わせが、当社への相談の約6割を占めています。訳あり物件の売却でお困りの場合は、まず査定だけでもお気軽にご相談ください。査定は無料で、売却を強要することはありません。
 
@@ -217,7 +217,7 @@ cluster: "wakeari"
 ## 関連するガイド記事
 
 - <a href="/guide/jiko-bukken-hub">事故物件 完全ハブ｜買取・告知義務・心理的瑕疵・価格相場まで全ガイドまとめ【2026年版】</a>
-- <a href="/guide/accident-property-sale">事故物件は売れる？告知義務・売却相場・買取の流れを宅建業者が解説【全国対応・秘密厳守】</a>
+- <a href="/guide/accident-property-sale">事故物件は売れる？告知義務・売却相場・買取の流れを宅建業者が解説【大阪・近畿対応・秘密厳守】</a>
 - <a href="/guide/shinriteki-kashi-kokuchi-gimu">心理的瑕疵とは？事故物件の告知義務の範囲・売却時期・価格への影響を宅建業者が解説</a>
 - <a href="/guide/kyouyuu-mochibun-hub">共有持分 完全ハブ｜売却・買取・トラブル解決・相場まで全ガイドまとめ【2026年版】</a>
 - <a href="/guide/saikenchifu-hub">再建築不可物件 完全ハブ｜売却・買取・価格相場・事例まで全ガイドまとめ【2026年版】</a>
@@ -234,7 +234,7 @@ cluster: "wakeari"
   <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06C755;color:white;padding:0.8rem 2rem;border-radius:8px;font-weight:bold;text-decoration:none;margin-bottom:0.8rem;">LINEで無料相談する</a>
   <p style="margin:0.5rem 0;">または</p>
   <a href="/contact" style="display:inline-block;background:#1a56db;color:white;padding:0.8rem 2rem;border-radius:8px;font-weight:bold;text-decoration:none;">お問い合わせフォームへ</a>
-  <p style="margin-top:1rem;font-size:0.9rem;color:#555;">宅建業免許: 大阪府知事(1)第65646号｜合同会社アルシェ<br>秘密厳守・査定無料・全国対応</p>
+  <p style="margin-top:1rem;font-size:0.9rem;color:#555;">宅建業免許: 大阪府知事(1)第65646号｜合同会社アルシェ<br>秘密厳守・査定無料・大阪・近畿対応</p>
 </div>
 
 執筆: 八木宏樹（合同会社アルシェ代表／宅建業免許: 大阪府知事(1)第65646号）｜空き家のミカタ

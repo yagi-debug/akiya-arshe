@@ -24,6 +24,7 @@ howToSteps:
   - name: "ステップ3：契約書を必ず持ち帰って確認する"
     text: "その場でサインを求められても応じない。「1〜2日持ち帰って確認させてください」と伝え、瑕疵担保責任の範囲・違約金・解除条件・専任制限の有無を確認する。疑問点は司法書士または弁護士に相談する。"
 cluster: "accident"
+updatedDate: "2026-09-07"
 ---
 
 <img src="/images/akusha-gyosha-5-teguchi-hero.jpg" alt="不動産売買の契約書を確認する売主と買取業者　悪質業者から身を守るための書類チェックシーン" width="1200" height="800" style="width:100%;height:auto;border-radius:8px;margin-bottom:1.5rem;" />
@@ -242,8 +243,8 @@ cluster: "accident"
 ## 関連するガイド記事
 
 - <a href="/guide/jiko-bukken-hub">事故物件 完全ハブ｜買取・告知義務・心理的瑕疵・価格相場まで全ガイドまとめ【2026年版】</a>
-- <a href="/guide/accident-property-sale">事故物件は売れる？告知義務・売却相場・買取の流れを宅建業者が解説【全国対応・秘密厳守】</a>
-- <a href="/guide/jiko-bukken-kaitori">事故物件 買取・現金化｜最短3日・告知義務あり対応【全国・秘密厳守】</a>
+- <a href="/guide/accident-property-sale">事故物件は売れる？告知義務・売却相場・買取の流れを宅建業者が解説【大阪・近畿対応・秘密厳守】</a>
+- <a href="/guide/jiko-bukken-kaitori">事故物件 買取・現金化｜最短3日・告知義務あり対応【大阪府・秘密厳守】</a>
 - <a href="/guide/kyouyuu-mochibun-hub">共有持分 完全ハブ｜売却・買取・トラブル解決・相場まで全ガイドまとめ【2026年版】</a>
 - <a href="/guide/saikenchifu-hub">再建築不可物件 完全ハブ｜売却・買取・価格相場・事例まで全ガイドまとめ【2026年版】</a>
 

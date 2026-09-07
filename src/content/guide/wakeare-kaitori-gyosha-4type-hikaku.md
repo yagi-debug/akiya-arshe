@@ -27,6 +27,7 @@ howToSteps:
   - name: "費用・手数料を書面で確認する"
     text: "「仲介手数料の有無」「その他費用の内訳」を契約前に書面で確認する。直接買取であれば売主側の仲介手数料は発生しない（宅地建物取引業法上の規定）。"
 cluster: "accident"
+updatedDate: "2026-09-07"
 ---
 
 <img src="/images/wakeare-kaitori-gyosha-4type-hero.jpg" alt="不動産業者との相談シーン　複数の買取業者を比較検討する様子" width="1200" height="901" style="width:100%;height:auto;border-radius:8px;margin-bottom:1.5rem;" />
@@ -83,7 +84,7 @@ cluster: "accident"
 
 ### タイプ③：地域密着型の買取業者（当社・空き家のミカタ など）
 
-大阪市・近畿圏を中心に活動する、地元密着型の買取業者です。当社（空き家のミカタ／合同会社アルシェ）もこのタイプに当てはまります。
+特定の地域を中心に活動する、地元密着型の買取業者です。当社（空き家のミカタ／合同会社アルシェ）はこのタイプで、大阪府内の物件を買取・査定の対象にしています。
 
 地域密着型の特徴は以下のとおりです。
 
@@ -92,7 +93,7 @@ cluster: "accident"
 - **融通が利きやすい**: 書類の手配・残置物の処理・相続手続きのサポートなど、個別の事情に合わせた対応がしやすい
 - **エリア外の物件には対応できないこともある**: 物件が遠方にある場合は、対応エリア外となるケースもある
 
-当社（空き家のミカタ）は大阪府知事免許を保有する宅建業者で、<strong>相続アパート・再建築不可・事故物件・共有持分・空き家など、大阪市を中心とした近畿圏の訳あり物件を直接買取しています。</strong>
+当社（空き家のミカタ）は大阪府知事免許を保有する宅建業者で、<strong>相続アパート・再建築不可・事故物件・共有持分・空き家など、大阪府全域の訳あり物件を直接買取しています。</strong>
 
 ### タイプ④：不動産投資家への直接売却
 
@@ -130,7 +131,7 @@ cluster: "accident"
 <td style="padding:10px 12px;border:1px solid #ccc;text-align:center;color:#16a34a;font-weight:bold;">✔ 対応</td>
 <td style="padding:10px 12px;border:1px solid #ccc;text-align:center;">50〜75%</td>
 <td style="padding:10px 12px;border:1px solid #ccc;text-align:center;"><strong>なし</strong><br>（直接買取）</td>
-<td style="padding:10px 12px;border:1px solid #ccc;">再建築不可・事故物件・共有持分・相続アパート・空き家（全国対応）</td>
+<td style="padding:10px 12px;border:1px solid #ccc;">再建築不可・事故物件・共有持分・相続アパート・空き家（大阪・近畿対応）</td>
 </tr>
 <tr>
 <td style="padding:10px 12px;border:1px solid #ccc;font-weight:bold;">③地域密着型<br>（空き家のミカタ等）</td>
@@ -234,7 +235,7 @@ cluster: "accident"
 ## 関連するガイド記事
 
 - <a href="/guide/jiko-bukken-hub">事故物件 完全ハブ｜買取・告知義務・心理的瑕疵・価格相場まで全ガイドまとめ【2026年版】</a>
-- <a href="/guide/accident-property-sale">事故物件は売れる？告知義務・売却相場・買取の流れを宅建業者が解説【全国対応・秘密厳守】</a>
+- <a href="/guide/accident-property-sale">事故物件は売れる？告知義務・売却相場・買取の流れを宅建業者が解説【大阪・近畿対応・秘密厳守】</a>
 - <a href="/guide/akusha-gyosha-5-teguchi-mikiwake">訳あり不動産買取の悪質業者5つの手口｜騙されない見分け方と安全な相見積もり手順</a>
 - <a href="/guide/kyouyuu-mochibun-hub">共有持分 完全ハブ｜売却・買取・トラブル解決・相場まで全ガイドまとめ【2026年版】</a>
 - <a href="/guide/saikenchifu-hub">再建築不可物件 完全ハブ｜売却・買取・価格相場・事例まで全ガイドまとめ【2026年版】</a>
@@ -250,7 +251,7 @@ cluster: "accident"
 - 業者選びには「宅建業者免許」「対応物件の実績」「スピード」「費用の透明性」「担当者の誠実さ」の5点を確認する
 - 必ず3社以上に査定を依頼し、比較する
 
-当社（空き家のミカタ）は、<strong>大阪市を中心とした近畿圏で訳あり物件の直接買取を行う宅建業者</strong>です。相続アパート・再建築不可・事故物件・共有持分・空き家など、幅広い訳あり物件に対応しています。まずはお気軽にご相談ください。
+当社（空き家のミカタ）は、<strong>大阪府全域で訳あり物件の直接買取を行う宅建業者</strong>です。相続アパート・再建築不可・事故物件・共有持分・空き家など、幅広い訳あり物件に対応しています。まずはお気軽にご相談ください。
 
 ---
 

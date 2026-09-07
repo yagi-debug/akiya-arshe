@@ -1,0 +1,74 @@
+---
+import PageHero from "../../components/PageHero.astro";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+
+const breadcrumbs = [
+  { name: "ホーム", url: "/" },
+  { name: "よくある質問", url: "/faq" },
+  { name: "文の里の不動産買取", url: "/faq/abeno-fuminosato-fudosan-baikyaku" },
+];
+
+const question = "大阪市阿倍野区文の里で不動産を売りたいのですが、買取してもらえますか？";
+const answer =
+  "はい、対応できます。文の里は阿倍野区の谷町線「文の里駅」周辺エリアで、当社は阿倍野区全域を対象に空き家・相続物件・訳あり物件の直接買取を行っています。仲介手数料0円・最短3日で現金化が可能です。";
+
+const qaSchema = {
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": question,
+    "text": question,
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": answer,
+      "url": "https://akiya.arshe-corp.com/faq/abeno-fuminosato-fudosan-baikyaku/",
+    },
+  },
+};
+---
+
+<BaseLayout
+  title="文の里（阿倍野区）の不動産買取は対応可能？相場と流れ｜空き家のミカタ"
+  description="大阪市阿倍野区文の里エリアの不動産買取について、対応可否と阿倍野区の相場目安を宅建業者が解説します。"
+  schema={qaSchema}
+  breadcrumbs={breadcrumbs}
+>
+  <PageHero label="よくある質問" title={question} />
+  <section class="px-4 py-12 md:py-16">
+    <div class="mx-auto max-w-2xl">
+      <div class="mb-8 rounded-2xl border border-accent/30 bg-accent-soft/40 p-5 text-sm leading-relaxed text-primary">
+        <p class="font-bold">結論: 文の里エリアも阿倍野区全域と同じ条件で直接買取に対応しています。</p>
+        <p class="mt-1">空き家・相続物件・再建築不可・共有持分など、仲介では売りにくい物件も現況のまま買取します。</p>
+      </div>
+
+      <div class="mb-8 rounded-2xl border border-border bg-white p-6 shadow-[var(--shadow-soft)]">
+        <p class="mb-2 flex items-start gap-2 font-bold text-primary">
+          <span class="flex h-6 w-6 shrink-0 items-center justify-center rounded-full bg-accent-soft text-xs font-black text-accent">Q</span>
+          {question}
+        </p>
+        <p class="pl-8 text-text-light" set:html={answer} />
+      </div>
+
+      <div class="space-y-4 text-sm leading-relaxed text-text-light">
+        <p>文の里は大阪メトロ谷町線「文の里駅」を中心とした阿倍野区のエリアで、阿倍野区役所（大阪市阿倍野区文の里1-1-40）もこのエリアにあります。天王寺駅・阿倍野駅にも近く、閑静な住宅街が広がるファミリー層に人気の地域です。</p>
+        <p>阿倍野区全体の相場目安は、マンションが約50万円/m2、一戸建て・住宅地の土地が坪単価150〜300万円です（帝塚山エリアは区内平均を上回り、長池・阪南町エリアは比較的手頃な水準）。文の里エリアは区の中心部に位置するため、区内平均に近い水準が目安になりますが、物件個別の条件（築年数・接道状況・権利関係）によって変動するため、正確な価格は無料査定でご確認ください。</p>
+        <p>相続で取得した空き家、共有持分のみの物件、再建築不可の物件など、一般の仲介で断られやすい物件も現況のまま直接買取しています。仲介手数料はかからず、最短3日での査定・現金化が可能です。</p>
+      </div>
+
+      <div class="mt-10 rounded-2xl border border-border bg-bg p-5 text-sm">
+        <p class="mb-2 font-bold text-primary">あわせて読みたい</p>
+        <ul class="list-inside list-disc space-y-1 text-accent">
+          <li><a href="/area/osaka-abeno" class="underline">阿倍野区の不動産買取相場を見る</a></li>
+          <li><a href="/guide/kaitori-gyosha-erabikata-checkpoints" class="underline">訳あり不動産買取業者を選ぶ5つのチェックポイント</a></li>
+          <li><a href="/faq" class="underline">よくある質問一覧に戻る</a></li>
+        </ul>
+      </div>
+
+      <p class="mt-8 text-center text-xs text-text-light">
+        執筆・監修: 八木宏樹（合同会社アルシェ代表）／合同会社アルシェ（宅建業免許: 大阪府知事(1)第65646号）
+      </p>
+    </div>
+  </section>
+</BaseLayout>

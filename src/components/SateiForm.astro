@@ -1,10 +1,12 @@
 ---
-import rosenkaData from "../data/rosenka.json";
-import areasData from "../data/areas.json";
+import allRosenkaData from "../data/rosenka.json";
+import allAreasData from "../data/areas.json";
 
 const LINE_URL = "https://line.arshe1719.workers.dev/auth/line?ref=hp";
 const GAS_URL = "https://script.google.com/macros/s/AKfycbzmkaRu-4QdLhB4P3H25f1W2a62XJTY72PReI7YE-fBKj0gpu90o9rSBVHit4i2AY4Q/exec";
-const prefectures = Object.keys(areasData);
+import { SERVICE_PREFECTURES } from "../data/service-area.mjs";
+const areasData = Object.fromEntries(SERVICE_PREFECTURES.map(pref => [pref, [...(allAreasData[pref] || []), "その他の市区町村（個別相談）"]]));
+const rosenkaData = Object.fromEntries(SERVICE_PREFECTURES.map(pref => [pref, allRosenkaData[pref] || {}]));
 
 // 一意のIDプレフィックス（同一ページに複数回埋め込まれても衝突しないよう）
 const { id = "satei" } = Astro.props;
@@ -24,7 +26,7 @@ const { id = "satei" } = Astro.props;
       <div class="mx-2 h-px w-5 bg-border sm:w-8"></div>
       <div class="satei-step-item flex items-center gap-2 opacity-40" data-step="2">
         <div class="satei-step-circle flex h-8 w-8 items-center justify-center rounded-full bg-text-light text-sm font-bold text-white">2</div>
-        <span class="hidden text-sm font-bold text-text-light sm:block">エリア</span>
+        <span class="hidden text-sm font-bold text-text-light sm:block">所在地</span>
       </div>
       <div class="mx-2 h-px w-5 bg-border sm:w-8"></div>
       <div class="satei-step-item flex items-center gap-2 opacity-40" data-step="3">
@@ -70,15 +72,13 @@ const { id = "satei" } = Astro.props;
     <!-- Step 2: エリア -->
     <div class="satei-step-panel" data-panel="2" style="display:none">
       <div class="px-6 py-6">
-        <h2 class="mb-5 text-lg font-bold text-primary">物件のエリアを選んでください</h2>
+        <h2 class="mb-3 text-lg font-bold text-primary">物件の所在地を選んでください</h2>
+        <p class="mb-5 text-sm text-text-light">大阪・兵庫・京都・奈良・滋賀・和歌山の物件が対象です。買取の可否は個別に確認します。</p>
         <div class="space-y-4">
           <div>
             <label class="mb-1 block text-sm font-bold text-text">都道府県</label>
             <select class="satei-pref w-full rounded-lg border border-border bg-white px-4 py-3 text-base text-text focus:border-primary focus:outline-none focus:ring-2 focus:ring-primary/20">
-              <option value="">都道府県を選択</option>
-              {prefectures.map((pref) => (
-                <option value={pref}>{pref}</option>
-              ))}
+              {SERVICE_PREFECTURES.map(pref => <option value={pref} selected={pref === "大阪府"}>{pref}</option>)}
             </select>
           </div>
           <div>
@@ -87,6 +87,10 @@ const { id = "satei" } = Astro.props;
               <option value="">市区町村を選択</option>
             </select>
           </div>
+        </div>
+        <div class="satei-local-data-note mt-4 rounded-lg bg-accent/10 p-4 text-sm" hidden>
+          <p>この市町村は自動査定用の地域データがないため、個別に確認して査定します。ご相談は無料です。</p>
+          <a href="/contact/" class="mt-2 inline-block font-bold text-accent underline">物件の所在地を伝えて個別に相談する</a>
         </div>
         <div class="mt-6 flex gap-3">
           <button type="button" class="satei-back flex-1 rounded-lg border border-border px-4 py-3 font-bold text-text-light transition-colors hover:bg-bg" data-to="1">← 戻る</button>
@@ -235,7 +239,7 @@ const { id = "satei" } = Astro.props;
     const stepItems = wrap.querySelectorAll(".satei-step-item");
 
     let selectedType = "";
-    let selectedPrefecture = "";
+    let selectedPrefecture = "大阪府";
     let selectedCity = "";
     let selectedAge = "";
 
@@ -284,7 +288,7 @@ const { id = "satei" } = Astro.props;
     const citySel = wrap.querySelector(".satei-city");
     const next2Btn = wrap.querySelector(".satei-next2");
 
-    prefSel.addEventListener("change", () => {
+    function populateCities() {
       selectedPrefecture = prefSel.value;
       selectedCity = "";
       citySel.innerHTML = '<option value="">市区町村を選択</option>';
@@ -300,7 +304,9 @@ const { id = "satei" } = Astro.props;
         citySel.disabled = true;
       }
       updateNext2();
-    });
+    }
+    populateCities();
+    prefSel.addEventListener("change", populateCities);
 
     citySel.addEventListener("change", () => {
       selectedCity = citySel.value;
@@ -308,13 +314,15 @@ const { id = "satei" } = Astro.props;
     });
 
     function updateNext2() {
-      const ok = !!(selectedPrefecture && selectedCity);
+      const hasLocalData = !!rosenkaData[selectedPrefecture]?.[selectedCity];
+      wrap.querySelector(".satei-local-data-note").hidden = !selectedCity || hasLocalData;
+      const ok = !!(selectedPrefecture && selectedCity && hasLocalData);
       next2Btn.disabled = !ok;
       next2Btn.classList.toggle("opacity-40", !ok);
     }
 
     next2Btn.addEventListener("click", () => {
-      if (selectedPrefecture && selectedCity) {
+      if (areasData[selectedPrefecture] && rosenkaData[selectedPrefecture]?.[selectedCity]) {
         showPanel(selectedType === "land" ? 4 : 3);
       }
     });
@@ -448,7 +456,7 @@ const { id = "satei" } = Astro.props;
 
     // --- やり直し ---
     wrap.querySelector(".satei-reset").addEventListener("click", () => {
-      selectedType = ""; selectedPrefecture = ""; selectedCity = ""; selectedAge = "";
+      selectedType = ""; selectedPrefecture = "大阪府"; selectedCity = ""; selectedAge = "";
       wrap.querySelectorAll(".satei-type-btn").forEach((b) => {
         b.classList.remove("border-primary", "bg-primary/10");
         b.classList.add("border-border");
@@ -457,9 +465,8 @@ const { id = "satei" } = Astro.props;
         b.classList.remove("border-primary", "bg-primary/10");
         b.classList.add("border-border");
       });
-      prefSel.value = "";
-      citySel.innerHTML = '<option value="">市区町村を選択</option>';
-      citySel.disabled = true;
+      prefSel.value = "大阪府";
+      populateCities();
       areaInput.value = ""; tsuboInput.value = "";
       calcBtn.disabled = true; calcBtn.classList.add("opacity-40");
       next2Btn.disabled = true; next2Btn.classList.add("opacity-40");

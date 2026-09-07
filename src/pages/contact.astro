@@ -1,4 +1,5 @@
 ---
+import { SERVICE_PREFECTURES } from "../data/service-area.mjs";
 import PageHero from "../components/PageHero.astro";
 import BaseLayout from "../layouts/BaseLayout.astro";
 
@@ -9,14 +10,14 @@ const breadcrumbs = [
 ---
 
 <BaseLayout
-  title="無料相談・お問い合わせ｜相続・空き家の売却相談"
-  description="相続した家・空き家の売却に関する無料相談はこちら。LINE・メールからお気軽にご連絡ください。秘密厳守・しつこい営業は一切いたしません。"
+  title="大阪・近畿の不動産｜無料相談・お問い合わせ"
+  description="大阪を中心に近畿圏の相続した家・空き家の売却に関する無料相談はこちら。LINE・メールからお気軽にご連絡ください。秘密厳守・しつこい営業は一切いたしません。"
   breadcrumbs={breadcrumbs}
 >
   <PageHero
     label="ご相談"
     title="無料相談・お問い合わせ"
-    sub="相続・空き家の売却に関するご相談は、LINE・メールフォームからお気軽にどうぞ。"
+    sub="大阪を中心に、兵庫・京都・奈良・滋賀・和歌山の物件のご相談に対応しています。買取の可否・条件は所在地と物件の状況を確認してご案内します。所有者が遠方にお住まいでも、LINE・メールでご相談いただけます。"
     image="/images/site/night.webp"
   />
   <section class="px-4 py-12 md:py-16">
@@ -118,16 +119,17 @@ const breadcrumbs = [
 
           <!-- 物件の所在地 -->
           <div>
-            <label for="location" class="mb-1 block text-sm font-bold text-text">
-              物件の所在地（市区町村まで）
+            <label for="location-pref" class="mb-1 block text-sm font-bold text-text">
+              物件の所在地（府県） <span class="text-red-500">*</span>
             </label>
-            <input
-              type="text"
-              id="location"
-              name="location"
-              placeholder="例: 大阪市生野区"
-              class="w-full rounded-lg border border-border px-4 py-3 text-sm transition-colors focus:border-accent focus:ring-2 focus:ring-accent/20 focus:outline-none"
-            />
+            <select id="location-pref" name="prefecture" required
+              class="w-full rounded-lg border border-border bg-white px-4 py-3 text-sm focus:border-accent focus:outline-none">
+              <option value="">物件がある府県を選択</option>
+              {SERVICE_PREFECTURES.map(pref => <option value={pref}>{pref}</option>)}
+            </select>
+            <label for="location" class="mt-4 mb-1 block text-sm font-bold text-text">市区町村 <span class="text-red-500">*</span></label>
+            <input id="location" name="location" type="text" required placeholder="例：大阪市生野区、神戸市中央区" class="w-full rounded-lg border border-border px-4 py-3 text-sm focus:border-accent focus:outline-none" />
+            <p class="mt-2 text-xs text-text-light">所有者のお住まいは遠方でも構いません。買取の可否・条件は所在地と状況を確認してご案内します。</p>
           </div>
 
           <!-- ご相談内容 -->
@@ -172,13 +174,19 @@ const breadcrumbs = [
           const errEl = document.getElementById("contact-form-error")!;
           const doneEl = document.getElementById("contact-form-done")!;
           const btn = document.getElementById("contact-submit-btn") as HTMLButtonElement;
+          let submitting = false;
+          let accepted = false;
           form?.addEventListener("submit", async (e) => {
             e.preventDefault();
+            if (submitting || accepted) return;
+            submitting = true;
             errEl.classList.add("hidden");
             btn.disabled = true;
             btn.textContent = "送信中…";
             const fd = new FormData(form);
             const data = Object.fromEntries(fd.entries());
+            data.location = `${data.prefecture}${String(data.location).trim()}`;
+            delete data.prefecture;
             try {
               const res = await fetch(FORM_ENDPOINT, {
                 method: "POST",
@@ -186,9 +194,13 @@ const breadcrumbs = [
                 body: JSON.stringify({ data }),
               });
               const json = await res.json();
-              if (!json.success) throw new Error(json.error || "送信に失敗しました");
-              // @ts-ignore
-              if (typeof gtag === "function") gtag("event", "form_submit", { event_category: "conversion", page_path: location.pathname });
+              if (!res.ok || json.success !== true) throw new Error(json.error || "送信に失敗しました");
+              accepted = true;
+              // GA4拡張計測の form_submit と区別。氏名・連絡先・本文は送らない。
+              try {
+                // @ts-ignore
+                if (typeof gtag === "function") gtag("event", "contact_submit_success", { event_category: "conversion", page_path: location.pathname });
+              } catch { /* 計測失敗で受信済み相談を再送させない */ }
               form.style.display = "none";
               doneEl.classList.remove("hidden");
             } catch (err) {
@@ -196,6 +208,8 @@ const breadcrumbs = [
               errEl.classList.remove("hidden");
               btn.disabled = false;
               btn.textContent = "無料相談を申し込む";
+            } finally {
+              submitting = false;
             }
           });
         </script>
