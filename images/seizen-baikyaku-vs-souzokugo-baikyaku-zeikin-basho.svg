@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 700" width="1000" height="700" role="img" aria-label="自宅を生前に売る場合と相続後に売る場合で、譲渡所得税と相続税がかかる場所がどう変わるかの比較図">
+  <style>
+    .bg{fill:#f7f9fb}
+    .ttl{font:bold 28px "Hiragino Sans","Noto Sans JP",sans-serif;fill:#12324a}
+    .sub{font:16px "Hiragino Sans","Noto Sans JP",sans-serif;fill:#5b6b78}
+    .colttl{font:bold 21px "Hiragino Sans","Noto Sans JP",sans-serif;fill:#fff}
+    .stepb{font:bold 17px "Hiragino Sans","Noto Sans JP",sans-serif;fill:#12324a}
+    .step{font:15px "Hiragino Sans","Noto Sans JP",sans-serif;fill:#3c4a55}
+    .tag{font:bold 15px "Hiragino Sans","Noto Sans JP",sans-serif;fill:#fff}
+    .res{font:bold 19px "Hiragino Sans","Noto Sans JP",sans-serif;fill:#12324a}
+    .note{font:14px "Hiragino Sans","Noto Sans JP",sans-serif;fill:#5b6b78}
+    .box{fill:#fff;stroke:#d7e0e8;stroke-width:2}
+    .light{fill:#eef4f9;stroke:#cfdde8;stroke-width:1.5}
+  </style>
+  <rect class="bg" x="0" y="0" width="1000" height="700"/>
+  <text class="ttl" x="40" y="50">税金は「消える」のではなく、かかる場所が入れ替わります</text>
+  <text class="sub" x="40" y="80">同じ自宅でも、売る順番を変えると、税の種類・評価額・使える控除が丸ごと入れ替わります。</text>
+
+  <!-- Left: 生前売却 -->
+  <rect class="box" x="40" y="110" width="440" height="500" rx="10"/>
+  <rect x="40" y="110" width="440" height="48" rx="10" fill="#1a56db"/>
+  <rect x="40" y="144" width="440" height="14" fill="#1a56db"/>
+  <text class="colttl" x="62" y="143">A. 親が生きているうちに売る</text>
+
+  <rect class="light" x="62" y="182" width="396" height="86" rx="8"/>
+  <text class="stepb" x="80" y="210">かかる税：譲渡所得税（親に）</text>
+  <text class="step" x="80" y="236">売った値段から取得費と経費を引いた利益に</text>
+  <text class="step" x="80" y="258">かかります。税率は所有期間で変わります。</text>
+
+  <rect class="light" x="62" y="286" width="396" height="86" rx="8"/>
+  <text class="stepb" x="80" y="314">使える控除：マイホームの3,000万円控除</text>
+  <text class="step" x="80" y="340">自分が住んでいる家なら、築年数も構造も</text>
+  <text class="step" x="80" y="362">問われません（国税庁 No.3302）。</text>
+
+  <rect class="light" x="62" y="390" width="396" height="86" rx="8"/>
+  <text class="stepb" x="80" y="418">相続財産になるもの：現金</text>
+  <text class="step" x="80" y="444">現金は1円も割り引かれず、額面がそのまま</text>
+  <text class="step" x="80" y="466">相続税の対象になります。</text>
+
+  <rect x="62" y="496" width="396" height="88" rx="8" fill="#fdeceb" stroke="#f3c8c4" stroke-width="1.5"/>
+  <text class="stepb" x="80" y="524">消えるもの：小規模宅地等の特例</text>
+  <text class="step" x="80" y="550">土地330㎡までの評価を80％下げる特例は、</text>
+  <text class="step" x="80" y="572">売って現金にした時点で使えなくなります。</text>
+
+  <!-- Right: 相続後売却 -->
+  <rect class="box" x="520" y="110" width="440" height="500" rx="10"/>
+  <rect x="520" y="110" width="440" height="48" rx="10" fill="#b4553a"/>
+  <rect x="520" y="144" width="440" height="14" fill="#b4553a"/>
+  <text class="colttl" x="542" y="143">B. 相続してから子が売る</text>
+
+  <rect class="light" x="542" y="182" width="396" height="86" rx="8"/>
+  <text class="stepb" x="560" y="210">かかる税：相続税 ＋ 譲渡所得税（子に）</text>
+  <text class="step" x="560" y="236">相続税を払ってから、売った年にもう一度</text>
+  <text class="step" x="560" y="258">譲渡所得税の申告をすることになります。</text>
+
+  <rect class="light" x="542" y="286" width="396" height="86" rx="8"/>
+  <text class="stepb" x="560" y="314">使える控除：空き家の3,000万円控除</text>
+  <text class="step" x="560" y="340">昭和56年5月31日以前の建築など、6つの条件を</text>
+  <text class="step" x="560" y="362">すべて満たしたときだけです（No.3306）。</text>
+
+  <rect class="light" x="542" y="390" width="396" height="86" rx="8"/>
+  <text class="stepb" x="560" y="418">相続財産になるもの：不動産</text>
+  <text class="step" x="560" y="444">土地は路線価、建物は固定資産税評価額で</text>
+  <text class="step" x="560" y="466">評価され、時価より低く出ます。</text>
+
+  <rect x="542" y="496" width="396" height="88" rx="8" fill="#e9f5ec" stroke="#c2e0cb" stroke-width="1.5"/>
+  <text class="stepb" x="560" y="524">残るもの：小規模宅地等の特例</text>
+  <text class="step" x="560" y="550">配偶者や同居していた親族が相続すれば、</text>
+  <text class="step" x="560" y="572">330㎡まで80％減で評価できます。</text>
+
+  <text class="note" x="40" y="644">※ 取得費と所有期間は相続で子に引き継がれます（国税庁 No.3270）。相続したその日から短期譲渡になるわけではありません。</text>
+  <text class="note" x="40" y="672">※ 税額の判断は個別事情で変わります。実際の申告にあたっては税理士にご確認ください。</text>
+</svg>

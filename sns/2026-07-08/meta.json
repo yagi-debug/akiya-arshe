@@ -1,0 +1,22 @@
+{
+  "date": "2026-07-08",
+  "slug": "ig-2026-07-day3-knowledge01",
+  "title": "相続した実家、放置の代償",
+  "type": "knowledge_carousel",
+  "files": [
+    "test_carousel_01.png",
+    "test_carousel_02.png",
+    "test_carousel_03.png",
+    "test_carousel_04.png",
+    "test_carousel_05.png",
+    "test_carousel_06.png",
+    "test_carousel_07.png"
+  ],
+  "checks": {
+    "caption_forbidden_words": [],
+    "file_count_ok": true,
+    "voicevox_credit_ok": true,
+    "manual_visual_check": "pre-produced Week1 assets; accepted by content plan"
+  },
+  "fallback_used": false
+}

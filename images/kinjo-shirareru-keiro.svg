@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 560" width="860" height="560" font-family="'Hiragino Sans','Noto Sans JP',sans-serif" role="img" aria-label="仲介で売る場合と買取で売る場合に、近所に知られる経路が何本発生するかを比べた図">
+  <rect width="860" height="560" fill="#f8fafc"/>
+  <text x="430" y="36" text-anchor="middle" font-size="21" font-weight="bold" fill="#0f172a">近所に伝わる経路は、売り方で本数が変わります</text>
+
+  <!-- 仲介 -->
+  <rect x="24" y="60" width="400" height="464" rx="12" fill="#fff" stroke="#dc2626" stroke-width="2"/>
+  <rect x="24" y="60" width="400" height="46" rx="12" fill="#dc2626"/>
+  <rect x="24" y="94" width="400" height="12" fill="#dc2626"/>
+  <text x="224" y="91" text-anchor="middle" font-size="19" font-weight="bold" fill="#fff">仲介で市場に出す</text>
+
+  <g font-size="15" fill="#1f2937">
+    <rect x="44" y="122" width="360" height="58" rx="8" fill="#fef2f2" stroke="#fecaca"/>
+    <text x="60" y="145" font-weight="bold" fill="#b91c1c">① レインズ登録</text>
+    <text x="60" y="167">専任は7日以内・専属専任は5日以内（休業日を除く）</text>
+
+    <rect x="44" y="188" width="360" height="58" rx="8" fill="#fef2f2" stroke="#fecaca"/>
+    <text x="60" y="211" font-weight="bold" fill="#b91c1c">② 不動産ポータルサイトへの掲載</text>
+    <text x="60" y="233">外観写真・間取り・所在の町名が公開されます</text>
+
+    <rect x="44" y="254" width="360" height="58" rx="8" fill="#fef2f2" stroke="#fecaca"/>
+    <text x="60" y="277" font-weight="bold" fill="#b91c1c">③ 現地の「売物件」看板・のぼり</text>
+    <text x="60" y="299">通りかかった人がその場で気づきます</text>
+
+    <rect x="44" y="320" width="360" height="58" rx="8" fill="#fef2f2" stroke="#fecaca"/>
+    <text x="60" y="343" font-weight="bold" fill="#b91c1c">④ 折込チラシ・ポスティング</text>
+    <text x="60" y="365">同じ学区・同じ町内に狙って配られます</text>
+
+    <rect x="44" y="386" width="360" height="58" rx="8" fill="#fef2f2" stroke="#fecaca"/>
+    <text x="60" y="409" font-weight="bold" fill="#b91c1c">⑤ オープンハウス・内見の出入り</text>
+    <text x="60" y="431">見知らぬ人が何度も出入りします</text>
+
+    <rect x="44" y="452" width="360" height="52" rx="8" fill="#f1f5f9" stroke="#cbd5e1"/>
+    <text x="60" y="474" font-weight="bold" fill="#334155">⑥ 売却後の所有権移転登記</text>
+    <text x="60" y="494" fill="#334155">誰でも600円で確認できます（自動通知はありません）</text>
+  </g>
+
+  <!-- 買取 -->
+  <rect x="436" y="60" width="400" height="464" rx="12" fill="#fff" stroke="#059669" stroke-width="2"/>
+  <rect x="436" y="60" width="400" height="46" rx="12" fill="#059669"/>
+  <rect x="436" y="94" width="400" height="12" fill="#059669"/>
+  <text x="636" y="91" text-anchor="middle" font-size="19" font-weight="bold" fill="#fff">買取業者に直接売る</text>
+
+  <g font-size="15">
+    <rect x="456" y="122" width="360" height="322" rx="8" fill="#ecfdf5" stroke="#a7f3d0"/>
+    <text x="636" y="168" text-anchor="middle" font-size="17" font-weight="bold" fill="#047857">①〜⑤は発生しません</text>
+    <text x="636" y="204" text-anchor="middle" fill="#065f46">買主が業者ひとりなので、</text>
+    <text x="636" y="228" text-anchor="middle" fill="#065f46">市場に情報を出す必要がありません</text>
+    <text x="636" y="272" text-anchor="middle" fill="#065f46">レインズ登録義務は</text>
+    <text x="636" y="296" text-anchor="middle" fill="#065f46">「専任媒介契約」に課されるもので、</text>
+    <text x="636" y="320" text-anchor="middle" fill="#065f46">業者への直接売却には適用されません</text>
+    <text x="636" y="364" text-anchor="middle" fill="#065f46">看板・チラシ・オープンハウスも</text>
+    <text x="636" y="388" text-anchor="middle" fill="#065f46">買い手を探す作業なので不要です</text>
+    <text x="636" y="424" text-anchor="middle" font-size="14" fill="#6b7280">残るのは現地調査の1〜2回だけです</text>
+
+    <rect x="456" y="452" width="360" height="52" rx="8" fill="#f1f5f9" stroke="#cbd5e1"/>
+    <text x="472" y="474" font-weight="bold" fill="#334155">⑥ 売却後の所有権移転登記</text>
+    <text x="472" y="494" fill="#334155">これだけは、どちらの売り方でも残ります</text>
+  </g>
+</svg>

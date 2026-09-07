@@ -1,0 +1,43 @@
+{
+  "date": "2026-09-04",
+  "slug": "ig-2026-09-04-manga_serial",
+  "title": "過去の人数を\n聞かれて\n黙った日",
+  "type": "manga_carousel",
+  "variant": "serial",
+  "theme": "相続アパート・入居の履歴",
+  "format": 2,
+  "files": [
+    "01.png",
+    "02.png",
+    "03.png",
+    "04.png",
+    "05.png",
+    "06.png"
+  ],
+  "checks": {
+    "script_ok": true,
+    "useful_point_ok": true,
+    "forbidden_ok": true,
+    "pages": 6,
+    "panels": 9,
+    "layouts": [
+      "v2",
+      "v2big",
+      "t2b1",
+      "full"
+    ],
+    "dimensions": "1080x1350",
+    "art_md5": [
+      "08d1f39fea7bd967357b360963f8e176",
+      "392218502c1fecc42075a5de7996897e",
+      "5a495f4f87b01eef55f8bcb9c35c6809",
+      "69869b6afbdb35973d1230ade5abdf02",
+      "75d0267be6e1b6c8dae45d838dc89d64",
+      "9f4878847ebad0ea84dcb0566358adae",
+      "c100e19ab44079b8f9a1ae3b128238d5",
+      "d48446d8954e5e92b32613333159b527",
+      "f5affcfad44e3633f1be2379c1ece979"
+    ],
+    "dry_run": false
+  }
+}

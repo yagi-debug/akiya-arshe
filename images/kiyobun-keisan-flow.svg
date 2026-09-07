@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620" width="900" height="620" role="img" aria-label="寄与分が認められた場合の相続分の計算手順と、遺産が不動産中心のときに代償金が足りなくなる仕組みの図">
+  <style>
+    .t{font-family:"Hiragino Sans","Noto Sans JP",sans-serif;fill:#1f2933}
+    .ttl{font-size:21px;font-weight:700}
+    .sub{font-size:13px;fill:#52606d}
+    .step{font-size:13px;font-weight:700;fill:#fff}
+    .lbl{font-size:15px;font-weight:700}
+    .num{font-size:15px;font-weight:700;fill:#1a5632}
+    .cap{font-size:12.5px;fill:#52606d}
+    .warn{font-size:14px;font-weight:700;fill:#9b2c2c}
+  </style>
+  <rect width="900" height="620" fill="#fbfcfd"/>
+  <text class="t ttl" x="30" y="40">寄与分が認められても、遺産が不動産中心だと現金は増えません</text>
+  <text class="t sub" x="30" y="64">例：遺産＝大阪市内の実家（相続開始時の評価1,800万円）＋預貯金200万円／相続人＝長男・次男の2人／長男の寄与分300万円が認められた場合</text>
+
+  <rect x="30" y="88" width="840" height="86" rx="8" fill="#eef7f1" stroke="#1a5632" stroke-width="2"/>
+  <circle cx="58" cy="116" r="14" fill="#1a5632"/><text class="t step" x="58" y="121" text-anchor="middle">1</text>
+  <text class="t lbl" x="84" y="121">遺産の総額から寄与分を引く（＝みなし相続財産）</text>
+  <text class="t num" x="84" y="152">2,000万円 － 300万円 ＝ 1,700万円</text>
+  <text class="t cap" x="470" y="152">民法904条の2第1項</text>
+
+  <rect x="30" y="192" width="840" height="86" rx="8" fill="#eef7f1" stroke="#1a5632" stroke-width="2"/>
+  <circle cx="58" cy="220" r="14" fill="#1a5632"/><text class="t step" x="58" y="225" text-anchor="middle">2</text>
+  <text class="t lbl" x="84" y="225">みなし相続財産を法定相続分で分ける（長男・次男 各2分の1）</text>
+  <text class="t num" x="84" y="256">1,700万円 × 1/2 ＝ 850万円ずつ</text>
+
+  <rect x="30" y="296" width="840" height="86" rx="8" fill="#eef7f1" stroke="#1a5632" stroke-width="2"/>
+  <circle cx="58" cy="324" r="14" fill="#1a5632"/><text class="t step" x="58" y="329" text-anchor="middle">3</text>
+  <text class="t lbl" x="84" y="329">寄与した人には、法定相続分に寄与分を足し戻す</text>
+  <text class="t num" x="84" y="360">長男 850万円 ＋ 300万円 ＝ 1,150万円／次男 850万円</text>
+
+  <line x1="450" y1="392" x2="450" y2="418" stroke="#9b2c2c" stroke-width="3"/>
+  <polygon points="442,416 450,432 458,416" fill="#9b2c2c"/>
+
+  <rect x="30" y="440" width="840" height="150" rx="8" fill="#fff5f5" stroke="#9b2c2c" stroke-width="2"/>
+  <text class="t warn" x="56" y="470">ここで詰まります：長男が実家を引き継ぐと、次男へ650万円の代償金が必要</text>
+  <text class="t cap" x="56" y="498">長男が実家1,800万円を取得 → 取り分1,150万円を650万円ぶん超える</text>
+  <text class="t cap" x="56" y="522">次男が受け取れるのは預貯金200万円だけ → 不足分650万円を長男が現金で払う</text>
+  <text class="t cap" x="56" y="546">遺産の現金は200万円しかないため、長男は自腹・借入・売却のいずれかを選ぶことになる</text>
+  <text class="t cap" x="56" y="572">※ 金額は説明のための仮の例です。実際の寄与分の額は協議または家庭裁判所の判断で決まります</text>
+</svg>

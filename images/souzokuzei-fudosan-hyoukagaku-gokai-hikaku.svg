@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560" width="900" height="560" role="img" aria-label="相続税の不動産評価額と譲渡所得税の計算式の違いを並べて比較した図">
+  <title>相続税と譲渡所得税で「不動産の金額」の出し方はまったく別</title>
+  <rect x="0" y="0" width="900" height="560" fill="#ffffff"/>
+  <text x="450" y="38" text-anchor="middle" font-family="'Hiragino Sans','Noto Sans JP',sans-serif" font-size="22" font-weight="bold" fill="#111827">同じ「不動産の金額」でも、税金ごとに出し方が違います</text>
+
+  <!-- 左: 相続税 -->
+  <rect x="30" y="66" width="400" height="440" rx="12" fill="#eef2ff" stroke="#1a56db" stroke-width="2"/>
+  <rect x="30" y="66" width="400" height="46" rx="12" fill="#1a56db"/>
+  <rect x="30" y="96" width="400" height="16" fill="#1a56db"/>
+  <text x="230" y="97" text-anchor="middle" font-family="'Hiragino Sans','Noto Sans JP',sans-serif" font-size="20" font-weight="bold" fill="#ffffff">相続税（もらったとき）</text>
+
+  <text x="52" y="146" font-family="'Hiragino Sans','Noto Sans JP',sans-serif" font-size="15" fill="#374151">課税されるもの</text>
+  <text x="52" y="174" font-family="'Hiragino Sans','Noto Sans JP',sans-serif" font-size="18" font-weight="bold" fill="#111827">相続した財産そのもの</text>
+
+  <line x1="52" y1="192" x2="408" y2="192" stroke="#c7d2fe" stroke-width="2"/>
+
+  <text x="52" y="222" font-family="'Hiragino Sans','Noto Sans JP',sans-serif" font-size="15" fill="#374151">不動産の金額の出し方</text>
+  <rect x="52" y="236" width="356" height="52" rx="8" fill="#ffffff" stroke="#93c5fd" stroke-width="2"/>
+  <text x="230" y="258" text-anchor="middle" font-family="'Hiragino Sans','Noto Sans JP',sans-serif" font-size="16" font-weight="bold" fill="#1a56db">土地＝路線価方式 または 倍率方式</text>
+  <text x="230" y="279" text-anchor="middle" font-family="'Hiragino Sans','Noto Sans JP',sans-serif" font-size="16" font-weight="bold" fill="#1a56db">家屋＝固定資産税評価額 × 1.0</text>
+
+  <text x="52" y="320" font-family="'Hiragino Sans','Noto Sans JP',sans-serif" font-size="15" fill="#374151">買った値段（取得費）</text>
+  <rect x="52" y="332" width="356" height="40" rx="8" fill="#fee2e2" stroke="#ef4444" stroke-width="2"/>
+  <text x="230" y="358" text-anchor="middle" font-family="'Hiragino Sans','Noto Sans JP',sans-serif" font-size="17" font-weight="bold" fill="#b91c1c">使いません（一切関係なし）</text>
+
+  <text x="52" y="404" font-family="'Hiragino Sans','Noto Sans JP',sans-serif" font-size="15" fill="#374151">売っていなくてもかかる</text>
+  <text x="52" y="430" font-family="'Hiragino Sans','Noto Sans JP',sans-serif" font-size="17" font-weight="bold" fill="#111827">はい。持ったままでも課税</text>
+
+  <text x="52" y="466" font-family="'Hiragino Sans','Noto Sans JP',sans-serif" font-size="15" fill="#374151">期限</text>
+  <text x="52" y="490" font-family="'Hiragino Sans','Noto Sans JP',sans-serif" font-size="17" font-weight="bold" fill="#111827">死亡を知った日の翌日から10か月</text>
+
+  <!-- 右: 譲渡所得税 -->
+  <rect x="470" y="66" width="400" height="440" rx="12" fill="#f0fdf4" stroke="#15803d" stroke-width="2"/>
+  <rect x="470" y="66" width="400" height="46" rx="12" fill="#15803d"/>
+  <rect x="470" y="96" width="400" height="16" fill="#15803d"/>
+  <text x="670" y="97" text-anchor="middle" font-family="'Hiragino Sans','Noto Sans JP',sans-serif" font-size="20" font-weight="bold" fill="#ffffff">譲渡所得税（売ったとき）</text>
+
+  <text x="492" y="146" font-family="'Hiragino Sans','Noto Sans JP',sans-serif" font-size="15" fill="#374151">課税されるもの</text>
+  <text x="492" y="174" font-family="'Hiragino Sans','Noto Sans JP',sans-serif" font-size="18" font-weight="bold" fill="#111827">売って出た利益（もうけ）</text>
+
+  <line x1="492" y1="192" x2="848" y2="192" stroke="#bbf7d0" stroke-width="2"/>
+
+  <text x="492" y="222" font-family="'Hiragino Sans','Noto Sans JP',sans-serif" font-size="15" fill="#374151">不動産の金額の出し方</text>
+  <rect x="492" y="236" width="356" height="52" rx="8" fill="#ffffff" stroke="#86efac" stroke-width="2"/>
+  <text x="670" y="266" text-anchor="middle" font-family="'Hiragino Sans','Noto Sans JP',sans-serif" font-size="16" font-weight="bold" fill="#15803d">売った金額 −（取得費＋譲渡費用）</text>
+
+  <text x="492" y="320" font-family="'Hiragino Sans','Noto Sans JP',sans-serif" font-size="15" fill="#374151">買った値段（取得費）</text>
+  <rect x="492" y="332" width="356" height="40" rx="8" fill="#dcfce7" stroke="#15803d" stroke-width="2"/>
+  <text x="670" y="358" text-anchor="middle" font-family="'Hiragino Sans','Noto Sans JP',sans-serif" font-size="17" font-weight="bold" fill="#166534">使います（ここで初めて登場）</text>
+
+  <text x="492" y="404" font-family="'Hiragino Sans','Noto Sans JP',sans-serif" font-size="15" fill="#374151">売っていなくてもかかる</text>
+  <text x="492" y="430" font-family="'Hiragino Sans','Noto Sans JP',sans-serif" font-size="17" font-weight="bold" fill="#111827">いいえ。売らなければ課税なし</text>
+
+  <text x="492" y="466" font-family="'Hiragino Sans','Noto Sans JP',sans-serif" font-size="15" fill="#374151">期限</text>
+  <text x="492" y="490" font-family="'Hiragino Sans','Noto Sans JP',sans-serif" font-size="17" font-weight="bold" fill="#111827">売った年の翌年2/16〜3/15に申告</text>
+
+  <text x="450" y="536" text-anchor="middle" font-family="'Hiragino Sans','Noto Sans JP',sans-serif" font-size="14" fill="#6b7280">出典：国税庁タックスアンサーNo.4602・No.4152・No.3202をもとに空き家のミカタ作成</text>
+</svg>

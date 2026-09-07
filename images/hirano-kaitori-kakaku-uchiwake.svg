@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560" width="900" height="560" role="img" aria-label="仲介で売れたと仮定した価格を100としたときの、買取価格と業者側コストの内訳">
+  <rect width="900" height="560" fill="#ffffff"/>
+  <text x="450" y="38" text-anchor="middle" font-family="'Hiragino Sans','Noto Sans JP',sans-serif" font-size="21" font-weight="bold" fill="#1f2937">仲介で売れたと仮定した価格を100としたときの内訳</text>
+  <text x="450" y="64" text-anchor="middle" font-family="'Hiragino Sans','Noto Sans JP',sans-serif" font-size="14" fill="#6b7280">大阪市平野区の築古戸建て・長屋を業者が買い取り、修繕して再販する場合の一般的な例</text>
+
+  <!-- bar -->
+  <g>
+    <rect x="60" y="100" width="480" height="60" fill="#1a56db"/>
+    <rect x="540" y="100" width="32" height="60" fill="#93c5fd"/>
+    <rect x="572" y="100" width="96" height="60" fill="#60a5fa"/>
+    <rect x="668" y="100" width="24" height="60" fill="#a5b4fc"/>
+    <rect x="692" y="100" width="32" height="60" fill="#c4b5fd"/>
+    <rect x="724" y="100" width="56" height="60" fill="#fbbf24"/>
+    <rect x="780" y="100" width="80" height="60" fill="#f87171"/>
+    <rect x="60" y="100" width="800" height="60" fill="none" stroke="#374151" stroke-width="1.5"/>
+  </g>
+  <text x="300" y="137" text-anchor="middle" font-family="'Hiragino Sans','Noto Sans JP',sans-serif" font-size="19" font-weight="bold" fill="#ffffff">売主が受け取る買取価格　60</text>
+  <text x="60" y="184" font-family="'Hiragino Sans','Noto Sans JP',sans-serif" font-size="13" fill="#6b7280">0</text>
+  <text x="860" y="184" text-anchor="end" font-family="'Hiragino Sans','Noto Sans JP',sans-serif" font-size="13" fill="#6b7280">100</text>
+
+  <!-- legend -->
+  <g font-family="'Hiragino Sans','Noto Sans JP',sans-serif" font-size="15" fill="#1f2937">
+    <rect x="70" y="222" width="18" height="18" fill="#1a56db"/><text x="96" y="237">売主が受け取る買取価格</text><text x="500" y="237" font-weight="bold">60</text>
+    <rect x="70" y="256" width="18" height="18" fill="#93c5fd"/><text x="96" y="271">取得時の税（登録免許税・不動産取得税・印紙税）</text><text x="500" y="271" font-weight="bold">4</text>
+    <rect x="70" y="290" width="18" height="18" fill="#60a5fa"/><text x="96" y="305">修繕・解体・残置物処分の実費</text><text x="500" y="305" font-weight="bold">12</text>
+    <rect x="70" y="324" width="18" height="18" fill="#a5b4fc"/><text x="96" y="339">保有中の固定資産税・保険・管理費</text><text x="500" y="339" font-weight="bold">3</text>
+    <rect x="70" y="358" width="18" height="18" fill="#c4b5fd"/><text x="96" y="373">再販時の仲介手数料・広告費</text><text x="500" y="373" font-weight="bold">4</text>
+    <rect x="70" y="392" width="18" height="18" fill="#fbbf24"/><text x="96" y="407">売れ残り・値下げに備える引当</text><text x="500" y="407" font-weight="bold">7</text>
+    <rect x="70" y="426" width="18" height="18" fill="#f87171"/><text x="96" y="441">買取業者の利益</text><text x="500" y="441" font-weight="bold">10</text>
+  </g>
+
+  <line x1="70" y1="466" x2="830" y2="466" stroke="#d1d5db" stroke-width="1"/>
+  <text x="70" y="492" font-family="'Hiragino Sans','Noto Sans JP',sans-serif" font-size="13" fill="#6b7280">※比率は物件ごとに変わります。解体が必要な物件では「修繕・解体」が20を超え、買取価格は50前後まで下がります。</text>
+  <text x="70" y="514" font-family="'Hiragino Sans','Noto Sans JP',sans-serif" font-size="13" fill="#6b7280">※逆に修繕が軽微で早期に再販できる見込みなら、引当と修繕が縮み買取価格は70前後まで上がります。</text>
+  <text x="70" y="540" font-family="'Hiragino Sans','Noto Sans JP',sans-serif" font-size="12" fill="#9ca3af">作成: 空き家のミカタ編集部（合同会社アルシェ・大阪府知事(1)第65646号）</text>
+</svg>

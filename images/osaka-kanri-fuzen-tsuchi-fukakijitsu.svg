@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 500" width="900" height="500" role="img" aria-label="勧告を受けた時期と固定資産税の賦課期日1月1日の関係を示したカレンダー図">
+  <style>
+    .t{font-family:"Hiragino Sans","Noto Sans JP",sans-serif;fill:#1f2933}
+    .ttl{font-size:22px;font-weight:700}
+    .sub{font-size:13px;fill:#52606d}
+    .lbl{font-size:14.5px;font-weight:700}
+    .cap{font-size:12.5px;fill:#52606d}
+    .mon{font-size:12px;fill:#6b7280}
+    .badge{font-size:13px;font-weight:700;fill:#fff}
+  </style>
+  <rect width="900" height="500" fill="#fbfcfd"/>
+  <text class="t ttl" x="30" y="40">勧告を受けても、税額が変わるのは翌年度からです</text>
+  <text class="t sub" x="30" y="64">固定資産税の賦課期日は毎年1月1日（地方税法359条）。この日の状態で1年分が決まります</text>
+
+  <!-- timeline base -->
+  <line x1="60" y1="150" x2="850" y2="150" stroke="#cbd2d9" stroke-width="4" stroke-linecap="round"/>
+
+  <!-- year markers -->
+  <text class="t mon" x="70" y="180" text-anchor="middle">4月</text>
+  <text class="t mon" x="230" y="180" text-anchor="middle">6月</text>
+  <text class="t mon" x="400" y="180" text-anchor="middle">10月</text>
+  <text class="t mon" x="530" y="180" text-anchor="middle">12月31日</text>
+  <text class="t mon" x="620" y="180" text-anchor="middle">1月1日</text>
+  <text class="t mon" x="790" y="180" text-anchor="middle">翌年4〜6月</text>
+
+  <!-- 賦課期日 line -->
+  <line x1="620" y1="100" x2="620" y2="330" stroke="#9b2c2c" stroke-width="3"/>
+  <rect x="556" y="100" width="128" height="26" rx="5" fill="#9b2c2c"/>
+  <text class="t badge" x="620" y="118" text-anchor="middle">賦課期日 1月1日</text>
+
+  <!-- 12/31 dashed -->
+  <line x1="530" y1="128" x2="530" y2="330" stroke="#b7791f" stroke-width="2" stroke-dasharray="6 5"/>
+
+  <!-- events -->
+  <circle cx="230" cy="150" r="10" fill="#b7791f"/>
+  <text class="t lbl" x="230" y="134" text-anchor="middle">勧告が届く</text>
+
+  <circle cx="620" cy="150" r="10" fill="#9b2c2c"/>
+  <circle cx="790" cy="150" r="10" fill="#2b6cb0"/>
+  <text class="t lbl" x="790" y="134" text-anchor="middle">納税通知書</text>
+
+  <!-- case A -->
+  <rect x="30" y="204" width="400" height="118" rx="8" fill="#eef6f0" stroke="#1a5632" stroke-width="2"/>
+  <text class="t lbl" x="46" y="228">ケースA：12月31日までに改善が認められた場合</text>
+  <text class="t cap" x="46" y="252">1月1日の時点で「勧告を受けた管理不全空家等の敷地」に</text>
+  <text class="t cap" x="46" y="272">該当しなければ、住宅用地特例はそのまま適用されます。</text>
+  <text class="t cap" x="46" y="292">つまり、勧告が届いた年のうちに動けば、増税を回避できる</text>
+  <text class="t cap" x="46" y="312">可能性があります（改善の認定は自治体の判断です）。</text>
+
+  <!-- case B -->
+  <rect x="452" y="204" width="418" height="118" rx="8" fill="#fdf0ef" stroke="#9b2c2c" stroke-width="2"/>
+  <text class="t lbl" x="468" y="228">ケースB：勧告を受けたまま1月1日を迎えた場合</text>
+  <text class="t cap" x="468" y="252">その年度分から住宅用地特例が外れます。小規模住宅用地</text>
+  <text class="t cap" x="468" y="272">（200㎡以下の部分）は課税標準が6分の1から満額に、</text>
+  <text class="t cap" x="468" y="292">都市計画税は3分の1から満額に戻ります。実際に金額を</text>
+  <text class="t cap" x="468" y="312">知るのは、翌年4〜6月ごろ届く納税通知書のときです。</text>
+
+  <!-- bottom -->
+  <rect x="30" y="346" width="840" height="128" rx="8" fill="#f5f7fa" stroke="#cbd2d9" stroke-width="1.5"/>
+  <text class="t lbl" x="46" y="372">気をつけていただきたいのは「気づくのが1年以上あと」になる点です</text>
+  <text class="t cap" x="46" y="396">勧告が届いた時点では、通帳から落ちる金額は何も変わりません。負担が数字として見えるのは、翌年度の納税通知書です。</text>
+  <text class="t cap" x="46" y="416">そのため「特に何も起きていない」と感じたまま1月1日を通過してしまい、あとから増えた税額に気づくことになりがちです。</text>
+  <text class="t cap" x="46" y="436">勧告の文書に書かれた猶予期限と、その年の12月31日。この2つの日付を先にカレンダーに入れておくことをおすすめします。</text>
+  <text class="t cap" x="46" y="458">根拠: 地方税法359条（賦課期日）・349条の3の2（住宅用地特例）・702条の3（都市計画税の特例）</text>
+</svg>
