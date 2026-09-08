@@ -208,16 +208,6 @@ A: 相続を知った日から**3年以内**に申請が必要です（不動産
     "@type": "RealEstateAgent",
     "name": "空き家のミカタ（合同会社アルシェ）",
     "url": "https://akiya.arshe-corp.com"
-  },
-  "hasCredential": {
-    "@type": "EducationalOccupationalCredential",
-    "name": "宅地建物取引士",
-    "credentialCategory": "license",
-    "recognizedBy": {
-      "@type": "GovernmentOrganization",
-      "name": "大阪府知事"
-    },
-    "identifier": "大阪府知事(1)第65646号"
   }
 }
 </script>
