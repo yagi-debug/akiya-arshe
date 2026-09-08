@@ -148,7 +148,7 @@ faqs:
 
 - [相続不動産の処分 完全ガイド2026｜法律・登記・比較表・失敗対策まで一気に解説](/guide/souzoku-fudousan-shobun-kanzen-guide) — 相続不動産の処分に関わる全ステップを1ページに集約したピラーページ。Article+FAQPage+HowTo 3重Schema対応
 - [相続した不動産の売り方 完全ガイド2026年版](/guide/souzoku-fudousan-urikata-kanzen-guide) — 相続登記から引き渡しまで7ステップ。買取vs仲介の判断基準
-- [相続した不動産を売却する完全ガイド](/guide/inheritance-sale) — 全手順を宅建士が解説
+- [相続した不動産を売却する完全ガイド](/guide/inheritance-sale) — 全手順を宅建業者が解説
 - [相続から売却完了までのタイムライン（期限つき）](/guide/inheritance-sale-timeline) — 7日・3ヶ月・4ヶ月・10ヶ月・3年の期限一覧
 - [相続した家 どうすればいい？完全ハブガイド（フローチャート付き）](/guide/souzoku-ie-doushitara-hub) — 住む・貸す・売るの3択をフローチャートで整理
 - [相続した家はどうすればいい？4つの選択肢と判断基準](/guide/souzoku-ie-doushitara) — 売る・貸す・住む・放置の費用・リスク比較

@@ -4,7 +4,7 @@ description: "土砂災害警戒区域・特別警戒区域の不動産は仲介
 publishDate: "2026-06-05"
 updatedDate: "2026-06-15"
 author: "八木宏樹"
-authorTitle: "宅地建物取引士・宅地建物取引業者（大阪府知事(1)第65646号）"
+authorTitle: "宅地建物取引業者（大阪府知事(1)第65646号）"
 heroImage: "/images/doshasaigai-keikaikuiki-baikyaku-hero.jpg"
 cluster: "wakeari"
 faqs:

@@ -310,7 +310,7 @@ Dさんのように「仲介に断られた」「固定資産税だけ払い続�
 
 今回Dさんが選んだ「再建築不可物件の訳あり買取」について、より詳しく解説したガイド記事です。
 
-- <a href="/guide/saikenchifu-kaitori">再建築不可物件の買取｜売れない理由と解決策を宅建士が解説</a>
+- <a href="/guide/saikenchifu-kaitori">再建築不可物件の買取｜売れない理由と解決策を宅建業者が解説</a>
 - <a href="/guide/saikenchifu-kaitori-jirei">再建築不可物件の買取事例5選｜袋地・2m未満接道・旗竿地の解決ストーリー</a>
 - <a href="/guide/saikenchifu-kaitori-souba">再建築不可物件の買取相場｜路線価の何割が目安か</a>
 - <a href="/guide/wakeare-bukken-kaitori-nagare">訳あり不動産の買取の流れ｜相談から決済までのステップ</a>

@@ -4,7 +4,7 @@ description: "大阪府の相続アパート買取相場を築年数・エリア
 publishDate: "2026-06-08"
 updatedDate: "2026-07-17"
 author: "八木宏樹"
-authorTitle: "宅地建物取引士（大阪府知事(1)第65646号）"
+authorTitle: "宅地建物取引業者（大阪府知事(1)第65646号）"
 heroImage: "/images/osaka-souzoku-apart-kaitori-soba-2026-hero.jpg"
 cluster: "inheritance"
 faqs:
