@@ -309,49 +309,15 @@ A: 主な選択肢は、アルバリンク（東証グロース上場・全国�
 
 査定額は業者によって異なります。<strong>複数社から査定を取り、条件（価格・引き渡し時期・残置物の扱い等）を比較した上で交渉するのが最も現実的な方法です。</strong> ただし、訳あり物件は一般市場では売れにくいことが多いため、買取価格には業者の再販コストが含まれることをご理解ください。
 
-## 60秒で概算査定してみる
+## 無料査定の相談内容を整理する
 
-業者比較の前に、まずあなたの物件の概算価格を確認しましょう。3項目を選ぶだけで即時表示します。
+業者比較の前に、所在地・入居状況・困っていることを整理しておくと、相談する内容が明確になります。情報がそろっていなくても構いません。価格は物件を確認して個別にご案内します。
 
 <div style="background:#f8f9fa;border:1px solid #e0e0e0;border-radius:12px;padding:1.5rem;margin:1.5rem 0;">
-<p style="font-weight:bold;margin-bottom:1rem;color:#1a1a2e;">📋 無料AI査定 — 3ステップで概算価格を確認</p>
-<form action="/satei" method="get" style="display:flex;flex-direction:column;gap:0.75rem;">
-  <div>
-    <label style="font-size:0.85rem;font-weight:600;display:block;margin-bottom:0.25rem;">① 物件種別</label>
-    <select name="type" style="width:100%;padding:0.5rem;border:1px solid #ccc;border-radius:6px;font-size:0.9rem;">
-      <option value="">選択してください</option>
-      <option value="akiya">空き家・古家</option>
-      <option value="saikenchifu">再建築不可物件</option>
-      <option value="jiko">事故物件（心理的瑕疵）</option>
-      <option value="kyoyuu">共有持分</option>
-      <option value="apartment">相続アパート・収益物件</option>
-      <option value="other">その他の訳あり物件</option>
-    </select>
-  </div>
-  <div>
-    <label style="font-size:0.85rem;font-weight:600;display:block;margin-bottom:0.25rem;">② 所在地（都道府県）</label>
-    <select name="area" style="width:100%;padding:0.5rem;border:1px solid #ccc;border-radius:6px;font-size:0.9rem;">
-      <option value="">選択してください</option>
-      <option value="osaka">大阪府</option>
-      <option value="hyogo">兵庫県</option>
-      <option value="kyoto">京都府</option>
-      <option value="nara">奈良県</option>
-      <option value="tokyo">東京都</option>
-      <option value="other">その他（大阪・近畿対応）</option>
-    </select>
-  </div>
-  <div>
-    <label style="font-size:0.85rem;font-weight:600;display:block;margin-bottom:0.25rem;">③ 現在の状況</label>
-    <select name="status" style="width:100%;padding:0.5rem;border:1px solid #ccc;border-radius:6px;font-size:0.9rem;">
-      <option value="">選択してください</option>
-      <option value="urgent">急いで売りたい（3か月以内）</option>
-      <option value="normal">時期は問わないが早めに</option>
-      <option value="consult">まず相場を知りたいだけ</option>
-    </select>
-  </div>
-  <button type="submit" style="background:#c0392b;color:white;border:none;padding:0.75rem;border-radius:8px;font-weight:bold;font-size:1rem;cursor:pointer;margin-top:0.5rem;">概算価格を確認する（無料・60秒）</button>
-</form>
-<p style="font-size:0.75rem;color:#666;margin-top:0.5rem;">※査定は無料。売却義務なし。しつこい営業なし。</p>
+<p style="font-weight:bold;margin-bottom:1rem;color:#1a1a2e;">無料査定の相談準備メモ</p>
+<p>物件の種類・所在地・築年数・入居状況を、わかる範囲でメモにできます。入力は任意で、自動送信はされません。</p>
+<p><a href="/satei/" style="font-weight:bold;color:#c0392b;">相談準備メモを作る</a> ／ <a href="/contact/">フォームで直接相談する</a></p>
+<p style="font-size:0.75rem;color:#666;">相談・査定は無料です。相談した時点で売却を決める必要はありません。</p>
 </div>
 
 ## まとめ

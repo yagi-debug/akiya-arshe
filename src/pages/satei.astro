@@ -3,176 +3,70 @@ import PageHero from "../components/PageHero.astro";
 import BaseLayout from "../layouts/BaseLayout.astro";
 import SateiForm from "../components/SateiForm.astro";
 
+const faqs = [
+  { question: "相談・査定は無料ですか？", answer: "はい、無料です。このページでは相談準備メモを作れます。買取価格は所在地や物件の状況を確認して個別にご案内します。" },
+  { question: "相談したら売らなければなりませんか？", answer: "相談の時点で売却を決める必要はありません。提示された金額・売主側の費用・引き渡し条件を確認してからご検討ください。" },
+  { question: "アパート・再建築不可・事故物件・共有持分も相談できますか？", answer: "大阪・兵庫・京都・奈良・滋賀・和歌山の物件についてご相談を受け付けています。買取の可否・条件は物件の状態や権利関係を確認してご案内します。" },
+  { question: "情報がそろっていなくても相談できますか？", answer: "はい。準備メモの項目はすべて任意で、不明でも構いません。メモを作らずにLINEやお問い合わせフォームから相談することもできます。" },
+  { question: "メモを作ると自動で送信されますか？", answer: "メモはこの画面に表示するだけで、自動送信されません。必要に応じてコピーし、LINEやお問い合わせフォームで送信内容をご確認ください。" },
+  { question: "査定から現金化まで何日かかりますか？", answer: "物件調査・必要資料・登記や権利関係の確認にかかる期間によって異なります。希望する時期があれば、相談時にお知らせください。" },
+];
 const schema = {
   "@context": "https://schema.org",
   "@type": "WebApplication",
-  "name": "訳あり不動産 無料AI査定ツール",
-  "description": "物件タイプ・エリア・面積を入力するだけで、不動産の概算価格を即時に算出します。",
+  "name": "不動産の相談準備メモ",
+  "description": "物件の種類・所在地・築年数・土地面積・入居状況を、相談前のメモに整理できます。",
   "applicationCategory": "BusinessApplication",
-  "offers": {
-    "@type": "Offer",
-    "price": "0",
-    "priceCurrency": "JPY"
-  },
-  "provider": {
-    "@type": "RealEstateAgent",
-    "name": "空き家のミカタ",
-    "url": "https://akiya.arshe-corp.com"
-  }
+  "offers": { "@type": "Offer", "price": "0", "priceCurrency": "JPY" },
+  "provider": { "@type": "RealEstateAgent", "name": "空き家のミカタ", "url": "https://akiya.arshe-corp.com" },
 };
-
 const faqSchema = {
   "@context": "https://schema.org",
   "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "査定は無料ですか？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "はい、完全無料です。査定依頼の時点では費用は一切発生しません。査定額を確認した上で売却するかどうかを判断していただけます。"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "査定後、必ず売らなければなりませんか？しつこい営業はありますか？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "いいえ、売却義務はありません。査定額を把握した上で「売らない」という判断も歓迎します。当社は代表が直接対応するため、スタッフによるしつこい営業電話もありません。"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "再建築不可・事故物件・共有持分・相続アパートも査定できますか？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "はい、すべて対応しています。通常の仲介では断られやすい訳あり物件（再建築不可・事故物件・共有持分・相続アパート・空き家・底地・借地権）でも、専門業者として買取査定が可能です。まず物件種別・エリアを選択してください。"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "匿名で査定を依頼できますか？個人情報は守られますか？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "はい、匿名でご利用いただけます。このフォームでは氏名・連絡先の入力は任意です。まず概算金額を把握したい場合は、物件種別とエリアだけ選択して結果を確認してください。個人情報は当社のプライバシーポリシーに基づき第三者に提供しません。"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "査定から現金化まで何日かかりますか？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "最短3日で現金化が可能です（物件の状態・権利関係が整っている場合）。一般的には相談から1〜2週間で決済まで完了します。急いで手放したい事情がある場合は、フォーム送信時にその旨をお伝えください。優先対応いたします。"
-      }
-    }
-  ]
+  "mainEntity": faqs.map(faq => ({ "@type": "Question", "name": faq.question, "acceptedAnswer": { "@type": "Answer", "text": faq.answer } })),
 };
 ---
-
 <BaseLayout
-  title="【匿名OK】訳あり不動産 買取価格シミュレーター｜物件種別・築年数・エリアで60秒概算査定＋買取vs仲介比較【2026年版】"
-  description="大阪・近畿の物件の種別・築年数・エリアを選ぶだけで60秒で「市場価格」と「概算買取価格」の両方を表示。相続アパート・再建築不可・事故物件・共有持分・空き家すべて対応。買取vs仲介vs放置の比較表付き。完全無料・匿名OK・売却強制なし。大阪府知事(1)第65646号。"
+  title="不動産の無料査定・相談準備メモ｜相続アパート・空き家【大阪・近畿対応】"
+  description="大阪・近畿の相続アパート・空き家などの相談前に、所在地・築年数・入居状況をメモに整理できます。入力は任意・自動送信なし。買取価格は物件を確認して個別にご案内。相談・査定無料。"
   schema={schema}
   faqSchema={faqSchema}
 >
   <PageHero
-    label="無料AI査定"
-    title="60秒で概算査定"
-    sub="物件種別・エリア・面積を選ぶだけで概算価格を即時表示。相続・訳あり・空き家など、どんな物件でもOK。査定は無料・売却強制なし。"
+    label="無料査定の相談準備"
+    title="わかる範囲の情報から相談できます"
+    sub="売却するか迷っている段階でも構いません。まずは所在地と困っていることをお知らせください。"
     image="/images/site/satei-desk.webp"
   />
   <main class="min-h-screen bg-bg py-10">
     <div class="mx-auto max-w-3xl px-4">
-
-      <div class="mb-8 text-center">
-        <p class="label-line mb-2">かんたん3ステップ</p>
-      </div>
-
       <SateiForm id="satei-page" />
-
-      <!-- 買取 vs 仲介 vs 放置 比較セクション -->
       <section class="mt-10 rounded-xl border border-border bg-white p-6">
-        <h2 class="mb-2 text-xl font-bold text-primary">買取 vs 仲介 vs 放置——どれが正解？</h2>
-        <p class="mb-4 text-sm text-text-light">査定額シミュレーター結果と合わせて、3つの選択肢を比較してください。</p>
+        <h2 class="mb-3 text-xl font-bold text-primary">買取・仲介・保有を比べるときの確認項目</h2>
+        <p class="mb-4 text-sm text-text-light">金額だけでなく、売主側に残る費用と必要な期間も確認します。条件は物件ごとに異なります。</p>
         <div class="overflow-x-auto">
-          <table class="w-full text-sm border-collapse">
-            <thead>
-              <tr class="bg-primary/10">
-                <th class="border border-border px-3 py-2 text-left font-bold text-primary">比較軸</th>
-                <th class="border border-border px-3 py-2 text-center font-bold text-accent">買取</th>
-                <th class="border border-border px-3 py-2 text-center font-bold text-primary">仲介</th>
-                <th class="border border-border px-3 py-2 text-center font-bold text-text-light">放置</th>
-              </tr>
-            </thead>
+          <table class="w-full border-collapse text-sm">
+            <thead><tr class="bg-primary/10">
+              {["確認すること", "当社の直接買取", "仲介で売却", "保有を続ける"].map(label => <th class="border border-border p-3 text-left">{label}</th>)}
+            </tr></thead>
             <tbody>
               {[
-                { axis: "現金化スピード", kaitori: "最短2〜3週間", chukai: "3〜12ヶ月", houchi: "なし（ずっと保有）" },
-                { axis: "手取り額", kaitori: "相場の60〜80%（手数料0円）", chukai: "相場通り（手数料3%+6万円）", houchi: "なし。価値は下落" },
-                { axis: "訳あり物件対応", kaitori: "◎ 現況のまま買取", chukai: "△ 断られることが多い", houchi: "✗ 問題は解決しない" },
-                { axis: "内覧・片付け", kaitori: "不要", chukai: "必要", houchi: "管理コストが毎年増加" },
-                { axis: "固定資産税", kaitori: "売却後ゼロ", chukai: "売れるまで毎年発生", houchi: "10年で100〜300万円超" },
-                { axis: "精神的負担", kaitori: "低（早期に解決）", chukai: "中（売れるまで不安）", houchi: "高（老朽化・苦情・特定空き家リスク）" },
-              ].map((row) => (
-                <tr class="even:bg-bg">
-                  <td class="border border-border px-3 py-2 font-bold text-text">{row.axis}</td>
-                  <td class="border border-border px-3 py-2 text-center text-accent">{row.kaitori}</td>
-                  <td class="border border-border px-3 py-2 text-center text-text">{row.chukai}</td>
-                  <td class="border border-border px-3 py-2 text-center text-text-light">{row.houchi}</td>
-                </tr>
-              ))}
+                ["金額", "個別査定で買取額を確認", "売出価格と成約見込みを相談", "現在の家賃収入と支出を確認"],
+                ["費用", "当社の直接買取は仲介手数料なし。登記等の費用は別途確認", "仲介手数料・登記等の見積もりを確認", "税金・管理費・保険・修繕費を確認"],
+                ["時期", "物件調査・権利確認後に日程を相談", "販売活動・買主との条件調整が必要", "今後の修繕予定と管理の負担を確認"],
+                ["荷物・入居者", "残置物と賃貸契約の扱いを確認", "引き渡し条件を買主と調整", "管理会社との契約と入居状況を確認"],
+              ].map(row => <tr class="even:bg-bg">{row.map(cell => <td class="border border-border p-3 align-top">{cell}</td>)}</tr>)}
             </tbody>
           </table>
         </div>
-        <p class="mt-4 rounded-lg bg-accent/5 border border-accent/20 px-4 py-3 text-sm font-bold text-accent">
-          結論：急いで売る・訳あり・築古なら<strong>買取</strong>が有利。時間に余裕がある・築浅・好立地なら<strong>仲介</strong>を検討。<strong>放置は10年で固定資産税・管理費100〜300万円超の損失</strong>になるため最悪の選択。
-        </p>
+        <p class="mt-4 text-sm"><a href="/guide/souzoku-apart-uritai-lp/" class="font-bold text-primary underline">相続アパートの手残りの比べ方・相談前のチェックを見る</a></p>
       </section>
-
-      <section class="mt-10 rounded-xl border border-border bg-white p-6">
-        <h2 class="mb-4 text-xl font-bold text-primary">買取実績（匿名・一部抜粋）</h2>
-        <p class="mb-4 text-sm text-text-light">当社が実際に対応した訳あり物件の事例です。氏名・住所は匿名化しています。</p>
-        <ul class="space-y-4">
-          <li class="rounded-lg bg-gray-50 p-4">
-            <p class="text-sm font-bold text-primary">大阪市内／相続アパート（築47年・満室率55%）</p>
-            <p class="mt-1 text-sm text-text-light">相続後に管理が手に負えなくなり相談。入居者がいるまま現況買取。<strong>相談から14日で決済完了。</strong>他社では「入居者がいると難しい」と断られていたケース。</p>
-          </li>
-          <li class="rounded-lg bg-gray-50 p-4">
-            <p class="text-sm font-bold text-primary">近畿圏某市／再建築不可の一戸建て（旗竿地・接道幅1.8m）</p>
-            <p class="mt-1 text-sm text-text-light">大手仲介3社に断られた後、当社に相談。法律上の制限を前提とした現況買取で<strong>相談から8日で現金化。</strong>解体費・残置物処理も当社が負担。</p>
-          </li>
-          <li class="rounded-lg bg-gray-50 p-4">
-            <p class="text-sm font-bold text-primary">大阪府内／共有持分（1/3・共有者と長年連絡不通）</p>
-            <p class="mt-1 text-sm text-text-light">共有者の所在不明で身動きが取れない状態。持分のみの買取スキームを活用し<strong>相談から21日で解決。</strong>共有者への連絡・交渉も当社が代行。</p>
-          </li>
-        </ul>
-      </section>
-
       <section class="mt-8 rounded-xl border border-border bg-white p-6">
         <h2 class="mb-4 text-xl font-bold text-primary">よくある質問</h2>
         <dl class="space-y-5">
-          <div>
-            <dt class="font-bold text-primary">Q. 査定は無料ですか？</dt>
-            <dd class="mt-1 text-sm text-text-light">はい、完全無料です。査定依頼の時点では費用は一切発生しません。査定額を確認した上で売却するかどうかを判断していただけます。</dd>
-          </div>
-          <div>
-            <dt class="font-bold text-primary">Q. 査定後、必ず売らなければなりませんか？しつこい営業はありますか？</dt>
-            <dd class="mt-1 text-sm text-text-light">いいえ、売却義務はありません。査定額を把握した上で「売らない」という判断も歓迎します。当社は代表が直接対応するため、スタッフによるしつこい営業電話もありません。</dd>
-          </div>
-          <div>
-            <dt class="font-bold text-primary">Q. 再建築不可・事故物件・共有持分・相続アパートも査定できますか？</dt>
-            <dd class="mt-1 text-sm text-text-light">はい、すべて対応しています。通常の仲介では断られやすい訳あり物件（再建築不可・事故物件・共有持分・相続アパート・空き家・底地・借地権）でも、専門業者として買取査定が可能です。</dd>
-          </div>
-          <div>
-            <dt class="font-bold text-primary">Q. 匿名で査定を依頼できますか？個人情報は守られますか？</dt>
-            <dd class="mt-1 text-sm text-text-light">はい、匿名でご利用いただけます。このフォームでは氏名・連絡先の入力は任意です。まず概算金額を把握したい場合は、物件種別とエリアだけ選択して結果を確認してください。個人情報は当社のプライバシーポリシーに基づき第三者に提供しません。</dd>
-          </div>
-          <div>
-            <dt class="font-bold text-primary">Q. 査定から現金化まで何日かかりますか？</dt>
-            <dd class="mt-1 text-sm text-text-light">最短3日で現金化が可能です（物件の状態・権利関係が整っている場合）。一般的には相談から1〜2週間で決済まで完了します。急いで手放したい事情がある場合は、フォーム送信時にその旨をお伝えください。</dd>
-          </div>
+          {faqs.map(faq => <div><dt class="font-bold text-primary">Q. {faq.question}</dt><dd class="mt-1 text-sm text-text-light">{faq.answer}</dd></div>)}
         </dl>
       </section>
-
     </div>
   </main>
 </BaseLayout>

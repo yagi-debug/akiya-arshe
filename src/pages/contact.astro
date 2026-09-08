@@ -30,7 +30,7 @@ const breadcrumbs = [
           LINEでのご相談（一番かんたん）
         </h2>
         <p class="mb-4 text-sm text-text-light">
-          「空き家のミカタ」を友だち追加するだけ
+          友だち追加後、物件の市区町村と困っていることをお送りください
         </p>
 
         <a
@@ -48,7 +48,7 @@ const breadcrumbs = [
         <!-- QRコード -->
         <img src="/images/line-qr.png" alt="空き家のミカタ LINE QRコード" class="mx-auto mb-3 rounded" style="width: 160px; height: 160px;" />
 
-        <p class="text-sm text-text-light">トークで相談内容を送るだけ。24時間受付。</p>
+        <p class="text-sm text-text-light">例：「大阪市の相続アパートです。一部空室で、管理が難しく売却を検討しています」。売却時期は未定でも構いません。24時間受付。</p>
       </div>
 
       <!-- メールアドレス -->
@@ -101,9 +101,9 @@ const breadcrumbs = [
 
           <!-- 物件の種類 -->
           <div>
-            <p class="mb-2 text-sm font-bold text-text">物件の種類</p>
+            <p class="mb-2 text-sm font-bold text-text">物件の種類（任意）</p>
             <div class="flex flex-wrap gap-4">
-              {["マンション", "一戸建て", "土地", "その他"].map((type, i) => (
+              {["アパート（一棟）", "マンション", "一戸建て", "土地", "その他", "不明"].map((type) => (
                 <label class="flex items-center gap-2 text-sm">
                   <input
                     type="radio"
@@ -135,15 +135,16 @@ const breadcrumbs = [
           <!-- ご相談内容 -->
           <div>
             <label for="message" class="mb-1 block text-sm font-bold text-text">
-              ご相談内容
+              ご相談内容（任意）
             </label>
             <textarea
               id="message"
               name="message"
               rows="5"
-              placeholder="現在の状況やお悩みをお聞かせください"
+              placeholder={"例：大阪市生野区の相続アパートです。6室のうち3室が入居中。遠方からの管理が難しく、売却を検討しています。時期は未定です。"}
               class="w-full rounded-lg border border-border px-4 py-3 text-sm transition-colors focus:border-accent focus:ring-2 focus:ring-accent/20 focus:outline-none"
             ></textarea>
+            <p class="mt-2 text-xs text-text-light">入居中か・空室か、売却を考えた理由を、わかる範囲でお知らせください。「不明」「まだ決めていない」でも構いません。相談準備メモがあれば、ここに貼り付けられます。</p>
           </div>
 
           <!-- 送信ボタン -->
