@@ -1,0 +1,66 @@
+{
+  "date": "2026-09-11",
+  "slug": "ig-2026-09-11-reel_story",
+  "title": "段ボール二十箱は、開かないままだった",
+  "type": "reel_story",
+  "theme": "売却ノウハウ",
+  "files": [
+    "reel_2026-09-11.mp4"
+  ],
+  "checks": {
+    "caption_forbidden_words": [],
+    "cta_ok": true,
+    "caption_detail_ok": true,
+    "fallback_used": false,
+    "copy_nonempty_ok": true,
+    "info_band_ok": true,
+    "title_quality_ok": true,
+    "season_ok": true,
+    "offer_stated_ok": true,
+    "cta_bridge_ok": true,
+    "caption_not_filler_ok": true,
+    "file_count_ok": true,
+    "segment_count_ok": true,
+    "dimensions_ok": true,
+    "audio_ok": true,
+    "video_ok": true,
+    "duration_ok": true,
+    "voice_credit_ok": true,
+    "bgm_ok": true,
+    "probe": {
+      "width": 1080,
+      "height": 1920,
+      "video_codec": "h264",
+      "audio_codec": "aac",
+      "duration": 53.482
+    },
+    "scene_hashes": [
+      "f919b761786bf054d8df989af134f8c6",
+      "270da984cd82303bc1e1c89c0bf6bc3d",
+      "44010c64f450c583f8b3d69c099dce8a",
+      "2280be27b3822d719714d392d3eeba5f",
+      "9cb5b55ec54351da2c837d0a1577c581",
+      "e79e2ee3126c242f5617a76e147cb05c",
+      "591e6b332b104dee59b225581e849c5c",
+      "1e28798e96a38ac63979df45336ef264",
+      "89a8915186e0e66d1d61101a4a8d3922"
+    ],
+    "plan_structure_source": "deterministic_local",
+    "plan_rollover_fallback": false
+  },
+  "fallback_used": false,
+  "fallback_notes": [
+    "scene_01: codex_generated",
+    "scene_02: codex_generated",
+    "scene_03: codex_generated",
+    "scene_04: codex_generated",
+    "scene_05: codex_generated",
+    "scene_06: codex_generated",
+    "scene_07: codex_generated",
+    "scene_08: codex_generated",
+    "scene_09: codex_generated",
+    "veo: 無効（スキル不在またはIG_DISABLE_VEO=1）"
+  ],
+  "source_plan": "/Users/aibot/arshe/1_Projects/realestate-seller/content/CONTENT-PLAN-2026-09.md",
+  "generated_config": "/Users/aibot/arshe/1_Projects/realestate-seller/scripts/instagram/configs/generated/2026-09-11.json"
+}
