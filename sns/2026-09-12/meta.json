@@ -1,0 +1,64 @@
+{
+  "date": "2026-09-12",
+  "slug": "ig-2026-09-12-reel_knowledge",
+  "title": "秋に売ると決めたら、先に集める5つ",
+  "type": "reel_knowledge",
+  "theme": "季節ネタ",
+  "files": [
+    "reel_2026-09-12.mp4"
+  ],
+  "checks": {
+    "caption_forbidden_words": [],
+    "cta_ok": true,
+    "caption_detail_ok": true,
+    "fallback_used": false,
+    "copy_nonempty_ok": true,
+    "info_band_ok": true,
+    "title_quality_ok": true,
+    "season_ok": true,
+    "offer_stated_ok": true,
+    "cta_bridge_ok": true,
+    "caption_not_filler_ok": true,
+    "file_count_ok": true,
+    "segment_count_ok": true,
+    "dimensions_ok": true,
+    "audio_ok": true,
+    "video_ok": true,
+    "duration_ok": true,
+    "voice_credit_ok": true,
+    "bgm_ok": true,
+    "probe": {
+      "width": 1080,
+      "height": 1920,
+      "video_codec": "h264",
+      "audio_codec": "aac",
+      "duration": 54.595
+    },
+    "scene_hashes": [
+      "52ad8227bd37431a503f3e9b4e4db8a9",
+      "dbd563c59c13422fe5efb3f3c2df119d",
+      "9d6d296751c26e289d4d57cc6b674f36",
+      "852c9be9a7500fe54eda76dec7306955",
+      "4e0bcdd4526a157519e0056f297948d5",
+      "fc7f80feef89ec7f11a6c394e9f3c477",
+      "3d44ca74645e223f74ff45cbcd2139d8",
+      "d6a772add63cb098759c0b61ad540661"
+    ],
+    "plan_structure_source": "deterministic_local",
+    "plan_rollover_fallback": false
+  },
+  "fallback_used": false,
+  "fallback_notes": [
+    "scene_01: codex_generated",
+    "scene_02: codex_generated",
+    "scene_03: codex_generated",
+    "scene_04: codex_generated",
+    "scene_05: codex_generated",
+    "scene_06: codex_generated",
+    "scene_07: codex_generated",
+    "scene_08: codex_generated",
+    "veo: 無効（スキル不在またはIG_DISABLE_VEO=1）"
+  ],
+  "source_plan": "/Users/aibot/arshe/1_Projects/realestate-seller/content/CONTENT-PLAN-2026-09.md",
+  "generated_config": "/Users/aibot/arshe/1_Projects/realestate-seller/scripts/instagram/configs/generated/2026-09-12.json"
+}
