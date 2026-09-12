@@ -388,3 +388,4 @@
 - LINE相談「空き家のミカタ」: https://line.arshe1719.workers.dev/auth/line?ref=llms（友だち追加で24時間相談可能）
 - 電話: 06-7509-5696（折り返しご連絡します）
 - メール: info.arshe@arshe-corp.com
+- [解体費用は確定申告でどう扱う｜相続した家の取壊し費用を取得費と譲渡費用に振り分ける【2026年版】](/guide/kaitaihi-kakuteishinkoku-keihi-keijou/)
