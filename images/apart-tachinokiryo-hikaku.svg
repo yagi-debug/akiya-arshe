@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 660" width="1000" height="660" role="img" aria-label="立退き料を払って更地にして売る場合と、入居中のまま一棟買取に出す場合の比較">
+  <style>
+    .bg{fill:#f7f9fb}
+    .ttl{font:bold 29px "Hiragino Sans","Noto Sans JP",sans-serif;fill:#12324a}
+    .sub{font:16px "Hiragino Sans","Noto Sans JP",sans-serif;fill:#5b6b78}
+    .colttl{font:bold 22px "Hiragino Sans","Noto Sans JP",sans-serif;fill:#fff}
+    .step{font:16px "Hiragino Sans","Noto Sans JP",sans-serif;fill:#3c4a55}
+    .stepb{font:bold 16px "Hiragino Sans","Noto Sans JP",sans-serif;fill:#12324a}
+    .res{font:bold 20px "Hiragino Sans","Noto Sans JP",sans-serif;fill:#12324a}
+    .note{font:15px "Hiragino Sans","Noto Sans JP",sans-serif;fill:#5b6b78}
+    .box{fill:#fff;stroke:#d7e0e8;stroke-width:2}
+  </style>
+  <rect class="bg" x="0" y="0" width="1000" height="660"/>
+  <text class="ttl" x="40" y="52">全6戸の木造アパートを手放す2つの道すじ</text>
+  <text class="sub" x="40" y="82">家賃5万円・入居4戸・築40年を例にした、時間と手残りのイメージです（金額は一例で、保証するものではありません）。</text>
+
+  <!-- Left column -->
+  <rect class="box" x="40" y="110" width="450" height="450" rx="10"/>
+  <rect x="40" y="110" width="450" height="46" rx="10" fill="#b4553a"/>
+  <rect x="40" y="142" width="450" height="14" fill="#b4553a"/>
+  <text class="colttl" x="62" y="142">A. 立退き料を払って更地で売る</text>
+
+  <text class="stepb" x="62" y="196">1. 全4戸と個別に交渉</text>
+  <text class="step" x="62" y="222">解約の申入れから終了まで最低6か月（借地借家法27条）</text>
+  <text class="stepb" x="62" y="262">2. 立退き料の支払い</text>
+  <text class="step" x="62" y="288">1戸50万〜150万円 × 4戸 ＝ 190万〜610万円</text>
+  <text class="stepb" x="62" y="328">3. 建物の解体</text>
+  <text class="step" x="62" y="354">木造6戸で150万〜300万円（アスベスト調査費は別）</text>
+  <text class="stepb" x="62" y="394">4. 仲介で買主を探す</text>
+  <text class="step" x="62" y="420">3〜6か月＋仲介手数料。売れるまで固定資産税は続く</text>
+
+  <line x1="62" y1="450" x2="468" y2="450" stroke="#e2e8ee" stroke-width="2"/>
+  <text class="res" x="62" y="484">合計期間：1年〜2年以上</text>
+  <text class="res" x="62" y="514">先に出ていくお金：約370万〜1,000万円</text>
+  <text class="step" x="62" y="542">交渉が決裂した1戸のせいで全部止まるのが最大の弱点</text>
+
+  <!-- Right column -->
+  <rect class="box" x="510" y="110" width="450" height="450" rx="10"/>
+  <rect x="510" y="110" width="450" height="46" rx="10" fill="#1a5632"/>
+  <rect x="510" y="142" width="450" height="14" fill="#1a5632"/>
+  <text class="colttl" x="532" y="142">B. 入居者がいるまま一棟で買取</text>
+
+  <text class="stepb" x="532" y="196">1. 現況のまま査定</text>
+  <text class="step" x="532" y="222">入居者への通知・退去交渉はしません</text>
+  <text class="stepb" x="532" y="262">2. 立退き料 0円</text>
+  <text class="step" x="532" y="288">解体費・仲介手数料もかかりません</text>
+  <text class="stepb" x="532" y="328">3. 契約・決済</text>
+  <text class="step" x="532" y="354">賃貸借契約は買主がそのまま引き継ぎます</text>
+  <text class="stepb" x="532" y="394">4. 引き渡し</text>
+  <text class="step" x="532" y="420">敷金の精算をして完了。以後の管理義務も終わります</text>
+
+  <line x1="532" y1="450" x2="938" y2="450" stroke="#e2e8ee" stroke-width="2"/>
+  <text class="res" x="532" y="484">合計期間：最短2〜4週間</text>
+  <text class="res" x="532" y="514">先に出ていくお金：0円</text>
+  <text class="step" x="532" y="542">売却額は市場価格の7〜8割程度に下がるのが弱点</text>
+
+  <text class="note" x="40" y="600">※ Aで支払った立退き料と建物の取壊し費用は、売却時の譲渡費用として譲渡所得から差し引けます（国税庁タックスアンサーNo.3255）。</text>
+  <text class="note" x="40" y="626">※ 「Aの手取り − 先払い分」と「Bの手取り」を並べて比べてから決めるのが、後悔の少ない順番です。</text>
+</svg>

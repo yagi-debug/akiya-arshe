@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560" width="900" height="560" role="img" aria-label="市役所から届く空き家関係の文書5段階と、固定資産税の住宅用地特例が外れる境目を示した図">
+  <style>
+    .t{font-family:"Hiragino Sans","Noto Sans JP",sans-serif;fill:#1f2933}
+    .ttl{font-size:22px;font-weight:700}
+    .sub{font-size:13px;fill:#52606d}
+    .stg{font-size:16px;font-weight:700;fill:#fff}
+    .lbl{font-size:14px;font-weight:700}
+    .cap{font-size:12.5px;fill:#52606d}
+    .warn{font-size:14px;font-weight:700;fill:#9b2c2c}
+    .ok{font-size:14px;font-weight:700;fill:#1a5632}
+  </style>
+  <rect width="900" height="560" fill="#fbfcfd"/>
+  <text class="t ttl" x="30" y="40">届いた文書がどの段階かで、この先に起きることが変わります</text>
+  <text class="t sub" x="30" y="64">大阪市の空家等対策計画（第3期）が示す段階の順序と、空家法・地方税法の根拠条文</text>
+
+  <!-- stage boxes -->
+  <rect x="30" y="92" width="160" height="58" rx="8" fill="#5b7c99"/>
+  <text class="t stg" x="110" y="118" text-anchor="middle">① 情報提供</text>
+  <text class="t stg" x="110" y="139" text-anchor="middle" style="font-size:13px">・助言等</text>
+
+  <rect x="204" y="92" width="160" height="58" rx="8" fill="#2b6cb0"/>
+  <text class="t stg" x="284" y="118" text-anchor="middle">② 助言・指導</text>
+  <text class="t stg" x="284" y="139" text-anchor="middle" style="font-size:12px">空家法13条1項/22条1項</text>
+
+  <rect x="378" y="92" width="160" height="58" rx="8" fill="#b7791f"/>
+  <text class="t stg" x="458" y="118" text-anchor="middle">③ 勧告</text>
+  <text class="t stg" x="458" y="139" text-anchor="middle" style="font-size:12px">空家法13条2項/22条2項</text>
+
+  <rect x="552" y="92" width="160" height="58" rx="8" fill="#9b2c2c"/>
+  <text class="t stg" x="632" y="118" text-anchor="middle">④ 命令</text>
+  <text class="t stg" x="632" y="139" text-anchor="middle" style="font-size:12px">空家法22条3項</text>
+
+  <rect x="726" y="92" width="144" height="58" rx="8" fill="#63171b"/>
+  <text class="t stg" x="798" y="118" text-anchor="middle">⑤ 行政代執行</text>
+  <text class="t stg" x="798" y="139" text-anchor="middle" style="font-size:12px">空家法22条9項</text>
+
+  <!-- arrows -->
+  <polygon points="191,121 203,115 203,127" fill="#9aa5b1"/>
+  <polygon points="365,121 377,115 377,127" fill="#9aa5b1"/>
+  <polygon points="539,121 551,115 551,127" fill="#9aa5b1"/>
+  <polygon points="713,121 725,115 725,127" fill="#9aa5b1"/>
+
+  <!-- tax boundary -->
+  <line x1="371" y1="80" x2="371" y2="330" stroke="#9b2c2c" stroke-width="3" stroke-dasharray="8 6"/>
+  <text class="t warn" x="381" y="182">この線を越えると固定資産税の住宅用地特例が外れます（地方税法349条の3の2）</text>
+  <text class="t ok" x="40" y="182">ここまでは住宅用地特例はそのままです</text>
+
+  <!-- what happens row -->
+  <rect x="30" y="206" width="334" height="106" rx="8" fill="#eef6f0" stroke="#1a5632" stroke-width="2"/>
+  <text class="t lbl" x="46" y="230">この段階で届く文書の特徴</text>
+  <text class="t cap" x="46" y="253">・「お願い」「ご連絡」「助言」「指導」の語</text>
+  <text class="t cap" x="46" y="273">・改善してほしい箇所と、返信・連絡の依頼</text>
+  <text class="t cap" x="46" y="293">・区役所の担当課名が差出人になっていることが多い</text>
+
+  <rect x="378" y="206" width="492" height="106" rx="8" fill="#fdf0ef" stroke="#9b2c2c" stroke-width="2"/>
+  <text class="t lbl" x="394" y="230">この段階で届く文書の特徴</text>
+  <text class="t cap" x="394" y="253">・表題または本文に「勧告」「命令」「戒告」の語がある</text>
+  <text class="t cap" x="394" y="273">・「相当の猶予期限」として、いつまでに何をするかの期日が明記される</text>
+  <text class="t cap" x="394" y="293">・命令に違反すると50万円以下の過料（空家法30条1項）／代執行費用は所有者に請求</text>
+
+  <!-- bottom note -->
+  <rect x="30" y="340" width="840" height="76" rx="8" fill="#f5f7fa" stroke="#cbd2d9" stroke-width="1.5"/>
+  <text class="t lbl" x="46" y="366">住宅用地特例が外れるのは「勧告を受けた管理不全空家等・特定空家等の敷地」です</text>
+  <text class="t cap" x="46" y="389">地方税法349条の3の2は、勧告がされたこの2種類の敷地を「住宅用地」の定義から除いています。</text>
+  <text class="t cap" x="46" y="408">つまり①②の段階で改善すれば、税額はそのままです。分かれ目は③の勧告です。</text>
+
+  <rect x="30" y="432" width="840" height="94" rx="8" fill="#fffaf0" stroke="#b7791f" stroke-width="1.5"/>
+  <text class="t lbl" x="46" y="458">大阪市の場合、勧告の前に第三者のチェックが入ります</text>
+  <text class="t cap" x="46" y="481">大阪市空家等対策協議会に専門部会が設置されており、保安上危険以外の管理不全空家等・特定空家等への指導で</text>
+  <text class="t cap" x="46" y="500">判断が難しい場合や、勧告を行う場合に、全市的な判断の妥当性・統一性を諮る仕組みになっています。</text>
+  <text class="t cap" x="46" y="519">出典: 大阪市空家等対策計画（第3期）概要版 第10「空家等対策の実施体制等について」</text>
+</svg>

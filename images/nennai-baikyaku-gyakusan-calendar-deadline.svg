@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560" width="900" height="560" role="img">
+<rect width="900" height="560" fill="#ffffff"/>
+<text x="30" y="40" font-family="Hiragino Sans, Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="24" font-weight="bold" fill="#16202a">相談を始めた月ごとの「年内決済が間に合うか」</text>
+<text x="30" y="68" font-family="Hiragino Sans, Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="14" fill="#5a6b76">バーが赤い線（12月31日）を越えると、決済は翌年にずれ込みます</text>
+<line x1="150.0" y1="92" x2="150.0" y2="448.0" stroke="#e6ebe8" stroke-width="1"/>
+<text x="182.2" y="110" font-family="Hiragino Sans, Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="13" fill="#5a6b76" text-anchor="middle">8月</text>
+<line x1="214.4" y1="92" x2="214.4" y2="448.0" stroke="#e6ebe8" stroke-width="1"/>
+<text x="246.5" y="110" font-family="Hiragino Sans, Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="13" fill="#5a6b76" text-anchor="middle">9月</text>
+<line x1="278.7" y1="92" x2="278.7" y2="448.0" stroke="#e6ebe8" stroke-width="1"/>
+<text x="310.9" y="110" font-family="Hiragino Sans, Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="13" fill="#5a6b76" text-anchor="middle">10月</text>
+<line x1="343.1" y1="92" x2="343.1" y2="448.0" stroke="#e6ebe8" stroke-width="1"/>
+<text x="375.3" y="110" font-family="Hiragino Sans, Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="13" fill="#5a6b76" text-anchor="middle">11月</text>
+<line x1="407.5" y1="92" x2="407.5" y2="448.0" stroke="#e6ebe8" stroke-width="1"/>
+<text x="439.6" y="110" font-family="Hiragino Sans, Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="13" fill="#5a6b76" text-anchor="middle">12月</text>
+<line x1="471.8" y1="92" x2="471.8" y2="448.0" stroke="#e6ebe8" stroke-width="1"/>
+<text x="504.0" y="110" font-family="Hiragino Sans, Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="13" fill="#5a6b76" text-anchor="middle">1月</text>
+<line x1="536.2" y1="92" x2="536.2" y2="448.0" stroke="#e6ebe8" stroke-width="1"/>
+<text x="568.4" y="110" font-family="Hiragino Sans, Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="13" fill="#5a6b76" text-anchor="middle">2月</text>
+<line x1="600.5" y1="92" x2="600.5" y2="448.0" stroke="#e6ebe8" stroke-width="1"/>
+<text x="632.7" y="110" font-family="Hiragino Sans, Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="13" fill="#5a6b76" text-anchor="middle">3月</text>
+<line x1="664.9" y1="92" x2="664.9" y2="448.0" stroke="#e6ebe8" stroke-width="1"/>
+<text x="697.1" y="110" font-family="Hiragino Sans, Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="13" fill="#5a6b76" text-anchor="middle">4月</text>
+<line x1="729.3" y1="92" x2="729.3" y2="448.0" stroke="#e6ebe8" stroke-width="1"/>
+<text x="761.5" y="110" font-family="Hiragino Sans, Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="13" fill="#5a6b76" text-anchor="middle">5月</text>
+<line x1="793.6" y1="92" x2="793.6" y2="448.0" stroke="#e6ebe8" stroke-width="1"/>
+<text x="825.8" y="110" font-family="Hiragino Sans, Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="13" fill="#5a6b76" text-anchor="middle">6月</text>
+<text x="310.9" y="88" font-family="Hiragino Sans, Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="12" fill="#8b98a3" text-anchor="middle">当年</text>
+<text x="664.9" y="88" font-family="Hiragino Sans, Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="12" fill="#8b98a3" text-anchor="middle">翌年</text>
+<line x1="471.8" y1="80" x2="471.8" y2="462.0" stroke="#c23b3b" stroke-width="3"/>
+<text x="477.8" y="480.0" font-family="Hiragino Sans, Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="14" font-weight="bold" fill="#c23b3b">12月31日</text>
+<text x="30" y="132" font-family="Hiragino Sans, Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="15" font-weight="bold" fill="#16202a">8月に相談を開始</text>
+<rect x="150.0" y="140.0" width="547.1" height="20" rx="4" fill="#c9a227"/>
+<text x="30" y="155.0" font-family="Hiragino Sans, Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="13" fill="#3c4a55">仲介</text>
+<text x="858.0" y="155.0" font-family="Hiragino Sans, Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="0" fill="#c23b3b"></text>
+<rect x="150.0" y="170.0" width="160.9" height="20" rx="4" fill="#1a5632"/>
+<text x="30" y="185.0" font-family="Hiragino Sans, Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="13" fill="#3c4a55">買取</text>
+<text x="858.0" y="185.0" font-family="Hiragino Sans, Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="0" fill="#1a5632"></text>
+<text x="703.1" y="155.0" font-family="Hiragino Sans, Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="12" fill="#c23b3b">年をまたぎます</text>
+<text x="316.9" y="185.0" font-family="Hiragino Sans, Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="12" fill="#1a5632">年内に間に合う</text>
+<text x="30" y="210" font-family="Hiragino Sans, Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="15" font-weight="bold" fill="#16202a">9月に相談を開始</text>
+<rect x="214.4" y="218.0" width="547.1" height="20" rx="4" fill="#c9a227"/>
+<text x="30" y="233.0" font-family="Hiragino Sans, Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="13" fill="#3c4a55">仲介</text>
+<text x="858.0" y="233.0" font-family="Hiragino Sans, Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="0" fill="#c23b3b"></text>
+<rect x="214.4" y="248.0" width="160.9" height="20" rx="4" fill="#1a5632"/>
+<text x="30" y="263.0" font-family="Hiragino Sans, Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="13" fill="#3c4a55">買取</text>
+<text x="858.0" y="263.0" font-family="Hiragino Sans, Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="0" fill="#1a5632"></text>
+<text x="767.5" y="233.0" font-family="Hiragino Sans, Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="12" fill="#c23b3b">年をまたぎます</text>
+<text x="381.3" y="263.0" font-family="Hiragino Sans, Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="12" fill="#1a5632">年内に間に合う</text>
+<text x="30" y="288" font-family="Hiragino Sans, Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="15" font-weight="bold" fill="#16202a">10月に相談を開始</text>
+<rect x="278.7" y="296.0" width="547.1" height="20" rx="4" fill="#c9a227"/>
+<text x="30" y="311.0" font-family="Hiragino Sans, Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="13" fill="#3c4a55">仲介</text>
+<text x="858.0" y="311.0" font-family="Hiragino Sans, Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="0" fill="#c23b3b"></text>
+<rect x="278.7" y="326.0" width="160.9" height="20" rx="4" fill="#1a5632"/>
+<text x="30" y="341.0" font-family="Hiragino Sans, Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="13" fill="#3c4a55">買取</text>
+<text x="858.0" y="341.0" font-family="Hiragino Sans, Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="0" fill="#1a5632"></text>
+<text x="854.0" y="292.0" font-family="Hiragino Sans, Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="12" fill="#c23b3b" text-anchor="end">仲介は年をまたぎます</text>
+<text x="445.6" y="341.0" font-family="Hiragino Sans, Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="12" fill="#1a5632">年内に間に合う</text>
+<text x="30" y="366" font-family="Hiragino Sans, Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="15" font-weight="bold" fill="#16202a">11月に相談を開始</text>
+<rect x="343.1" y="374.0" width="514.9" height="20" rx="4" fill="#c9a227"/>
+<text x="854.0" y="389.0" font-family="Hiragino Sans, Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="13" fill="#ffffff" text-anchor="end">▶</text>
+<text x="30" y="389.0" font-family="Hiragino Sans, Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="13" fill="#3c4a55">仲介</text>
+<text x="858.0" y="389.0" font-family="Hiragino Sans, Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="0" fill="#c23b3b"></text>
+<rect x="343.1" y="404.0" width="160.9" height="20" rx="4" fill="#1a5632"/>
+<text x="30" y="419.0" font-family="Hiragino Sans, Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="13" fill="#3c4a55">買取</text>
+<text x="858.0" y="419.0" font-family="Hiragino Sans, Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="0" fill="#c23b3b"></text>
+<text x="854.0" y="370.0" font-family="Hiragino Sans, Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="12" fill="#c23b3b" text-anchor="end">仲介は年をまたぎます</text>
+<text x="510.0" y="419.0" font-family="Hiragino Sans, Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="12" fill="#c23b3b">年をまたぎます</text>
+<rect x="30" y="508" width="14" height="14" rx="3" fill="#c9a227"/>
+<text x="52" y="520" font-family="Hiragino Sans, Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="13" fill="#3c4a55">仲介（買主を探して売る・所要およそ8か月半）</text>
+<rect x="430" y="508" width="14" height="14" rx="3" fill="#1a5632"/>
+<text x="452" y="520" font-family="Hiragino Sans, Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="13" fill="#3c4a55">現況買取（当社が直接買う・所要およそ2か月半）</text>
+<text x="30" y="546" font-family="Hiragino Sans, Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="12" fill="#8b98a3">※ 相続登記が未了でも査定・条件確定は並行して進められます。物件の状態により前後します。</text>
+</svg>

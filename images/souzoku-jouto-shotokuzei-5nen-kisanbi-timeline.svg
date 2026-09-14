@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620" width="900" height="620" role="img" aria-label="相続した不動産の所有期間5年判定の起算日を、被相続人の取得日から数える正しい数え方と相続日から数える誤りで比較したタイムライン図">
+  <style>
+    text { font-family: "Hiragino Sans", "Yu Gothic", sans-serif; fill: #1f2937; }
+    .ttl { font-size: 22px; font-weight: bold; }
+    .h { font-size: 17px; font-weight: bold; }
+    .b { font-size: 14px; }
+    .s { font-size: 12.5px; fill: #4b5563; }
+    .num { font-size: 19px; font-weight: bold; }
+  </style>
+  <rect x="0" y="0" width="900" height="620" fill="#ffffff"/>
+  <text class="ttl" x="450" y="36" text-anchor="middle">所有期間5年の起算日はどこか（2026年に売却する例）</text>
+  <text class="s" x="450" y="58" text-anchor="middle">父が1998年に購入 → 2024年に相続 → 2026年中に売却するケース</text>
+
+  <!-- WRONG -->
+  <rect x="30" y="80" width="840" height="200" rx="10" fill="#fef2f2" stroke="#dc2626" stroke-width="2"/>
+  <text class="h" x="55" y="110" fill="#b91c1c">× よくある誤解：相続した日から数える</text>
+  <line x1="80" y1="175" x2="820" y2="175" stroke="#fca5a5" stroke-width="4"/>
+  <circle cx="330" cy="175" r="9" fill="#dc2626"/>
+  <circle cx="700" cy="175" r="9" fill="#dc2626"/>
+  <text class="b" x="330" y="155" text-anchor="middle">2024年5月 相続開始</text>
+  <text class="b" x="700" y="155" text-anchor="middle">2026年9月 売却</text>
+  <text class="s" x="515" y="203" text-anchor="middle">この期間だけを数えると約2年4か月</text>
+  <text class="num" x="515" y="232" text-anchor="middle" fill="#b91c1c">「5年以下だから短期・税率39.63%」と思い込む</text>
+  <text class="s" x="515" y="258" text-anchor="middle">売却代金3,000万円・概算取得費150万円なら、約1,129万円を納税すると誤算します</text>
+
+  <!-- RIGHT -->
+  <rect x="30" y="300" width="840" height="290" rx="10" fill="#f0fdf4" stroke="#16a34a" stroke-width="2"/>
+  <text class="h" x="55" y="330" fill="#15803d">○ 正しい数え方：被相続人が取得した日を引き継ぐ（所得税法60条1項）</text>
+  <line x1="80" y1="400" x2="820" y2="400" stroke="#86efac" stroke-width="4"/>
+  <circle cx="120" cy="400" r="9" fill="#16a34a"/>
+  <circle cx="470" cy="400" r="9" fill="#16a34a"/>
+  <circle cx="640" cy="400" r="11" fill="#1a56db"/>
+  <circle cx="760" cy="400" r="9" fill="#16a34a"/>
+  <text class="b" x="120" y="380" text-anchor="middle">1998年3月</text>
+  <text class="s" x="120" y="425" text-anchor="middle">父が購入＝起算日</text>
+  <text class="b" x="470" y="380" text-anchor="middle">2024年5月</text>
+  <text class="s" x="470" y="425" text-anchor="middle">相続開始（期間は途切れない）</text>
+  <text class="b" x="640" y="368" text-anchor="middle" fill="#1a56db">2026年1月1日</text>
+  <text class="s" x="640" y="443" text-anchor="middle" fill="#1a56db">▲ ここが判定日</text>
+  <text class="b" x="760" y="380" text-anchor="middle">2026年9月</text>
+  <text class="s" x="760" y="425" text-anchor="middle">売却</text>
+
+  <rect x="80" y="470" width="740" height="46" rx="6" fill="#ffffff" stroke="#86efac"/>
+  <text class="b" x="100" y="499">2026年1月1日時点の所有期間 ＝ 1998年3月から約27年9か月 → 5年超</text>
+  <text class="num" x="800" y="502" text-anchor="end" fill="#15803d">長期・20.315%</text>
+
+  <rect x="80" y="528" width="740" height="44" rx="6" fill="#ffffff" stroke="#86efac"/>
+  <text class="s" x="100" y="556">同じ売却でも税額はおよそ半分。相続した日から数えるかどうかで結論が変わります</text>
+</svg>

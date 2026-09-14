@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560" width="900" height="560" font-family="Hiragino Sans, Noto Sans JP, sans-serif">
+  <rect width="900" height="560" fill="#f7f9f7"/>
+  <text x="450" y="38" text-anchor="middle" font-size="22" font-weight="bold" fill="#1a5632">断り文句の逆引き — 言われた言葉から「本当の理由」を引く</text>
+
+  <!-- header row -->
+  <rect x="30" y="60" width="250" height="42" fill="#1a5632"/>
+  <rect x="280" y="60" width="300" height="42" fill="#2f7a4d"/>
+  <rect x="580" y="60" width="290" height="42" fill="#4c9a6a"/>
+  <text x="155" y="87" text-anchor="middle" font-size="16" font-weight="bold" fill="#fff">言われた断り文句</text>
+  <text x="430" y="87" text-anchor="middle" font-size="16" font-weight="bold" fill="#fff">仲介会社が止まった理由</text>
+  <text x="725" y="87" text-anchor="middle" font-size="16" font-weight="bold" fill="#fff">買取では何が変わるか</text>
+
+  <!-- rows -->
+  <g font-size="14" fill="#222">
+    <rect x="30" y="102" width="840" height="70" fill="#ffffff" stroke="#d6e3d9"/>
+    <text x="42" y="128">①「再建築不可なので</text>
+    <text x="42" y="150">　扱えません」</text>
+    <text x="292" y="128">買主に住宅ローンが付かず、</text>
+    <text x="292" y="150">現金で買える人しか出口がない</text>
+    <text x="592" y="128">自社が買主。ローンの可否が</text>
+    <text x="592" y="150">判断材料から外れる</text>
+
+    <rect x="30" y="172" width="840" height="70" fill="#f2f7f3" stroke="#d6e3d9"/>
+    <text x="42" y="198">②「共有者全員の同意が</text>
+    <text x="42" y="220">　ないと進められません」</text>
+    <text x="292" y="198">物件“全体”を売る前提のため、</text>
+    <text x="292" y="220">民法251条1項の全員同意が要る</text>
+    <text x="592" y="198">自分の持分だけを単独で売れる</text>
+    <text x="592" y="220">（民法206条）</text>
+
+    <rect x="30" y="242" width="840" height="70" fill="#ffffff" stroke="#d6e3d9"/>
+    <text x="42" y="268">③「残置物を片付けてから</text>
+    <text x="42" y="290">　来てください」</text>
+    <text x="292" y="268">片付け費用を報酬に上乗せできない</text>
+    <text x="292" y="290">（報酬告示 第十一①）</text>
+    <text x="592" y="268">残置物ごと買い取り、撤去費を</text>
+    <text x="592" y="290">査定額に織り込む</text>
+
+    <rect x="30" y="312" width="840" height="70" fill="#f2f7f3" stroke="#d6e3d9"/>
+    <text x="42" y="338">④「旧耐震で融資が</text>
+    <text x="42" y="360">　付きません」</text>
+    <text x="292" y="338">昭和56年5月31日以前の確認は</text>
+    <text x="292" y="360">耐震評価基準への適合が必要</text>
+    <text x="592" y="338">耐震改修も適合証明も、売主側で</text>
+    <text x="592" y="360">用意しなくてよい</text>
+
+    <rect x="30" y="382" width="840" height="70" fill="#ffffff" stroke="#d6e3d9"/>
+    <text x="42" y="408">⑤「遠方なので</text>
+    <text x="42" y="430">　対応外です」</text>
+    <text x="292" y="408">免許の地域制限ではなく、往復の</text>
+    <text x="292" y="430">実費と案内回数が合わないため</text>
+    <text x="592" y="408">現地は1回で完結。内覧の</text>
+    <text x="592" y="430">立ち会いが発生しない</text>
+
+    <rect x="30" y="452" width="840" height="70" fill="#f2f7f3" stroke="#d6e3d9"/>
+    <text x="42" y="478">⑥「金額が小さすぎて</text>
+    <text x="42" y="500">　手数料が出ません」</text>
+    <text x="292" y="478">300万円の売買なら報酬は上限</text>
+    <text x="292" y="500">15.4万円（税込）。手間は同じ</text>
+    <text x="592" y="478">売買代金そのものが収益源。</text>
+    <text x="592" y="500">価格の小ささが門前払いにならない</text>
+  </g>
+
+  <text x="450" y="545" text-anchor="middle" font-size="12" fill="#5b6b60">出典: 建築基準法／民法／宅地建物取引業法・報酬告示（昭和45年建設省告示第1552号）／フラット35中古住宅の技術基準　作成: 空き家のミカタ編集部</text>
+</svg>

@@ -1,0 +1,21 @@
+{
+  "date": "2026-08-20",
+  "slug": "ig-2026-08-20-manga_carousel",
+  "title": "相続した実家、名義そのままにしてませんか？",
+  "type": "manga_carousel",
+  "variant": "E-K1",
+  "theme": "相続手続き",
+  "files": [
+    "01.png",
+    "02.png",
+    "03.png",
+    "04.png",
+    "05.png",
+    "06.png"
+  ],
+  "checks": {
+    "useful_point_ok": true,
+    "panels": 6,
+    "dimensions": "1080x1350"
+  }
+}

@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 470" width="900" height="470" font-family="Hiragino Sans, Noto Sans JP, sans-serif">
+  <rect width="900" height="470" fill="#f7f9f7"/>
+  <text x="450" y="36" text-anchor="middle" font-size="21" font-weight="bold" fill="#1a5632">仲介と買取は、同じ物件の「違うところ」を見ています</text>
+
+  <!-- left panel: chukai -->
+  <rect x="30" y="60" width="395" height="330" rx="10" fill="#ffffff" stroke="#c9d8ce" stroke-width="2"/>
+  <rect x="30" y="60" width="395" height="46" rx="10" fill="#8a99a8"/>
+  <rect x="30" y="92" width="395" height="14" fill="#8a99a8"/>
+  <text x="227" y="90" text-anchor="middle" font-size="17" font-weight="bold" fill="#fff">仲介（買主を探して手数料を得る）</text>
+  <g font-size="14.5" fill="#222">
+    <text x="50" y="140">見ているもの</text>
+    <text x="62" y="168">・次の買主に住宅ローンが付くか</text>
+    <text x="62" y="194">・広告を出して何組が内覧に来るか</text>
+    <text x="62" y="220">・売れるまでに何か月かかるか</text>
+    <text x="62" y="246">・成約したときの報酬が費用に見合うか</text>
+    <text x="50" y="286" font-weight="bold" fill="#8a4a3a">収益が発生するのは「成約したとき」だけ</text>
+    <text x="62" y="312">売れる確率が低い物件は、動くほど赤字になる</text>
+    <text x="62" y="338">→ 着手前に断るのが合理的な判断になる</text>
+    <text x="62" y="368" fill="#5b6b60">※物件の価値を否定しているわけではない</text>
+  </g>
+
+  <!-- right panel: kaitori -->
+  <rect x="475" y="60" width="395" height="330" rx="10" fill="#ffffff" stroke="#1a5632" stroke-width="2"/>
+  <rect x="475" y="60" width="395" height="46" rx="10" fill="#1a5632"/>
+  <rect x="475" y="92" width="395" height="14" fill="#1a5632"/>
+  <text x="672" y="90" text-anchor="middle" font-size="17" font-weight="bold" fill="#fff">買取（自社が買主になる）</text>
+  <g font-size="14.5" fill="#222">
+    <text x="495" y="140">見ているもの</text>
+    <text x="507" y="168">・自社で使うか、直せるか、貸せるか</text>
+    <text x="507" y="194">・撤去・解体・修繕にいくらかかるか</text>
+    <text x="507" y="220">・権利関係を自社の負担で整理できるか</text>
+    <text x="507" y="246">・その総額を引いて価格が付くか</text>
+    <text x="495" y="286" font-weight="bold" fill="#1a5632">収益が発生するのは「買った後」</text>
+    <text x="507" y="312">ローンが付かない・片付いていない状態が、</text>
+    <text x="507" y="338">そのまま価格の減額要因になるだけで済む</text>
+    <text x="507" y="368" fill="#5b6b60">※価格は下がる。ゼロか否かの話ではない</text>
+  </g>
+
+  <rect x="30" y="404" width="840" height="42" rx="8" fill="#eaf2ec" stroke="#c9d8ce"/>
+  <text x="450" y="431" text-anchor="middle" font-size="15" fill="#1a5632" font-weight="bold">断られたのは「売れない物件だから」ではなく、判断の物差しが違うところに当たったからです</text>
+</svg>

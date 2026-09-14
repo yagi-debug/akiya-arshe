@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620" width="900" height="620" role="img" aria-label="借地を地主に返すときの手続き順序フロー図">
+  <rect width="900" height="620" fill="#fbfaf8"/>
+  <text x="450" y="40" text-anchor="middle" font-family="'Hiragino Sans','Yu Gothic',sans-serif" font-size="24" font-weight="bold" fill="#1a202c">借地を地主に返すときの手続き順序</text>
+  <text x="450" y="66" text-anchor="middle" font-family="'Hiragino Sans','Yu Gothic',sans-serif" font-size="14" fill="#4a5568">順番を飛ばすと、あとから条件を戻せなくなります</text>
+
+  <g font-family="'Hiragino Sans','Yu Gothic',sans-serif">
+    <rect x="60" y="95" width="780" height="62" rx="10" fill="#ffffff" stroke="#2c5282" stroke-width="2"/>
+    <text x="86" y="122" font-size="17" font-weight="bold" fill="#2c5282">STEP 1　契約書と登記を確認する</text>
+    <text x="86" y="145" font-size="14" fill="#2d3748">契約の締結日／存続期間の満了日／建物の登記の有無／相続なら名義の状態</text>
+
+    <path d="M450 157 L450 183" stroke="#a0aec0" stroke-width="2"/>
+    <path d="M450 189 l-7 -12 h14 z" fill="#a0aec0"/>
+
+    <rect x="60" y="189" width="780" height="62" rx="10" fill="#ffffff" stroke="#2c5282" stroke-width="2"/>
+    <text x="86" y="216" font-size="17" font-weight="bold" fill="#2c5282">STEP 2　「どの終わり方か」を先に決める</text>
+    <text x="86" y="239" font-size="14" fill="#2d3748">期間満了で更新なし／合意で解約／地代滞納などによる解除 — ここで建物買取請求権の可否が決まります</text>
+
+    <path d="M450 251 L450 277" stroke="#a0aec0" stroke-width="2"/>
+    <path d="M450 283 l-7 -12 h14 z" fill="#a0aec0"/>
+
+    <rect x="60" y="283" width="780" height="62" rx="10" fill="#ffffff" stroke="#c05621" stroke-width="2"/>
+    <text x="86" y="310" font-size="17" font-weight="bold" fill="#c05621">STEP 3　金額の話をする前に評価を取る</text>
+    <text x="86" y="333" font-size="14" fill="#2d3748">建物の時価と借地権の価値を把握してから交渉に入ります（先に「更地で返す」と答えない）</text>
+
+    <path d="M450 345 L450 371" stroke="#a0aec0" stroke-width="2"/>
+    <path d="M450 377 l-7 -12 h14 z" fill="#a0aec0"/>
+
+    <rect x="60" y="377" width="780" height="62" rx="10" fill="#ffffff" stroke="#2c5282" stroke-width="2"/>
+    <text x="86" y="404" font-size="17" font-weight="bold" fill="#2c5282">STEP 4　合意内容を書面にする</text>
+    <text x="86" y="427" font-size="14" fill="#2d3748">更地か現況か／解体費の負担者／明渡し期日／地代の精算／受け取る金額と支払時期</text>
+
+    <path d="M450 439 L450 465" stroke="#a0aec0" stroke-width="2"/>
+    <path d="M450 471 l-7 -12 h14 z" fill="#a0aec0"/>
+
+    <rect x="60" y="471" width="780" height="72" rx="10" fill="#ffffff" stroke="#2c5282" stroke-width="2"/>
+    <text x="86" y="498" font-size="17" font-weight="bold" fill="#2c5282">STEP 5　引渡し・解体・登記の後始末</text>
+    <text x="86" y="521" font-size="14" fill="#2d3748">解体した場合は建物滅失登記を滅失の日から1ヶ月以内に申請（不動産登記法第57条）。</text>
+    <text x="86" y="539" font-size="14" fill="#2d3748">対価を受け取った年の翌年に確定申告が必要になる場合があります。</text>
+
+    <rect x="60" y="563" width="780" height="40" rx="8" fill="#fff5f5" stroke="#e53e3e" stroke-width="2"/>
+    <text x="450" y="589" text-anchor="middle" font-size="15" font-weight="bold" fill="#c53030">先に解体してしまうと、建物の価値はゼロになり、後から条件を戻せません</text>
+  </g>
+</svg>

@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" width="900" height="520" role="img" aria-label="地価公示を100としたときの相続税路線価80・固定資産税評価70の関係と、課税明細書から売却価格の土台を逆算する手順の図">
+  <rect width="900" height="520" fill="#ffffff"/>
+  <text x="450" y="40" text-anchor="middle" font-family="'Hiragino Sans','Noto Sans JP',sans-serif" font-size="21" font-weight="bold" fill="#1f2937">不動産の「4つの価格」の関係（地価公示を100としたとき）</text>
+  <text x="450" y="66" text-anchor="middle" font-family="'Hiragino Sans','Noto Sans JP',sans-serif" font-size="14" fill="#6b7280">出典: 国土交通省「主な公的土地評価一覧」／国税庁「令和8年分の路線価等について」</text>
+
+  <!-- axis -->
+  <line x1="200" y1="96" x2="200" y2="330" stroke="#d1d5db" stroke-width="1"/>
+  <line x1="800" y1="96" x2="800" y2="330" stroke="#d1d5db" stroke-width="1"/>
+  <text x="800" y="352" text-anchor="middle" font-family="'Hiragino Sans','Noto Sans JP',sans-serif" font-size="13" fill="#6b7280">100</text>
+  <text x="200" y="352" text-anchor="middle" font-family="'Hiragino Sans','Noto Sans JP',sans-serif" font-size="13" fill="#6b7280">0</text>
+
+  <!-- bar 1: 地価公示 -->
+  <rect x="200" y="106" width="600" height="52" fill="#1a56db"/>
+  <text x="190" y="138" text-anchor="end" font-family="'Hiragino Sans','Noto Sans JP',sans-serif" font-size="15" font-weight="bold" fill="#1f2937">地価公示（1月1日時点）</text>
+  <text x="500" y="139" text-anchor="middle" font-family="'Hiragino Sans','Noto Sans JP',sans-serif" font-size="19" font-weight="bold" fill="#ffffff">100</text>
+
+  <!-- bar 2: 路線価 -->
+  <rect x="200" y="176" width="480" height="52" fill="#60a5fa"/>
+  <text x="190" y="208" text-anchor="end" font-family="'Hiragino Sans','Noto Sans JP',sans-serif" font-size="15" font-weight="bold" fill="#1f2937">相続税の路線価</text>
+  <text x="440" y="209" text-anchor="middle" font-family="'Hiragino Sans','Noto Sans JP',sans-serif" font-size="19" font-weight="bold" fill="#ffffff">80 程度</text>
+  <text x="694" y="209" font-family="'Hiragino Sans','Noto Sans JP',sans-serif" font-size="14" fill="#1a56db">÷0.8 で公示水準へ</text>
+
+  <!-- bar 3: 固定資産税評価 -->
+  <rect x="200" y="246" width="420" height="52" fill="#93c5fd"/>
+  <text x="190" y="278" text-anchor="end" font-family="'Hiragino Sans','Noto Sans JP',sans-serif" font-size="15" font-weight="bold" fill="#1f2937">固定資産税の評価額</text>
+  <text x="410" y="279" text-anchor="middle" font-family="'Hiragino Sans','Noto Sans JP',sans-serif" font-size="19" font-weight="bold" fill="#1f2937">70 程度</text>
+  <text x="634" y="279" font-family="'Hiragino Sans','Noto Sans JP',sans-serif" font-size="14" fill="#1a56db">÷0.7 で公示水準へ</text>
+
+  <!-- note box -->
+  <rect x="60" y="376" width="780" height="112" fill="#f9fafb" stroke="#e5e7eb" stroke-width="1" rx="8"/>
+  <text x="84" y="406" font-family="'Hiragino Sans','Noto Sans JP',sans-serif" font-size="15" font-weight="bold" fill="#1f2937">手元の課税明細書からの逆算（土地の部分だけ）</text>
+  <text x="84" y="434" font-family="'Hiragino Sans','Noto Sans JP',sans-serif" font-size="14" fill="#374151">課税明細書の土地の評価額 ÷ 0.7 ＝ おおよその地価公示の水準（土地の値段の出発点）</text>
+  <text x="84" y="458" font-family="'Hiragino Sans','Noto Sans JP',sans-serif" font-size="14" fill="#374151">路線価図から出す場合は　路線価 × 地積 ÷ 0.8 ＝ おおよその地価公示の水準</text>
+  <text x="84" y="480" font-family="'Hiragino Sans','Noto Sans JP',sans-serif" font-size="13" fill="#6b7280">※ここから接道・築年数・権利関係のマイナスを引いたものが、実際の売却価格の目安になります。</text>
+</svg>

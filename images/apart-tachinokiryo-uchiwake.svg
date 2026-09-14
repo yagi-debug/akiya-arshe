@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 620" width="1000" height="620" role="img" aria-label="アパートの立退き料の内訳4項目">
+  <style>
+    .bg{fill:#f7f9fb}
+    .ttl{font:bold 30px "Hiragino Sans","Noto Sans JP",sans-serif;fill:#12324a}
+    .sub{font:16px "Hiragino Sans","Noto Sans JP",sans-serif;fill:#5b6b78}
+    .cardttl{font:bold 22px "Hiragino Sans","Noto Sans JP",sans-serif;fill:#fff}
+    .h{font:bold 21px "Hiragino Sans","Noto Sans JP",sans-serif;fill:#12324a}
+    .t{font:16px "Hiragino Sans","Noto Sans JP",sans-serif;fill:#3c4a55}
+    .amt{font:bold 19px "Hiragino Sans","Noto Sans JP",sans-serif;fill:#1a5632}
+    .note{font:15px "Hiragino Sans","Noto Sans JP",sans-serif;fill:#5b6b78}
+    .card{fill:#fff;stroke:#d7e0e8;stroke-width:2}
+  </style>
+  <rect class="bg" x="0" y="0" width="1000" height="620"/>
+  <text class="ttl" x="40" y="56">アパートの立退き料は「1つの相場」ではなく4つの積み上げ</text>
+  <text class="sub" x="40" y="86">1戸あたりの内訳。国の公共用地の損失補償基準（借家人補償・動産移転料・移転雑費）の考え方に対応します。</text>
+
+  <g>
+    <rect class="card" x="40" y="110" width="455" height="200" rx="10"/>
+    <rect x="40" y="110" width="455" height="44" rx="10" fill="#1a5632"/>
+    <rect x="40" y="140" width="455" height="14" fill="#1a5632"/>
+    <text class="cardttl" x="60" y="141">① 引越しの実費</text>
+    <text class="t" x="60" y="190">トラック・作業員・エアコン移設など、荷物を運ぶ</text>
+    <text class="t" x="60" y="216">ために現実にかかるお金です。単身か家族か、</text>
+    <text class="t" x="60" y="242">エレベーターの有無で変わります。</text>
+    <text class="amt" x="60" y="282">目安：5万〜20万円 ／ 1戸</text>
+  </g>
+
+  <g>
+    <rect class="card" x="515" y="110" width="455" height="200" rx="10"/>
+    <rect x="515" y="110" width="455" height="44" rx="10" fill="#1a5632"/>
+    <rect x="515" y="140" width="455" height="14" fill="#1a5632"/>
+    <text class="cardttl" x="535" y="141">② 次の部屋を借りる初期費用</text>
+    <text class="t" x="535" y="190">敷金・礼金・仲介手数料・保証会社費用・火災保険。</text>
+    <text class="t" x="535" y="216">国の補償基準でいう「借家人に対する補償」に</text>
+    <text class="t" x="535" y="242">あたる部分で、争いになりにくい費目です。</text>
+    <text class="amt" x="535" y="282">目安：家賃の4〜6か月分 ／ 1戸</text>
+  </g>
+
+  <g>
+    <rect class="card" x="40" y="330" width="455" height="200" rx="10"/>
+    <rect x="40" y="330" width="455" height="44" rx="10" fill="#2a6f97"/>
+    <rect x="40" y="360" width="455" height="14" fill="#2a6f97"/>
+    <text class="cardttl" x="60" y="361">③ 家賃が上がる分の穴埋め</text>
+    <text class="t" x="60" y="410">古いアパートほど家賃が相場より安く、引っ越すと</text>
+    <text class="t" x="60" y="436">家賃が上がります。その差額の一定期間分を</text>
+    <text class="t" x="60" y="462">補填します。金額が一番ふくらむ費目です。</text>
+    <text class="amt" x="60" y="502">目安：差額 × 24〜36か月分</text>
+  </g>
+
+  <g>
+    <rect class="card" x="515" y="330" width="455" height="200" rx="10"/>
+    <rect x="515" y="330" width="455" height="44" rx="10" fill="#2a6f97"/>
+    <rect x="515" y="360" width="455" height="14" fill="#2a6f97"/>
+    <text class="cardttl" x="535" y="361">④ 迷惑料・手間の対価（交渉分）</text>
+    <text class="t" x="535" y="410">法律に決まった額はありません。早く出てほしい</text>
+    <text class="t" x="535" y="436">側が上乗せする調整金です。店舗や事務所なら、</text>
+    <text class="t" x="535" y="462">ここに休業補償が別途のります。</text>
+    <text class="amt" x="535" y="502">目安：家賃の2〜6か月分（交渉次第）</text>
+  </g>
+
+  <text class="note" x="40" y="570">※ ①〜④を積み上げると、家賃5万円の部屋で1戸あたり約50万〜150万円（家賃の10か月〜2年半分）が現実的な着地点です。</text>
+  <text class="note" x="40" y="596">※ よく言われる「家賃の6か月〜2年分」より上に出るのは③が効くためです。高齢者・長期入居者・店舗はさらに超えます。</text>
+</svg>
