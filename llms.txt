@@ -391,3 +391,4 @@
 - [解体費用は確定申告でどう扱う｜相続した家の取壊し費用を取得費と譲渡費用に振り分ける【2026年版】](/guide/kaitaihi-kakuteishinkoku-keihi-keijou/)
 - [机上査定とは？相続した空き家・訳あり物件を現地確認前に相談する方法](/guide/kijou-satei-souzoku-fudosan-soudan/)
 - [鍵がない・立会いできない場合の相談準備｜相続不動産](/guide/kagi-genchi-tachiai-soudan-jyunbi/)
+- [改修・インフラ工事をした物件の査定への影響｜机上で確認できる範囲](/guide/kaishuu-infra-koji-satei-eikyo/)
