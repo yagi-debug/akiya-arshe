@@ -1,0 +1,66 @@
+{
+  "date": "2026-09-16",
+  "slug": "ig-2026-09-16-reel_knowledge",
+  "title": "更地にすると税金はどうなる？",
+  "type": "reel_knowledge",
+  "theme": "固定資産税・お金",
+  "files": [
+    "reel_2026-09-16.mp4"
+  ],
+  "checks": {
+    "caption_forbidden_words": [],
+    "cta_ok": true,
+    "caption_detail_ok": true,
+    "fallback_used": false,
+    "copy_nonempty_ok": true,
+    "info_band_ok": true,
+    "title_quality_ok": true,
+    "season_ok": true,
+    "offer_stated_ok": true,
+    "cta_bridge_ok": true,
+    "caption_not_filler_ok": true,
+    "file_count_ok": true,
+    "segment_count_ok": true,
+    "dimensions_ok": true,
+    "audio_ok": true,
+    "video_ok": true,
+    "duration_ok": true,
+    "voice_credit_ok": true,
+    "bgm_ok": true,
+    "probe": {
+      "width": 1080,
+      "height": 1920,
+      "video_codec": "h264",
+      "audio_codec": "aac",
+      "duration": 58.188
+    },
+    "scene_hashes": [
+      "b9dd9b766c252c581a319f2dcc24c966",
+      "22db5fb1afe98e3215ff3eca0f9d4e24",
+      "ca520f77c439b8cbe7da411111971a3c",
+      "76b977a15ab123f9800e3edce1102ab9",
+      "7aacee1dc42a7e31cc0a251be630c560",
+      "e33efa559cb37ddcade3a3d83b2bee83",
+      "c25bd7dfc5b6e7f16e4c2e2f59497ac5",
+      "e397ebd43fa3cc5a1c7d8db0fd01c987",
+      "4164495108cce3e0fc0c91c82f4e94d5"
+    ],
+    "plan_structure_source": "deterministic_local",
+    "plan_rollover_fallback": false
+  },
+  "fallback_used": false,
+  "fallback_notes": [
+    "scene_01: codex_generated",
+    "scene_02: codex_generated",
+    "scene_03: codex_generated",
+    "scene_04: codex_generated",
+    "scene_05: codex_generated",
+    "scene_06: codex_generated",
+    "scene_07: codex_generated",
+    "scene_08: codex_generated",
+    "scene_09: codex_generated",
+    "veo: 無効（スキル不在またはIG_DISABLE_VEO=1）"
+  ],
+  "source_plan": "/Users/aibot/arshe/1_Projects/realestate-seller/content/CONTENT-PLAN-2026-09.md",
+  "generated_config": "/Users/aibot/arshe/1_Projects/realestate-seller/scripts/instagram/configs/generated/2026-09-16.json"
+}
