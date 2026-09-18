@@ -1,0 +1,66 @@
+{
+  "date": "2026-09-18",
+  "slug": "ig-2026-09-18-reel_knowledge",
+  "title": "相続放棄すれば、空き家は終わる？",
+  "type": "reel_knowledge",
+  "theme": "相続手続き",
+  "files": [
+    "reel_2026-09-18.mp4"
+  ],
+  "checks": {
+    "caption_forbidden_words": [],
+    "cta_ok": true,
+    "caption_detail_ok": true,
+    "fallback_used": false,
+    "copy_nonempty_ok": true,
+    "info_band_ok": true,
+    "title_quality_ok": true,
+    "season_ok": true,
+    "offer_stated_ok": true,
+    "cta_bridge_ok": true,
+    "caption_not_filler_ok": true,
+    "file_count_ok": true,
+    "segment_count_ok": true,
+    "dimensions_ok": true,
+    "audio_ok": true,
+    "video_ok": true,
+    "duration_ok": true,
+    "voice_credit_ok": true,
+    "bgm_ok": true,
+    "probe": {
+      "width": 1080,
+      "height": 1920,
+      "video_codec": "h264",
+      "audio_codec": "aac",
+      "duration": 52.367
+    },
+    "scene_hashes": [
+      "54fb47b98332ae5814c460a2812d617f",
+      "54679c177749a9bf1731f6fa19258dea",
+      "da783370f8344d069ddf5a2663c0f0d8",
+      "a0b25863a62d178930f8f511b8e0c1e1",
+      "642acf2f26a0bc4b067e64a5a4be3373",
+      "b69d4831964f67b8a8e43f3604d73561",
+      "86ba421066a7124f11851fb9a00944ed",
+      "ad5bc63f11e9bdeb1e2e62bf1349dde5",
+      "f10489dbbe984e0e3bed4dbeaa209493"
+    ],
+    "plan_structure_source": "deterministic_local",
+    "plan_rollover_fallback": false
+  },
+  "fallback_used": false,
+  "fallback_notes": [
+    "scene_01: codex_generated",
+    "scene_02: codex_generated",
+    "scene_03: codex_generated",
+    "scene_04: codex_generated",
+    "scene_05: codex_generated",
+    "scene_06: codex_generated",
+    "scene_07: codex_generated",
+    "scene_08: codex_generated",
+    "scene_09: codex_generated",
+    "veo: 無効（スキル不在またはIG_DISABLE_VEO=1）"
+  ],
+  "source_plan": "/Users/aibot/arshe/1_Projects/realestate-seller/content/CONTENT-PLAN-2026-09.md",
+  "generated_config": "/Users/aibot/arshe/1_Projects/realestate-seller/scripts/instagram/configs/generated/2026-09-18.json"
+}
