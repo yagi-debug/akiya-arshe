@@ -1,0 +1,64 @@
+{
+  "date": "2026-09-19",
+  "slug": "ig-2026-09-19-reel_knowledge",
+  "title": "連休に実家へ帰るなら、見ておく5つ",
+  "type": "reel_knowledge",
+  "theme": "季節ネタ",
+  "files": [
+    "reel_2026-09-19.mp4"
+  ],
+  "checks": {
+    "caption_forbidden_words": [],
+    "cta_ok": true,
+    "caption_detail_ok": true,
+    "fallback_used": false,
+    "copy_nonempty_ok": true,
+    "info_band_ok": true,
+    "title_quality_ok": true,
+    "season_ok": true,
+    "offer_stated_ok": true,
+    "cta_bridge_ok": true,
+    "caption_not_filler_ok": true,
+    "file_count_ok": true,
+    "segment_count_ok": true,
+    "dimensions_ok": true,
+    "audio_ok": true,
+    "video_ok": true,
+    "duration_ok": true,
+    "voice_credit_ok": true,
+    "bgm_ok": true,
+    "probe": {
+      "width": 1080,
+      "height": 1920,
+      "video_codec": "h264",
+      "audio_codec": "aac",
+      "duration": 48.228
+    },
+    "scene_hashes": [
+      "10fa5f472adc341d847c8859cd13aa71",
+      "6bb3f980b646f7a3bede3e27087f50ea",
+      "95f4cfde05e0cfddd945ed3d44c1a1df",
+      "73ecaa3b3366fe992e7bb4020afcbbf1",
+      "c5da1bf7359c2a9f104eb42cfe271cd4",
+      "d3e66c80a02a87b68a9cd70c271de26c",
+      "322937c686c091158db3a0dd10091706",
+      "31f54acaa8719be00a6fbc8fbb0e2525"
+    ],
+    "plan_structure_source": "deterministic_local",
+    "plan_rollover_fallback": false
+  },
+  "fallback_used": false,
+  "fallback_notes": [
+    "scene_01: codex_generated",
+    "scene_02: codex_generated",
+    "scene_03: codex_generated",
+    "scene_04: codex_generated",
+    "scene_05: codex_generated",
+    "scene_06: codex_generated",
+    "scene_07: codex_generated",
+    "scene_08: codex_generated",
+    "h3: 無効→全シーン静止画"
+  ],
+  "source_plan": "/Users/aibot/arshe/1_Projects/realestate-seller/content/CONTENT-PLAN-2026-09.md",
+  "generated_config": "/Users/aibot/arshe/1_Projects/realestate-seller/scripts/instagram/configs/generated/2026-09-19.json"
+}
