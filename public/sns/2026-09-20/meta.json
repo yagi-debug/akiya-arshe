@@ -1,0 +1,71 @@
+{
+  "date": "2026-09-20",
+  "slug": "ig-2026-09-20-reel_story",
+  "title": "片付けを手伝う、とだけ言った弟",
+  "type": "reel_story",
+  "theme": "実家じまい・罪悪感",
+  "files": [
+    "reel_2026-09-20.mp4"
+  ],
+  "checks": {
+    "caption_forbidden_words": [],
+    "cta_ok": true,
+    "caption_detail_ok": true,
+    "fallback_used": false,
+    "copy_nonempty_ok": true,
+    "info_band_ok": true,
+    "title_quality_ok": true,
+    "season_ok": true,
+    "offer_stated_ok": true,
+    "cta_bridge_ok": true,
+    "caption_not_filler_ok": true,
+    "file_count_ok": true,
+    "segment_count_ok": true,
+    "dimensions_ok": true,
+    "audio_ok": true,
+    "video_ok": true,
+    "duration_ok": true,
+    "voice_credit_ok": true,
+    "bgm_ok": true,
+    "probe": {
+      "width": 1080,
+      "height": 1920,
+      "video_codec": "h264",
+      "audio_codec": "aac",
+      "duration": 44.093
+    },
+    "scene_hashes": [
+      "0ae9849843f45cc522e67df42e1a321b",
+      "57ecbd6fe3fe0bf1f56b7a98399dbdd7",
+      "700dcfc0cee735283c115ae863822bf1",
+      "a05a285843d3acb9cb63559e9d94cb61",
+      "ffc7edc9afaf97bb34073bc06b230607",
+      "359dd918678084d87b9cfab3b31c1108",
+      "839e16cc4f18c6a67df404ce08d58263"
+    ],
+    "plan_structure_source": "deterministic_local",
+    "plan_rollover_fallback": false,
+    "video_scene_count": 7,
+    "total_scene_count": 7,
+    "all_scenes_animated": true
+  },
+  "fallback_used": false,
+  "fallback_notes": [
+    "scene_01: codex_generated",
+    "scene_02: codex_generated",
+    "scene_03: codex_generated",
+    "scene_04: codex_generated",
+    "scene_05: codex_generated",
+    "scene_06: codex_generated",
+    "scene_07: codex_generated",
+    "scene_01: h3_animated(再利用)",
+    "scene_02: h3_animated(再利用)",
+    "scene_03: h3_animated(再利用)",
+    "scene_04: h3_animated(再利用)",
+    "scene_05: h3_animated(再利用)",
+    "scene_06: h3_animated(再利用)",
+    "scene_07: h3_animated"
+  ],
+  "source_plan": "/Users/aibot/arshe/1_Projects/realestate-seller/content/CONTENT-PLAN-2026-09.md",
+  "generated_config": "/Users/aibot/arshe/1_Projects/realestate-seller/scripts/instagram/configs/generated/2026-09-20.json"
+}
