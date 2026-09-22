@@ -1,0 +1,71 @@
+{
+  "date": "2026-09-22",
+  "slug": "ig-2026-09-22-reel_story",
+  "title": "お彼岸に、はじめて全員がそろった",
+  "type": "reel_story",
+  "theme": "物語",
+  "files": [
+    "reel_2026-09-22.mp4"
+  ],
+  "checks": {
+    "caption_forbidden_words": [],
+    "cta_ok": true,
+    "caption_detail_ok": true,
+    "fallback_used": false,
+    "copy_nonempty_ok": true,
+    "info_band_ok": true,
+    "title_quality_ok": true,
+    "season_ok": true,
+    "offer_stated_ok": true,
+    "cta_bridge_ok": true,
+    "caption_not_filler_ok": true,
+    "file_count_ok": true,
+    "segment_count_ok": true,
+    "dimensions_ok": true,
+    "audio_ok": true,
+    "video_ok": true,
+    "duration_ok": true,
+    "voice_credit_ok": true,
+    "bgm_ok": true,
+    "probe": {
+      "width": 1080,
+      "height": 1920,
+      "video_codec": "h264",
+      "audio_codec": "aac",
+      "duration": 40.624
+    },
+    "video_scene_count": 6,
+    "total_scene_count": 7,
+    "all_scenes_animated": false,
+    "scene_hashes": [
+      "220fb397219a2eae9322969595972b8e",
+      "6c3d798bff7ed6ab3e5a9a8528e87d1b",
+      "13325ea4229040c8c21762e14e302cff",
+      "ae624b40edc8b15268bbfcd65b2824e3",
+      "7cc014b8683208b6b39d0959073cf9db",
+      "d8543b5d898f32ec1aafa3445a5ff68a",
+      "ecf3ba4b053d324076b3ca884bc4fede"
+    ],
+    "plan_structure_source": "deterministic_local",
+    "plan_rollover_fallback": false
+  },
+  "fallback_used": false,
+  "fallback_notes": [
+    "scene_01: codex_generated",
+    "scene_02: codex_generated",
+    "scene_03: codex_generated",
+    "scene_04: codex_generated",
+    "scene_05: codex_generated",
+    "scene_06: codex_generated",
+    "scene_07: codex_generated",
+    "scene_01: h3_animated(再利用)",
+    "scene_02: h3_animated",
+    "scene_03: h3_animated",
+    "scene_04: h3_failed→静止画",
+    "scene_05: h3_animated",
+    "scene_06: h3_animated",
+    "scene_07: h3_animated"
+  ],
+  "source_plan": "/Users/aibot/arshe/1_Projects/realestate-seller/content/CONTENT-PLAN-2026-09.md",
+  "generated_config": "/Users/aibot/arshe/1_Projects/realestate-seller/scripts/instagram/configs/generated/2026-09-22.json"
+}
