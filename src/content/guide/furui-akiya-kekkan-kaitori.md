@@ -17,7 +17,13 @@ faqs:
     answer: "今からでも売却できます。ただし、放置期間が長いほど劣化が進み、買取価格に影響することがあります。また空き家等対策特別措置法に基づく「特定空き家」に指定されると固定資産税の住宅用地特例が解除され、税負担が最大6倍になるリスクがあります。早めのご相談をおすすめします。"
   - question: "欠陥がある古い空き家でも買取してもらえますか？価格はどのくらいになりますか？"
     answer: "雨漏り・シロアリ・基礎クラックなど欠陥の種類と程度によりますが、修繕費用相当分を差し引いた価格での買取が可能です。更地にする解体費用と比較すると、現況買取の方が手残りが多いケースが多くあります。まずは無料査定を受け、解体費との比較検討をお勧めします。"
+updatedDate: "2026-09-07"
 ---
+
+<div style="background:#f8f9fa;border-left:6px solid #2563eb;padding:1.5rem;margin-bottom:2rem;border-radius:6px;font-weight:500;line-height:1.6;">
+<strong style="display:block;margin-bottom:0.5rem;color:#1e40af;">📋 この記事のポイント</strong>
+雨漏り・傾き・老朽化がある家は仲介では売れにくいが、訳あり物件専門の買取業者なら修繕ゼロで売却可能。解体費用（90～150万円）と現況買取の手残りを比較して判断することが重要。固定資産税が最大6倍になるリスクもあり、早期の相談が必要。
+</div>
 
 <img src="/images/furui-akiya-kekkan-kaitori-hero.jpg" alt="風化した瓦屋根と老朽化した木造家屋の外観　老朽化した空き家の売却イメージ" width="1260" height="750" style="width:100%;height:auto;border-radius:8px;margin-bottom:1.5rem;" />
 
@@ -177,6 +183,7 @@ LINEまたはお問い合わせフォームからご連絡ください。物件�
 - <a href="/guide/souzoku-apart-cost-simulation">相続アパートの維持費10年シミュレーション</a>
 - <a href="/guide/saikenchifu-kaitori-souba">再建築不可物件の買取相場</a>
 - <a href="/guide/kyouyuu-mochibun-kaitori">共有持分の買取ガイド｜他の共有者の同意なしで売却する方法</a>
+- <a href="/note/about-company-entity">【事業者情報】空き家のミカタの取扱方針・事業登録情報</a>
 
 
 → **[60秒で概算査定（無料・匿名OK）](/satei)**　物件種別・築年数・エリアを選ぶだけで市場価格と概算買取価格を即時表示。
@@ -187,11 +194,11 @@ LINEまたはお問い合わせフォームからご連絡ください。物件�
 
 - 査定・相談は完全無料
 - 宅建業者免許：大阪府知事(1)第65646号
-- 対応エリア：全国（大阪市24区を中心に対応）
+- 対応エリア：大阪・兵庫・京都・奈良・滋賀・和歌山（買取の可否は個別確認）
 - 仲介手数料なし・現況買取・秘密厳守
 
 <strong><a href="https://line.arshe1719.workers.dev/auth/line?ref=hp">LINEで無料査定を依頼する（24時間受付）</a></strong>
 
 <a href="/contact">お問い合わせフォームはこちら</a>
 
-相談無料・秘密厳守・全国対応
+相談無料・秘密厳守・大阪・近畿対応
