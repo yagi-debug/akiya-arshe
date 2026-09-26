@@ -10,7 +10,7 @@
     "build": "node scripts/check-line-links.mjs && astro build",
     "preview": "astro preview",
     "astro": "astro",
-    "deploy": "node scripts/check-line-links.mjs && astro build && gh-pages -d dist --dotfiles && node scripts/indexnow-ping.mjs"
+    "deploy": "echo '公開は content-evidence.py の公開係だけ。npm run deploy は 2026-09-15 に廃止' 1>&2 && exit 1"
   },
   "dependencies": {
     "@astrojs/sitemap": "^3.7.2",
@@ -18,8 +18,5 @@
     "@tailwindcss/vite": "^4.2.2",
     "astro": "^7.3.1",
     "tailwindcss": "^4.2.2"
-  },
-  "devDependencies": {
-    "gh-pages": "^6.3.0"
   }
 }
