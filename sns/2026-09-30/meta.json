@@ -1,0 +1,69 @@
+{
+  "date": "2026-09-30",
+  "slug": "ig-2026-09-30-reel_knowledge",
+  "title": "値段がつかないと思っている家ほど",
+  "type": "reel_knowledge",
+  "theme": "売却ノウハウ",
+  "files": [
+    "reel_2026-09-30.mp4"
+  ],
+  "checks": {
+    "caption_forbidden_words": [],
+    "cta_ok": true,
+    "caption_detail_ok": true,
+    "fallback_used": false,
+    "copy_nonempty_ok": true,
+    "info_band_ok": true,
+    "title_quality_ok": true,
+    "season_ok": true,
+    "offer_stated_ok": true,
+    "cta_bridge_ok": true,
+    "caption_not_filler_ok": true,
+    "file_count_ok": true,
+    "segment_count_ok": true,
+    "dimensions_ok": true,
+    "audio_ok": true,
+    "video_ok": true,
+    "duration_ok": true,
+    "voice_credit_ok": true,
+    "bgm_ok": true,
+    "probe": {
+      "width": 1080,
+      "height": 1920,
+      "video_codec": "h264",
+      "audio_codec": "aac",
+      "duration": 54.369
+    },
+    "scene_hashes": [
+      "a3a2c75139d106d57c97cd4e6a7422b8",
+      "d60f6f5f09af96b9a2dee8a2b01f289a",
+      "543591b5fc2bf714106b95a0efc5373c",
+      "3f321493fb81930f5d4951ee24efcbeb",
+      "068596d8ecb03ff9dd86753bc3abbc2b",
+      "b4bfb5f875a86abb5d7dc7971d120ec5",
+      "733a8d0f4eb3aff80ed80f6841c73e12",
+      "7d04e0f901afb0d720c05bb0fb4b0b75",
+      "60d420f6f68e5190acd5bf0436ddfd9b"
+    ],
+    "video_scene_count": 0,
+    "total_scene_count": 9,
+    "all_scenes_animated": false,
+    "plan_structure_source": "deterministic_local",
+    "plan_rollover_fallback": false
+  },
+  "fallback_used": false,
+  "fallback_notes": [
+    "scene_01: codex_generated",
+    "scene_02: codex_generated",
+    "scene_03: codex_generated",
+    "scene_04: codex_generated",
+    "scene_05: codex_generated",
+    "scene_06: codex_generated",
+    "scene_07: codex_generated",
+    "scene_08: codex_generated",
+    "scene_09: codex_generated",
+    "h3: 3日に1回の対象外→全シーン静止画"
+  ],
+  "source_plan": "/Users/aibot/arshe/1_Projects/realestate-seller/content/CONTENT-PLAN-2026-09.md",
+  "generated_config": "/Users/aibot/arshe/1_Projects/realestate-seller/scripts/instagram/configs/generated/2026-09-30.json"
+}
