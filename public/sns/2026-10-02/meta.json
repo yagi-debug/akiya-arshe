@@ -1,0 +1,69 @@
+{
+  "date": "2026-10-02",
+  "slug": "ig-2026-10-02-reel_knowledge",
+  "title": "年内に手放すと、何が変わる？",
+  "type": "reel_knowledge",
+  "theme": "固定資産税・お金",
+  "files": [
+    "reel_2026-10-02.mp4"
+  ],
+  "checks": {
+    "caption_forbidden_words": [],
+    "cta_ok": true,
+    "caption_detail_ok": true,
+    "fallback_used": false,
+    "copy_nonempty_ok": true,
+    "info_band_ok": true,
+    "title_quality_ok": true,
+    "season_ok": true,
+    "offer_stated_ok": true,
+    "cta_bridge_ok": true,
+    "caption_not_filler_ok": true,
+    "file_count_ok": true,
+    "segment_count_ok": true,
+    "dimensions_ok": true,
+    "audio_ok": true,
+    "video_ok": true,
+    "duration_ok": true,
+    "voice_credit_ok": true,
+    "bgm_ok": true,
+    "probe": {
+      "width": 1080,
+      "height": 1920,
+      "video_codec": "h264",
+      "audio_codec": "aac",
+      "duration": 56.86
+    },
+    "scene_hashes": [
+      "b694943b32025302abf511c52c684405",
+      "4e02754e9ff9c3dc0bd59cbbfbc15c6e",
+      "cb96b8c29287c8e572a7cfcd2dda671b",
+      "87e7ffb75177c3f70ef9c98b8841f7fb",
+      "1969848a1290725a04a6b72c12493caa",
+      "76cdb69f217421bea3fb9be5b178b89d",
+      "53fa24a777c8437df29a7162885fc892",
+      "dc84d38360bc8152cccccbd3212d97c0",
+      "5ef27fec41a36a1719ed648aa83cf947"
+    ],
+    "video_scene_count": 0,
+    "total_scene_count": 9,
+    "all_scenes_animated": false,
+    "plan_structure_source": "deterministic_local",
+    "plan_rollover_fallback": false
+  },
+  "fallback_used": false,
+  "fallback_notes": [
+    "scene_01: codex_generated",
+    "scene_02: codex_generated",
+    "scene_03: codex_generated",
+    "scene_04: codex_generated",
+    "scene_05: codex_generated",
+    "scene_06: codex_generated",
+    "scene_07: codex_generated",
+    "scene_08: codex_generated",
+    "scene_09: codex_generated",
+    "h3: 3日に1回の対象外→全シーン静止画"
+  ],
+  "source_plan": "/Users/aibot/arshe/1_Projects/realestate-seller/content/CONTENT-PLAN-2026-09.md",
+  "generated_config": "/Users/aibot/arshe/1_Projects/realestate-seller/scripts/instagram/configs/generated/2026-10-02.json"
+}
