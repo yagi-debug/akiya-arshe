@@ -395,3 +395,4 @@
 - [提示された査定額を検討したいとき｜相談で確認しておきたいこと](/guide/teiji-kakaku-kento-jyunbi/)
 - [相談を始める前の確認表｜所在地・入居状況・売却理由の記入欄](/guide/soudan-hajimeru-kakunin-hyo/)
 - [資料がなくても相談できる｜手元の情報だけで最初に伝えること](/guide/shiryo-nashi-soudan-tehoto-joho/)
+- [相続分の譲渡で遺産分割から抜けられるか](/guide/souzokubun-jouto-ridatsu-kento/)
