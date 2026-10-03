@@ -1,0 +1,67 @@
+{
+  "date": "2026-10-03",
+  "slug": "ig-2026-10-03-reel_knowledge",
+  "title": "年内に終わらせるなら、逆算で見る5つ",
+  "type": "reel_knowledge",
+  "theme": "季節ネタ",
+  "files": [
+    "reel_2026-10-03.mp4"
+  ],
+  "checks": {
+    "caption_forbidden_words": [],
+    "cta_ok": true,
+    "caption_detail_ok": true,
+    "fallback_used": false,
+    "copy_nonempty_ok": true,
+    "info_band_ok": true,
+    "title_quality_ok": true,
+    "season_ok": true,
+    "offer_stated_ok": true,
+    "cta_bridge_ok": true,
+    "caption_not_filler_ok": true,
+    "file_count_ok": true,
+    "segment_count_ok": true,
+    "dimensions_ok": true,
+    "audio_ok": true,
+    "video_ok": true,
+    "duration_ok": true,
+    "voice_credit_ok": true,
+    "bgm_ok": true,
+    "probe": {
+      "width": 1080,
+      "height": 1920,
+      "video_codec": "h264",
+      "audio_codec": "aac",
+      "duration": 47.29
+    },
+    "scene_hashes": [
+      "39c6b256b21ae72b5276f91861112115",
+      "e44e905a1fe65854824ccde05ce5ee54",
+      "57062c27f494a7db16440f69cc5c863f",
+      "afa28554475dcf7477bc74c0930f4eed",
+      "e3ab818f497bae7d6444a6e411a56d99",
+      "573814960ba6e80a0d3d98a22bcd751e",
+      "37d106d56a227ec4e1fe3482f74cda52",
+      "4ceea6022d59850177e847ce7b97b0af"
+    ],
+    "video_scene_count": 0,
+    "total_scene_count": 8,
+    "all_scenes_animated": false,
+    "plan_structure_source": "deterministic_local",
+    "plan_rollover_fallback": false
+  },
+  "fallback_used": false,
+  "fallback_notes": [
+    "scene_01: codex_generated",
+    "scene_02: codex_generated",
+    "scene_03: codex_generated",
+    "scene_04: codex_generated",
+    "scene_05: codex_generated",
+    "scene_06: codex_generated",
+    "scene_07: codex_generated",
+    "scene_08: codex_generated",
+    "h3: 3日に1回の対象外→全シーン静止画"
+  ],
+  "source_plan": "/Users/aibot/arshe/1_Projects/realestate-seller/content/CONTENT-PLAN-2026-09.md",
+  "generated_config": "/Users/aibot/arshe/1_Projects/realestate-seller/scripts/instagram/configs/generated/2026-10-03.json"
+}
