@@ -20,7 +20,8 @@ const guide = defineCollection({
     })).optional(),
     // 不正なcluster値が1記事でも入るとastro build全体が失敗しデプロイが止まるため、
     // enumに合わない値は undefined にフォールバックさせる（ビルドを止めない＝根本対策）。
-    cluster: z.enum(['inheritance', 'non-rebuildable', 'shared-ownership', 'akiya-tax', 'accident', 'wakeari']).catch(undefined).optional(),
+    cluster: z.enum(['inheritance', 'non-rebuildable', 'shared-ownership', 'akiya-tax', 'accident', 'wakeari', 'business']).catch(undefined).optional(),
+    lineRef: z.string().catch(undefined).optional(),
     isPillar: z.boolean().catch(undefined).optional(),
     noindex: z.boolean().optional(),
     serviceAreaClosed: z.string().optional(),

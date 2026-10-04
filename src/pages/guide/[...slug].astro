@@ -17,7 +17,9 @@ const { entry } = Astro.props;
 const { Content, headings } = await render(entry);
 const tocItems = headings.filter((h) => h.depth === 2).slice(0, 12);
 
-const LINE_URL = "https://line.arshe1719.workers.dev/auth/line?ref=hp";
+const lineRef = entry.data.lineRef ?? 'hp';
+const LINE_URL = `https://line.arshe1719.workers.dev/auth/line?ref=${lineRef}`;
+const ctaVariant = entry.data.cluster === 'business' ? 'business' : undefined;
 
 const breadcrumbs = [
   { name: 'ホーム', url: '/' },
@@ -36,6 +38,7 @@ const clusterLabels: Record<string, string> = {
   'akiya-tax':        '空き家の維持コストと税金',
   'accident':         '事故物件・心理的瑕疵',
   'wakeari':          '訳あり物件の買取・売却',
+  'business':         '工場・倉庫・店舗付き住宅の売却',
 };
 
 const currentCluster = entry.data.cluster;
@@ -212,6 +215,8 @@ const displayDate = entry.data.updatedDate || entry.data.publishDate;
   ogType="article"
   ogImage={socialImg}
   noindex={entry.data.noindex ?? false}
+  lineRef={lineRef}
+  variant={ctaVariant}
 >
   <article class="mx-auto max-w-3xl px-4 py-8 md:py-12">
     <!-- 記事ヘッダー -->
@@ -273,7 +278,9 @@ const displayDate = entry.data.updatedDate || entry.data.publishDate;
     ">
       <Content />
       <p class="mt-8">
-        <a href="/satei" class="font-bold text-accent hover:underline">無料査定の相談準備メモを作る →</a>
+        {ctaVariant === 'business'
+          ? <a href="/contact" class="font-bold text-accent hover:underline">フォームで相談する →</a>
+          : <a href="/satei" class="font-bold text-accent hover:underline">無料査定の相談準備メモを作る →</a>}
       </p>
     </div>
   </article>
@@ -284,15 +291,17 @@ const displayDate = entry.data.updatedDate || entry.data.publishDate;
       <p class="mb-1 text-lg font-bold text-text md:text-xl">物件の状況を、わかる範囲でご相談ください</p>
       <p class="mb-5 text-sm leading-relaxed text-text-light">
         この記事は一般的な内容です。実際の買取価格は物件の状態や権利関係で変わります。
-        <strong class="text-text">相談準備メモ</strong>で所在地や入居状況を整理できます。入力は任意で、自動送信されません。価格は物件を確認して個別にご案内します。
+        {ctaVariant === 'business'
+          ? <>所在地や建物の状況、困っていることを、<strong class="text-text">問い合わせフォーム</strong>からお知らせください。価格は物件を確認して個別にご案内します。</>
+          : <><strong class="text-text">相談準備メモ</strong>で所在地や入居状況を整理できます。入力は任意で、自動送信されません。価格は物件を確認して個別にご案内します。</>}
       </p>
       <a
-        href="/satei"
+        href={ctaVariant === 'business' ? "/contact" : "/satei"}
         class="mb-3 inline-flex w-full items-center justify-center gap-2 rounded-lg bg-accent px-8 py-4 text-base font-bold text-white shadow transition-all hover:opacity-90 hover:shadow-lg sm:w-auto"
       >
-        相談準備メモを作る（無料） →
+        {ctaVariant === 'business' ? "フォームで相談する（無料） →" : "相談準備メモを作る（無料） →"}
       </a>
-      <p class="mb-1 text-xs text-text-light">メモを作らず、市区町村と困っていることから相談できます</p>
+      <p class="mb-1 text-xs text-text-light">{ctaVariant === 'business' ? "フォームに入れにくいときは、LINEからでも相談できます" : "メモを作らず、市区町村と困っていることから相談できます"}</p>
       <a
         href={LINE_URL}
         target="_blank"

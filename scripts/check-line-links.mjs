@@ -9,12 +9,14 @@
 // 正とするLINE導線はこの2形だけ（流入経路計測付き入口URL）:
 //   https://line.arshe1719.workers.dev/auth/line?ref=hp    （HP内の通常導線）
 //   https://line.arshe1719.workers.dev/auth/line?ref=llms  （llms.txt）
+//   https://line.arshe1719.workers.dev/auth/line?ref=biz-hub|biz-tenpo|biz-kojo|biz-souko|biz-kiji （事業用の柱・設計書§3.2）
+//   と、テンプレート内の ref=${lineRef}（値は guide の lineRef。既定 hp）
 import { readdirSync, readFileSync, statSync } from 'node:fs';
 import { join, extname } from 'node:path';
 
 const ROOTS = ['src', 'public'];
 const EXTS = new Set(['.astro', '.md', '.mdx', '.ts', '.js', '.mjs', '.txt', '.html', '.json', '.xml']);
-const ALLOWED = /^https:\/\/line\.arshe1719\.workers\.dev\/(auth\/line\?ref=(hp|llms)|api\/forms\/e713cdc0-17da-4830-89f4-5272886bdd7b\/submit)$/;
+const ALLOWED = /^https:\/\/line\.arshe1719\.workers\.dev\/(auth\/line\?ref=(hp|llms|biz-(hub|tenpo|kojo|souko|kiji)|\$\{lineRef\})|api\/forms\/e713cdc0-17da-4830-89f4-5272886bdd7b\/submit)$/;
 
 // URLらしき塊を拾う各パターン。lin.ee は全面禁止（経路が取れない旧URL＋創作URLの温床）
 const SUSPECTS = [

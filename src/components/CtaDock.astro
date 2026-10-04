@@ -5,7 +5,13 @@
 // PC: 従来どおり右下のフローティングLINEボタン。
 // クリックは BaseLayout の gtag( a[href*="lin.ee"], a[href*="line.arshe1719.workers.dev/auth/line"] ) で自動計測される。
 import LineIcon from "./LineIcon.astro";
-const LINE_URL = "https://line.arshe1719.workers.dev/auth/line?ref=hp";
+interface Props {
+  lineRef?: string;
+  variant?: 'business';
+}
+const { lineRef = "hp", variant } = Astro.props;
+const isBusiness = variant === "business";
+const LINE_URL = `https://line.arshe1719.workers.dev/auth/line?ref=${lineRef}`;
 ---
 
 <!-- モバイル: 下部固定バー -->
@@ -14,7 +20,9 @@ const LINE_URL = "https://line.arshe1719.workers.dev/auth/line?ref=hp";
   class="fixed inset-x-0 bottom-0 z-50 translate-y-full transition-transform duration-300 md:hidden"
   style="padding-bottom: env(safe-area-inset-bottom);"
 >
+  {!isBusiness && (
   <p class="bg-primary px-3 py-1 text-center text-[11px] font-bold text-white">＼ 友だち追加で5大特典 ／ 維持費計算シートなど実用PDF進呈中</p>
+  )}
   <div class="flex gap-2 border-t border-border bg-white/95 px-3 py-2.5 shadow-[0_-4px_12px_rgba(0,0,0,0.12)] backdrop-blur">
     <a
       href={LINE_URL}
@@ -28,13 +36,13 @@ const LINE_URL = "https://line.arshe1719.workers.dev/auth/line?ref=hp";
       LINEで無料相談
     </a>
     <a
-      href="/satei"
+      href={isBusiness ? "/contact" : "/satei"}
       class="flex flex-[2] flex-col items-center justify-center rounded-xl bg-accent px-3 py-1.5 text-white shadow"
     
   data-rondo-cta
 >
-      <span class="text-sm font-bold leading-tight">査定の相談準備</span>
-      <span class="text-[10px] leading-tight opacity-90">入力任意・無料</span>
+      <span class="text-sm font-bold leading-tight">{isBusiness ? "フォームで相談" : "査定の相談準備"}</span>
+      <span class="text-[10px] leading-tight opacity-90">{isBusiness ? "無料" : "入力任意・無料"}</span>
     </a>
   </div>
 </div>

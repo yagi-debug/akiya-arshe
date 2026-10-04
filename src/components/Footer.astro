@@ -8,9 +8,14 @@ const guideLinks = [
   { label: "大阪市の不動産買取", href: "/osaka/" },
 ];
 
+interface Props {
+  variant?: 'business';
+}
+const { variant } = Astro.props;
+
 const siteLinks = [
   { label: "ホーム", href: "/" },
-  { label: "無料査定の相談準備", href: "/satei" },
+  ...(variant === "business" ? [] : [{ label: "無料査定の相談準備", href: "/satei" }]),
   { label: "売却ガイド", href: "/guide" },
   { label: "対応エリア", href: "/area" },
   { label: "よくある質問", href: "/faq" },
