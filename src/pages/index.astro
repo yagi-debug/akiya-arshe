@@ -148,7 +148,7 @@ const homeWebPageSchema = {
   <section data-sec="ticker" class="overflow-hidden border-y border-border bg-white py-4" aria-hidden="true">
     <div class="marquee-track gap-3">
       {[0, 1].map(() => (
-        ["相続アパート", "空き家・放置物件", "再建築不可", "共有持分", "事故物件", "底地・借地権", "リゾートマンション", "遠方の実家", "残置物そのまま", "相続登記前でも相談可"].map((label) => (
+        ["相続アパート", "空き家・放置物件", "再建築不可", "共有持分", "事故物件", "底地・借地権", "リゾートマンション", "遠方の実家", "残置物そのまま", "工場・倉庫・店舗付き住宅", "相続登記前でも相談可"].map((label) => (
           <span class="flex shrink-0 items-center gap-2 rounded-full bg-bg px-4 py-1.5 text-xs font-bold text-primary">
             <svg xmlns="http://www.w3.org/2000/svg" class="h-3.5 w-3.5 text-accent" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2.5"><path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7" /></svg>
             {label}
@@ -168,6 +168,7 @@ const homeWebPageSchema = {
         </h2>
         <p class="text-sm text-text-light md:text-base">相談したい内容をメモに整理できます。価格は物件の状況を確認して個別にご案内します。相談・査定は無料です。</p>
         <p class="mt-4 text-sm"><a href="/guide/souzoku-apart-uritai-lp/" class="font-bold text-primary underline">相続したアパートの管理にお困りの方へ：手残りの比べ方と相談前のチェック</a></p>
+        <p class="mt-2 text-sm"><a href="/guide/jigyoyo-fudosan-kaitori/" class="font-bold text-primary underline">工場・倉庫・店舗付き住宅の売却相談はこちら</a></p>
       </div>
       <div class="reveal mb-8 overflow-hidden rounded-3xl">
         <img src="/images/site/satei-desk.webp" alt="机の上の家の模型と鍵、査定の書類" width="1100" height="821" loading="lazy"
