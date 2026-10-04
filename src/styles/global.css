@@ -220,3 +220,20 @@ h1, h2, h3 {
     transform: scale(1.05);
   }
 }
+
+.cta-line,
+.cta-contact {
+  display: inline-block;
+  color: #fff;
+  padding: 14px 28px;
+  border-radius: 8px;
+  font-weight: bold;
+  text-decoration: none;
+  margin: 8px 4px;
+}
+.cta-line {
+  background: #06c755;
+}
+.cta-contact {
+  background: #1a56db;
+}
