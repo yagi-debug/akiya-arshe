@@ -55,6 +55,8 @@ howToSteps:
 
 ## 滞納から競売までを月次カレンダーに置き直すとこうなります
 
+![滞納から競売までを月次カレンダーに置き直すとこうなりますのイラスト - 空き家のミカタ](/images/osaka-nini-baikyaku-kyosai-calendar-h2-1.jpg)
+
 <img src="/images/osaka-nini-baikyaku-kyosai-calendar-timeline.jpg" alt="住宅ローンの滞納から競売までの6段階と、任意売却の締切である売却許可決定の確定を示した図" width="1200" height="860" style="width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" />
 
 住宅ローンが払えなくなってから家が人手に渡るまでは、次の6つの段階を通ります。
@@ -166,6 +168,8 @@ howToSteps:
 
 ## 記録に残る差と、近隣に知られる差
 
+![記録に残る差と、近隣に知られる差のイラスト - 空き家のミカタ](/images/osaka-nini-baikyaku-kyosai-calendar-h2-2.jpg)
+
 「競売になると信用情報に傷がつくから、任意売却にしたい」というご相談をよくいただきます。ここは誤解が多いところなので、正確に整理します。
 
 <strong>信用情報に登録されるのは、競売や任意売却という売り方ではなく、その手前で起きた事実のほうです。</strong>全国銀行個人信用情報センターでは、取引情報として延滞・代位弁済・強制回収手続等の事実を含む情報が、契約期間中および契約終了日から5年を超えない期間、登録されます。官報に掲載された情報（自己破産など）は7年を超えない期間、本人申告情報と貸付自粛情報は5年を超えない期間です。
@@ -235,6 +239,8 @@ howToSteps:
 ---
 
 ## 関連記事
+
+![関連記事のイラスト - 空き家のミカタ](/images/osaka-nini-baikyaku-kyosai-calendar-h2-3.jpg)
 
 - <a href="/guide/ninibaikyaku-guide">任意売却とは｜住宅ローンが払えないときの売却方法と競売との違い</a>
 - <a href="/guide/nini-baikyaku-zandaka-yukue">任意売却の後に残った残債はどうなるか</a>

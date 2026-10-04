@@ -1,5 +1,5 @@
 ---
-title: "埋設廃棄物・地中障害物がある土地を売りたい｜調査義務・撤去費用と現況買取の流れ【全国対応】"
+title: "埋設廃棄物・地中障害物がある土地を売りたい｜調査義務・撤去費用と現況買取の流れ【大阪・近畿対応】"
 description: "埋設廃棄物（地下タンク・産業廃棄物・旧基礎）や地中障害物がある土地の売却方法を宅建業者が解説。調査の必要性・撤去費用の目安・告知義務・契約不適合責任のリスクと、現況のまま買取してもらう手順まで説明します。"
 publishDate: "2026-07-12"
 author: "空き家のミカタ編集部"
@@ -26,6 +26,7 @@ howToSteps:
     text: "埋設廃棄物の内容・量が確認できたら、①自己負担で撤去してから仲介売却 ②費用差し引きで現況買取 の2択になります。撤去費用が高額または不透明な場合は、訳あり物件専門の買取業者への相談が最短ルートです。"
   - name: "重要事項説明で告知し、買取契約を締結する"
     text: "確認できた地中障害物の内容・調査結果を重要事項説明書・物件状況確認書に記載します。現況買取の場合は告知内容に基づく査定価格で売買契約を締結。引き渡し後の対応（障害物撤去等）は買取業者が行います。"
+updatedDate: "2026-09-07"
 ---
 
 <script type="application/ld+json">
@@ -353,13 +354,13 @@ howToSteps:
 
 ---
 
-## 今すぐ相談する（無料・全国対応）
+## 今すぐ相談する（無料・大阪・近畿対応）
 
 「地中に何があるか不明で動けない」「撤去費用を準備できない」「相続した土地を早く手放したい」——そのままの状態でご相談ください。
 
 <div style="background:#f0f7f0;border:2px solid #2d7a2d;border-radius:12px;padding:2rem;text-align:center;margin:2rem 0;">
   <p style="font-size:1.1rem;font-weight:bold;margin-bottom:1rem;">LINE「空き家のミカタ」で無料相談</p>
-  <p style="margin-bottom:1.5rem;">写真・調査報告書を送っていただければ、査定価格の目安をお伝えします。<br>相談無料・全国対応・秘密厳守</p>
+  <p style="margin-bottom:1.5rem;">写真・調査報告書を送っていただければ、査定価格の目安をお伝えします。<br>相談無料・大阪・近畿対応・秘密厳守</p>
   <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06C755;color:#fff;font-size:1.1rem;font-weight:bold;padding:0.9rem 2.5rem;border-radius:8px;text-decoration:none;">LINEで無料相談する</a>
 </div>
 
@@ -371,4 +372,4 @@ howToSteps:
 
 > **合同会社アルシェ**  
 > 宅地建物取引業者（大阪府知事(1)第65646号）  
-> 訳あり不動産の直接買取・全国対応
+> 訳あり不動産の直接買取・大阪・近畿対応

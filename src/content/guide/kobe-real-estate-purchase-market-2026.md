@@ -1,4 +1,5 @@
 ---
+serviceAreaClosed: "神戸市"
 noindex: true
 title: "神戸市の不動産買取相場（2026年版）｜訳あり物件・空き家・相続物件も全国対応"
 description: "神戸市で訳あり物件・空き家・相続不動産の売却をお考えの方へ。2026年版の買取相場データ、再建築不可・共有持分・相続アパートの買取事情を宅建業者が解説。仲介手数料なし・最短3日で現金化。"
@@ -18,6 +19,7 @@ faqs:
   - question: "神戸市の買取には仲介手数料がかかりますか？"
     answer: "かかりません。弊社は仲介（売主と買主をつなぐ業務）ではなく、直接買取を行っています。仲介手数料は0円です。"
 cluster: "wakeari"
+updatedDate: "2026-09-07"
 ---
 
 <img src="/images/kobe-real-estate-purchase-market-2026-hero.jpg" alt="神戸市のウォーターフロントと都市景観　不動産買取相場2026年版" width="1200" height="800" style="width:100%;height:auto;border-radius:8px;margin-bottom:1.5rem;" />

@@ -33,6 +33,7 @@ howToSteps:
     text: "買主が決まったら売買契約を締結し、手付金を受け取ります。決済日に残代金を受け取り、所有権移転登記を行い、物件を引き渡します。固定資産税や管理費等の日割り精算も行います。"
   - name: "確定申告（譲渡所得が発生した場合）"
     text: "売却益が出た場合は翌年2月〜3月に確定申告が必要です。取得費・譲渡費用・特別控除（3,000万円控除等）を適用し、譲渡所得税を申告・納付します。取得費の証明書類は大切に保管してください。"
+updatedDate: "2026-09-07"
 ---
 
 <img src="/images/souzoku-fudousan-urikata-hero.jpg" alt="相続不動産の売買契約書にサインする場面　不動産売却の実務手順解説" width="1200" height="800" style="width:100%;height:auto;border-radius:8px;margin-bottom:1.5rem;" />
@@ -244,7 +245,7 @@ howToSteps:
   <p style="font-size:1.1rem;font-weight:bold;margin-bottom:1rem;">無料相談・査定のご依頼</p>
   <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06c755;color:#fff;font-weight:bold;padding:0.75rem 2rem;border-radius:8px;text-decoration:none;margin:0.5rem;">LINEで無料相談する</a>
   <a href="/contact" style="display:inline-block;background:#1a56db;color:#fff;font-weight:bold;padding:0.75rem 2rem;border-radius:8px;text-decoration:none;margin:0.5rem;">お問い合わせフォーム</a>
-  <p style="font-size:0.9rem;color:#666;margin-top:0.75rem;">24時間受付・全国対応・相談無料</p>
+  <p style="font-size:0.9rem;color:#666;margin-top:0.75rem;">24時間受付・大阪・近畿対応・相談無料</p>
 </div>
 
 

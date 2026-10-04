@@ -1,0 +1,74 @@
+---
+import PageHero from "../../components/PageHero.astro";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+
+const breadcrumbs = [
+  { name: "ホーム", url: "/" },
+  { name: "よくある質問", url: "/faq" },
+  { name: "福島区の不動産売却", url: "/faq/fukushima-ku-fudosan-baikyaku" },
+];
+
+const question = "大阪市福島区で不動産を売却したいのですが、買取してもらえますか？相場は？";
+const answer =
+  "はい、対応できます。福島区のマンション相場は約87万円/m2（福島駅周辺は約95万円/m2）、一戸建ては約4,500〜6,000万円が目安です。共有持分・相続登記未了・老朽化した物件も現況のまま仲介手数料0円で直接買取しています。";
+
+const qaSchema = {
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": question,
+    "text": question,
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": answer,
+      "url": "https://akiya.arshe-corp.com/faq/fukushima-ku-fudosan-baikyaku/",
+    },
+  },
+};
+---
+
+<BaseLayout
+  title="福島区の不動産売却・買取は対応可能？マンション87万円/m2の目安"
+  description="大阪市福島区の不動産売却相場と、訳あり物件・空き家の直接買取について宅建業者が解説します。"
+  schema={qaSchema}
+  breadcrumbs={breadcrumbs}
+>
+  <PageHero label="よくある質問" title={question} />
+  <section class="px-4 py-12 md:py-16">
+    <div class="mx-auto max-w-2xl">
+      <div class="mb-8 rounded-2xl border border-accent/30 bg-accent-soft/40 p-5 text-sm leading-relaxed text-primary">
+        <p class="font-bold">結論: 福島区のマンションは約87万円/m2が相場目安で、直接買取に対応しています。</p>
+        <p class="mt-1">物件個別の条件によって価格は変動するため、正確な金額は無料査定でご確認ください。</p>
+      </div>
+
+      <div class="mb-8 rounded-2xl border border-border bg-white p-6 shadow-[var(--shadow-soft)]">
+        <p class="mb-2 flex items-start gap-2 font-bold text-primary">
+          <span class="flex h-6 w-6 shrink-0 items-center justify-center rounded-full bg-accent-soft text-xs font-black text-accent">Q</span>
+          {question}
+        </p>
+        <p class="pl-8 text-text-light" set:html={answer} />
+      </div>
+
+      <div class="space-y-4 text-sm leading-relaxed text-text-light">
+        <p>大阪市福島区は福島駅・野田駅を中心に商業と住宅が混在するエリアです。マンションの相場は区内平均で約87万円/m2、福島駅周辺では約95万円/m2と高めの水準です。一戸建ては約4,500〜6,000万円、住宅地の土地は坪単価約165万円、商業地（福島駅・野田駅周辺）は坪単価約355万円以上が目安です。</p>
+        <p>相続した一戸建て、共有持分のみのマンション、相続登記が済んでいない物件など、仲介では買い手がつきにくい物件も現況のまま直接買取しています。仲介手数料はかからず、最短3日で査定結果をお伝えします。</p>
+        <p>まずは無料査定で、お手持ちの物件が今どれくらいの価格で売却できるかをご確認ください。</p>
+      </div>
+
+      <div class="mt-10 rounded-2xl border border-border bg-bg p-5 text-sm">
+        <p class="mb-2 font-bold text-primary">あわせて読みたい</p>
+        <ul class="list-inside list-disc space-y-1 text-accent">
+          <li><a href="/area/osaka-fukushima" class="underline">福島区の不動産買取相場を見る</a></li>
+          <li><a href="/guide/kaitori-gyosha-erabikata-checkpoints" class="underline">訳あり不動産買取業者を選ぶ5つのチェックポイント</a></li>
+          <li><a href="/faq" class="underline">よくある質問一覧に戻る</a></li>
+        </ul>
+      </div>
+
+      <p class="mt-8 text-center text-xs text-text-light">
+        執筆・監修: 八木宏樹（合同会社アルシェ代表）／合同会社アルシェ（宅建業免許: 大阪府知事(1)第65646号）
+      </p>
+    </div>
+  </section>
+</BaseLayout>

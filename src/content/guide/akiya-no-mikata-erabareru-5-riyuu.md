@@ -16,6 +16,7 @@ faqs:
   - question: "相続登記がまだ終わっていない物件でも相談できますか？"
     answer: "はい、ご相談いただけます。相続登記が未完了でも、司法書士との連携により売却を進めることが可能です。「何から手をつければいいかわからない」という状態でも、順を追ってサポートします。"
 cluster: "akiya-tax"
+updatedDate: "2026-09-07"
 ---
 
 <img src="/images/akiya-no-mikata-erabareru-5-riyuu-hero.jpg" alt="不動産の専門家と相談する様子　訳あり物件の買取相談" width="1200" height="800" style="width:100%;height:auto;border-radius:8px;margin-bottom:1.5rem;" />
@@ -170,7 +171,7 @@ cluster: "akiya-tax"
 
 - <a href="/guide/akiya-shobun-5-hikaku">空き家処分の5大選択肢を徹底比較【2026年版】費用・期間・手残り額</a>
 - <a href="/guide/kotei-shisan-zei-nousho-baikyaku-3taiken">【実録】固定資産税の通知書が届き、空き家売却を決意した3つの体験談【2026年5月】</a>
-- <a href="/guide/akiya-kaitori">空き家の買取｜固定資産税6倍リスクのある空き家を今すぐ現金化【全国対応・最短3日】</a>
+- <a href="/guide/akiya-kaitori">空き家の買取｜固定資産税6倍リスクのある空き家を今すぐ現金化【大阪・近畿対応・最短3日】</a>
 - <a href="/guide/souzoku-fudousan-urikata-kanzen-guide">【2026年版】相続した不動産の売り方 完全ガイド｜実務手順・費用・業者選定を買取業者が解説</a>
 - <a href="/guide/kaitori-jirei-10sen">訳あり不動産の買取実績10選｜相続・再建築不可・事故物件・共有持分・空き家の解決事例集</a>
 

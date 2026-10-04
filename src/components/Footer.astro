@@ -8,11 +8,16 @@ const guideLinks = [
   { label: "大阪市の不動産買取", href: "/osaka/" },
 ];
 
+interface Props {
+  variant?: 'business';
+}
+const { variant } = Astro.props;
+
 const siteLinks = [
   { label: "ホーム", href: "/" },
-  { label: "無料AI査定", href: "/satei" },
+  ...(variant === "business" ? [] : [{ label: "無料査定の相談準備", href: "/satei" }]),
   { label: "売却ガイド", href: "/guide" },
-  { label: "対応物件", href: "/area" },
+  { label: "対応エリア", href: "/area" },
   { label: "よくある質問", href: "/faq" },
   { label: "会社概要", href: "/about" },
   { label: "お問い合わせ", href: "/contact" },
@@ -37,7 +42,7 @@ const currentYear = new Date().getFullYear();
         </div>
         <p class="mb-4 text-sm leading-relaxed text-white/70">
           相続アパート・空き家・再建築不可・共有持分・事故物件など、訳あり不動産の直接買取専門。
-          「どこにも断られた物件」も全国対応で買い取ります。
+          「どこにも断られた物件」も大阪・近畿対応で買い取ります。
         </p>
         <div class="space-y-1 text-xs leading-relaxed text-white/60">
           <p>合同会社アルシェ（宅建業免許: 大阪府知事 (1) 第65646号）</p>

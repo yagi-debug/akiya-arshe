@@ -1,13 +1,24 @@
 ---
 import LineIcon from "./LineIcon.astro";
-const LINE_URL = "https://line.arshe1719.workers.dev/auth/line?ref=hp";
+interface Props {
+  lineRef?: string;
+  variant?: 'business';
+}
+const { lineRef = "hp", variant } = Astro.props;
+const isBusiness = variant === "business";
+const LINE_URL = `https://line.arshe1719.workers.dev/auth/line?ref=${lineRef}`;
 const navItems = [
-  { label: "無料AI査定", href: "/satei" },
+  isBusiness
+    ? { label: "フォームで相談", href: "/contact" }
+    : { label: "無料査定の相談準備", href: "/satei" },
   { label: "売却ガイド", href: "/guide" },
-  { label: "対応物件", href: "/area" },
+  { label: "対応エリア", href: "/area" },
   { label: "よくある質問", href: "/faq" },
   { label: "会社概要", href: "/about" },
 ];
+const subCta = isBusiness
+  ? { href: "/contact", label: "フォームで相談", labelShort: "フォームで相談" }
+  : { href: "/satei", label: "査定の相談準備", labelShort: "無料査定の相談準備" };
 ---
 
 <header class="sticky top-0 z-50 border-b border-border/70 bg-white/90 shadow-sm backdrop-blur-md">
@@ -21,7 +32,7 @@ const navItems = [
       </span>
       <span class="leading-tight">
         <span class="block text-lg font-black tracking-wide text-primary md:text-xl">空き家のミカタ</span>
-        <span class="hidden text-[10px] font-medium tracking-widest text-text-light sm:block">訳あり不動産の買取専門｜全国対応</span>
+        <span class="hidden text-[10px] font-medium tracking-widest text-text-light sm:block">訳あり不動産の買取専門｜大阪・近畿対応</span>
       </span>
     </a>
 
@@ -40,10 +51,10 @@ const navItems = [
     <!-- PC: CTAボタン -->
     <div class="hidden items-center gap-2 lg:flex">
       <a
-        href="/satei"
+        href={subCta.href}
         class="rounded-full border-2 border-accent px-4 py-2 text-sm font-bold text-accent transition-all hover:bg-accent hover:text-white"
       >
-        60秒AI査定
+        {subCta.label}
       </a>
       <a
         href={LINE_URL}
@@ -110,10 +121,10 @@ const navItems = [
         LINEで無料相談する
       </a>
       <a
-        href="/satei"
+        href={subCta.href}
         class="inline-flex w-full items-center justify-center gap-2 rounded-full border-2 border-accent px-6 py-3 font-bold text-accent"
       >
-        60秒でわかる無料AI査定
+        {subCta.labelShort}
       </a>
     </div>
   </nav>

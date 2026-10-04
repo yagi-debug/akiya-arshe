@@ -26,6 +26,7 @@ howToSteps:
     text: "配偶者が居住権を放棄する場合は、放棄の合意書を作成し、司法書士に抹消登記を依頼します。費用は司法書士報酬2〜5万円・登録免許税1,000円/筆程度です。"
   - name: "不動産会社に売却を依頼する"
     text: "居住権が消滅した後は通常通り売却できます。訳あり物件が混在する場合や、急いで売りたい場合は買取専門業者への依頼が最短2〜4週間で現金化できます。"
+updatedDate: "2026-09-07"
 ---
 
 <div style="background:#fff7e6;border-left:4px solid #f59e0b;padding:1rem 1.5rem;margin-bottom:1.5rem;border-radius:4px;">
@@ -149,12 +150,12 @@ howToSteps:
 
 ---
 
-<strong>無料相談はこちら（24時間・全国対応）</strong>
+<strong>無料相談はこちら（24時間・大阪・近畿対応）</strong>
 
 - <strong>LINE相談</strong>：[空き家のミカタ（LINEで無料相談）](https://line.arshe1719.workers.dev/auth/line?ref=hp)
 - <strong>お問い合わせフォーム</strong>：[こちらから](/contact)
 
-配偶者居住権が設定された不動産・相続で揉めている物件・訳あり不動産の直接買取・売却相談を全国で受け付けています。
+配偶者居住権が設定された不動産・相続で揉めている物件・訳あり不動産の大阪府内の物件の直接買取・売却相談を受け付けています。
 
 ## 関連記事
 

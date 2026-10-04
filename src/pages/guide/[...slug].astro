@@ -1,6 +1,8 @@
 ---
 import { getCollection, render } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
+import RegionalConsultation from "../../components/RegionalConsultation.astro";
+import ClosedAreaNotice from '../../components/ClosedAreaNotice.astro';
 import Breadcrumb from '../../components/Breadcrumb.astro';
 
 export async function getStaticPaths() {
@@ -15,7 +17,9 @@ const { entry } = Astro.props;
 const { Content, headings } = await render(entry);
 const tocItems = headings.filter((h) => h.depth === 2).slice(0, 12);
 
-const LINE_URL = "https://line.arshe1719.workers.dev/auth/line?ref=hp";
+const lineRef = entry.data.lineRef ?? 'hp';
+const LINE_URL = `https://line.arshe1719.workers.dev/auth/line?ref=${lineRef}`;
+const ctaVariant = entry.data.cluster === 'business' ? 'business' : undefined;
 
 const breadcrumbs = [
   { name: 'ホーム', url: '/' },
@@ -34,6 +38,7 @@ const clusterLabels: Record<string, string> = {
   'akiya-tax':        '空き家の維持コストと税金',
   'accident':         '事故物件・心理的瑕疵',
   'wakeari':          '訳あり物件の買取・売却',
+  'business':         '工場・倉庫・店舗付き住宅の売却',
 };
 
 const currentCluster = entry.data.cluster;
@@ -197,6 +202,9 @@ const displayDate = entry.data.updatedDate || entry.data.publishDate;
 
 ---
 
+{entry.data.serviceAreaClosed ? (
+  ["京都市", "神戸市"].includes(entry.data.serviceAreaClosed) ? <RegionalConsultation region={entry.data.serviceAreaClosed} /> : <ClosedAreaNotice region={entry.data.serviceAreaClosed} />
+) : (
 <BaseLayout
   title={entry.data.title}
   description={entry.data.description}
@@ -207,6 +215,8 @@ const displayDate = entry.data.updatedDate || entry.data.publishDate;
   ogType="article"
   ogImage={socialImg}
   noindex={entry.data.noindex ?? false}
+  lineRef={lineRef}
+  variant={ctaVariant}
 >
   <article class="mx-auto max-w-3xl px-4 py-8 md:py-12">
     <!-- 記事ヘッダー -->
@@ -268,26 +278,30 @@ const displayDate = entry.data.updatedDate || entry.data.publishDate;
     ">
       <Content />
       <p class="mt-8">
-        <a href="/satei" class="font-bold text-accent hover:underline">まずは無料査定で概算を確認する →</a>
+        {ctaVariant === 'business'
+          ? <a href="/contact" class="font-bold text-accent hover:underline">フォームで相談する →</a>
+          : <a href="/satei" class="font-bold text-accent hover:underline">無料査定の相談準備メモを作る →</a>}
       </p>
     </div>
   </article>
 
-  <!-- 記事内CTA: 査定主導＋直接LINE（最強コンバーターのAI査定へ送りつつ、直接LINEも残す） -->
+  <!-- 記事内CTA: 相談準備メモと直接LINE -->
   <aside class="mx-auto max-w-3xl px-4 pb-8">
     <div class="rounded-xl border border-accent/40 bg-accent/5 p-5 text-center md:p-6">
-      <p class="mb-1 text-lg font-bold text-text md:text-xl">あなたの物件、いくらで売れる？</p>
+      <p class="mb-1 text-lg font-bold text-text md:text-xl">物件の状況を、わかる範囲でご相談ください</p>
       <p class="mb-5 text-sm leading-relaxed text-text-light">
         この記事は一般的な内容です。実際の買取価格は物件の状態や権利関係で変わります。
-        まずは<strong class="text-text">無料のAI査定</strong>で概算を確認できます（約60秒・個人情報の入力不要）。
+        {ctaVariant === 'business'
+          ? <>所在地や建物の状況、困っていることを、<strong class="text-text">問い合わせフォーム</strong>からお知らせください。価格は物件を確認して個別にご案内します。</>
+          : <><strong class="text-text">相談準備メモ</strong>で所在地や入居状況を整理できます。入力は任意で、自動送信されません。価格は物件を確認して個別にご案内します。</>}
       </p>
       <a
-        href="/satei"
+        href={ctaVariant === 'business' ? "/contact" : "/satei"}
         class="mb-3 inline-flex w-full items-center justify-center gap-2 rounded-lg bg-accent px-8 py-4 text-base font-bold text-white shadow transition-all hover:opacity-90 hover:shadow-lg sm:w-auto"
       >
-        無料AI査定で概算価格を見る →
+        {ctaVariant === 'business' ? "フォームで相談する（無料） →" : "相談準備メモを作る（無料） →"}
       </a>
-      <p class="mb-1 text-xs text-text-light">または、写真・住所を送って直接相談</p>
+      <p class="mb-1 text-xs text-text-light">{ctaVariant === 'business' ? "フォームに入れにくいときは、LINEからでも相談できます" : "メモを作らず、市区町村と困っていることから相談できます"}</p>
       <a
         href={LINE_URL}
         target="_blank"
@@ -301,7 +315,7 @@ const displayDate = entry.data.updatedDate || entry.data.publishDate;
       </a>
       <p class="mt-4 text-xs leading-relaxed text-text-light">
         相談だけでも大丈夫です。しつこい勧誘・営業電話は一切いたしません。<br class="hidden sm:block" />
-        合同会社アルシェ代表・八木宏樹が原則24時間以内にお返事します（相談無料・秘密厳守・全国対応）。
+        合同会社アルシェ代表・八木宏樹が原則24時間以内にお返事します（相談無料・秘密厳守・大阪・近畿対応）。
       </p>
     </div>
   </aside>
@@ -315,7 +329,7 @@ const displayDate = entry.data.updatedDate || entry.data.publishDate;
           <p class="text-xs font-semibold text-accent mb-0.5">執筆・監修</p>
           <p class="font-bold text-text text-base">八木 宏樹（Hiroki Yagi）</p>
           <p class="text-sm text-text-light mb-2">合同会社アルシェ 代表社員（宅建業免許: 大阪府知事(1)第65646号）</p>
-          <p class="text-sm text-text leading-relaxed">相続アパート・再建築不可・事故物件・共有持分・空き家など「訳あり不動産」の直接買取専門家。「どこにも断られた物件でも諦めない」をモットーに全国対応で現金買取。</p>
+          <p class="text-sm text-text leading-relaxed">相続アパート・再建築不可・事故物件・共有持分・空き家など「訳あり不動産」の直接買取専門家。「どこにも断られた物件でも諦めない」をモットーに大阪・近畿対応で現金買取。</p>
           <p class="mt-2 text-xs text-accent font-medium">→ 詳細プロフィールを見る</p>
         </div>
       </div>
@@ -397,3 +411,4 @@ const displayDate = entry.data.updatedDate || entry.data.publishDate;
     </section>
   )}
 </BaseLayout>
+)}

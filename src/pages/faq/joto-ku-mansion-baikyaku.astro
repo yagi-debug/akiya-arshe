@@ -1,0 +1,74 @@
+---
+import PageHero from "../../components/PageHero.astro";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+
+const breadcrumbs = [
+  { name: "ホーム", url: "/" },
+  { name: "よくある質問", url: "/faq" },
+  { name: "城東区のマンション買取", url: "/faq/joto-ku-mansion-baikyaku" },
+];
+
+const question = "大阪市城東区でマンションを売却・買取してもらうことはできますか？相場は？";
+const answer =
+  "はい、対応できます。城東区のマンション相場は約46万円/m2が目安で、京橋駅周辺は約47万円/m2とやや高めです。当社は共有持分・相続登記未了・築古など仲介で断られやすいマンションも現況のまま仲介手数料0円で直接買取しています。";
+
+const qaSchema = {
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": question,
+    "text": question,
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": answer,
+      "url": "https://akiya.arshe-corp.com/faq/joto-ku-mansion-baikyaku/",
+    },
+  },
+};
+---
+
+<BaseLayout
+  title="城東区のマンション買取・相場は？約46万円/m2の目安｜空き家のミカタ"
+  description="大阪市城東区のマンション売却・買取について、相場目安と直接買取の流れを宅建業者が解説します。"
+  schema={qaSchema}
+  breadcrumbs={breadcrumbs}
+>
+  <PageHero label="よくある質問" title={question} />
+  <section class="px-4 py-12 md:py-16">
+    <div class="mx-auto max-w-2xl">
+      <div class="mb-8 rounded-2xl border border-accent/30 bg-accent-soft/40 p-5 text-sm leading-relaxed text-primary">
+        <p class="font-bold">結論: 城東区のマンションは約46万円/m2が相場目安で、直接買取に対応しています。</p>
+        <p class="mt-1">正確な価格は物件の条件によって変わるため、無料査定でご確認ください。</p>
+      </div>
+
+      <div class="mb-8 rounded-2xl border border-border bg-white p-6 shadow-[var(--shadow-soft)]">
+        <p class="mb-2 flex items-start gap-2 font-bold text-primary">
+          <span class="flex h-6 w-6 shrink-0 items-center justify-center rounded-full bg-accent-soft text-xs font-black text-accent">Q</span>
+          {question}
+        </p>
+        <p class="pl-8 text-text-light" set:html={answer} />
+      </div>
+
+      <div class="space-y-4 text-sm leading-relaxed text-text-light">
+        <p>大阪市城東区は京橋駅を中心に商業・住宅がバランス良く広がるエリアです。マンションの相場は区内平均で約46万円/m2、京橋駅周辺では約47万円/m2とやや高めの水準です。一戸建ては約2,800〜3,500万円、住宅地の土地は坪単価約96万円が目安です。</p>
+        <p>「仲介で売りに出したが買い手がつかない」「共有持分のみで仲介が難しい」「相続登記が済んでいない」といった事情があるマンションでも、当社は現況のまま直接買取しています。仲介手数料はかからず、最短3日で査定結果をお伝えします。</p>
+        <p>売却を急がない場合でも、まず無料査定で価格の目安を知っておくと、仲介と買取のどちらが自分の状況に合うか判断しやすくなります。</p>
+      </div>
+
+      <div class="mt-10 rounded-2xl border border-border bg-bg p-5 text-sm">
+        <p class="mb-2 font-bold text-primary">あわせて読みたい</p>
+        <ul class="list-inside list-disc space-y-1 text-accent">
+          <li><a href="/area/osaka-joto" class="underline">城東区の不動産買取相場を見る</a></li>
+          <li><a href="/guide/kaitori-gyosha-erabikata-checkpoints" class="underline">訳あり不動産買取業者を選ぶ5つのチェックポイント</a></li>
+          <li><a href="/faq" class="underline">よくある質問一覧に戻る</a></li>
+        </ul>
+      </div>
+
+      <p class="mt-8 text-center text-xs text-text-light">
+        執筆・監修: 八木宏樹（合同会社アルシェ代表）／合同会社アルシェ（宅建業免許: 大阪府知事(1)第65646号）
+      </p>
+    </div>
+  </section>
+</BaseLayout>

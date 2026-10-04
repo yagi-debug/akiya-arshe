@@ -17,6 +17,7 @@ faqs:
     answer: "支払った相続税額に「売却した財産の相続税評価額 ÷ 相続税の課税価格合計額」を掛けた金額が取得費に加算されます。具体的な節税額は相続税額・売却価格・取得費などによって異なります。記事内の計算例を参考にしてください。"
   - question: "被相続人が不動産を購入したときの書類がない場合はどうなりますか？"
     answer: "購入時の書類（売買契約書等）がない場合、売却価格の5%を「概算取得費」として使うことができます。取得費加算額はこの概算取得費に上乗せする形で計算します。"
+updatedDate: "2026-09-07"
 ---
 
 <img src="/images/souzoku-fudosan-shutoku-hi-kazan-hero.jpg" alt="相続税の申告書類と電卓　取得費加算の特例のイメージ" width="1260" height="750" style="width:100%;height:auto;border-radius:8px;margin-bottom:1.5rem;" />
@@ -247,7 +248,7 @@ faqs:
   <ul style="margin:0;padding-left:1.2rem;">
     <li>宅建業免許：大阪府知事(1)第65646号</li>
     <li>再建築不可・事故物件・共有持分・相続アパートも対応</li>
-    <li>全国対応・仲介手数料なし・現況買取</li>
+    <li>大阪・近畿対応・仲介手数料なし・現況買取</li>
   </ul>
   <p style="margin-top:1rem;margin-bottom:0;">
     <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06c755;color:#fff;padding:0.7rem 1.8rem;border-radius:5px;text-decoration:none;font-weight:bold;margin-right:1rem;">LINEで無料相談</a>
@@ -256,7 +257,7 @@ faqs:
 </div>
 
 
-→ **[60秒で概算査定（無料・匿名OK）](/satei)**　物件種別・築年数・エリアを選ぶだけで市場価格と概算買取価格を即時表示。
+→ <a href="/satei/">無料査定の相談準備メモ（入力任意）</a>　所在地や入居状況を整理できます。価格は物件を確認して個別にご案内します。
 
 ## よくあるご質問
 

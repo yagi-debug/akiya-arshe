@@ -1,6 +1,9 @@
 ---
 import { getCollection, render } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
+import RegionalConsultation from "../../components/RegionalConsultation.astro";
+import { SERVICE_PREFECTURES } from "../../data/service-area.mjs";
+import ClosedAreaNotice from '../../components/ClosedAreaNotice.astro';
 import Breadcrumb from '../../components/Breadcrumb.astro';
 
 export async function getStaticPaths() {
@@ -12,6 +15,8 @@ export async function getStaticPaths() {
 }
 
 const { entry } = Astro.props;
+const isOsaka = entry.data.prefecture === '大阪府';
+const isServiceArea = SERVICE_PREFECTURES.includes(entry.data.prefecture);
 const { Content } = await render(entry);
 
 const LINE_URL = "https://line.arshe1719.workers.dev/auth/line?ref=hp";
@@ -95,7 +100,7 @@ const genericFaqEntities = [
     "name": `${entry.data.areaName}から遠方に住んでいても対応してもらえますか？`,
     "acceptedAnswer": {
       "@type": "Answer",
-      "text": "はい、全国対応しています。お客様が現地に来る必要はなく、手続きは郵送・オンラインで完結できます。",
+      "text": "大阪を中心に、兵庫・京都・奈良・滋賀・和歌山の物件のご相談に対応しています。買取の可否・条件は所在地と物件の状況を確認してご案内します。所有者が遠方にお住まいでも、LINE・メールでご相談いただけます。",
     },
   },
   {
@@ -219,6 +224,9 @@ const articleSchema = {
 };
 ---
 
+{!isServiceArea ? (
+  <ClosedAreaNotice region={entry.data.areaName} />
+) : !isOsaka ? <RegionalConsultation region={entry.data.areaName} /> : (
 <BaseLayout
   title={entry.data.title}
   description={entry.data.description}
@@ -266,7 +274,7 @@ const articleSchema = {
     ">
       <Content />
       <p class="mt-8">
-        <a href="/satei" class="font-bold text-accent hover:underline">まずは無料査定で概算を確認する →</a>
+        <a href="/satei" class="font-bold text-accent hover:underline">無料査定の相談準備メモを作る →</a>
       </p>
     </div>
 
@@ -276,15 +284,15 @@ const articleSchema = {
       </h2>
       <p class="mb-5 text-sm text-text-light">
         {entry.data.areaName}の不動産事情を熟知した宅建業者が対応します。
-        まずは<strong class="text-text">無料AI査定</strong>で概算を確認できます（約60秒・個人情報の入力不要）。
+        <strong class="text-text">相談準備メモ</strong>で所在地や入居状況を整理できます。入力は任意で、自動送信されません。価格は物件を確認して個別にご案内します。
       </p>
       <a
         href="/satei"
         class="mb-3 inline-flex w-full items-center justify-center rounded-lg bg-accent px-8 py-4 text-base font-bold text-white shadow transition-all hover:opacity-90 hover:shadow-md sm:w-auto"
       >
-        無料AI査定で概算価格を見る →
+        相談準備メモを作る（無料） →
       </a>
-      <p class="mb-1 text-xs text-text-light">または、写真・住所を送って直接相談</p>
+      <p class="mb-1 text-xs text-text-light">メモを作らず、市区町村と困っていることから相談できます</p>
       <a
         href={LINE_URL}
         target="_blank"
@@ -317,7 +325,7 @@ const articleSchema = {
         {entry.data.areaName}で対応できる訳あり物件の種類
       </h2>
       <p class="mb-5 text-sm text-text-light">
-        通常の不動産仲介では売りにくい「訳あり物件」も、全国対応の直接買取で対応しています。
+        通常の不動産仲介では売りにくい「訳あり物件」も、大阪・近畿対応の直接買取で対応しています。
       </p>
       <div class="grid gap-3 md:grid-cols-2">
         <a
@@ -396,3 +404,4 @@ const articleSchema = {
     </div>
   </article>
 </BaseLayout>
+)}

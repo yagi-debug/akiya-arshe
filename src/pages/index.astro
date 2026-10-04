@@ -20,8 +20,8 @@ const faqItems = [
     answer: "まずは相続登記（名義変更）が必要です。当社では相続登記の段階からサポートいたします。登記完了前でもご相談いただけます。",
   },
   {
-    question: "遠方の物件でも対応できる？",
-    answer: "はい、全国対応しています。提携ネットワークを活用し、現地調査から買取まで対応いたします。お客様が現地に行く必要はありません。",
+    question: "大阪府外に住んでいても相談できる？",
+    answer: "大阪を中心に、兵庫・京都・奈良・滋賀・和歌山の物件のご相談に対応しています。買取の可否・条件は所在地と物件の状況を確認してご案内します。所有者が遠方にお住まいでも、LINE・メールでご相談いただけます。",
   },
   {
     question: "費用はかかる？",
@@ -46,9 +46,9 @@ const homeWebPageSchema = {
   "@context": "https://schema.org",
   "@type": "WebPage",
   "@id": "https://akiya.arshe-corp.com/#webpage",
-  "name": "大阪市の訳あり不動産・空き家 買取専門｜空き家のミカタ",
+  "name": "大阪の訳あり不動産・空き家買取｜近畿対応の空き家のミカタ",
   "url": "https://akiya.arshe-corp.com",
-  "description": "大阪市24区の空き家・再建築不可・事故物件・共有持分・相続アパートなど訳あり不動産を直接買取。仲介手数料なし・片付け不要・最短3日で現金化。「どこにも断られた」物件もご相談ください。",
+  "description": "大阪を中心に近畿圏の空き家・再建築不可・事故物件・共有持分・相続アパートなど訳あり不動産を直接買取。仲介手数料なし・片付け不要・最短3日で現金化。「どこにも断られた」物件もご相談ください。",
   "isPartOf": {
     "@id": "https://akiya.arshe-corp.com/#organization",
   },
@@ -60,8 +60,8 @@ const homeWebPageSchema = {
 ---
 
 <BaseLayout
-  title="大阪市の訳あり不動産・空き家 買取専門｜空き家のミカタ"
-  description="大阪市24区の空き家・再建築不可・事故物件・共有持分・相続アパートなど訳あり不動産を直接買取。仲介手数料なし・片付け不要・最短3日で現金化。「どこにも断られた」物件もご相談ください。"
+  title="大阪の訳あり不動産・空き家買取｜近畿対応の空き家のミカタ"
+  description="大阪を中心に近畿圏の空き家・再建築不可・事故物件・共有持分・相続アパートなど訳あり不動産を直接買取。仲介手数料なし・片付け不要・最短3日で現金化。「どこにも断られた」物件もご相談ください。"
   schema={homeWebPageSchema}
   faqSchema={homeFaqSchema}
 >
@@ -95,13 +95,15 @@ const homeWebPageSchema = {
       </div>
 
       <h1 class="serif hero-enter hero-enter-2 mb-5 text-[1.72rem] leading-snug text-white sm:text-3xl md:text-[3.4rem] md:leading-[1.35] [text-shadow:0_2px_24px_rgba(0,0,0,0.45)]">
-        どこにも断られた物件も、<br />
-        そのまま<span class="text-accent-light">現金買取</span>。
+        大阪を中心に、<span class="text-accent-light">近畿圏</span>の<br />
+        訳あり不動産を直接買取。
       </h1>
       <p class="hero-enter hero-enter-3 mx-auto mb-8 max-w-2xl text-sm leading-relaxed text-white/85 md:text-base [text-shadow:0_1px_12px_rgba(0,0,0,0.5)]">
         訳あり不動産の買取専門「空き家のミカタ」。仲介手数料なし・片付け不要・現況のまま。<br class="hidden md:block" />
-        宅建業者が全国どこの物件でも直接買い取ります。
+        空き家・相続物件・再建築不可など、まずは所在地と状況をお聞かせください。
       </p>
+
+      <p class="mb-5 text-sm text-white/90"><a href="/area/" class="underline underline-offset-4">大阪・近畿の対応エリアを見る</a><br class="sm:hidden" />｜大阪・兵庫・京都・奈良・滋賀・和歌山</p>
 
       <!-- CTA -->
       <div class="hero-enter hero-enter-4 mb-3 flex flex-col items-center justify-center gap-3 sm:flex-row">
@@ -118,7 +120,7 @@ const homeWebPageSchema = {
           href="/satei"
           class="inline-flex w-full items-center justify-center gap-2 rounded-full border-2 border-white/70 bg-white/10 px-8 py-4 text-base font-bold text-white backdrop-blur-sm transition-all hover:-translate-y-0.5 hover:bg-white hover:text-primary sm:w-auto"
          data-rondo-cta>
-          60秒でわかる無料AI査定 →
+          無料査定の相談準備 →
         </a>
       </div>
       <p class="mb-10 text-xs text-white/80 md:text-sm [text-shadow:0_1px_8px_rgba(0,0,0,0.5)]">
@@ -131,7 +133,7 @@ const homeWebPageSchema = {
           { label: "仲介手数料", value: "0円" },
           { label: "現金化まで", value: "最短3日" },
           { label: "相談・査定", value: "無料" },
-          { label: "対応エリア", value: "全国" },
+          { label: "対応エリア", value: "近畿圏" },
         ].map((stat) => (
           <div class="rounded-2xl border border-white/15 bg-white/95 px-4 py-5 shadow-lg backdrop-blur">
             <p class="mb-1 text-xs font-bold tracking-wider text-text-light">{stat.label}</p>
@@ -146,7 +148,7 @@ const homeWebPageSchema = {
   <section data-sec="ticker" class="overflow-hidden border-y border-border bg-white py-4" aria-hidden="true">
     <div class="marquee-track gap-3">
       {[0, 1].map(() => (
-        ["相続アパート", "空き家・放置物件", "再建築不可", "共有持分", "事故物件", "底地・借地権", "リゾートマンション", "遠方の実家", "残置物そのまま", "相続登記前でも相談可"].map((label) => (
+        ["相続アパート", "空き家・放置物件", "再建築不可", "共有持分", "事故物件", "底地・借地権", "リゾートマンション", "遠方の実家", "残置物そのまま", "工場・倉庫・店舗付き住宅", "相続登記前でも相談可"].map((label) => (
           <span class="flex shrink-0 items-center gap-2 rounded-full bg-bg px-4 py-1.5 text-xs font-bold text-primary">
             <svg xmlns="http://www.w3.org/2000/svg" class="h-3.5 w-3.5 text-accent" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2.5"><path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7" /></svg>
             {label}
@@ -156,15 +158,17 @@ const homeWebPageSchema = {
     </div>
   </section>
 
-  <!-- 無料AI査定セクション -->
+  <!-- 相談準備メモ -->
   <section data-sec="property-types" class="bg-white px-4 py-16 md:py-24">
     <div class="mx-auto max-w-3xl">
       <div class="reveal mb-10 text-center">
-        <p class="label-line mb-3">かんたん査定</p>
+        <p class="label-line mb-3">相談の準備</p>
         <h2 class="serif mb-3 text-2xl text-primary md:text-4xl">
-          あなたの物件、<span class="marker">60秒</span>で査定
+          あなたの物件、<span class="marker">わかる範囲</span>で相談
         </h2>
-        <p class="text-sm text-text-light md:text-base">3項目を入力するだけで概算価格を即時表示。個人情報不要・完全無料。</p>
+        <p class="text-sm text-text-light md:text-base">相談したい内容をメモに整理できます。価格は物件の状況を確認して個別にご案内します。相談・査定は無料です。</p>
+        <p class="mt-4 text-sm"><a href="/guide/souzoku-apart-uritai-lp/" class="font-bold text-primary underline">相続したアパートの管理にお困りの方へ：手残りの比べ方と相談前のチェック</a></p>
+        <p class="mt-2 text-sm"><a href="/guide/jigyoyo-fudosan-kaitori/" class="font-bold text-primary underline">工場・倉庫・店舗付き住宅の売却相談はこちら</a></p>
       </div>
       <div class="reveal mb-8 overflow-hidden rounded-3xl">
         <img src="/images/site/satei-desk.webp" alt="机の上の家の模型と鍵、査定の書類" width="1100" height="821" loading="lazy"
@@ -264,8 +268,8 @@ const homeWebPageSchema = {
           {
             img: "/images/site/reason-3.webp",
             alt: "カレンダー帳の上に置かれた家の鍵",
-            title: "最短3日で現金化・全国対応",
-            desc: "スピード査定で最短3日で現金化。提携ネットワークを活用し、全国どこの物件でも対応いたします。",
+            title: "最短3日で現金化・大阪・近畿対応",
+            desc: "大阪を中心に近畿圏の物件を査定。条件が整えば最短3日で現金化。所有者が遠方でもご相談いただけます。",
           },
         ].map((item, i) => (
           <div class="reveal card-lift group relative overflow-hidden rounded-3xl border border-border bg-bg">
@@ -307,7 +311,7 @@ const homeWebPageSchema = {
           {
             step: "3",
             title: "現地調査（無料）",
-            desc: "提携ネットワークを活用し、現地調査を行います。お客様が立ち会う必要はありません。",
+            desc: "対応地域内の物件を現地確認します。所有者が遠方にお住まいの場合も、立ち会い方法を含めてご案内します。",
           },
           {
             step: "4",
@@ -440,7 +444,7 @@ const homeWebPageSchema = {
             imgAlt: "夕暮れの静かなアパートの外廊下",
             label: "事故物件・心理的瑕疵",
             icon: "M12 9v2m0 4h.01M5.07 19h13.86c1.54 0 2.5-1.67 1.73-3L13.73 4c-.77-1.33-2.69-1.33-3.46 0L3.34 16c-.77 1.33.19 3 1.73 3z",
-            desc: "告知義務ありでも現況買取・全国対応。事件・孤独死・自殺物件の処分に実績あり。",
+            desc: "告知義務ありでも現況買取・大阪・近畿対応。事件・孤独死・自殺物件の処分に実績あり。",
           },
           {
             href: "/guide/kyouyuu-mochibun-hub",

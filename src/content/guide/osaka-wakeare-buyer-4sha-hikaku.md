@@ -3,7 +3,7 @@ title: "大阪 訳あり物件 買取｜実は高く売れる？業者4社を比
 description: "大阪の訳あり物件（相続アパート・再建築不可・事故物件・共有持分・空き家）は相場の20〜75%で買取可能。他社に断られても大丈夫です。専門業者4社の相場・最短日数・口コミ・宅建業免許番号を徹底比較。査定は無料・売却強制なし。最短3日で現金化。"
 publishDate: "2026-05-01"
 cluster: "wakeari"
-updatedDate: "2026-06-29"
+updatedDate: "2026-09-07"
 author: "八木宏樹（合同会社アルシェ代表）"
 heroImage: "/images/osaka-wakeare-buyer-5sha-hikaku-hero.jpg"
 faqs:
@@ -83,7 +83,7 @@ faqs:
       "@type": "ListItem",
       "position": 4,
       "name": "空き家のミカタ（合同会社アルシェ）",
-      "description": "大阪市生野区拠点の全国対応訳あり不動産直接買取業者。宅建業免許: 大阪府知事(1)第65646号。代表が直接対応。最短3日で現金化。仲介手数料なし・現況買取・残置物対応。提携司法書士による登記・抵当権抹消サポート付き。"
+      "description": "大阪市生野区拠点の大阪・近畿対応訳あり不動産直接買取業者。宅建業免許: 大阪府知事(1)第65646号。代表が直接対応。最短3日で現金化。仲介手数料なし・現況買取・残置物対応。提携司法書士による登記・抵当権抹消サポート付き。"
     }
   ]
 }
@@ -107,10 +107,10 @@ A: 主な選択肢は、アルバリンク（東証グロース上場・全国�
 
 | 項目 | <strong>アルバリンク</strong> | <strong>イエコン</strong> | <strong>マイダス</strong> | <strong>空き家のミカタ</strong> |
 |------|------|------|------|------|
-| 種別 | 直接買取（全国大手） | マッチングサービス | 直接買取（関西特化） | 直接買取（全国対応） |
+| 種別 | 直接買取（全国大手） | マッチングサービス | 直接買取（関西特化） | 直接買取（大阪・近畿対応） |
 | 宅建業免許 | 国土交通大臣(1)第10112号 | ※プラットフォーム | 大阪府知事（3）第58184号 | 大阪府知事(1)第65646号 |
 | 本社 | 東京都江東区 | 東京都（全国対応） | 大阪市北区 | 大阪市生野区 |
-| 対応エリア | 全国 | 全国（703社掲載） | 大阪・兵庫・奈良 | 全国 |
+| 対応エリア | 全国 | 全国（703社掲載） | 大阪・兵庫・奈良 | 大阪・兵庫・京都・奈良・滋賀・和歌山 |
 | 買取スピード目安 | 最短当日〜3日 | 紹介後は各業者による | 最短3日 | 最短3日 |
 | 対応物件種別 | 再建築不可・事故物件・共有持分・相続アパート・空き家・借地権等 | ほぼ全種類（業者による） | 空き家・共有持分・再建築不可・訳あり全般 | 再建築不可・事故物件・共有持分・相続アパート・空き家・借地権・底地 |
 | 手数料 | 仲介手数料なし（直接買取） | 紹介料なし（各業者手数料は別途） | 仲介手数料なし（直接買取） | 仲介手数料なし（直接買取） |
@@ -172,7 +172,7 @@ A: 主な選択肢は、アルバリンク（東証グロース上場・全国�
 
 ## 空き家のミカタ（当社・合同会社アルシェ）
 
-<strong>大阪市生野区に拠点を置く、訳あり不動産直接買取の宅建業者です。</strong> 小規模だからこそできる「代表が直接対応する」スタイルで、大阪市内の物件はもちろん、全国の訳あり物件に対応しています。
+<strong>大阪市生野区に拠点を置く、訳あり不動産直接買取の宅建業者です。</strong> 小規模だからこそできる「代表が直接対応する」スタイルで、大阪市内の物件はもちろん、大阪府内の訳あり物件に対応しています。
 
 > <strong>宅建業者の視点：</strong>
 > 大手業者はスタッフが入れ替わることもあります。当社では最初の問い合わせから決済まで代表が一貫して担当するため、「聞いたことと違う」という行き違いが起きにくい体制を取っています。物件の事情が複雑な場合ほど、担当者が固定されていることは重要です。
@@ -182,7 +182,7 @@ A: 主な選択肢は、アルバリンク（東証グロース上場・全国�
 - 宅建業免許: 大阪府知事(1)第65646号
 - 対応物件: 再建築不可・事故物件・共有持分・相続アパート・空き家・借地権・底地
 - 買取スピード: 最短3日（書類が揃っている場合）
-- 対応エリア: 全国（大阪府内は特に強み）
+- 対応エリア: 大阪・兵庫・京都・奈良・滋賀・和歌山
 - 代表が直接対応（窓口が変わらない）
 - 仲介手数料なし・現況買取・残置物対応
 - **提携司法書士による登記・抵当権抹消を一括サポート**（相続登記が未了の状態でも売却可能）
@@ -209,7 +209,7 @@ A: 主な選択肢は、アルバリンク（東証グロース上場・全国�
 
 ### 3. 対応エリアと担当体制を確認する
 
-全国対応を謳っていても、実際には大阪市内の物件を別のエリアの担当者が遠隔で対応するケースがあります。<strong>物件の所在地を告げた上で「誰が担当するか」を確認しておくと、後の行き違いを防げます。</strong>
+大阪・近畿対応を謳っていても、実際には大阪市内の物件を別のエリアの担当者が遠隔で対応するケースがあります。<strong>物件の所在地を告げた上で「誰が担当するか」を確認しておくと、後の行き違いを防げます。</strong>
 
 なお、買取と仲介どちらが適しているかの判断については[大阪市の不動産｜買取と仲介どっちが得？](/guide/osaka-kaitori-vs-chukai)も参考になります。また、どんな物件が訳あり扱いになるかは[訳あり物件5種類の売却難易度を比較](/guide/wakeare-bukken-5shu-hikaku)で整理しています。
 
@@ -299,7 +299,7 @@ A: 主な選択肢は、アルバリンク（東証グロース上場・全国�
 
 ### Q. 大阪市外の物件でも依頼できますか？
 
-アルバリンク・空き家のミカタ・イエコン（掲載業者）は全国対応しています。マイダスは大阪・兵庫・奈良が中心です。<strong>遠方の物件でも、権利書や登記情報があれば遠隔で査定・手続きを進められる</strong>ケースがほとんどです。
+空き家のミカタは大阪・兵庫・京都・奈良・滋賀・和歌山の買取相談に対応しています（可否は個別確認）。アルバリンク・イエコン（掲載業者）の対応地域は各社にご確認ください。マイダスは大阪・兵庫・奈良が中心です。<strong>遠方の物件でも、権利書や登記情報があれば遠隔で査定・手続きを進められる</strong>ケースがほとんどです。
 
 ### Q. 相談した後、必ず売らなければなりませんか？
 
@@ -309,49 +309,15 @@ A: 主な選択肢は、アルバリンク（東証グロース上場・全国�
 
 査定額は業者によって異なります。<strong>複数社から査定を取り、条件（価格・引き渡し時期・残置物の扱い等）を比較した上で交渉するのが最も現実的な方法です。</strong> ただし、訳あり物件は一般市場では売れにくいことが多いため、買取価格には業者の再販コストが含まれることをご理解ください。
 
-## 60秒で概算査定してみる
+## 無料査定の相談内容を整理する
 
-業者比較の前に、まずあなたの物件の概算価格を確認しましょう。3項目を選ぶだけで即時表示します。
+業者比較の前に、所在地・入居状況・困っていることを整理しておくと、相談する内容が明確になります。情報がそろっていなくても構いません。価格は物件を確認して個別にご案内します。
 
 <div style="background:#f8f9fa;border:1px solid #e0e0e0;border-radius:12px;padding:1.5rem;margin:1.5rem 0;">
-<p style="font-weight:bold;margin-bottom:1rem;color:#1a1a2e;">📋 無料AI査定 — 3ステップで概算価格を確認</p>
-<form action="/satei" method="get" style="display:flex;flex-direction:column;gap:0.75rem;">
-  <div>
-    <label style="font-size:0.85rem;font-weight:600;display:block;margin-bottom:0.25rem;">① 物件種別</label>
-    <select name="type" style="width:100%;padding:0.5rem;border:1px solid #ccc;border-radius:6px;font-size:0.9rem;">
-      <option value="">選択してください</option>
-      <option value="akiya">空き家・古家</option>
-      <option value="saikenchifu">再建築不可物件</option>
-      <option value="jiko">事故物件（心理的瑕疵）</option>
-      <option value="kyoyuu">共有持分</option>
-      <option value="apartment">相続アパート・収益物件</option>
-      <option value="other">その他の訳あり物件</option>
-    </select>
-  </div>
-  <div>
-    <label style="font-size:0.85rem;font-weight:600;display:block;margin-bottom:0.25rem;">② 所在地（都道府県）</label>
-    <select name="area" style="width:100%;padding:0.5rem;border:1px solid #ccc;border-radius:6px;font-size:0.9rem;">
-      <option value="">選択してください</option>
-      <option value="osaka">大阪府</option>
-      <option value="hyogo">兵庫県</option>
-      <option value="kyoto">京都府</option>
-      <option value="nara">奈良県</option>
-      <option value="tokyo">東京都</option>
-      <option value="other">その他（全国対応）</option>
-    </select>
-  </div>
-  <div>
-    <label style="font-size:0.85rem;font-weight:600;display:block;margin-bottom:0.25rem;">③ 現在の状況</label>
-    <select name="status" style="width:100%;padding:0.5rem;border:1px solid #ccc;border-radius:6px;font-size:0.9rem;">
-      <option value="">選択してください</option>
-      <option value="urgent">急いで売りたい（3か月以内）</option>
-      <option value="normal">時期は問わないが早めに</option>
-      <option value="consult">まず相場を知りたいだけ</option>
-    </select>
-  </div>
-  <button type="submit" style="background:#c0392b;color:white;border:none;padding:0.75rem;border-radius:8px;font-weight:bold;font-size:1rem;cursor:pointer;margin-top:0.5rem;">概算価格を確認する（無料・60秒）</button>
-</form>
-<p style="font-size:0.75rem;color:#666;margin-top:0.5rem;">※査定は無料。売却義務なし。しつこい営業なし。</p>
+<p style="font-weight:bold;margin-bottom:1rem;color:#1a1a2e;">無料査定の相談準備メモ</p>
+<p>物件の種類・所在地・築年数・入居状況を、わかる範囲でメモにできます。入力は任意で、自動送信はされません。</p>
+<p><a href="/satei/" style="font-weight:bold;color:#c0392b;">相談準備メモを作る</a> ／ <a href="/contact/">フォームで直接相談する</a></p>
+<p style="font-size:0.75rem;color:#666;">相談・査定は無料です。相談した時点で売却を決める必要はありません。</p>
 </div>
 
 ## まとめ
@@ -392,7 +358,7 @@ A: 主な選択肢は、アルバリンク（東証グロース上場・全国�
   "@type": "Person",
   "name": "八木宏樹",
   "jobTitle": "代表社員",
-  "description": "合同会社アルシェ（空き家のミカタ）代表。宅地建物取引業者として訳あり不動産の買取・相続不動産の売却相談に全国対応。",
+  "description": "合同会社アルシェ（空き家のミカタ）代表。宅地建物取引業者として訳あり不動産の買取・相続不動産の売却相談に大阪・近畿対応。",
   "hasCredential": "宅建業免許: 大阪府知事(1)第65646号",
   "worksFor": {
     "@type": "RealEstateAgent",
@@ -406,7 +372,7 @@ A: 主な選択肢は、アルバリンク（東証グロース上場・全国�
       "postalCode": "544-0002",
       "addressCountry": "JP"
     },
-    "areaServed": "日本全国"
+    "areaServed": { "@type": "AdministrativeArea", "name": "大阪府" }
   }
 }
 </script>

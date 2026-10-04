@@ -28,6 +28,7 @@ howToSteps:
   - name: "今すぐできる応急対応を実施し、市区町村に報告する"
     text: "草刈り・清掃・窓ガラスの修繕などの応急対応を実施し、対応した日付と写真を記録のうえ市区町村の担当窓口に報告します。助言・指導の段階であれば、こうした小さな対応でも勧告への移行を回避できる可能性があります。"
 cluster: "akiya-tax"
+updatedDate: "2026-09-07"
 ---
 
 <img src="/images/tokutei-akiya-zei-keisan-cost-hikaku-hero.jpg" alt="固定資産税の計算書類と電卓。特定空き家に指定されると税額が最大6倍になる" width="1200" height="800" style="width:100%;height:auto;border-radius:8px;margin-bottom:1.5rem;" />
@@ -248,7 +249,7 @@ cluster: "akiya-tax"
 
 「固定資産税の通知書を見て不安になった」「特定空き家の通知が届いた」「遠方の実家をどうしたらいいかわからない」——そのようなお悩みに、当社が無料でご対応しています。
 
-<strong>当社は訳あり不動産の直接買取を専門としており、老朽化物件・空き家・相続物件も現況のままご相談いただけます。</strong>仲介手数料は一切かかりません。全国対応しています。
+<strong>当社は訳あり不動産の直接買取を専門としており、老朽化物件・空き家・相続物件も現況のままご相談いただけます。</strong>仲介手数料は一切かかりません。大阪府全域に対応しています。
 
 <div style="margin:2rem 0;padding:1.5rem;background:#f0fdf4;border-radius:8px;border:1px solid #86efac;">
   <p style="margin:0 0 1rem;font-weight:bold;font-size:1.1rem;">無料相談・査定のお申し込み</p>

@@ -17,11 +17,12 @@ faqs:
     answer: "市区町村の「空家等対策担当課」または「都市整備課」に問い合わせると、現在の調査状況を教えてもらえます。また、外壁の崩落・傾斜、雑草の繁茂、ゴミの堆積など、空家等対策特別措置法が定める4基準（保安危険・衛生有害・景観不良・生活環境阻害）に該当する状態が続いている場合は指定リスクがあります。"
   - question: "空き家を早めに手放したい場合、どこに相談すればいいですか？"
     answer: "訳あり物件の直接買取専門業者への相談が最も早く解決できます。仲介は3〜12ヶ月以上かかる場合がありますが、買取であれば最短2週間で現金化できます。行政処分が進行中の物件や築古の空き家でも現況のまま査定できますので、まずは無料査定をご利用ください。"
+updatedDate: "2026-09-07"
 ---
 
 <img src="/images/akiya-risk-map-2026-hero.jpg" alt="老朽化した空き家の外観　空き家リスクマップ2026" width="1200" height="800" style="width:100%;height:auto;border-radius:8px;margin-bottom:1.5rem;" />
 
-<div class="speakable-highlight" style="background:#f0f9ff;border-left:4px solid #0284c7;padding:0.75rem 1.25rem;margin-bottom:1.25rem;border-radius:4px;font-size:0.95em;"><strong>TL;DR</strong>: 空き家900万戸（2023年確報・過去最高）。山梨等5県がリスクSランク。特定空家→固定資産税6倍・行政代執行リスク。早期処分が有利。空き家のミカタ（宅建業者・合同会社アルシェ）が全国対応で解説します。</div>
+<div class="speakable-highlight" style="background:#f0f9ff;border-left:4px solid #0284c7;padding:0.75rem 1.25rem;margin-bottom:1.25rem;border-radius:4px;font-size:0.95em;"><strong>TL;DR</strong>: 空き家900万戸（2023年確報・過去最高）。山梨等5県がリスクSランク。特定空家→固定資産税6倍・行政代執行リスク。早期処分が有利。空き家のミカタ（宅建業者・合同会社アルシェ）が大阪・近畿対応で解説します。</div>
 
 <div style="background:#fff3cd;border-left:4px solid #e6a817;padding:1rem 1.5rem;margin-bottom:1.5rem;border-radius:4px;">
 <strong>このページのポイント：</strong>
@@ -35,7 +36,7 @@ faqs:
 
 <div style="background:#f0faf3;border-left:4px solid #06C755;padding:1rem 1.5rem;margin-bottom:1.5rem;border-radius:4px;">
 <strong>ご自身の空き家のリスクを知りたい方へ</strong><br />
-このページのデータは都道府県平均です。ご自身の空き家が特定空家に指定されそうか・今手放すとどうなるかは、立地と建物の状態で変わります。住所と写真をLINEで送っていただければ、宅建業者が無料で目安をお返しします（全国対応・相談だけでも大丈夫です）。<br />
+このページのデータは都道府県平均です。ご自身の空き家が特定空家に指定されそうか・今手放すとどうなるかは、立地と建物の状態で変わります。住所と写真をLINEで送っていただければ、宅建業者が無料で目安をお返しします（大阪・近畿対応・相談だけでも大丈夫です）。<br />
 <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" target="_blank" rel="noopener noreferrer"><strong>▶ LINEで無料相談する（友だち追加）</strong></a>
 </div>
 
@@ -364,7 +365,7 @@ faqs:
 </script>
 
 
-→ **[60秒で概算査定（無料・匿名OK）](/satei)**　物件種別・築年数・エリアを選ぶだけで市場価格と概算買取価格を即時表示。
+→ <a href="/satei/">無料査定の相談準備メモ（入力任意）</a>　所在地や入居状況を整理できます。価格は物件を確認して個別にご案内します。
 
 ## 関連するガイド記事
 

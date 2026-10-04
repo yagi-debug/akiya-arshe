@@ -4,7 +4,13 @@
 // ボタンを増やすのではなく、追加後の流れ（3ステップ）と「勧誘しない」約束、
 // 対応する人間（宅建士）を見せることで心理的ハードルを下げる。
 import LineIcon from "./LineIcon.astro";
-const LINE_URL = "https://line.arshe1719.workers.dev/auth/line?ref=hp";
+interface Props {
+  lineRef?: string;
+  variant?: 'business';
+}
+const { lineRef = "hp", variant } = Astro.props;
+const isBusiness = variant === "business";
+const LINE_URL = `https://line.arshe1719.workers.dev/auth/line?ref=${lineRef}`;
 ---
 <section class="relative overflow-hidden bg-gradient-to-br from-primary via-primary to-primary-dark px-4 py-16 text-white md:py-20">
   <div class="blob left-[-100px] top-[-60px] h-72 w-72 bg-accent/20"></div>
@@ -13,7 +19,7 @@ const LINE_URL = "https://line.arshe1719.workers.dev/auth/line?ref=hp";
     <div class="text-center">
       <p class="mb-3 inline-flex items-center gap-3 text-xs font-bold tracking-[0.3em] text-accent-light">ご相談はこちら</p>
       <h2 class="serif mb-3 text-2xl leading-relaxed md:text-3xl">
-        相続・空き家・訳あり不動産のお悩み、<br class="md:hidden" />状況だけでもお聞かせください
+        {isBusiness ? "工場・倉庫・店舗付き住宅のご相談、" : "相続・空き家・訳あり不動産のお悩み、"}<br class="md:hidden" />状況だけでもお聞かせください
       </h2>
       <p class="mb-8 text-sm leading-relaxed text-white/80 md:text-base">
         <strong class="text-white">相談だけで大丈夫です。</strong>売るかどうか決まっていなくても構いません。<br class="hidden md:block" />
@@ -25,7 +31,7 @@ const LINE_URL = "https://line.arshe1719.workers.dev/auth/line?ref=hp";
     <div class="mb-8 grid gap-3 sm:grid-cols-3">
       {[
         { num: "1", title: "友だち追加", desc: "下のボタンを押すだけ。登録情報の入力は不要です" },
-        { num: "2", title: "状況を送る", desc: "物件の場所と状況を、わかる範囲で送ってください。写真があればより正確です" },
+        { num: "2", title: "状況を送る", desc: isBusiness ? "所在地（町名まで）、建物の種類（店舗付き住宅・工場・倉庫など）、今の使い方（空き・自分で使用・貸している）を送ってください" : "大阪・近畿の物件の場所と状況を、わかる範囲で送ってください。写真があればより正確です" },
         { num: "3", title: "代表が返信", desc: "買取できるか・いくらくらいかを、代表の八木が原則24時間以内にお答えします" },
       ].map((step) => (
         <div class="rounded-2xl border border-white/10 bg-white/10 p-5 text-center backdrop-blur-sm">
@@ -37,6 +43,7 @@ const LINE_URL = "https://line.arshe1719.workers.dev/auth/line?ref=hp";
     </div>
 
     <!-- 友だち追加特典（5大プレゼント） -->
+    {!isBusiness && (
     <div class="mb-8 rounded-2xl border border-accent-light/40 bg-white/10 p-5 backdrop-blur-sm">
       <p class="mb-3 text-center text-sm font-black text-accent-light">＼ いま友だち追加すると、5つの実用資料をプレゼント ／</p>
       <ul class="grid gap-x-4 gap-y-1.5 text-xs text-white/90 sm:grid-cols-2">
@@ -57,6 +64,7 @@ const LINE_URL = "https://line.arshe1719.workers.dev/auth/line?ref=hp";
       </ul>
       <p class="mt-2.5 text-center text-[11px] text-white/60">友だち追加後、トークに「特典」と送るとその場で5枚まとめて届きます（無料）</p>
     </div>
+    )}
 
     <div class="text-center">
       <!-- LINEボタン（メイン） -->
@@ -84,14 +92,16 @@ const LINE_URL = "https://line.arshe1719.workers.dev/auth/line?ref=hp";
 
       <!-- サブ導線 -->
       <div class="flex flex-col items-center justify-center gap-3 sm:flex-row">
+        {!isBusiness && (
         <a
           href="/satei"
           class="inline-block rounded-lg border-2 border-accent-light/70 px-6 py-2.5 text-sm font-bold text-white transition-all hover:border-accent-light hover:bg-white/10"
-        
+
   data-rondo-cta
 >
-          60秒でわかる無料AI査定 →
+          無料査定の相談準備 →
         </a>
+        )}
         <a
           href="/contact"
           class="inline-block rounded-lg border-2 border-white/40 px-6 py-2.5 text-sm font-bold text-white transition-all hover:border-white/70 hover:bg-white/10"
@@ -107,7 +117,7 @@ const LINE_URL = "https://line.arshe1719.workers.dev/auth/line?ref=hp";
 
       <!-- 安心メッセージ -->
       <div class="mt-6 flex flex-wrap items-center justify-center gap-4 text-xs text-white/70 md:text-sm">
-        {["相談・査定 無料", "秘密厳守", "全国対応", "しつこい勧誘なし"].map((label) => (
+        {["相談・査定 無料", "秘密厳守", "大阪・近畿対応", "しつこい勧誘なし"].map((label) => (
           <span class="flex items-center gap-1">
             <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 text-accent" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
               <path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7" />
