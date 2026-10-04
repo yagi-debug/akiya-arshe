@@ -23,3 +23,9 @@ pnpm-debug.log*
 # jetbrains setting folder
 .idea/
 visual-qa/
+
+# Instagram の日次素材。公開は公開係がディスクから gh-pages へ直接載せ、投稿の3日後にディスクから刈り込まれる。
+# main には積まない（1日約22MB）。公開ソースにも入っている常設の2フォルダだけは追跡を続ける。
+public/sns/*
+!public/sns/2026-07-08/
+!public/sns/manga-2026-08-20/
