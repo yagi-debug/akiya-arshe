@@ -166,9 +166,9 @@ faqs:
 
 「どんな工事をしたか、はっきりわからない」「書類は何も残っていない」「これから直すべきか迷っている」という段階からのご相談をお受けしています。上の確認表のうち、わかる項目だけをお送りください。
 
-<a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" class="cta-line">LINE「空き家のミカタ」に相談する（無料）</a>
+<a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06C755;color:#fff;padding:14px 32px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 8px 8px 0;">LINE「空き家のミカタ」に相談する（無料）</a>
 
-<a href="/contact" class="cta-contact">無料査定フォームで相談する</a>
+<a href="/contact" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 32px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 0;">無料査定フォームで相談する</a>
 
 空き家のミカタは、大阪市生野区に事務所を置く宅地建物取引業者（大阪府知事(1)第65646号）です。大阪を中心に、兵庫・京都・奈良・滋賀・和歌山の物件を対象に、当社が買主として直接買取のご相談をお受けしています。建築確認の要否は建築主事等・指定確認検査機関へ、登記の手続きは司法書士へ、税金の判断は税理士へご確認ください。
 
