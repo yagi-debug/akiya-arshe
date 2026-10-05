@@ -212,6 +212,10 @@ const organizationSchemaForPage = variant === 'business'
           "description": "空き家・再建築不可・事故物件・共有持分・相続物件など、訳あり不動産を直接買取。直接買取の場合は仲介手数料がかかりません。現況買取・大阪・近畿対応。",
         },
       },
+      "employee": {
+        ...organizationSchema.employee,
+        "description": "合同会社アルシェ（宅建業免許: 大阪府知事(1)第65646号）代表社員。空き家・相続アパートなどの訳あり不動産と、工場・倉庫・店舗付き住宅の買取・売却相談を担当。大阪・近畿対応。",
+      },
     }
   : organizationSchema;
 
