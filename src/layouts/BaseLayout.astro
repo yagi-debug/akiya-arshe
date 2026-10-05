@@ -188,6 +188,37 @@ const organizationSchema = {
   },
 };
 
+// 事業用ページ（記事の cluster が business = variant="business"）だけ、事業用の売却相談も受けていることを示す。
+// 空き家など既存ページの出力は変えない。
+const organizationSchemaForPage = variant === 'business'
+  ? {
+      ...organizationSchema,
+      "description": "空き家・相続不動産・再建築不可・共有持分・事故物件などの訳あり不動産の直接買取と、工場・倉庫・店舗付き住宅の売却相談に対応。直接買取の場合は仲介手数料がかかりません。大阪・近畿対応。宅地建物取引業免許：大阪府知事 (1) 第65646号。",
+      "keywords": [...organizationSchema.keywords, "工場 売却", "倉庫 売却", "店舗付き住宅 売却"],
+      "hasOfferCatalog": {
+        ...organizationSchema.hasOfferCatalog,
+        "itemListElement": [
+          ...organizationSchema.hasOfferCatalog.itemListElement,
+          {
+            "@type": "Offer",
+            "itemOffered": { "@type": "Service", "name": "工場・倉庫・店舗付き住宅の売却相談", "url": "https://akiya.arshe-corp.com/guide/jigyoyo-fudosan-kaitori/", "description": "物件の規模と状態に応じて、直接買取か仲介で対応する" },
+          },
+        ],
+      },
+      "makesOffer": {
+        ...organizationSchema.makesOffer,
+        "itemOffered": {
+          ...organizationSchema.makesOffer.itemOffered,
+          "description": "空き家・再建築不可・事故物件・共有持分・相続物件など、訳あり不動産を直接買取。直接買取の場合は仲介手数料がかかりません。現況買取・大阪・近畿対応。",
+        },
+      },
+      "employee": {
+        ...organizationSchema.employee,
+        "description": "合同会社アルシェ（宅建業免許: 大阪府知事(1)第65646号）代表社員。空き家・相続アパートなどの訳あり不動産と、工場・倉庫・店舗付き住宅の買取・売却相談を担当。大阪・近畿対応。",
+      },
+    }
+  : organizationSchema;
+
 const websiteSchema = {
   "@context": "https://schema.org",
   "@type": "WebSite",
@@ -210,7 +241,7 @@ const breadcrumbSchema = breadcrumbs && breadcrumbs.length > 0 ? {
   })),
 } : null;
 
-const allSchemas = schema ? [organizationSchema, websiteSchema, schema] : [organizationSchema, websiteSchema];
+const allSchemas = schema ? [organizationSchemaForPage, websiteSchema, schema] : [organizationSchemaForPage, websiteSchema];
 ---
 
 <!doctype html>

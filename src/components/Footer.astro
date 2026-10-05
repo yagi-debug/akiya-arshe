@@ -40,10 +40,16 @@ const currentYear = new Date().getFullYear();
           </span>
           <span class="text-lg font-black tracking-wide">空き家のミカタ</span>
         </div>
+        {variant === "business" ? (
+          <p class="mb-4 text-sm leading-relaxed text-white/70">
+            空き家・相続アパート・再建築不可などの訳あり不動産と、工場・倉庫・店舗付き住宅の売却相談を、大阪・近畿で受けています。
+          </p>
+        ) : (
         <p class="mb-4 text-sm leading-relaxed text-white/70">
           相続アパート・空き家・再建築不可・共有持分・事故物件など、訳あり不動産の直接買取専門。
           「どこにも断られた物件」も大阪・近畿対応で買い取ります。
         </p>
+        )}
         <div class="space-y-1 text-xs leading-relaxed text-white/60">
           <p>合同会社アルシェ（宅建業免許: 大阪府知事 (1) 第65646号）</p>
           <p>〒544-0002 大阪府大阪市生野区小路3-17-19</p>
