@@ -214,6 +214,12 @@ A. 特定空き家に指定されると住宅用地の特例が解除され、�
 - [大阪市の不動産｜買取と仲介どっちが得？](https://akiya.arshe-corp.com/guide/osaka-kaitori-vs-chukai): 築年数・立地・物件種別ごとに金額シミュレーション付きで比較
 - [旗竿地（路地状敷地）は再建築可でも売れない？売れない理由と買取での解決策](https://akiya.arshe-corp.com/guide/hatazao-chi-saikenchiku-ka-urenai): 再建築可の旗竿地が売れない7つの実務的理由と専門買取での解決策を解説
 - [都市計画道路の予定地にかかる不動産を売る｜補償・減価・買取の3択比較](https://akiya.arshe-corp.com/guide/urban-road-plan-sell-compare): 事業認可待ちの補償買収・減価を受け入れた仲介・現況買取の3択を建築制限とあわせて比較
+- [机上査定とは？空き家・訳あり物件を現地確認前に相談する方法](https://akiya.arshe-corp.com/guide/kijou-satei-souzoku-fudosan-soudan): 机上でわかること・現地で固まること・所有者にしかわからないことを分け、現地確認前に相談するための確認表をまとめました
+- [改修・インフラ工事をした物件の査定への影響｜机上で確認できる範囲](https://akiya.arshe-corp.com/guide/kaishuu-infra-koji-satei-eikyo): 効くのは工事の有無ではなく「何の工事か」と「記録が残っているか」です。机上で確認できる範囲と相談時に伝えることをまとめました
+- [提示された査定額を検討したいとき｜相談で確認しておきたいこと](https://akiya.arshe-corp.com/guide/teiji-kakaku-kento-jyunbi): 「金額の前提」「伝えた情報のずれ」「決めるための期限と人」を整理し、相談で使える確認表にまとめました
+- [相談を始める前の確認表｜所在地・入居状況・売却理由の記入欄](https://akiya.arshe-corp.com/guide/soudan-hajimeru-kakunin-hyo): 所在地・物件の種類・入居状況・困っていること・時期・手元の情報・現地確認・確認したいことの8項目を、不明や未定のままでも書き出せる形で用意しました
+- [資料がなくても相談できる｜手元の情報だけで最初に伝えること](https://akiya.arshe-corp.com/guide/shiryo-nashi-soudan-tehoto-joho): 手元に残っている「場所」「名義」「今の状態」の3つを手がかりに、最初の相談で伝えるとよい内容と文例をまとめました
+- [相続人申告登記で氏名住所は誰に見られる？](https://akiya.arshe-corp.com/guide/souzokunin-shinkoku-touki-dare-ni-mirareru): 申出で氏名・住所が登記簿に書き加えられ、その写しは手数料を払えばどなたでも請求できる仕組みと、住所を載せない扱いが使える場合を整理しました
 
 ### 売却ガイド — 相続・登記・法律
 - [遺産分割協議書とは？相続した不動産を売るための書き方と4ステップ手順](https://akiya.arshe-corp.com/guide/isan-bunkatsu-kyougisho-kakikata): 書き方・必要書類・相続人が揉めた時の対処法まで宅建業者が実務の視点で解説
@@ -228,6 +234,8 @@ A. 特定空き家に指定されると住宅用地の特例が解除され、�
 - [相続税はいくらから？基礎控除の計算方法](https://akiya.arshe-corp.com/guide/inheritance-tax-basics): 不動産の評価方法や申告期限も紹介
 - [認知症の親の家を売るには？](https://akiya.arshe-corp.com/guide/dementia-house-sale): 成年後見制度・家族信託を使った不動産売却の方法
 - [遺留分侵害額を請求された！払えない場合に不動産を売って解決する方法](https://akiya.arshe-corp.com/guide/iryubun-shingai-gaku-fudosan-baikyaku): 支払猶予の活用・買取と仲介の速度比較まで、不動産売却による解決手順を解説
+- [鍵がない・立会いできない場合の相談準備｜相続不動産](https://akiya.arshe-corp.com/guide/kagi-genchi-tachiai-soudan-jyunbi): 鍵と立会いの状況を6通りに分けた伝え方と、相談の前に確かめておくことをまとめました
+- [相続分の譲渡で遺産分割から抜けられるか](https://akiya.arshe-corp.com/guide/souzokubun-jouto-ridatsu-kento): 家庭裁判所の排除決定の進み方、第三者に譲ると1か月は取り戻されること、登記原因と登録免許税が「相続」より重くなることを法令と公的資料で解説
 
 ### 売却ガイド — 不動産売却の基礎知識
 - [はじめての不動産売却ガイド](https://akiya.arshe-corp.com/guide/selling-process): 初心者向け5ステップ完全ガイド
