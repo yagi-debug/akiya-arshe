@@ -1,0 +1,69 @@
+{
+  "date": "2026-10-08",
+  "slug": "ig-2026-10-08-reel_knowledge",
+  "title": "空き家の固定資産税が上がるまで、3つの段階",
+  "type": "reel_knowledge",
+  "theme": "固定資産税・お金",
+  "files": [
+    "reel_2026-10-08.mp4"
+  ],
+  "checks": {
+    "caption_forbidden_words": [],
+    "cta_ok": true,
+    "caption_detail_ok": true,
+    "fallback_used": false,
+    "copy_nonempty_ok": true,
+    "info_band_ok": true,
+    "title_quality_ok": true,
+    "season_ok": true,
+    "offer_stated_ok": true,
+    "cta_bridge_ok": true,
+    "caption_not_filler_ok": true,
+    "file_count_ok": true,
+    "segment_count_ok": true,
+    "dimensions_ok": true,
+    "audio_ok": true,
+    "video_ok": true,
+    "duration_ok": true,
+    "voice_credit_ok": true,
+    "bgm_ok": true,
+    "probe": {
+      "width": 1080,
+      "height": 1920,
+      "video_codec": "h264",
+      "audio_codec": "aac",
+      "duration": 55.931
+    },
+    "scene_hashes": [
+      "08f6ddcae94f242682dd344f86dab278",
+      "613beed54846aea00ffcb91ef41dcc67",
+      "c0856c003778df39cd881875030fa07f",
+      "0c9e3a75f2894373bbf9a7adac85501b",
+      "74a919a9fbd55234d3746a244e7c54d3",
+      "ee728be4a3f31e2b4925da9cd9f0a5e0",
+      "b3e2366837129883089c890f556eff64",
+      "1cd34e05520083c45580c1b67b5b4962",
+      "0515a0c55554c18e70deadb4e53611db"
+    ],
+    "video_scene_count": 0,
+    "total_scene_count": 9,
+    "all_scenes_animated": false,
+    "plan_structure_source": "deterministic_local",
+    "plan_rollover_fallback": false
+  },
+  "fallback_used": false,
+  "fallback_notes": [
+    "scene_01: codex_generated",
+    "scene_02: codex_generated",
+    "scene_03: codex_generated",
+    "scene_04: codex_generated",
+    "scene_05: codex_generated",
+    "scene_06: codex_generated",
+    "scene_07: codex_generated",
+    "scene_08: codex_generated",
+    "scene_09: codex_generated",
+    "h3: 3日に1回の対象外→全シーン静止画"
+  ],
+  "source_plan": "/Users/aibot/arshe/1_Projects/realestate-seller/content/CONTENT-PLAN-2026-10.md",
+  "generated_config": "/Users/aibot/arshe/1_Projects/realestate-seller/scripts/instagram/configs/generated/2026-10-08.json"
+}
