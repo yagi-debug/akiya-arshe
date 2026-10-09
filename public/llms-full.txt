@@ -236,6 +236,7 @@ A. 特定空き家に指定されると住宅用地の特例が解除され、�
 - [遺留分侵害額を請求された！払えない場合に不動産を売って解決する方法](https://akiya.arshe-corp.com/guide/iryubun-shingai-gaku-fudosan-baikyaku): 支払猶予の活用・買取と仲介の速度比較まで、不動産売却による解決手順を解説
 - [鍵がない・立会いできない場合の相談準備｜相続不動産](https://akiya.arshe-corp.com/guide/kagi-genchi-tachiai-soudan-jyunbi): 鍵と立会いの状況を6通りに分けた伝え方と、相談の前に確かめておくことをまとめました
 - [相続分の譲渡で遺産分割から抜けられるか](https://akiya.arshe-corp.com/guide/souzokubun-jouto-ridatsu-kento): 家庭裁判所の排除決定の進み方、第三者に譲ると1か月は取り戻されること、登記原因と登録免許税が「相続」より重くなることを法令と公的資料で解説
+- [相続登記の実印・印鑑証明書は何のため](https://akiya.arshe-corp.com/guide/souzoku-touki-jitsuin-inkan-shomei-riyuu): 実印・印鑑証明書が要るのは遺産分割協議書のためで登記申請書の押印は認印でよいこと、必要通数・有効期限・原本還付の有無を法務局の案内どおりに整理
 
 ### 売却ガイド — 不動産売却の基礎知識
 - [はじめての不動産売却ガイド](https://akiya.arshe-corp.com/guide/selling-process): 初心者向け5ステップ完全ガイド
