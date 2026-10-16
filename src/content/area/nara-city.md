@@ -46,7 +46,7 @@ author: "宅建業者"
 
 奈良県全体の空き家率は<strong>約18.0%（出典：総務省「令和5年住宅・土地統計調査」）</strong>と全国平均（約13.8%）を大きく上回り、全国でも上位に入る空き家大県です。奈良市内でも、特に旧市街地（高畑・元林院・押上等）および南部の農山村地域（都祁・月ヶ瀬）で空き家が集中しています。
 
-- <strong>特定空き家に認定されると固定資産税の住宅用地特例（1/6軽減）が外れ、最大6倍</strong>になるリスクがある（[詳細はこちら](/guide/vacancy-tax-6times)）
+- <strong>特定空き家に認定されると固定資産税の住宅用地特例（1/6軽減）が外れ、最大6倍</strong>になるリスクがある（[詳細はこちら](/guide/akiya-koteishisanzei-6bai-hikaku/)）
 - 奈良市は「奈良市空家等対策計画」に基づき、特定空き家への指導・勧告を段階的に強化中
 - 相続後に子世代が大阪・京都に転居し、奈良の実家を誰も継がないまま放置される「遠方相続空き家」案件が増加している
 
@@ -95,7 +95,7 @@ author: "宅建業者"
 
 <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06C755;color:#fff;font-weight:bold;padding:0.75rem 2rem;border-radius:0.5rem;text-decoration:none;margin:0.5rem 0;">LINEで無料相談する（24時間受付）</a>
 
-<a href="/contact" style="display:inline-block;background:#2563eb;color:#fff;font-weight:bold;padding:0.75rem 2rem;border-radius:0.5rem;text-decoration:none;margin:0.5rem 0;">お問い合わせフォームはこちら</a>
+<a href="/contact/" style="display:inline-block;background:#2563eb;color:#fff;font-weight:bold;padding:0.75rem 2rem;border-radius:0.5rem;text-decoration:none;margin:0.5rem 0;">お問い合わせフォームはこちら</a>
 
 空き家のミカタ（宅建業者・大阪府知事(1)第65646号）
 
@@ -103,14 +103,14 @@ author: "宅建業者"
 
 ## 関連するエリアページ
 
-- <a href="/area/osaka-city">大阪市の訳あり物件買取完全ガイド</a>
-- <a href="/area/kyoto-city">京都市の不動産買取相場</a>
-- <a href="/area/higashiosaka-city">東大阪市の不動産買取相場</a>
-- <a href="/area/hirakata-city">枚方市の不動産買取相場</a>
-- <a href="/area/suita-city">吹田市の不動産買取相場</a>
+- <a href="/guide/osaka-city-yakuari-kaitori/">大阪市の訳あり物件買取完全ガイド</a>
+- <a href="/area/kyoto-city/">京都市の不動産買取相場</a>
+- <a href="/area/higashiosaka-city/">東大阪市の不動産買取相場</a>
+- <a href="/area/hirakata-city/">枚方市の不動産買取相場</a>
+- <a href="/area/suita-city/">吹田市の不動産買取相場</a>
 
 ## 関連ガイド
 
-- <a href="/guide/souzoku-apart-kaitori">相続アパートの買取｜管理できない入居者付きアパートも直接買取</a>
-- <a href="/guide/non-rebuildable-property-sale">再建築不可物件の売却方法と注意点</a>
-- <a href="/guide/akiya-kaitori">空き家の買取｜放置している空き家を現金化する方法</a>
+- <a href="/guide/souzoku-apart-kanzen-guide/">相続アパートの買取｜管理できない入居者付きアパートも直接買取</a>
+- <a href="/guide/non-rebuildable-property-sale/">再建築不可物件の売却方法と注意点</a>
+- <a href="/guide/akiya-shobun-5-hikaku/">空き家の処分方法の比較</a>

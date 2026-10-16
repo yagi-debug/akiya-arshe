@@ -246,7 +246,7 @@ faqs:
 
 <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" target="_blank" rel="noopener noreferrer"><strong>LINEで無料相談する（京都市の空き家・実家の買取査定・古家付きOK）</strong></a>
 
-<a href="/contact"><strong>お問い合わせフォームはこちら</strong></a>
+<a href="/contact/"><strong>お問い合わせフォームはこちら</strong></a>
 
 ---
 
@@ -259,18 +259,18 @@ faqs:
 <li>遠方に住んでいて現地に行けない</li>
 <li>補助金を使うか、そのまま売るか迷っている</li>
 </ul>
-<p style="margin:0;font-size:0.9rem;">1つでも当てはまれば、まずは無料査定でご相談ください。京都市の中古住宅・買取相場は<a href="/guide/kyoto-real-estate-purchase-market-2026">京都市の不動産買取市場【2026年版】</a>でも確認できます。</p>
+<p style="margin:0;font-size:0.9rem;">1つでも当てはまれば、まずは無料査定でご相談ください。京都市の中古住宅・買取相場は<a href="/guide/kyoto-real-estate-purchase-market-2026/">京都市の不動産買取市場【2026年版】</a>でも確認できます。</p>
 </div>
 
 ## 関連するガイド記事
 
-- [京都市の不動産買取市場【2026年版】相場・特徴と手放し方](/guide/kyoto-real-estate-purchase-market-2026)
-- [大阪市の空き家解体補助金2026年度｜24区窓口一覧](/guide/osaka-ku-akiya-hojo-madoguchi-2026)
-- [相続した実家の解体費用が払えない｜補助金・現況買取で費用ゼロで手放す3つの方法](/guide/akiya-kaitai-hiyou-haraenai)
-- [固定資産税の通知書が届いたらやること3ステップ｜住宅用地特例が外れると税額6倍](/guide/kotei-shisan-zei-tsuchisho-todaita)
-- [空き家の買取｜固定資産税6倍リスクのある空き家を今すぐ現金化](/guide/akiya-kaitori)
+- [京都市の不動産買取市場【2026年版】相場・特徴と手放し方](/guide/kyoto-real-estate-purchase-market-2026/)
+- [大阪市の空き家解体補助金2026年度｜24区窓口一覧](/guide/osaka-ku-akiya-hojo-madoguchi-2026/)
+- [相続した実家の解体費用が払えない｜補助金・現況買取で費用ゼロで手放す3つの方法](/guide/akiya-kaitai-hiyou-haraenai/)
+- [固定資産税の通知書が届いたらやること3ステップ｜住宅用地特例が外れると税額6倍](/guide/kotei-shisan-zei-tsuchisho-todaita/)
+- [空き家の処分方法の比較](/guide/akiya-shobun-5-hikaku/)
 
 ---
-- <a href="/guide/souzoku-hub">相続不動産 完全ハブ｜処分・売却・登記・固定資産税・事例まで全ガイドをまとめて確認【2026年版】</a>
+- <a href="/guide/parent-death-house/">相続した家の売り方と手続き</a>
 </content>
 </invoke>

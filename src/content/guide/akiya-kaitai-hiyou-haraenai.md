@@ -72,7 +72,7 @@ A: 解体費用（木造30坪で90〜150万円）を用意できない場合で�
 2. <strong>兄弟間で費用負担の合意ができない</strong>: 共有名義の物件で誰が費用を出すかでもめている
 3. <strong>年金生活者で一時的な高額出費が難しい</strong>: 毎月の収入は安定しているが数百万円の一括払いが難しい
 
-<strong>解体費用を払えないまま放置し続けると、固定資産税の増額リスクと近隣への損害賠償リスクが毎年高まっていきます。</strong>特定空家に指定されると固定資産税の軽減措置（住宅用地特例）が外れ、最大6倍の税負担になることがあります。詳しくは「<a href="/guide/tokutei-akiya-hantei-checklist">特定空き家に指定される前に確認｜固定資産税6倍化の判定チェックリスト</a>」をご覧ください。
+<strong>解体費用を払えないまま放置し続けると、固定資産税の増額リスクと近隣への損害賠償リスクが毎年高まっていきます。</strong>特定空家に指定されると固定資産税の軽減措置（住宅用地特例）が外れ、最大6倍の税負担になることがあります。詳しくは「<a href="/guide/tokutei-akiya-hantei-checklist/">特定空き家に指定される前に確認｜固定資産税6倍化の判定チェックリスト</a>」をご覧ください。
 
 ## 解決策1: 自治体の「老朽危険空き家解体補助金」を活用する
 
@@ -137,7 +137,7 @@ A: 解体費用（木造30坪で90〜150万円）を用意できない場合で�
 
 解体費用が買取価格に反映されるため、<strong>更地にした場合の売却価格より低くなります</strong>。ただし、自分で解体費用を負担した場合と比べると、トータルの手残りが多くなることもあります。必ず複数の買取業者から査定を取り、価格を比較することをお勧めします。
 
-現況買取について詳しくは「<a href="/guide/akiya-kaitori">空き家の買取｜放置している空き家を現金化する方法</a>」もご覧ください。
+現況買取について詳しくは「<a href="/guide/akiya-shobun-5-hikaku/">空き家の処分方法の比較</a>」もご覧ください。
 
 ## 解決策3: 「古家付き土地」として仲介売却する
 
@@ -164,7 +164,7 @@ A: 解体費用（木造30坪で90〜150万円）を用意できない場合で�
 
 ### 解体すべきかどうかの判断については
 
-「解体して更地にして売るか、古家付きで売るか」の判断基準については「<a href="/guide/old-house-demolish">古い家は更地にして売るべき？解体費用と判断基準を宅建業者が解説</a>」で詳しく解説しています。
+「解体して更地にして売るか、古家付きで売るか」の判断基準については「<a href="/guide/old-house-demolish/">古い家は更地にして売るべき？解体費用と判断基準を宅建業者が解説</a>」で詳しく解説しています。
 
 ## 3つの方法を費用・期間で比較する
 
@@ -185,15 +185,15 @@ A: 解体費用（木造30坪で90〜150万円）を用意できない場合で�
 
 プラスの財産が少なく、解体費用・維持コストだけが残る場合の最終手段として検討できますが、弁護士・司法書士への事前相談をお勧めします。
 
-固定資産税が払えない場合の選択肢については「<a href="/guide/akiya-kotei-shisan-zei-haraenai">空き家の固定資産税が払えないとき｜分納・減免・売却・相続放棄の4つの選択肢</a>」もあわせてご覧ください。
+固定資産税が払えない場合の選択肢については「<a href="/guide/akiya-kotei-shisan-zei-haraenai/">空き家の固定資産税が払えないとき｜分納・減免・売却・相続放棄の4つの選択肢</a>」もあわせてご覧ください。
 
 ## 関連するガイド記事
 
-- <a href="/guide/souzoku-jirei-09-shigaika-chosei-kaitori">【体験談・事例09】市街化調整区域の実家を相続。仲介3社に断られ2年間固定資産税を払い続けた末に、24日で現金化した全記録</a>
-- <a href="/guide/akiya-shobun-5-hikaku">空き家処分の5大選択肢を徹底比較【2026年版】費用・期間・手残り額</a>
-- <a href="/guide/gomiyashiki-bukken-kaitori">ゴミ屋敷・汚部屋の不動産を売りたい｜片付け不要の現況買取を解説</a>
-- <a href="/guide/souzoku-fudousan-urikata-kanzen-guide">【2026年版】相続した不動産の売り方 完全ガイド｜実務手順・費用・業者選定を買取業者が解説</a>
-- <a href="/guide/souzoku-apart-kanzen-guide">相続アパートを手放したい方へ｜売却の流れ・税金・失敗しない判断基準を宅建業者が完全解説【2026年最新】</a>
+- <a href="/guide/souzoku-jirei-09-shigaika-chosei-kaitori/">【参考例・事例09】市街化調整区域の実家を相続。仲介3社に断られ2年間固定資産税を払い続けた末に、24日で現金化したケース</a>
+- <a href="/guide/akiya-shobun-5-hikaku/">空き家処分の5大選択肢を徹底比較【2026年版】費用・期間・手残り額</a>
+- <a href="/guide/gomiyashiki-bukken-kaitori/">ゴミ屋敷・汚部屋の不動産を売りたい｜片付け不要の現況買取を解説</a>
+- <a href="/guide/parent-death-house/">【2026年版】相続した不動産の売り方 完全ガイド｜実務手順・費用・業者選定を買取業者が解説</a>
+- <a href="/guide/souzoku-apart-kanzen-guide/">相続アパートを手放したい方へ｜売却の流れ・税金・失敗しない判断基準を宅建業者が完全解説【2026年最新】</a>
 
 ## まとめ
 
@@ -217,9 +217,9 @@ A: 解体費用（木造30坪で90〜150万円）を用意できない場合で�
 
 <p style="margin-top:0.5rem;font-size:0.9rem;">「空き家のミカタ」を友だち追加してください</p>
 
-<a href="/contact" style="display:inline-block;border:2px solid rgba(255,255,255,0.4);color:#fff;padding:0.5rem 1.5rem;border-radius:8px;font-weight:bold;text-decoration:none;margin-top:0.5rem;">フォームで相談する</a>
+<a href="/contact/" style="display:inline-block;border:2px solid rgba(255,255,255,0.4);color:#fff;padding:0.5rem 1.5rem;border-radius:8px;font-weight:bold;text-decoration:none;margin-top:0.5rem;">フォームで相談する</a>
 
 </section>
 ---
 
-**このカテゴリの全ガイド一覧:** [→ 空き家の処分・活用 完全ガイド](/guide/vacant-house)
+**このカテゴリの中心の記事:** [→ 空き家の処分・活用 完全ガイド](/guide/akiya-shobun-5-hikaku/)

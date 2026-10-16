@@ -2,6 +2,7 @@
 title: "相続した駐車場・更地の処分方法｜優遇なしで持ち続けるコスト試算"
 description: "相続した駐車場・更地を保有し続けるとどれだけコストがかかるのか、固定資産税の住宅用地特例が適用されない場合の具体的な試算と処分方法を宅建業者が解説します。"
 publishDate: "2026-06-21"
+noindex: true
 author: "空き家のミカタ編集部"
 authorTitle: "宅地建物取引業者（大阪府知事(1)第65646号）"
 heroImage: "/images/inherited-parking-lot-vacant-land-disposal-hero.jpg"
@@ -30,6 +31,8 @@ A: 評価額1,000万円の更地なら固定資産税は年14万円（住宅な�
 </div>
 
 相続した財産の中に「駐車場」や「更地（空き地）」があった場合、「とりあえず持っておけばいい」と思いがちです。しかし<strong>住宅とは異なり、駐車場・更地には固定資産税の大幅な軽減制度（住宅用地特例）が適用されません</strong>。何も考えずに持ち続けると、毎年かなりの税金と管理コストが積み上がっていきます。
+
+関連する内容は[月極駐車場を相続したら売るべきか](/guide/inherited-parking-lot-sell-or-hold/)で詳しく解説しています。
 
 この記事では、住宅用地特例がない場合の固定資産税を具体的に試算し、「保有し続けるコスト」と「売却・処分した場合」を比較します。「まだ売らなくていいか」と思っている方に、ぜひ数字で確認していただければと思います。
 
@@ -243,7 +246,7 @@ A. 売却には相続登記（名義変更）が必要です。ただし司法�
 
 ---
 
-**このカテゴリの全ガイド一覧:** [→ 相続不動産 完全ハブ【2026年版】](/guide/souzoku-hub)
+**このカテゴリの中心の記事:** [→ 相続した家の売り方と手続き](/guide/parent-death-house/)
 
 ---
 
@@ -252,4 +255,4 @@ A. 売却には相続登記（名義変更）が必要です。ただし司法�
 相続した駐車場・更地・空き地の処分にお困りの方のご相談をお受けしています。境界未確定・形状不良・月極利用者あり・遠方管理など、複雑な状況でもお気軽にご連絡ください。査定・相談は無料で、しつこい営業は行いません。
 
 <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06C755;color:#fff;padding:14px 32px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 8px 8px 0;">LINEで無料相談（即日対応）</a>
-<a href="/contact" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 32px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 0;">お問い合わせフォーム</a>
+<a href="/contact/" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 32px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 0;">お問い合わせフォーム</a>

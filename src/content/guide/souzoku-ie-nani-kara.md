@@ -2,6 +2,7 @@
 title: "相続した家、何から手をつければいい？7ステップ・チェックリストと期限一覧【2026年版】"
 description: "親が亡くなって家を相続したけど、何から始めればいいかわからない方へ。死亡届から相続登記・売却まで、やるべきことを7つのステップとYes/No判定で整理。各ステップの期限・費用・注意点を宅建業者がわかりやすくお伝えします。"
 publishDate: "2026-05-06"
+noindex: true
 author: "宅建業者"
 authorTitle: "宅建業者"
 heroImage: "/images/souzoku-ie-nani-kara-hero.jpg"
@@ -38,6 +39,8 @@ updatedDate: "2026-09-07"
 <img src="/images/souzoku-ie-nani-kara-hero.jpg" alt="不動産の書類と家の鍵　相続した家の手続きチェックリストのイメージ" width="1440" height="960" style="width:100%;height:auto;border-radius:8px;margin-bottom:1.5rem;" />
 
 「親が亡くなったあと、相続した家について何から手をつければいいのかわからない」——そうおっしゃる方からのご相談を、私たちは毎月いただきます。
+
+このテーマの全体像は[相続した家の売り方と手続き](/guide/parent-death-house/)にまとめています。
 
 葬儀が終わった直後は気力も体力も消耗しています。そのうえ手続きが複数あり、それぞれに期限があるとなると、どこから始めていいか途方に暮れてしまうのは当然です。
 
@@ -116,7 +119,7 @@ updatedDate: "2026-09-07"
 
 **注意**: 相続財産を使ったり、処分したりすると「単純承認」とみなされ、放棄できなくなります。財産に手をつける前に専門家に相談してください。
 
-→ 関連記事: [相続放棄の完全ガイド](/guide/inheritance-abandon)
+→ 関連記事: [相続放棄の完全ガイド](/guide/inheritance-abandon/)
 
 ---
 
@@ -162,7 +165,7 @@ updatedDate: "2026-09-07"
 
 <strong>「意見がまとまらないから売れない」は誤解です。</strong>共有持分を専門の買取業者に売る方法もあります（全員の合意は不要）。
 
-→ 関連記事: [共有持分の売却ガイド](/guide/kyouyuu-mochibun-kaitori)
+→ 関連記事: [共有持分の売却ガイド](/guide/kyouyuu-mochibun-kaitori/)
 
 ---
 
@@ -187,7 +190,7 @@ updatedDate: "2026-09-07"
 
 不動産の評価額は「路線価（国税庁公表）」をもとに計算します。土地の評価は様々な特例（小規模宅地等の特例など）で大幅に下げられる場合があります。税理士への相談をおすすめします。
 
-→ 関連記事: [相続税の基礎知識](/guide/inheritance-tax-basics)
+→ 関連記事: [相続税の基礎知識](/guide/inheritance-tax-basics/)
 
 ---
 
@@ -211,7 +214,7 @@ updatedDate: "2026-09-07"
 
 <strong>被相続人（故人）名義のままでは不動産を売却できません。</strong>買取業者に相談すれば、相続登記と売却を並行してスケジュール調整できるケースがあります。
 
-→ 関連記事: [相続登記義務化の完全対応ガイド2026年版](/guide/souzoku-touki-gimuka-kanzen-taiou-2026)
+→ 関連記事: [相続登記義務化の完全対応ガイド2026年版](/guide/inheritance-registry-neglect-sale-3options/)
 
 ---
 
@@ -237,7 +240,7 @@ updatedDate: "2026-09-07"
 
 > <strong>宅建業者の視点</strong>: 「相続空き家の3,000万円特別控除」は要件が複雑で、特に「耐震基準を満たすか解体が必要」という要件で対象外になるケースがあります。売却前に税理士に確認することを強くおすすめします。
 
-→ 関連記事: [相続した家をどうする？4つの選択肢と判断基準](/guide/souzoku-ie-doushitara)
+→ 関連記事: [相続した家をどうする？4つの選択肢と判断基準](/guide/souzoku-ie-doushitara/)
 
 ---
 
@@ -283,11 +286,10 @@ A: 訳あり不動産の買取を専門とする業者であれば、老朽化�
 
 ## 関連するガイド記事
 
-- <a href="/guide/souzoku-apart-kanzen-guide">相続アパートを手放したい方へ｜売却の流れ・税金・失敗しない判断基準を宅建業者が完全解説【2026年最新】</a>
-- <a href="/guide/souzoku-fudousan-shobun-kanzen-guide">相続不動産の処分 完全ガイド2026｜法律・登記・比較表・失敗対策まで一気に解説</a>
-- <a href="/guide/souzoku-fudousan-urikata-kanzen-guide">【2026年版】相続した不動産の売り方 完全ガイド｜実務手順・費用・業者選定を買取業者が解説</a>
-- <a href="/guide/akiya-shobun-5-hikaku">空き家処分の5大選択肢を徹底比較【2026年版】費用・期間・手残り額</a>
-- <a href="/guide/akiya-kaitai-hiyou-haraenai">相続した実家の解体費用が払えない｜補助金・現況買取で費用ゼロで手放す3つの方法</a>
+- <a href="/guide/souzoku-apart-kanzen-guide/">相続アパートを手放したい方へ｜売却の流れ・税金・失敗しない判断基準を宅建業者が完全解説【2026年最新】</a>
+- <a href="/guide/parent-death-house/">相続不動産の処分 完全ガイド2026｜法律・登記・比較表・失敗対策まで一気に解説</a>
+- <a href="/guide/akiya-shobun-5-hikaku/">空き家処分の5大選択肢を徹底比較【2026年版】費用・期間・手残り額</a>
+- <a href="/guide/akiya-kaitai-hiyou-haraenai/">相続した実家の解体費用が払えない｜補助金・現況買取で費用ゼロで手放す3つの方法</a>
 
 ## 無料相談・お問い合わせ
 
@@ -302,7 +304,7 @@ A: 訳あり不動産の買取を専門とする業者であれば、老朽化�
 - 老朽化・訳あり物件も対応可能
 - 大阪・近畿対応
 
-[お問い合わせフォームはこちら](/contact)
+[お問い合わせフォームはこちら](/contact/)
 ---
 
-**このカテゴリの全ガイド一覧:** [→ 相続不動産 完全ハブ【2026年版】](/guide/souzoku-hub)
+**このカテゴリの中心の記事:** [→ 相続した家の売り方と手続き](/guide/parent-death-house/)

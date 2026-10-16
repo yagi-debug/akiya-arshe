@@ -2,6 +2,7 @@
 title: "不動産を売った時の税金はいくら？譲渡所得税の計算方法と節税対策"
 description: "不動産売却時にかかる譲渡所得税の計算方法、税率、3000万円特別控除などの節税対策を宅建業者がわかりやすく解説します。"
 publishDate: "2026-01-29"
+noindex: true
 cluster: "inheritance"
 author: "宅建業者"
 faqs:
@@ -18,6 +19,8 @@ faqs:
 ---
 
 不動産を売却した利益（譲渡所得）には税金がかかります。計算式は<strong>「（売却価格 − 取得費 − 譲渡費用）× 税率」</strong>。所有期間が<strong>5年を超えていれば約20%</strong>、<strong>5年以下なら約40%</strong>の税率です。ただし、マイホームや相続物件の場合は特例で大幅に節税できる場合があります。
+
+関連する内容は[相続不動産の譲渡所得税](/guide/souzoku-jouto-shotokuzei-5nen-kisanbi/)で詳しく解説しています。
 
 ## 譲渡所得税の計算の流れ
 
@@ -92,13 +95,13 @@ faqs:
 
 ## 相続物件の取得時期の引き継ぎルール
 
-相続した不動産の所有期間は、<strong>亡くなった方が取得した日から数えます</strong>。相続税の基礎控除や評価方法については<a href="/guide/inheritance-tax-basics">相続税の基礎控除ガイド</a>も参考にしてください。つまり、親が30年前に購入した家を相続で取得した場合、所有期間は30年として長期譲渡所得の税率（約20%）が適用されます。
+相続した不動産の所有期間は、<strong>亡くなった方が取得した日から数えます</strong>。相続税の基礎控除や評価方法については<a href="/guide/inheritance-tax-basics/">相続税の基礎控除ガイド</a>も参考にしてください。つまり、親が30年前に購入した家を相続で取得した場合、所有期間は30年として長期譲渡所得の税率（約20%）が適用されます。
 
 これは相続ならではの有利なルールです。自分で購入した場合は購入日からカウントしますが、相続の場合は被相続人の取得日を引き継げます。
 
 ## 確定申告の期限と方法
 
-不動産を売却した翌年の<strong>2月16日〜3月15日</strong>に確定申告を行います。売却の流れや費用の全体像は<a href="/guide/selling-process">はじめての不動産売却ガイド</a>をご覧ください。譲渡所得がマイナス（赤字）の場合でも、特例の適用を受けるには申告が必要です。
+不動産を売却した翌年の<strong>2月16日〜3月15日</strong>に確定申告を行います。売却の流れや費用の全体像は<a href="/guide/osaka-kaitori-vs-chukai/">買取・仲介・放置の比較</a>をご覧ください。譲渡所得がマイナス（赤字）の場合でも、特例の適用を受けるには申告が必要です。
 
 ### 必要書類
 
@@ -144,11 +147,11 @@ faqs:
 
 ## 関連する記事
 
-- <a href="/guide/inheritance-tax-basics">相続税の基礎控除の計算方法</a>
-- <a href="/guide/selling-process">はじめての不動産売却ガイド</a>
-- <a href="/guide/inheritance-sale">相続した不動産を売却する完全ガイド</a>
+- <a href="/guide/inheritance-tax-basics/">相続税の基礎控除の計算方法</a>
+- <a href="/guide/osaka-kaitori-vs-chukai/">買取・仲介・放置の比較</a>
+- <a href="/guide/parent-death-house/">相続した不動産を売却する完全ガイド</a>
 
 LINE「空き家のミカタ」：[https://line.arshe1719.workers.dev/auth/line?ref=hp](https://line.arshe1719.workers.dev/auth/line?ref=hp)
 ---
 
-**このカテゴリの全ガイド一覧:** [→ 相続不動産 完全ハブ【2026年版】](/guide/souzoku-hub)
+**このカテゴリの中心の記事:** [→ 相続した家の売り方と手続き](/guide/parent-death-house/)

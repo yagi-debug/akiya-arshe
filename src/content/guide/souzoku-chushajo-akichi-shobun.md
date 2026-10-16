@@ -2,6 +2,7 @@
 title: "相続した駐車場・更地の処分ガイド｜固定資産税を払い続けるより早く手放す4つの選択肢"
 description: "相続した駐車場や更地（空き地）の処分方法を宅建業者が解説。固定資産税の負担・放置リスク・直接買取・相続土地国庫帰属制度まで、4つの選択肢と売却の流れをわかりやすく説明します。"
 publishDate: "2026-06-10"
+noindex: true
 author: "空き家のミカタ編集部"
 authorTitle: "宅地建物取引業者（大阪府知事(1)第65646号）"
 heroImage: "/images/souzoku-chushajo-akichi-shobun-hero.jpg"
@@ -22,6 +23,8 @@ faqs:
 <img src="/images/souzoku-chushajo-akichi-shobun-hero.jpg" alt="日本の駐車場の外観　相続した駐車場・更地の処分ガイド" width="1139" height="750" style="width:100%;height:auto;border-radius:8px;margin-bottom:1.5rem;" />
 
 親が亡くなり、相続したのが「駐車場」や「更地（空き地）」だった——こういうケースは思いのほか多くあります。「誰も住んでいないし、使い道もわからない」「毎年固定資産税だけ払い続けている」「どこに相談すればいいかもわからない」。そんな状況で、長年放置してしまっている方も少なくありません。
+
+関連する内容は[月極駐車場を相続したら売るべきか](/guide/inherited-parking-lot-sell-or-hold/)で詳しく解説しています。
 
 <strong>駐車場・更地は住宅と違い、相続登記の義務化・固定資産税の高さ・管理責任という3つの問題が重なりやすい物件です。早めに処分の方向性を決めることが、費用も手間も最小限に抑えるポイントです。</strong>
 
@@ -59,7 +62,7 @@ faqs:
 
 2024年4月1日から相続登記が義務化されました。相続を知った日から<strong>3年以内</strong>に登記申請をしなければ、<strong>10万円以下の過料</strong>の対象になります。
 
-駐車場・更地は「使っていないから登記しなくていい」と思われることがありますが、全ての不動産で義務が発生します。詳しい手続きは[相続登記義務化の完全対応ガイド](/guide/souzoku-touki-gimuka-kanzen-taiou-2026)もあわせてご参照ください。
+駐車場・更地は「使っていないから登記しなくていい」と思われることがありますが、全ての不動産で義務が発生します。詳しい手続きは[相続登記義務化の完全対応ガイド](/guide/inheritance-registry-neglect-sale-3options/)もあわせてご参照ください。
 
 ---
 
@@ -195,7 +198,7 @@ A. 公示地価や路線価を基に算定しますが、形状・接道状況�
 
 ---
 
-**このカテゴリの全ガイド一覧:** [→ 相続不動産 完全ハブ【2026年版】](/guide/souzoku-hub)
+**このカテゴリの中心の記事:** [→ 相続した家の売り方と手続き](/guide/parent-death-house/)
 
 ---
 
@@ -204,4 +207,4 @@ A. 公示地価や路線価を基に算定しますが、形状・接道状況�
 相続した駐車場・更地・空き地の処分にお困りの方のご相談をお受けしています。境界未確定・月極利用者あり・遠方管理など、複雑な状況でもお気軽にご連絡ください。査定・相談は無料で、しつこい営業は行いません。
 
 <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06C755;color:#fff;padding:14px 32px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 8px 8px 0;">LINEで無料相談（即日対応）</a>
-<a href="/contact" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 32px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 0;">お問い合わせフォーム</a>
+<a href="/contact/" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 32px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 0;">お問い合わせフォーム</a>

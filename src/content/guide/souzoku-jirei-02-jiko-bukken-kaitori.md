@@ -1,7 +1,8 @@
 ---
-title: "【体験談・事例02】弟の孤独死マンションを相続。特殊清掃前・遠方からでも18日で売却できた全記録"
-description: "弟の孤独死で相続した横浜市内のマンション（区分所有）。告知義務・特殊清掃費用・北海道からの遠方対応という3つの壁を、訳あり買取で解決したBさん（62歳・男性）の体験談。査定から決済まで全プロセスを公開。"
+title: "【参考例・事例02】弟の孤独死マンションを相続。特殊清掃前・遠方からでも18日で売却できたケース"
+description: "弟の孤独死で相続した横浜市内のマンション（区分所有）。告知義務・特殊清掃費用・北海道からの遠方対応という3つの壁を、訳あり買取で解決するBさん（62歳・男性）のケース（参考例）。査定から決済までのプロセスを、よくある状況をもとに紹介。"
 publishDate: "2026-04-30"
+noindex: true
 cluster: "inheritance"
 author: "宅建業者"
 authorTitle: "宅建業者"
@@ -26,8 +27,8 @@ updatedDate: "2026-09-07"
 {
   "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "【体験談・事例02】弟の孤独死マンションを相続。特殊清掃前・遠方からでも18日で売却できた全記録",
-  "description": "弟の孤独死で相続した横浜市内のマンション（区分所有）の買取体験談。告知義務・特殊清掃費用・遠方対応の課題を直接買取で解決した事例。",
+  "headline": "【参考例・事例02】弟の孤独死マンションを相続。特殊清掃前・遠方からでも18日で売却できたケース",
+  "description": "弟の孤独死で相続した横浜市内のマンション（区分所有）の買取ケース（参考例）。告知義務・特殊清掃費用・遠方対応の課題を直接買取で解決する流れ。",
   "datePublished": "2026-04-30",
   "author": {
     "@type": "Organization",
@@ -45,50 +46,12 @@ updatedDate: "2026-09-07"
 }
 </script>
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "孤独死（特殊清掃あり）の物件は、告知義務はいつまでありますか？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "国土交通省のガイドライン（令和3年10月策定）では、孤独死で特殊清掃が必要だった場合、取引の相手方の判断に重要な影響を及ぼすと考えられるため、売却・賃貸時の告知が必要とされています。期間の明確な上限はなく、特殊清掃の規模・原因・経過年数によって判断が変わります。"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "特殊清掃前の状態でも買取してもらえますか？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "はい、対応できます。特殊清掃が済んでいない状態でも、買取価格に清掃費用を織り込んだうえで査定します。ただし状態によっては清掃後に再査定が必要な場合もあります。まずはLINEで写真付きでご相談ください。"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "遠方に住んでいて現地に行けなくても売却できますか？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "大阪を中心に、兵庫・京都・奈良・滋賀・和歌山の物件のご相談に対応しています。買取の可否・条件は所在地と物件の状況を確認してご案内します。所有者が遠方にお住まいでも、LINE・メールでご相談いただけます。"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "孤独死の物件は、市場価格の何割くらいで買取されますか？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "孤独死（特殊清掃が必要だった場合）の区分所有マンションの場合、一般的に市場価格の60〜75%程度が目安です。特殊清掃費用・告知義務による価値低下・流動性リスクが価格に反映されます。正確な金額は無料査定でお伝えします。"
-      }
-    }
-  ]
-}
-</script>
 
 <img src="/images/souzoku-jirei-02-hero.jpg" alt="古いマンションの外観 — 孤独死のあった事故物件相続のイメージ" width="1200" height="800" style="width:100%;height:auto;border-radius:8px;margin-bottom:1.5rem;" />
 
 <strong>「仲介業者から『この物件は売れません』と言われました。孤独死だから、と」</strong>
+
+このテーマの全体像は[事故物件の買取・告知義務のガイド](/guide/jiko-bukken-hub/)にまとめています。
 
 Bさん（62歳・男性・北海道札幌市在住）が空き家のミカタにLINEで相談してきたのは、2026年3月のことでした。弟が横浜市南区の自室で孤独死し、その発見が1週間後だったため特殊清掃が必要な状態でした。
 
@@ -317,7 +280,7 @@ Bさんのように「孤独死の物件を相続した」「仲介に断られ�
 
 <strong>[LINEで無料相談する（24時間受付）](https://line.arshe1719.workers.dev/auth/line?ref=hp)</strong>
 
-<strong>[お問い合わせフォームはこちら](/contact)</strong>
+<strong>[お問い合わせフォームはこちら](/contact/)</strong>
 
 相談無料・秘密厳守・大阪・近畿対応
 
@@ -327,19 +290,18 @@ Bさんのように「孤独死の物件を相続した」「仲介に断られ�
 
 ## 関連するガイド記事
 
-- <a href="/guide/souzoku-apart-kanzen-guide">相続アパートを手放したい方へ｜売却の流れ・税金・失敗しない判断基準を宅建業者が完全解説【2026年最新】</a>
-- <a href="/guide/souzoku-hub">相続不動産 完全ハブ｜処分・売却・登記・固定資産税・事例まで全ガイドをまとめて確認【2026年版】</a>
-- <a href="/guide/souzoku-fudosan-shippai-3jirei">相続不動産の売却で失敗した3事例｜買取で解決した比較と5問リスク診断</a>
-- <a href="/guide/akiya-kotei-shisan-zei-haraenai">空き家の固定資産税が払えないとき｜分納・減免・売却・相続放棄の4つの選択肢【2026年版】</a>
-- <a href="/guide/akiya-shobun-5-hikaku">空き家処分の5大選択肢を徹底比較【2026年版】費用・期間・手残り額</a>
+- <a href="/guide/souzoku-apart-kanzen-guide/">相続アパートを手放したい方へ｜売却の流れ・税金・失敗しない判断基準を宅建業者が完全解説【2026年最新】</a>
+- <a href="/guide/parent-death-house/">相続した家の売り方と手続き</a>
+- <a href="/guide/souzoku-fudosan-shippai-3jirei/">相続不動産の売却で失敗した3事例｜買取で解決した比較と5問リスク診断</a>
+- <a href="/guide/akiya-kotei-shisan-zei-haraenai/">空き家の固定資産税が払えないとき｜分納・減免・売却・相続放棄の4つの選択肢【2026年版】</a>
+- <a href="/guide/akiya-shobun-5-hikaku/">空き家処分の5大選択肢を徹底比較【2026年版】費用・期間・手残り額</a>
 
 ## この事例で使った売却方法の詳細
 
 Bさんが選んだ「孤独死物件の直接買取」の仕組み・告知義務・手順を詳しく解説しているガイド記事です。
 
-- <a href="/guide/accident-property-sale">事故物件の売却・買取完全ガイド（告知義務・売却相場・手順）</a>
-- <a href="/guide/kaitori-jirei">訳あり不動産の買取事例5選</a>
-- <a href="/guide/souzoku-jirei-01-akiya-3nen">【体験談・事例01】相続した空き家を3年放置したケース</a>
-- <a href="/guide/remote-family-home-sale">遠方の実家を売却する方法</a>
-- <a href="/guide/souzoku-touki-gimuka-2years">相続登記の義務化：期限・手続き・罰則を解説</a>
-- <a href="/guide/kaitori-jirei-10sen">訳あり不動産の買取実績10選</a>
+- <a href="/guide/accident-property-sale/">事故物件の売却・買取完全ガイド（告知義務・売却相場・手順）</a>
+- <a href="/guide/osaka-city-yakuari-kaitori/">大阪市の訳あり物件の買取</a>
+- <a href="/guide/souzoku-jirei-01-akiya-3nen/">【相続物件 参考例・事例01】相続した空き家を3年放置したケース</a>
+- <a href="/guide/remote-family-home-sale/">遠方の実家を売却する方法</a>
+- <a href="/guide/souzoku-touki-gimuka-2years/">相続登記の義務化：期限・手続き・罰則を解説</a>

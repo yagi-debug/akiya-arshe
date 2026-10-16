@@ -1,10 +1,10 @@
 ---
 const guideLinks = [
-  { label: "相続不動産の売却", href: "/guide/souzoku-hub" },
-  { label: "再建築不可物件", href: "/guide/saikenchifu-hub" },
-  { label: "事故物件・心理的瑕疵", href: "/guide/jiko-bukken-hub" },
-  { label: "共有持分トラブル", href: "/guide/kyouyuu-mochibun-hub" },
-  { label: "空き家・固定資産税", href: "/guide/vacant-house" },
+  { label: "相続不動産の売却", href: "/guide/parent-death-house/" },
+  { label: "再建築不可物件", href: "/guide/non-rebuildable-property-sale/" },
+  { label: "事故物件・心理的瑕疵", href: "/guide/jiko-bukken-hub/" },
+  { label: "共有持分トラブル", href: "/guide/kyouyuu-mochibun-kaitori/" },
+  { label: "空き家・固定資産税", href: "/guide/akiya-shobun-5-hikaku/" },
   { label: "大阪市の不動産買取", href: "/osaka/" },
 ];
 
@@ -15,13 +15,13 @@ const { variant } = Astro.props;
 
 const siteLinks = [
   { label: "ホーム", href: "/" },
-  ...(variant === "business" ? [] : [{ label: "無料査定の相談準備", href: "/satei" }]),
-  { label: "売却ガイド", href: "/guide" },
-  { label: "対応エリア", href: "/area" },
-  { label: "よくある質問", href: "/faq" },
-  { label: "会社概要", href: "/about" },
-  { label: "お問い合わせ", href: "/contact" },
-  { label: "プライバシーポリシー", href: "/privacy" },
+  ...(variant === "business" ? [] : [{ label: "無料査定の相談準備", href: "/satei/" }]),
+  { label: "売却ガイド", href: "/guide/" },
+  { label: "対応エリア", href: "/area/" },
+  { label: "よくある質問", href: "/faq/" },
+  { label: "会社概要", href: "/about/" },
+  { label: "お問い合わせ", href: "/contact/" },
+  { label: "プライバシーポリシー", href: "/privacy/" },
 ];
 
 const currentYear = new Date().getFullYear();

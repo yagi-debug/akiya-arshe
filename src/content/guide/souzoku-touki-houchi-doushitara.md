@@ -2,6 +2,7 @@
 title: "相続登記を放置したらどうなる？義務化の期限に間に合わない場合の3つの出口【2026年版】"
 description: "「相続登記を放置したらどうなるか」「期限に間に合わない」と不安な方へ。2027年3月31日の経過措置期限まで残り約10ヶ月。放置した場合の3段階リスク（過料・固定資産税増額・売却困難化）と、登記せずに売却する選択肢を含む3つの出口を宅建業者が具体的に解説します。"
 publishDate: "2026-05-14"
+noindex: true
 cluster: "inheritance"
 author: "空き家のミカタ編集部"
 authorTitle: "宅地建物取引業者（大阪府知事(1)第65646号）"
@@ -29,6 +30,8 @@ updatedDate: "2026-09-07"
 </div>
 
 「相続登記を放置したら、いったいどうなるんだろう」「期限に間に合わないかもしれない」——そうした不安を抱えたまま、何ヶ月も動けずにいる方は少なくありません。
+
+このテーマの全体像は[相続登記を放置した実家の売却](/guide/inheritance-registry-neglect-sale-3options/)にまとめています。
 
 結論を先にお伝えします。<strong>放置すれば過料リスクが生じます。でも、今からでも間に合う選択肢があります。</strong>
 
@@ -192,25 +195,24 @@ updatedDate: "2026-09-07"
 
 ## 関連するガイド記事
 
-- <a href="/guide/souzoku-fudousan-shobun-kanzen-guide">相続不動産の処分 完全ガイド2026｜法律・登記・比較表・失敗対策まで一気に解説</a>
-- <a href="/guide/souzoku-hub">相続不動産 完全ハブ｜処分・売却・登記・固定資産税・事例まで全ガイドをまとめて確認【2026年版】</a>
-- <a href="/guide/souzoku-apart-kanzen-guide">相続アパートを手放したい方へ｜売却の流れ・税金・失敗しない判断基準を宅建業者が完全解説【2026年最新】</a>
-- <a href="/guide/akiya-shobun-5-hikaku">空き家処分の5大選択肢を徹底比較【2026年版】費用・期間・手残り額</a>
-- <a href="/guide/akiya-souzoku-urenai">相続した空き家が売れない？3つの原因と4つの出口戦略｜再建築不可・未登記・共有名義も最短14日で現金化【2026年版】</a>
+- <a href="/guide/parent-death-house/">相続不動産の処分 完全ガイド2026｜法律・登記・比較表・失敗対策まで一気に解説</a>
+- <a href="/guide/souzoku-apart-kanzen-guide/">相続アパートを手放したい方へ｜売却の流れ・税金・失敗しない判断基準を宅建業者が完全解説【2026年最新】</a>
+- <a href="/guide/akiya-shobun-5-hikaku/">空き家処分の5大選択肢を徹底比較【2026年版】費用・期間・手残り額</a>
+- <a href="/guide/akiya-souzoku-urenai/">相続した空き家が売れない？3つの原因と4つの出口戦略｜再建築不可・未登記・共有名義も最短14日で現金化【2026年版】</a>
 
 ## ご相談・無料査定はこちら
 
 相続登記が完了していない物件・放置してしまった物件も、当社では幅広くご相談をお受けしています。
 
-大阪市内の物件は特に対応実績が豊富ですが、大阪を中心に、兵庫・京都・奈良・滋賀・和歌山の物件のご相談に対応しています。買取の可否・条件は所在地と物件の状況を確認してご案内します。
+大阪市内の物件は特に対応しやすいエリアですが、大阪を中心に、兵庫・京都・奈良・滋賀・和歌山の物件のご相談に対応しています。買取の可否・条件は所在地と物件の状況を確認してご案内します。
 
 <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06c755;color:#fff;padding:14px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 4px;">LINE「空き家のミカタ」に相談する（無料）</a>
 
-<a href="/contact" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 4px;">無料査定フォームで相談する</a>
+<a href="/contact/" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 4px;">無料査定フォームで相談する</a>
 
 ---
 
 **関連記事**：
-- [相続登記しないと過料10万円？放置リスクと売却で解決する方法](/guide/souzoku-touki-gimuka-karyo)
-- [相続登記義務化の完全対応ガイド【2026年版】](/guide/souzoku-touki-gimuka-kanzen-taiou-2026)
-- [相続登記の費用が払えない・間に合わない場合の対処法](/guide/souzoku-touki-hiyou-haraenai)
+- [相続登記しないと過料10万円？放置リスクと売却で解決する方法](/guide/souzoku-touki-gimuka-karyo/)
+- [相続登記義務化の完全対応ガイド【2026年版】](/guide/inheritance-registry-neglect-sale-3options/)
+- [相続登記の費用が払えない・間に合わない場合の対処法](/guide/souzoku-touki-hiyou-haraenai/)

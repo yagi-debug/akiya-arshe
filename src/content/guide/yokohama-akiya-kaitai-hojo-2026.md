@@ -357,7 +357,7 @@ faqs:
 4. <strong>「上限50万円」を満額もらえると思い込む</strong>。面積限度額（21,800円×延床×1/3）が先に効いて、延床69㎡未満では50万円に届きません。
 5. <strong>長屋・共同住宅で申請しようとする</strong>。住宅除却補助制度では、長屋・共同住宅は特定空家に認定されている場合を除き対象外です。相続したアパートの解体には使いにくい制度です。
 6. <strong>法人名義のまま申請しようとする</strong>。補助対象者は「所有者（法人を除く）」です。
-7. <strong>相続登記が終わっていない</strong>。所有者として申請するには、名義が自分になっていることが前提です。相続登記は2024年4月から義務化されており、正当な理由なく3年以内に登記しない場合は過料の対象になり得ます。詳しくは<a href="/guide/souzoku-touki-gimuka-kanzen-taiou-2026">相続登記義務化の完全対応ガイド</a>をご覧ください。
+7. <strong>相続登記が終わっていない</strong>。所有者として申請するには、名義が自分になっていることが前提です。相続登記は2024年4月から義務化されており、正当な理由なく3年以内に登記しない場合は過料の対象になり得ます。詳しくは<a href="/guide/inheritance-registry-neglect-sale-3options/">相続登記義務化の完全対応ガイド</a>をご覧ください。
 8. <strong>共有名義で全員の同意が取れない</strong>。兄弟姉妹の共有になっている実家は、解体そのものに全員の合意が要ります。連絡が取れない共有者がいると、補助金以前に工事が始められません。
 
 （出典: 横浜市公式ウェブサイト・2026年8月29日確認。7の相続登記義務化は法務省公表資料にもとづきます）
@@ -385,7 +385,7 @@ faqs:
 
 つまり、<strong>解体費180万円の物件なら、いったん180万円を用意する必要があります</strong>。補助43.6万円が戻ってくるのは、工事が終わって報告が受理された後です。
 
-「解体費を先に払えないから補助金を待っている」という状態だと、<strong>この制度は前に進みません</strong>。ここが行き詰まりの原因になっている方は多いです。解体費用そのものが用意できない場合の選択肢は、<a href="/guide/akiya-kaitai-hiyou-haraenai">相続した実家の解体費用が払えないときの3つの方法</a>にまとめています。
+「解体費を先に払えないから補助金を待っている」という状態だと、<strong>この制度は前に進みません</strong>。ここが行き詰まりの原因になっている方は多いです。解体費用そのものが用意できない場合の選択肢は、<a href="/guide/akiya-kaitai-hiyou-haraenai/">相続した実家の解体費用が払えないときの3つの方法</a>にまとめています。
 
 なお建築物不燃化推進事業補助では、令和8年4月1日の改正で<strong>代理受領に関する規定が新設</strong>されました。運用の詳細は担当課にご確認ください。
 
@@ -406,7 +406,7 @@ faqs:
 
 「解体すれば売れる」という思い込みは危険です。横浜市内でも、接道が狭い土地、旗竿地、傾斜地、高低差のある土地は、更地にしても買い手が限られます。<strong>売却の見込みが立つ前に壊すのは、重い選択</strong>です。
 
-詳しくは<a href="/guide/akiya-koteishisanzei-6bai-hikaku">空き家の固定資産税が6倍になる条件と比較</a>で解説しています。なお、放置して<a href="/guide/tokutei-akiya-hantei-checklist">特定空家</a>や<a href="/guide/kanri-fuzen-akiya-shitei-taisho">管理不全空き家</a>に指定された場合も、勧告を受けると住宅用地の特例が外れます。<strong>「壊しても上がる、放置しても上がる」という状況になる前に動くこと</strong>が、いちばん費用を抑えられます。
+詳しくは<a href="/guide/akiya-koteishisanzei-6bai-hikaku/">空き家の固定資産税が6倍になる条件と比較</a>で解説しています。なお、放置して<a href="/guide/tokutei-akiya-hantei-checklist/">特定空家</a>や<a href="/guide/kanri-fuzen-akiya-shitei-taisho/">管理不全空き家</a>に指定された場合も、勧告を受けると住宅用地の特例が外れます。<strong>「壊しても上がる、放置しても上がる」という状況になる前に動くこと</strong>が、いちばん費用を抑えられます。
 
 空き家の相続に伴う固定資産税の減免制度を探している方も多いのですが、<strong>横浜市の解体補助は「税の減免」ではなく「工事費の補助」</strong>です。税の側で効くのは、後述する3,000万円特別控除（譲渡所得税）と、防災広場に貸し付けた場合の非課税措置です。ここは分けて考えてください。
 
@@ -420,15 +420,15 @@ faqs:
 
 ### 相続登記が終わっていない
 
-補助対象者は「解体する建築物の所有者」です。<strong>登記名義が亡くなった親のままでは、所有者として申請できません。</strong>相続登記は2024年4月から義務化され、相続を知った日から3年以内の登記申請が必要です。手続きが止まっている方は<a href="/guide/souzoku-touki-houchi-doushitara">相続登記を放置したらどうなるか</a>もあわせてご覧ください。
+補助対象者は「解体する建築物の所有者」です。<strong>登記名義が亡くなった親のままでは、所有者として申請できません。</strong>相続登記は2024年4月から義務化され、相続を知った日から3年以内の登記申請が必要です。手続きが止まっている方は<a href="/guide/souzoku-touki-houchi-doushitara/">相続登記を放置したらどうなるか</a>もあわせてご覧ください。
 
 ### 共有名義で同意が集まらない
 
-兄弟姉妹で共有している実家は、解体という<strong>変更行為</strong>に全員の同意が必要です。一人でも反対する、あるいは連絡が取れない共有者がいると、補助金の話まで進みません。共有のまま手放す方法は<a href="/guide/kyoyu-meigi-kaitori-osaka">共有名義の不動産を買取で手放す手順</a>で整理しています。
+兄弟姉妹で共有している実家は、解体という<strong>変更行為</strong>に全員の同意が必要です。一人でも反対する、あるいは連絡が取れない共有者がいると、補助金の話まで進みません。共有のまま手放す方法は<a href="/guide/kyoyu-meigi-kaitori-osaka/">共有名義の不動産を買取で手放す手順</a>で整理しています。
 
 ### 相続したアパートを解体したい
 
-ここは特に注意が必要です。<strong>横浜市住宅除却補助制度では、長屋・共同住宅は特定空家に認定されている場合を除いて対象外</strong>です。相続したアパートの売却を検討している場合、解体補助を前提にした計画は立てにくくなります。入居者が残っている場合はさらに、立退きの問題が先に立ちます。相続 アパート売却の全体像は<a href="/guide/souzoku-apart-10months-timeline">相続したアパートを10か月以内に売る逆算タイムライン</a>にまとめています。
+ここは特に注意が必要です。<strong>横浜市住宅除却補助制度では、長屋・共同住宅は特定空家に認定されている場合を除いて対象外</strong>です。相続したアパートの売却を検討している場合、解体補助を前提にした計画は立てにくくなります。入居者が残っている場合はさらに、立退きの問題が先に立ちます。相続 アパート売却の全体像は<a href="/guide/souzoku-apart-10months-timeline/">相続したアパートを10か月以内に売る逆算タイムライン</a>にまとめています。
 
 ### 相続税の申告期限が先に来る
 
@@ -455,7 +455,7 @@ faqs:
 
 窓口は<strong>建築局住宅政策課（045-671-4121）</strong>です。ただし最終的な適用可否の判断は税務署・税理士の領域です。要件は細かく、耐震基準への適合や譲渡価額の上限など、市のページに書かれていない条件もあります。<strong>制度の存在を知ったうえで、必ず専門家に確認してください。</strong>
 
-「令和9年12月31日まで」という期限は、相続からの3年という時計とは別に走っています。<strong>相続してから時間が経っている方は、この日付を先に確認する価値があります。</strong>詳しくは<a href="/guide/souzoku-akiya-3000man-tokubetsu-kojo">相続した空き家の3,000万円特別控除</a>で解説しています。
+「令和9年12月31日まで」という期限は、相続からの3年という時計とは別に走っています。<strong>相続してから時間が経っている方は、この日付を先に確認する価値があります。</strong>詳しくは<a href="/guide/souzoku-akiya-3000man-tokubetsu-kojo/">相続した空き家の3,000万円特別控除</a>で解説しています。
 
 （出典: 横浜市「住宅除却補助制度」「空家を手放したい方へ」・2026年8月29日確認）
 
@@ -521,7 +521,7 @@ A案は売値が高くなりますが、<strong>解体費という大きなマ�
 
 <strong>補助金の申請中は着工できないため、「補助金を使った解体」と「早期の現況買取」を同時に進めることはできません。</strong>だからこそ、動き出す前に両方の見込みを並べておくことが、いちばん無駄がありません。
 
-現況のまま引き渡す進め方は<a href="/guide/souzoku-fudosan-genjou-watashi-kaitori">相続不動産を現況渡しで買取に出す方法</a>、傷みの激しい家の扱いは<a href="/guide/furui-akiya-kekkan-kaitori">古い空き家・欠陥のある家の買取</a>をご覧ください。
+現況のまま引き渡す進め方は<a href="/guide/souzoku-fudosan-genjou-watashi-kaitori/">相続不動産を現況渡しで買取に出す方法</a>、傷みの激しい家の扱いは<a href="/guide/furui-akiya-kekkan-kaitori/">古い空き家・欠陥のある家の買取</a>をご覧ください。
 
 ---
 
@@ -569,13 +569,13 @@ A案は売値が高くなりますが、<strong>解体費という大きなマ�
 
 ### Q. 横浜市以外の空き家についても相談できますか？
 
-はい。空き家のミカタは大阪・滋賀を中心に活動していますが、遠方の相続空き家のご相談も承っています。他都市の解体補助については、<a href="/guide/nagoya-akiya-kaitai-hojo-2026">名古屋市</a>、<a href="/guide/kyoto-akiya-kaitai-hojo-2026">京都市</a>、<a href="/guide/osaka-ku-akiya-hojo-madoguchi-2026">大阪市24区</a>の記事もご用意しています。
+はい。空き家のミカタは大阪・滋賀を中心に活動していますが、遠方の相続空き家のご相談も承っています。他都市の解体補助については、<a href="/guide/nagoya-akiya-kaitai-hojo-2026/">名古屋市</a>、<a href="/guide/kyoto-akiya-kaitai-hojo-2026/">京都市</a>、<a href="/guide/osaka-ku-akiya-hojo-madoguchi-2026/">大阪市24区</a>の記事もご用意しています。
 
 ---
 
 <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" target="_blank" rel="noopener noreferrer"><strong>LINEで無料相談する（横浜市の空き家・実家の買取査定・古家付きOK）</strong></a>
 
-<a href="/contact"><strong>お問い合わせフォームはこちら</strong></a>
+<a href="/contact/"><strong>お問い合わせフォームはこちら</strong></a>
 
 ---
 
@@ -626,22 +626,22 @@ A案は売値が高くなりますが、<strong>解体費という大きなマ�
 
 <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" target="_blank" rel="noopener noreferrer"><strong>LINEで無料相談する（横浜市の空き家・実家の買取査定・古家付きOK）</strong></a>
 
-<a href="/contact"><strong>お問い合わせフォームはこちら</strong></a>
+<a href="/contact/"><strong>お問い合わせフォームはこちら</strong></a>
 
 ---
 
 ## 関連するガイド記事
 
-- [相続した実家の解体費用が払えない｜補助金・現況買取で費用ゼロで手放す3つの方法](/guide/akiya-kaitai-hiyou-haraenai)
-- [名古屋市の空き家解体補助金【2026年度】上限額と申請窓口](/guide/nagoya-akiya-kaitai-hojo-2026)
-- [京都市の空き家解体補助金【令和8年度・2026年度】上限60万円の条件と申請窓口](/guide/kyoto-akiya-kaitai-hojo-2026)
-- [大阪市の空き家解体補助金2026年度｜24区窓口一覧](/guide/osaka-ku-akiya-hojo-madoguchi-2026)
-- [空き家の固定資産税が6倍になる条件と比較](/guide/akiya-koteishisanzei-6bai-hikaku)
-- [特定空家の判定チェックリスト｜指定される前にできること](/guide/tokutei-akiya-hantei-checklist)
-- [管理不全空き家に指定されたときの対処法](/guide/kanri-fuzen-akiya-shitei-taisho)
-- [相続した空き家の3,000万円特別控除](/guide/souzoku-akiya-3000man-tokubetsu-kojo)
-- [古い空き家・欠陥のある家の買取｜傷んだ家でも現況のまま手放す](/guide/furui-akiya-kekkan-kaitori)
-- [空き家の買取｜固定資産税6倍リスクのある空き家を今すぐ現金化](/guide/akiya-kaitori)
+- [相続した実家の解体費用が払えない｜補助金・現況買取で費用ゼロで手放す3つの方法](/guide/akiya-kaitai-hiyou-haraenai/)
+- [名古屋市の空き家解体補助金【2026年度】上限額と申請窓口](/guide/nagoya-akiya-kaitai-hojo-2026/)
+- [京都市の空き家解体補助金【令和8年度・2026年度】上限60万円の条件と申請窓口](/guide/kyoto-akiya-kaitai-hojo-2026/)
+- [大阪市の空き家解体補助金2026年度｜24区窓口一覧](/guide/osaka-ku-akiya-hojo-madoguchi-2026/)
+- [空き家の固定資産税が6倍になる条件と比較](/guide/akiya-koteishisanzei-6bai-hikaku/)
+- [特定空家の判定チェックリスト｜指定される前にできること](/guide/tokutei-akiya-hantei-checklist/)
+- [管理不全空き家に指定されたときの対処法](/guide/kanri-fuzen-akiya-shitei-taisho/)
+- [相続した空き家の3,000万円特別控除](/guide/souzoku-akiya-3000man-tokubetsu-kojo/)
+- [古い空き家・欠陥のある家の買取｜傷んだ家でも現況のまま手放す](/guide/furui-akiya-kekkan-kaitori/)
+- [空き家の処分方法の比較](/guide/akiya-shobun-5-hikaku/)
 
 ---
-- <a href="/guide/souzoku-hub">相続不動産 完全ハブ｜処分・売却・登記・固定資産税・事例まで全ガイドをまとめて確認【2026年版】</a>
+- <a href="/guide/parent-death-house/">相続した家の売り方と手続き</a>

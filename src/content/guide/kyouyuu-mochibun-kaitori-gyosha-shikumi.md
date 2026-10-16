@@ -105,7 +105,7 @@ updatedDate: "2026-09-07"
 
 差額の約175万円が、上の表の項目に分解されている金額です。<strong>この175万円が「何のために引かれているのか」を数字で説明できない業者は、避けたほうが安全です。</strong>
 
-持分割合・物件種別ごとの早見表は<a href="/guide/kyouyuu-mochibun-kaitori-soba">共有持分の買取相場の詳細ページ</a>に計算式つきでまとめています。
+持分割合・物件種別ごとの早見表は<a href="/guide/kyouyuu-mochibun-kaitori-soba/">共有持分の買取相場の詳細ページ</a>に計算式つきでまとめています。
 
 ---
 
@@ -150,7 +150,7 @@ updatedDate: "2026-09-07"
 
 つまり<strong>「売るかどうか決めるまでは知られない。売ったあとは必ず知られる」</strong>というのが正確な線引きです。「一生知られずに処分できる」と説明する業者があれば、その説明は正しくありません。
 
-査定段階のプライバシーの詳細と、話し合いがまとまらないときの法的な選択肢は<a href="/guide/kyouyuu-mochibun-naisho-satei">共有持分は兄弟に内緒で査定できる？知られるのは登記のあと</a>にまとめています。
+査定段階のプライバシーの詳細と、話し合いがまとまらないときの法的な選択肢は<a href="/guide/kyouyuu-mochibun-naisho-satei/">共有持分は兄弟に内緒で査定できる？知られるのは登記のあと</a>にまとめています。
 
 ---
 
@@ -180,7 +180,7 @@ updatedDate: "2026-09-07"
 
 「いつ、誰に、何を伝えるのか」を書面で確認してください。口頭の約束では、あとから食い違いが起きます。
 
-代表的な手口とその対処法は<a href="/guide/akusha-gyosha-5-teguchi-mikiwake">訳あり不動産買取の悪質業者5つの手口｜騙されない見分け方</a>で詳しく整理しています。
+代表的な手口とその対処法は<a href="/guide/akusha-gyosha-5-teguchi-mikiwake/">訳あり不動産買取の悪質業者5つの手口｜騙されない見分け方</a>で詳しく整理しています。
 
 ---
 
@@ -206,11 +206,11 @@ updatedDate: "2026-09-07"
 
 <strong>建物の評価が下がり続けます。</strong>買取額は建物の状態を反映するため、10年の放置は査定額そのものを押し下げます。上の例で言えば、今325万円前後の持分が10年後も同じ金額とは限りません。
 
-<strong>解体すると土地の税額が上がります。</strong>建物を取り壊すと住宅用地の特例が外れ、土地の固定資産税の課税標準が上がります。「まず解体して更地に」という判断が裏目に出ることがあります。仕組みは<a href="/guide/akiya-koteishisanzei-6bai-hikaku">空き家固定資産税6倍化の回避策と売却タイミング</a>にまとめています。
+<strong>解体すると土地の税額が上がります。</strong>建物を取り壊すと住宅用地の特例が外れ、土地の固定資産税の課税標準が上がります。「まず解体して更地に」という判断が裏目に出ることがあります。仕組みは<a href="/guide/akiya-koteishisanzei-6bai-hikaku/">空き家固定資産税6倍化の回避策と売却タイミング</a>にまとめています。
 
 <strong>共有者が増えます。</strong>共有者の一人が亡くなると、その持分は相続人に分かれて引き継がれます。3人だった共有者が5人、7人と増えていく形です。人数が増えるほど全員の同意は取りにくくなり、出口1（他の共有者への売却）が成立しにくくなるため、査定額にも影響します。<strong>「そのうち話し合おう」で放置するのが、選択肢を最も減らす判断です。</strong>
 
-判断材料として、持分を売る以外の方法との比較は<a href="/guide/kyoyuu-mochibun-teigi-hikaku">共有持分とは｜定義・持分割合の意味・処分方法4つの比較表</a>をご覧ください。訴訟で解決する場合の実務は<a href="/guide/kyouyuu-butsu-bunkatsu-seikyu-jitsumu">共有物分割請求の流れ・期間・費用</a>で解説しています。
+判断材料として、持分を売る以外の方法との比較は<a href="/guide/kyoyuu-mochibun-teigi-hikaku/">共有持分とは｜定義・持分割合の意味・処分方法4つの比較表</a>をご覧ください。訴訟で解決する場合の実務は<a href="/guide/kyouyuu-butsu-bunkatsu-seikyu-jitsumu/">共有物分割請求の流れ・期間・費用</a>で解説しています。
 
 ---
 
@@ -254,7 +254,7 @@ updatedDate: "2026-09-07"
 
 <strong>[LINEで無料相談する（24時間受付）](https://line.arshe1719.workers.dev/auth/line?ref=hp)</strong>
 
-<strong>[お問い合わせフォームはこちら](/contact)</strong>
+<strong>[お問い合わせフォームはこちら](/contact/)</strong>
 
 相談無料・秘密厳守。査定の段階で他の共有者へご連絡することはありません。
 
@@ -262,14 +262,12 @@ updatedDate: "2026-09-07"
 
 ## 関連するガイド記事
 
-- [共有持分の買取・売却方法｜同意不要で最短2週間現金化](/guide/kyouyuu-mochibun-kaitori)
-- [共有持分の買取相場はいくら？持分割合・物件種別・地域別の計算式](/guide/kyouyuu-mochibun-kaitori-soba)
-- [共有持分は兄弟に内緒で査定できる？知られるのは登記のあと](/guide/kyouyuu-mochibun-naisho-satei)
-- [共有持分とは｜定義・持分割合の意味・処分方法4つの比較表](/guide/kyoyuu-mochibun-teigi-hikaku)
-- [共有物分割請求の流れ・期間・費用](/guide/kyouyuu-butsu-bunkatsu-seikyu-jitsumu)
-- [訳あり不動産買取の悪質業者5つの手口｜騙されない見分け方](/guide/akusha-gyosha-5-teguchi-mikiwake)
-- [共有持分Q&Aハブ｜18の疑問に回答](/guide/kyouyuu-mochibun-qa-hub)
-- [共有持分 完全ハブ｜売却・買取・トラブル解決・相場まで](/guide/kyouyuu-mochibun-hub)
+- [共有持分の買取・売却方法｜同意不要で最短2週間現金化](/guide/kyouyuu-mochibun-kaitori/)
+- [共有持分の買取相場はいくら？持分割合・物件種別・地域別の計算式](/guide/kyouyuu-mochibun-kaitori-soba/)
+- [共有持分は兄弟に内緒で査定できる？知られるのは登記のあと](/guide/kyouyuu-mochibun-naisho-satei/)
+- [共有持分とは｜定義・持分割合の意味・処分方法4つの比較表](/guide/kyoyuu-mochibun-teigi-hikaku/)
+- [共有物分割請求の流れ・期間・費用](/guide/kyouyuu-butsu-bunkatsu-seikyu-jitsumu/)
+- [訳あり不動産買取の悪質業者5つの手口｜騙されない見分け方](/guide/akusha-gyosha-5-teguchi-mikiwake/)
 
 ---
 

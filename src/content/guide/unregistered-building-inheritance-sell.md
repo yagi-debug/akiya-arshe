@@ -16,13 +16,15 @@ faqs:
   - question: "相続人が複数いる場合、表題登記はどう進めますか？"
     answer: "表題登記自体は相続人の代表者1名が申請できますが、その後の所有権保存登記・相続登記では相続人全員の合意（遺産分割協議書）が必要です。司法書士と土地家屋調査士が連携して対応してくれる業者を選ぶと、手続きがスムーズです。"
   - question: "未登記建物のまま買取業者に相談できますか？"
-    answer: "はい、できます。当社への相談の多くは未登記の状態からスタートしています。表題登記・相続登記が完了していなくても、まず現状をお聞きして、登記と売却を同時に進める方針を一緒に立てることができます。"
+    answer: "はい、できます。未登記の状態からのご相談も少なくありません。表題登記・相続登記が完了していなくても、まず現状をお聞きして、登記と売却を同時に進める方針を一緒に立てることができます。"
 updatedDate: "2026-09-07"
 ---
 
 <img src="/images/unregistered-building-inheritance-sell-hero.jpg" alt="相続した未登記建物のイメージ　古い家屋の外観" width="1200" height="800" style="width:100%;height:auto;border-radius:8px;margin-bottom:1.5rem;" />
 
 <strong>未登記建物を相続した場合、売却には「表題登記 → 所有権保存登記 → 相続登記」の順に手続きを完了させる必要があります。</strong>ただし、買取業者に依頼すれば、土地家屋調査士・司法書士と連携しながら登記と売却を同時並行で進めることができます。
+
+関連する内容は[増築・未登記部分がある家の売却](/guide/unregistered-addition-property-sale/)で詳しく解説しています。
 
 「親が亡くなって、実家の建物が法務局に登記されていないことがわかった」——こうしたご相談が増えています。特に昭和30〜50年代に建てられた建物は、当時の慣行から登記されていないケースが少なくありません。国土交通省の調査でも、未登記建物は全国に200〜300万棟以上存在すると推計されています。
 
@@ -221,7 +223,7 @@ A. 早ければ早いほど選択肢が広がります。「まだ表題登記�
 
 登記が完了していない状態のままご相談いただいても問題ありません。まず現状をお聞きして、次のステップをご提案します。
 
-相続登記義務化の詳細については<a href="/guide/souzoku-touki-gimuka-kanzen-taiou-2026">相続登記義務化 完全対応ガイド2026</a>もあわせてご覧ください。未登記の不動産の売却全般については<a href="/guide/mitouki-fudosan-kaitori">未登記の空き家・相続アパートは売れる？登記前に売る方法を宅建業者が解説</a>もご参考ください。
+相続登記義務化の詳細については<a href="/guide/inheritance-registry-neglect-sale-3options/">相続登記義務化 完全対応ガイド2026</a>もあわせてご覧ください。未登記の不動産の売却全般については<a href="/guide/mitouki-fudosan-kaitori/">未登記の空き家・相続アパートは売れる？登記前に売る方法を宅建業者が解説</a>もご参考ください。
 
 ## ご相談はこちら（無料・大阪・近畿対応）
 
@@ -237,9 +239,9 @@ A. 早ければ早いほど選択肢が広がります。「まだ表題登記�
 
 整理してから相談したい方は、お問い合わせフォームをご利用ください。
 
-<a href="/contact" style="display:inline-block;background:#2563eb;color:white;padding:12px 24px;border-radius:8px;text-decoration:none;font-weight:bold;margin:0.5rem 0;">お問い合わせフォームへ</a>
+<a href="/contact/" style="display:inline-block;background:#2563eb;color:white;padding:12px 24px;border-radius:8px;text-decoration:none;font-weight:bold;margin:0.5rem 0;">お問い合わせフォームへ</a>
 
 宅建業免許: 大阪府知事(1)第65646号
 ---
 
-**このカテゴリの全ガイド一覧:** [→ 相続不動産 完全ハブ【2026年版】](/guide/souzoku-hub)
+**このカテゴリの中心の記事:** [→ 相続した家の売り方と手続き](/guide/parent-death-house/)

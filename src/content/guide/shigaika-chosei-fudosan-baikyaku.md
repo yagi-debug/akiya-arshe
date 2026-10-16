@@ -46,38 +46,6 @@ updatedDate: "2026-09-07"
 }
 </script>
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "市街化調整区域の不動産は売れますか？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "売れます。ただし一般的な仲介では住宅ローンが使いにくいため買い手が付きにくく、仲介業者に断られるケースが多いです。訳あり買取専門業者は自社で物件を購入するため、住宅ローンの制限を受けません。"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "市街化調整区域の買取価格の目安はいくらですか？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "同等の市街化区域の物件と比べて20〜40%程度低くなるケースが多いです。市街化調整区域は原則として建替えや新築が制限されるため、土地の評価が低くなります。"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "市街化調整区域の空き家を放置するとどうなりますか？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "建物の自然劣化が進む一方で固定資産税はかかり続けます。最悪の場合「特定空き家」に指定され、固定資産税の住宅用地特例が解除されて税額が最大6倍に跳ね上がる可能性があります。"
-      }
-    }
-  ]
-}
-</script>
 
 > **まずここだけ読んでください**
 > - <strong>市街化調整区域の不動産は「売れない」ではなく「通常の仲介では難しい」</strong>
@@ -250,7 +218,7 @@ LINEまたはお問い合わせフォームから相談。物件の住所・築�
 
 **Q: 農地が含まれる市街化調整区域の物件でも買い取ってもらえますか？**
 
-農地が含まれる場合は農地法の制限が加わり、農業委員会の許可が必要になる場合があります。ただし、農地を含む物件の買取実績もありますので、まずご相談ください。状況に応じた対応方法をご説明します。
+農地が含まれる場合は農地法の制限が加わり、農業委員会の許可が必要になる場合があります。ただし、農地を含む物件もご相談いただけますので、まずご相談ください。状況に応じた対応方法をご説明します。
 
 **Q: 市街化調整区域に建つ古い家（築40年以上）でも査定してもらえますか？**
 
@@ -270,11 +238,10 @@ LINEまたはお問い合わせフォームから相談。物件の住所・築�
 
 ## 関連するガイド記事
 
-- <a href="/guide/kaitori-jirei-10sen">訳あり不動産の買取実績10選｜相続・再建築不可・事故物件・共有持分・空き家の解決事例集</a>
-- <a href="/guide/kaitori-jirei">訳あり不動産の買取事例5選｜相続アパート・再建築不可・事故物件の解決ストーリー</a>
-- <a href="/guide/osaka-kaitori-jirei">大阪市内の訳あり不動産買取事例集｜再建築不可・事故物件・共有持分・空き家・相続アパートの5事例</a>
-- <a href="/guide/jiko-bukken-hub">事故物件 完全ハブ｜買取・告知義務・心理的瑕疵・価格相場まで全ガイドまとめ【2026年版】</a>
-- <a href="/guide/kenchiku-kijunho-ihan-bukken-baikyaku">建築基準法違反物件を売りたい｜仲介で断られた物件を買取で現金化する方法【大阪・近畿対応】</a>
+- <a href="/guide/osaka-city-yakuari-kaitori/">大阪市の訳あり物件の買取</a>
+- <a href="/guide/kyouyuu-mochibun-kaitori/">共有持分の買取・売却方法</a>
+- <a href="/guide/jiko-bukken-hub/">事故物件 完全ハブ｜買取・告知義務・心理的瑕疵・価格相場まで全ガイドまとめ【2026年版】</a>
+- <a href="/guide/kenchiku-kijunho-ihan-bukken-baikyaku/">建築基準法違反物件を売りたい｜仲介で断られた物件を買取で現金化する方法【大阪・近畿対応】</a>
 
 ## まとめ
 
@@ -292,12 +259,12 @@ LINEまたはお問い合わせフォームから相談。物件の住所・築�
 
 https://line.arshe1719.workers.dev/auth/line?ref=hp
 
-**お問い合わせフォームはこちら** → [/contact](/contact)
+**お問い合わせフォームはこちら** → [/contact/](/contact/)
 
 ---
 
 関連記事：
-- [訳あり不動産とは？5種類の特徴と売却方法を比較](/guide/wakare-bukken-to-wa)
-- [空き家処分の5大選択肢を徹底比較【2026年版】](/guide/akiya-shobun-5-hikaku)
-- [【体験談・事例09】市街化調整区域の実家を24日で現金化した全記録](/guide/souzoku-jirei-09-shigaika-chosei-kaitori)
-- [相続した不動産の売り方 完全ガイド2026年版](/guide/souzoku-fudousan-urikata-kanzen-guide)
+- [訳あり不動産とは？5種類の特徴と売却方法を比較](/guide/wakare-bukken-to-wa/)
+- [空き家処分の5大選択肢を徹底比較【2026年版】](/guide/akiya-shobun-5-hikaku/)
+- [【参考例・事例09】市街化調整区域の実家を相続。仲介3社に断られ2年間固定資産税を払い続けた末に、24日で現金化したケース](/guide/souzoku-jirei-09-shigaika-chosei-kaitori/)
+- [相続した不動産の売り方 完全ガイド2026年版](/guide/parent-death-house/)

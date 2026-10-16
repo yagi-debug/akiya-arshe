@@ -30,6 +30,8 @@ howToSteps:
 
 親や親族が亡くなり不動産を相続したところ、登記簿謄本を取得したら「根抵当権」の記載があった——こうした状況に戸惑われる方は少なくありません。「根抵当権ってそもそも何？」「抹消しないと売れないの？」「残債が多くて手が出せない」という疑問をお持ちの方に向けて、処分までの流れをわかりやすく整理します。
 
+このテーマの全体像は[相続した家の売り方と手続き](/guide/parent-death-house/)にまとめています。
+
 <strong>根抵当権が残っていても、不動産を売ることはできます。①根抵当権を抹消してから売る方法と②根抵当権付きのまま訳あり物件の買取専門業者に売る方法の2択です。</strong>どちらが最善かは残債額と不動産の価値のバランスによります。
 
 ---
@@ -124,7 +126,7 @@ howToSteps:
 - 金融機関と任意売却について交渉する（残債の一部を免除してもらう形で売却する方法）
 - 相続放棄を検討する（ただし3か月以内の期限あり）
 
-任意売却については[任意売却（ニンバイ）完全ガイド](/guide/ninibaikyaku-guide)もご参照ください。
+任意売却については[任意売却の流れと費用・注意点](/guide/osaka-nini-baikyaku-kyosai-calendar/)もご参照ください。
 
 ---
 
@@ -176,9 +178,9 @@ howToSteps:
 
 売却を進めるためには、<strong>まず相続登記（名義変更）が完了していることが前提</strong>になります。2024年4月1日より相続登記が義務化されており、相続を知った日から<strong>3年以内</strong>に登記申請をしなければ<strong>10万円以下の過料</strong>の対象になります（不動産登記法76条の2）。
 
-相続登記がまだの場合は先に完了させてから買取相談に進みましょう。相続登記の手続きについては[相続登記義務化の完全対応ガイド](/guide/souzoku-touki-gimuka-kanzen-taiou-2026)もご参照ください。
+相続登記がまだの場合は先に完了させてから買取相談に進みましょう。相続登記の手続きについては[相続登記義務化の完全対応ガイド](/guide/inheritance-registry-neglect-sale-3options/)もご参照ください。
 
-また、相続不動産全般の処分方法については[相続不動産の処分 完全ガイド2026](/guide/souzoku-fudousan-shobun-kanzen-guide)もあわせてご覧ください。
+また、相続不動産全般の処分方法については[相続不動産の処分 完全ガイド2026](/guide/parent-death-house/)もあわせてご覧ください。
 
 ---
 
@@ -216,7 +218,7 @@ A. 普通の抵当権は住宅ローンなど特定の借入を担保するも�
 
 ---
 
-**このカテゴリの全ガイド一覧:** [→ 相続不動産 完全ハブ【2026年版】](/guide/souzoku-hub)
+**このカテゴリの中心の記事:** [→ 相続した家の売り方と手続き](/guide/parent-death-house/)
 
 ---
 
@@ -225,4 +227,4 @@ A. 普通の抵当権は住宅ローンなど特定の借入を担保するも�
 根抵当権が付いた不動産の処分に困っている方のご相談を受け付けています。残債あり・複雑な権利関係・相続人が複数いるなど、難しい状況でもお気軽にご連絡ください。査定・相談は無料で、しつこい営業は行いません。
 
 <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06C755;color:#fff;padding:14px 32px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 8px 8px 0;">LINEで無料相談（即日対応）</a>
-<a href="/contact" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 32px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 0;">お問い合わせフォーム</a>
+<a href="/contact/" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 32px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 0;">お問い合わせフォーム</a>

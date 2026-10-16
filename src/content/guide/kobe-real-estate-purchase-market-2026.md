@@ -136,7 +136,7 @@ LINEまたはフォームから、物件の状況（エリア・築年数・接�
 
 ## 神戸市でよくある相談ケース
 
-以下は、実際に寄せられた相談の例です。
+以下は、よくある状況をもとにした参考例です（実在の取引ではありません）。
 
 <strong>①長田区の再建築不可戸建て（築48年・前面道路幅2.8m）</strong>
 接道義務を満たさないため通常売却が難しく、仲介3社に断られた状態でのご相談。現況のまま直接買取で対応できました。
@@ -173,12 +173,12 @@ A. 早期対応をおすすめします。特定空き家に指定されると�
 
 ## 関連する記事
 
-- <a href="/area/kobe-city">神戸市の不動産買取相場概要（エリア別データ）</a>
-- <a href="/area/hyogo-pref">兵庫県の不動産買取相場</a>
-- <a href="/guide/akiya-kaitori">空き家買取ガイド｜固定資産税6倍リスクを避ける方法</a>
-- <a href="/guide/inheritance-sale">相続した不動産を売却する完全ガイド</a>
-- <a href="/guide/saikenchifu-kaitori">再建築不可物件の売却方法と注意点</a>
-- <a href="/guide/kyouyuu-mochibun-kaitori">共有持分の売却ガイド</a>
+- <a href="/area/kobe-city/">神戸市の不動産買取相場概要（エリア別データ）</a>
+- <a href="/area/hyogo-pref/">兵庫県の不動産買取相場</a>
+- <a href="/guide/akiya-shobun-5-hikaku/">空き家の処分方法の比較</a>
+- <a href="/guide/parent-death-house/">相続した不動産を売却する完全ガイド</a>
+- <a href="/guide/non-rebuildable-property-sale/">再建築不可物件の売却方法と注意点</a>
+- <a href="/guide/kyouyuu-mochibun-kaitori/">共有持分の売却ガイド</a>
 
 ---
 
@@ -192,6 +192,6 @@ A. 早期対応をおすすめします。特定空き家に指定されると�
 
 「空き家のミカタ」を友だち追加してください
 
-<a href="/contact" style="display:inline-block;border:2px solid rgba(255,255,255,0.4);color:#fff;padding:0.5rem 1.5rem;border-radius:8px;font-weight:bold;text-decoration:none;margin-top:0.5rem;">フォームで相談する</a>
+<a href="/contact/" style="display:inline-block;border:2px solid rgba(255,255,255,0.4);color:#fff;padding:0.5rem 1.5rem;border-radius:8px;font-weight:bold;text-decoration:none;margin-top:0.5rem;">フォームで相談する</a>
 
 </section>

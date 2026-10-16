@@ -320,7 +320,7 @@ faqs:
 
 見落とされやすいのが<strong>6の「後払い」</strong>です。解体費用はいったん<strong>全額を自分で支払う</strong>必要があり、補助金が振り込まれるのはそのあとです。「20万円の助成が出るから」と資金計画を立てても、支払いのタイミングでは満額の現金が必要になります。手元資金が足りない場合は、<strong>解体そのものを前提にしない選択肢</strong>を先に検討したほうが現実的です。
 
-解体費用の工面が難しい場合の考え方は、[相続した実家の解体費用が払えないときの3つの方法](/guide/akiya-kaitai-hiyou-haraenai)で詳しくまとめています。
+解体費用の工面が難しい場合の考え方は、[相続した実家の解体費用が払えないときの3つの方法](/guide/akiya-kaitai-hiyou-haraenai/)で詳しくまとめています。
 
 ---
 
@@ -332,7 +332,7 @@ faqs:
 
 つまり、<strong>解体費を自己負担で払ったうえに、翌年から税金が上がる</strong>という順番になります。売却がすぐに決まらないと、この状態が続きます。
 
-一方で、<strong>特定空家等や管理不全空家等に指定されて勧告を受けた場合も、住宅用地の特例が外れます</strong>。放置し続けた場合も税負担は上がるということです。詳しくは[空き家の固定資産税が6倍になる条件と比較](/guide/akiya-koteishisanzei-6bai-hikaku)と[特定空家の判定チェックリスト](/guide/tokutei-akiya-hantei-checklist)で整理しています。
+一方で、<strong>特定空家等や管理不全空家等に指定されて勧告を受けた場合も、住宅用地の特例が外れます</strong>。放置し続けた場合も税負担は上がるということです。詳しくは[空き家の固定資産税が6倍になる条件と比較](/guide/akiya-koteishisanzei-6bai-hikaku/)と[特定空家の判定チェックリスト](/guide/tokutei-akiya-hantei-checklist/)で整理しています。
 
 > **宅建業者の視点**: 「解体して更地にすれば売りやすくなる」と考える方は多いのですが、更地にした瞬間から<strong>税金の時計が速く回り始めます</strong>。売却の見込みが立っていない段階で先に壊すのは、実はリスクの取り方としては重い選択です。
 
@@ -353,7 +353,7 @@ faqs:
 | 固定資産税 | 更地にすると<strong>翌年度から上がる</strong> | 建物がある間は住宅用地の特例が続く |
 | 向いている人 | 条件をすべて満たし、時間と資金に余裕がある | 条件を満たさない・早く手放したい・解体費を出したくない |
 
-訳あり物件を専門に扱う買取であれば、<strong>旧耐震・再建築不可・傾きや雨漏りがある家</strong>でも、現況のまま買い取れる場合があります。共有名義や相続登記が済んでいないケースも、状況を伺ったうえでご相談に応じられることがあります。建物の傷みが理由で断られた経験のある方は、[古い空き家・欠陥のある家の買取](/guide/furui-akiya-kekkan-kaitori)もあわせてご覧ください。
+訳あり物件を専門に扱う買取であれば、<strong>旧耐震・再建築不可・傾きや雨漏りがある家</strong>でも、現況のまま買い取れる場合があります。共有名義や相続登記が済んでいないケースも、状況を伺ったうえでご相談に応じられることがあります。建物の傷みが理由で断られた経験のある方は、[古い空き家・欠陥のある家の買取](/guide/furui-akiya-kekkan-kaitori/)もあわせてご覧ください。
 
 ---
 
@@ -407,7 +407,7 @@ Aの見込みは、<strong>解体業者の見積もり</strong>と<strong>更地
 
 <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" target="_blank" rel="noopener noreferrer"><strong>LINEで無料相談する（名古屋市の空き家・実家の買取査定・古家付きOK）</strong></a>
 
-<a href="/contact"><strong>お問い合わせフォームはこちら</strong></a>
+<a href="/contact/"><strong>お問い合わせフォームはこちら</strong></a>
 
 ---
 
@@ -426,14 +426,14 @@ Aの見込みは、<strong>解体業者の見積もり</strong>と<strong>更地
 
 ## 関連するガイド記事
 
-- [相続した実家の解体費用が払えない｜補助金・現況買取で費用ゼロで手放す3つの方法](/guide/akiya-kaitai-hiyou-haraenai)
-- [大阪市の空き家解体補助金2026年度｜24区窓口一覧](/guide/osaka-ku-akiya-hojo-madoguchi-2026)
-- [京都市の空き家解体補助金【令和8年度・2026年度】上限60万円の条件と申請窓口](/guide/kyoto-akiya-kaitai-hojo-2026)
-- [空き家の固定資産税が6倍になる条件と比較](/guide/akiya-koteishisanzei-6bai-hikaku)
-- [特定空家の判定チェックリスト｜指定される前にできること](/guide/tokutei-akiya-hantei-checklist)
-- [管理不全空き家に指定されたときの対処法](/guide/kanri-fuzen-akiya-shitei-taisho)
-- [古い空き家・欠陥のある家の買取｜傷んだ家でも現況のまま手放す](/guide/furui-akiya-kekkan-kaitori)
-- [空き家の買取｜固定資産税6倍リスクのある空き家を今すぐ現金化](/guide/akiya-kaitori)
+- [相続した実家の解体費用が払えない｜補助金・現況買取で費用ゼロで手放す3つの方法](/guide/akiya-kaitai-hiyou-haraenai/)
+- [大阪市の空き家解体補助金2026年度｜24区窓口一覧](/guide/osaka-ku-akiya-hojo-madoguchi-2026/)
+- [京都市の空き家解体補助金【令和8年度・2026年度】上限60万円の条件と申請窓口](/guide/kyoto-akiya-kaitai-hojo-2026/)
+- [空き家の固定資産税が6倍になる条件と比較](/guide/akiya-koteishisanzei-6bai-hikaku/)
+- [特定空家の判定チェックリスト｜指定される前にできること](/guide/tokutei-akiya-hantei-checklist/)
+- [管理不全空き家に指定されたときの対処法](/guide/kanri-fuzen-akiya-shitei-taisho/)
+- [古い空き家・欠陥のある家の買取｜傷んだ家でも現況のまま手放す](/guide/furui-akiya-kekkan-kaitori/)
+- [空き家の処分方法の比較](/guide/akiya-shobun-5-hikaku/)
 
 ---
-- <a href="/guide/souzoku-hub">相続不動産 完全ハブ｜処分・売却・登記・固定資産税・事例まで全ガイドをまとめて確認【2026年版】</a>
+- <a href="/guide/parent-death-house/">相続した家の売り方と手続き</a>

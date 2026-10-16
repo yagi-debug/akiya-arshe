@@ -40,6 +40,8 @@ howToSteps:
 
 <strong>相続した不動産を売却するには、まず「遺産分割協議書」を作成して相続人全員で合意する必要があります。</strong>この書類が整っていないと、相続登記（名義変更）ができず、売却もできません。
 
+このテーマの全体像は[相続した家の売り方と手続き](/guide/parent-death-house/)にまとめています。
+
 > <strong>この記事でわかること</strong>
 > - 遺産分割協議書とは何か・なぜ必要か
 > - 作成手順4ステップと記載すべき内容
@@ -47,7 +49,7 @@ howToSteps:
 > - 揉めた時の対処法（調停・審判・不在者管理人）
 > - 全員合意が難しい時に買取が解決策になるケース
 
-相続が発生してから「何をどの順番でやればいいか」わからない方は多いです。この記事では、宅建業者として実際の相談事例をもとに、遺産分割協議書の基礎から売却完了までを整理してお伝えします。
+相続が発生してから「何をどの順番でやればいいか」わからない方は多いです。この記事では、宅建業者の立場から、よくあるご相談の状況をふまえて、遺産分割協議書の基礎から売却完了までを整理してお伝えします。
 
 ## 遺産分割協議書とは何か
 
@@ -188,11 +190,10 @@ howToSteps:
 
 ## 関連するガイド記事
 
-- <a href="/guide/souzoku-apart-kanzen-guide">相続アパートを手放したい方へ｜売却の流れ・税金・失敗しない判断基準を宅建業者が完全解説【2026年最新】</a>
-- <a href="/guide/souzoku-fudousan-shobun-kanzen-guide">相続不動産の処分 完全ガイド2026｜法律・登記・比較表・失敗対策まで一気に解説</a>
-- <a href="/guide/souzoku-fudousan-urikata-kanzen-guide">【2026年版】相続した不動産の売り方 完全ガイド｜実務手順・費用・業者選定を買取業者が解説</a>
-- <a href="/guide/akiya-shobun-5-hikaku">空き家処分の5大選択肢を徹底比較【2026年版】費用・期間・手残り額</a>
-- <a href="/guide/akiya-kaitai-hiyou-haraenai">相続した実家の解体費用が払えない｜補助金・現況買取で費用ゼロで手放す3つの方法</a>
+- <a href="/guide/souzoku-apart-kanzen-guide/">相続アパートを手放したい方へ｜売却の流れ・税金・失敗しない判断基準を宅建業者が完全解説【2026年最新】</a>
+- <a href="/guide/parent-death-house/">相続不動産の処分 完全ガイド2026｜法律・登記・比較表・失敗対策まで一気に解説</a>
+- <a href="/guide/akiya-shobun-5-hikaku/">空き家処分の5大選択肢を徹底比較【2026年版】費用・期間・手残り額</a>
+- <a href="/guide/akiya-kaitai-hiyou-haraenai/">相続した実家の解体費用が払えない｜補助金・現況買取で費用ゼロで手放す3つの方法</a>
 
 ## まとめ：まず相続人の確定と協議から始めましょう
 
@@ -211,8 +212,8 @@ howToSteps:
   <p style="font-weight:bold;margin-bottom:0.5rem;">相続不動産の無料相談</p>
   <p style="margin-bottom:1rem;">遺産分割協議書の作成・相続登記・売却まで、<strong>宅建業者が丁寧にサポートします。</strong>物件の状態・場所・築年数は問いません。</p>
   <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06C755;color:#fff;padding:0.75rem 1.5rem;border-radius:4px;text-decoration:none;font-weight:bold;margin-right:1rem;">LINEで無料相談する</a>
-  <a href="/contact" style="display:inline-block;background:#1a56db;color:#fff;padding:0.75rem 1.5rem;border-radius:4px;text-decoration:none;font-weight:bold;">お問い合わせフォームへ</a>
+  <a href="/contact/" style="display:inline-block;background:#1a56db;color:#fff;padding:0.75rem 1.5rem;border-radius:4px;text-decoration:none;font-weight:bold;">お問い合わせフォームへ</a>
 </div>
 ---
 
-**このカテゴリの全ガイド一覧:** [→ 相続不動産 完全ハブ【2026年版】](/guide/souzoku-hub)
+**このカテゴリの中心の記事:** [→ 相続した家の売り方と手続き](/guide/parent-death-house/)

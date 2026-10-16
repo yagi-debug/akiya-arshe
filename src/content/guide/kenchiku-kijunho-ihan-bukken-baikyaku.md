@@ -2,6 +2,7 @@
 title: "建築基準法違反物件を売りたい｜仲介で断られた物件を買取で現金化する方法【大阪・近畿対応】"
 description: "建築基準法に違反している物件（容積率超過・無確認建築・接道義務違反など）は仲介では売りにくいですが、買取専門業者なら現況のまま売却できます。違反建築の種類・売却が難しい理由・価格への影響・買取の流れを宅建業者が解説します。"
 publishDate: "2026-06-03"
+noindex: true
 author: "空き家のミカタ編集部"
 authorTitle: "宅地建物取引業者（大阪府知事(1)第65646号）"
 heroImage: "/images/kenchiku-kijunho-ihan-bukken-hero.jpg"
@@ -21,6 +22,8 @@ updatedDate: "2026-09-07"
 ---
 
 「相続した実家を確認したら、増改築を繰り返していて建ぺい率をオーバーしていた」「仲介業者に相談したら"住宅ローンが使えない物件は取り扱えない"と断られた」——そんなご相談が当社には多く届きます。<strong>建築基準法に違反している物件でも、買取専門業者への直接売却であれば現況のまま売ることができます。</strong>仲介手数料はかかりません。
+
+関連する内容は[無届増改築・違反建築の家の売り方](/guide/illegal-extension-building-sell/)で詳しく解説しています。
 
 > <strong>建築基準法違反物件の売却 — まとめ</strong>
 > - <strong>仲介では売りにくい</strong>：住宅ローン利用不可のため買い手がつきにくい
@@ -153,17 +156,17 @@ updatedDate: "2026-09-07"
 - 是正工事費・解体費がかからないため、トータルの手取りが多くなるケースも
 - 告知義務は必須。正直に開示したうえで最適な方法を選ぶことが重要
 
-まずは現況の状態でどのくらいの価格になるか、無料査定でご確認ください。[再建築不可物件の売却方法](/guide/saikenchifu-hub)や[境界未確定地の売却](/guide/souzoku-fudosan-kyokai-toraburu)も合わせてご参照いただけます。
+まずは現況の状態でどのくらいの価格になるか、無料査定でご確認ください。[再建築不可物件の売却方法](/guide/non-rebuildable-property-sale/)や[境界未確定地の売却](/guide/souzoku-fudosan-kyokai-toraburu/)も合わせてご参照いただけます。
 
 ---
 
 ## 関連するガイド記事
 
-- <a href="/guide/saikenchifu-osaka-uri-jirei">大阪市の再建築不可物件｜仲介で売れなかった3つの失敗パターンと買取解決事例3件【2026年版】</a>
-- <a href="/guide/saikenchifu-hub">再建築不可物件 完全ハブ｜売却・買取・価格相場・事例まで全ガイドまとめ【2026年版】</a>
-- <a href="/guide/saikenchifu-kaitori-jirei">再建築不可物件の買取事例5選｜袋地・2m未満接道・旗竿地の解決ストーリー</a>
-- <a href="/guide/shigaika-chosei-fudosan-baikyaku">市街化調整区域の不動産は売れる？仲介で断られても買取で現金化できる理由【大阪・近畿対応】</a>
-- <a href="/guide/osaka-kaitori-vs-chukai">大阪市の不動産｜買取と仲介どっちが得？金額シミュレーションで比較</a>
+- <a href="/guide/saikenchifu-osaka-uri-jirei/">大阪市の再建築不可物件｜仲介で売れなかった3つの失敗パターンと買取解決事例3件【2026年版】</a>
+- <a href="/guide/non-rebuildable-property-sale/">再建築不可物件の売却方法</a>
+- <a href="/guide/saikenchifu-kaitori-jirei/">再建築不可物件の買取 参考事例5選｜袋地・2m未満接道・旗竿地の解決ストーリー</a>
+- <a href="/guide/shigaika-chosei-fudosan-baikyaku/">市街化調整区域の不動産は売れる？仲介で断られても買取で現金化できる理由【大阪・近畿対応】</a>
+- <a href="/guide/osaka-kaitori-vs-chukai/">大阪市の不動産｜買取と仲介どっちが得？金額シミュレーションで比較</a>
 
 
 → <a href="/satei/">無料査定の相談準備メモ（入力任意）</a>　所在地や入居状況を整理できます。価格は物件を確認して個別にご案内します。
@@ -181,6 +184,6 @@ updatedDate: "2026-09-07"
   </ul>
   <p>
     <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block; background:#06C755; color:#fff; padding:0.8em 2em; border-radius:4px; text-decoration:none; font-weight:bold; margin-right:1em;">LINEで無料相談する</a>
-    <a href="/contact" style="display:inline-block; background:#0070f3; color:#fff; padding:0.8em 2em; border-radius:4px; text-decoration:none; font-weight:bold;">お問い合わせフォーム</a>
+    <a href="/contact/" style="display:inline-block; background:#0070f3; color:#fff; padding:0.8em 2em; border-radius:4px; text-decoration:none; font-weight:bold;">お問い合わせフォーム</a>
   </p>
 </div>

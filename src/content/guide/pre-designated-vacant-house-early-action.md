@@ -2,6 +2,7 @@
 title: "特定空家に指定される前に動く｜行政指導5段階と早期売却の判断基準"
 description: "特定空家の指定に至るまでの行政プロセス5段階と、各段階で取るべき行動を宅建業者が解説。固定資産税6倍化・行政代執行を回避するための早期売却判断基準もわかりやすく紹介します。"
 publishDate: "2026-06-18"
+noindex: true
 author: "空き家のミカタ編集部"
 authorTitle: "宅地建物取引業者（大阪府知事(1)第65646号）"
 heroImage: "/images/pre-designated-vacant-house-early-action-hero.jpg"
@@ -22,6 +23,8 @@ cluster: "akiya-tax"
 <img src="/images/pre-designated-vacant-house-early-action-hero.jpg" alt="老朽化した空き家の外観。特定空家に指定される前に対策を行うことで行政指導のリスクを回避できる" width="1200" height="800" style="width:100%;height:auto;border-radius:8px;margin-bottom:1.5rem;" />
 
 「特定空家に指定されると何が起こるのか、どの順番で進むのかよくわからない」——そういったご相談をいただくことがよくあります。特定空家の問題は「指定されたらどうする」より、<strong>「指定される前のどの段階で動くか」が、費用と手間の差を大きく左右します</strong>。
+
+関連する内容は[市役所から空き家の通知が届いたとき](/guide/osaka-kanri-fuzen-tsuchi-todoita/)で詳しく解説しています。
 
 <strong>市区町村が空き家を把握してから特定空家として指定されるまでには、発見・調査・認定・行政指導という複数の段階があります。</strong>それぞれの段階で取れる選択肢が違い、放置するほど選択肢は狭まります。
 
@@ -238,11 +241,10 @@ cluster: "akiya-tax"
 
 ## 関連するガイド記事
 
-- <a href="/guide/tokutei-akiya-hantei-checklist">特定空き家に指定される前に確認｜固定資産税6倍化の判定チェックリストと5ステップ回避策</a>
-- <a href="/guide/akiya-koteishisanzei-6bai-hikaku">空き家固定資産税6倍化の回避策と売却タイミング比較</a>
-- <a href="/guide/akiya-shobun-5-hikaku">空き家処分の5大選択肢を徹底比較【2026年版】費用・期間・手残り額</a>
-- <a href="/guide/akiya-gyosei-shobun-map-2026">【2026年版】空き家の行政処分マップ｜全国の代執行事例と自治体別対応状況</a>
-- <a href="/guide/akiya-kaitori">空き家の買取｜現況のまま現金化する方法</a>
+- <a href="/guide/tokutei-akiya-hantei-checklist/">特定空き家に指定される前に確認｜固定資産税6倍化の判定チェックリストと5ステップ回避策</a>
+- <a href="/guide/akiya-koteishisanzei-6bai-hikaku/">空き家固定資産税6倍化の回避策と売却タイミング比較</a>
+- <a href="/guide/akiya-shobun-5-hikaku/">空き家処分の5大選択肢を徹底比較【2026年版】費用・期間・手残り額</a>
+- <a href="/guide/akiya-gyosei-shobun-map-2026/">【2026年版】空き家の行政処分マップ｜全国の代執行事例と自治体別対応状況</a>
 
 ---
 
@@ -259,11 +261,11 @@ cluster: "akiya-tax"
   <p style="margin:0 0 1rem;">LINE「空き家のミカタ」で簡単に相談できます。物件の写真・住所をお送りいただくだけでOKです。</p>
   <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06c755;color:#fff;padding:0.75rem 2rem;border-radius:4px;text-decoration:none;font-weight:bold;">LINEで無料相談する</a>
   <span style="display:inline-block;margin-left:1rem;">または</span>
-  <a href="/contact" style="display:inline-block;margin-left:0.5rem;color:#15803d;font-weight:bold;">メールフォームで相談する →</a>
+  <a href="/contact/" style="display:inline-block;margin-left:0.5rem;color:#15803d;font-weight:bold;">メールフォームで相談する →</a>
 </div>
 
 関連記事もあわせてご確認ください：
-- <a href="/guide/tokutei-akiya-hantei-checklist">特定空き家に指定される前に確認｜固定資産税6倍化の判定チェックリストと5ステップ回避策</a>
-- <a href="/guide/akiya-koteishisanzei-6bai-hikaku">空き家固定資産税6倍化の回避策と売却タイミング比較</a>
-- <a href="/guide/akiya-kotei-shisan-zei-haraenai">固定資産税が払えないとき｜4つの選択肢と対応方法</a>
-- <a href="/guide/akiya-kaitori">空き家の買取｜現況のまま現金化する方法</a>
+- <a href="/guide/tokutei-akiya-hantei-checklist/">特定空き家に指定される前に確認｜固定資産税6倍化の判定チェックリストと5ステップ回避策</a>
+- <a href="/guide/akiya-koteishisanzei-6bai-hikaku/">空き家固定資産税6倍化の回避策と売却タイミング比較</a>
+- <a href="/guide/akiya-kotei-shisan-zei-haraenai/">固定資産税が払えないとき｜4つの選択肢と対応方法</a>
+- <a href="/guide/akiya-shobun-5-hikaku/">空き家の処分方法の比較</a>

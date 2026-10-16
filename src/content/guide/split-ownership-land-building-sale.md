@@ -32,6 +32,8 @@ howToSteps:
 
 相続が起きたとき、「土地は父名義、建物は母名義」「土地は兄、建物は弟」というように、<strong>土地と建物の名義が別々の人になる</strong>ことがあります。こうした「名義バラバラ」の状態は、売却や相続手続きを大きく複雑にします。
 
+このテーマの全体像は[共有持分の買取・売却方法](/guide/kyouyuu-mochibun-kaitori/)にまとめています。
+
 <strong>土地と建物の名義が別人でも、全員が合意すれば一体での売却は可能です。</strong>ただし1人でも反対すると手続きが止まり、放置すればするほど問題が大きくなります。
 
 この記事では、名義バラバラになる原因・放置した場合のリスク・売却の具体的な手順・合意が取れない場合の対処法まで、順を追って説明します。
@@ -172,7 +174,7 @@ howToSteps:
 
 仲介売却の場合、買主が見つかるまで数か月〜1年以上かかることがあります。買取業者であれば<strong>最短数日〜数週間</strong>で現金化でき、固定資産税の負担や相続登記の遅延リスクを抑えられます。仲介手数料もかかりません。
 
-過去の相談事例では「兄が土地・弟が建物を相続し、どちらも管理できず困っていた」というケースで、両者が買取に合意し、登記手続きも含めて2か月で解決したというケースがありました。
+たとえば「兄が土地・弟が建物を相続し、どちらも管理できず困っている」というケースでは、両者が買取に合意できれば、登記手続きも含めて短期間で解決できる場合があります。
 
 ---
 
@@ -209,7 +211,7 @@ A. 買取価格は仲介売却より1〜3割程度低くなることが多いで
 
 ---
 
-**このカテゴリの全ガイド一覧:** [→ 相続不動産 完全ハブ【2026年版】](/guide/souzoku-hub)
+**このカテゴリの中心の記事:** [→ 相続した家の売り方と手続き](/guide/parent-death-house/)
 
 ---
 
@@ -218,4 +220,4 @@ A. 買取価格は仲介売却より1〜3割程度低くなることが多いで
 土地と建物の名義が複数にわたる物件、相続登記がまだの物件、共有持分の処分など、複雑な状況でもお気軽にご相談ください。査定・相談は無料で、しつこい営業は行いません。
 
 <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06C755;color:#fff;padding:14px 32px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 8px 8px 0;">LINEで無料相談（即日対応）</a>
-<a href="/contact" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 32px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 0;">お問い合わせフォーム</a>
+<a href="/contact/" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 32px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 0;">お問い合わせフォーム</a>

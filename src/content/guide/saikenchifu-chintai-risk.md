@@ -23,6 +23,8 @@ cluster: "non-rebuildable"
 
 再建築不可物件を相続・取得した方から「賃貸に出して家賃収入を得られないか」というご相談をよくいただきます。結論から申し上げると、<strong>再建築不可物件の賃貸経営は、通常の物件に比べてリスクが格段に高く、2025年4月の建築基準法改正によってさらに難しくなっています。</strong>
 
+このテーマの全体像は[再建築不可物件の売却方法](/guide/non-rebuildable-property-sale/)にまとめています。
+
 この記事では、再建築不可物件を賃貸に出す前に必ず知っておくべきリスクと、2025年法改正が賃貸経営に与える影響、そして現実的な選択肢を宅建業者の視点から解説します。
 
 ## 再建築不可物件とは
@@ -150,10 +152,9 @@ A：問題ありません。建物の状態がどのような状態であって�
 
 ## 関連するガイド記事
 
-- <a href="/guide/non-rebuildable-property-sale">再建築不可物件は売れる？4つの売却方法と相場</a>
-- <a href="/guide/saikenchifu-kaitori">再建築不可物件の買取｜最短3日・現況そのまま</a>
-- <a href="/guide/saikenchifu-kaitori-souba">再建築不可物件の買取相場｜査定前に知っておくこと</a>
-- <a href="/guide/wakeare-bukken-5shu-hikaku">訳あり物件5種類の比較と最適な売却方法</a>
+- <a href="/guide/non-rebuildable-property-sale/">再建築不可物件は売れる？4つの売却方法と相場</a>
+- <a href="/guide/saikenchifu-kaitori-souba/">再建築不可物件の買取相場｜査定前に知っておくこと</a>
+- <a href="/guide/wakeare-bukken-5shu-hikaku/">訳あり物件5種類の比較と最適な売却方法</a>
 
 ## 再建築不可物件の処分、まずは無料査定から
 
@@ -161,14 +162,14 @@ A：問題ありません。建物の状態がどのような状態であって�
 
 <strong><a href="https://line.arshe1719.workers.dev/auth/line?ref=hp">LINEで無料相談する</a></strong>
 
-<a href="/contact">お問い合わせフォームはこちら</a>
+<a href="/contact/">お問い合わせフォームはこちら</a>
 
 メール：<a href="mailto:info.arshe@arshe-corp.com">info.arshe@arshe-corp.com</a>
 
 
 ## 関連するガイド記事
 
-- <a href="/guide/saikenchifu-hub">再建築不可 完全ハブ｜買取・接道・建替えできない物件の処分ガイドまとめ</a>
+- <a href="/guide/non-rebuildable-property-sale/">再建築不可物件の売却方法</a>
 
 相談無料・秘密厳守・大阪・近畿対応
 

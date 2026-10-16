@@ -5,6 +5,7 @@ import RegionalConsultation from "../../components/RegionalConsultation.astro";
 import { SERVICE_PREFECTURES } from "../../data/service-area.mjs";
 import ClosedAreaNotice from '../../components/ClosedAreaNotice.astro';
 import Breadcrumb from '../../components/Breadcrumb.astro';
+import FAQ from '../../components/FAQ.astro';
 
 export async function getStaticPaths() {
   const areas = await getCollection('area');
@@ -34,12 +35,12 @@ const isOsakaWard = entry.data.prefecture === '大阪府' && entry.data.areaName
 const breadcrumbs = isOsakaWard
   ? [
       { name: 'ホーム', url: '/' },
-      { name: '大阪市の訳あり物件買取', url: '/osaka' },
+      { name: '大阪市の訳あり物件買取', url: '/osaka/' },
       { name: `大阪市${entry.data.areaName}`, url: `/area/${entry.id}/` },
     ]
   : [
       { name: 'ホーム', url: '/' },
-      { name: 'エリア相場', url: '/area' },
+      { name: 'エリア相場', url: '/area/' },
       { name: entry.data.areaName, url: `/area/${entry.id}/` },
     ];
 
@@ -121,20 +122,53 @@ const genericFaqEntities = [
   },
 ];
 
-const areaFaqSchema = {
+// 構造化データは「画面に見える内容」と一致させる（2026-10-11 恒久対策。guide テンプレートと同じ考え方）。
+// 本文に質問が無い FAQ（frontmatter の faqs、無ければ共通 FAQ）は本文の直後に画面表示する。
+// 本文に質問があるものは、答えも本文にあるときだけ構造化データに出す。
+// 公開前の検査 scripts/check-schema-visible.mjs が dist の全 HTML で一致を確かめる。
+const normalizeForMatch = (s: string) =>
+  String(s ?? '')
+    .replace(/<[^>]*>/g, '')
+    .replace(/\[([^\]]*)\]\([^)]*\)/g, '$1')
+    .replace(/[*_#>|`~\\]/g, '')
+    .replace(/[\s　]+/g, '');
+// 本文に埋め込まれた <script>（手書きの JSON-LD など）・<style>・コメントは画面に出ないので、判定から除く
+const bodyNorm = normalizeForMatch(
+  (entry.body ?? '')
+    .replace(/<!--[\s\S]*?-->/g, '')
+    .replace(/<(script|style|noscript|template)\b[\s\S]*?<\/\1\s*>/gi, '')
+);
+const inBody = (text: string) => {
+  const t = normalizeForMatch(text);
+  return t.length > 0 && bodyNorm.includes(t);
+};
+const genericFaqs = genericFaqEntities.map((e) => ({
+  question: e.name,
+  answer: e.acceptedAnswer.text,
+}));
+const allFaqs = entry.data.faqs ?? genericFaqs;
+const faqsToShow = allFaqs.filter((faq) => !inBody(faq.question));
+const faqsForSchema = allFaqs.filter((faq) => !inBody(faq.question) || inBody(faq.answer));
+// 本文に自前の「よくある質問」節がある地域ページでは見出しを重ねない。id は本文が #faq を持つときだけ変える（目次の #faq を生かす）
+const bodyHasFaqId = /id=["']faq["']/.test(entry.body ?? '');
+const bodyHasFaq = bodyHasFaqId
+  || /^#{2,3}[^\n]*(よくあるご?質問|Q&A|FAQ)/m.test(entry.body ?? '')
+  || /<h[23][^>]*>[^<]*(よくあるご?質問|Q&amp;A|Q&A|FAQ)/.test(entry.body ?? '');
+const faqHeading = bodyHasFaq ? 'ほかによくある質問' : 'よくある質問';
+const faqId = bodyHasFaqId ? 'faq-more' : 'faq';
+
+const areaFaqSchema = faqsForSchema.length > 0 ? {
   "@context": "https://schema.org",
   "@type": "FAQPage",
-  "mainEntity": entry.data.faqs
-    ? entry.data.faqs.map((faq) => ({
-        "@type": "Question",
-        "name": faq.question,
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": faq.answer,
-        },
-      }))
-    : genericFaqEntities,
-};
+  "mainEntity": faqsForSchema.map((faq) => ({
+    "@type": "Question",
+    "name": faq.question,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": faq.answer,
+    },
+  })),
+} : null;
 
 const localBusinessSchema = {
   "@type": "LocalBusiness",
@@ -273,8 +307,16 @@ const articleSchema = {
       prose-a:text-accent prose-a:no-underline hover:prose-a:underline
     ">
       <Content />
+      {faqsToShow.length > 0 && (
+        <section id={faqId} aria-labelledby={`${faqId}-heading`}>
+          <h2 id={`${faqId}-heading`}>{faqHeading}</h2>
+          <div class="not-prose">
+            <FAQ items={faqsToShow} />
+          </div>
+        </section>
+      )}
       <p class="mt-8">
-        <a href="/satei" class="font-bold text-accent hover:underline">無料査定の相談準備メモを作る →</a>
+        <a href="/satei/" class="font-bold text-accent hover:underline">無料査定の相談準備メモを作る →</a>
       </p>
     </div>
 
@@ -287,7 +329,7 @@ const articleSchema = {
         <strong class="text-text">相談準備メモ</strong>で所在地や入居状況を整理できます。入力は任意で、自動送信されません。価格は物件を確認して個別にご案内します。
       </p>
       <a
-        href="/satei"
+        href="/satei/"
         class="mb-3 inline-flex w-full items-center justify-center rounded-lg bg-accent px-8 py-4 text-base font-bold text-white shadow transition-all hover:opacity-90 hover:shadow-md sm:w-auto"
       >
         相談準備メモを作る（無料） →
@@ -312,10 +354,10 @@ const articleSchema = {
       <div class="mt-10 rounded-lg border border-accent/30 bg-accent/5 p-4">
         <p class="mb-1 text-xs font-bold text-accent">大阪市24区の訳あり物件買取 総合ハブ</p>
         <p class="mb-2 text-sm text-text">
-          このページは「<a href="/osaka" class="font-bold text-accent hover:underline">大阪市の訳あり物件買取（24区エリア）</a>」のクラスターページです。
+          このページは「<a href="/osaka/" class="font-bold text-accent hover:underline">大阪市の訳あり物件買取（24区エリア）</a>」のクラスターページです。
           他の区の相場・事例や物件種別ガイドは総合ハブページでまとめてご確認いただけます。
         </p>
-        <a href="/osaka" class="text-sm font-bold text-accent hover:underline">→ 大阪市24区ハブページを見る</a>
+        <a href="/osaka/" class="text-sm font-bold text-accent hover:underline">→ 大阪市24区ハブページを見る</a>
       </div>
     )}
 
@@ -329,7 +371,7 @@ const articleSchema = {
       </p>
       <div class="grid gap-3 md:grid-cols-2">
         <a
-          href="/guide/souzoku-apart-kaitori"
+          href="/guide/souzoku-apart-kanzen-guide/"
           class="flex items-start gap-3 rounded-lg border border-border p-4 transition-all hover:border-accent hover:shadow-md"
         >
           <span class="mt-0.5 flex h-10 w-10 shrink-0 items-center justify-center rounded-full bg-accent-soft text-accent">
@@ -341,7 +383,7 @@ const articleSchema = {
           </div>
         </a>
         <a
-          href="/guide/akiya-kaitori"
+          href="/guide/akiya-shobun-5-hikaku/"
           class="flex items-start gap-3 rounded-lg border border-border p-4 transition-all hover:border-accent hover:shadow-md"
         >
           <span class="mt-0.5 flex h-10 w-10 shrink-0 items-center justify-center rounded-full bg-accent-soft text-accent">
@@ -353,7 +395,7 @@ const articleSchema = {
           </div>
         </a>
         <a
-          href="/guide/saikenchifu-kaitori"
+          href="/guide/non-rebuildable-property-sale/"
           class="flex items-start gap-3 rounded-lg border border-border p-4 transition-all hover:border-accent hover:shadow-md"
         >
           <span class="mt-0.5 flex h-10 w-10 shrink-0 items-center justify-center rounded-full bg-accent-soft text-accent">
@@ -365,7 +407,7 @@ const articleSchema = {
           </div>
         </a>
         <a
-          href="/guide/jiko-bukken-kaitori"
+          href="/guide/jiko-bukken-hub/"
           class="flex items-start gap-3 rounded-lg border border-border p-4 transition-all hover:border-accent hover:shadow-md"
         >
           <span class="mt-0.5 flex h-10 w-10 shrink-0 items-center justify-center rounded-full bg-accent-soft text-accent">
@@ -377,7 +419,7 @@ const articleSchema = {
           </div>
         </a>
         <a
-          href="/guide/kyouyuu-mochibun-kaitori"
+          href="/guide/kyouyuu-mochibun-kaitori/"
           class="flex items-start gap-3 rounded-lg border border-border p-4 transition-all hover:border-accent hover:shadow-md"
         >
           <span class="mt-0.5 flex h-10 w-10 shrink-0 items-center justify-center rounded-full bg-accent-soft text-accent">
@@ -389,7 +431,7 @@ const articleSchema = {
           </div>
         </a>
         <a
-          href="/guide/sokochi-kaitori"
+          href="/guide/sokochi-kaitori/"
           class="flex items-start gap-3 rounded-lg border border-border p-4 transition-all hover:border-accent hover:shadow-md"
         >
           <span class="mt-0.5 flex h-10 w-10 shrink-0 items-center justify-center rounded-full bg-accent-soft text-accent">

@@ -7,7 +7,7 @@ import Breadcrumb from '../../components/Breadcrumb.astro';
 
 const breadcrumbs = [
   { name: 'ホーム', url: '/' },
-  { name: 'エリア相場', url: '/area' },
+  { name: 'エリア相場', url: '/area/' },
 ];
 
 const areas = await getCollection('area', ({ data }) => data.prefecture === '大阪府' && !data.noindex);
@@ -81,7 +81,7 @@ const formatPrice = (price: number) => `${(price / 10000).toFixed(0)}万円`;
                 </td>
                 <td class="px-4 py-3 text-center">
                   <a
-                    href={`/area/${area.id}`}
+                    href={`/area/${area.id}/`}
                     class="inline-block rounded bg-accent px-3 py-1 text-xs font-bold text-white transition-colors hover:bg-accent-light"
                   >
                     詳しく見る

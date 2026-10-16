@@ -46,60 +46,14 @@ updatedDate: "2026-09-07"
 }
 </script>
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "大阪市のハザードマップ指定区域にある不動産は売れますか？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "売れます。洪水浸水想定区域・土砂災害警戒区域の物件でも、2020年の宅建業法改正で定められた告知義務を果たした上で売却できます。訳あり買取専門業者なら現況のまま対応できます。"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "大阪市のハザードマップはどこで確認できますか？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "国土交通省の「重ねるハザードマップ」（disaportal.gsi.go.jp）で住所を入力するだけで確認できます。大阪市公式サイトでも各区の水害ハザードマップが公開されています。"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "重要事項説明でハザードマップの告知を怠るとどうなりますか？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "宅建業者が仲介する場合は宅建業法違反となり行政処分の対象になります。個人間売買でも、民法上の契約不適合責任に基づく損害賠償請求や契約解除のリスクがあります。"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "売却前にハザードマップの区域を解除することはできますか？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "個人では解除できません。告知した上で訳あり買取専門業者への売却が現実的な方法です。"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "相続した大阪市の物件がハザードマップ区域内でしたが、相続登記が終わっていません。相談できますか？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "相談・査定は可能です。売買契約には相続登記の完了が必要ですが、事前相談は未登記でも問題ありません。提携司法書士の紹介もできます。"
-      }
-    }
-  ]
-}
-</script>
 
 ---
 
 ![大阪市の住宅街。河川沿いや海岸部には洪水浸水想定区域・土砂災害警戒区域が指定されている区が多い](/images/osaka-24ku-hazardmap-hero.jpg)
 
 「相続した大阪市内の実家を売ろうとしたら、ハザードマップに引っかかった」「重要事項説明でハザードマップをどう説明すればいいかわからない」——こうしたご相談は、大阪市内の物件で特に多く寄せられます。
+
+このテーマの全体像は[大阪市の訳あり物件の買取](/guide/osaka-city-yakuari-kaitori/)にまとめています。
 
 大阪市は淀川・大和川・寝屋川などの大河川に囲まれた低平地であり、かつ大阪湾に面しているため、<strong>全24区のうち相当数の区で洪水浸水想定区域・高潮浸水想定区域が広がっています。</strong>また南部・東部の一部には土砂災害警戒区域も存在します。
 
@@ -265,6 +219,6 @@ updatedDate: "2026-09-07"
 
 **お問い合わせフォームはこちら**
 
-<a href="/contact" style="display:inline-block;background:#1a56db;color:#fff;padding:12px 24px;border-radius:6px;font-weight:bold;text-decoration:none;">無料査定・お問い合わせ</a>
+<a href="/contact/" style="display:inline-block;background:#1a56db;color:#fff;padding:12px 24px;border-radius:6px;font-weight:bold;text-decoration:none;">無料査定・お問い合わせ</a>
 
 宅地建物取引業者（大阪府知事(1)第65646号）が直接対応します。

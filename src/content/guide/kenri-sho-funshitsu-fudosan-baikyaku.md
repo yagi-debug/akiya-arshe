@@ -141,7 +141,7 @@ A: いいえ、売れます。権利証がなくても、法律が認めた2つ�
 
 2024年4月1日から<strong>相続登記が法律上の義務</strong>となりました。不動産を相続したことを知った日から3年以内に登記しなければ、10万円以下の過料（行政上のペナルティ）が科される可能性があります。
 
-権利証の有無に関わらず、まず相続登記を完了させることが先決です。詳しくは「<a href="/guide/inheritance-registry">相続登記義務化の完全ガイド【2024年4月施行】</a>」もご参照ください。
+権利証の有無に関わらず、まず相続登記を完了させることが先決です。詳しくは「<a href="/guide/inheritance-registry-neglect-sale-3options/">相続登記義務化の完全ガイド【2024年4月施行】</a>」もご参照ください。
 
 <img src="/images/kenri-sho-funshitsu-consultation.jpg" alt="不動産の売却について専門家に相談している様子" width="1200" height="800" style="width:100%;height:auto;border-radius:8px;margin-bottom:1.5rem;" />
 
@@ -186,5 +186,5 @@ A: いいえ、売れます。権利証がなくても、法律が認めた2つ�
 <p>書類の不備・紛失がある物件でも、現況のまま査定いたします。<br>司法書士との連携で手続きも丸ごとサポートします。</p>
 <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" target="_blank" rel="noopener noreferrer" style="display:inline-block;background:#06C755;color:#fff;padding:0.75rem 2rem;border-radius:8px;font-weight:bold;text-decoration:none;margin-top:1rem;">LINEで無料相談する</a>
 <p style="margin-top:0.5rem;font-size:0.9rem;">「空き家のミカタ」を友だち追加してください</p>
-<a href="/contact" style="display:inline-block;border:2px solid rgba(255,255,255,0.4);color:#fff;padding:0.5rem 1.5rem;border-radius:8px;font-weight:bold;text-decoration:none;margin-top:0.5rem;">フォームで相談する</a>
+<a href="/contact/" style="display:inline-block;border:2px solid rgba(255,255,255,0.4);color:#fff;padding:0.5rem 1.5rem;border-radius:8px;font-weight:bold;text-decoration:none;margin-top:0.5rem;">フォームで相談する</a>
 </section>

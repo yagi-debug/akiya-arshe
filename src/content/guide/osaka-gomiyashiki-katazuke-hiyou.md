@@ -187,7 +187,7 @@ updatedDate: "2026-09-07"
 
 遺産分割が終わっていない段階では、実家の中の物も相続財産です。一人の判断で大量に処分すると、後から「価値のある物を勝手に捨てた」と言われることがあります。<strong>作業前に各部屋の全景写真を撮っておくだけで、この種のトラブルはかなり防げます。</strong>骨董品・貴金属・有価証券・通帳が出てくることもあるため、まとめて捨てる前に一度目を通してください。
 
-物の種類ごとの扱いについては、<a href="/guide/movables-disposal-sell-as-is">残置物・動産を処分せずに不動産を売る方法</a>で詳しく整理しています。
+物の種類ごとの扱いについては、<a href="/guide/movables-disposal-sell-as-is/">残置物・動産を処分せずに不動産を売る方法</a>で詳しく整理しています。
 
 ## 全額片付けてから売る場合と、残置物ごと現況買取に出す場合の手残り比較
 
@@ -231,7 +231,7 @@ updatedDate: "2026-09-07"
 - 相続人が複数いて、早く現金化して分けたい
 - 建物が古く、片付けてもリフォームや解体が必要になる可能性が高い
 
-ゴミ屋敷状態の物件を仲介で売ろうとすると、そもそも内見ができないという問題にぶつかります。この点については<a href="/guide/gomiyashiki-bukken-kaitori">ゴミ屋敷・汚部屋の不動産を売りたい｜片付け不要の現況買取</a>で詳しく解説しています。
+ゴミ屋敷状態の物件を仲介で売ろうとすると、そもそも内見ができないという問題にぶつかります。この点については<a href="/guide/gomiyashiki-bukken-kaitori/">ゴミ屋敷・汚部屋の不動産を売りたい｜片付け不要の現況買取</a>で詳しく解説しています。
 
 ## よくある質問
 
@@ -257,13 +257,13 @@ updatedDate: "2026-09-07"
 
 ## 関連するガイド記事
 
-- <a href="/guide/gomiyashiki-bukken-kaitori">ゴミ屋敷・汚部屋の不動産を売りたい｜片付け不要の現況買取を解説</a>
-- <a href="/guide/movables-disposal-sell-as-is">残置物・動産を処分せずに不動産を売る方法</a>
-- <a href="/guide/katazukenaide-soudan">片付けないでご相談ください｜実家7つの状態別・手残り比較</a>
-- <a href="/guide/akiya-koteishisanzei-6bai-hikaku">空き家の固定資産税が6倍に？特定空き家の条件と回避する方法</a>
-- <a href="/guide/souzoku-touki-gimuka-karyo">相続登記の義務化と10万円以下の過料｜期限と対処法</a>
-- <a href="/guide/akiya-kaitori">空き家の買取｜放置している空き家を現金化する方法</a>
-- <a href="/guide/inheritance-sale">相続した不動産を売却する完全ガイド</a>
+- <a href="/guide/gomiyashiki-bukken-kaitori/">ゴミ屋敷・汚部屋の不動産を売りたい｜片付け不要の現況買取を解説</a>
+- <a href="/guide/movables-disposal-sell-as-is/">残置物・動産を処分せずに不動産を売る方法</a>
+- <a href="/guide/katazukenaide-soudan/">片付けないでご相談ください｜実家7つの状態別・手残り比較</a>
+- <a href="/guide/akiya-koteishisanzei-6bai-hikaku/">空き家の固定資産税が6倍に？特定空き家の条件と回避する方法</a>
+- <a href="/guide/souzoku-touki-gimuka-karyo/">相続登記の義務化と10万円以下の過料｜期限と対処法</a>
+- <a href="/guide/akiya-shobun-5-hikaku/">空き家の処分方法の比較</a>
+- <a href="/guide/parent-death-house/">相続した不動産を売却する完全ガイド</a>
 
 ## 片付けの前に、まず現況のまま査定してみてください
 
@@ -273,7 +273,7 @@ updatedDate: "2026-09-07"
 
 <strong><a href="https://line.arshe1719.workers.dev/auth/line?ref=hp">LINEで無料相談する</a></strong>
 
-<a href="/contact">お問い合わせフォームはこちら</a>
+<a href="/contact/">お問い合わせフォームはこちら</a>
 
 メール：<a href="mailto:info.arshe@arshe-corp.com">info.arshe@arshe-corp.com</a>
 

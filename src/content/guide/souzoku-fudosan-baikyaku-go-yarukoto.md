@@ -34,7 +34,7 @@ faqs:
 
 実際にいただくご相談でも、<strong>「売却して3か月経つのに、まだ管理費が引かれている」</strong>というお困りごとは毎年うかがいます。決して珍しいことではありません。
 
-この記事では、引き渡しのあとに残る手続きを7つに整理しました。相続した実家の売却をこれから検討される方は、[相続した家をどうしたらいい？判断の入口まとめ](/guide/souzoku-ie-doushitara-hub)もあわせてご覧ください。
+この記事では、引き渡しのあとに残る手続きを7つに整理しました。相続した実家の売却をこれから検討される方は、[相続した家をどうしたらいい？判断の入口まとめ](/guide/souzoku-ie-doushitara-hub/)もあわせてご覧ください。
 
 ## 売った後にやること7つの一覧
 
@@ -71,7 +71,7 @@ faqs:
 
 <strong>やることはシンプルです。引き渡しが終わったら、その物件に紐づく契約を書き出して、1件ずつ解約または名義変更の連絡をする。</strong>これだけです。通帳やクレジットカードの明細を1年分さかのぼって、その住所に関係する引き落としがないかを確認すると漏れを防げます。
 
-管理費の滞納があるまま相続した物件の扱いについては[管理費を滞納したマンションの買取](/guide/kanrihi-tainou-mansion-kaitori)にまとめています。
+管理費の滞納があるまま相続した物件の扱いについては[管理費を滞納したマンションの買取](/guide/kanrihi-tainou-mansion-kaitori/)にまとめています。
 
 ## ②火災保険・地震保険の解約手続きをする
 
@@ -87,7 +87,7 @@ faqs:
 
 ただし<strong>返戻の有無と金額は契約内容によって異なりますので、保険会社または代理店へご確認ください。</strong>解約日をいつにするかによっても変わります。引き渡し日より前に解約してしまうと、引き渡しまでの間に事故があった場合に補償が受けられませんので、<strong>解約日は引き渡し日以降に設定するのが基本です。</strong>
 
-相続した空き家の保険の考え方は[相続した空き家の火災保険ガイド](/guide/akiya-kasai-hoken-souzoku-guide)にまとめています。
+相続した空き家の保険の考え方は[相続した空き家の火災保険ガイド](/guide/akiya-kasai-hoken-souzoku-guide/)にまとめています。
 
 ## ③翌年の固定資産税は「1月1日時点の所有者」に課税されます
 
@@ -107,7 +107,7 @@ faqs:
 
 もっとも、これは通知書の宛先の問題であって、負担の取り決めは売買契約書に定めた精算のとおりです。<strong>「届いたけれど自分が払うべきものではない」という状況が起きうる、ということを知っておいていただければ十分です。</strong>届いた場合は買主または仲介した業者へご連絡ください。
 
-なお、売らずに空き家のまま持ち続けた場合の税負担については[空き家の固定資産税が6倍になる仕組み](/guide/vacancy-tax-6times)でご確認いただけます。
+なお、売らずに空き家のまま持ち続けた場合の税負担については[空き家の固定資産税が6倍になる仕組み](/guide/akiya-koteishisanzei-6bai-hikaku/)でご確認いただけます。
 
 ## ④翌年2月16日〜3月15日に確定申告をする
 
@@ -154,7 +154,7 @@ faqs:
 
 親が何十年も住んでいた家であれば、相続してすぐ売っても長期譲渡所得に該当することがほとんどです。<strong>相続してから5年経っていないから短期だ、と早合点しないでください。</strong>
 
-計算の流れは[相続不動産を売却したときの税金ガイド](/guide/selling-tax-guide)に、相続税を納めた方が使える特例は[相続不動産の取得費加算の特例](/guide/souzoku-fudosan-shutoku-hi-kazan)にまとめています。<strong>実際の申告内容と特例の適用可否は、税理士または所轄の税務署へご確認ください。</strong>
+計算の流れは[相続不動産を売却したときの税金ガイド](/guide/souzoku-jouto-shotokuzei-5nen-kisanbi/)に、相続税を納めた方が使える特例は[相続不動産の取得費加算の特例](/guide/souzoku-fudosan-shutoku-hi-kazan/)にまとめています。<strong>実際の申告内容と特例の適用可否は、税理士または所轄の税務署へご確認ください。</strong>
 
 ## ⑤翌年度の住民税・国民健康保険料・介護保険料に備える
 
@@ -167,7 +167,7 @@ faqs:
 
 会社の健康保険に加入されている方の保険料は給与等をもとに決まりますので、この影響は原則として受けません。<strong>影響が大きいのは、自営業の方・年金生活の方・扶養から外れている方です。</strong>
 
-金額の目安や、売却の時期をずらすことで負担をならせるかどうかについては[相続不動産の売却で国保・介護保険料が急増する仕組み](/guide/souzoku-fudosan-baikyaku-kokuho-kaigo-kyuzo)にまとめています。<strong>制度の詳細と実際の保険料はお住まいの市区町村によって異なりますので、窓口へご確認ください。</strong>
+金額の目安や、売却の時期をずらすことで負担をならせるかどうかについては[相続不動産の売却で国保・介護保険料が急増する仕組み](/guide/souzoku-fudosan-baikyaku-kokuho-kaigo-kyuzo/)にまとめています。<strong>制度の詳細と実際の保険料はお住まいの市区町村によって異なりますので、窓口へご確認ください。</strong>
 
 売却代金を全額使ってしまってから翌年の負担に気づく、という順序になりやすい部分です。<strong>申告の時点で「来年これくらい増えるかもしれない」と見当をつけて、その分を残しておく</strong>と慌てずに済みます。
 
@@ -193,7 +193,7 @@ faqs:
 
 実家の片付けの際に「古い書類だから」と処分してしまわないよう、<strong>権利証・売買契約書・購入時の領収書だけは先に抜き出しておいてください。</strong>これは売る前の段階でお伝えしたいことでもあります。
 
-売る前にやってはいけないことは[実家の相続でやってはいけない5つのこと](/guide/jikka-souzoku-yattehaikenai-5)にまとめています。
+売る前にやってはいけないことは[実家の相続でやってはいけない5つのこと](/guide/jikka-souzoku-yattehaikenai-5/)にまとめています。
 
 ## ⑦相続人が複数いる場合は代金の分け方を書面に残す
 
@@ -208,7 +208,7 @@ faqs:
 
 <strong>これらはお金の大小の問題というより、「聞いていた話と違う」という感情の問題になりやすい部分です。</strong>売却前の遺産分割協議書に、売却にかかる費用の負担と分配の計算方法まで書いておくと、後の関係が保たれます。
 
-代償分割の考え方は[代償分割とは？相続で他の相続人に現金を渡す方法](/guide/daishou-bunkatsu-fudousan-souzoku)にまとめています。<strong>税務上の扱いは分け方によって変わりますので、税理士へご確認ください。</strong>
+代償分割の考え方は[代償分割とは？相続で他の相続人に現金を渡す方法](/guide/daishou-bunkatsu-fudousan-souzoku/)にまとめています。<strong>税務上の扱いは分け方によって変わりますので、税理士へご確認ください。</strong>
 
 ## 引き渡し後1年のタイムライン
 
@@ -246,7 +246,7 @@ faqs:
 
 <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06c755;color:#fff;padding:14px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 4px;">LINE「空き家のミカタ」に相談する（無料）</a>
 
-<a href="/contact" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 4px;">無料査定フォームで相談する</a>
+<a href="/contact/" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 4px;">無料査定フォームで相談する</a>
 
 大阪市24区の訳あり不動産を専門に扱っており、<strong>相続登記が未了・きょうだいで共有・家財が残ったまま・再建築不可</strong>といった状態でも査定にお応えできます。遠方にお住まいで現地を見に行けない方のご相談も承ります。秘密厳守で対応いたします。なお、相続人間の紛争や登記手続きは弁護士・司法書士へ、税額と特例の適用可否は税理士または所轄の税務署へ、保険の解約返戻金は保険会社へ、保険料の算定はお住まいの市区町村の窓口へご確認ください。
 
@@ -254,15 +254,15 @@ faqs:
 
 ## 関連記事
 
-- <a href="/guide/souzoku-ie-doushitara-hub">相続した家をどうしたらいい？判断の入口まとめ</a>
-- <a href="/guide/selling-tax-guide">相続不動産を売却したときの税金ガイド</a>
-- <a href="/guide/souzoku-fudosan-baikyaku-kokuho-kaigo-kyuzo">相続不動産の売却で国保・介護保険料が急増する仕組み</a>
-- <a href="/guide/souzoku-akiya-3000man-tokubetsu-kojo">相続した空き家の3,000万円特別控除</a>
-- <a href="/guide/souzoku-fudosan-shutoku-hi-kazan">相続不動産の取得費加算の特例</a>
-- <a href="/guide/akiya-kasai-hoken-souzoku-guide">相続した空き家の火災保険ガイド</a>
-- <a href="/guide/kanrihi-tainou-mansion-kaitori">管理費を滞納したマンションの買取</a>
-- <a href="/guide/daishou-bunkatsu-fudousan-souzoku">代償分割とは？相続で他の相続人に現金を渡す方法</a>
-- <a href="/guide/jikka-souzoku-yattehaikenai-5">実家の相続でやってはいけない5つのこと</a>
-- <a href="/guide/vacancy-tax-6times">空き家の固定資産税が6倍になる仕組み</a>
-- <a href="/guide/inheritance-sale-timeline">相続した不動産を売るまでの流れと期間</a>
-- <a href="/guide/souzoku-fudosan-genjou-watashi-kaitori">相続不動産を現況のまま引き渡す買取</a>
+- <a href="/guide/souzoku-ie-doushitara-hub/">相続した家をどうしたらいい？判断の入口まとめ</a>
+- <a href="/guide/souzoku-jouto-shotokuzei-5nen-kisanbi/">相続不動産を売却したときの税金ガイド</a>
+- <a href="/guide/souzoku-fudosan-baikyaku-kokuho-kaigo-kyuzo/">相続不動産の売却で国保・介護保険料が急増する仕組み</a>
+- <a href="/guide/souzoku-akiya-3000man-tokubetsu-kojo/">相続した空き家の3,000万円特別控除</a>
+- <a href="/guide/souzoku-fudosan-shutoku-hi-kazan/">相続不動産の取得費加算の特例</a>
+- <a href="/guide/akiya-kasai-hoken-souzoku-guide/">相続した空き家の火災保険ガイド</a>
+- <a href="/guide/kanrihi-tainou-mansion-kaitori/">管理費を滞納したマンションの買取</a>
+- <a href="/guide/daishou-bunkatsu-fudousan-souzoku/">代償分割とは？相続で他の相続人に現金を渡す方法</a>
+- <a href="/guide/jikka-souzoku-yattehaikenai-5/">実家の相続でやってはいけない5つのこと</a>
+- <a href="/guide/akiya-koteishisanzei-6bai-hikaku/">空き家の固定資産税が6倍になる仕組み</a>
+- <a href="/guide/inheritance-sale-timeline/">相続した不動産を売るまでの流れと期間</a>
+- <a href="/guide/souzoku-fudosan-genjou-watashi-kaitori/">相続不動産を現況のまま引き渡す買取</a>

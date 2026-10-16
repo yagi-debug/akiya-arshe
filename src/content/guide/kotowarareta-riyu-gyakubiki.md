@@ -221,7 +221,7 @@ A: そのようなことはありません。「同じ理由で断られるか�
 
 <p style="margin-top:0.5rem;font-size:0.9rem;">「空き家のミカタ」を友だち追加してください</p>
 
-<a href="/contact" style="display:inline-block;border:2px solid rgba(255,255,255,0.4);color:#fff;padding:0.5rem 1.5rem;border-radius:8px;font-weight:bold;text-decoration:none;margin-top:0.5rem;">フォームで相談する</a>
+<a href="/contact/" style="display:inline-block;border:2px solid rgba(255,255,255,0.4);color:#fff;padding:0.5rem 1.5rem;border-radius:8px;font-weight:bold;text-decoration:none;margin-top:0.5rem;">フォームで相談する</a>
 
 </section>
 
@@ -229,14 +229,14 @@ A: そのようなことはありません。「同じ理由で断られるか�
 
 ## 関連するガイド記事
 
-- [訳あり物件の買取の流れ｜相談から最短2週間で現金化する5ステップ](/guide/wakeare-bukken-kaitori-nagare)
-- [不動産売却は買取・仲介・放置どれが正解？4軸で徹底比較](/guide/osaka-kaitori-vs-chukai)
-- [買取を断られる物件の特徴7つ｜断られる理由は「次の買主に融資が付かない」から](/guide/kaitori-kyohi-tokucho-7)
-- [不動産会社に断られた物件でも売れる？断られた後にできる5つの解決策](/guide/fudosan-kotowarareta-ato-dekiru-koto)
-- [共有持分だけを売る方法｜他の共有者の同意なしで手放す手順](/guide/kyouyuu-mochibun-kaitori)
-- [再建築不可物件は売れる？接道義務と買取の判断基準](/guide/saikenchifu-kaitori)
+- [訳あり物件の買取の流れ｜相談から最短2週間で現金化する5ステップ](/guide/wakeare-bukken-kaitori-nagare/)
+- [不動産売却は買取・仲介・放置どれが正解？4軸で徹底比較](/guide/osaka-kaitori-vs-chukai/)
+- [買取を断られる物件の特徴7つ｜断られる理由は「次の買主に融資が付かない」から](/guide/kaitori-kyohi-tokucho-7/)
+- [不動産会社に断られた物件でも売れる？断られた後にできる5つの解決策](/guide/fudosan-kotowarareta-ato-dekiru-koto/)
+- [共有持分だけを売る方法｜他の共有者の同意なしで手放す手順](/guide/kyouyuu-mochibun-kaitori/)
+- [再建築不可物件は売れる？接道義務と買取の判断基準](/guide/non-rebuildable-property-sale/)
 
-**このカテゴリの全ガイド一覧:** [→ 訳あり物件 完全ハブ](/guide/wakeare-bukken-kaitori)
+**このカテゴリの全ガイド一覧:** [→ 訳あり物件 完全ハブ](/guide/wakeare-bukken-kaitori/)
 
 ---
 

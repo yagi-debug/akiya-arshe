@@ -157,7 +157,7 @@ howToSteps:
 
 出典: <a href="https://prtimes.jp/main/html/rd/p/000000031.000038198.html" target="_blank" rel="noopener noreferrer">株式会社すむたす「実家じまいに関する実態調査」</a>
 
-残った家財の扱いは、<a href="/guide/souzoku-ihin-seiri-kazai-baikyaku">相続した実家の遺品・家財整理｜費用相場・業者選び・残置物のまま売る方法</a>で費用の内訳を整理しています。車や骨董品など処分に迷うものは<a href="/guide/movables-disposal-sell-as-is">相続した家に残る車・骨董品・家電はどうする？処分義務の有無と残置物のまま売る方法</a>をご覧ください。
+残った家財の扱いは、<a href="/guide/souzoku-ihin-seiri-kazai-baikyaku/">相続した実家の遺品・家財整理｜費用相場・業者選び・残置物のまま売る方法</a>で費用の内訳を整理しています。車や骨董品など処分に迷うものは<a href="/guide/movables-disposal-sell-as-is/">相続した家に残る車・骨董品・家電はどうする？処分義務の有無と残置物のまま売る方法</a>をご覧ください。
 
 ## 親族と近所への説明は「決める前」に一度、伝えておきます
 
@@ -206,7 +206,7 @@ howToSteps:
 
 金額の面も見ておきます。実家じまいにかかった維持・処分費用は<strong>50万〜100万円</strong>という回答がもっとも多く挙がっています（前掲・すむたす調べ）。放置期間が延びるほど、この額は積み上がります。
 
-住む・貸す・売る・放置の4択で5年間のコストを並べた試算は、<a href="/guide/souzoku-ie-cost-5nen-flowchart">相続した家の意思決定フローチャート｜住む・貸す・売る・放置の5年間コスト試算</a>にまとめています。年間の維持費だけを先に知りたい方は<a href="/guide/akiya-koteishisanzei-simulator">空き家の固定資産税・維持費シミュレーター</a>で計算できます。
+住む・貸す・売る・放置の4択で5年間のコストを並べた試算は、<a href="/guide/souzoku-ie-cost-5nen-flowchart/">相続した家の意思決定フローチャート｜住む・貸す・売る・放置の5年間コスト試算</a>にまとめています。年間の維持費だけを先に知りたい方は<a href="/guide/akiya-koteishisanzei-simulator/">空き家の固定資産税・維持費シミュレーター</a>で計算できます。
 
 ## 判断に迷ったら、この5つの問いに答えてみてください
 
@@ -222,7 +222,7 @@ howToSteps:
 
 実家を売るかどうかは、家への愛情の大きさで決めることではありません。<strong>管理を続けられるかどうか</strong>という現実で決めることです。そして愛情は、供養と記録という別の形で残せます。
 
-お盆に帰省された際の建物チェックは、<a href="/guide/obon-akiya-checklist-2026">【2026年お盆版】帰省したら実家の空き家どうする？7つの確認ポイントと売却判断フローチャート</a>にチェック項目をまとめています。手続きの全体像を先に知りたい方は<a href="/guide/souzoku-ie-nani-kara">相続した家、何から手をつければいい？7ステップ・チェックリストと期限一覧</a>をご覧ください。
+お盆に帰省された際の建物チェックは、<a href="/guide/obon-akiya-checklist-2026/">【2026年お盆版】帰省したら実家の空き家どうする？7つの確認ポイントと売却判断フローチャート</a>にチェック項目をまとめています。手続きの全体像を先に知りたい方は<a href="/guide/souzoku-ie-nani-kara/">相続した家、何から手をつければいい？7ステップ・チェックリストと期限一覧</a>をご覧ください。
 
 ---
 
@@ -232,7 +232,7 @@ howToSteps:
 
 <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06c755;color:#fff;padding:14px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 4px;">LINE「空き家のミカタ」に相談する（無料）</a>
 
-<a href="/contact" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 4px;">無料査定フォームで相談する</a>
+<a href="/contact/" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 4px;">無料査定フォームで相談する</a>
 
 訳あり物件・空き家・相続物件を専門に扱っており、<strong>現況のまま・片付け不要・解体不要</strong>で買取査定ができます。仏壇や家財が残ったままの状態でも査定できます。大阪府知事(1)第65646号の宅地建物取引業免許のもと、大阪市24区を中心に対応しています。査定だけのご依頼でも問題ありません。
 
@@ -240,12 +240,12 @@ howToSteps:
 
 ## 関連するガイド記事
 
-- <a href="/guide/souzoku-ie-cost-5nen-flowchart">相続した家の意思決定フローチャート｜住む・貸す・売る・放置の5年間コスト試算【2026年版】</a>
-- <a href="/guide/obon-akiya-checklist-2026">【2026年お盆版】帰省したら実家の空き家どうする？7つの確認ポイントと売却判断フローチャート</a>
-- <a href="/guide/obon-jikka-checklist-kaitori-handan">「帰省したら実家が荒れていた」その場でできる5つのアクションと売却判断チェックリスト</a>
-- <a href="/guide/souzoku-ihin-seiri-kazai-baikyaku">相続した実家の遺品・家財整理｜費用相場・業者選び・残置物のまま売る方法【2026年版】</a>
-- <a href="/guide/souzoku-ie-nani-kara">相続した家、何から手をつければいい？7ステップ・チェックリストと期限一覧【2026年版】</a>
-- <a href="/guide/akiya-koteishisanzei-simulator">空き家の固定資産税・維持費シミュレーター｜年間コストを無料で自動計算【2026年版】</a>
+- <a href="/guide/souzoku-ie-cost-5nen-flowchart/">相続した家の意思決定フローチャート｜住む・貸す・売る・放置の5年間コスト試算【2026年版】</a>
+- <a href="/guide/obon-akiya-checklist-2026/">【2026年お盆版】帰省したら実家の空き家どうする？7つの確認ポイントと売却判断フローチャート</a>
+- <a href="/guide/obon-jikka-checklist-kaitori-handan/">「帰省したら実家が荒れていた」その場でできる5つのアクションと売却判断チェックリスト</a>
+- <a href="/guide/souzoku-ihin-seiri-kazai-baikyaku/">相続した実家の遺品・家財整理｜費用相場・業者選び・残置物のまま売る方法【2026年版】</a>
+- <a href="/guide/souzoku-ie-nani-kara/">相続した家、何から手をつければいい？7ステップ・チェックリストと期限一覧【2026年版】</a>
+- <a href="/guide/akiya-koteishisanzei-simulator/">空き家の固定資産税・維持費シミュレーター｜年間コストを無料で自動計算【2026年版】</a>
 
 ## よくある質問
 

@@ -2,6 +2,7 @@
 title: "空き家の固定資産税・維持費シミュレーター｜年間コストを無料で自動計算【2026年版】"
 description: "空き家の年間維持コスト（固定資産税・都市計画税・火災保険・修繕費）を自動計算。特定空家に指定された場合の6倍増額・5年/10年累計も試算できます。計算根拠となる法令を宅建業者が解説。"
 publishDate: "2026-04-28"
+noindex: true
 author: "宅建業者"
 authorTitle: "宅建業者"
 heroImage: "/images/property-tax-options-calculator.jpg"
@@ -28,6 +29,8 @@ cluster: "akiya-tax"
 <img src="/images/property-tax-options-calculator.jpg" alt="空き家の固定資産税を計算する電卓と税務書類　維持費シミュレーションのイメージ" width="1200" height="800" style="width:100%;height:auto;border-radius:8px;margin-bottom:1.5rem;" />
 
 「毎年固定資産税の通知書が届くけれど、実際にいくら払い続けているのか整理できていない」——そんな空き家オーナーの方は少なくありません。
+
+このテーマの全体像は[空き家の固定資産税6倍化の回避策](/guide/akiya-koteishisanzei-6bai-hikaku/)にまとめています。
 
 固定資産税だけでなく、<strong>都市計画税・火災保険・修繕費まで合計すると、空き家の年間維持コストは想定より大きくなるケースがほとんどです。</strong>さらに特定空家に指定された場合は固定資産税が実質最大6倍に跳ね上がり、5年・10年の累計コストは数百万円に達することもあります。
 
@@ -461,22 +464,22 @@ function calcAkiyaSim() {
 ## 関連するガイド記事
 
 <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:1rem;margin:1.5rem 0;">
-  <a href="/guide/akiya-kaitori" style="display:block;background:#f8f9fa;border:1px solid #dee2e6;border-radius:8px;padding:1rem;text-decoration:none;color:#1a3a5c;font-weight:bold;">
+  <a href="/guide/akiya-shobun-5-hikaku/" style="display:block;background:#f8f9fa;border:1px solid #dee2e6;border-radius:8px;padding:1rem;text-decoration:none;color:#1a3a5c;font-weight:bold;">
     空き家の買取｜放置空き家を現金化<br><span style="font-size:0.8rem;font-weight:normal;color:#666;">固定資産税ゼロ・最短1ヶ月で手放せる</span>
   </a>
-  <a href="/guide/akiya-kotei-shisan-zei-haraenai" style="display:block;background:#f8f9fa;border:1px solid #dee2e6;border-radius:8px;padding:1rem;text-decoration:none;color:#1a3a5c;font-weight:bold;">
+  <a href="/guide/akiya-kotei-shisan-zei-haraenai/" style="display:block;background:#f8f9fa;border:1px solid #dee2e6;border-radius:8px;padding:1rem;text-decoration:none;color:#1a3a5c;font-weight:bold;">
     空き家の固定資産税が払えない場合<br><span style="font-size:0.8rem;font-weight:normal;color:#666;">滞納リスクと3つの対処法</span>
   </a>
-  <a href="/guide/akiya-koteishisanzei-6bai-hikaku" style="display:block;background:#f8f9fa;border:1px solid #dee2e6;border-radius:8px;padding:1rem;text-decoration:none;color:#1a3a5c;font-weight:bold;">
+  <a href="/guide/akiya-koteishisanzei-6bai-hikaku/" style="display:block;background:#f8f9fa;border:1px solid #dee2e6;border-radius:8px;padding:1rem;text-decoration:none;color:#1a3a5c;font-weight:bold;">
     固定資産税6倍化の詳細比較<br><span style="font-size:0.8rem;font-weight:normal;color:#666;">特定空家・管理不全空家の税額シミュレーション</span>
   </a>
-  <a href="/guide/koteishisanzei-haraitsudzukeru-vs-baikyaku" style="display:block;background:#f8f9fa;border:1px solid #dee2e6;border-radius:8px;padding:1rem;text-decoration:none;color:#1a3a5c;font-weight:bold;">
+  <a href="/guide/koteishisanzei-haraitsudzukeru-vs-baikyaku/" style="display:block;background:#f8f9fa;border:1px solid #dee2e6;border-radius:8px;padding:1rem;text-decoration:none;color:#1a3a5c;font-weight:bold;">
     固定資産税を払い続けるvs売却<br><span style="font-size:0.8rem;font-weight:normal;color:#666;">10年累計コストで損得を徹底比較</span>
   </a>
-  <a href="/guide/tokutei-akiya-hantei-checklist" style="display:block;background:#f8f9fa;border:1px solid #dee2e6;border-radius:8px;padding:1rem;text-decoration:none;color:#1a3a5c;font-weight:bold;">
+  <a href="/guide/tokutei-akiya-hantei-checklist/" style="display:block;background:#f8f9fa;border:1px solid #dee2e6;border-radius:8px;padding:1rem;text-decoration:none;color:#1a3a5c;font-weight:bold;">
     特定空家の判定チェックリスト<br><span style="font-size:0.8rem;font-weight:normal;color:#666;">指定される前に自己診断できるチェック表</span>
   </a>
-  <a href="/guide/akiya-shobun-5-hikaku" style="display:block;background:#f8f9fa;border:1px solid #dee2e6;border-radius:8px;padding:1rem;text-decoration:none;color:#1a3a5c;font-weight:bold;">
+  <a href="/guide/akiya-shobun-5-hikaku/" style="display:block;background:#f8f9fa;border:1px solid #dee2e6;border-radius:8px;padding:1rem;text-decoration:none;color:#1a3a5c;font-weight:bold;">
     空き家処分5方法の比較<br><span style="font-size:0.8rem;font-weight:normal;color:#666;">売却・賃貸・解体・寄附・空き家バンクを比較</span>
   </a>
 </div>
@@ -493,11 +496,11 @@ function calcAkiyaSim() {
     <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" target="_blank" rel="noopener noreferrer" style="display:inline-block;background:#06C755;color:white;text-decoration:none;padding:12px 24px;border-radius:6px;font-weight:bold;font-size:0.95rem;">
       LINEで無料相談する
     </a>
-    <a href="/contact" style="display:inline-block;background:white;color:#1a56db;text-decoration:none;padding:12px 24px;border-radius:6px;font-weight:bold;font-size:0.95rem;border:2px solid #1a56db;">
+    <a href="/contact/" style="display:inline-block;background:white;color:#1a56db;text-decoration:none;padding:12px 24px;border-radius:6px;font-weight:bold;font-size:0.95rem;border:2px solid #1a56db;">
       お問い合わせフォームへ
     </a>
   </div>
 </div>
 ---
 
-**このカテゴリの全ガイド一覧:** [→ 空き家の処分・活用 完全ガイド](/guide/vacant-house)
+**このカテゴリの中心の記事:** [→ 空き家の処分・活用 完全ガイド](/guide/akiya-shobun-5-hikaku/)

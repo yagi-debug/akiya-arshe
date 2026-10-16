@@ -1,7 +1,8 @@
 ---
-title: "【体験談・事例07】再建築不可の老朽木造長屋を14日で現金化。市から管理不全通知が届いた後に動いた60代女性の全記録"
-description: "大阪市平野区の再建築不可・老朽木造長屋（築57年・平屋・約25m²）を相続したFさん（64歳・女性・奈良市在住）。市役所から管理不全空き家に準ずる状態として事前通知が届いた後、仲介2社に断られ空き家のミカタへ相談。相談から14日で現金化した全記録。物件スペック・査定根拠・買取価格レンジを匿名で全公開。"
+title: "【参考例・事例07】再建築不可の老朽木造長屋を14日で現金化。市から管理不全通知が届いた後に動いた60代女性のケース"
+description: "大阪市平野区の再建築不可・老朽木造長屋（築57年・平屋・約25m²）を相続したFさん（64歳・女性・奈良市在住）。市役所から管理不全空き家に準ずる状態として事前通知が届いた後、仲介2社に断られ空き家のミカタへ相談。相談から14日で現金化するケース（参考例）。物件スペック・査定根拠・買取価格レンジの目安を、よくある状況をもとに紹介。"
 publishDate: "2026-05-21"
+noindex: true
 author: "空き家のミカタ編集部"
 authorTitle: "宅地建物取引業者（大阪府知事(1)第65646号）"
 heroImage: "/images/souzoku-jirei-07-hero.jpg"
@@ -25,8 +26,8 @@ cluster: "non-rebuildable"
 {
   "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "【体験談・事例07】再建築不可の老朽木造長屋を14日で現金化。市から管理不全通知が届いた後に動いた60代女性の全記録",
-  "description": "大阪市平野区の再建築不可・老朽木造長屋（築57年・平屋・約25m²）を相続したFさん（64歳・女性・奈良市在住）。相談から14日で現金化した全記録。",
+  "headline": "【参考例・事例07】再建築不可の老朽木造長屋を14日で現金化。市から管理不全通知が届いた後に動いた60代女性のケース",
+  "description": "大阪市平野区の再建築不可・老朽木造長屋（築57年・平屋・約25m²）を相続したFさん（64歳・女性・奈良市在住）。相談から14日で現金化するケース（参考例）。",
   "datePublished": "2026-05-21",
   "author": {
     "@type": "Organization",
@@ -56,78 +57,6 @@ cluster: "non-rebuildable"
 }
 </script>
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Review",
-  "itemReviewed": {
-    "@type": "Service",
-    "name": "空き家のミカタ 訳あり不動産買取サービス",
-    "url": "https://akiya.arshe-corp.com"
-  },
-  "reviewRating": {
-    "@type": "Rating",
-    "ratingValue": "5",
-    "bestRating": "5",
-    "worstRating": "1"
-  },
-  "author": {
-    "@type": "Person",
-    "name": "Fさん（64歳・女性・奈良市在住）"
-  },
-  "reviewBody": "市役所から通知が届いていて、どうすればいいかわからずパニックでした。仲介業者に2回断られ、もう打つ手がないと思っていたところで相談しました。14日で現金化できたことに本当に驚きました。修繕も片付けも何もしなくてよかったので、体力的にも助かりました。"
-}
-</script>
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "再建築不可かつ老朽化した長屋でも買取してもらえますか？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "はい、対応しています。訳あり専門の買取業者であれば土地の将来活用を前提に、現況のまま買取できます。老朽化の程度・接道状況・立地によって査定額が変わりますので、まずはご相談ください。"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "市役所から管理不全の通知が届いています。急いで売る必要がありますか？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "管理不全空き家の指定は現時点では固定資産税の住宅用地特例の解除を伴いませんが、放置すると特定空き家に格上げされ固定資産税が最大4.2倍になるリスクがあります。通知が届いた段階で、売却・解体・修繕のいずれかを検討することをおすすめします。"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "相続登記が済んでいない状態でも相談できますか？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "相談・査定は相続登記前でも可能です。提携司法書士をご紹介しますので、登記手続きと買取手続きを並行して進めることができます。"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "路地奥の再建築不可長屋は査定額がゼロになりますか？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "査定額がゼロになることはありません。再建築不可でも土地には固定資産税評価額・路線価が設定されています。買取業者は隣地への売却可能性・解体後の転用可能性などを加味して価格を算出します。一般的な目安は路線価ベースの評価額の40〜65%程度です。"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "老朽化が進んでいて残置物も多い状態ですが、そのままで買取できますか？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "はい、現況のままで買取できます。残置物の撤去・清掃・修繕は一切不要です。雨漏り・外壁剥落・床の傾きがある物件でも、現況買取の範囲内です。"
-      }
-    }
-  ]
-}
-</script>
-
 > <strong>この記事の結論</strong>
 > 1. 再建築不可＋老朽化の組み合わせは仲介では売れませんが、<strong>訳あり専門の直接買取なら現況のまま売却できます。</strong>
 > 2. Fさん（64歳・女性・奈良市在住）は市から管理不全通知が届いた築57年の老朽長屋を、<strong>相談から14日で現金化</strong>しました。
@@ -137,11 +66,13 @@ cluster: "non-rebuildable"
 
 「市役所から通知が届いて、パニックになりました。どこに相談すればいいかもわからなくて。」——そう話すFさん（64歳・女性・奈良市在住）が空き家のミカタに相談したのは、母（享年90歳）の遺品整理を終えてから半年が経ったころでした。
 
+このテーマの全体像は[再建築不可物件の売却方法](/guide/non-rebuildable-property-sale/)にまとめています。
+
 相続した大阪市平野区の木造平屋長屋は築57年。接道幅員が2m未満のため再建築不可と判定されており、仲介業者2社に「売れない物件です」と断られていました。そこへ追い打ちをかけるように届いた、市役所からの「管理不全空き家に準ずる状態」の事前通知。
 
 <strong>「再建築不可なのに、老朽化もしている。どこにも売れないと思い込んでいた。」</strong>
 
-この記事では、そのFさんが相談から14日で現金化できた経緯を全記録として公開します。物件スペック・査定の根拠・買取価格のレンジも匿名ではありますが可能な限り開示します。
+この記事では、そのFさんが相談から14日で現金化できるケースの流れを、参考例として紹介します。物件スペック・査定の根拠・買取価格のレンジの目安も、よくある状況をもとに示します。
 
 ---
 
@@ -286,15 +217,14 @@ Fさんが空き家のミカタにLINEで相談してから、決済完了まで
 
 ## 関連するガイド記事
 
-- <a href="/guide/saikenchifu-hub">再建築不可物件 完全ハブ｜売却・買取・価格相場・事例まで全ガイドまとめ【2026年版】</a>
-- <a href="/guide/saikenchifu-kaitori-jirei">再建築不可物件の買取事例5選｜袋地・2m未満接道・旗竿地の解決ストーリー</a>
-- <a href="/guide/saikenchifu-osaka-uri-jirei">大阪市の再建築不可物件｜仲介で売れなかった3つの失敗パターンと買取解決事例3件【2026年版】</a>
-- <a href="/guide/kaitori-jirei-10sen">訳あり不動産の買取実績10選｜相続・再建築不可・事故物件・共有持分・空き家の解決事例集</a>
-- <a href="/guide/kaitori-jirei">訳あり不動産の買取事例5選｜相続アパート・再建築不可・事故物件の解決ストーリー</a>
+- <a href="/guide/non-rebuildable-property-sale/">再建築不可物件の売却方法</a>
+- <a href="/guide/saikenchifu-kaitori-jirei/">再建築不可物件の買取 参考事例5選｜袋地・2m未満接道・旗竿地の解決ストーリー</a>
+- <a href="/guide/saikenchifu-osaka-uri-jirei/">大阪市の再建築不可物件｜仲介で売れなかった3つの失敗パターンと買取解決事例3件【2026年版】</a>
+- <a href="/guide/osaka-city-yakuari-kaitori/">大阪市の訳あり物件の買取</a>
 
 ## 査定の根拠：なぜ250〜350万円という価格が出たか
 
-買取価格がどのように算出されたか、Fさんの了承を得てプロセスをご紹介します（具体的な成約額は非公開）。
+買取価格がどのように算出されたか、参考例としてプロセスをご紹介します（金額は目安です）。
 
 ### 再建築不可物件の買取価格の計算構造
 
@@ -370,7 +300,7 @@ Fさんが最終的にこう話していました。「仲介に断られて、�
 
 <strong>お問い合わせフォームはこちら</strong>
 
-<a href="/contact" style="display:inline-block;background:#2563eb;color:#fff;padding:0.75rem 1.5rem;border-radius:6px;text-decoration:none;font-weight:bold;">フォームから相談する</a>
+<a href="/contact/" style="display:inline-block;background:#2563eb;color:#fff;padding:0.75rem 1.5rem;border-radius:6px;text-decoration:none;font-weight:bold;">フォームから相談する</a>
 
 </div>
 
@@ -378,7 +308,7 @@ Fさんが最終的にこう話していました。「仲介に断られて、�
 
 <strong>関連記事</strong>
 
-- <a href="/guide/souzoku-jirei-05-rentouji-nagaya-kaitori">【体験談・事例05】連棟式長屋を相続して3社断られた。25日で現金化した全記録</a>
-- <a href="/guide/souzoku-jirei-04-saikenchifu-kaitori">【体験談・事例04】「再建築不可で売れない」と4社に断られた父の実家。相談から23日で現金化した全記録</a>
-- <a href="/guide/non-rebuildable-property-sale">再建築不可物件の売却完全ガイド</a>
-- <a href="/guide/tokutei-akiya-hantei-checklist">特定空き家に指定される前に確認｜固定資産税6倍化の判定チェックリスト</a>
+- <a href="/guide/souzoku-jirei-05-rentouji-nagaya-kaitori/">【参考例・事例05】連棟式長屋を相続して3社断られた。25日で現金化したケース</a>
+- <a href="/guide/souzoku-jirei-04-saikenchifu-kaitori/">【参考例・事例04】「再建築不可で売れない」と4社に断られた父の実家。相談から23日で現金化したケース</a>
+- <a href="/guide/non-rebuildable-property-sale/">再建築不可物件の売却完全ガイド</a>
+- <a href="/guide/tokutei-akiya-hantei-checklist/">特定空き家に指定される前に確認｜固定資産税6倍化の判定チェックリスト</a>

@@ -2,6 +2,7 @@
 title: "相続登記の費用が払えない・間に合わない場合の対処法を宅建業者が解説"
 description: "相続登記の義務化（2024年4月施行）で費用が払えない・期限に間に合わない場合の具体的な対処法を宅建業者が解説。登録免許税・司法書士費用の相場、相続人申告登記の活用、買取による一括解決まで、公的機関には載っていない実務的な選択肢を紹介します。"
 publishDate: "2026-05-05"
+noindex: true
 cluster: "inheritance"
 author: "宅建業者"
 authorTitle: "宅建業者"
@@ -38,6 +39,8 @@ howToSteps:
 </div>
 
 <strong>相続登記の費用が10万円以上かかると知って、「用意できるか不安」と感じている方へ。</strong>
+
+関連する内容は[相続登記を自分でやる費用](/guide/souzoku-touki-jibunde-hiyou/)で詳しく解説しています。
 
 2024年4月から相続登記が義務化され、「手続きしなければ」と思いながらも費用の壁で動けていない方が増えています。この記事では、費用が払えない場合・期限に間に合わない場合の<strong>実務的な選択肢</strong>を整理してお伝えします。
 
@@ -185,11 +188,10 @@ howToSteps:
 
 ## 関連するガイド記事
 
-- <a href="/guide/souzoku-fudousan-shobun-kanzen-guide">相続不動産の処分 完全ガイド2026｜法律・登記・比較表・失敗対策まで一気に解説</a>
-- <a href="/guide/souzoku-hub">相続不動産 完全ハブ｜処分・売却・登記・固定資産税・事例まで全ガイドをまとめて確認【2026年版】</a>
-- <a href="/guide/souzoku-apart-kanzen-guide">相続アパートを手放したい方へ｜売却の流れ・税金・失敗しない判断基準を宅建業者が完全解説【2026年最新】</a>
-- <a href="/guide/akiya-shobun-5-hikaku">空き家処分の5大選択肢を徹底比較【2026年版】費用・期間・手残り額</a>
-- <a href="/guide/akiya-souzoku-urenai">相続した空き家が売れない？3つの原因と4つの出口戦略｜再建築不可・未登記・共有名義も最短14日で現金化【2026年版】</a>
+- <a href="/guide/parent-death-house/">相続不動産の処分 完全ガイド2026｜法律・登記・比較表・失敗対策まで一気に解説</a>
+- <a href="/guide/souzoku-apart-kanzen-guide/">相続アパートを手放したい方へ｜売却の流れ・税金・失敗しない判断基準を宅建業者が完全解説【2026年最新】</a>
+- <a href="/guide/akiya-shobun-5-hikaku/">空き家処分の5大選択肢を徹底比較【2026年版】費用・期間・手残り額</a>
+- <a href="/guide/akiya-souzoku-urenai/">相続した空き家が売れない？3つの原因と4つの出口戦略｜再建築不可・未登記・共有名義も最短14日で現金化【2026年版】</a>
 
 ## まとめ：「払えない」から動けない状況を脱出するために
 
@@ -208,4 +210,4 @@ howToSteps:
 
 <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" rel="noopener noreferrer" target="_blank"><strong>LINEで無料相談する（24時間受付）</strong></a>
 
-<a href="/contact"><strong>問い合わせフォームから相談する</strong></a>
+<a href="/contact/"><strong>問い合わせフォームから相談する</strong></a>

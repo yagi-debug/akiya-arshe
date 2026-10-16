@@ -4,6 +4,7 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import RegionalConsultation from "../../components/RegionalConsultation.astro";
 import ClosedAreaNotice from '../../components/ClosedAreaNotice.astro';
 import Breadcrumb from '../../components/Breadcrumb.astro';
+import FAQ from '../../components/FAQ.astro';
 
 export async function getStaticPaths() {
   const guides = await getCollection('guide');
@@ -23,7 +24,7 @@ const ctaVariant = entry.data.cluster === 'business' ? 'business' : undefined;
 
 const breadcrumbs = [
   { name: 'ホーム', url: '/' },
-  { name: '売却ガイド', url: '/guide' },
+  { name: '売却ガイド', url: '/guide/' },
   { name: entry.data.title, url: `/guide/${entry.id}/` },
 ];
 
@@ -172,10 +173,45 @@ const articleSchema = {
   },
 };
 
-const faqSchema = entry.data.faqs && entry.data.faqs.length > 0 ? {
+// 構造化データは「画面に見える内容」と一致させる（Google の方針。2026-10-11 恒久対策）。
+// 本文（markdown）を正規化した文字列に、FAQ の質問・答えや HowTo の手順が含まれるかで判定する。
+//  - 本文に質問が無い FAQ → 本文の直後に「よくある質問」として画面に表示し、構造化データにも出す
+//  - 本文に質問と答えの両方がある FAQ → 本文が画面なので構造化データに出す
+//  - 本文に質問はあるが答えが違う FAQ → 構造化データから外す（二重表示もしない）
+//  - HowTo → 全手順の name・text が本文にあるときだけ出す（画面には新しく表示しない）
+// 公開前の検査 scripts/check-schema-visible.mjs が dist の全 HTML で一致を確かめる。
+const normalizeForMatch = (s: string) =>
+  String(s ?? '')
+    .replace(/<[^>]*>/g, '')
+    .replace(/\[([^\]]*)\]\([^)]*\)/g, '$1')
+    .replace(/[*_#>|`~\\]/g, '')
+    .replace(/[\s　]+/g, '');
+// 本文に埋め込まれた <script>（手書きの JSON-LD など）・<style>・コメントは画面に出ないので、判定から除く
+const bodyNorm = normalizeForMatch(
+  (entry.body ?? '')
+    .replace(/<!--[\s\S]*?-->/g, '')
+    .replace(/<(script|style|noscript|template)\b[\s\S]*?<\/\1\s*>/gi, '')
+);
+const inBody = (text: string) => {
+  const t = normalizeForMatch(text);
+  return t.length > 0 && bodyNorm.includes(t);
+};
+
+const allFaqs = entry.data.faqs ?? [];
+const faqsToShow = allFaqs.filter((faq) => !inBody(faq.question));
+const faqsForSchema = allFaqs.filter((faq) => !inBody(faq.question) || inBody(faq.answer));
+// 本文に自前の「よくある質問」節がある記事では見出しを重ねない。id は本文が #faq を持つときだけ変える（目次の #faq を生かす）
+const bodyHasFaqId = /id=["']faq["']/.test(entry.body ?? '');
+const bodyHasFaq = bodyHasFaqId
+  || /^#{2,3}[^\n]*(よくあるご?質問|Q&A|FAQ)/m.test(entry.body ?? '')
+  || /<h[23][^>]*>[^<]*(よくあるご?質問|Q&amp;A|Q&A|FAQ)/.test(entry.body ?? '');
+const faqHeading = bodyHasFaq ? 'ほかによくある質問' : 'よくある質問';
+const faqId = bodyHasFaqId ? 'faq-more' : 'faq';
+
+const faqSchema = faqsForSchema.length > 0 ? {
   "@context": "https://schema.org",
   "@type": "FAQPage",
-  "mainEntity": entry.data.faqs.map((faq) => ({
+  "mainEntity": faqsForSchema.map((faq) => ({
     "@type": "Question",
     "name": faq.question,
     "acceptedAnswer": {
@@ -185,12 +221,15 @@ const faqSchema = entry.data.faqs && entry.data.faqs.length > 0 ? {
   })),
 } : null;
 
-const howToSchema = entry.data.howToSteps && entry.data.howToSteps.length > 0 ? {
+const howToSteps = entry.data.howToSteps ?? [];
+const howToAllInBody =
+  howToSteps.length > 0 && howToSteps.every((step) => inBody(step.name) && inBody(step.text));
+const howToSchema = howToAllInBody ? {
   "@context": "https://schema.org",
   "@type": "HowTo",
   "name": entry.data.title,
   "description": entry.data.description,
-  "step": entry.data.howToSteps.map((step, index) => ({
+  "step": howToSteps.map((step, index) => ({
     "@type": "HowToStep",
     "position": index + 1,
     "name": step.name,
@@ -277,10 +316,18 @@ const displayDate = entry.data.updatedDate || entry.data.publishDate;
       prose-td:border prose-td:border-border prose-td:px-4 prose-td:py-2
     ">
       <Content />
+      {faqsToShow.length > 0 && (
+        <section id={faqId} aria-labelledby={`${faqId}-heading`}>
+          <h2 id={`${faqId}-heading`}>{faqHeading}</h2>
+          <div class="not-prose">
+            <FAQ items={faqsToShow} />
+          </div>
+        </section>
+      )}
       <p class="mt-8">
         {ctaVariant === 'business'
-          ? <a href="/contact" class="font-bold text-accent hover:underline">フォームで相談する →</a>
-          : <a href="/satei" class="font-bold text-accent hover:underline">無料査定の相談準備メモを作る →</a>}
+          ? <a href="/contact/" class="font-bold text-accent hover:underline">フォームで相談する →</a>
+          : <a href="/satei/" class="font-bold text-accent hover:underline">無料査定の相談準備メモを作る →</a>}
       </p>
     </div>
   </article>
@@ -296,7 +343,7 @@ const displayDate = entry.data.updatedDate || entry.data.publishDate;
           : <><strong class="text-text">相談準備メモ</strong>で所在地や入居状況を整理できます。入力は任意で、自動送信されません。価格は物件を確認して個別にご案内します。</>}
       </p>
       <a
-        href={ctaVariant === 'business' ? "/contact" : "/satei"}
+        href={ctaVariant === 'business' ? "/contact/" : "/satei/"}
         class="mb-3 inline-flex w-full items-center justify-center gap-2 rounded-lg bg-accent px-8 py-4 text-base font-bold text-white shadow transition-all hover:opacity-90 hover:shadow-lg sm:w-auto"
       >
         {ctaVariant === 'business' ? "フォームで相談する（無料） →" : "相談準備メモを作る（無料） →"}
@@ -322,7 +369,7 @@ const displayDate = entry.data.updatedDate || entry.data.publishDate;
 
   <!-- 著者バイオ（E-E-A-T） -->
   <aside class="mx-auto max-w-3xl px-4 pb-6">
-    <a href="/about/hiroki" class="block rounded-lg border border-border bg-bg-dark p-5 transition-all hover:border-accent hover:shadow-md">
+    <a href="/about/hiroki/" class="block rounded-lg border border-border bg-bg-dark p-5 transition-all hover:border-accent hover:shadow-md">
       <div class="flex gap-4 items-start">
         <div class="flex-shrink-0 w-12 h-12 rounded-full bg-accent flex items-center justify-center text-white text-xl font-bold">八</div>
         <div class="flex-1">
@@ -349,7 +396,7 @@ const displayDate = entry.data.updatedDate || entry.data.publishDate;
         <div class="grid gap-3 px-3 pb-3 sm:grid-cols-2">
           {clusterSubArticles.map((g) => (
             <a
-              href={`/guide/${g.id}`}
+              href={`/guide/${g.id}/`}
               class="flex items-start gap-3 rounded-lg border border-border bg-white p-4 transition-all hover:border-accent hover:shadow-md"
             >
               <span class="mt-0.5 flex-shrink-0 rounded-full bg-accent/10 p-1.5 text-accent">
@@ -372,7 +419,7 @@ const displayDate = entry.data.updatedDate || entry.data.publishDate;
   {!isPillarPage && pillarArticle && (
     <section class="mx-auto max-w-3xl px-4 pb-4">
       <a
-        href={`/guide/${pillarArticle.id}`}
+        href={`/guide/${pillarArticle.id}/`}
         class="flex items-center gap-3 rounded-lg border border-accent/40 bg-accent/5 p-4 transition-all hover:border-accent hover:shadow-md"
       >
         <span class="flex-shrink-0 rounded-full bg-accent p-1.5 text-white">
@@ -400,7 +447,7 @@ const displayDate = entry.data.updatedDate || entry.data.publishDate;
       <div class="grid gap-4 md:grid-cols-2">
         {relatedGuides.map((guide) => (
           <a
-            href={`/guide/${guide.id}`}
+            href={`/guide/${guide.id}/`}
             class="block rounded-lg border border-border p-4 transition-all hover:border-accent hover:shadow-md"
           >
             <h3 class="mb-2 text-base font-bold text-text">{guide.data.title}</h3>

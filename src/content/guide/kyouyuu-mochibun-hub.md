@@ -2,6 +2,7 @@
 title: "共有持分 完全ハブ｜売却・買取・トラブル解決・相場まで全ガイドまとめ【2026年版】"
 description: "共有持分（相続・離婚・共同購入で発生）の売却・買取・持分のみ売却・共有者トラブル解決まで、宅建業者（大阪府知事(1)第65646号）が執筆した全ガイドを一覧できるハブページ。「兄弟で共有」「認知症の共有者がいる」「離婚で処分したい」状況別に最適な記事へ案内します。"
 publishDate: "2026-05-30"
+noindex: true
 author: "空き家のミカタ編集部"
 authorTitle: "宅地建物取引業者（大阪府知事(1)第65646号）"
 cluster: "shared-ownership"
@@ -113,42 +114,42 @@ updatedDate: "2026-09-07"
 ## あなたの状況に近いものは？ {#selector}
 
 <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:12px;margin:1.5rem 0;">
-  <a href="/guide/joint-ownership-sale" style="display:block;padding:16px;border:2px solid #e2e8f0;border-radius:8px;text-decoration:none;color:inherit;transition:border-color 0.2s,box-shadow 0.2s;" onmouseover="this.style.borderColor='#0ea5e9';this.style.boxShadow='0 2px 8px rgba(14,165,233,0.15)'" onmouseout="this.style.borderColor='#e2e8f0';this.style.boxShadow='none'">
+  <a href="/guide/kyouyuu-mochibun-kaitori/" style="display:block;padding:16px;border:2px solid #e2e8f0;border-radius:8px;text-decoration:none;color:inherit;transition:border-color 0.2s,box-shadow 0.2s;" onmouseover="this.style.borderColor='#0ea5e9';this.style.boxShadow='0 2px 8px rgba(14,165,233,0.15)'" onmouseout="this.style.borderColor='#e2e8f0';this.style.boxShadow='none'">
     <div style="font-size:1.4rem;margin-bottom:6px;">👨‍👩‍👧‍👦</div>
     <div style="font-weight:700;font-size:0.95rem;color:#1e293b;margin-bottom:4px;">相続で兄弟・家族と共有になった</div>
     <div style="font-size:0.8rem;color:#64748b;">→ 共有名義不動産の売却・合意形成の方法</div>
   </a>
-  <a href="/guide/kyouyuu-mochibun-kaitori" style="display:block;padding:16px;border:2px solid #e2e8f0;border-radius:8px;text-decoration:none;color:inherit;transition:border-color 0.2s,box-shadow 0.2s;" onmouseover="this.style.borderColor='#0ea5e9';this.style.boxShadow='0 2px 8px rgba(14,165,233,0.15)'" onmouseout="this.style.borderColor='#e2e8f0';this.style.boxShadow='none'">
+  <a href="/guide/kyouyuu-mochibun-kaitori/" style="display:block;padding:16px;border:2px solid #e2e8f0;border-radius:8px;text-decoration:none;color:inherit;transition:border-color 0.2s,box-shadow 0.2s;" onmouseover="this.style.borderColor='#0ea5e9';this.style.boxShadow='0 2px 8px rgba(14,165,233,0.15)'" onmouseout="this.style.borderColor='#e2e8f0';this.style.boxShadow='none'">
     <div style="font-size:1.4rem;margin-bottom:6px;">✋</div>
     <div style="font-weight:700;font-size:0.95rem;color:#1e293b;margin-bottom:4px;">自分の持分だけ売りたい（他の共有者が同意しない）</div>
     <div style="font-size:0.8rem;color:#64748b;">→ 持分のみ買取の手順・価格目安</div>
   </a>
-  <a href="/guide/dementia-coowner-property-sale" style="display:block;padding:16px;border:2px solid #e2e8f0;border-radius:8px;text-decoration:none;color:inherit;transition:border-color 0.2s,box-shadow 0.2s;" onmouseover="this.style.borderColor='#0ea5e9';this.style.boxShadow='0 2px 8px rgba(14,165,233,0.15)'" onmouseout="this.style.borderColor='#e2e8f0';this.style.boxShadow='none'">
+  <a href="/guide/dementia-coowner-property-sale/" style="display:block;padding:16px;border:2px solid #e2e8f0;border-radius:8px;text-decoration:none;color:inherit;transition:border-color 0.2s,box-shadow 0.2s;" onmouseover="this.style.borderColor='#0ea5e9';this.style.boxShadow='0 2px 8px rgba(14,165,233,0.15)'" onmouseout="this.style.borderColor='#e2e8f0';this.style.boxShadow='none'">
     <div style="font-size:1.4rem;margin-bottom:6px;">🏥</div>
     <div style="font-weight:700;font-size:0.95rem;color:#1e293b;margin-bottom:4px;">共有者が認知症・意思疎通できない</div>
     <div style="font-size:0.8rem;color:#64748b;">→ 成年後見人と共有不動産の売却手順</div>
   </a>
-  <a href="/guide/divorce-house-sale" style="display:block;padding:16px;border:2px solid #e2e8f0;border-radius:8px;text-decoration:none;color:inherit;transition:border-color 0.2s,box-shadow 0.2s;" onmouseover="this.style.borderColor='#0ea5e9';this.style.boxShadow='0 2px 8px rgba(14,165,233,0.15)'" onmouseout="this.style.borderColor='#e2e8f0';this.style.boxShadow='none'">
+  <a href="/guide/divorce-house-sale/" style="display:block;padding:16px;border:2px solid #e2e8f0;border-radius:8px;text-decoration:none;color:inherit;transition:border-color 0.2s,box-shadow 0.2s;" onmouseover="this.style.borderColor='#0ea5e9';this.style.boxShadow='0 2px 8px rgba(14,165,233,0.15)'" onmouseout="this.style.borderColor='#e2e8f0';this.style.boxShadow='none'">
     <div style="font-size:1.4rem;margin-bottom:6px;">💔</div>
     <div style="font-weight:700;font-size:0.95rem;color:#1e293b;margin-bottom:4px;">離婚後に共有名義の家が残っている</div>
     <div style="font-size:0.8rem;color:#64748b;">→ 離婚時の共有不動産を処分する3つの方法</div>
   </a>
-  <a href="/guide/souzoku-jirei-08-kyoyu-mome-kaitori" style="display:block;padding:16px;border:2px solid #e2e8f0;border-radius:8px;text-decoration:none;color:inherit;transition:border-color 0.2s,box-shadow 0.2s;" onmouseover="this.style.borderColor='#0ea5e9';this.style.boxShadow='0 2px 8px rgba(14,165,233,0.15)'" onmouseout="this.style.borderColor='#e2e8f0';this.style.boxShadow='none'">
+  <a href="/guide/souzoku-jirei-08-kyoyu-mome-kaitori/" style="display:block;padding:16px;border:2px solid #e2e8f0;border-radius:8px;text-decoration:none;color:inherit;transition:border-color 0.2s,box-shadow 0.2s;" onmouseover="this.style.borderColor='#0ea5e9';this.style.boxShadow='0 2px 8px rgba(14,165,233,0.15)'" onmouseout="this.style.borderColor='#e2e8f0';this.style.boxShadow='none'">
     <div style="font-size:1.4rem;margin-bottom:6px;">📖</div>
-    <div style="font-weight:700;font-size:0.95rem;color:#1e293b;margin-bottom:4px;">相続で兄弟が揉めている（体験談を見たい）</div>
+    <div style="font-weight:700;font-size:0.95rem;color:#1e293b;margin-bottom:4px;">相続で兄弟が揉めている（参考例を見たい）</div>
     <div style="font-size:0.8rem;color:#64748b;">→ 共有持分トラブルの買取解決事例</div>
   </a>
-  <a href="/guide/kyouyuu-mochibun-qa-hub" style="display:block;padding:16px;border:2px solid #e2e8f0;border-radius:8px;text-decoration:none;color:inherit;transition:border-color 0.2s,box-shadow 0.2s;" onmouseover="this.style.borderColor='#0ea5e9';this.style.boxShadow='0 2px 8px rgba(14,165,233,0.15)'" onmouseout="this.style.borderColor='#e2e8f0';this.style.boxShadow='none'">
+  <a href="/guide/kyouyuu-mochibun-kaitori/" style="display:block;padding:16px;border:2px solid #e2e8f0;border-radius:8px;text-decoration:none;color:inherit;transition:border-color 0.2s,box-shadow 0.2s;" onmouseover="this.style.borderColor='#0ea5e9';this.style.boxShadow='0 2px 8px rgba(14,165,233,0.15)'" onmouseout="this.style.borderColor='#e2e8f0';this.style.boxShadow='none'">
     <div style="font-size:1.4rem;margin-bottom:6px;">💬</div>
     <div style="font-weight:700;font-size:0.95rem;color:#1e293b;margin-bottom:4px;">18の疑問にQ&Aで答えてほしい</div>
     <div style="font-size:0.8rem;color:#64748b;">→ 共有持分Q&Aハブ（宅建業者が本音で回答）</div>
   </a>
-  <a href="/guide/kyoyuu-mochibun-teigi-hikaku" style="display:block;padding:16px;border:2px solid #e2e8f0;border-radius:8px;text-decoration:none;color:inherit;transition:border-color 0.2s,box-shadow 0.2s;" onmouseover="this.style.borderColor='#0ea5e9';this.style.boxShadow='0 2px 8px rgba(14,165,233,0.15)'" onmouseout="this.style.borderColor='#e2e8f0';this.style.boxShadow='none'">
+  <a href="/guide/kyoyuu-mochibun-teigi-hikaku/" style="display:block;padding:16px;border:2px solid #e2e8f0;border-radius:8px;text-decoration:none;color:inherit;transition:border-color 0.2s,box-shadow 0.2s;" onmouseover="this.style.borderColor='#0ea5e9';this.style.boxShadow='0 2px 8px rgba(14,165,233,0.15)'" onmouseout="this.style.borderColor='#e2e8f0';this.style.boxShadow='none'">
     <div style="font-size:1.4rem;margin-bottom:6px;">📋</div>
     <div style="font-weight:700;font-size:0.95rem;color:#1e293b;margin-bottom:4px;">共有持分の定義・種類を知りたい</div>
     <div style="font-size:0.8rem;color:#64748b;">→ 共有持分の定義・種類・仕組みを比較解説</div>
   </a>
-  <a href="/guide/kyouyuu-mochibun-sodan-jirei" style="display:block;padding:16px;border:2px solid #e2e8f0;border-radius:8px;text-decoration:none;color:inherit;transition:border-color 0.2s,box-shadow 0.2s;" onmouseover="this.style.borderColor='#0ea5e9';this.style.boxShadow='0 2px 8px rgba(14,165,233,0.15)'" onmouseout="this.style.borderColor='#e2e8f0';this.style.boxShadow='none'">
+  <a href="/guide/kyouyuu-mochibun-sodan-jirei/" style="display:block;padding:16px;border:2px solid #e2e8f0;border-radius:8px;text-decoration:none;color:inherit;transition:border-color 0.2s,box-shadow 0.2s;" onmouseover="this.style.borderColor='#0ea5e9';this.style.boxShadow='0 2px 8px rgba(14,165,233,0.15)'" onmouseout="this.style.borderColor='#e2e8f0';this.style.boxShadow='none'">
     <div style="font-size:1.4rem;margin-bottom:6px;">💬</div>
     <div style="font-weight:700;font-size:0.95rem;color:#1e293b;margin-bottom:4px;">共有持分の相談事例を見たい</div>
     <div style="font-size:0.8rem;color:#64748b;">→ 共有持分の相談事例・解決パターン集</div>
@@ -161,10 +162,9 @@ updatedDate: "2026-09-07"
 
 共有持分の定義・種類・仕組みを理解したい方はこちら。
 
-- [共有持分の買取｜他の共有者と揉めずに自分の持分だけ売る方法](/guide/kyouyuu-mochibun-kaitori) — 持分売却の仕組み・価格・手順（ピラーページ）
-- [共有持分とは？定義・種類・発生原因を宅建業者が比較解説](/guide/kyoyuu-mochibun-teigi-hikaku) — 法定相続・遺産分割・持分割合の意味
-- [共有持分Q&Aハブ｜18の疑問に宅建業者が本音で回答](/guide/kyouyuu-mochibun-qa-hub) — 共有持分に関する全疑問への詳細回答
-- [共有持分はいくらで売れる？大阪市の路線価から自分で計算する4ステップ](/guide/kyouyuu-mochibun-osaka-jibunde-keisan) — 路線価÷0.8で時価を出す手順・大阪市24区の路線価目安・掛け目の条件別レンジ・3ケースの実額試算
+- [共有持分の買取｜他の共有者と揉めずに自分の持分だけ売る方法](/guide/kyouyuu-mochibun-kaitori/) — 持分売却の仕組み・価格・手順（ピラーページ）
+- [共有持分とは？定義・種類・発生原因を宅建業者が比較解説](/guide/kyoyuu-mochibun-teigi-hikaku/) — 法定相続・遺産分割・持分割合の意味
+- [共有持分はいくらで売れる？大阪市の路線価から自分で計算する4ステップ](/guide/kyouyuu-mochibun-osaka-jibunde-keisan/) — 路線価÷0.8で時価を出す手順・大阪市24区の路線価目安・掛け目の条件別レンジ・3ケースの実額試算
 
 ---
 
@@ -174,29 +174,29 @@ updatedDate: "2026-09-07"
 
 ### 相続で共有になった場合
 
-- [相続した共有名義不動産の売却方法｜兄弟が合意しない場合も解説](/guide/joint-ownership-sale) — 合意形成から全体売却・持分売却までの選択肢
-- [共有持分の相談事例・解決パターン集](/guide/kyouyuu-mochibun-sodan-jirei) — 実際の相談から解決までの事例
-- [体験談・事例08: 共有持分トラブルの買取解決事例](/guide/souzoku-jirei-08-kyoyu-mome-kaitori) — 兄弟間トラブルを持分買取で解決した全記録
+- [相続した共有名義不動産の売却方法｜兄弟が合意しない場合も解説](/guide/kyouyuu-mochibun-kaitori/) — 合意形成から全体売却・持分売却までの選択肢
+- [共有持分のよくある相談の参考例・解決パターン集](/guide/kyouyuu-mochibun-sodan-jirei/) — よくある相談から解決までの参考例
+- [参考例・事例08: 共有持分トラブルの買取解決事例](/guide/souzoku-jirei-08-kyoyu-mome-kaitori/) — 兄弟間トラブルを持分買取で解決するケース（参考例）
 
 ### 認知症・意思疎通困難な共有者がいる場合
 
-- [認知症の共有者がいる不動産｜成年後見人を使った売却手順](/guide/dementia-coowner-property-sale) — 後見申立から売買契約まで
-- [認知症の親の家を売るには？成年後見・家族信託の違いと手順](/guide/dementia-house-sale) — 親名義の不動産売却のための法的手続き
+- [認知症の共有者がいる不動産｜成年後見人を使った売却手順](/guide/dementia-coowner-property-sale/) — 後見申立から売買契約まで
+- [認知症の親の家を売るには？成年後見・家族信託の違いと手順](/guide/dementia-house-sale/) — 親名義の不動産売却のための法的手続き
 
 ### 離婚で共有名義が残っている場合
 
-- [離婚後の共有名義不動産を処分する方法｜売却・買取・財産分与の3択】](/guide/divorce-house-sale) — 離婚時の不動産処分の全手順と注意点
+- [離婚後の共有名義不動産を処分する方法｜売却・買取・財産分与の3択】](/guide/divorce-house-sale/) — 離婚時の不動産処分の全手順と注意点
 
 ---
 
-## 体験談・買取事例 {#事例}
+## 参考事例・買取の例 {#事例}
 
-実例で判断したい方はこちら。
+参考例で判断したい方はこちら。
 
 | 事例 | 状況 | 解決日数 | リンク |
 |------|------|---------|------|
-| 事例08 | 相続後の共有持分トラブル（兄弟間） | **—** | [記録を見る](/guide/souzoku-jirei-08-kyoyu-mome-kaitori) |
-| 相談事例集 | 共有持分トラブルの相談〜解決 | **—** | [一覧を見る](/guide/kyouyuu-mochibun-sodan-jirei) |
+| 事例08 | 相続後の共有持分トラブル（兄弟間） | **—** | [参考例を見る](/guide/souzoku-jirei-08-kyoyu-mome-kaitori/) |
+| 相談事例集 | 共有持分トラブルの相談〜解決 | **—** | [一覧を見る](/guide/kyouyuu-mochibun-sodan-jirei/) |
 
 ---
 
@@ -215,22 +215,21 @@ A. ①戸籍謄本から現住所を追跡②家庭裁判所に「不在者財�
 
 ## 関連するガイド記事
 
-- <a href="/guide/kyouyuu-mochibun-qa-hub">共有持分Q&Aハブ｜18の疑問に宅建業者が本音で回答</a>
-- <a href="/guide/kyouyuu-butsu-bunkatsu-seikyu-jitsumu">共有持分を売った後どうなる？共有物分割請求の流れ・期間・費用【2026年版】</a>
-- <a href="/guide/souzoku-jirei-08-kyoyu-mome-kaitori">【体験談・事例08】「弟が売りたくない」と3年間膠着した実家の共有持分を32日で現金化した全記録</a>
-- <a href="/guide/kyouyuu-mochibun-kaitori">共有持分の買取｜他の共有者の同意不要・もめずに持分だけ売る方法【最短2週間・大阪・近畿対応】</a>
-- <a href="/guide/souzoku-apart-kanzen-guide">相続アパートを手放したい方へ｜売却の流れ・税金・失敗しない判断基準を宅建業者が完全解説【2026年最新】</a>
-- <a href="/guide/souzoku-fudousan-urikata-kanzen-guide">【2026年版】相続した不動産の売り方 完全ガイド｜実務手順・費用・業者選定を買取業者が解説</a>
+- <a href="/guide/kyouyuu-butsu-bunkatsu-seikyu-jitsumu/">共有持分を売った後どうなる？共有物分割請求の流れ・期間・費用【2026年版】</a>
+- <a href="/guide/souzoku-jirei-08-kyoyu-mome-kaitori/">【参考例・事例08】「弟が売りたくない」と3年間膠着した実家の共有持分を32日で現金化したケース</a>
+- <a href="/guide/kyouyuu-mochibun-kaitori/">共有持分の買取｜他の共有者の同意不要・もめずに持分だけ売る方法【最短2週間・大阪・近畿対応】</a>
+- <a href="/guide/souzoku-apart-kanzen-guide/">相続アパートを手放したい方へ｜売却の流れ・税金・失敗しない判断基準を宅建業者が完全解説【2026年最新】</a>
+- <a href="/guide/parent-death-house/">【2026年版】相続した不動産の売り方 完全ガイド｜実務手順・費用・業者選定を買取業者が解説</a>
 
 ## 関連するハブガイド
 
 相続が原因で発生した共有持分問題の場合は、相続ハブガイドも合わせてご覧ください。
 
-- <a href="/guide/souzoku-hub">相続不動産 完全ハブ｜処分・売却・登記・固定資産税まで全ガイドをまとめて確認</a>
-- <a href="/guide/saikenchifu-hub">再建築不可 完全ハブ｜買取・接道・建替えできない物件の処分ガイドまとめ</a>
-- <a href="/guide/wakare-bukken-to-wa">訳あり物件とは？5種類の定義・告知義務・売却可否チェックリスト【2026年版】</a>
+- <a href="/guide/parent-death-house/">相続した家の売り方と手続き</a>
+- <a href="/guide/non-rebuildable-property-sale/">再建築不可物件の売却方法</a>
+- <a href="/guide/wakare-bukken-to-wa/">訳あり物件とは？5種類の定義・告知義務・売却可否チェックリスト【2026年版】</a>
 
 ## 執筆・監修
 
 **八木 宏樹**（宅建業免許: 大阪府知事(1)第65646号）  
-合同会社アルシェ 代表。共有持分・相続不動産の買取を専門として大阪・近畿対応。兄弟間トラブル・認知症共有者・離婚後の共有名義など複雑な権利関係の案件に対応実績多数。
+合同会社アルシェ 代表。共有持分・相続不動産の買取を専門として大阪・近畿対応。兄弟間トラブル・認知症共有者・離婚後の共有名義など複雑な権利関係の案件にも対応しています。

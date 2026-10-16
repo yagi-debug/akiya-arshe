@@ -179,7 +179,7 @@ howToSteps:
 
 なお告知の際も、亡くなった方やご遺族の名誉と生活の平穏に配慮する必要があるため、氏名・年齢・住所・家族構成や具体的な死の態様、発見状況までを告げる必要はないとされています。この点はご安心ください。
 
-売却時期の考え方については、<a href="/guide/jiko-bukken-uru-timing">事故物件を高く売るタイミング｜「3年待てば」が損になる理由と5つの期限</a>で期限ごとに整理しています。
+売却時期の考え方については、<a href="/guide/jiko-bukken-uru-timing/">事故物件を高く売るタイミング｜「3年待てば」が損になる理由と5つの期限</a>で期限ごとに整理しています。
 
 ## 「先に払って売る」と「現況のまま渡す」を手残りで比べます
 
@@ -202,7 +202,7 @@ howToSteps:
 
 売れ残って値下げをすれば、差はすぐに逆転します。相続人が複数いて、いったん誰かが立て替えるという話になっているのであれば、なおさら先に両方の数字を出しておいたほうが揉めません。
 
-現況のまま売る方法については、<a href="/guide/souzoku-fudosan-genjou-watashi-kaitori">相続した家を現状渡しで売る方法｜片付け・修繕なしで買取できる理由</a>もあわせてご覧ください。
+現況のまま売る方法については、<a href="/guide/souzoku-fudosan-genjou-watashi-kaitori/">相続した家を現状渡しで売る方法｜片付け・修繕なしで買取できる理由</a>もあわせてご覧ください。
 
 ## 大阪市で相続した実家の場合
 
@@ -217,9 +217,9 @@ howToSteps:
 生野区・西成区・東成区のように住宅が密集した地域では、作業車の出入りが近隣に伝わりやすくなります。現況のままお引き渡しいただく場合、清掃は引渡し後の作業になりますので、売主様側で業者を手配する必要はありません。看板も広告も出しません。
 
 <strong>3. 相続登記が済んでいない</strong><br>
-2024年4月から相続登記が義務化されています。登記が済んでいない段階でも査定はできますので、先に金額を知ってから登記の段取りを決めていただいて構いません。詳しくは<a href="/guide/inheritance-registry">相続登記の義務化｜3年期限・10万円過料・手続き費用と3つの対策</a>をご覧ください。
+2024年4月から相続登記が義務化されています。登記が済んでいない段階でも査定はできますので、先に金額を知ってから登記の段取りを決めていただいて構いません。詳しくは<a href="/guide/inheritance-registry-neglect-sale-3options/">相続登記の義務化｜3年期限・10万円過料・手続き費用と3つの対策</a>をご覧ください。
 
-大阪市24区の価格帯については<a href="/guide/osaka-24ku-wakeari-kakakutai-map">大阪市24区の訳あり物件買取相場マップ</a>にまとめています。
+大阪市24区の価格帯については<a href="/guide/osaka-24ku-wakeari-kakakutai-map/">大阪市24区の訳あり物件買取相場マップ</a>にまとめています。
 
 ## よくある質問
 
@@ -245,7 +245,7 @@ howToSteps:
 
 ### Q. 相続放棄をすれば、これらの費用は払わずに済みますか？
 
-相続放棄をすれば相続人ではなくなりますので、相続財産に関する費用の負担からは離れることになります。ただし相続放棄には「自己のために相続の開始があったことを知った時から3か月以内」という期限があり、また放棄後も一定の管理に関する義務が残る場合があります。詳しくは<a href="/guide/inheritance-abandon">相続放棄したら家はどうなる？手続きの流れと注意点</a>をご覧ください。
+相続放棄をすれば相続人ではなくなりますので、相続財産に関する費用の負担からは離れることになります。ただし相続放棄には「自己のために相続の開始があったことを知った時から3か月以内」という期限があり、また放棄後も一定の管理に関する義務が残る場合があります。詳しくは<a href="/guide/inheritance-abandon/">相続放棄したら家はどうなる？手続きの流れと注意点</a>をご覧ください。
 
 ### Q. 大阪市の実家でも現況のまま査定してもらえますか？
 
@@ -269,7 +269,7 @@ howToSteps:
 
 <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06c755;color:#fff;padding:14px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 4px;">LINE「空き家のミカタ」に相談する（無料）</a>
 
-<a href="/contact" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 4px;">無料査定フォームで相談する</a>
+<a href="/contact/" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 4px;">無料査定フォームで相談する</a>
 
 相続した訳あり物件を専門に扱っており、<strong>清掃前・残置物そのまま・現況のまま</strong>で査定にお応えできます。秘密厳守で対応し、遠方にお住まいの相続人の方からのご相談も承っています。
 
@@ -279,13 +279,13 @@ howToSteps:
 
 ## 関連記事
 
-- <a href="/guide/jikobukken-baikyaku-futan-hiyou">事故物件の売却費用は誰が払う？特殊清掃・原状回復の相場と負担者</a>
-- <a href="/guide/souzoku-ihin-seiri-kazai-baikyaku">相続した実家の遺品・家財整理｜費用相場・業者選び・残置物のまま売る方法</a>
-- <a href="/guide/jiko-bukken-uru-timing">事故物件を高く売るタイミング｜「3年待てば」が損になる理由と5つの期限</a>
-- <a href="/guide/solitary-death-disclosure-price-impact">孤独死物件の告知義務と価格への影響｜自殺との違い・告知期間・値引き幅</a>
-- <a href="/guide/souzoku-fudosan-genjou-watashi-kaitori">相続した家を現状渡しで売る方法｜片付け・修繕なしで買取できる理由</a>
-- <a href="/guide/inheritance-tax-basics">相続税はいくらから？基礎控除の計算方法をわかりやすく解説</a>
-- <a href="/guide/souzoku-jirei-02-jiko-bukken-kaitori">【事例】弟の孤独死マンションを相続。特殊清掃前・遠方から18日で売却できた全記録</a>
+- <a href="/guide/jikobukken-baikyaku-futan-hiyou/">事故物件の売却費用は誰が払う？特殊清掃・原状回復の相場と負担者</a>
+- <a href="/guide/souzoku-ihin-seiri-kazai-baikyaku/">相続した実家の遺品・家財整理｜費用相場・業者選び・残置物のまま売る方法</a>
+- <a href="/guide/jiko-bukken-uru-timing/">事故物件を高く売るタイミング｜「3年待てば」が損になる理由と5つの期限</a>
+- <a href="/guide/solitary-death-disclosure-price-impact/">孤独死物件の告知義務と価格への影響｜自殺との違い・告知期間・値引き幅</a>
+- <a href="/guide/souzoku-fudosan-genjou-watashi-kaitori/">相続した家を現状渡しで売る方法｜片付け・修繕なしで買取できる理由</a>
+- <a href="/guide/inheritance-tax-basics/">相続税はいくらから？基礎控除の計算方法をわかりやすく解説</a>
+- <a href="/guide/souzoku-jirei-02-jiko-bukken-kaitori/">【参考例・事例02】弟の孤独死マンションを相続。特殊清掃前・遠方からでも18日で売却できたケース</a>
 
 ---
 

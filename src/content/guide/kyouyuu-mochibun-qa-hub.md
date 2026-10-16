@@ -2,8 +2,8 @@
 title: "共有持分Q&Aハブ｜18の疑問に宅建業者が本音で回答"
 description: "「持分だけ売れるか」「他の共有者が反対したら」「持分放棄と売却の違いは」など共有持分に関する18の疑問を、実務経験のある宅建業者がFAQ形式で詳しく解説します。相続・離婚・共有トラブルで困っている方へ。"
 publishDate: "2026-05-06"
+noindex: true
 cluster: "shared-ownership"
-isPillar: true
 author: "宅建業者"
 authorTitle: "宅建業者"
 heroImage: "/images/kyouyuu-mochibun-qa-hub-hero.jpg"
@@ -39,6 +39,8 @@ updatedDate: "2026-09-07"
 > 3. <strong>共有者が反対したら</strong> → 自分の持分だけを直接買取業者に売却する方法があります（全体売却への同意は不要）
 
 <strong>共有持分に関するご相談で、繰り返し挙がる疑問を18問にまとめました。</strong>「持分だけ売れるのか」「持分放棄と売却は何が違うのか」「持分の相場はいくらか」など、法的な複雑性も含めて実務ベースでお答えします。
+
+このテーマの全体像は[共有持分の買取・売却方法](/guide/kyouyuu-mochibun-kaitori/)にまとめています。
 
 ## カテゴリ1: 共有持分の基本
 
@@ -105,7 +107,7 @@ updatedDate: "2026-09-07"
 
 共有持分に関しては、仲介で高値を狙うより直接買取で確実に現金化する方が、結果的に得になるケースがほとんどです。
 
-詳しい流れは<a href="/guide/kyouyuu-mochibun-kaitori">共有持分の買取｜他の共有者の同意不要・もめずに持分だけ売る方法</a>をご覧ください。
+詳しい流れは<a href="/guide/kyouyuu-mochibun-kaitori/">共有持分の買取｜他の共有者の同意不要・もめずに持分だけ売る方法</a>をご覧ください。
 
 ## カテゴリ3: 他の共有者との関係
 
@@ -152,7 +154,7 @@ updatedDate: "2026-09-07"
 
 <strong>自分の持分だけを売る場合</strong>は、認知症の共有者の同意は法律上不要です。
 
-詳しくは<a href="/guide/dementia-coowner-property-sale">認知症の共有者がいる不動産の売却</a>もご参照ください。
+詳しくは<a href="/guide/dementia-coowner-property-sale/">認知症の共有者がいる不動産の売却</a>もご参照ください。
 
 ### Q11. 共有者が亡くなって、誰が相続人かわからない場合は？
 
@@ -229,7 +231,7 @@ updatedDate: "2026-09-07"
 
 なお、2024年4月から<strong>相続登記が義務化</strong>されています（相続を知った日から3年以内に申請義務）。未登記のまま放置すると10万円以下の過料が課される場合があります。売却前に相続登記を完了させる必要があります。
 
-詳しくは<a href="/guide/souzoku-touki-gimuka-kanzen-taiou-2026">相続登記義務化の完全対応ガイド2026年版</a>をご覧ください。
+詳しくは<a href="/guide/inheritance-registry-neglect-sale-3options/">相続登記義務化の完全対応ガイド2026年版</a>をご覧ください。
 
 ### Q18. 共有者が複数（10人以上）いる場合はどうなりますか？
 
@@ -261,20 +263,20 @@ updatedDate: "2026-09-07"
 
 ## 関連するガイド記事
 
-- <a href="/guide/kyouyuu-mochibun-hub">共有持分 完全ハブ｜売却・買取・トラブル解決・相場まで全ガイドまとめ【2026年版】</a>
-- <a href="/guide/souzoku-jirei-08-kyoyu-mome-kaitori">【体験談・事例08】「弟が売りたくない」と3年間膠着した実家の共有持分を32日で現金化した全記録</a>
-- <a href="/guide/kyouyuu-mochibun-sodan-jirei">「兄が売らないと言っている」共有名義の実家を処分できた相談事例｜宅建業者の記録</a>
-- <a href="/guide/souzoku-apart-kanzen-guide">相続アパートを手放したい方へ｜売却の流れ・税金・失敗しない判断基準を宅建業者が完全解説【2026年最新】</a>
-- <a href="/guide/souzoku-fudousan-shobun-kanzen-guide">相続不動産の処分 完全ガイド2026｜法律・登記・比較表・失敗対策まで一気に解説</a>
+- <a href="/guide/kyouyuu-mochibun-kaitori/">共有持分の買取・売却方法</a>
+- <a href="/guide/souzoku-jirei-08-kyoyu-mome-kaitori/">【参考例・事例08】「弟が売りたくない」と3年間膠着した実家の共有持分を32日で現金化したケース</a>
+- <a href="/guide/kyouyuu-mochibun-sodan-jirei/">「兄が売らないと言っている」共有名義の実家を処分するには｜よくある相談の参考例</a>
+- <a href="/guide/souzoku-apart-kanzen-guide/">相続アパートを手放したい方へ｜売却の流れ・税金・失敗しない判断基準を宅建業者が完全解説【2026年最新】</a>
+- <a href="/guide/parent-death-house/">相続不動産の処分 完全ガイド2026｜法律・登記・比較表・失敗対策まで一気に解説</a>
 
 ## 無料相談・お問い合わせ
 
-共有持分のお悩みは、LINEでご相談ください。「持分を売りたいが、状況が複雑でどこに相談すればいいかわからない」という方のご相談を多くいただいています。
+共有持分のお悩みは、LINEでご相談ください。「持分を売りたいが、状況が複雑でどこに相談すればいいかわからない」という方のご相談もお受けしています。
 
 権利関係が複雑でも、まず状況を整理するところからお手伝いします。
 
 **[LINEで無料相談する](https://line.arshe1719.workers.dev/auth/line?ref=hp)**
 
-**[お問い合わせフォームはこちら](/contact)**
+**[お問い合わせフォームはこちら](/contact/)**
 
 相談無料・秘密厳守・大阪・近畿対応

@@ -203,11 +203,11 @@ A. はい、相談・査定は登記完了前でも可能です。訳あり物�
 
 数次相続の登記手続きと売却は、一人で進めようとすると時間も手間もかかります。まず専門家に相談して、現状を整理することから始めてください。
 
-関連記事として、[相続登記義務化の完全対応ガイド【2026年版】](/guide/souzoku-touki-gimuka-kanzen-taiou-2026)と[相続した不動産の売り方 完全ガイド](/guide/souzoku-fudousan-shobun-kanzen-guide)も合わせてご覧ください。
+関連記事として、[相続登記義務化の完全対応ガイド【2026年版】](/guide/inheritance-registry-neglect-sale-3options/)と[相続した不動産の売り方 完全ガイド](/guide/parent-death-house/)も合わせてご覧ください。
 
 ---
 
-**このカテゴリの全ガイド一覧:** [→ 相続不動産 完全ハブ【2026年版】](/guide/souzoku-hub)
+**このカテゴリの中心の記事:** [→ 相続した家の売り方と手続き](/guide/parent-death-house/)
 
 ---
 
@@ -216,4 +216,4 @@ A. はい、相談・査定は登記完了前でも可能です。訳あり物�
 数次相続で名義が祖父・父のままになっている不動産の処分でお困りの方のご相談をお受けしています。登記手続きの状況・相続人の範囲・売却希望のスケジュールなどをお知らせいただければ、最適な進め方をご提案します。査定・相談は無料で、しつこい営業は行いません。
 
 <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06C755;color:#fff;padding:14px 32px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 8px 8px 0;">LINEで無料相談（即日対応）</a>
-<a href="/contact" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 32px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 0;">お問い合わせフォーム</a>
+<a href="/contact/" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 32px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 0;">お問い合わせフォーム</a>

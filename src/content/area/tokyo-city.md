@@ -65,7 +65,7 @@ heroImage: "/images/tokyo-city-hero.jpg"
 東京都の空き家は<strong>約90万戸（空き家率10.6%）</strong>（出典：2023年 総務省「住宅・土地統計調査」2024年4月公表）。全国平均（13.8%）を下回るものの、絶対数では全国最多水準です。特に「その他の住宅（放置状態の空き家）」が増加しており、高齢者が所有する長期放置物件が問題化しています。
 
 - <strong>足立区の空き家率は23区内でも上位</strong>。木造密集市街地が広がり、行政も「空き家対策特別措置法」に基づく立入調査を積極実施
-- <strong>特定空き家に指定されると固定資産税が最大6倍</strong>になるリスクがある（[詳細はこちら](/guide/vacancy-tax-6times)）
+- <strong>特定空き家に指定されると固定資産税が最大6倍</strong>になるリスクがある（[詳細はこちら](/guide/akiya-koteishisanzei-6bai-hikaku/)）
 - 東京都では「東京都空き家対策推進計画（2024〜2028年度）」を策定し、空き家の利活用・除却を促進（出典：東京都「東京都空き家対策推進計画」2024年3月公表）
 - ただし補助金適用の条件は厳しく、訳あり物件の多くは対象外
 
@@ -75,7 +75,7 @@ heroImage: "/images/tokyo-city-hero.jpg"
 
 - 足立区・葛飾区の木造密集地域（整備地域）は東京都内でも最大規模
 - 「再建築不可=売れない」と思っている所有者が多いが、<strong>直接買取であれば現況のまま対応可能</strong>
-- 2024年相続登記義務化（[詳細](/guide/souzoku-touki-gimuka-karyo)）により、放置できない状況になっている相続物件も増加
+- 2024年相続登記義務化（[詳細](/guide/souzoku-touki-gimuka-karyo/)）により、放置できない状況になっている相続物件も増加
 
 ### 相続アパートの問題
 
@@ -132,7 +132,7 @@ A. ご相談いただけます。2024年4月施行の相続登記義務化（3�
 A. もちろんです。LINE・メールでのご相談に対応しており、現地調査は提携ネットワークを活用します。相続人が全国各地に住んでいるケースにも慣れていますのでご安心ください。
 
 <strong>Q. 共有持分（自分の分だけ）売ることはできますか？</strong>
-A. はい、他の共有者の同意なしで自分の持分だけを売却することが可能です。詳しくは[共有持分買取ガイド](/guide/kyouyuu-mochibun-kaitori)をご覧ください。
+A. はい、他の共有者の同意なしで自分の持分だけを売却することが可能です。詳しくは[共有持分買取ガイド](/guide/kyouyuu-mochibun-kaitori/)をご覧ください。
 
 ---
 
@@ -142,7 +142,7 @@ A. はい、他の共有者の同意なしで自分の持分だけを売却す�
 
 <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06C755;color:#fff;font-weight:bold;padding:0.75rem 2rem;border-radius:0.5rem;text-decoration:none;margin:0.5rem 0;">LINEで無料相談する（24時間受付）</a>
 
-<a href="/contact" style="display:inline-block;background:#2563eb;color:#fff;font-weight:bold;padding:0.75rem 2rem;border-radius:0.5rem;text-decoration:none;margin:0.5rem 0;">お問い合わせフォームはこちら</a>
+<a href="/contact/" style="display:inline-block;background:#2563eb;color:#fff;font-weight:bold;padding:0.75rem 2rem;border-radius:0.5rem;text-decoration:none;margin:0.5rem 0;">お問い合わせフォームはこちら</a>
 
 空き家のミカタ（宅建業者・大阪府知事(1)第65646号）
 
@@ -150,18 +150,18 @@ A. はい、他の共有者の同意なしで自分の持分だけを売却す�
 
 ## 関連する記事
 
-- <a href="/guide/souzoku-apart-kaitori">相続アパートの買取｜管理できない入居者付きアパートも直接買取</a>
-- <a href="/guide/non-rebuildable-property-sale">再建築不可物件の売却方法と注意点</a>
-- <a href="/guide/akiya-kaitori">空き家の買取｜放置している空き家を現金化する方法</a>
-- <a href="/guide/souzoku-ie-doushitara">相続した家はどうすればいい？4つの選択肢と判断基準</a>
-- <a href="/guide/vacancy-tax-6times">空き家の固定資産税が6倍になる条件と回避方法</a>
-- <a href="/guide/kyouyuu-mochibun-kaitori">共有持分の買取｜他の共有者の同意なしで売却できる方法</a>
-- <a href="/guide/souzoku-touki-gimuka-karyo">相続登記しないと過料10万円？放置リスクと売却で解決する方法</a>
+- <a href="/guide/souzoku-apart-kanzen-guide/">相続アパートの買取｜管理できない入居者付きアパートも直接買取</a>
+- <a href="/guide/non-rebuildable-property-sale/">再建築不可物件の売却方法と注意点</a>
+- <a href="/guide/akiya-shobun-5-hikaku/">空き家の処分方法の比較</a>
+- <a href="/guide/souzoku-ie-doushitara/">相続した家はどうすればいい？4つの選択肢と判断基準</a>
+- <a href="/guide/akiya-koteishisanzei-6bai-hikaku/">空き家の固定資産税が6倍になる条件と回避方法</a>
+- <a href="/guide/kyouyuu-mochibun-kaitori/">共有持分の買取｜他の共有者の同意なしで売却できる方法</a>
+- <a href="/guide/souzoku-touki-gimuka-karyo/">相続登記しないと過料10万円？放置リスクと売却で解決する方法</a>
 
 ## 他のエリアの相場を見る
 
-- <a href="/area/nagoya-city">名古屋市の不動産買取相場</a>
-- <a href="/area/yokohama-city">横浜市の不動産買取相場</a>
-- <a href="/area/osaka-kita">大阪市北区の不動産売却相場</a>
-- <a href="/area/saitama-city">さいたま市の不動産買取相場</a>
-- <a href="/area/kawasaki-city">川崎市の不動産買取相場</a>
+- <a href="/area/nagoya-city/">名古屋市の不動産買取相場</a>
+- <a href="/area/yokohama-city/">横浜市の不動産買取相場</a>
+- <a href="/area/osaka-kita/">大阪市北区の不動産売却相場</a>
+- <a href="/area/saitama-city/">さいたま市の不動産買取相場</a>
+- <a href="/area/kawasaki-city/">川崎市の不動産買取相場</a>

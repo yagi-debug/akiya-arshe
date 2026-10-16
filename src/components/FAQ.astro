@@ -4,6 +4,23 @@ interface Props {
 }
 
 const { items } = Astro.props;
+
+// 答えの中の内部リンク（<a href='/...' class='...'>文字</a>）だけをリンクとして表示し、それ以外の < > & は文字として出す。
+// （タグがそのまま画面に出ると、構造化データの答え（タグ除去済み）と画面が食い違うため。2026-10-11）
+const escapeHtml = (s: string) =>
+  s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+const ANCHOR = /<a href=(['"])(\/[^'"<>\s]*)\1(?: class=(['"])([^'"<>]*)\3)?>([^<>]*)<\/a>/g;
+function renderAnswer(answer: string): string {
+  let out = '';
+  let last = 0;
+  for (const m of answer.matchAll(ANCHOR)) {
+    out += escapeHtml(answer.slice(last, m.index));
+    const cls = m[4] ? ` class="${escapeHtml(m[4])}"` : '';
+    out += `<a href="${escapeHtml(m[2])}"${cls}>${escapeHtml(m[5])}</a>`;
+    last = (m.index ?? 0) + m[0].length;
+  }
+  return out + escapeHtml(answer.slice(last));
+}
 ---
 
 <div class="space-y-3">
@@ -30,7 +47,7 @@ const { items } = Astro.props;
       <div class="border-t border-border bg-bg/50 px-5 py-4 text-sm leading-relaxed text-text md:px-6 md:py-5">
         <div class="flex items-start gap-3">
           <span class="flex h-7 w-7 shrink-0 items-center justify-center rounded-full bg-primary text-sm font-black text-white">A</span>
-          <p class="pt-0.5">{item.answer}</p>
+          <p class="pt-0.5" set:html={renderAnswer(item.answer)} />
         </div>
       </div>
     </details>

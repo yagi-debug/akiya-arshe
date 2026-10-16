@@ -84,7 +84,7 @@ faqs:
 
 この文例には、書類から写した情報は1つも入っていません。それでも、場所・名義の見当・入居状況・鍵・立会いの可否が伝わります。<strong>この段階から、机上でどこまで確認できるかをお話しできます。</strong>
 
-相談を始めるときの記入欄は「<a href="/guide/soudan-hajimeru-kakunin-hyo">相談を始める前の確認表</a>」にまとめています。<strong>「手元にある情報」の欄は「資料なし」に丸をつけていただくだけで構いません。</strong>
+相談を始めるときの記入欄は「<a href="/guide/soudan-hajimeru-kakunin-hyo/">相談を始める前の確認表</a>」にまとめています。<strong>「手元にある情報」の欄は「資料なし」に丸をつけていただくだけで構いません。</strong>
 
 ---
 
@@ -102,7 +102,7 @@ faqs:
 
 固定資産課税台帳の閲覧は大阪市の例です。兵庫・京都・奈良・滋賀・和歌山の各市町村では、窓口・費用・必要書類の扱いが異なることがあります。<strong>どの資料が本当に必要かは、物件と進め方が決まってから判断するほうが、無駄な取り寄せを避けられます。</strong>
 
-別記事「<a href="/guide/kenri-sho-funshitsu-fudosan-baikyaku">権利証を紛失した不動産の売却</a>」もご覧ください。
+別記事「<a href="/guide/kenri-sho-funshitsu-fudosan-baikyaku/">権利証を紛失した不動産の売却</a>」もご覧ください。
 
 ---
 
@@ -116,7 +116,7 @@ faqs:
 - <strong>境界の位置</strong>：現地と資料を合わせて確認する項目です
 - <strong>相続登記</strong>：先に済ませなくても相談は始められます（相続登記そのものには申請の期限があるため、進め方は相談の中で確認します）
 
-これらが不明なまま伝えていただいても、相談の入口では支障ありません。<strong>机上で出せるのはあくまで見当</strong>で、現地の確認や資料しだいで変わります。「<a href="/guide/kijou-satei-souzoku-fudosan-soudan">机上査定とは</a>」に、机上でわかることと仮の前提をまとめています。
+これらが不明なまま伝えていただいても、相談の入口では支障ありません。<strong>机上で出せるのはあくまで見当</strong>で、現地の確認や資料しだいで変わります。「<a href="/guide/kijou-satei-souzoku-fudosan-soudan/">机上査定とは</a>」に、机上でわかることと仮の前提をまとめています。
 
 ---
 
@@ -156,7 +156,7 @@ faqs:
 
 <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06C755;color:#fff;padding:14px 32px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 8px 8px 0;">LINE「空き家のミカタ」に相談する（無料）</a>
 
-<a href="/contact" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 32px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 0;">無料査定フォームで相談する</a>
+<a href="/contact/" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 32px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 0;">無料査定フォームで相談する</a>
 
 空き家のミカタは、大阪市生野区に事務所を置く宅地建物取引業者（大阪府知事(1)第65646号）です。物件の所在地が大阪・兵庫・京都・奈良・滋賀・和歌山の不動産について、当社が買主として直接買取のご相談をお受けしています。所有者の方のお住まいは問いません。相談・査定は無料です。直接買取の可否・条件は、所在地と物件の状況を確認して判断します。
 
@@ -164,12 +164,12 @@ faqs:
 
 ## 関連記事
 
-- <a href="/guide/soudan-hajimeru-kakunin-hyo">相談を始める前の確認表｜所在地・入居状況・売却理由の記入欄</a>
-- <a href="/guide/soudan-shiteii-joutai-checklist">相続した家、まだ相談していい？7つの状態別チェック</a>
-- <a href="/guide/kijou-satei-souzoku-fudosan-soudan">机上査定とは？空き家・訳あり物件を現地確認前に相談する方法</a>
-- <a href="/guide/kenri-sho-funshitsu-fudosan-baikyaku">権利証を紛失した不動産の売却</a>
-- <a href="/guide/kagi-genchi-tachiai-soudan-jyunbi">鍵がない・立会いできない場合の相談準備｜相続不動産</a>
-- <a href="/guide/souzoku-ie-wakaranai-soudan">相続した家、誰に相談すればいい？悩み別フローチャートと3つの選択肢</a>
+- <a href="/guide/soudan-hajimeru-kakunin-hyo/">相談を始める前の確認表｜所在地・入居状況・売却理由の記入欄</a>
+- <a href="/guide/soudan-shiteii-joutai-checklist/">相続した家、まだ相談していい？7つの状態別チェック</a>
+- <a href="/guide/kijou-satei-souzoku-fudosan-soudan/">机上査定とは？空き家・訳あり物件を現地確認前に相談する方法</a>
+- <a href="/guide/kenri-sho-funshitsu-fudosan-baikyaku/">権利証を紛失した不動産の売却</a>
+- <a href="/guide/kagi-genchi-tachiai-soudan-jyunbi/">鍵がない・立会いできない場合の相談準備｜相続不動産</a>
+- <a href="/guide/souzoku-ie-wakaranai-soudan/">相続した家、誰に相談すればいい？悩み別フローチャートと3つの選択肢</a>
 
 ---
 

@@ -179,7 +179,7 @@ howToSteps:
 宅地建物取引業者（大阪府知事(1)第65646号）<br/>
 <br/>
 ▶ <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" target="_blank" rel="noopener noreferrer">LINEで24時間相談する（友だち追加）</a><br/>
-▶ <a href="/contact">メール・フォームで相談する</a>
+▶ <a href="/contact/">メール・フォームで相談する</a>
 </div>
 
 相談・査定は完全無料です。売却を急かすことはありません。まず状況をお聞かせください。

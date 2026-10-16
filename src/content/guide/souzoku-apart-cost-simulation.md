@@ -2,6 +2,7 @@
 title: "相続アパートの維持費シミュレーション｜固定資産税・修繕費・管理費の10年間コスト"
 description: "相続した築30年・8室アパート（大阪市内）の維持費を10年分シミュレーション。固定資産税・修繕費・管理費・空室損失を具体的に試算し、保有と売却どちらが得かを比較します。"
 publishDate: "2026-04-11"
+noindex: true
 cluster: "inheritance"
 author: "宅建業者"
 heroImage: "/images/apart-cost-simulation-hero.jpg"
@@ -22,6 +23,8 @@ faqs:
 
 「相続したアパートをとりあえず持っておこう」と考えていませんか。<strong>築古アパートの維持費は、想像以上にかかります。</strong>
 
+このテーマの全体像は[相続アパートの売却ガイド](/guide/souzoku-apart-kanzen-guide/)にまとめています。
+
 この記事では、<strong>築30年・8室・大阪市内</strong>という具体的なモデルケースを使い、固定資産税・修繕費・管理費・空室損失を含めた維持費を10年分シミュレーションします。あわせて、売却した場合の手取り額と比較し、「持ち続けるか・手放すか」を判断するための材料をお伝えします。
 
 ## モデルケースの設定
@@ -39,7 +42,7 @@ faqs:
 | <strong>土地面積</strong> | 約150㎡ |
 | <strong>固定資産税評価額</strong> | 土地2,000万円・建物400万円 |
 
-このモデルケースは、当社がこれまで査定してきた大阪市内の相続アパートの中でも、よくあるパターンです。
+このモデルケースは、大阪市内の相続アパートでよくあるパターンを想定したものです。
 
 ## 年間維持費の内訳
 
@@ -225,13 +228,12 @@ faqs:
 
 ## 関連するガイド記事
 
-- [相続アパートを手放したい方へ｜売却の流れ・税金・判断基準の完全ガイド](/guide/souzoku-apart-kanzen-guide)
-- [相続アパート「売る・貸す・管理委託する」三択を徹底比較](/guide/souzoku-apart-baikyaku-vs-chintai-vs-kanri)
-- [相続アパートの買取｜管理できない入居者付きアパートも直接買取](/guide/souzoku-apart-kaitori)
-- [相続アパートはいつ売るべき？売却タイミングの判断基準](/guide/souzoku-apart-timing)
+- [相続アパートを手放したい方へ｜売却の流れ・税金・判断基準の完全ガイド](/guide/souzoku-apart-kanzen-guide/)
+- [相続アパート「売る・貸す・管理委託する」三択を徹底比較](/guide/souzoku-apart-baikyaku-vs-chintai-vs-kanri/)
+- [相続アパートはいつ売るべき？売却タイミングの判断基準](/guide/souzoku-apart-timing/)
 
 ---
-- <a href="/guide/souzoku-hub">相続不動産 完全ハブ｜処分・売却・登記・固定資産税まで全ガイドをまとめて確認【2026年版】</a>
+- <a href="/guide/parent-death-house/">相続した家の売り方と手続き</a>
 
 ## 相続アパートの維持費・売却のご相談はこちら
 
@@ -241,4 +243,4 @@ faqs:
 
 <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" target="_blank" rel="noopener noreferrer"><strong>LINEで無料相談する</strong></a>
 
-<a href="/contact"><strong>お問い合わせフォームはこちら</strong></a>
+<a href="/contact/"><strong>お問い合わせフォームはこちら</strong></a>

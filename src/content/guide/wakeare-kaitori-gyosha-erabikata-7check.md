@@ -2,6 +2,7 @@
 title: "訳あり不動産買取業者の選び方｜悪質業者の5手口と信頼できる業者を見分ける7チェックリスト"
 description: "訳あり不動産の買取業者を選ぶ際に騙されないために。悪質業者が使う5つの手口（価格減額・着手金要求・不利条項・無免許・プレッシャー営業）と信頼できる業者を見分ける7チェックリスト、タイプ別比較表（大手・地場・訳あり専門）を解説します。"
 publishDate: "2026-05-15"
+noindex: true
 cluster: "wakeari"
 author: "空き家のミカタ編集部"
 authorTitle: "宅地建物取引業者（大阪府知事(1)第65646号）"
@@ -29,6 +30,8 @@ howToSteps:
 <img src="/images/wakeare-kaitori-gyosha-erabikata-7check-hero.jpg" alt="不動産売買の契約書をテーブルで確認するビジネスミーティングの場面　訳あり物件の買取業者を選ぶ際の信頼性確認のイメージ" width="1440" height="810" style="width:100%;height:auto;border-radius:8px;margin-bottom:1.5rem;" />
 
 訳あり不動産（空き家・再建築不可・事故物件・共有持分・相続アパートなど）を手放したいとき、最初の悩みの一つが「どの業者に頼めばいいのか」ではないでしょうか。
+
+このテーマの全体像は[訳あり不動産の買取業者を選ぶ5つのチェックポイント](/guide/kaitori-gyosha-erabikata-checkpoints/)にまとめています。
 
 <strong>訳あり不動産買取業者を選ぶ際の最重要ポイントは、①宅地建物取引業（宅建業）免許の事前確認、②最低3社への相見積もり、③契約書の持ち帰り確認の3点です。</strong>この3点を守るだけで、業界でよく見られるトラブルの大半を事前に防ぐことができます。
 
@@ -83,7 +86,7 @@ howToSteps:
 
 <strong>信頼できる買取業者は、売主に不必要な時間的プレッシャーをかけません。</strong>こうした言葉を聞いた場合は、その業者との交渉を打ち切ることを検討してください。
 
-悪質業者の手口についてより詳しくは、[「訳あり不動産買取の悪質業者5つの手口｜騙されない見分け方」](/guide/akusha-gyosha-5-teguchi-mikiwake)もあわせてご覧ください。
+悪質業者の手口についてより詳しくは、[「訳あり不動産買取の悪質業者5つの手口｜騙されない見分け方」](/guide/akusha-gyosha-5-teguchi-mikiwake/)もあわせてご覧ください。
 
 ## 信頼できる業者を見分ける7つのチェックリスト
 
@@ -103,7 +106,7 @@ howToSteps:
 
 免許番号の照合には、国土交通省「建設業者・宅地建物取引業者等企業情報検索システム（ハトサポBB）」を利用します。業者名または免許番号を入力するだけで、免許の有効期限・行政処分歴を無料で確認できます。
 
-> **現場からのひとこと**: 「査定根拠を聞いたら急に態度が変わった」という相談が実際に複数あります。根拠を明確に説明できない業者は、値下げの余地を残した「感覚値」で査定している可能性があります。
+> **現場からのひとこと**: 「査定根拠を聞いたら急に態度が変わった」という声は、業者選びでよく聞かれます。根拠を明確に説明できない業者は、値下げの余地を残した「感覚値」で査定している可能性があります。
 
 ## 業者タイプ別比較（大手仲介・地場業者・訳あり専門買取）
 
@@ -122,7 +125,7 @@ howToSteps:
 
 なお、2024年7月の宅建業法改正により、売買代金800万円以下の物件は仲介手数料の上限が30万円（税別）になりました。低額の訳あり物件では手数料負担が軽減されている点も確認しておくと良いでしょう。
 
-業者タイプの詳細な比較は、[「訳あり物件の買取業者を比較｜4タイプ別の特徴と5つのチェックポイント」](/guide/wakeare-kaitori-gyosha-4type-hikaku)もあわせてご参照ください。
+業者タイプの詳細な比較は、[「訳あり物件の買取業者を比較｜4タイプ別の特徴と5つのチェックポイント」](/guide/wakeare-kaitori-gyosha-4type-hikaku/)もあわせてご参照ください。
 
 ## 相見積もりを成功させる3つのポイント
 
@@ -162,11 +165,9 @@ Googleマップの口コミが最もリアルな評価が集まります。業�
 
 ## 関連するガイド記事
 
-- <a href="/guide/kaitori-jirei-10sen">訳あり不動産の買取実績10選｜相続・再建築不可・事故物件・共有持分・空き家の解決事例集</a>
-- <a href="/guide/kaitori-jirei">訳あり不動産の買取事例5選｜相続アパート・再建築不可・事故物件の解決ストーリー</a>
-- <a href="/guide/osaka-kaitori-jirei">大阪市内の訳あり不動産買取事例集｜再建築不可・事故物件・共有持分・空き家・相続アパートの5事例</a>
-- <a href="/guide/jiko-bukken-hub">事故物件 完全ハブ｜買取・告知義務・心理的瑕疵・価格相場まで全ガイドまとめ【2026年版】</a>
-- <a href="/guide/kyouyuu-mochibun-hub">共有持分 完全ハブ｜売却・買取・トラブル解決・相場まで全ガイドまとめ【2026年版】</a>
+- <a href="/guide/osaka-city-yakuari-kaitori/">大阪市の訳あり物件の買取</a>
+- <a href="/guide/kyouyuu-mochibun-kaitori/">共有持分の買取・売却方法</a>
+- <a href="/guide/jiko-bukken-hub/">事故物件 完全ハブ｜買取・告知義務・心理的瑕疵・価格相場まで全ガイドまとめ【2026年版】</a>
 
 ## まとめ
 
@@ -180,5 +181,5 @@ Googleマップの口コミが最もリアルな評価が集まります。業�
 <p style="font-weight:bold;margin:0 0 0.5rem;">訳あり物件の無料査定・ご相談</p>
 <p style="margin:0 0 1rem;">空き家・再建築不可・事故物件・相続アパートなど、訳あり物件の売却についてご相談ください。査定・相談は完全無料です。宅地建物取引業者（大阪府知事(1)第65646号）が直接対応します。</p>
 <p style="margin:0.5rem 0;"><a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="background:#06c755;color:#fff;padding:0.6rem 1.4rem;border-radius:6px;text-decoration:none;font-weight:bold;display:inline-block;">LINEで無料相談（24時間受付）</a></p>
-<p style="margin:0.5rem 0;"><a href="/contact" style="background:#2563eb;color:#fff;padding:0.6rem 1.4rem;border-radius:6px;text-decoration:none;font-weight:bold;display:inline-block;">お問い合わせフォームから相談する</a></p>
+<p style="margin:0.5rem 0;"><a href="/contact/" style="background:#2563eb;color:#fff;padding:0.6rem 1.4rem;border-radius:6px;text-decoration:none;font-weight:bold;display:inline-block;">お問い合わせフォームから相談する</a></p>
 </div>

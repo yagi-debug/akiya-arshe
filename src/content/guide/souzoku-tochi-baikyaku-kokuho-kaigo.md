@@ -2,6 +2,7 @@
 title: "相続した土地を売ったら国保・介護保険料が上がる理由｜大阪市の実額で解説【2026年版】"
 description: "相続した土地の売却益は、分離課税でも国民健康保険料・介護保険料の算定に入ります。土地は3,000万円控除が使えないことが多く、取得費不明なら売却額の95%が所得に。大阪市の令和8年度料率で増加額を試算し、窓口負担割合や減免申請まで宅建業者が解説します。"
 publishDate: "2026-08-17"
+noindex: true
 author: "空き家のミカタ編集部"
 authorTitle: "宅地建物取引業者（大阪府知事(1)第65646号）"
 heroImage: "/images/souzoku-tochi-baikyaku-kokuho-kaigo-hero.jpg"
@@ -27,7 +28,7 @@ faqs:
 
 この記事では、大阪市の令和8年度の実際の料率を使って増加額を試算し、保険料以外に連鎖する医療費の窓口負担、そして通知が届いてしまった後にできることまでをお伝えします。
 
-なお、保険料が上がる基本的な仕組みと家屋を含む相続不動産全般については、[相続した不動産を売ったら国保・介護保険料が急増した方へ](/guide/souzoku-fudosan-baikyaku-kokuho-kaigo-kyuzo)で詳しく整理しています。本記事は<strong>「土地」に絞った落とし穴</strong>を扱います。
+なお、保険料が上がる基本的な仕組みと家屋を含む相続不動産全般については、[相続した不動産を売ったら国保・介護保険料が急増した方へ](/guide/souzoku-fudosan-baikyaku-kokuho-kaigo-kyuzo/)で詳しく整理しています。本記事は<strong>「土地」に絞った落とし穴</strong>を扱います。
 
 ## 目次
 
@@ -73,7 +74,7 @@ faqs:
 
 つまり<strong>相続した土地の多くは、譲渡所得がまるごと保険料の算定基礎に乗ります</strong>。ご自宅を売る場合の3,000万円特別控除（国税庁タックスアンサーNo.1440）も、ご自身が住んでいた家が対象なので相続した土地には使えません。
 
-農地を相続された方は[農地を相続したら売れない？農地法の壁と宅地転用なしで手放す方法](/guide/inherited-farmland-sale-without-conversion)、駐車場や更地を相続された方は[相続した駐車場・更地の処分方法](/guide/inherited-parking-lot-vacant-land-disposal)もあわせてご覧ください。
+農地を相続された方は[農地を相続したら売れない？農地法の壁と宅地転用なしで手放す方法](/guide/inherited-farmland-sale-without-conversion/)、駐車場や更地を相続された方は[相続した駐車場・更地の処分方法](/guide/inherited-parking-lot-vacant-land-disposal/)もあわせてご覧ください。
 
 ### 理由2: 取得費が不明だと売却価格の95%が所得になる
 
@@ -155,7 +156,7 @@ faqs:
 
 対策として一番確実なのがこれです。翌年6月に通知が届いた時点で手元に資金がないという事態を避けるため、売却代金のうち<strong>3割程度を税金・保険料用に別口座に分けておく</strong>ことをおすすめしています。先ほどの試算例では、保険料が約110万円、譲渡所得税・住民税が約335万円で、合計445万円ほど。売却代金1,800万円の2割から3割にあたります。
 
-売却にかかる税金全般については[不動産売却にかかる税金の完全ガイド](/guide/selling-tax-guide)、売却のタイミングと特例の関係については[小規模宅地等の特例と売却タイミング](/guide/small-lot-tax-exemption-sale-timing)もご参照ください。
+売却にかかる税金全般については[不動産売却にかかる税金の完全ガイド](/guide/souzoku-jouto-shotokuzei-5nen-kisanbi/)、売却のタイミングと特例の関係については[小規模宅地等の特例と売却タイミング](/guide/small-lot-tax-exemption-sale-timing/)もご参照ください。
 
 ## 通知が届いてしまった後にできること
 
@@ -202,7 +203,7 @@ faqs:
   </ul>
   <p style="margin-top:1rem;margin-bottom:0;">
     <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06c755;color:#fff;padding:0.7rem 1.8rem;border-radius:5px;text-decoration:none;font-weight:bold;margin-right:1rem;">LINEで無料相談</a>
-    <a href="/contact" style="display:inline-block;background:#4a7c3f;color:#fff;padding:0.7rem 1.8rem;border-radius:5px;text-decoration:none;font-weight:bold;">お問い合わせフォーム</a>
+    <a href="/contact/" style="display:inline-block;background:#4a7c3f;color:#fff;padding:0.7rem 1.8rem;border-radius:5px;text-decoration:none;font-weight:bold;">お問い合わせフォーム</a>
   </p>
 </div>
 

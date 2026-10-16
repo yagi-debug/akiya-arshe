@@ -2,6 +2,7 @@
 title: "相続不動産はどうすればいい？物件タイプ×状況別 最適処分ルート診断ガイド【2026年版】"
 description: "相続した不動産の処分方法を物件タイプ別・状況別に宅建業者が解説。一戸建て・アパート・土地・訳あり物件の最適ルートと3,000万円特別控除の期限・売却フローを網羅。"
 publishDate: "2026-05-26"
+noindex: true
 author: "空き家のミカタ編集部"
 authorTitle: "宅地建物取引業者（大阪府知事(1)第65646号）"
 heroImage: "/images/souzoku-fudosan-shobun-method-shindan-hero.jpg"
@@ -107,6 +108,8 @@ updatedDate: "2026-09-07"
 
 <strong>相続不動産をどうすればいいか</strong>は、物件の種類によって最適な選択肢が異なります。一戸建て・アパート・更地・農地・再建築不可物件——それぞれに適した処分方法があり、手順を間違えると税制上の優遇を失ったり、余分なコストが発生したりします。
 
+このテーマの全体像は[相続した家の売り方と手続き](/guide/parent-death-house/)にまとめています。
+
 この記事では、「何を相続したか」「相続人は何人か」「物件の状態はどうか」という3つの切り口から、あなたの状況に合った処分方法をお伝えします。
 
 <img src="/images/souzoku-fudosan-shobun-method-shindan-hero.jpg" alt="相続不動産の処分方法を専門家に相談する家族の様子" width="1260" height="750" style="width:100%;height:auto;border-radius:8px;margin-bottom:1.5rem;" />
@@ -157,7 +160,7 @@ updatedDate: "2026-09-07"
 
 仲介売却では買い手探しに3〜12ヶ月かかりますが、直接買取なら最短2週間で現金化できます。期限が迫っている場合は、仲介と並行して買取業者への相談も検討してください。
 
-→ くわしくは「[相続した家 どうすればいい？完全ハブガイド](/guide/souzoku-ie-doushitara-hub)」もあわせてご覧ください。
+→ くわしくは「[相続した家 どうすればいい？完全ハブガイド](/guide/souzoku-ie-doushitara-hub/)」もあわせてご覧ください。
 
 ### アパート・収益物件の場合
 
@@ -173,7 +176,7 @@ updatedDate: "2026-09-07"
 
 なお、<strong>3,000万円特別控除はアパート等の収益物件には適用されません</strong>。そのため、居住用物件ほど売却タイミングへの焦りは少なく、状況をしっかり確認してから方針を決められます。
 
-→ 「[相続アパートの完全ガイド](/guide/souzoku-apart-kanzen-guide)」でさらに詳しく解説しています。
+→ 「[相続アパートの完全ガイド](/guide/souzoku-apart-kanzen-guide/)」でさらに詳しく解説しています。
 
 ### 更地・宅地の場合
 
@@ -224,7 +227,7 @@ updatedDate: "2026-09-07"
 
 <strong>相続登記義務化（2024年4月施行）</strong>により、不動産の取得を知った日から3年以内に申請しなければなりません。これを過ぎると10万円以下の過料が科される場合があります。早めに動き始めることが重要です。
 
-→ 相続登記の手続きは「[相続登記の義務化 完全対応ガイド2026](/guide/souzoku-touki-gimuka-kanzen-taiou-2026)」で詳しく解説しています。
+→ 相続登記の手続きは「[相続登記の義務化 完全対応ガイド2026](/guide/inheritance-registry-neglect-sale-3options/)」で詳しく解説しています。
 
 ## 放置した場合に発生するリスク
 
@@ -255,11 +258,10 @@ updatedDate: "2026-09-07"
 
 ## 関連するガイド記事
 
-- <a href="/guide/souzoku-apart-kanzen-guide">相続アパートを手放したい方へ｜売却の流れ・税金・失敗しない判断基準を宅建業者が完全解説【2026年最新】</a>
-- <a href="/guide/souzoku-fudousan-shobun-kanzen-guide">相続不動産の処分 完全ガイド2026｜法律・登記・比較表・失敗対策まで一気に解説</a>
-- <a href="/guide/souzoku-fudousan-urikata-kanzen-guide">【2026年版】相続した不動産の売り方 完全ガイド｜実務手順・費用・業者選定を買取業者が解説</a>
-- <a href="/guide/akiya-shobun-5-hikaku">空き家処分の5大選択肢を徹底比較【2026年版】費用・期間・手残り額</a>
-- <a href="/guide/akiya-kaitai-hiyou-haraenai">相続した実家の解体費用が払えない｜補助金・現況買取で費用ゼロで手放す3つの方法</a>
+- <a href="/guide/souzoku-apart-kanzen-guide/">相続アパートを手放したい方へ｜売却の流れ・税金・失敗しない判断基準を宅建業者が完全解説【2026年最新】</a>
+- <a href="/guide/parent-death-house/">相続不動産の処分 完全ガイド2026｜法律・登記・比較表・失敗対策まで一気に解説</a>
+- <a href="/guide/akiya-shobun-5-hikaku/">空き家処分の5大選択肢を徹底比較【2026年版】費用・期間・手残り額</a>
+- <a href="/guide/akiya-kaitai-hiyou-haraenai/">相続した実家の解体費用が払えない｜補助金・現況買取で費用ゼロで手放す3つの方法</a>
 
 ## まとめ
 
@@ -283,11 +285,11 @@ updatedDate: "2026-09-07"
 <strong>空き家のミカタ</strong>（合同会社アルシェ）は、訳あり不動産・相続不動産の買取に特化した宅建業者です。大阪・近畿対応・仲介手数料なし・現況のままお引き受けします。
 
 - **LINE相談（24時間受付）**: [https://line.arshe1719.workers.dev/auth/line?ref=hp](https://line.arshe1719.workers.dev/auth/line?ref=hp)
-- **お問い合わせフォーム**: [/contact](/contact)
+- **お問い合わせフォーム**: [/contact/](/contact/)
 
 査定・相談は完全無料です。「話を聞くだけ」も歓迎しています。
 
 </div>
 ---
 
-**このカテゴリの全ガイド一覧:** [→ 相続不動産 完全ハブ【2026年版】](/guide/souzoku-hub)
+**このカテゴリの中心の記事:** [→ 相続した家の売り方と手続き](/guide/parent-death-house/)

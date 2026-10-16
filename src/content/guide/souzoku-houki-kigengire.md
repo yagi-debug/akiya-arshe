@@ -2,6 +2,7 @@
 title: "相続放棄の期限（3ヶ月）を過ぎたらどうなる？期限切れ後の対処法を宅建業者が解説"
 description: "相続放棄の3ヶ月期限を過ぎてしまった場合でも認められるケースがあります。最高裁判例をもとに、期限切れ後の対処法・判定フローチャート・専門家に相談すべきケースまで宅建業者が解説します。"
 publishDate: "2026-04-14"
+noindex: true
 cluster: "inheritance"
 author: "宅建業者"
 authorTitle: "宅建業者"
@@ -22,6 +23,8 @@ faqs:
 <img src="/images/souzoku-houki-deadline-hero.jpg" alt="書類と電卓が置かれたデスク　相続放棄の期限と手続きのイメージ" width="1200" height="800" style="width:100%;height:auto;border-radius:8px;margin-bottom:1.5rem;" />
 
 「親が亡くなってからもう半年以上経つのに、突然借金の請求書が届いた」「相続放棄の期限が3ヶ月だと知らなかった」。こうしたご相談は珍しくありません。
+
+関連する内容は[相続放棄をしたら家はどうなるか](/guide/inheritance-abandon/)で詳しく解説しています。
 
 相続放棄の期限は原則<strong>3ヶ月</strong>です。しかし、期限を過ぎたからといって<strong>全てのケースで手遅れになるわけではありません</strong>。最高裁判所の判例により、一定の条件を満たせば期限後でも相続放棄が認められる可能性があります。
 
@@ -227,12 +230,11 @@ faqs:
 
 ## 関連するガイド記事
 
-- <a href="/guide/souzoku-apart-kanzen-guide">相続アパートを手放したい方へ｜売却の流れ・税金・失敗しない判断基準を宅建業者が完全解説【2026年最新】</a>
-- <a href="/guide/souzoku-fudousan-shobun-kanzen-guide">相続不動産の処分 完全ガイド2026｜法律・登記・比較表・失敗対策まで一気に解説</a>
-- <a href="/guide/souzoku-fudousan-urikata-kanzen-guide">【2026年版】相続した不動産の売り方 完全ガイド｜実務手順・費用・業者選定を買取業者が解説</a>
-- <a href="/guide/akiya-kotei-shisan-zei-haraenai">空き家の固定資産税が払えないとき｜分納・減免・売却・相続放棄の4つの選択肢【2026年版】</a>
-- <a href="/guide/akiya-shobun-5-hikaku">空き家処分の5大選択肢を徹底比較【2026年版】費用・期間・手残り額</a>
-- <a href="/guide/soen-souzokunin-tsuchi-taiou">疎遠な親族の相続人になったと通知が来たら｜対応3ステップと3か月の期限【2026年版】</a>
+- <a href="/guide/souzoku-apart-kanzen-guide/">相続アパートを手放したい方へ｜売却の流れ・税金・失敗しない判断基準を宅建業者が完全解説【2026年最新】</a>
+- <a href="/guide/parent-death-house/">相続不動産の処分 完全ガイド2026｜法律・登記・比較表・失敗対策まで一気に解説</a>
+- <a href="/guide/akiya-kotei-shisan-zei-haraenai/">空き家の固定資産税が払えないとき｜分納・減免・売却・相続放棄の4つの選択肢【2026年版】</a>
+- <a href="/guide/akiya-shobun-5-hikaku/">空き家処分の5大選択肢を徹底比較【2026年版】費用・期間・手残り額</a>
+- <a href="/guide/soen-souzokunin-tsuchi-taiou/">疎遠な親族の相続人になったと通知が来たら｜対応3ステップと3か月の期限【2026年版】</a>
 
 ## まとめ
 
@@ -249,7 +251,7 @@ faqs:
 
 ---
 
-相続した不動産の扱いにお困りの方は、まずは<strong>無料相談</strong>をご利用ください。訳あり物件の買取実績がある宅建業者が、あなたの状況に合った最善の方法をご提案します。
+相続した不動産の扱いにお困りの方は、まずは<strong>無料相談</strong>をご利用ください。訳あり物件の買取に対応する宅建業者が、あなたの状況に合った最善の方法をご提案します。
 
 <strong>LINEで無料相談する（24時間受付）</strong>
 https://line.arshe1719.workers.dev/auth/line?ref=hp
@@ -258,4 +260,4 @@ https://line.arshe1719.workers.dev/auth/line?ref=hp
 https://akiya-mikata.com/contact
 ---
 
-**このカテゴリの全ガイド一覧:** [→ 相続不動産 完全ハブ【2026年版】](/guide/souzoku-hub)
+**このカテゴリの中心の記事:** [→ 相続した家の売り方と手続き](/guide/parent-death-house/)

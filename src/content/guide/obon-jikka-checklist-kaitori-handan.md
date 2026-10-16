@@ -6,7 +6,6 @@ author: "空き家のミカタ編集部"
 authorTitle: "宅地建物取引業者（大阪府知事(1)第65646号）"
 heroImage: "/images/obon-jikka-checklist-kaitori-handan-hero.jpg"
 cluster: "akiya-tax"
-isPillar: true
 faqs:
   - question: "帰省中に実家の買取査定を依頼してもいいですか？"
     answer: "もちろんです。帰省中こそ実家の状態を実際に確認できる機会です。スマートフォンで建物の外観・内部・雨漏り跡などを撮影し、LINEで送っていただければ最短即日で概算査定をお伝えできます。現地査定が必要な場合も、提携ネットワークで手配しますのでオーナー様が現地に戻る必要はありません。"
@@ -112,7 +111,7 @@ updatedDate: "2026-09-07"
 
 <strong>2023年に改正された空家等対策特別措置法</strong>では、「特定空き家」だけでなく「管理不全空き家」という新しいカテゴリが設けられました。倒壊の危険がなくても、雑草の繁茂・外壁の剥落・ゴミの堆積などで管理不全と認定されれば、<strong>住宅用地の固定資産税特例（最大6分の1軽減）が外れ、税額が最大6倍</strong>になる可能性があります。さらに放置が続けば改善命令・代執行（行政が解体し費用を所有者に請求）へと進む場合もあります。
 
-固定資産税の仕組みと6倍になるメカニズムについては[空き家の固定資産税6倍問題を解説](/guide/vacancy-tax-6times)で詳しく説明しています。
+固定資産税の仕組みと6倍になるメカニズムについては[空き家の固定資産税6倍問題を解説](/guide/akiya-koteishisanzei-6bai-hikaku/)で詳しく説明しています。
 
 ### 「修繕して賃貸」の隠れコスト
 
@@ -130,7 +129,7 @@ updatedDate: "2026-09-07"
 - <strong>リフォーム費用を出せない</strong>
 - <strong>残置物（家具・荷物）が大量に残っている</strong>
 
-現況買取なら、リフォーム不要・残置物そのまま・仲介手数料なしで、最短2週間〜1ヶ月で現金化できます。空き家処分の選択肢の全体像については[空き家処分の5大選択肢を徹底比較](/guide/akiya-shobun-5-hikaku)もあわせてご覧ください。
+現況買取なら、リフォーム不要・残置物そのまま・仲介手数料なしで、最短2週間〜1ヶ月で現金化できます。空き家処分の選択肢の全体像については[空き家処分の5大選択肢を徹底比較](/guide/akiya-shobun-5-hikaku/)もあわせてご覧ください。
 
 ## 帰省中に済ませられる売却準備の具体手順
 
@@ -203,12 +202,10 @@ updatedDate: "2026-09-07"
 LINEで写真を送るだけで、最短即日に概算査定をお伝えします。帰省中でもスマートフォンから相談できます。<br /><br />
 <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06C755;color:#fff;padding:0.75rem 2rem;border-radius:4px;text-decoration:none;font-weight:bold;">LINE「空き家のミカタ」に無料相談</a><br /><br />
 またはお問い合わせフォームからもどうぞ。<br />
-<a href="/contact">→ お問い合わせフォームはこちら</a>
+<a href="/contact/">→ お問い合わせフォームはこちら</a>
 </div>
 
 ## 関連するガイド記事
 
-- <a href="/guide/vacant-house">空き家をどうする？売却・活用・解体の選択肢ガイド</a>
-- <a href="/guide/vacancy-tax-6times">空き家の固定資産税が6倍になる条件とは</a>
-- <a href="/guide/akiya-shobun-5-hikaku">空き家処分の5大選択肢を徹底比較【2026年版】</a>
-- <a href="/guide/akiya-kaitori">訳あり不動産の買取とは？仲介との違いを解説</a>
+- <a href="/guide/akiya-koteishisanzei-6bai-hikaku/">空き家の固定資産税が6倍になる条件とは</a>
+- <a href="/guide/akiya-shobun-5-hikaku/">空き家処分の5大選択肢を徹底比較【2026年版】</a>

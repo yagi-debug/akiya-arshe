@@ -271,7 +271,7 @@ A: そのために、支払いと明渡しは同時に行います。合意書�
 
 **Q: 家賃を滞納している入居者にも立退き料は必要ですか？**
 
-A: 長期の滞納がある場合、賃料不払いによる契約解除という別のルートがあり、立退き料なしで明渡しを求められる可能性があります。ただし解除が認められるには信頼関係の破壊といえる程度の滞納が必要で、判断には法的な検討が要ります。詳しくは「<a href="/guide/yachin-taino-nyukyosha-kaitori">家賃滞納している入居者がいるアパートは売れる？</a>」もご覧ください。
+A: 長期の滞納がある場合、賃料不払いによる契約解除という別のルートがあり、立退き料なしで明渡しを求められる可能性があります。ただし解除が認められるには信頼関係の破壊といえる程度の滞納が必要で、判断には法的な検討が要ります。詳しくは「<a href="/guide/yachin-taino-nyukyosha-kaitori/">家賃滞納している入居者がいるアパートは売れる？</a>」もご覧ください。
 
 **Q: 立退き料を払って更地にすれば、その分だけ高く売れますか？**
 
@@ -299,7 +299,7 @@ A: 更地にすれば買主の幅は広がりますが、価格は立地と土�
 
 <p style="margin-top:0.5rem;font-size:0.9rem;">「空き家のミカタ」を友だち追加してください</p>
 
-<a href="/contact" style="display:inline-block;border:2px solid rgba(255,255,255,0.4);color:#fff;padding:0.5rem 1.5rem;border-radius:8px;font-weight:bold;text-decoration:none;margin-top:0.5rem;">フォームで相談する</a>
+<a href="/contact/" style="display:inline-block;border:2px solid rgba(255,255,255,0.4);color:#fff;padding:0.5rem 1.5rem;border-radius:8px;font-weight:bold;text-decoration:none;margin-top:0.5rem;">フォームで相談する</a>
 
 </section>
 
@@ -307,13 +307,13 @@ A: 更地にすれば買主の幅は広がりますが、価格は立地と土�
 
 ## 関連するガイド記事
 
-- [入居者がいるアパートの売却方法｜立退き交渉とオーナーチェンジ買取を徹底比較](/guide/nyukyosha-apart-baikyaku)
-- [相続した賃貸物件に入居者がいる場合の売却方法](/guide/souzoku-chintai-nyuukyosha-ari-baikyaku)
-- [相続アパート「売る・貸す・管理委託する」三択を徹底比較](/guide/souzoku-apart-baikyaku-vs-chintai-vs-kanri)
-- [家賃滞納している入居者がいるアパートは売れる？](/guide/yachin-taino-nyukyosha-kaitori)
-- [相続した実家の解体費用が払えない｜補助金・現況買取で費用ゼロで手放す3つの方法](/guide/akiya-kaitai-hiyou-haraenai)
+- [入居者がいるアパートの売却方法｜立退き交渉とオーナーチェンジ買取を徹底比較](/guide/souzoku-apart-owner-change-shokei/)
+- [相続した賃貸物件に入居者がいる場合の売却方法](/guide/souzoku-chintai-nyuukyosha-ari-baikyaku/)
+- [相続アパート「売る・貸す・管理委託する」三択を徹底比較](/guide/souzoku-apart-baikyaku-vs-chintai-vs-kanri/)
+- [家賃滞納している入居者がいるアパートは売れる？](/guide/yachin-taino-nyukyosha-kaitori/)
+- [相続した実家の解体費用が払えない｜補助金・現況買取で費用ゼロで手放す3つの方法](/guide/akiya-kaitai-hiyou-haraenai/)
 
-**このカテゴリの全ガイド一覧:** [→ 相続不動産 完全ハブ【2026年版】](/guide/souzoku-hub)
+**このカテゴリの中心の記事:** [→ 相続した家の売り方と手続き](/guide/parent-death-house/)
 
 ---
 

@@ -564,27 +564,27 @@ faqs:
 
 <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" target="_blank" rel="noopener noreferrer"><strong>LINEで無料相談する（札幌市の空き家・実家・相続アパートの買取査定・古家付きOK）</strong></a>
 
-<a href="/contact"><strong>お問い合わせフォームはこちら</strong></a>
+<a href="/contact/"><strong>お問い合わせフォームはこちら</strong></a>
 
 ---
 
 ## 関連するガイド記事
 
-- [相続した実家の解体費用が払えない｜補助金・現況買取で費用ゼロで手放す3つの方法](/guide/akiya-kaitai-hiyou-haraenai)
-- [川崎市の空き家解体補助金【2026年度】上限額と申請窓口](/guide/kawasaki-akiya-kaitai-hojo-2026)
-- [横浜市の空き家解体補助金【2026年度】上限額と申請窓口](/guide/yokohama-akiya-kaitai-hojo-2026)
-- [名古屋市の空き家解体補助金【2026年度】上限額と申請窓口](/guide/nagoya-akiya-kaitai-hojo-2026)
-- [京都市の空き家解体補助金【令和8年度・2026年度】上限60万円の条件と申請窓口](/guide/kyoto-akiya-kaitai-hojo-2026)
-- [足立区の空き家解体助成金【2026年度】条件と申請の流れ](/guide/adachi-akiya-kaitai-josei-2026)
-- [大阪市の空き家解体補助金2026年度｜24区窓口一覧](/guide/osaka-ku-akiya-hojo-madoguchi-2026)
-- [空き家の固定資産税が6倍になる条件と比較](/guide/akiya-koteishisanzei-6bai-hikaku)
-- [特定空家の判定チェックリスト｜指定される前にできること](/guide/tokutei-akiya-hantei-checklist)
-- [管理不全空き家に指定されたときの対処法](/guide/kanri-fuzen-akiya-shitei-taisho)
-- [相続した空き家の3,000万円特別控除](/guide/souzoku-akiya-3000man-tokubetsu-kojo)
-- [相続したアパートの買取｜空室・老朽化・入居者ありでも売れる方法](/guide/inherited-apartment-buyout)
-- [相続登記の義務化｜期限と過料、放置したときのリスク](/guide/inheritance-registry)
-- [古い空き家・欠陥のある家の買取｜傷んだ家でも現況のまま手放す](/guide/furui-akiya-kekkan-kaitori)
-- [空き家の買取｜固定資産税6倍リスクのある空き家を今すぐ現金化](/guide/akiya-kaitori)
+- [相続した実家の解体費用が払えない｜補助金・現況買取で費用ゼロで手放す3つの方法](/guide/akiya-kaitai-hiyou-haraenai/)
+- [川崎市の空き家解体補助金【2026年度】上限額と申請窓口](/guide/kawasaki-akiya-kaitai-hojo-2026/)
+- [横浜市の空き家解体補助金【2026年度】上限額と申請窓口](/guide/yokohama-akiya-kaitai-hojo-2026/)
+- [名古屋市の空き家解体補助金【2026年度】上限額と申請窓口](/guide/nagoya-akiya-kaitai-hojo-2026/)
+- [京都市の空き家解体補助金【令和8年度・2026年度】上限60万円の条件と申請窓口](/guide/kyoto-akiya-kaitai-hojo-2026/)
+- [足立区の空き家解体助成金【2026年度】条件と申請の流れ](/guide/adachi-akiya-kaitai-josei-2026/)
+- [大阪市の空き家解体補助金2026年度｜24区窓口一覧](/guide/osaka-ku-akiya-hojo-madoguchi-2026/)
+- [空き家の固定資産税が6倍になる条件と比較](/guide/akiya-koteishisanzei-6bai-hikaku/)
+- [特定空家の判定チェックリスト｜指定される前にできること](/guide/tokutei-akiya-hantei-checklist/)
+- [管理不全空き家に指定されたときの対処法](/guide/kanri-fuzen-akiya-shitei-taisho/)
+- [相続した空き家の3,000万円特別控除](/guide/souzoku-akiya-3000man-tokubetsu-kojo/)
+- [相続したアパートの買取｜空室・老朽化・入居者ありでも売れる方法](/guide/inherited-apartment-buyout/)
+- [相続登記の義務化｜期限と過料、放置したときのリスク](/guide/inheritance-registry-neglect-sale-3options/)
+- [古い空き家・欠陥のある家の買取｜傷んだ家でも現況のまま手放す](/guide/furui-akiya-kekkan-kaitori/)
+- [空き家の処分方法の比較](/guide/akiya-shobun-5-hikaku/)
 
 ---
-- <a href="/guide/souzoku-hub">相続不動産 完全ハブ｜処分・売却・登記・固定資産税・事例まで全ガイドをまとめて確認【2026年版】</a>
+- <a href="/guide/parent-death-house/">相続した家の売り方と手続き</a>

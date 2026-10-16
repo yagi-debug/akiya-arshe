@@ -1,7 +1,8 @@
 ---
-title: "【体験談・事例05】連棟式長屋を相続して3社断られた。25日で現金化した全記録"
-description: "大阪市生野区の連棟式長屋（長屋2連）を母から相続したAさん（56歳・女性）。「隣の同意が必要」「再建築不可で採算が取れない」と仲介・買取業者3社に断られ1年近く膠着。訳あり専門業者への相談から25日で現金化した全記録。連棟式特有の問題と解決策を解説。"
+title: "【参考例・事例05】連棟式長屋を相続して3社断られた。25日で現金化したケース"
+description: "大阪市生野区の連棟式長屋（長屋2連）を母から相続したAさん（56歳・女性）。「隣の同意が必要」「再建築不可で採算が取れない」と仲介・買取業者3社に断られ1年近く膠着。訳あり専門業者への相談から25日で現金化するケース（参考例）。連棟式特有の問題と解決策を解説。"
 publishDate: "2026-05-16"
+noindex: true
 author: "空き家のミカタ編集部"
 authorTitle: "宅地建物取引業者（大阪府知事(1)第65646号）"
 heroImage: "/images/souzoku-jirei-05-hero.jpg"
@@ -25,8 +26,8 @@ cluster: "non-rebuildable"
 {
   "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "【体験談・事例05】連棟式長屋を相続して3社断られた。25日で現金化した全記録",
-  "description": "大阪市生野区の連棟式長屋を相続したAさんが、仲介・買取業者3社に断られた後、訳あり専門業者への相談から25日で現金化した実録。連棟式特有の問題と解決策を解説。",
+  "headline": "【参考例・事例05】連棟式長屋を相続して3社断られた。25日で現金化したケース",
+  "description": "大阪市生野区の連棟式長屋を相続したAさんが、仲介・買取業者3社に断られた後、訳あり専門業者への相談から25日で現金化するケース（参考例）。連棟式特有の問題と解決策を解説。",
   "datePublished": "2026-05-16",
   "author": {
     "@type": "Organization",
@@ -55,54 +56,6 @@ cluster: "non-rebuildable"
 }
 </script>
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "連棟式住宅（長屋）は隣家の承諾なしに売れますか？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "自分の区画の所有権を買取業者に売ること自体は、隣家の承諾なしに法律上可能です。ただし解体・建替えを伴う場合は隣家全員の同意が必要です。訳あり物件専門の買取業者であれば、解体を前提としない仕入れスキームで現況のまま買取できるケースがあります。"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "大阪の連棟式長屋はなぜ売りにくいのですか？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "大阪市内の旧市街地では、接道義務を単独で満たせない連棟式住宅が多く存在します。住宅ローンの審査が通らない・解体に隣家全員の同意が必要・権利関係が複雑といった理由で、一般の仲介業者や通常の買取業者が対応を断るケースが多くあります。"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "3社に断られた物件でも訳あり専門業者なら買取できますか？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "断られた理由によります。「隣家の承諾が得られない」「接道が取れない」「権利関係が複雑」といった理由であれば、訳あり物件専門業者が対応できる可能性があります。相談時に「断られた理由」を伝えていただくと、査定がスムーズです。"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "連棟式長屋の買取価格はどのくらいですか？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "立地・接道状況・建物の状態・将来の活用可能性を総合的に加味して決まります。通常の市場価格より低くなることが多いですが、放置した場合の維持費・固定資産税・特定空き家リスクを考慮すると、早期現金化のメリットが上回るケースが多いです。"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "相続登記が済んでいない状態でも相談できますか？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "相談・査定は相続登記前でも可能です。ただし売買契約・決済には相続登記の完了が必要です。提携司法書士をご紹介しますので、登記手続きと並行してご相談ください。"
-      }
-    }
-  ]
-}
-</script>
 
 > <strong>この記事の結論</strong>
 > 1. 連棟式長屋（長屋）の相続は、「隣家の同意が必要」「接道が取れない」等の理由で一般の業者に断られやすいですが、<strong>訳あり専門業者であれば現況のまま買取できるケースがあります。</strong>
@@ -112,6 +65,8 @@ cluster: "non-rebuildable"
 <img src="/images/souzoku-jirei-05-hero.jpg" alt="大阪の旧市街地に残る木造連棟式長屋の外観　相続して売却に困るケースが多い" width="1200" height="1800" style="width:100%;height:auto;border-radius:8px;margin-bottom:1.5rem;" />
 
 「連棟式（長屋）だから売れない」と言われた——そう思い込んで、11か月間ひとりで抱えていたAさんの話をご紹介します。
+
+関連する内容は[大阪市の長屋の切り離し](/guide/osaka-nagaya-kiribanashi-doui/)で詳しく解説しています。
 
 3社の不動産会社に断られた物件が、訳あり専門業者への相談から<strong>わずか25日で現金化できた</strong>実例です。連棟式長屋特有の問題と、どうすれば解決できるのかを、Aさんの全プロセスとともに記録しています。
 
@@ -258,7 +213,7 @@ Aさんの事例のポイントを整理します。
 
 <strong>お問い合わせフォームはこちら</strong>
 
-<a href="/contact" style="display:inline-block;background:#2563eb;color:#fff;padding:0.75rem 1.5rem;border-radius:6px;text-decoration:none;font-weight:bold;">フォームから相談する</a>
+<a href="/contact/" style="display:inline-block;background:#2563eb;color:#fff;padding:0.75rem 1.5rem;border-radius:6px;text-decoration:none;font-weight:bold;">フォームから相談する</a>
 
 </div>
 
@@ -266,15 +221,15 @@ Aさんの事例のポイントを整理します。
 
 <strong>関連記事</strong>
 
-- <a href="/guide/saikenchifu-kaitori">再建築不可物件の買取——接道義務・査定の基準を解説</a>
-- <a href="/guide/souzoku-jirei-04-saikenchifu-kaitori">【体験談04】「再建築不可で4社断られた」実家を23日で現金化</a>
-- <a href="/guide/kaitori-gyosha-erabikata-checkpoints">訳あり買取業者の選び方——7つのチェックポイント</a>
+- <a href="/guide/non-rebuildable-property-sale/">再建築不可物件の買取——接道義務・査定の基準を解説</a>
+- <a href="/guide/souzoku-jirei-04-saikenchifu-kaitori/">【参考例・事例04】「再建築不可で売れない」と4社に断られた父の実家。相談から23日で現金化したケース</a>
+- <a href="/guide/kaitori-gyosha-erabikata-checkpoints/">訳あり買取業者の選び方——7つのチェックポイント</a>
 
 ## 関連するガイド記事
 
-- <a href="/guide/souzoku-jirei-07-saikenchifu-nagaya-kaitori">【体験談・事例07】再建築不可の老朽木造長屋を14日で現金化。市から管理不全通知が届いた後に動いた60代女性の全記録</a>
-- <a href="/guide/saikenchifu-hub">再建築不可物件 完全ハブ｜売却・買取・価格相場・事例まで全ガイドまとめ【2026年版】</a>
-- <a href="/guide/saikenchifu-kaitori-jirei">再建築不可物件の買取事例5選｜袋地・2m未満接道・旗竿地の解決ストーリー</a>
-- <a href="/guide/souzoku-apart-kanzen-guide">相続アパートを手放したい方へ｜売却の流れ・税金・失敗しない判断基準を宅建業者が完全解説【2026年最新】</a>
-- <a href="/guide/souzoku-fudousan-shobun-kanzen-guide">相続不動産の処分 完全ガイド2026｜法律・登記・比較表・失敗対策まで一気に解説</a>
+- <a href="/guide/souzoku-jirei-07-saikenchifu-nagaya-kaitori/">【参考例・事例07】再建築不可の老朽木造長屋を14日で現金化。市から管理不全通知が届いた後に動いた60代女性のケース</a>
+- <a href="/guide/non-rebuildable-property-sale/">再建築不可物件の売却方法</a>
+- <a href="/guide/saikenchifu-kaitori-jirei/">再建築不可物件の買取 参考事例5選｜袋地・2m未満接道・旗竿地の解決ストーリー</a>
+- <a href="/guide/souzoku-apart-kanzen-guide/">相続アパートを手放したい方へ｜売却の流れ・税金・失敗しない判断基準を宅建業者が完全解説【2026年最新】</a>
+- <a href="/guide/parent-death-house/">相続不動産の処分 完全ガイド2026｜法律・登記・比較表・失敗対策まで一気に解説</a>
 

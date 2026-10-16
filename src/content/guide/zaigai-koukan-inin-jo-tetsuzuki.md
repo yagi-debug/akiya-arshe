@@ -212,7 +212,7 @@ A. 委任状の作成・公証自体は相続登記の完了前でも可能で�
 
 在外公館での手続きは「慣れない書類作業が海外で必要になる」という点で不安を感じる方が多くいらっしゃいます。国内の買取業者に相談すれば、連携している司法書士を通じて委任状の雛形作成・手続きの案内をまとめて対応してもらえるケースがほとんどです。お一人で抱え込まずに、まず相談から始めてみてください。
 
-相続登記義務化への対応については<a href="/guide/souzoku-touki-gimuka-kanzen-taiou-2026">相続登記義務化 完全対応ガイド2026</a>もあわせてご覧ください。海外在住者の一般的な不動産売却手順については<a href="/guide/kaigai-zaiju-souzoku-fudosan-baikyaku">海外在住・非居住者が日本の相続不動産を売る方法</a>もご参照ください。
+相続登記義務化への対応については<a href="/guide/inheritance-registry-neglect-sale-3options/">相続登記義務化 完全対応ガイド2026</a>もあわせてご覧ください。海外在住者の一般的な不動産売却手順については<a href="/guide/kaigai-zaiju-souzoku-fudosan-baikyaku/">海外在住・非居住者が日本の相続不動産を売る方法</a>もご参照ください。
 
 ---
 
@@ -220,5 +220,5 @@ A. 委任状の作成・公証自体は相続登記の完了前でも可能で�
 <p style="font-weight:bold;font-size:1.1rem;margin-bottom:1rem;">海外在住で日本の不動産の処分にお困りの方へ</p>
 <p>「在外公館の手続きをどう進めればいいか」「委任状の内容が正しいか確認したい」——そういったご相談をLINEやメールでお受けしています。連携している司法書士と一緒に、手続き全体をサポートします。</p>
 <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06C755;color:#fff;padding:14px 32px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 8px 8px 0;">LINEで無料相談（即日対応）</a>
-<a href="/contact" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 32px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 0;">お問い合わせフォーム</a>
+<a href="/contact/" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 32px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 0;">お問い合わせフォーム</a>
 </div>

@@ -2,6 +2,7 @@
 title: "訳あり物件の買取業者を比較｜4タイプ別の特徴と5つのチェックポイント【2026年版】"
 description: "訳あり不動産の買取業者を4タイプ（大手仲介・訳あり専門買取・地域密着・投資家直接）で徹底比較。最短3日で現金化できる業者タイプがひと目でわかる比較表付き。対応スピード・買取価格帯・手数料・得意物件種別を解説。アルバリンク・イエコン実名比較と業者選び5チェックポイントを宅建業者が解説。無料査定受付中。"
 publishDate: "2026-05-09"
+noindex: true
 author: "宅建業者"
 heroImage: "/images/wakeare-kaitori-gyosha-4type-hero.jpg"
 faqs:
@@ -41,6 +42,8 @@ updatedDate: "2026-09-07"
 
 「不動産会社に相談したら断られた」「どこに頼めばいいかわからない」——訳あり物件を売ろうとして、こんな状況に陥る方は少なくありません。
 
+このテーマの全体像は[訳あり不動産の買取業者を選ぶ5つのチェックポイント](/guide/kaitori-gyosha-erabikata-checkpoints/)にまとめています。
+
 訳あり物件の売却を検討するとき、<strong>業者のタイプによって対応できる物件の幅・査定額・売却スピードが大きく異なります。</strong>「どの業者に頼むか」の判断を間違えると、数ヶ月を無駄にしたり、本来より大幅に安い価格で売ってしまうリスクがあります。
 
 このページでは、訳あり物件を買い取ってもらえる業者を4つのタイプに分類し、それぞれの特徴・価格帯・得意分野を比較表でまとめます。また、業者選びで後悔しないための5つのチェックポイントも解説します。
@@ -70,7 +73,7 @@ updatedDate: "2026-09-07"
 
 **アルバリンク（AlbaLink）**
 
-株式会社AlbaLinkが運営。再建築不可・事故物件・共有持分・相続アパートなど、幅広い訳あり物件を全国で直接買取しています。大阪府知事（3）第58090号の宅建業者免許を保有。自社で物件を購入するため、仲介手数料は売主にかかりません。
+株式会社AlbaLinkが運営。再建築不可・事故物件・共有持分・相続アパートなど、幅広い訳あり物件を全国で直接買取しています。国土交通大臣（1）第10112号の宅建業者免許を保有。自社で物件を購入するため、仲介手数料は売主にかかりません。
 
 **訳あり物件買取プロ（wakearipro.com）**
 
@@ -234,12 +237,12 @@ updatedDate: "2026-09-07"
 
 ## 関連するガイド記事
 
-- <a href="/guide/jiko-bukken-hub">事故物件 完全ハブ｜買取・告知義務・心理的瑕疵・価格相場まで全ガイドまとめ【2026年版】</a>
-- <a href="/guide/accident-property-sale">事故物件は売れる？告知義務・売却相場・買取の流れを宅建業者が解説【大阪・近畿対応・秘密厳守】</a>
-- <a href="/guide/akusha-gyosha-5-teguchi-mikiwake">訳あり不動産買取の悪質業者5つの手口｜騙されない見分け方と安全な相見積もり手順</a>
-- <a href="/guide/kyouyuu-mochibun-hub">共有持分 完全ハブ｜売却・買取・トラブル解決・相場まで全ガイドまとめ【2026年版】</a>
-- <a href="/guide/saikenchifu-hub">再建築不可物件 完全ハブ｜売却・買取・価格相場・事例まで全ガイドまとめ【2026年版】</a>
-- <a href="/guide/osaka-wakeare-buyer-4sha-hikaku">大阪 訳あり物件 買取業者4社比較｜相場・口コミ・スピード【2026年版】</a>
+- <a href="/guide/jiko-bukken-hub/">事故物件 完全ハブ｜買取・告知義務・心理的瑕疵・価格相場まで全ガイドまとめ【2026年版】</a>
+- <a href="/guide/accident-property-sale/">事故物件は売れる？告知義務・売却相場・買取の流れを宅建業者が解説【大阪・近畿対応・秘密厳守】</a>
+- <a href="/guide/akusha-gyosha-5-teguchi-mikiwake/">訳あり不動産買取の悪質業者5つの手口｜騙されない見分け方と安全な相見積もり手順</a>
+- <a href="/guide/kyouyuu-mochibun-kaitori/">共有持分の買取・売却方法</a>
+- <a href="/guide/non-rebuildable-property-sale/">再建築不可物件の売却方法</a>
+- <a href="/guide/osaka-wakeare-buyer-4sha-hikaku/">大阪 訳あり物件 買取業者4社比較｜相場・口コミ・スピード【2026年版】</a>
 
 ## まとめ
 
@@ -259,5 +262,5 @@ updatedDate: "2026-09-07"
 <p style="font-weight:bold;margin:0 0 0.5rem;">無料相談・査定のご依頼</p>
 <p style="margin:0 0 1rem;">訳あり物件の売却について、宅建業者が直接ご対応します。査定・相談は完全無料です。</p>
 <p style="margin:0.5rem 0;"><a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="background:#06c755;color:#fff;padding:0.6rem 1.4rem;border-radius:6px;text-decoration:none;font-weight:bold;display:inline-block;">LINEで無料相談（24時間受付）</a></p>
-<p style="margin:0.5rem 0;"><a href="/contact" style="background:#2563eb;color:#fff;padding:0.6rem 1.4rem;border-radius:6px;text-decoration:none;font-weight:bold;display:inline-block;">お問い合わせフォームから相談する</a></p>
+<p style="margin:0.5rem 0;"><a href="/contact/" style="background:#2563eb;color:#fff;padding:0.6rem 1.4rem;border-radius:6px;text-decoration:none;font-weight:bold;display:inline-block;">お問い合わせフォームから相談する</a></p>
 </div>

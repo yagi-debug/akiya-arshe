@@ -21,6 +21,8 @@ faqs:
 
 「父が昭和40年代に建てた実家を相続したのに、不動産会社に『住宅ローンが使えない』と言われて買い手が見つからない」——そんな相談が当社には毎月届きます。<strong>旧耐震基準の物件でも、現況買取という方法を選べば耐震診断も改修工事もなしに売却できます。</strong>仲介手数料もかかりません。
 
+このテーマの全体像は[大阪市の訳あり物件の買取](/guide/osaka-city-yakuari-kaitori/)にまとめています。
+
 > <strong>旧耐震基準物件の売却 — まとめ</strong>
 > - <strong>旧耐震基準</strong>：1981年（昭和56年）5月31日以前に建築確認を受けた建物
 > - <strong>売れにくい理由</strong>：住宅ローンが使いにくく、買い手が現金購入者に限られる
@@ -206,7 +208,7 @@ A. 法的には可能ですが、入居者への告知義務があります。�
 物件の住所・築年数・現状をお知らせいただくだけで査定できます。
 
 <strong>メール・フォームでのご相談はこちら</strong><br>
-→ <a href="/contact">お問い合わせフォーム</a>
+→ <a href="/contact/">お問い合わせフォーム</a>
 
 ※電話での営業はしておりません。LINE・メールでお気軽にご相談ください。
 
@@ -214,7 +216,7 @@ A. 法的には可能ですが、入居者への告知義務があります。�
 
 ### 関連記事
 
-- [老朽化した家でも売れる？現況買取の仕組みと解決策](/guide/furui-akiya-kekkan-kaitori)
-- [訳あり物件とは？5種類の定義と売却方法を比較](/guide/wakeare-bukken-5shu-hikaku)
-- [不動産会社に断られた後にできること](/guide/fudosan-kotowarareta-ato-dekiru-koto)
-- [買取業者の選び方・7つのチェックポイント](/guide/kaitori-gyosha-erabikata-checkpoints)
+- [老朽化した家でも売れる？現況買取の仕組みと解決策](/guide/furui-akiya-kekkan-kaitori/)
+- [訳あり物件とは？5種類の定義と売却方法を比較](/guide/wakeare-bukken-5shu-hikaku/)
+- [不動産会社に断られた後にできること](/guide/fudosan-kotowarareta-ato-dekiru-koto/)
+- [買取業者の選び方・7つのチェックポイント](/guide/kaitori-gyosha-erabikata-checkpoints/)

@@ -100,9 +100,9 @@ faqs:
 
 先に費用をかけて片づけたり、調べ直したりする前にご相談いただくほうが、結果として負担が軽くなることがあります。
 
-片づけの費用と手残りの関係は<a href="/guide/katazukenaide-soudan">片付けないでご相談ください</a>にまとめています。
+片づけの費用と手残りの関係は<a href="/guide/katazukenaide-soudan/">片付けないでご相談ください</a>にまとめています。
 
-相続の段階ごとの考え方は<a href="/guide/soudan-shiteii-joutai-checklist">相続した家、まだ相談していい？</a>にまとめています。
+相続の段階ごとの考え方は<a href="/guide/soudan-shiteii-joutai-checklist/">相続した家、まだ相談していい？</a>にまとめています。
 
 ---
 
@@ -129,11 +129,11 @@ faqs:
 3. <strong>現地確認をどう進めるか</strong> — 立ち会いが必要か、鍵がない場合どうするか
 4. <strong>相談・査定に費用がかかるか</strong> — 空き家のミカタでは相談・査定は無料です
 
-現地確認前に何がわかるかは<a href="/guide/kijou-satei-souzoku-fudosan-soudan">机上査定の記事</a>にまとめています。
+現地確認前に何がわかるかは<a href="/guide/kijou-satei-souzoku-fudosan-soudan/">机上査定の記事</a>にまとめています。
 
-鍵や立会いの段取りは<a href="/guide/kagi-genchi-tachiai-soudan-jyunbi">鍵がない場合の相談準備</a>にまとめています。
+鍵や立会いの段取りは<a href="/guide/kagi-genchi-tachiai-soudan-jyunbi/">鍵がない場合の相談準備</a>にまとめています。
 
-金額を提示されたあとの検討は<a href="/guide/teiji-kakaku-kento-jyunbi">提示された査定額の検討</a>にまとめています。
+金額を提示されたあとの検討は<a href="/guide/teiji-kakaku-kento-jyunbi/">提示された査定額の検討</a>にまとめています。
 
 なお、税金の取り扱いは税理士、登記の手続きは司法書士へご確認ください。
 
@@ -175,7 +175,7 @@ faqs:
 
 <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06C755;color:#fff;padding:14px 32px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 8px 8px 0;">LINE「空き家のミカタ」に相談する（無料）</a>
 
-<a href="/contact" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 32px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 0;">無料査定フォームで相談する</a>
+<a href="/contact/" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 32px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 0;">無料査定フォームで相談する</a>
 
 空き家のミカタは、大阪市生野区に事務所を置く宅地建物取引業者（大阪府知事(1)第65646号）です。物件の所在地が大阪・兵庫・京都・奈良・滋賀・和歌山の不動産について、当社が買主として直接買取のご相談をお受けしています。所有者の方のお住まいは問いません。相談・査定は無料です。直接買取の可否・条件は、所在地と物件の状況を確認して判断します。
 
@@ -183,9 +183,9 @@ faqs:
 
 ## 関連記事
 
-- <a href="/guide/kijou-satei-souzoku-fudosan-soudan">机上査定とは？空き家・訳あり物件を現地確認前に相談する方法</a>
-- <a href="/guide/kagi-genchi-tachiai-soudan-jyunbi">鍵がない・立会いできない場合の相談準備｜相続不動産</a>
-- <a href="/guide/soudan-shiteii-joutai-checklist">相続した家、まだ相談していい？7つの状態別チェック</a>
-- <a href="/guide/katazukenaide-soudan">片付けないでご相談ください｜実家7つの状態別・手残り比較</a>
-- <a href="/guide/teiji-kakaku-kento-jyunbi">提示された査定額を検討したいとき｜相談で確認しておきたいこと</a>
-- <a href="/guide/souzoku-ie-wakaranai-soudan">相続した家、誰に相談すればいい？悩み別フローチャートと3つの選択肢</a>
+- <a href="/guide/kijou-satei-souzoku-fudosan-soudan/">机上査定とは？空き家・訳あり物件を現地確認前に相談する方法</a>
+- <a href="/guide/kagi-genchi-tachiai-soudan-jyunbi/">鍵がない・立会いできない場合の相談準備｜相続不動産</a>
+- <a href="/guide/soudan-shiteii-joutai-checklist/">相続した家、まだ相談していい？7つの状態別チェック</a>
+- <a href="/guide/katazukenaide-soudan/">片付けないでご相談ください｜実家7つの状態別・手残り比較</a>
+- <a href="/guide/teiji-kakaku-kento-jyunbi/">提示された査定額を検討したいとき｜相談で確認しておきたいこと</a>
+- <a href="/guide/souzoku-ie-wakaranai-soudan/">相続した家、誰に相談すればいい？悩み別フローチャートと3つの選択肢</a>

@@ -2,6 +2,7 @@
 title: "代償分割で相続した不動産を解決する方法｜補償額の計算・税金の注意点・代償金が払えないときの対処法【2026年版】"
 description: "相続不動産の代償分割とは、1人が不動産を引き継ぎ他の相続人に現金（代償金）で補償する分割方法です。代償金の計算方法・税金の扱い・遺産分割協議書への記載内容・代償金が払えない場合の対処法を解説します。"
 publishDate: "2026-06-24"
+noindex: true
 author: "空き家のミカタ編集部"
 authorTitle: "宅地建物取引業者（大阪府知事(1)第65646号）"
 heroImage: "/images/souzoku-daishobunkatsu-fudosan-hero.jpg"
@@ -33,6 +34,8 @@ A: 代償分割とは、相続人の1人が不動産を単独で取得し、他�
 </div>
 
 「親が亡くなって実家を兄弟で相続することになったけど、1人は住み続けたい、もう1人は現金で欲しい」——こうした状況でよく使われるのが<strong>代償分割</strong>という方法です。
+
+関連する内容は[代償分割で他の相続人に現金を渡す方法](/guide/daishou-bunkatsu-fudousan-souzoku/)で詳しく解説しています。
 
 不動産を売らずに済む一方で、代償金の準備・税金の扱い・遺産分割協議書への記載など、知らないと損をするポイントがいくつかあります。この記事では、代償分割の仕組みから計算方法・手続きの流れ・税金の注意点まで、順を追ってお伝えします。
 
@@ -110,7 +113,7 @@ A: 代償分割とは、相続人の1人が不動産を単独で取得し、他�
 
 まず誰が相続人なのか、財産全体（不動産・預貯金・負債）を整理します。<strong>2024年4月から相続登記が義務化</strong>されており、相続を知った日から3年以内に名義変更が必要です。
 
-→ 参考：<a href="/guide/souzoku-touki-gimuka-kanzen-taiou-2026">相続登記義務化の完全対応ガイド</a>
+→ 参考：<a href="/guide/inheritance-registry-neglect-sale-3options/">相続登記義務化の完全対応ガイド</a>
 
 ### 2. 不動産の時価を査定・合意する
 
@@ -130,7 +133,7 @@ A: 代償分割とは、相続人の1人が不動産を単独で取得し、他�
 
 全相続人の<strong>実印と印鑑証明書</strong>が必要です。司法書士に依頼すると書式の不備なく作成できます（費用の目安：5〜10万円）。
 
-→ 参考：<a href="/guide/isan-bunkatsu-kyougisho-kakikata">遺産分割協議書の書き方</a>
+→ 参考：<a href="/guide/isan-bunkatsu-kyougisho-kakikata/">遺産分割協議書の書き方</a>
 
 ### 5. 相続登記・代償金の支払いを行う
 
@@ -181,7 +184,7 @@ A: 代償分割とは、相続人の1人が不動産を単独で取得し、他�
 
 専門の買取業者（訳あり・相続物件対応）なら、現況のまま・相続人全員の合意があれば<strong>最短2週間で現金化</strong>できます。
 
-→ 参考：<a href="/guide/souzoku-fudosan-shobun-5-pattern">相続不動産の処分方法5パターン比較</a>
+→ 参考：<a href="/guide/souzoku-fudosan-shobun-5-pattern/">相続不動産の処分方法5パターン比較</a>
 
 ### 選択肢2：不動産の「持分」を代償金の代わりに渡す
 
@@ -234,9 +237,9 @@ A：相続人が3人以上いる場合も基本は同じです。例えば不動
 
 <p style="margin-top:0.5rem;font-size:0.9rem;">「空き家のミカタ」を友だち追加してください</p>
 
-<a href="/contact" style="display:inline-block;border:2px solid rgba(255,255,255,0.4);color:#fff;padding:0.5rem 1.5rem;border-radius:8px;font-weight:bold;text-decoration:none;margin-top:0.5rem;">フォームで相談する</a>
+<a href="/contact/" style="display:inline-block;border:2px solid rgba(255,255,255,0.4);color:#fff;padding:0.5rem 1.5rem;border-radius:8px;font-weight:bold;text-decoration:none;margin-top:0.5rem;">フォームで相談する</a>
 
 </section>
 ---
 
-**このカテゴリの全ガイド一覧:** [→ 相続不動産 完全ハブ【2026年版】](/guide/souzoku-hub)
+**このカテゴリの中心の記事:** [→ 相続した家の売り方と手続き](/guide/parent-death-house/)

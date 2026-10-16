@@ -30,7 +30,7 @@ faqs:
 
 ## 机上査定とは｜現地を見る前にわかることと、わからないこと
 
-査定には大きく分けて、現地を見ずに概算を出す「机上査定（簡易査定）」と、現地を見て金額を出す「訪問査定」があります。査定額が会社によって違う理由は<a href="/guide/appraisal-difference">不動産の査定額はなぜ会社によって違う？</a>で整理しています。
+査定には大きく分けて、現地を見ずに概算を出す「机上査定（簡易査定）」と、現地を見て金額を出す「訪問査定」があります。査定額が会社によって違う理由は<a href="/guide/appraisal-difference/">不動産の査定額はなぜ会社によって違う？</a>で整理しています。
 
 ここでは「机上でどこまでわかるのか」に絞ります。相続した空き家・訳あり物件の場合、情報の出どころは次の3つに分かれます。
 
@@ -52,7 +52,7 @@ faqs:
 
 建物の状態や荷物の量は、公的な情報には出てきません。机上査定では「一般的な傷み具合」「荷物がある程度残っている」といった仮の前提を置いて見当をつけることになります。
 
-そのため、机上の見当と現地確認後の数字がずれることがあります。査定の根拠として現地で何を見ているかは、次の記事にまとめています。<a href="/guide/kaitori-satei-konkyo-gendai-checklist">訳あり物件の買取価格はどう決まる？査定の根拠と現地調査の8チェックポイント</a>
+そのため、机上の見当と現地確認後の数字がずれることがあります。査定の根拠として現地で何を見ているかは、次の記事にまとめています。<a href="/guide/kaitori-satei-konkyo-gendai-checklist/">訳あり物件の買取価格はどう決まる？査定の根拠と現地調査の8チェックポイント</a>
 
 ### ③ 所有者の方にしかわからない情報が、机上査定の精度を左右します
 
@@ -60,7 +60,7 @@ faqs:
 
 建物の中で過去に起きた出来事も同じです。国土交通省の「人の死の告知に関するガイドライン」でも、仲介する宅地建物取引業者は、売主の方に告知書（物件状況等報告書）への記入を求めることで調査の義務を果たしたものとされています。つまり、<strong>所有者の方からの情報がそのまま判断材料になる</strong>ということです。
 
-告知の範囲については<a href="/guide/shinriteki-kashi-kokuchi-gimu">心理的瑕疵とは？事故物件の告知義務の範囲</a>をご覧ください。
+告知の範囲については<a href="/guide/shinriteki-kashi-kokuchi-gimu/">心理的瑕疵とは？事故物件の告知義務の範囲</a>をご覧ください。
 
 ---
 
@@ -80,7 +80,7 @@ faqs:
 
 相続したアパートは、入居状況と家賃の明細があるだけで、机上で整理できる範囲がかなり広がります。逆に空き家の一戸建ては、建物の状態を現地で見るまで数字が動きやすい物件です。
 
-共有名義の物件で、他の共有者に知られずに査定できるか気になる方もいます。<a href="/guide/kyouyuu-mochibun-naisho-satei">共有持分は兄弟に内緒で査定できる？</a>をご覧ください。
+共有名義の物件で、他の共有者に知られずに査定できるか気になる方もいます。<a href="/guide/kyouyuu-mochibun-naisho-satei/">共有持分は兄弟に内緒で査定できる？</a>をご覧ください。
 
 ---
 
@@ -136,7 +136,7 @@ faqs:
 
 相談・査定は無料です。相談したからといって、その場で売却を決める必要はありません。
 
-手続き全体の流れ（契約・決済まで）は、次の記事にまとめています。<a href="/guide/wakeari-bukken-kaitori-tetsuzuki">訳あり物件の買取 手続き｜必要書類・告知書の書き方</a>
+手続き全体の流れ（契約・決済まで）は、次の記事にまとめています。<a href="/guide/wakeari-bukken-kaitori-tetsuzuki/">訳あり物件の買取 手続き｜必要書類・告知書の書き方</a>
 
 ---
 
@@ -188,7 +188,7 @@ faqs:
 
 <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06C755;color:#fff;padding:14px 32px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 8px 8px 0;">LINE「空き家のミカタ」に相談する（無料）</a>
 
-<a href="/contact" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 32px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 0;">無料査定フォームで相談する</a>
+<a href="/contact/" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 32px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 0;">無料査定フォームで相談する</a>
 
 空き家のミカタは、大阪市生野区に事務所を置く宅地建物取引業者（大阪府知事(1)第65646号）です。大阪を中心に、兵庫・京都・奈良・滋賀・和歌山の物件を対象に、当社が買主として直接買取のご相談をお受けしています。登記の手続きは司法書士へ、税金の判断は税理士へご確認ください。
 
@@ -196,13 +196,13 @@ faqs:
 
 ## 関連記事
 
-- <a href="/guide/appraisal-difference">不動産の査定額はなぜ会社によって違う？高すぎる査定に注意</a>
-- <a href="/guide/kaitori-satei-konkyo-gendai-checklist">訳あり物件の買取価格はどう決まる？査定の根拠と現地調査の8チェックポイント</a>
-- <a href="/guide/wakeari-bukken-kaitori-tetsuzuki">訳あり物件の買取手続き｜必要書類・告知書の書き方</a>
-- <a href="/guide/souzoku-fudosan-genjou-watashi-kaitori">相続した家を現状渡しで売る方法</a>
-- <a href="/guide/souzoku-apart-uritai-lp">相続アパートを売りたい方へ【大阪・近畿対応】</a>
-- <a href="/guide/kyouyuu-mochibun-naisho-satei">共有持分は兄弟に内緒で査定できる？</a>
-- <a href="/guide/shinriteki-kashi-kokuchi-gimu">心理的瑕疵とは？事故物件の告知義務の範囲・売却時期・価格への影響</a>
+- <a href="/guide/appraisal-difference/">不動産の査定額はなぜ会社によって違う？高すぎる査定に注意</a>
+- <a href="/guide/kaitori-satei-konkyo-gendai-checklist/">訳あり物件の買取価格はどう決まる？査定の根拠と現地調査の8チェックポイント</a>
+- <a href="/guide/wakeari-bukken-kaitori-tetsuzuki/">訳あり物件の買取手続き｜必要書類・告知書の書き方</a>
+- <a href="/guide/souzoku-fudosan-genjou-watashi-kaitori/">相続した家を現状渡しで売る方法</a>
+- <a href="/guide/souzoku-apart-uritai-lp/">相続アパートを売りたい方へ【大阪・近畿対応】</a>
+- <a href="/guide/kyouyuu-mochibun-naisho-satei/">共有持分は兄弟に内緒で査定できる？</a>
+- <a href="/guide/shinriteki-kashi-kokuchi-gimu/">心理的瑕疵とは？事故物件の告知義務の範囲・売却時期・価格への影響</a>
 
 ---
 

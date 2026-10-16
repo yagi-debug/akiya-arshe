@@ -176,7 +176,7 @@ A: 2019年改正法では、支払いに窮する場合に家庭裁判所への�
 
 遺留分の支払い後に税金も払う必要があることを念頭に、余裕を持った売却価格で交渉してください。
 
-また、亡くなった方が居住していた不動産であれば「空き家の3,000万円特別控除」が使える可能性があります（相続から3年を経過した年の12月31日まで）。詳しくは<a href="/guide/souzoku-akiya-3000man-tokubetsu-kojo">空き家3,000万円特別控除の解説</a>をご覧ください。
+また、亡くなった方が居住していた不動産であれば「空き家の3,000万円特別控除」が使える可能性があります（相続から3年を経過した年の12月31日まで）。詳しくは<a href="/guide/souzoku-akiya-3000man-tokubetsu-kojo/">空き家3,000万円特別控除の解説</a>をご覧ください。
 
 ---
 
@@ -207,15 +207,14 @@ A: 2019年改正法では、支払いに窮する場合に家庭裁判所への�
 
 <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" target="_blank" rel="noopener noreferrer"><strong>LINEで無料相談する（遺留分侵害額請求・不動産売却の相談）</strong></a>
 
-<a href="/contact"><strong>お問い合わせフォームはこちら</strong></a>
+<a href="/contact/"><strong>お問い合わせフォームはこちら</strong></a>
 
 ---
 
 ## 関連するガイド記事
 
-- [相続した不動産を売却する完全ガイド｜宅建業者が全手順を解説](/guide/inheritance-sale)
-- [遺言書がある場合の相続不動産売却｜検認から売却まで](/guide/yuigonsho-souzoku-fudosan-baikyaku)
-- [遺産分割調停中の不動産はどうなる？売却できるか解説](/guide/isan-bunkatsu-chotei-fudosan-nagare)
-- [相続不動産の代償分割｜代償金が払えない場合の解決策](/guide/souzoku-daishobunkatsu-fudosan)
-- [共有持分のみを売却する方法｜他の相続人の同意なしに進める手順](/guide/kyouyuu-mochibun-kaitori)
-- <a href="/guide/souzoku-hub">相続不動産 完全ハブ｜処分・売却・登記・固定資産税まで全ガイドをまとめて確認【2026年版】</a>
+- [相続した不動産を売却する完全ガイド｜宅建業者が全手順を解説](/guide/parent-death-house/)
+- [遺言書がある場合の相続不動産売却｜検認から売却まで](/guide/yuigonsho-souzoku-fudosan-baikyaku/)
+- [遺産分割調停中の不動産はどうなる？売却できるか解説](/guide/isan-bunkatsu-chotei-fudosan-nagare/)
+- [相続不動産の代償分割｜代償金が払えない場合の解決策](/guide/souzoku-daishobunkatsu-fudosan/)
+- [共有持分のみを売却する方法｜他の相続人の同意なしに進める手順](/guide/kyouyuu-mochibun-kaitori/)

@@ -41,7 +41,7 @@ cluster: "akiya-tax"
 
 > **シルバーウィーク（2026年9月19日〜23日）の帰省中にできること**
 > Q: シルバーウィークに実家へ帰るなら、空き家の解体補助金についてこの機会に何をすればいいですか？
-> A: 帰省中に[「帰省したら実家が荒れていた」チェックリスト](/guide/obon-jikka-checklist-kaitori-handan)で建物の老朽度を記録し、集まった家族で[相続アパート・空き家の放置コスト診断【お盆版】](/guide/kisei-souzoku-apart-akiya-shindan)を見ながら、補助金を使った解体と現況買取のどちらが早いか話し合うのが最短です。
+> A: 帰省中に[「帰省したら実家が荒れていた」チェックリスト](/guide/obon-jikka-checklist-kaitori-handan/)で建物の老朽度を記録し、集まった家族で[相続アパート・空き家の放置コスト診断【お盆版】](/guide/kisei-souzoku-apart-akiya-shindan/)を見ながら、補助金を使った解体と現況買取のどちらが早いか話し合うのが最短です。
 
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"WebPage","name":"大阪市の空き家解体補助金【2026年度・令和8年度】戸建100万/集合住宅200万・24区の窓口一覧","speakable":{"@type":"SpeakableSpecification","cssSelector":["#kekka-direct","#ai-summary"]}}
@@ -221,7 +221,19 @@ A: 申請できます。2026年度（令和8年度）も「狭あい道路沿道
 
 > <strong>出典</strong>：<a href="https://www.city.osaka.lg.jp/toshiseibi/page/0000531835.html" target="_blank" rel="noopener noreferrer">大阪市「狭あい道路沿道老朽住宅除却促進制度」補助金申請の手引き（令和8年度版・Ver.2026.04）</a>（アクセス日: 2026-07-31）。「対象区域あり」の16区は同資料が対策地区・重点対策地区として名指ししている区、「要個別確認」の8区は同資料に区域の明記がなく、老朽危険建築物除却補助（一般）等の別制度のみ利用できる可能性があります。<strong>同じ区内でも街区単位で対象・対象外が分かれる</strong>ため、最終判断は必ず担当窓口での事前相談で確認してください。
 >
-> <strong>注意</strong>：担当課名は区によって「都市整備課」「建設局窓口」等と異なる場合があります。各区役所ページのトップから「空き家」「老朽建築物」等のキーワードで検索するか、区役所代表番号に電話してご確認ください。狭あい道路沿道老朽住宅除却促進制度の相談先は<strong>耐震・密集市街地整備受付窓口（06-6882-7053）</strong>です。堺市の解体補助金は<a href="/guide/sakai-akiya-kaitai-hojo-2026">堺市の空き家解体補助金2026年度版</a>、交野市は<a href="/guide/katano-akiya-kaitai-hojo-2026">交野市の空き家・解体補助金ガイド</a>をご確認ください。
+> <strong>注意</strong>：担当課名は区によって「都市整備課」「建設局窓口」等と異なる場合があります。各区役所ページのトップから「空き家」「老朽建築物」等のキーワードで検索するか、区役所代表番号に電話してご確認ください。狭あい道路沿道老朽住宅除却促進制度の相談先は<strong>耐震・密集市街地整備受付窓口（06-6882-7053）</strong>です。堺市の解体補助金は<a href="/guide/sakai-akiya-kaitai-hojo-2026/">堺市の空き家解体補助金2026年度版</a>、交野市は<a href="/guide/katano-akiya-kaitai-hojo-2026/">交野市の空き家・解体補助金ガイド</a>をご確認ください。
+
+### 補助金以外の「空き家全般」の相談先
+
+補助金の窓口とは別に、空き家をどうするか全般を相談できる公的な窓口もあります。
+
+| 窓口 | 内容 |
+|------|------|
+| 大阪市立住まい情報センター（北区天神橋6-4-20、相談専用電話 06-6242-1177） | 住まいの一般相談。法律・建築などの専門家相談は事前予約制で、大阪府内在住・在勤・在学の方などが対象 |
+| 各区役所の担当課 | 空き家の相談、老朽危険建築物の補助の問い合わせ |
+| 大阪府の空き家相談窓口 | 府内の補助制度や空き家対策の情報提供 |
+
+休業日や受付時間は変わることがあるため、利用前に各窓口の公式案内で確認してください（2026年10月12日に住所・電話番号を確認）。
 
 ---
 
@@ -256,7 +268,7 @@ A: 申請できます。2026年度（令和8年度）も「狭あい道路沿道
 - <strong>建物に価値が残っている場合</strong>：状態がそれほど悪くない建物は、解体より古家付きで売却した方が手取りが多くなることがあります
 - <strong>補助対象外になった場合</strong>：所得要件・税金滞納・老朽度基準未達などで対象外になった場合でも、訳あり物件専門の買取業者なら現況のまま買取できます
 
-対象外になる理由は「地区」「築年」「道路幅員」「建物・申請者の要件」「時期・手続き」の5つに整理できます。理由ごとに打ち手が変わり、翌年度に出し直せば通るケースもあります。パターン別の自己負担額と、解体自費・現況買取の手残り比較は<a href="/guide/osaka-akiya-hojo-taishougai-sentakushi">大阪市の空き家補助金が対象外だったら｜不該当5パターン別の手残り比較</a>にまとめています。
+対象外になる理由は「地区」「築年」「道路幅員」「建物・申請者の要件」「時期・手続き」の5つに整理できます。理由ごとに打ち手が変わり、翌年度に出し直せば通るケースもあります。パターン別の自己負担額と、解体自費・現況買取の手残り比較は<a href="/guide/osaka-akiya-hojo-taishougai-sentakushi/">大阪市の空き家補助金が対象外だったら｜不該当5パターン別の手残り比較</a>にまとめています。
 
 > **解体するか、そのまま売るか迷ったら、先に両方の条件を比べてみませんか。** 空き家のミカタでは、古家付きのままの買取相談を受け付けています。LINEでは「大阪市○○区の空き家。解体するか迷っています」と、わかる範囲の状況からお知らせください。補助金の対象可否・申請時期は自治体の窓口で確認してください。
 >
@@ -286,6 +298,10 @@ A: 申請できます。2026年度（令和8年度）も「狭あい道路沿道
 
 補助金の活用が難しい場合や、早期に手放したい場合は、**空き家のミカタ**の無料買取査定という選択肢も併せてご検討ください。
 
+## 関連する記事
+
+- [大阪府の補助金・空き家バンク・国庫帰属](/area/osaka-pref/)
+
 ---
 
 ## 無料査定・ご相談はこちらから
@@ -294,7 +310,7 @@ A: 申請できます。2026年度（令和8年度）も「狭あい道路沿道
 
 <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06c755;color:#fff;padding:14px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 4px;">LINE「空き家のミカタ」に相談する（無料）</a>
 
-<a href="/contact" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 4px;">無料査定フォームで相談する</a>
+<a href="/contact/" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 4px;">無料査定フォームで相談する</a>
 
 訳あり物件・空き家・相続物件を専門に扱っており、補助金の状況に関係なく<strong>現況のまま・片付け不要で買取査定</strong>ができます。大阪府知事(1)第65646号の宅建業免許のもと、安心してご相談いただけます。
 
@@ -302,19 +318,19 @@ A: 申請できます。2026年度（令和8年度）も「狭あい道路沿道
 
 ## 関連記事
 
-- <a href="/guide/osaka-akiya-subsidy">大阪市の空き家対策と補助金制度（制度の基本を確認）</a>
-- <a href="/guide/vacant-house">空き家をどうする？売却・活用・解体の選択肢</a>
-- <a href="/guide/furui-akiya-kekkan-kaitori">雨漏り・傾き・老朽化した家でも売れる？現況買取の仕組みと解決策</a>
-- <a href="/guide/akiya-kotei-shisan-zei-haraenai">空き家の固定資産税が払えないときの4つの選択肢</a>
-- <a href="/guide/osaka-kaitai-hiyou-kubetsu">大阪市の解体費用の目安と補助金活用法</a>
+- <a href="/guide/osaka-akiya-subsidy/">大阪市の空き家対策と補助金制度（制度の基本を確認）</a>
+- <a href="/guide/akiya-shobun-5-hikaku/">空き家をどうする？売却・活用・解体の選択肢</a>
+- <a href="/guide/furui-akiya-kekkan-kaitori/">雨漏り・傾き・老朽化した家でも売れる？現況買取の仕組みと解決策</a>
+- <a href="/guide/akiya-kotei-shisan-zei-haraenai/">空き家の固定資産税が払えないときの4つの選択肢</a>
+- <a href="/guide/osaka-kaitai-hiyou-kubetsu/">大阪市の解体費用の目安と補助金活用法</a>
 
 ## 関連するガイド記事
 
-- <a href="/guide/akiya-shobun-5-hikaku">空き家処分の5大選択肢を徹底比較【2026年版】費用・期間・手残り額</a>
-- <a href="/guide/osaka-akiya-subsidy">大阪市の空き家対策と補助金制度｜使える支援を宅建業者がまとめ</a>
-- <a href="/guide/kotei-shisan-zei-nousho-baikyaku-3taiken">【実録】固定資産税の通知書が届き、空き家売却を決意した3つの体験談【2026年5月】</a>
-- <a href="/guide/osaka-kaitai-hiyou-kubetsu">大阪市の空き家解体費用を区別に比較｜補助金制度と相場を宅建業者が解説</a>
-- <a href="/guide/osaka-24ku-wakeari-kakakutai-map">大阪市24区の訳あり物件買取相場マップ【2025-2026年版】路線価・空き家率・区別データ完全比較</a>
+- <a href="/guide/akiya-shobun-5-hikaku/">空き家処分の5大選択肢を徹底比較【2026年版】費用・期間・手残り額</a>
+- <a href="/guide/osaka-akiya-subsidy/">大阪市の空き家対策と補助金制度｜使える支援を宅建業者がまとめ</a>
+- <a href="/guide/kotei-shisan-zei-tsuchisho-checklist/">【参考例】固定資産税の通知書が届き、空き家売却を決意した3つのケース【2026年5月】</a>
+- <a href="/guide/osaka-kaitai-hiyou-kubetsu/">大阪市の空き家解体費用を区別に比較｜補助金制度と相場を宅建業者が解説</a>
+- <a href="/guide/osaka-24ku-wakeari-kakakutai-map/">大阪市24区の訳あり物件買取相場マップ【2025-2026年版】路線価・空き家率・区別データ完全比較</a>
 
 ## よくある質問
 

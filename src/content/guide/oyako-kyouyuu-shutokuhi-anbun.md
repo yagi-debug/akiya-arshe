@@ -36,6 +36,8 @@ howToSteps:
 
 親子共有名義の不動産を売却するとき、<strong>売買契約は1本でも、税金の計算は親と子で完全に別々</strong>です。取得費も、所有期間も、使える特例も、確定申告書も、持分ごとに分かれます。ここを1つの計算だと思い込んだまま進めると、本来なら払わなくてよかった税金を払うことになります。
 
+このテーマの全体像は[共有持分の買取・売却方法](/guide/kyouyuu-mochibun-kaitori/)にまとめています。
+
 この記事は、親子共有名義の不動産を売ったときの<strong>取得費按分と譲渡所得の計算</strong>を、国税庁の式のとおりに持分ごとに分解したものです。実際に大阪市阿倍野区文の里にある木造戸建を例に、同じ2分の1ずつの共有なのに税額が約10倍違う場面まで数字で追いかけます。
 
 <img src="/images/oyako-kyouyuu-shutokuhi-anbun-oyako.jpg" alt="高齢の親と成人した子が机で書類を見ながら不動産の売却について話し合っている様子" width="1260" height="750" style="width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" />
@@ -190,7 +192,7 @@ howToSteps:
 
 - 短期の場合の子の税額：156万7,400円 × 39.63％ ＝ 約62万1,000円
 
-<strong>約30万円の差が、売る年を1年ずらすかどうかだけで生まれます</strong>。子が他の相続人から持分を買い取ってから日が浅いときは、年末をまたぐかどうかを必ず確認してください。この起算日の数え方は[相続不動産の譲渡所得税｜5年の起算日と取得費不明の対処](/guide/souzoku-jouto-shotokuzei-5nen-kisanbi)でも詳しく扱っています。
+<strong>約30万円の差が、売る年を1年ずらすかどうかだけで生まれます</strong>。子が他の相続人から持分を買い取ってから日が浅いときは、年末をまたぐかどうかを必ず確認してください。この起算日の数え方は[相続不動産の譲渡所得税｜5年の起算日と取得費不明の対処](/guide/souzoku-jouto-shotokuzei-5nen-kisanbi/)でも詳しく扱っています。
 
 ## 3,000万円特別控除は「1人につき3,000万円」｜ただし住んでいた人だけ
 
@@ -211,7 +213,7 @@ howToSteps:
 
 <strong>③確定申告は一人ずつ</strong>。この特例の適用を受けるためには確定申告が必要で、<strong>確定申告書は一人一人が提出</strong>します（国税庁 No.3308）。世帯でまとめて1通、ではありません。
 
-なお、親がすでに亡くなっていて相続した空き家を売る場合は、別の枠である被相続人の居住用財産（空き家）を売ったときの特例があります（国税庁 No.3306）。こちらは[相続した空き家を売るときの3,000万円特別控除](/guide/souzoku-akiya-3000man-tokubetsu-kojo)にまとめています。
+なお、親がすでに亡くなっていて相続した空き家を売る場合は、別の枠である被相続人の居住用財産（空き家）を売ったときの特例があります（国税庁 No.3306）。こちらは[相続した空き家を売るときの3,000万円特別控除](/guide/souzoku-akiya-3000man-tokubetsu-kojo/)にまとめています。
 
 ## 相続で親の持分を引き継いでから売るなら｜取得費加算の3年10か月
 
@@ -225,7 +227,7 @@ howToSteps:
 
 相続税の申告期限は相続開始から10か月なので、実質的な期限は<strong>相続開始から3年10か月</strong>です。この期間内に売れば、支払った相続税のうち売った不動産に対応する部分を取得費に加算できます。加算額は、その人の相続税額に、譲渡した財産の相続税評価額が取得財産の総額に占める割合を掛けた金額です。ただし譲渡益を超える部分は加算できません。
 
-親子共有名義の場合、この特例が使えるのは<strong>相続税を払った人の持分だけ</strong>です。もともと持っていた親の持分には関係ありません。ここも按分して考えます。詳しい計算は[取得費加算の特例｜相続税の一部が経費になる3年10か月の期限と計算式](/guide/shutokuhi-kasan-tokurei-souzoku)に整理しています。
+親子共有名義の場合、この特例が使えるのは<strong>相続税を払った人の持分だけ</strong>です。もともと持っていた親の持分には関係ありません。ここも按分して考えます。詳しい計算は[取得費加算の特例｜相続税の一部が経費になる3年10か月の期限と計算式](/guide/shutokuhi-kasan-tokurei-souzoku/)に整理しています。
 
 ## 大阪市24区の現場から｜親子共有名義の売却が止まる3つの場面
 
@@ -237,7 +239,7 @@ howToSteps:
 
 <strong>③子が「半分だから半分もらえる」と思っている</strong>。上の計算で見たとおり、税引き後の手取りは持分割合と一致しません。売却前にこれを共有していないと、決済後にお金の分け方でもめます。当社がお手伝いする案件では、<strong>売却額の目安が立った段階で、持分ごとのおおよその税額を並べてから配分を決めていただく</strong>ようにしています。
 
-なお、親が売却に同意しない、あるいは連絡が取れないという場合は、自分の持分だけを売るという選択肢もあります。共有持分は各共有者が単独で処分できるためです。ただし全体を売るより価格は下がります。判断の分かれ道は[共有名義の不動産を買取で手放す大阪の手順｜全体売却と持分売却の分かれ道](/guide/kyoyu-meigi-kaitori-osaka)にまとめました。阿倍野区の物件については[阿倍野区文の里の不動産買取｜解体補助の対策地区と土地買取の判断基準](/guide/abeno-fuminosato-fudosan-kaitori)もあわせてご覧ください。
+なお、親が売却に同意しない、あるいは連絡が取れないという場合は、自分の持分だけを売るという選択肢もあります。共有持分は各共有者が単独で処分できるためです。ただし全体を売るより価格は下がります。判断の分かれ道は[共有名義の不動産を買取で手放す大阪の手順｜全体売却と持分売却の分かれ道](/guide/kyoyu-meigi-kaitori-osaka/)にまとめました。阿倍野区の物件については[阿倍野区文の里の不動産買取｜解体補助の対策地区と土地買取の判断基準](/guide/abeno-fuminosato-fudosan-kaitori/)もあわせてご覧ください。
 
 <img src="/images/oyako-kyouyuu-shutokuhi-anbun-street.jpg" alt="大阪市内の住宅街。木造戸建が並ぶ細い道路と青空" width="1260" height="750" style="width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" />
 
@@ -284,7 +286,7 @@ A. いいえ。査定は無料で、査定を受けたからといって売却�
 
 <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06c755;color:#fff;padding:14px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 4px;">LINE「空き家のミカタ」に相談する（無料）</a>
 
-<a href="/contact" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 4px;">無料査定フォームで相談する</a>
+<a href="/contact/" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 4px;">無料査定フォームで相談する</a>
 
 空き家のミカタは、大阪市生野区に事務所を構える宅地建物取引業者です（大阪府知事(1)第65646号）。大阪市24区の空き家・長屋・再建築不可物件・共有持分を専門に扱っており、<strong>親が施設に入ったまま何年も空き家になっている・共有者の一人と話ができていない・残置物がそのまま</strong>という状態でも査定にお応えできます。当社が買主として直接買い取りますので、仲介手数料はいただきません。なお、譲渡所得の申告と税額の判断は税理士へ、登記の代理申請は司法書士へ、成年後見の申立ては弁護士・司法書士へご確認ください。お手伝いできるのは、その不動産をいくらで、どういう順序で手放せるかという部分です。
 
@@ -294,14 +296,13 @@ A. いいえ。査定は無料で、査定を受けたからといって売却�
 
 ![関連記事のイラスト - 空き家のミカタ](/images/oyako-kyouyuu-shutokuhi-anbun-h2-3.jpg)
 
-- <a href="/guide/kyoyu-meigi-kaitori-osaka">共有名義の不動産を買取で手放す大阪の手順｜全体売却と持分売却の分かれ道</a>
-- <a href="/guide/souzoku-jouto-shotokuzei-5nen-kisanbi">相続不動産の譲渡所得税｜5年の起算日と取得費不明の対処</a>
-- <a href="/guide/shutokuhi-kasan-tokurei-souzoku">取得費加算の特例｜相続税の一部が経費になる3年10か月の期限と計算式</a>
-- <a href="/guide/souzoku-akiya-3000man-tokubetsu-kojo">相続した空き家を売るときの3,000万円特別控除｜適用条件・2024年改正・申告方法</a>
-- <a href="/guide/kyouyuu-mochibun-kaitori">共有持分の買取・売却方法｜大阪市24区対応・最短2週間現金化</a>
-- <a href="/guide/kyouyuu-mochibun-osaka-jibunde-keisan">共有持分はいくらで売れる？大阪市の路線価から自分で計算する4ステップ</a>
-- <a href="/guide/kyouyuu-mochibun-hub">共有持分 完全ハブ｜売却・買取・トラブル解決・相場まで全ガイドまとめ</a>
-- <a href="/guide/abeno-fuminosato-fudosan-kaitori">阿倍野区文の里の不動産買取｜解体補助の対策地区と土地買取の判断基準</a>
+- <a href="/guide/kyoyu-meigi-kaitori-osaka/">共有名義の不動産を買取で手放す大阪の手順｜全体売却と持分売却の分かれ道</a>
+- <a href="/guide/souzoku-jouto-shotokuzei-5nen-kisanbi/">相続不動産の譲渡所得税｜5年の起算日と取得費不明の対処</a>
+- <a href="/guide/shutokuhi-kasan-tokurei-souzoku/">取得費加算の特例｜相続税の一部が経費になる3年10か月の期限と計算式</a>
+- <a href="/guide/souzoku-akiya-3000man-tokubetsu-kojo/">相続した空き家を売るときの3,000万円特別控除｜適用条件・2024年改正・申告方法</a>
+- <a href="/guide/kyouyuu-mochibun-kaitori/">共有持分の買取・売却方法｜大阪市24区対応・最短2週間現金化</a>
+- <a href="/guide/kyouyuu-mochibun-osaka-jibunde-keisan/">共有持分はいくらで売れる？大阪市の路線価から自分で計算する4ステップ</a>
+- <a href="/guide/abeno-fuminosato-fudosan-kaitori/">阿倍野区文の里の不動産買取｜解体補助の対策地区と土地買取の判断基準</a>
 
 ## 出典（2026年9月7日確認）
 

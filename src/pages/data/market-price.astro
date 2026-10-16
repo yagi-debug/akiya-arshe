@@ -4,14 +4,14 @@ import Breadcrumb from '../../components/Breadcrumb.astro';
 
 const breadcrumbs = [
   { name: 'ホーム', url: '/' },
-  { name: '訳あり不動産 買取相場データ', url: '/data/market-price' },
+  { name: '訳あり不動産 買取相場データ', url: '/data/market-price/' },
 ];
 
 const pageSchema = {
   "@context": "https://schema.org",
   "@type": "Dataset",
-  "name": "空き家のミカタ 訳あり不動産買取相場データベース",
-  "description": "合同会社アルシェ（空き家のミカタ）が実際に査定・買取した訳あり不動産の匿名化済み相場データ。再建築不可・事故物件・共有持分・相続アパート・空き家など50件以上を掲載。",
+  "name": "訳あり不動産 買取相場の目安",
+  "description": "再建築不可・事故物件・共有持分・相続アパート・空き家などの訳あり不動産の買取相場の目安（参考値・推計）。",
   "creator": {
     "@type": "Organization",
     "name": "合同会社アルシェ",
@@ -26,132 +26,13 @@ const pageSchema = {
   }
 };
 
-const faqSchema = {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "再建築不可物件の買取相場はいくらですか？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "再建築不可物件の買取相場は、更地価格の30〜60%が目安です。大阪市内の築40年以上の長屋・一戸建てで、土地面積20〜50㎡であれば50〜300万円程度。ただし接道状況・隣地との関係・建物の状態によって大きく変動します。当社の査定データでは、大阪市内の再建築不可物件の平均買取価格は約180万円（2024年実績）です。"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "事故物件の買取価格はどのくらい下がりますか？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "事故物件（自殺・孤独死・事件）の買取価格は、通常物件の40〜70%が相場です。死亡から3年以上経過した物件や、リフォーム済みの物件は値下がり幅が小さくなります。当社の査定事例では、大阪市内のマンション（孤独死）で通常価格の約55%で買取したケースが最多です。"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "共有持分だけを売却できますか？買取価格は？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "共有持分のみでも買取できます。ただし買取価格は、持分割合×評価額の30〜50%が相場です。例：評価額3,000万円の物件の1/2持分であれば、450〜750万円程度。他の共有者との関係が良好で任意売却に協力的な場合は、60〜70%まで上がることもあります。"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "相続したアパートを入居者付きのまま売却できますか？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "入居者付きのまま（オーナーチェンジ）で売却できます。買取価格は収益還元法で計算され、年間家賃収入÷利回り（10〜15%）が目安。例：年間家賃収入240万円なら1,600〜2,400万円程度。空室率が高い・家賃が相場より安い・修繕費がかさむ物件は利回りが低く評価されます。"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "空き家を放置すると固定資産税はどうなりますか？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "2015年施行の「空家等対策特別措置法」により、市区町村から「特定空家」に指定されると住宅用地の固定資産税特例（1/6軽減）が解除され、最大で固定資産税が6倍になります。また解体命令・強制代執行も可能になります。売却・買取依頼が最も早い解決策です。"
-      }
-    }
-  ]
-};
-
-// 査定・買取事例データ（匿名化済み・実績ベース）
-const cases = [
-  // 大阪市 再建築不可
-  { area: "大阪市西成区", type: "再建築不可（長屋）", detail: "築62年・延床30㎡・接道2m未満", price: "80〜150万円", note: "隣地との折衝が必要なケース" },
-  { area: "大阪市生野区", type: "再建築不可（一戸建て）", detail: "築48年・延床45㎡・旗竿地", price: "120〜200万円", note: "旗竿部分の間口が1.5m" },
-  { area: "大阪市東成区", type: "再建築不可（長屋）", detail: "築55年・延床25㎡・接道なし（袋地）", price: "50〜100万円", note: "囲繞地通行権の確認が必要" },
-  { area: "大阪市平野区", type: "再建築不可（一戸建て）", detail: "築40年・延床60㎡・4号道路接道", price: "200〜320万円", note: "比較的状態が良好" },
-  { area: "大阪市城東区", type: "再建築不可（長屋）", detail: "築50年・延床35㎡・私道接道", price: "150〜230万円", note: "私道共有者の同意取得済み" },
-  { area: "大阪市鶴見区", type: "再建築不可（一戸建て）", detail: "築38年・延床70㎡・間口1.8m", price: "250〜380万円", note: "駅徒歩10分・需要が高いエリア" },
-  { area: "大阪市都島区", type: "再建築不可（長屋）", detail: "築58年・延床28㎡・接道1m未満", price: "60〜110万円", note: "解体・更地化が前提" },
-  { area: "大阪市淀川区", type: "再建築不可（一戸建て）", detail: "築45年・延床55㎡・旗竿地", price: "180〜280万円", note: "リノベーション利用の引き合いあり" },
-  // 大阪市 事故物件
-  { area: "大阪市西成区", type: "事故物件（孤独死・マンション）", detail: "2LDK・64㎡・死後1ヶ月発見", price: "通常価格の45〜55%", note: "特殊清掃・脱臭処置済み" },
-  { area: "大阪市生野区", type: "事故物件（自殺・一戸建て）", detail: "3LDK・80㎡・発生から18ヶ月経過", price: "通常価格の50〜65%", note: "告知義務は残る" },
-  { area: "大阪市阿倍野区", type: "事故物件（孤独死・マンション）", detail: "1K・28㎡・発生から6ヶ月経過", price: "通常価格の40〜50%", note: "築25年・管理良好" },
-  { area: "大阪市住之江区", type: "事故物件（孤独死・一戸建て）", detail: "4LDK・95㎡・長期間発見されず", price: "通常価格の35〜45%", note: "建物状態に問題なし" },
-  { area: "大阪市東淀川区", type: "事故物件（自殺・アパート1室）", detail: "1K・20㎡・発生から3年経過", price: "通常価格の60〜70%", note: "3年経過で告知義務の扱いが変わるケース" },
-  // 大阪市 共有持分
-  { area: "大阪市中央区", type: "共有持分（1/2）", detail: "マンション・3LDK・85㎡・評価額4,000万円", price: "600〜900万円", note: "他の共有者が売却拒否のケース" },
-  { area: "大阪市北区", type: "共有持分（1/3）", detail: "一戸建て・4LDK・100㎡・評価額5,000万円", price: "500〜750万円", note: "兄弟3人の相続で共有" },
-  { area: "大阪市西区", type: "共有持分（1/4）", detail: "マンション・2LDK・60㎡・評価額2,800万円", price: "210〜350万円", note: "4人共有・意見不一致" },
-  { area: "大阪市天王寺区", type: "共有持分（2/3）", detail: "一戸建て・3LDK・75㎡・評価額3,500万円", price: "700〜1,050万円", note: "過半数持分で交渉優位" },
-  { area: "大阪市住吉区", type: "共有持分（1/2）", detail: "一戸建て・3LDK・80㎡・評価額2,500万円", price: "375〜625万円", note: "相続で取得・もう1人と連絡不通" },
-  // 大阪市 相続アパート・収益物件
-  { area: "大阪市生野区", type: "相続アパート（入居者付き）", detail: "木造2階建・4室・築38年・満室・年家賃192万円", price: "1,280〜1,920万円", note: "利回り10〜15%で計算" },
-  { area: "大阪市平野区", type: "相続アパート（空室あり）", detail: "木造2階建・6室・築42年・空室率50%・年家賃120万円", price: "800〜1,200万円", note: "空室改善後の売却も提案" },
-  { area: "大阪市西成区", type: "相続アパート（全空）", detail: "木造2階建・4室・築50年・全空・老朽化", price: "200〜400万円", note: "解体費控除後の土地値" },
-  { area: "大阪市東大阪市", type: "相続アパート（入居者付き）", detail: "軽量鉄骨2階建・8室・築30年・満室・年家賃288万円", price: "1,920〜2,880万円", note: "需要の高いエリア" },
-  { area: "大阪市鶴橋", type: "相続アパート（一部空室）", detail: "RC造4階建・12室・築38年・空室2室・年家賃480万円", price: "3,200〜4,800万円", note: "RC造は耐用年数が長く高評価" },
-  // 大阪市 空き家
-  { area: "大阪市生野区", type: "空き家（一戸建て・築古）", detail: "木造・3LDK・65㎡・築48年・10年放置", price: "150〜280万円", note: "解体費80〜100万円を控除" },
-  { area: "大阪市平野区", type: "空き家（一戸建て・状態良好）", detail: "木造・4LDK・85㎡・築30年・5年空き家", price: "400〜600万円", note: "リノベ利用で引き合いあり" },
-  { area: "大阪市西成区", type: "空き家（長屋・連棟）", detail: "木造・2K・30㎡・築60年・連棟中の1軒", price: "80〜150万円", note: "連棟解体の合意が課題" },
-  { area: "大阪市東成区", type: "空き家（マンション）", detail: "RC造・1LDK・40㎡・築35年・3年空室", price: "550〜750万円", note: "管理費・修繕積立金の滞納なし" },
-  // 大阪府（市外）
-  { area: "大阪府堺市", type: "再建築不可（一戸建て）", detail: "築42年・延床58㎡・旗竿地・間口1.8m", price: "150〜250万円", note: "" },
-  { area: "大阪府東大阪市", type: "相続アパート（入居者付き）", detail: "木造2階建・6室・築32年・満室・年家賃216万円", price: "1,440〜2,160万円", note: "" },
-  { area: "大阪府豊中市", type: "事故物件（孤独死・一戸建て）", detail: "4LDK・90㎡・発生から8ヶ月経過", price: "通常価格の48〜60%", note: "" },
-  { area: "大阪府八尾市", type: "共有持分（1/2）", detail: "一戸建て・3LDK・75㎡・評価額2,000万円", price: "300〜500万円", note: "兄弟間の相続で共有" },
-  { area: "大阪府岸和田市", type: "空き家（一戸建て・築古）", detail: "木造・4DK・70㎡・築52年・8年放置", price: "80〜180万円", note: "解体費が高い（100万円超）" },
-  { area: "大阪府枚方市", type: "再建築不可（旗竿地）", detail: "築35年・延床80㎡・間口2.0m・旗竿部分15m", price: "280〜420万円", note: "人気エリアで需要あり" },
-  { area: "大阪府高槻市", type: "相続マンション（空室）", detail: "RC造・2LDK・58㎡・築28年・2年空室", price: "650〜850万円", note: "駅近・状態良好" },
-  { area: "大阪府寝屋川市", type: "共有持分（1/3）", detail: "一戸建て・3LDK・78㎡・評価額1,800万円", price: "180〜300万円", note: "3兄弟の相続" },
-  { area: "大阪府松原市", type: "事故物件（孤独死・一戸建て）", detail: "3LDK・72㎡・発生から1年経過", price: "通常価格の50〜62%", note: "" },
-  { area: "大阪府摂津市", type: "空き家（一戸建て）", detail: "木造・3LDK・68㎡・築40年・6年放置", price: "200〜320万円", note: "解体・更地として利用可" },
-  // 2026年上半期（Q1-Q2）新規取引
-  { area: "大阪市生野区", type: "再建築不可（長屋）2026Q1", detail: "築54年・延床32㎡・接道1.6m・2026年2月買取", price: "145〜215万円", note: "2026年Q1取引" },
-  { area: "大阪市西成区", type: "事故物件（孤独死）2026Q1", detail: "3DK・52㎡・発生から4ヶ月経過・2026年3月買取", price: "通常価格の47〜57%", note: "2026年Q1取引" },
-  { area: "大阪市東成区", type: "共有持分（1/2）2026Q2", detail: "一戸建て・3LDK・72㎡・評価額2,200万円・2026年4月", price: "330〜550万円", note: "2026年Q2取引" },
-  { area: "大阪市平野区", type: "相続アパート（一部空室）2026Q2", detail: "木造2階建・6室・築40年・空室2室・年家賃180万円・2026年5月", price: "1,200〜1,800万円", note: "2026年Q2取引" },
-  { area: "大阪市城東区", type: "空き家（一戸建て）2026Q1", detail: "木造・4LDK・80㎡・築35年・7年放置・2026年1月買取", price: "340〜500万円", note: "2026年Q1取引" },
-  { area: "大阪市阿倍野区", type: "再建築不可（旗竿地）2026Q2", detail: "築42年・延床55㎡・旗竿地・間口1.8m・2026年6月", price: "190〜290万円", note: "2026年Q2取引" },
-  // 他府県
-  { area: "兵庫県尼崎市", type: "再建築不可（長屋）", detail: "築55年・延床32㎡・接道1.8m未満", price: "80〜140万円", note: "大阪市隣接・需要あり" },
-  { area: "兵庫県神戸市", type: "相続アパート（一部空室）", detail: "木造2階建・4室・築38年・空室1室・年家賃144万円", price: "960〜1,440万円", note: "" },
-  { area: "兵庫県伊丹市", type: "空き家（一戸建て）", detail: "木造・4LDK・90㎡・築35年・5年空き家", price: "350〜520万円", note: "空港周辺・騒音区域" },
-  { area: "京都府京都市", type: "事故物件（孤独死・マンション）", detail: "1K・25㎡・発生から4ヶ月経過", price: "通常価格の42〜55%", note: "観光エリア隣接" },
-  { area: "京都府宇治市", type: "共有持分（1/2）", detail: "一戸建て・3LDK・80㎡・評価額2,200万円", price: "330〜550万円", note: "" },
-  { area: "滋賀県大津市", type: "空き家（一戸建て・農地隣接）", detail: "木造・5DK・100㎡・築45年・10年放置", price: "100〜200万円", note: "農地転用の問題あり" },
-  { area: "奈良県奈良市", type: "再建築不可（一戸建て）", detail: "築50年・延床55㎡・旗竿地", price: "100〜180万円", note: "" },
-  { area: "和歌山県和歌山市", type: "相続アパート（全空）", detail: "木造2階建・6室・築48年・全空", price: "100〜220万円", note: "解体費控除が大きい" },
-  // 首都圏・他エリア
-  { area: "東京都足立区", type: "再建築不可（長屋）", detail: "築50年・延床30㎡・接道1.5m", price: "300〜500万円", note: "都市部は地価が高く高値" },
-  { area: "東京都江戸川区", type: "共有持分（1/3）", detail: "一戸建て・3LDK・70㎡・評価額4,000万円", price: "400〜670万円", note: "" },
-  { area: "埼玉県さいたま市", type: "相続アパート（入居者付き）", detail: "木造2階建・6室・築28年・満室・年家賃240万円", price: "1,600〜2,400万円", note: "" },
-  { area: "神奈川県横浜市", type: "事故物件（孤独死・マンション）", detail: "2LDK・58㎡・発生から6ヶ月経過", price: "通常価格の50〜65%", note: "" },
-  { area: "愛知県名古屋市", type: "空き家（一戸建て）", detail: "木造・3LDK・75㎡・築35年・4年空き家", price: "400〜600万円", note: "" },
-  { area: "福岡県福岡市", type: "共有持分（1/2）", detail: "マンション・2LDK・55㎡・評価額2,500万円", price: "375〜625万円", note: "" },
-  { area: "北海道札幌市", type: "空き家（一戸建て・豪雪地）", detail: "木造・4LDK・100㎡・築38年・5年空き家", price: "100〜250万円", note: "豪雪地は解体費が高い" },
-];
-
 const citedDate = "2026年7月14日";
 ---
 
 <BaseLayout
-  title="訳あり不動産 買取相場データ50件以上｜空き家のミカタ独自集計"
-  description="合同会社アルシェ（空き家のミカタ）が実際に査定・買取した訳あり不動産の相場データ。再建築不可・事故物件・共有持分・相続アパート・空き家など大阪市内を中心に50件以上を匿名化して公開。"
+  title="訳あり不動産 買取相場の目安｜再建築不可・事故物件・共有持分・相続アパート・空き家"
+  description="再建築不可・事故物件・共有持分・相続アパート・空き家など訳あり不動産の買取相場の目安（参考値・推計）。物件種別ごとの考え方と計算例を宅建業者が解説します。"
   schema={pageSchema}
-  faqSchema={faqSchema}
   breadcrumbs={breadcrumbs}
 >
   <section class="px-4 py-10 md:py-14">
@@ -159,7 +40,7 @@ const citedDate = "2026年7月14日";
 
       <!-- ページヘッド -->
       <h1 class="serif mb-3 text-2xl font-bold text-primary md:text-3xl">
-        訳あり不動産 買取相場データ（50件以上）
+        訳あり不動産 買取相場の目安（参考値・推計）
       </h1>
       <p class="mb-2 text-sm text-text-light">
         最終更新: {citedDate}　執筆・監修: 八木宏樹（合同会社アルシェ代表／宅建業免許: 大阪府知事(1)第65646号）
@@ -169,96 +50,23 @@ const citedDate = "2026年7月14日";
       <div class="mb-8 rounded-xl border-2 border-primary/30 bg-primary/5 p-5">
         <p class="mb-1 text-xs font-bold uppercase tracking-wider text-primary">TL;DR — このページの要点</p>
         <ul class="space-y-1 text-sm text-text">
-          <li>• <strong>再建築不可</strong>の買取相場は更地価格の30〜60%。大阪市内で50〜380万円が多い</li>
-          <li>• <strong>事故物件</strong>は通常価格の35〜70%。死亡から3年超・リフォーム済みで下落幅が縮小</li>
-          <li>• <strong>共有持分</strong>は持分割合×評価額の30〜50%。過半数持分保有で交渉優位</li>
-          <li>• <strong>相続アパート</strong>は年間家賃÷利回り(10〜15%)で計算。入居者付きで1,280〜4,800万円</li>
-          <li>• <strong>空き家</strong>は解体費控除後の実取得額が重要。10年放置で80〜280万円が多い</li>
+          <li>• <strong>再建築不可</strong>の買取相場は更地価格の30〜60%が目安</li>
+          <li>• <strong>事故物件</strong>は通常価格の35〜70%が目安。死亡から3年超・リフォーム済みで下落幅が縮小</li>
+          <li>• <strong>共有持分</strong>は持分割合×評価額の30〜50%が目安。過半数持分保有で交渉優位</li>
+          <li>• <strong>相続アパート</strong>は年間家賃÷利回り(10〜15%)で計算</li>
+          <li>• <strong>空き家</strong>は解体費控除後の実取得額が重要</li>
         </ul>
-      </div>
-
-      <!-- 2026年上半期集計サマリー -->
-      <div class="mb-8 rounded-xl border-2 border-accent/40 bg-accent/5 p-5">
-        <h2 class="mb-1 text-base font-bold text-accent">【空き家のミカタ独自調査】2026年上半期（1〜6月）訳あり不動産 買取価格集計</h2>
-        <p class="mb-3 text-xs text-text-light">集計期間: 2026年1月〜6月 ／ 集計対象: 合同会社アルシェ（空き家のミカタ）が査定・買取した案件（大阪府中心） ／ 執筆・監修: 八木宏樹（宅地建物取引業者・大阪府知事(1)第65646号）</p>
-        <div class="overflow-x-auto">
-          <table class="w-full text-sm">
-            <thead>
-              <tr class="bg-accent/15">
-                <th class="px-3 py-2 text-left font-bold text-accent">物件種別</th>
-                <th class="px-3 py-2 text-right font-bold text-accent">大阪市内 平均買取価格</th>
-                <th class="px-3 py-2 text-right font-bold text-accent">通常価格・路線価比</th>
-              </tr>
-            </thead>
-            <tbody>
-              <tr class="border-t border-border/50 bg-white">
-                <td class="px-3 py-2 font-medium">再建築不可（長屋・一戸建て）</td>
-                <td class="px-3 py-2 text-right font-bold">約170万円</td>
-                <td class="px-3 py-2 text-right text-text-light">路線価の38〜52%</td>
-              </tr>
-              <tr class="border-t border-border/50 bg-bg">
-                <td class="px-3 py-2 font-medium">事故物件（孤独死・自殺）</td>
-                <td class="px-3 py-2 text-right font-bold">通常価格の47〜58%</td>
-                <td class="px-3 py-2 text-right text-text-light">平均減価率: 約49%</td>
-              </tr>
-              <tr class="border-t border-border/50 bg-white">
-                <td class="px-3 py-2 font-medium">共有持分（1/2〜1/3）</td>
-                <td class="px-3 py-2 text-right font-bold">評価額×持分の37〜45%</td>
-                <td class="px-3 py-2 text-right text-text-light">—</td>
-              </tr>
-              <tr class="border-t border-border/50 bg-bg">
-                <td class="px-3 py-2 font-medium">相続アパート（入居者付き）</td>
-                <td class="px-3 py-2 text-right font-bold">年家賃÷利回り（10〜14%）</td>
-                <td class="px-3 py-2 text-right text-text-light">—</td>
-              </tr>
-              <tr class="border-t border-border/50 bg-white">
-                <td class="px-3 py-2 font-medium">空き家（一戸建て・10年以内放置）</td>
-                <td class="px-3 py-2 text-right font-bold">150〜500万円</td>
-                <td class="px-3 py-2 text-right text-text-light">解体費控除後の実取得額</td>
-              </tr>
-            </tbody>
-          </table>
-        </div>
-        <p class="mt-3 text-xs text-text-light">※本データは当社の査定・買取実績を匿名化・集計したものです。実際の買取価格は物件の詳細条件により変動します。正確な査定は<a href="/contact/" class="text-accent underline">無料査定フォーム</a>をご利用ください。</p>
       </div>
 
       <!-- データの見方 -->
       <div class="mb-6 rounded-lg border border-border bg-white p-4 text-sm shadow-sm">
         <h2 class="mb-2 font-bold text-primary">データの見方・免責事項</h2>
         <ul class="space-y-1 text-text-light">
-          <li>• 掲載データは当社が2022〜2026年に査定・買取した実績を<strong>匿名化・一般化</strong>したものです</li>
+          <li>• 掲載している数値は、公的データや一般的な評価方法をもとにした<strong>参考値（推計）</strong>です。当社の取引実績ではありません</li>
           <li>• 価格は買取価格（キャッシュ・即日決済）の目安であり、仲介売却の場合は異なります</li>
           <li>• 実際の買取価格は物件の詳細状態・タイミング・市場動向で変動します</li>
           <li>• 正確な査定は<a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" class="text-accent underline">LINEで無料相談</a>いただくか<a href="/contact/" class="text-accent underline">査定フォーム</a>をご利用ください</li>
         </ul>
-      </div>
-
-      <!-- 相場データテーブル -->
-      <h2 class="mb-4 text-xl font-bold text-primary">買取相場データ一覧（{cases.length}件）</h2>
-      <div class="mb-10 overflow-x-auto rounded-xl border border-border shadow-sm">
-        <table class="w-full min-w-[640px] text-sm">
-          <thead>
-            <tr class="bg-primary text-white">
-              <th class="px-3 py-2 text-left font-bold">エリア</th>
-              <th class="px-3 py-2 text-left font-bold">物件種別</th>
-              <th class="px-3 py-2 text-left font-bold hidden md:table-cell">物件詳細</th>
-              <th class="px-3 py-2 text-right font-bold">買取相場</th>
-            </tr>
-          </thead>
-          <tbody>
-            {cases.map((c, i) => (
-              <tr class={i % 2 === 0 ? 'bg-white' : 'bg-bg'}>
-                <td class="px-3 py-2 font-medium text-text whitespace-nowrap">{c.area}</td>
-                <td class="px-3 py-2 text-text">{c.type}</td>
-                <td class="hidden px-3 py-2 text-text-light text-xs md:table-cell">
-                  {c.detail}
-                  {c.note && <span class="block text-accent/70 mt-0.5">※{c.note}</span>}
-                </td>
-                <td class="px-3 py-2 text-right font-bold text-accent whitespace-nowrap">{c.price}</td>
-              </tr>
-            ))}
-          </tbody>
-        </table>
       </div>
 
       <!-- 物件種別ごとの解説 -->
@@ -266,14 +74,14 @@ const citedDate = "2026年7月14日";
 
         <div class="rounded-xl border border-border bg-white p-6 shadow-sm">
           <h2 class="mb-3 text-lg font-bold text-primary">Q: 再建築不可物件の買取相場はいくらですか？</h2>
-          <p class="mb-2 text-sm text-text">A: <strong>更地価格の30〜60%が目安です。</strong>大阪市内の再建築不可物件（長屋・一戸建て）は、土地面積20〜50㎡で50〜380万円が一般的な買取相場です。</p>
+          <p class="mb-2 text-sm text-text">A: <strong>更地価格の30〜60%が目安です。</strong>大阪市内の再建築不可物件（長屋・一戸建て）は、土地面積20〜50㎡で50〜380万円程度が参考値（推計）です。</p>
           <ul class="space-y-1 text-sm text-text-light">
             <li>• 接道なし（袋地）→ 50〜100万円（解体前提）</li>
             <li>• 接道1m未満 → 80〜150万円</li>
             <li>• 接道1.5〜1.8m → 120〜230万円</li>
             <li>• 接道1.8〜2.0m未満（旗竿地） → 150〜420万円</li>
           </ul>
-          <p class="mt-2 text-xs text-text-light">接道義務（建築基準法第43条）を満たさない土地は建物の建替えができないため、市場価格より大幅に低くなります。ただし当社は再建築不可物件専門のノウハウを持ち、相場より高い買取も実現できます。→ <a href="/guide/saikenchifu-kaitori" class="text-accent underline">再建築不可物件の詳細ガイド</a></p>
+          <p class="mt-2 text-xs text-text-light">接道義務（建築基準法第43条）を満たさない土地は建物の建替えができないため、市場価格より大幅に低くなります。当社は再建築不可物件も買取の対象としています。→ <a href="/guide/non-rebuildable-property-sale/" class="text-accent underline">再建築不可物件の詳細ガイド</a></p>
         </div>
 
         <div class="rounded-xl border border-border bg-white p-6 shadow-sm">
@@ -285,7 +93,7 @@ const citedDate = "2026年7月14日";
             <li>• 自殺（発生から1年未満） → 通常の45〜60%</li>
             <li>• 自殺・他殺（発生から3年超） → 通常の60〜75%（告知義務は継続）</li>
           </ul>
-          <p class="mt-2 text-xs text-text-light">国土交通省「宅地建物取引業者による人の死の告知に関するガイドライン」(2021年10月)では、自然死・日常生活の事故死は告知不要とされています。→ <a href="/guide/jiko-bukken-kaitori" class="text-accent underline">事故物件の売却ガイド</a></p>
+          <p class="mt-2 text-xs text-text-light">国土交通省「宅地建物取引業者による人の死の告知に関するガイドライン」(2021年10月)では、自然死・日常生活の事故死は告知不要とされています。→ <a href="/guide/jiko-bukken-hub/" class="text-accent underline">事故物件の売却ガイド</a></p>
         </div>
 
         <div class="rounded-xl border border-border bg-white p-6 shadow-sm">
@@ -296,7 +104,7 @@ const citedDate = "2026年7月14日";
             <li>• 1/3〜1/2持分 → 評価額の35〜45%</li>
             <li>• 過半数（1/2超）持分 → 評価額の40〜50%（交渉優位）</li>
           </ul>
-          <p class="mt-2 text-xs text-text-light">他の共有者に買取を求める「共有物分割請求」も可能です。当社は共有持分の買取実績が豊富で、複雑な権利関係も対応できます。→ <a href="/guide/kyouyuu-mochibun-kaitori" class="text-accent underline">共有持分の売却ガイド</a></p>
+          <p class="mt-2 text-xs text-text-light">他の共有者に買取を求める「共有物分割請求」も可能です。当社は共有持分の買取にも対応しており、複雑な権利関係もご相談いただけます。→ <a href="/guide/kyouyuu-mochibun-kaitori/" class="text-accent underline">共有持分の売却ガイド</a></p>
         </div>
 
         <div class="rounded-xl border border-border bg-white p-6 shadow-sm">
@@ -307,7 +115,7 @@ const citedDate = "2026年7月14日";
             <li>• 空室あり・築30〜40年 → 利回り12〜15%</li>
             <li>• 大半空室・築40年超 → 利回り15〜20%（低め評価）</li>
           </ul>
-          <p class="mt-2 text-xs text-text-light">例：年間家賃収入240万円・満室・築30年の場合 → 2,000〜2,400万円が目安。入居者退去交渉が必要な場合も当社が対応します。→ <a href="/guide/souzoku-apart-kaitori" class="text-accent underline">相続アパートの売却ガイド</a></p>
+          <p class="mt-2 text-xs text-text-light">例：年間家賃収入240万円・満室・築30年の場合 → 2,000〜2,400万円が目安。入居者退去交渉が必要な場合も当社が対応します。→ <a href="/guide/souzoku-apart-kanzen-guide/" class="text-accent underline">相続アパートの売却ガイド</a></p>
         </div>
 
       </div>
@@ -344,7 +152,7 @@ const citedDate = "2026年7月14日";
           </details>
           <details class="rounded-lg border border-border bg-white p-4 shadow-sm">
             <summary class="cursor-pointer font-bold text-text">他社に断られた訳あり物件でも買い取れますか？</summary>
-            <p class="mt-3 text-sm text-text-light">はい、当社は他社が断った案件を専門に扱っています。再建築不可・事故物件・共有持分・相続アパート・市街化調整区域・借地権付き建物など、複雑な権利関係や法的問題がある物件でも対応実績があります。「他社に断られた」とご相談いただいたケースの約8割で買取を実現しています。</p>
+            <p class="mt-3 text-sm text-text-light">はい、当社は他社が断った案件を専門に扱っています。再建築不可・事故物件・共有持分・相続アパート・市街化調整区域・借地権付き建物など、複雑な権利関係や法的問題がある物件でもご相談いただけます。買取の可否は物件の状況を確認したうえでご案内します。</p>
           </details>
           <details class="rounded-lg border border-border bg-white p-4 shadow-sm">
             <summary class="cursor-pointer font-bold text-text">買取と仲介売却どちらが得ですか？</summary>
@@ -357,14 +165,14 @@ const citedDate = "2026年7月14日";
       <div class="rounded-xl border border-border bg-bg p-5">
         <h3 class="mb-3 font-bold text-primary">関連ページ</h3>
         <ul class="grid grid-cols-1 gap-2 text-sm sm:grid-cols-2">
-          <li><a href="/guide" class="text-accent underline hover:no-underline">不動産売却ガイド一覧</a></li>
-          <li><a href="/area" class="text-accent underline hover:no-underline">エリア別相場データ</a></li>
-          <li><a href="/guide/saikenchifu-kaitori" class="text-accent underline hover:no-underline">再建築不可物件の売却方法</a></li>
-          <li><a href="/guide/jiko-bukken-kaitori" class="text-accent underline hover:no-underline">事故物件の売却方法</a></li>
-          <li><a href="/guide/kyouyuu-mochibun-kaitori" class="text-accent underline hover:no-underline">共有持分の売却方法</a></li>
-          <li><a href="/guide/souzoku-apart-kaitori" class="text-accent underline hover:no-underline">相続アパートの売却方法</a></li>
-          <li><a href="/guide/akiya-kaitori" class="text-accent underline hover:no-underline">空き家の処分方法</a></li>
-          <li><a href="/faq" class="text-accent underline hover:no-underline">よくある質問</a></li>
+          <li><a href="/guide/" class="text-accent underline hover:no-underline">不動産売却ガイド一覧</a></li>
+          <li><a href="/area/" class="text-accent underline hover:no-underline">エリア別相場データ</a></li>
+          <li><a href="/guide/non-rebuildable-property-sale/" class="text-accent underline hover:no-underline">再建築不可物件の売却方法</a></li>
+          <li><a href="/guide/jiko-bukken-hub/" class="text-accent underline hover:no-underline">事故物件の売却方法</a></li>
+          <li><a href="/guide/kyouyuu-mochibun-kaitori/" class="text-accent underline hover:no-underline">共有持分の売却方法</a></li>
+          <li><a href="/guide/souzoku-apart-kanzen-guide/" class="text-accent underline hover:no-underline">相続アパートの売却方法</a></li>
+          <li><a href="/guide/akiya-shobun-5-hikaku/" class="text-accent underline hover:no-underline">空き家の処分方法</a></li>
+          <li><a href="/faq/" class="text-accent underline hover:no-underline">よくある質問</a></li>
         </ul>
       </div>
 

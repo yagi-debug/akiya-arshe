@@ -2,6 +2,7 @@
 title: "相続アパートを手放す5つの方法｜売却・買取・管理委託・相続放棄・法人化を中立比較【2026年版】"
 description: "相続アパートを手放したい・管理できない方へ。仲介売却・直接買取・管理委託・相続放棄・法人化の5つの方法をメリット・デメリット・費用・期間の表で中立比較。どれが最適か判断フロー付きで解説（宅建業者）。"
 publishDate: "2026-04-29"
+noindex: true
 updatedDate: "2026-09-07"
 author: "八木宏樹（合同会社アルシェ代表）"
 authorTitle: "宅地建物取引業者（大阪府知事(1)第65646号）"
@@ -35,7 +36,7 @@ cluster: "inheritance"
 この記事では、相続アパートを手放すための5つの方法について、メリット・デメリット・費用・期間を表形式で中立的に比較し、状況に合った選択肢を見つけるためのポイントをお伝えします。
 
 <div style="background:#f8f9fa;border:1px solid #dee2e6;border-radius:8px;padding:1rem 1.2rem;margin:1.2rem 0;font-size:0.95rem;">
-この記事は<strong>5つの手放し方の比較</strong>に特化しています。処分方法全体の流れは<a href="/guide/souzoku-apart-kanzen-guide">相続アパート処分の完全ガイド</a>、相続放棄と限定承認の違いを詳しく知りたい方は<a href="/guide/souzoku-shitakunai-apart-hikaku">相続したくないアパートだけ放棄できる？</a>をご覧ください。
+この記事は<strong>5つの手放し方の比較</strong>に特化しています。処分方法全体の流れは<a href="/guide/souzoku-apart-kanzen-guide/">相続アパート処分の完全ガイド</a>、相続放棄と限定承認の違いを詳しく知りたい方は<a href="/guide/souzoku-shitakunai-apart-hikaku/">相続したくないアパートだけ放棄できる？</a>をご覧ください。
 </div>
 
 > **相続アパートを手放す5つの方法 — まとめ**
@@ -178,7 +179,7 @@ cluster: "inheritance"
 
 > **重要な注意点**: 相続放棄後も、相続財産清算人の選任や引き継ぎが完了するまで建物の保全義務が残ることがあります（改正民法940条）。手続き前に必ず弁護士・司法書士にご相談ください。
 
-なお、<strong>アパートだけを選んで放棄することはできません</strong>。放棄すると預金や実家も受け取れなくなります。限定承認との違いと、アパートだけを手放す現実的な方法は<a href="/guide/souzoku-shitakunai-apart-hikaku">相続したくないアパートだけ放棄できる？限定承認との違いと4つの選択肢</a>にまとめています。
+なお、<strong>アパートだけを選んで放棄することはできません</strong>。放棄すると預金や実家も受け取れなくなります。限定承認との違いと、アパートだけを手放す現実的な方法は<a href="/guide/souzoku-shitakunai-apart-hikaku/">相続したくないアパートだけ放棄できる？限定承認との違いと4つの選択肢</a>にまとめています。
 
 ## 方法5: 法人化
 
@@ -266,12 +267,12 @@ cluster: "inheritance"
 
 ## 関連するガイド記事
 
-- <a href="/guide/souzoku-apart-kaitori">相続アパートの買取詳細ガイド</a>
-- <a href="/guide/souzoku-apart-10months-timeline">相続発生から10ヶ月でやること完全タイムライン</a>
-- <a href="/guide/souzoku-apart-baikyaku-vs-chintai-vs-kanri">「売る・貸す・管理委託する」三択を徹底比較</a>
-- <a href="/guide/inheritance-sale-timeline">相続から売却完了までのタイムライン</a>
-- <a href="/guide/souzoku-houki-kigengire">相続放棄の期限（3ヶ月）を過ぎた場合の対処法</a>
-- <a href="/guide/souzoku-hub">相続不動産 完全ハブ｜処分・売却・登記・固定資産税まで全ガイドをまとめて確認【2026年版】</a>
+- <a href="/guide/souzoku-apart-kanzen-guide/">相続アパートの買取詳細ガイド</a>
+- <a href="/guide/souzoku-apart-10months-timeline/">相続発生から10ヶ月でやること完全タイムライン</a>
+- <a href="/guide/souzoku-apart-baikyaku-vs-chintai-vs-kanri/">「売る・貸す・管理委託する」三択を徹底比較</a>
+- <a href="/guide/inheritance-sale-timeline/">相続から売却完了までのタイムライン</a>
+- <a href="/guide/souzoku-houki-kigengire/">相続放棄の期限（3ヶ月）を過ぎた場合の対処法</a>
+- <a href="/guide/parent-death-house/">相続した家の売り方と手続き</a>
 
 ## 無料でご相談いただけます
 
@@ -279,7 +280,7 @@ cluster: "inheritance"
 
 <strong><a href="https://line.arshe1719.workers.dev/auth/line?ref=hp">LINEで無料相談する</a></strong>
 
-<a href="/contact">お問い合わせフォームはこちら</a>
+<a href="/contact/">お問い合わせフォームはこちら</a>
 
 メール：<a href="mailto:info.arshe@arshe-corp.com">info.arshe@arshe-corp.com</a>
 

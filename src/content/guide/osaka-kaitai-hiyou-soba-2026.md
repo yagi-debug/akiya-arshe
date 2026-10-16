@@ -77,7 +77,7 @@ howToSteps:
 <strong>Q: 大阪市の解体費用の相場はいくらですか？</strong><br />
 A: 木造30坪なら、重機が入る標準的な条件で<strong>約120〜180万円</strong>です。前面道路が4メートル未満で重機を小型化する必要がある場合は約180〜240万円、重機がまったく入らず手壊しになる場合は約240〜360万円まで上がります。大阪市は狭あい道路に面した密集市街地が広く、後者の条件に当たる物件が少なくありません。
 
-「大阪市の解体費用の相場を調べたら、坪4万円と書いてあった。でも実際に見積りを取ったら250万円だった」——こうしたご相談をよくいただきます。
+「大阪市の解体費用の相場を調べたら、坪4万円と書いてあった。でも実際に見積りを取ったら250万円だった」——こうした行き違いはよくあります。
 
 原因のほとんどは<strong>坪単価の表がどの条件を前提にしているかを書いていないこと</strong>にあります。一般的な相場表は、前面道路が広く重機が入る、標準的な立地を前提にしています。大阪市の密集市街地にある築古の木造住宅は、その前提から外れていることが多いのです。
 
@@ -228,7 +228,7 @@ A: 木造30坪なら、重機が入る標準的な条件で<strong>約120〜180�
 
 「壊さずに放置しておけば税金は安いまま」とは、もう言い切れません。
 
-詳しくは<a href="/guide/akiya-koteishisanzei-6bai-hikaku">空き家固定資産税6倍化の回避策と売却タイミング徹底比較</a>でも整理しています。
+詳しくは<a href="/guide/akiya-koteishisanzei-6bai-hikaku/">空き家固定資産税6倍化の回避策と売却タイミング徹底比較</a>でも整理しています。
 
 ---
 
@@ -275,7 +275,7 @@ A: 木造30坪なら、重機が入る標準的な条件で<strong>約120〜180�
 
 つまり、<strong>重機が入らない路地奥の物件を対策地区で解体すると、補助金を満額使っても自己負担は220万円前後（185万円＋36万円）</strong>になり得るということです。「補助金があるから大丈夫」と考えていた方には、ここが最も大きなギャップになります。
 
-補助金の申請窓口や手続きの流れは<a href="/guide/osaka-ku-akiya-hojo-madoguchi-2026">大阪市の空き家解体補助金｜24区の窓口一覧</a>に、区ごとの傾向は<a href="/guide/osaka-kaitai-hiyou-kubetsu">大阪市の空き家解体費用を区別に比較</a>にまとめています。
+補助金の申請窓口や手続きの流れは<a href="/guide/osaka-ku-akiya-hojo-madoguchi-2026/">大阪市の空き家解体補助金｜24区の窓口一覧</a>に、区ごとの傾向は<a href="/guide/osaka-kaitai-hiyou-kubetsu/">大阪市の空き家解体費用を区別に比較</a>にまとめています。
 
 ---
 
@@ -301,7 +301,7 @@ A: 木造30坪なら、重機が入る標準的な条件で<strong>約120〜180�
 
 > <strong>宅建業者の視点</strong>：狭あい道路沿いの物件では、解体して更地にしても、その土地に建物を新築できるとは限りません。前面道路の幅員が4メートル未満だとセットバックが必要になり、有効に使える敷地が減ります。<strong>解体費をかけたのに更地価格が思ったほど伸びない</strong>のは、この構造が理由です。解体を決める前に、更地にした場合の想定価格を先に確認してください。
 
-解体費用の捻出そのものが難しい場合は<a href="/guide/akiya-kaitai-hiyou-haraenai">相続した実家の解体費用が払えないときの3つの方法</a>、建物の傷みが激しい場合は<a href="/guide/furui-akiya-kekkan-kaitori">雨漏り・傾き・老朽化した家でも売れる？現況買取の仕組み</a>もあわせてご確認ください。
+解体費用の捻出そのものが難しい場合は<a href="/guide/akiya-kaitai-hiyou-haraenai/">相続した実家の解体費用が払えないときの3つの方法</a>、建物の傷みが激しい場合は<a href="/guide/furui-akiya-kekkan-kaitori/">雨漏り・傾き・老朽化した家でも売れる？現況買取の仕組み</a>もあわせてご確認ください。
 
 ---
 
@@ -325,7 +325,7 @@ A: 木造30坪なら、重機が入る標準的な条件で<strong>約120〜180�
 
 <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06c755;color:#fff;padding:14px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 4px;">LINE「空き家のミカタ」に相談する（無料）</a>
 
-<a href="/contact" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 4px;">無料査定フォームで相談する</a>
+<a href="/contact/" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 4px;">無料査定フォームで相談する</a>
 
 訳あり物件・空き家・相続物件を専門に扱っており、<strong>現況のまま・片付け不要・解体不要</strong>で買取査定ができます。大阪府知事(1)第65646号の宅地建物取引業免許のもと対応しています。査定だけのご依頼でも問題ありません。
 
@@ -333,12 +333,12 @@ A: 木造30坪なら、重機が入る標準的な条件で<strong>約120〜180�
 
 ## 関連するガイド記事
 
-- <a href="/guide/osaka-kaitai-hiyou-kubetsu">大阪市の空き家解体費用を区別に比較｜補助金制度と相場を宅建業者が解説</a>
-- <a href="/guide/osaka-ku-akiya-hojo-madoguchi-2026">大阪市の空き家解体補助金（最大200万円）｜対象外でも売却手取り額を試算</a>
-- <a href="/guide/akiya-kaitai-hiyou-haraenai">相続した実家の解体費用が払えない｜補助金・現況買取で費用ゼロで手放す3つの方法</a>
-- <a href="/guide/akiya-koteishisanzei-6bai-hikaku">空き家固定資産税6倍化の回避策と売却タイミング徹底比較</a>
-- <a href="/guide/asbestos-souzoku-baikyaku">アスベスト含有建物を相続したら？売却方法・解体費用・告知義務を解説</a>
-- <a href="/guide/akiya-shobun-5-hikaku">空き家処分の5大選択肢を徹底比較【2026年版】費用・期間・手残り額</a>
+- <a href="/guide/osaka-kaitai-hiyou-kubetsu/">大阪市の空き家解体費用を区別に比較｜補助金制度と相場を宅建業者が解説</a>
+- <a href="/guide/osaka-ku-akiya-hojo-madoguchi-2026/">大阪市の空き家解体補助金（最大200万円）｜対象外でも売却手取り額を試算</a>
+- <a href="/guide/akiya-kaitai-hiyou-haraenai/">相続した実家の解体費用が払えない｜補助金・現況買取で費用ゼロで手放す3つの方法</a>
+- <a href="/guide/akiya-koteishisanzei-6bai-hikaku/">空き家固定資産税6倍化の回避策と売却タイミング徹底比較</a>
+- <a href="/guide/asbestos-souzoku-baikyaku/">アスベスト含有建物を相続したら？売却方法・解体費用・告知義務を解説</a>
+- <a href="/guide/akiya-shobun-5-hikaku/">空き家処分の5大選択肢を徹底比較【2026年版】費用・期間・手残り額</a>
 
 ## よくある質問
 

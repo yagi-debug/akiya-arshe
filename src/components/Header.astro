@@ -9,16 +9,16 @@ const isBusiness = variant === "business";
 const LINE_URL = `https://line.arshe1719.workers.dev/auth/line?ref=${lineRef}`;
 const navItems = [
   isBusiness
-    ? { label: "フォームで相談", href: "/contact" }
-    : { label: "無料査定の相談準備", href: "/satei" },
-  { label: "売却ガイド", href: "/guide" },
-  { label: "対応エリア", href: "/area" },
-  { label: "よくある質問", href: "/faq" },
-  { label: "会社概要", href: "/about" },
+    ? { label: "フォームで相談", href: "/contact/" }
+    : { label: "無料査定の相談準備", href: "/satei/" },
+  { label: "売却ガイド", href: "/guide/" },
+  { label: "対応エリア", href: "/area/" },
+  { label: "よくある質問", href: "/faq/" },
+  { label: "会社概要", href: "/about/" },
 ];
 const subCta = isBusiness
-  ? { href: "/contact", label: "フォームで相談", labelShort: "フォームで相談" }
-  : { href: "/satei", label: "査定の相談準備", labelShort: "無料査定の相談準備" };
+  ? { href: "/contact/", label: "フォームで相談", labelShort: "フォームで相談" }
+  : { href: "/satei/", label: "査定の相談準備", labelShort: "無料査定の相談準備" };
 ---
 
 <header class="sticky top-0 z-50 border-b border-border/70 bg-white/90 shadow-sm backdrop-blur-md">
@@ -99,7 +99,7 @@ const subCta = isBusiness
     aria-label="モバイルナビゲーション"
   >
     <ul class="flex flex-col">
-      {[{ label: "ホーム", href: "/" }, ...navItems, { label: "お問い合わせ", href: "/contact" }].map((item) => (
+      {[{ label: "ホーム", href: "/" }, ...navItems, { label: "お問い合わせ", href: "/contact/" }].map((item) => (
         <li>
           <a
             href={item.href}

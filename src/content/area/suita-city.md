@@ -48,7 +48,7 @@ author: "宅建業者"
 
 人気住宅地でありながら空き家率が突出して高い背景には、千里ニュータウンの大規模団地・公的賃貸住宅の老朽化と建て替え待ち物件の存在があります。また、相続を機に管理できなくなった区分所有マンション・一戸建ての放置も増加しています。
 
-- <strong>特定空き家に認定されると固定資産税が最大6倍</strong>になるリスクがある（[詳細はこちら](/guide/vacancy-tax-6times)）
+- <strong>特定空き家に認定されると固定資産税が最大6倍</strong>になるリスクがある（[詳細はこちら](/guide/akiya-koteishisanzei-6bai-hikaku/)）
 - 吹田市は空き家対策条例を策定し、老朽空き家への勧告・命令を強化中
 - 特に南吹田・吹田旧市街地では木造密集地域の解消に向けた行政指導が進んでいる
 
@@ -97,7 +97,7 @@ JR吹田駅・阪急吹田駅周辺の旧市街地では、<strong>昭和30〜40
 
 <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06C755;color:#fff;font-weight:bold;padding:0.75rem 2rem;border-radius:0.5rem;text-decoration:none;margin:0.5rem 0;">LINEで無料相談する（24時間受付）</a>
 
-<a href="/contact" style="display:inline-block;background:#2563eb;color:#fff;font-weight:bold;padding:0.75rem 2rem;border-radius:0.5rem;text-decoration:none;margin:0.5rem 0;">お問い合わせフォームはこちら</a>
+<a href="/contact/" style="display:inline-block;background:#2563eb;color:#fff;font-weight:bold;padding:0.75rem 2rem;border-radius:0.5rem;text-decoration:none;margin:0.5rem 0;">お問い合わせフォームはこちら</a>
 
 空き家のミカタ（宅建業者・大阪府知事(1)第65646号）
 
@@ -105,13 +105,13 @@ JR吹田駅・阪急吹田駅周辺の旧市街地では、<strong>昭和30〜40
 
 ## 関連するエリアページ
 
-- <a href="/area/osaka-city">大阪市の訳あり物件買取完全ガイド</a>
-- <a href="/area/osaka-pref">大阪府の空き家補助金・空き家バンク</a>
-- <a href="/area/toyonaka-city">豊中市の不動産買取相場</a>
-- <a href="/area/higashiosaka-city">東大阪市の不動産買取相場</a>
+- <a href="/guide/osaka-city-yakuari-kaitori/">大阪市の訳あり物件買取完全ガイド</a>
+- <a href="/area/osaka-pref/">大阪府の空き家補助金・空き家バンク</a>
+- <a href="/area/toyonaka-city/">豊中市の不動産買取相場</a>
+- <a href="/area/higashiosaka-city/">東大阪市の不動産買取相場</a>
 
 ## 関連ガイド
 
-- <a href="/guide/souzoku-apart-kaitori">相続アパートの買取｜管理できない入居者付きアパートも直接買取</a>
-- <a href="/guide/non-rebuildable-property-sale">再建築不可物件の売却方法と注意点</a>
-- <a href="/guide/akiya-kaitori">空き家の買取｜放置している空き家を現金化する方法</a>
+- <a href="/guide/souzoku-apart-kanzen-guide/">相続アパートの買取｜管理できない入居者付きアパートも直接買取</a>
+- <a href="/guide/non-rebuildable-property-sale/">再建築不可物件の売却方法と注意点</a>
+- <a href="/guide/akiya-shobun-5-hikaku/">空き家の処分方法の比較</a>

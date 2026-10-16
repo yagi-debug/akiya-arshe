@@ -2,6 +2,7 @@
 title: "訳あり不動産買取業者を実名比較【2026年版】｜アルバリンク・ワケアリプロ・イエコン vs 空き家のミカタ"
 description: "「訳あり不動産買取業者 比較」で検索している方へ。アルバリンク・訳あり物件買取プロ・イエコン・空き家のミカタの4社を宅建業者が実名で比較。各社の宅建業免許番号・対応物件・買取スピード・担当体制の違いを一覧表で解説します。"
 publishDate: "2026-05-19"
+noindex: true
 author: "空き家のミカタ編集部"
 authorTitle: "宅地建物取引業者（大阪府知事(1)第65646号）"
 heroImage: "/images/wakeare-kaitori-gyosha-jitsumei-5sha-hikaku-hero.jpg"
@@ -119,6 +120,8 @@ updatedDate: "2026-09-07"
 
 <strong>「訳あり不動産買取業者 比較」で検索すると、いくつかの名前が出てきます。でも、中には「同じ会社なのに名前が違う」ケースや「仲介と直接買取の違いが分からない」という声をよくいただきます。</strong>
 
+このテーマの全体像は[訳あり不動産の買取業者を選ぶ5つのチェックポイント](/guide/kaitori-gyosha-erabikata-checkpoints/)にまとめています。
+
 この記事では、宅地建物取引業者として実際に業界を見ている立場から、主要な買取業者・サービスを実名で比較します。各社の宅建業免許番号・対応物件タイプ・担当体制・買取スピードの違いを整理しましたので、業者選びの参考にしてください。
 
 ---
@@ -161,7 +164,7 @@ updatedDate: "2026-09-07"
 ### アルバリンクの主な特徴
 
 - 上場企業のため財務の透明性が高く、会社の安定性を重視する方に向いています
-- 年間相談件数が多く、様々な物件タイプへの対応実績があります
+- 様々な物件タイプのご相談に対応しています
 - 査定回答が比較的早く、最短当日に提示されるケースもあります
 - 東京・大阪など主要都市に拠点があり、全国の物件に対応
 
@@ -256,11 +259,9 @@ updatedDate: "2026-09-07"
 
 ## 関連するガイド記事
 
-- <a href="/guide/kaitori-jirei-10sen">訳あり不動産の買取実績10選｜相続・再建築不可・事故物件・共有持分・空き家の解決事例集</a>
-- <a href="/guide/osaka-kaitori-jirei">大阪市内の訳あり不動産買取事例集｜再建築不可・事故物件・共有持分・空き家・相続アパートの5事例</a>
-- <a href="/guide/kaitori-jirei">訳あり不動産の買取事例5選｜相続アパート・再建築不可・事故物件の解決ストーリー</a>
-- <a href="/guide/jiko-bukken-hub">事故物件 完全ハブ｜買取・告知義務・心理的瑕疵・価格相場まで全ガイドまとめ【2026年版】</a>
-- <a href="/guide/kyouyuu-mochibun-hub">共有持分 完全ハブ｜売却・買取・トラブル解決・相場まで全ガイドまとめ【2026年版】</a>
+- <a href="/guide/osaka-city-yakuari-kaitori/">大阪市の訳あり物件の買取</a>
+- <a href="/guide/kyouyuu-mochibun-kaitori/">共有持分の買取・売却方法</a>
+- <a href="/guide/jiko-bukken-hub/">事故物件 完全ハブ｜買取・告知義務・心理的瑕疵・価格相場まで全ガイドまとめ【2026年版】</a>
 
 ## まとめ：訳あり不動産業者選びで失敗しないために
 
@@ -276,5 +277,5 @@ updatedDate: "2026-09-07"
 <p style="margin:0 0 0.5rem;font-size:1.1rem;"><strong>無料査定・ご相談はこちら</strong></p>
 <p style="margin:0 0 1rem;font-size:0.9rem;">相続アパート・再建築不可・事故物件・共有持分・空き家の買取相談を受け付けています</p>
 <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06c755;color:#fff;padding:0.8rem 2rem;border-radius:4px;text-decoration:none;font-weight:bold;margin-bottom:0.5rem;">LINEで無料相談する（24時間対応）</a>
-<p style="margin:0.5rem 0 0;font-size:0.9rem;"><a href="/contact">メール・お問い合わせフォームはこちら</a></p>
+<p style="margin:0.5rem 0 0;font-size:0.9rem;"><a href="/contact/">メール・お問い合わせフォームはこちら</a></p>
 </div>

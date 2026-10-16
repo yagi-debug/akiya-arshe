@@ -2,6 +2,7 @@
 title: "【2026年版】相続から不動産売却完了まで｜期限つきタイムラインで全手順を解説"
 description: "相続発生後、いつまでに何をすればいいか一目でわかるタイムライン。死亡届7日、相続放棄3ヶ月、準確定申告4ヶ月、相続税10ヶ月、登記3年…期限を逃さず売却を完了させる手順を宅建業者が解説。"
 publishDate: "2026-04-09"
+noindex: true
 cluster: "inheritance"
 author: "宅建業者"
 faqs:
@@ -20,6 +21,8 @@ faqs:
 <img src="/images/inheritance-timeline-hero.jpg" alt="相続手続きに必要な書類とペン　タイムライン解説のイメージ" width="1200" height="800" style="width:100%;height:auto;border-radius:8px;margin-bottom:1.5rem;" />
 
 相続が発生すると、<strong>「いつまでに何をすればいいのか」</strong>が一番の不安ではないでしょうか。
+
+このテーマの全体像は[相続した家の売り方と手続き](/guide/parent-death-house/)にまとめています。
 
 実は、相続にはいくつもの<strong>法的な期限</strong>があり、期限を過ぎると罰金やペナルティが発生するものもあります。この記事では、相続発生から不動産売却完了までの全ステップを<strong>タイムライン形式</strong>でまとめました。
 
@@ -119,7 +122,7 @@ faqs:
 
 2024年4月1日から相続登記は<strong>義務化</strong>されました。相続により不動産を取得したことを知った日から<strong>3年以内</strong>に登記しなければ、正当な理由がない限り<strong>10万円以下の過料</strong>が科される可能性があります。
 
-相続登記の詳しい手続きについては<a href="/guide/inheritance-registry">相続登記の義務化ガイド</a>で解説しています。
+相続登記の詳しい手続きについては<a href="/guide/inheritance-registry-neglect-sale-3options/">相続登記の義務化ガイド</a>で解説しています。
 
 ### 相続登記に必要な主な書類
 
@@ -144,7 +147,7 @@ faqs:
 
 相続登記が完了したら、いよいよ不動産の売却に進めます。売却の流れは<strong>査定→媒介契約→売却活動→売買契約→引渡し</strong>の5ステップです。
 
-詳しい売却の流れは<a href="/guide/selling-process">はじめての不動産売却ガイド</a>をご覧ください。
+詳しい売却の流れは<a href="/guide/osaka-kaitori-vs-chukai/">買取・仲介・放置の比較</a>をご覧ください。
 
 ### 相続不動産を売却する際の注意点
 
@@ -158,7 +161,7 @@ faqs:
 
 <strong>3. 相続人全員の合意が必要</strong>
 
-共有名義で相続した場合、売却には相続人全員の同意が必要です。共有名義での売却については<a href="/guide/joint-ownership-sale">共有名義の不動産売却ガイド</a>もご参考ください。
+共有名義で相続した場合、売却には相続人全員の同意が必要です。共有名義での売却については<a href="/guide/kyouyuu-mochibun-kaitori/">共有名義の不動産売却ガイド</a>もご参考ください。
 
 ## 税金に関する期限まとめ
 
@@ -170,7 +173,7 @@ faqs:
 | 取得費加算の特例 | 相続開始から<strong>3年10ヶ月以内</strong>に売却 | 相続税の一部を取得費に加算 |
 | 相続登記 | 相続を知った日から<strong>3年以内</strong> | 未登記は10万円以下の過料 |
 
-税金や特例の詳しい解説は<a href="/guide/selling-tax-guide">不動産売却の税金ガイド</a>をご覧ください。
+税金や特例の詳しい解説は<a href="/guide/souzoku-jouto-shotokuzei-5nen-kisanbi/">不動産売却の税金ガイド</a>をご覧ください。
 
 ## よくある失敗とその対策
 
@@ -188,7 +191,7 @@ faqs:
 
 ### 失敗④：空き家を放置して維持費がかさんだ
 
-相続した不動産をどうするか決められないまま放置すると、固定資産税・管理費・劣化による資産価値の低下といった<strong>「持っているだけでかかるコスト」</strong>が積み重なります。空き家の放置リスクについては<a href="/guide/vacant-house">空き家を放置するリスクと対処法</a>もご参考ください。
+相続した不動産をどうするか決められないまま放置すると、固定資産税・管理費・劣化による資産価値の低下といった<strong>「持っているだけでかかるコスト」</strong>が積み重なります。空き家の放置リスクについては<a href="/guide/akiya-shobun-5-hikaku/">空き家を放置するリスクと対処法</a>もご参考ください。
 
 ## まとめ：相続不動産の売却は「早め」が正解
 
@@ -207,12 +210,12 @@ faqs:
 
 ## 関連する記事
 
-- <a href="/guide/inheritance-sale">相続した不動産を売却する完全ガイド</a>
-- <a href="/guide/inheritance-registry">相続登記の義務化と手続きの流れ</a>
-- <a href="/guide/selling-process">はじめての不動産売却ガイド</a>
-- <a href="/guide/selling-tax-guide">不動産売却の税金ガイド</a>
-- <a href="/guide/inheritance-tax-basics">相続税の基本と計算方法</a>
-- <a href="/guide/vacant-house">空き家を放置するリスクと対処法</a>
+- <a href="/guide/parent-death-house/">相続した不動産を売却する完全ガイド</a>
+- <a href="/guide/inheritance-registry-neglect-sale-3options/">相続登記の義務化と手続きの流れ</a>
+- <a href="/guide/osaka-kaitori-vs-chukai/">買取・仲介・放置の比較</a>
+- <a href="/guide/souzoku-jouto-shotokuzei-5nen-kisanbi/">不動産売却の税金ガイド</a>
+- <a href="/guide/inheritance-tax-basics/">相続税の基本と計算方法</a>
+- <a href="/guide/akiya-shobun-5-hikaku/">空き家を放置するリスクと対処法</a>
 
 ---
 
@@ -226,7 +229,6 @@ faqs:
 
 「空き家のミカタ」を友だち追加してください
 
-<a href="/contact" style="display:inline-block;border:2px solid rgba(255,255,255,0.4);color:#fff;padding:0.5rem 1.5rem;border-radius:8px;font-weight:bold;text-decoration:none;margin-top:0.5rem;">フォームで相談する</a>
+<a href="/contact/" style="display:inline-block;border:2px solid rgba(255,255,255,0.4);color:#fff;padding:0.5rem 1.5rem;border-radius:8px;font-weight:bold;text-decoration:none;margin-top:0.5rem;">フォームで相談する</a>
 
 </section>
-- <a href="/guide/souzoku-hub">相続不動産 完全ハブ｜処分・売却・登記・固定資産税まで全ガイドをまとめて確認【2026年版】</a>

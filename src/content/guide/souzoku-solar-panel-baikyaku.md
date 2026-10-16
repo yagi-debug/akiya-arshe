@@ -30,6 +30,8 @@ howToSteps:
 
 親や親族が亡くなり、屋根に太陽光パネルが設置された家を相続するケースが増えています。「FIT（売電）の契約はどうなるの？」「パネルが邪魔で売れない？」「撤去費用はいくらかかる？」——こうした疑問をそのままにしていると、相続後の手続きが滞って売却の機会を逃すことがあります。
 
+このテーマの全体像は[空き家の処分方法の比較](/guide/akiya-shobun-5-hikaku/)にまとめています。
+
 <strong>太陽光パネル付き不動産を相続した場合、まず確認すべきは①パネルがリースか自己所有か、②FIT（売電）契約の有無と残期間、③パネルの状態の3点です。</strong>この3点を把握してから「パネル付きのまま売る」「撤去してから売る」「買取業者に現況で売る」の方針を決めることで、手続きをスムーズに進められます。
 
 ---
@@ -96,7 +98,7 @@ FIT認定の名義変更が完了したら、電力会社（関西電力送配�
 
 FIT承継申請には相続登記の完了が必要です。2024年4月1日から相続登記が義務化されており、<strong>相続を知った日から3年以内</strong>に登記しなければ<strong>10万円以下の過料</strong>の対象になります（不動産登記法76条の2）。過去（2024年4月以前）に発生した相続も義務化の対象です。
 
-FITの手続きと並行して相続登記を進めることをお勧めします。相続登記の手続きについては[相続登記義務化の完全対応ガイド2026](/guide/souzoku-touki-gimuka-kanzen-taiou-2026)もご参照ください。
+FITの手続きと並行して相続登記を進めることをお勧めします。相続登記の手続きについては[相続登記義務化の完全対応ガイド2026](/guide/inheritance-registry-neglect-sale-3options/)もご参照ください。
 
 ---
 
@@ -203,11 +205,11 @@ A. FIT期間が残っていれば売電収入が見込めるためプラス評�
 - リース付き物件は中途解約時に違約金が発生することがあるため、リース会社への確認が先決
 - リース・老朽化・FIT残という複数の問題が重なる場合は訳あり物件の買取専門業者への相談がスムーズ
 
-相続不動産の売却全般については[相続不動産の処分完全ガイド2026](/guide/souzoku-fudousan-shobun-kanzen-guide)もあわせてご覧ください。
+相続不動産の売却全般については[相続不動産の処分完全ガイド2026](/guide/parent-death-house/)もあわせてご覧ください。
 
 ---
 
-**このカテゴリの全ガイド一覧:** [→ 相続不動産 完全ハブ【2026年版】](/guide/souzoku-hub)
+**このカテゴリの中心の記事:** [→ 相続した家の売り方と手続き](/guide/parent-death-house/)
 
 ---
 
@@ -216,4 +218,4 @@ A. FIT期間が残っていれば売電収入が見込めるためプラス評�
 太陽光パネル付きの空き家・相続不動産の処分でお困りの方のご相談を受け付けています。リース付き・FIT期間終了後・老朽化・相続人が複数いるなど、複雑な状況でもお気軽にご連絡ください。査定・ご相談は無料で、しつこい営業は行いません。
 
 <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06C755;color:#fff;padding:14px 32px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 8px 8px 0;">LINEで無料相談（即日対応）</a>
-<a href="/contact" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 32px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 0;">お問い合わせフォーム</a>
+<a href="/contact/" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 32px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 0;">お問い合わせフォーム</a>

@@ -27,7 +27,7 @@ A: 売却できます。仲介では住宅ローンが通りにくく買い手�
 
 <strong>無届増改築や違反建築が発覚した家でも、買取専門業者への直接売却であれば是正工事なしに現況のまま売ることができます。</strong>ただし、知っている違反内容はすべて告知する義務があります。仲介業者に断られた後でも、選択肢はあります。
 
-「相続した実家を確認したら、増築した部分の建築確認を取っていなかった」「リフォームのつもりでやった工事が、実は無届の増改築だったとわかった」——こうしたご相談が当社には多く届きます。国土交通省の調査では、昭和30〜50年代に建てられた建物を中心に、建築確認を取得せずに増改築された物件が全国に多数存在すると推計されています。
+「相続した実家を確認したら、増築した部分の建築確認を取っていなかった」「リフォームのつもりでやった工事が、実は無届の増改築だったとわかった」——こうした状況は、相続した古い建物でよく見られます。建築確認を取らないまま増改築された建物は、年代の古い住宅を中心に少なくありません。
 
 この記事では、無届増改築・違反建築の家をどう確認し、どう売ればよいかを宅建業者の立場から具体的にお伝えします。
 
@@ -58,6 +58,18 @@ A: 売却できます。仲介では住宅ローンが通りにくく買い手�
 | 是正義務 | 特定行政庁から命令が来る場合あり | 現状維持は可（再建築時に適合が必要） |
 
 無届増改築は<strong>違反建築</strong>に該当します。この違いを把握したうえで対策を考えることが大切です。
+
+売却の場面で問題になりやすい違反建築には、無届増改築のほかにも次のようなものがあります。告知する内容を整理するときの目安にしてください。
+
+| 違反の種類 | 内容 |
+|---|---|
+| 容積率・建ぺい率の超過 | 敷地に対して、床面積や建築面積が許容範囲を超えている |
+| 接道義務違反 | 建築基準法上の道路（原則として幅員4m以上。4m未満でも、建築基準法42条2項の道路に指定されていれば道路とみなされる）に2m以上接していない |
+| 無確認建築 | 必要な建築確認申請をしないで建てた、または増改築した |
+| 採光・換気基準の不足 | 居室の採光・換気の面積が法定の基準を下回っている |
+| 構造耐力の不足 | 耐力壁の量や基礎の仕様が基準を満たしていない |
+
+建築確認の有無は、市区町村の建築指導課で「建築計画概要書」を取り寄せても確認できます。
 
 ## なぜ仲介では売りにくいのか
 
@@ -164,20 +176,21 @@ A: 売却できます。仲介では住宅ローンが通りにくく買い手�
 - 告知義務は買取でも必須。知っている事実はすべて正直に伝える
 - 是正命令が届いている場合は早めに動くことが大切
 
-まずは現況をそのままお伝えください。[再建築不可物件の売却方法](/guide/saikenchifu-kaitori)や[建築基準法違反物件の売却ガイド](/guide/kenchiku-kijunho-ihan-bukken-baikyaku)も合わせてご参照いただけます。
+まずは現況をそのままお伝えください。[再建築不可物件の売却方法](/guide/non-rebuildable-property-sale/)や[建築基準法違反物件の売却ガイド](/guide/kenchiku-kijunho-ihan-bukken-baikyaku/)も合わせてご参照いただけます。
 
 ---
 
 ## 関連するガイド記事
 
-- <a href="/guide/kenchiku-kijunho-ihan-bukken-baikyaku">建築基準法違反物件を売りたい｜仲介で断られた物件を買取で現金化する方法</a>
-- <a href="/guide/unregistered-building-inheritance-sell">未登記建物を相続したら？表題登記の手順・費用と買取での解決策</a>
-- <a href="/guide/wakeare-bukken-kaitori-nagare">訳あり不動産の買取の流れ｜相談から決済まで全ステップを解説</a>
-- <a href="/guide/souzoku-touki-apart-baikyaku">相続アパートを売りたい｜仲介で断られた相続物件を買取で現金化する方法</a>
+- <a href="/guide/kenchiku-kijunho-ihan-bukken-baikyaku/">建築基準法違反物件を売りたい｜仲介で断られた物件を買取で現金化する方法</a>
+- <a href="/guide/unregistered-building-inheritance-sell/">未登記建物を相続したら？表題登記の手順・費用と買取での解決策</a>
+- <a href="/guide/wakeare-bukken-kaitori-nagare/">訳あり不動産の買取の流れ｜相談から決済まで全ステップを解説</a>
+- <a href="/guide/souzoku-touki-apart-baikyaku/">相続アパートを売りたい｜仲介で断られた相続物件を買取で現金化する方法</a>
+- <a href="/guide/kenpeiri-yosekiritsu-over-baikyaku/">建蔽率・容積率オーバーの物件</a>
 
 ## 無料査定・ご相談はこちら
 
-無届増改築・違反建築物件のご売却は、訳あり不動産の実績がある買取専門業者にご相談ください。現況確認・査定・ご相談は無料で対応しています。
+無届増改築・違反建築物件のご売却は、訳あり不動産を扱う買取専門業者にご相談ください。現況確認・査定・ご相談は無料で対応しています。
 
 <div style="margin: 2em 0; padding: 1.5em; background: #f0f9ff; border-left: 4px solid #0070f3; border-radius: 4px;">
   <p><strong>空き家のミカタ｜訳あり不動産の直接買取（大阪市24区・大阪・近畿対応）</strong></p>
@@ -188,9 +201,9 @@ A: 売却できます。仲介では住宅ローンが通りにくく買い手�
   </ul>
   <p>
     <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block; background:#06C755; color:#fff; padding:0.8em 2em; border-radius:4px; text-decoration:none; font-weight:bold; margin-right:1em;">LINEで無料相談する</a>
-    <a href="/contact" style="display:inline-block; background:#0070f3; color:#fff; padding:0.8em 2em; border-radius:4px; text-decoration:none; font-weight:bold;">お問い合わせフォーム</a>
+    <a href="/contact/" style="display:inline-block; background:#0070f3; color:#fff; padding:0.8em 2em; border-radius:4px; text-decoration:none; font-weight:bold;">お問い合わせフォーム</a>
   </p>
 </div>
 ---
 
-**このカテゴリの全ガイド一覧:** [→ 再建築不可物件 完全ハブ【2026年版】](/guide/saikenchifu-hub)
+**このカテゴリの中心の記事:** [→ 再建築不可物件の売却方法](/guide/non-rebuildable-property-sale/)

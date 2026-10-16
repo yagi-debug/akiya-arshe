@@ -34,7 +34,7 @@ cluster: "inheritance"
 この記事では、相続アパートの売却相談を多くお受けしてきた宅建業者の実務経験をもとに、<strong>売却タイミングの判断基準</strong>と<strong>具体的な手順</strong>をお伝えします。
 
 <div style="background:#f8f9fa;border:1px solid #dee2e6;border-radius:8px;padding:1rem 1.2rem;margin:1.2rem 0;font-size:0.95rem;">
-この記事は<strong>「いつ売るか」の判断</strong>に特化しています。相続手続き全体の流れは<a href="/guide/souzoku-apart-kanzen-guide">相続アパート処分の完全ガイド</a>、相続登記の手続き詳細は<a href="/guide/souzoku-touki-apart-baikyaku">相続登記義務化とアパート売却の手順</a>をご覧ください。
+この記事は<strong>「いつ売るか」の判断</strong>に特化しています。相続手続き全体の流れは<a href="/guide/souzoku-apart-kanzen-guide/">相続アパート処分の完全ガイド</a>、相続登記の手続き詳細は<a href="/guide/souzoku-touki-apart-baikyaku/">相続登記義務化とアパート売却の手順</a>をご覧ください。
 </div>
 
 ## なぜ「いつ売るか」がこれほど重要なのか
@@ -67,7 +67,7 @@ cluster: "inheritance"
 
 つまり、「いつか売ろう」と登記もせずに放置していると、<strong>過料のリスクを抱えたまま売却もできない</strong>状態になります。登記と売却は<strong>セットで進める</strong>のが最も効率的です。
 
-義務化の詳細な要件・相続人申告登記による救済策・過料が免除される「正当な理由」などは<a href="/guide/souzoku-touki-apart-baikyaku">相続登記義務化とアパート売却の手順</a>で手続き専門に解説しています。
+義務化の詳細な要件・相続人申告登記による救済策・過料が免除される「正当な理由」などは<a href="/guide/souzoku-touki-apart-baikyaku/">相続登記義務化とアパート売却の手順</a>で手続き専門に解説しています。
 
 ## 3つの売却タイミングを比較
 
@@ -139,7 +139,7 @@ cluster: "inheritance"
 
 3年保有した場合、維持費だけで<strong>約220〜480万円</strong>になる計算です。ここに空室による家賃収入の減少を加えると、実質的な負担はさらに大きくなります。
 
-維持費の詳しいシミュレーションは<a href="/guide/souzoku-apart-cost-simulation">相続アパートの維持費シミュレーション</a>もご参考ください。
+維持費の詳しいシミュレーションは<a href="/guide/souzoku-apart-cost-simulation/">相続アパートの維持費シミュレーション</a>もご参考ください。
 
 ## 売却タイミングの判断チェックリスト
 
@@ -199,15 +199,15 @@ cluster: "inheritance"
 
 ### Q. 相続アパートを売ると税金はいくらかかりますか？
 
-譲渡所得税は、<strong>（売却価格 − 取得費 − 譲渡費用 − 特別控除）× 税率</strong>で計算されます。相続した不動産の取得費は、亡くなった方が購入した時の価格を引き継ぎます。所有期間（被相続人の取得日から計算）が5年超なら長期譲渡所得として<strong>約20%</strong>、5年以下なら短期譲渡所得として<strong>約39%</strong>の税率が適用されます。税金の詳しい計算は<a href="/guide/selling-tax-guide">不動産売却の税金ガイド</a>をご覧ください。
+譲渡所得税は、<strong>（売却価格 − 取得費 − 譲渡費用 − 特別控除）× 税率</strong>で計算されます。相続した不動産の取得費は、亡くなった方が購入した時の価格を引き継ぎます。所有期間（被相続人の取得日から計算）が5年超なら長期譲渡所得として<strong>約20%</strong>、5年以下なら短期譲渡所得として<strong>約39%</strong>の税率が適用されます。税金の詳しい計算は<a href="/guide/souzoku-jouto-shotokuzei-5nen-kisanbi/">不動産売却の税金ガイド</a>をご覧ください。
 
 ### Q. 相続人が複数いてまとまらない場合はどうすればいいですか？
 
-遺産分割協議がまとまらない場合でも、<strong>自分の持分だけを売却する方法</strong>があります。ただし、持分のみの売却は価格が大幅に下がるため、できるだけ相続人全員で合意して一括売却することをおすすめします。共有名義での売却については<a href="/guide/joint-ownership-sale">共有名義の不動産売却ガイド</a>もご参考ください。
+遺産分割協議がまとまらない場合でも、<strong>自分の持分だけを売却する方法</strong>があります。ただし、持分のみの売却は価格が大幅に下がるため、できるだけ相続人全員で合意して一括売却することをおすすめします。共有名義での売却については<a href="/guide/kyouyuu-mochibun-kaitori/">共有名義の不動産売却ガイド</a>もご参考ください。
 
 ### Q. 相続アパートが遠方にあります。現地に行かずに売却できますか？
 
-はい、可能です。現地調査はこちらで手配し、契約手続きもオンライン・郵送で完結できます。遠方の物件ほど管理コストがかさみやすいため、<strong>早めの売却を検討されることをおすすめします</strong>。遠方の不動産売却については<a href="/guide/remote-family-home-sale">遠方の実家を売却する方法</a>もご参考ください。
+はい、可能です。現地調査はこちらで手配し、契約手続きもオンライン・郵送で完結できます。遠方の物件ほど管理コストがかさみやすいため、<strong>早めの売却を検討されることをおすすめします</strong>。遠方の不動産売却については<a href="/guide/remote-family-home-sale/">遠方の実家を売却する方法</a>もご参考ください。
 
 ## まとめ：相続アパートは「迷ったら早めに動く」が正解
 
@@ -224,12 +224,12 @@ cluster: "inheritance"
 
 ## 関連する記事
 
-- <a href="/guide/souzoku-apart-kaitori">相続アパートの買取｜管理できないアパートを手放す方法</a>
-- <a href="/guide/inherited-apartment-buyout">相続アパートの買取｜収益計算・管理リスク・売却方法</a>
-- <a href="/guide/souzoku-apart-cost-simulation">相続アパートの維持費シミュレーション</a>
-- <a href="/guide/inheritance-sale-timeline">相続から売却完了までのタイムライン</a>
-- <a href="/guide/inheritance-registry">相続登記の義務化ガイド</a>
-- <a href="/guide/selling-tax-guide">不動産売却の税金ガイド</a>
+- <a href="/guide/souzoku-apart-kanzen-guide/">相続アパートの買取｜管理できないアパートを手放す方法</a>
+- <a href="/guide/inherited-apartment-buyout/">相続アパートの買取｜収益計算・管理リスク・売却方法</a>
+- <a href="/guide/souzoku-apart-cost-simulation/">相続アパートの維持費シミュレーション</a>
+- <a href="/guide/inheritance-sale-timeline/">相続から売却完了までのタイムライン</a>
+- <a href="/guide/inheritance-registry-neglect-sale-3options/">相続登記の義務化ガイド</a>
+- <a href="/guide/souzoku-jouto-shotokuzei-5nen-kisanbi/">不動産売却の税金ガイド</a>
 
 ---
 
@@ -243,7 +243,7 @@ cluster: "inheritance"
 
 「空き家のミカタ」を友だち追加してください
 
-<a href="/contact" style="display:inline-block;border:2px solid rgba(255,255,255,0.4);color:#fff;padding:0.5rem 1.5rem;border-radius:8px;font-weight:bold;text-decoration:none;margin-top:0.5rem;">フォームで相談する</a>
+<a href="/contact/" style="display:inline-block;border:2px solid rgba(255,255,255,0.4);color:#fff;padding:0.5rem 1.5rem;border-radius:8px;font-weight:bold;text-decoration:none;margin-top:0.5rem;">フォームで相談する</a>
 
 </section>
-- <a href="/guide/souzoku-hub">相続不動産 完全ハブ｜処分・売却・登記・固定資産税まで全ガイドをまとめて確認【2026年版】</a>
+- <a href="/guide/parent-death-house/">相続した家の売り方と手続き</a>

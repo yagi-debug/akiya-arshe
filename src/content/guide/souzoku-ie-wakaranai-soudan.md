@@ -22,6 +22,8 @@ updatedDate: "2026-09-07"
 
 「親が亡くなって家が残った。売ったほうがいいとは思うけど、何から手をつければいいかわからない」——そんな状態で立ち止まっている方は、実はとても多いです。<strong>「どうするか」を決める前に、まず「何を整理すべきか」を一緒に確認しましょう。</strong>
 
+このテーマの全体像は[相続した家の売り方と手続き](/guide/parent-death-house/)にまとめています。
+
 <img src="/images/souzoku-ie-wakaranai-soudan-hero.jpg" alt="相続した家について専門家に相談する家族" width="1200" height="800" loading="lazy" />
 
 > <strong>相続した家の相談 — まず確認すること</strong>
@@ -92,14 +94,14 @@ updatedDate: "2026-09-07"
 
 ---
 
-## 実際の相談事例（体験談リンク）
+## よくある相談の参考例
 
-同じような状況で相談された方の事例をご紹介します。自分の状況に近い事例を読むと、判断のヒントが見つかりやすいです。
+同じような状況でよくあるご相談を参考例としてご紹介します（実在の取引ではありません）。自分の状況に近い例を読むと、判断のヒントが見つかりやすいです。
 
-- [3年間空き家のまま放置した実家を売却した事例](/guide/souzoku-jirei-01-akiya-3nen)：相続登記が未完了で手続きに時間がかかると思い込んでいたケース
-- [相続したアパートを直接買取で手放した事例](/guide/souzoku-jirei-03-apart-souzoku-kaitori)：複数の相続人がいたが、買取で一括解決
-- [再建築不可の物件を相続後に売却した事例](/guide/souzoku-jirei-04-saikenchifu-kaitori)：仲介では断られ続けたが買取で現金化
-- [兄弟間でもめた共有名義の不動産を売却した事例](/guide/souzoku-jirei-08-kyoyu-mome-kaitori)：相続人全員の同意が取れない状況での解決策
+- [3年間空き家のまま放置した実家を売却した事例](/guide/souzoku-jirei-01-akiya-3nen/)：相続登記が未完了で手続きに時間がかかると思い込んでいたケース
+- [相続したアパートを直接買取で手放した事例](/guide/souzoku-jirei-03-apart-souzoku-kaitori/)：複数の相続人がいたが、買取で一括解決
+- [再建築不可の物件を相続後に売却した事例](/guide/souzoku-jirei-04-saikenchifu-kaitori/)：仲介では断られ続けたが買取で現金化
+- [兄弟間でもめた共有名義の不動産を売却した事例](/guide/souzoku-jirei-08-kyoyu-mome-kaitori/)：相続人全員の同意が取れない状況での解決策
 
 ---
 
@@ -136,7 +138,7 @@ updatedDate: "2026-09-07"
 </div>
 
 <div style="text-align:center;margin:1rem 0 2rem;">
-  <a href="/contact" style="display:inline-block;background:#2c5282;color:white;padding:0.75rem 2rem;border-radius:8px;font-size:1rem;font-weight:bold;text-decoration:none;">お問い合わせフォームはこちら</a>
+  <a href="/contact/" style="display:inline-block;background:#2c5282;color:white;padding:0.75rem 2rem;border-radius:8px;font-size:1rem;font-weight:bold;text-decoration:none;">お問い合わせフォームはこちら</a>
 </div>
 
 <strong>大阪・近畿対応・仲介手数料ゼロ・現況のまま買取。</strong>「他社に断られた」「遠方で管理できない」「急いで手放したい」「家族で意見がまとまらない」といったお悩みも、まずは一度ご相談ください。
@@ -145,11 +147,11 @@ updatedDate: "2026-09-07"
 
 ## 関連ガイド記事
 
-- [相続した家はどうすればいい？4つの選択肢と判断基準](/guide/souzoku-ie-doushitara)
-- [相続した家、何から手をつければいい？7ステップ・チェックリスト](/guide/souzoku-ie-nani-kara)
-- [相続した不動産の処分方法を完全解説](/guide/souzoku-fudousan-shobun-kanzen-guide)
-- [相続放棄の期限切れに注意！手続きと費用を解説](/guide/souzoku-houki-kigengire)
-- [相続した空き家の固定資産税を節税する方法](/guide/souzoku-akiya-koteishisanzei-kaihi)
+- [相続した家はどうすればいい？4つの選択肢と判断基準](/guide/souzoku-ie-doushitara/)
+- [相続した家、何から手をつければいい？7ステップ・チェックリスト](/guide/souzoku-ie-nani-kara/)
+- [相続した不動産の処分方法を完全解説](/guide/parent-death-house/)
+- [相続放棄の期限切れに注意！手続きと費用を解説](/guide/souzoku-houki-kigengire/)
+- [相続した空き家の固定資産税を節税する方法](/guide/souzoku-akiya-koteishisanzei-kaihi/)
 ---
 
-**このカテゴリの全ガイド一覧:** [→ 相続不動産 完全ハブ【2026年版】](/guide/souzoku-hub)
+**このカテゴリの中心の記事:** [→ 相続した家の売り方と手続き](/guide/parent-death-house/)

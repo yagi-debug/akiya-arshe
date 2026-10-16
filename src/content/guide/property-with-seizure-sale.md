@@ -35,7 +35,7 @@ updatedDate: "2026-09-07"
 
 <img src="/images/property-with-seizure-sale-hero.jpg" alt="差押え・仮差押えが入った不動産の売却手続きイメージ　法的書類と不動産" width="2250" height="1500" style="width:100%;height:auto;border-radius:8px;margin-bottom:1.5rem;" />
 
-<div class="speakable-highlight" style="background:#f0f9ff;border-left:4px solid #0284c7;padding:0.75rem 1.25rem;margin-bottom:1.25rem;border-radius:4px;font-size:0.95em;"><strong>TL;DR</strong>: 差押え・仮差押えが入った不動産でも競売開始前なら売却できます。買取業者への直接売却なら最短1〜2週間・仲介手数料なし。放置すると競売落札価格（市場の60〜80%）まで下落するため、早期相談が重要です。差押えが付いた物件を含む<a href="/guide/wakare-bukken-to-wa">訳あり物件全般の売却方法</a>もあわせて確認できます。</div>
+<div class="speakable-highlight" style="background:#f0f9ff;border-left:4px solid #0284c7;padding:0.75rem 1.25rem;margin-bottom:1.25rem;border-radius:4px;font-size:0.95em;"><strong>TL;DR</strong>: 差押え・仮差押えが入った不動産でも競売開始前なら売却できます。買取業者への直接売却なら最短1〜2週間・仲介手数料なし。放置すると競売落札価格（市場の60〜80%）まで下落するため、早期相談が重要です。差押えが付いた物件を含む<a href="/guide/wakare-bukken-to-wa/">訳あり物件全般の売却方法</a>もあわせて確認できます。</div>
 
 **Q: 差押えが入った不動産は売れますか？**
 **A:** 競売開始決定前であれば売却できます。訳あり物件専門の買取業者への直接売却で、差押えを解除しながら最短1〜2週間で現金化できます。
@@ -112,7 +112,7 @@ updatedDate: "2026-09-07"
 
 ### 方法2：任意売却
 
-任意売却は、住宅ローンや差押えの債権者全員の同意を得て、一般市場で不動産を売却する方法です。[任意売却の詳細はこちら](/guide/ninibaikyaku-guide)
+任意売却は、住宅ローンや差押えの債権者全員の同意を得て、一般市場で不動産を売却する方法です。[任意売却の流れと費用・注意点](/guide/osaka-nini-baikyaku-kyosai-calendar/)
 
 買取より売却価格が高くなることがありますが、以下の点で買取より時間がかかります。
 
@@ -152,7 +152,7 @@ updatedDate: "2026-09-07"
 
 相続した不動産に差押えが付いていた場合、相続人は差押えごと引き継ぐことになります。<strong>相続放棄（相続開始を知った日から3か月以内）によって、差押えごと回避することも選択肢のひとつです。</strong>
 
-ただし相続放棄には制限があるため、状況に応じた判断が必要です。詳しくは[相続不動産の処分方法](/guide/souzoku-fudosan-shobun-5-pattern)もあわせてご覧ください。
+ただし相続放棄には制限があるため、状況に応じた判断が必要です。詳しくは[相続不動産の処分方法](/guide/souzoku-fudosan-shobun-5-pattern/)もあわせてご覧ください。
 
 ## まとめ
 
@@ -190,7 +190,7 @@ updatedDate: "2026-09-07"
 
 ### お問い合わせフォームで相談する
 
-[お問い合わせ・買取相談はこちら](/contact)
+[お問い合わせ・買取相談はこちら](/contact/)
 
 - 物件の種別・差押えの状況をご記入ください
 - 2営業日以内にご連絡します

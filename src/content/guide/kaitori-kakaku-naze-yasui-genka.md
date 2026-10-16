@@ -52,7 +52,7 @@ updatedDate: "2026-09-07"
 
 ## 買う側が負担する費用を項目別に公開します
 
-大阪市内の訳あり物件を買い取る場合に、当社が実際に見込んでいる費用です。金額は物件の状態で上下しますので、レンジで示します。
+大阪市内の訳あり物件を買い取る場合に、一般に見込まれる費用の目安です。金額は物件の状態で上下しますので、レンジで示します。
 
 | 費用項目 | 実額の目安 | 内容 |
 |---|---|---|
@@ -76,7 +76,7 @@ updatedDate: "2026-09-07"
 
 <img src="/images/kaitori-kakaku-naze-yasui-genka-genba.jpg" alt="前面道路が狭い大阪の住宅街。重機が入らず解体費用が上がる典型的な現場条件" width="1200" height="1800" style="width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" />
 
-大阪市は狭い道路に面した密集市街地が多く、<strong>前面道路が4m未満で重機が入らない現場</strong>が珍しくありません。木造30坪の解体費用は、標準条件なら120〜180万円ですが、手壊しになると240〜360万円まで上がります。同じ広さの土地でも査定額に100万円以上の差が出るのは、この現場条件が理由です。詳しい単価は<a href="/guide/osaka-kaitai-hiyou-soba-2026">大阪市の解体費用の相場【2026年】</a>にまとめています。
+大阪市は狭い道路に面した密集市街地が多く、<strong>前面道路が4m未満で重機が入らない現場</strong>が珍しくありません。木造30坪の解体費用は、標準条件なら120〜180万円ですが、手壊しになると240〜360万円まで上がります。同じ広さの土地でも査定額に100万円以上の差が出るのは、この現場条件が理由です。詳しい単価は<a href="/guide/osaka-kaitai-hiyou-soba-2026/">大阪市の解体費用の相場【2026年】</a>にまとめています。
 
 ---
 
@@ -143,7 +143,7 @@ updatedDate: "2026-09-07"
 
 <img src="/images/kaitori-kakaku-naze-yasui-genka-simulation.jpg" alt="電卓とグラフで仲介と買取の手残り額を比較するイメージ" width="1200" height="1800" style="width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" />
 
-買取・仲介・放置の3択をスピードや手間も含めて比べたい方は、<a href="/guide/osaka-kaitori-vs-chukai">不動産売却は買取・仲介・放置どれが正解？4軸で徹底比較</a>もあわせてご覧ください。
+買取・仲介・放置の3択をスピードや手間も含めて比べたい方は、<a href="/guide/osaka-kaitori-vs-chukai/">不動産売却は買取・仲介・放置どれが正解？4軸で徹底比較</a>もあわせてご覧ください。
 
 ---
 
@@ -189,7 +189,7 @@ updatedDate: "2026-09-07"
 
 <img src="/images/kaitori-kakaku-naze-yasui-genka-setsumei.jpg" alt="不動産業者が資料を示しながら査定額の根拠を説明する場面" width="1200" height="800" style="width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" />
 
-査定の現場で何が見られているかは<a href="/guide/kaitori-satei-konkyo-gendai-checklist">訳あり物件の買取価格はどう決まる？査定の根拠と現地調査の8チェックポイント</a>に、避けるべき業者の手口は<a href="/guide/akusha-gyosha-5-teguchi-mikiwake">訳あり不動産買取の悪質業者5つの手口</a>にまとめています。
+査定の現場で何が見られているかは<a href="/guide/kaitori-satei-konkyo-gendai-checklist/">訳あり物件の買取価格はどう決まる？査定の根拠と現地調査の8チェックポイント</a>に、避けるべき業者の手口は<a href="/guide/akusha-gyosha-5-teguchi-mikiwake/">訳あり不動産買取の悪質業者5つの手口</a>にまとめています。
 
 ---
 
@@ -233,7 +233,7 @@ updatedDate: "2026-09-07"
 
 <strong>[LINEで無料相談する（24時間受付）](https://line.arshe1719.workers.dev/auth/line?ref=hp)</strong>
 
-<strong>[お問い合わせフォームはこちら](/contact)</strong>
+<strong>[お問い合わせフォームはこちら](/contact/)</strong>
 
 相談無料・秘密厳守。査定額の根拠は項目ごとに書面でお出しします。
 
@@ -241,14 +241,14 @@ updatedDate: "2026-09-07"
 
 ## 関連するガイド記事
 
-- [訳あり物件の買取価格はどう決まる？査定の根拠と現地調査の8チェックポイント](/guide/kaitori-satei-konkyo-gendai-checklist)
-- [不動産売却は買取・仲介・放置どれが正解？4軸で徹底比較](/guide/osaka-kaitori-vs-chukai)
-- [不動産の査定額はなぜ会社によって違う？高すぎる査定に注意](/guide/appraisal-difference)
-- [訳あり不動産買取の悪質業者5つの手口｜騙されない見分け方](/guide/akusha-gyosha-5-teguchi-mikiwake)
-- [大阪市の解体費用の相場【2026年】道路4m未満・重機不可の坪単価](/guide/osaka-kaitai-hiyou-soba-2026)
-- [相続した不動産の境界線が不明でも売却できる？測量なし買取の方法](/guide/souzoku-fudosan-kyoukaisen-fumei-baikyaku)
-- [訳あり不動産の買取業者の選び方7つのチェックポイント](/guide/wakeare-kaitori-gyosha-erabikata-7check)
-- [仲介手数料の仕組みと計算方法](/guide/brokerage-fee-guide)
+- [訳あり物件の買取価格はどう決まる？査定の根拠と現地調査の8チェックポイント](/guide/kaitori-satei-konkyo-gendai-checklist/)
+- [不動産売却は買取・仲介・放置どれが正解？4軸で徹底比較](/guide/osaka-kaitori-vs-chukai/)
+- [不動産の査定額はなぜ会社によって違う？高すぎる査定に注意](/guide/appraisal-difference/)
+- [訳あり不動産買取の悪質業者5つの手口｜騙されない見分け方](/guide/akusha-gyosha-5-teguchi-mikiwake/)
+- [大阪市の解体費用の相場【2026年】道路4m未満・重機不可の坪単価](/guide/osaka-kaitai-hiyou-soba-2026/)
+- [相続した不動産の境界線が不明でも売却できる？測量なし買取の方法](/guide/souzoku-fudosan-kyoukaisen-fumei-baikyaku/)
+- [訳あり不動産の買取業者の選び方7つのチェックポイント](/guide/wakeare-kaitori-gyosha-erabikata-7check/)
+- [仲介手数料の仕組みと計算方法](/guide/brokerage-fee-guide/)
 
 ---
 
@@ -262,4 +262,4 @@ updatedDate: "2026-09-07"
 - 大阪府「[不動産取得税](https://www.pref.osaka.lg.jp/o050040/zei/alacarte/fudousan.html)」（土地・住宅の税率3%、宅地の課税標準2分の1。いずれも令和9年3月31日まで）
 - 大阪市「[狭あい道路沿道老朽住宅除却促進制度](https://www.city.osaka.lg.jp/toshiseibi/page/0000531835.html)」（解体費用と補助の目安）
 
-本記事の費用レンジ・シミュレーションは、当社が大阪市内で実際に取り扱った案件をもとにした2026年8月時点の目安であり、個別の物件で同じ金額になることを保証するものではありません。税額の判断は税理士に、権利関係の争いに関する判断は弁護士・司法書士にご相談いただくのが確実です。税率・特例の適用期限は改正されることがあるため、手続を検討される際は各機関の最新の案内をご確認ください。
+本記事の費用レンジ・シミュレーションは、大阪市内の一般的な条件を想定した2026年8月時点の目安であり、個別の物件で同じ金額になることを保証するものではありません。税額の判断は税理士に、権利関係の争いに関する判断は弁護士・司法書士にご相談いただくのが確実です。税率・特例の適用期限は改正されることがあるため、手続を検討される際は各機関の最新の案内をご確認ください。

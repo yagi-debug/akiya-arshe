@@ -36,6 +36,8 @@ updatedDate: "2026-09-07"
 
 「親が亡くなり実家を相続したいが、配偶者居住権が設定されていて売れない」——そんな相談が増えています。2020年4月に施行された改正民法で新設された配偶者居住権は、遺された配偶者の生活を守る制度ですが、設定後の売却に大きな制約をもたらします。
 
+このテーマの全体像は[相続した家の売り方と手続き](/guide/parent-death-house/)にまとめています。
+
 この記事では、配偶者居住権が設定された不動産が売れない理由と、現実的な3つの解決策を整理します。
 
 ![配偶者居住権と不動産売却の問題（相談シーン）](/images/spousal-residential-right-hero.jpg)
@@ -153,14 +155,13 @@ updatedDate: "2026-09-07"
 <strong>無料相談はこちら（24時間・大阪・近畿対応）</strong>
 
 - <strong>LINE相談</strong>：[空き家のミカタ（LINEで無料相談）](https://line.arshe1719.workers.dev/auth/line?ref=hp)
-- <strong>お問い合わせフォーム</strong>：[こちらから](/contact)
+- <strong>お問い合わせフォーム</strong>：[こちらから](/contact/)
 
 配偶者居住権が設定された不動産・相続で揉めている物件・訳あり不動産の大阪府内の物件の直接買取・売却相談を受け付けています。
 
 ## 関連記事
 
-- <a href="/guide/inheritance-sale">相続した不動産を売却する完全ガイド</a>
-- <a href="/guide/dementia-house-sale">認知症の親が持つ不動産を売る方法</a>
-- <a href="/guide/dementia-coowner-property-sale">認知症の共有者がいる不動産の売却</a>
-- <a href="/guide/inheritance-tax-basics">相続税の基本と不動産評価</a>
-- <a href="/guide/souzoku-hub">相続不動産 完全ハブ｜全ガイドをまとめて確認</a>
+- <a href="/guide/parent-death-house/">相続した不動産を売却する完全ガイド</a>
+- <a href="/guide/dementia-house-sale/">認知症の親が持つ不動産を売る方法</a>
+- <a href="/guide/dementia-coowner-property-sale/">認知症の共有者がいる不動産の売却</a>
+- <a href="/guide/inheritance-tax-basics/">相続税の基本と不動産評価</a>

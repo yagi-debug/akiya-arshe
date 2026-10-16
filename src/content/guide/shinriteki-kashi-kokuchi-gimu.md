@@ -102,7 +102,7 @@ cluster: "accident"
 
 - <strong>相続人の確定</strong>（戸籍収集：1〜2ヶ月）
 - <strong>遺産分割協議</strong>（相続人間の話し合い）
-- <strong>相続登記</strong>（<a href="/guide/inheritance-registry">2024年4月から義務化</a>、期限は相続を知ってから3年以内）
+- <strong>相続登記</strong>（<a href="/guide/inheritance-registry-neglect-sale-3options/">2024年4月から義務化</a>、期限は相続を知ってから3年以内）
 
 ### 売却活動の開始
 
@@ -171,7 +171,7 @@ cluster: "accident"
 - <strong>仲介で3ヶ月以上売れていない</strong>
 - <strong>特殊清掃やリフォーム費用を自分で負担したくない</strong>
 
-> <strong>宅建業者の視点</strong>：仲介と買取のどちらが得かは、物件の状況と売主の優先順位によります。「少しでも高く売りたい」なら仲介、「早く確実に手放したい」なら買取が適しています。まずは両方の査定を取ってから判断するのがおすすめです。査定の比較方法については「<a href="/guide/appraisal-difference">査定額はなぜ会社によって違う？高すぎる査定に注意</a>」もご参照ください。
+> <strong>宅建業者の視点</strong>：仲介と買取のどちらが得かは、物件の状況と売主の優先順位によります。「少しでも高く売りたい」なら仲介、「早く確実に手放したい」なら買取が適しています。まずは両方の査定を取ってから判断するのがおすすめです。査定の比較方法については「<a href="/guide/appraisal-difference/">査定額はなぜ会社によって違う？高すぎる査定に注意</a>」もご参照ください。
 
 ## 告知義務に違反した場合のリスク
 
@@ -202,7 +202,7 @@ cluster: "accident"
 
 ### Q. 相続した事故物件でも買取してもらえますか？
 
-<strong>はい、相続した事故物件も買取の対象です。</strong>相続登記がまだ終わっていなくても相談可能です。提携の司法書士をご紹介し、相続登記と売却手続きを並行して進めることもできます。相続物件の売却の流れについては「<a href="/guide/inheritance-sale">相続した不動産を売却する完全ガイド</a>」もご参照ください。
+<strong>はい、相続した事故物件も買取の対象です。</strong>相続登記がまだ終わっていなくても相談可能です。提携の司法書士をご紹介し、相続登記と売却手続きを並行して進めることもできます。相続物件の売却の流れについては「<a href="/guide/parent-death-house/">相続した不動産を売却する完全ガイド</a>」もご参照ください。
 
 ### Q. 事故物件の買取価格はどれくらいですか？
 
@@ -220,12 +220,12 @@ cluster: "accident"
 
 ## 関連する記事
 
-- <a href="/guide/accident-property-sale">事故物件は売れる？告知義務のルールと売却方法を宅建業者が解説</a>
-- <a href="/guide/jiko-bukken-kaitori">事故物件の買取｜告知義務があっても売れる？買取の流れと価格の目安</a>
-- <a href="/guide/inheritance-sale">相続した不動産を売却する完全ガイド</a>
-- <a href="/guide/inheritance-sale-timeline">相続から売却完了までのタイムライン</a>
-- <a href="/guide/appraisal-difference">査定額はなぜ会社によって違う？高すぎる査定に注意</a>
-- <a href="/guide/vacancy-tax-6times">空き家の固定資産税が6倍に？特定空き家の条件と回避する方法</a>
+- <a href="/guide/accident-property-sale/">事故物件は売れる？告知義務のルールと売却方法を宅建業者が解説</a>
+- <a href="/guide/jiko-bukken-hub/">事故物件の買取｜告知義務があっても売れる？買取の流れと価格の目安</a>
+- <a href="/guide/parent-death-house/">相続した不動産を売却する完全ガイド</a>
+- <a href="/guide/inheritance-sale-timeline/">相続から売却完了までのタイムライン</a>
+- <a href="/guide/appraisal-difference/">査定額はなぜ会社によって違う？高すぎる査定に注意</a>
+- <a href="/guide/akiya-koteishisanzei-6bai-hikaku/">空き家の固定資産税が6倍に？特定空き家の条件と回避する方法</a>
 
 ---
 
@@ -234,8 +234,8 @@ cluster: "accident"
 
 ## 関連するガイド記事
 
-- <a href="/guide/jiko-bukken-hub">事故物件 完全ハブ｜告知義務・買取・価格への影響まで全ガイドまとめ</a>
+- <a href="/guide/jiko-bukken-hub/">事故物件 完全ハブ｜告知義務・買取・価格への影響まで全ガイドまとめ</a>
 
 LINE「空き家のミカタ」：[https://line.arshe1719.workers.dev/auth/line?ref=hp](https://line.arshe1719.workers.dev/auth/line?ref=hp)
 
-<a href="/contact">無料査定・ご相談フォームはこちら</a>
+<a href="/contact/">無料査定・ご相談フォームはこちら</a>

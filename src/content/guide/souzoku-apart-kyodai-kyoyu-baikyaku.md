@@ -137,7 +137,7 @@ howToSteps:
 4. <strong>協議書の作成と相続登記</strong>：換価分割の場合、遺産分割協議書に売却・分配の方針を明記し、提携司法書士が登記まで整えます。
 5. <strong>売買契約・決済・分配</strong>：共有者全員で契約し、決済後に代金を各相続人へ分配します。入居者がいても、賃貸借契約を引き継ぐ形で現況のまま売却できます。
 
-仲介では買い手がつきにくい共有名義や老朽アパートも、直接買取であれば権利関係の整理ごとお引き受けできます。共有持分の考え方は[共有持分の買取ガイド](/guide/kyouyuu-mochibun-kaitori)、協議書の書き方は[遺産分割協議書の書き方](/guide/isan-bunkatsu-kyougisho-kakikata)、登記義務化の詳細は[相続登記の義務化と対応](/guide/souzoku-touki-gimuka-2years)、実際の解決事例は[兄弟の共有でもめた事例](/guide/souzoku-jirei-11-kyouyuu-kyodai-mome-line)もあわせてご覧ください。
+仲介では買い手がつきにくい共有名義や老朽アパートも、直接買取であれば権利関係の整理ごとお引き受けできます。共有持分の考え方は[共有持分の買取ガイド](/guide/kyouyuu-mochibun-kaitori/)、協議書の書き方は[遺産分割協議書の書き方](/guide/isan-bunkatsu-kyougisho-kakikata/)、登記義務化の詳細は[相続登記の義務化と対応](/guide/souzoku-touki-gimuka-2years/)、実際の解決事例は[兄弟の共有でもめた事例](/guide/souzoku-jirei-11-kyouyuu-kyodai-mome-line/)もあわせてご覧ください。
 
 ---
 
@@ -164,6 +164,6 @@ howToSteps:
 
 <strong>[LINEで無料相談する（24時間受付）](https://line.arshe1719.workers.dev/auth/line?ref=hp)</strong>
 
-<strong>[お問い合わせフォームはこちら](/contact)</strong>
+<strong>[お問い合わせフォームはこちら](/contact/)</strong>
 
 相談無料・秘密厳守・大阪市24区の物件を中心に対応しています。

@@ -2,6 +2,7 @@
 title: "相続不動産の処分 完全ガイド2026｜法律・登記・比較表・失敗対策まで一気に解説"
 description: "相続した不動産をどう処分するか迷っている方向けの完全ガイド。相続の法律基礎・登記手順・売るか貸すか解体か比較・買取vs仲介vs空き家バンク比較・よくある失敗対策まで網羅。宅地建物取引業者（大阪府知事(1)第65646号）が解説。"
 publishDate: "2026-05-24"
+noindex: true
 author: "空き家のミカタ編集部"
 authorTitle: "宅地建物取引業者（大阪府知事(1)第65646号）"
 heroImage: "/images/souzoku-fudousan-shobun-kanzen-guide-hero.jpg"
@@ -58,103 +59,12 @@ updatedDate: "2026-09-07"
 }
 </script>
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "相続した不動産は必ず登記しなければなりませんか？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "はい、2024年4月から相続登記が義務化されました。不動産の取得を知った日から3年以内に申請しなければ、10万円以下の過料が科される場合があります。2024年4月以前の相続は2027年3月31日が猶予期限です。"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "相続した不動産、売るのと貸すのとどちらが得ですか？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "「遠方在住・管理が難しい・訳あり物件」なら売却が有利です。3,000万円特別控除（相続から3年以内が条件）を活用できる早期売却は、税制面でも有利なケースが多いです。"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "買取と仲介、どちらを選べばいいですか？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "急いでいる・訳あり物件・遠方在住なら買取（最短2週間・仲介手数料不要）、高値優先・時間的余裕があるなら仲介が向いています。"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "相続した空き家を放置するとどうなりますか？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "特定空き家に指定されると固定資産税が最大6倍になります。管理不全空き家は最大4.2倍。3,000万円特別控除の3年期限も失うため、放置は経済的損失が大きい選択です。"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "再建築不可や事故物件など訳あり不動産は処分できますか？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "はい、買取業者（自社買取）なら現況のまま直接買取が可能です。一般仲介では難しい再建築不可・事故物件・共有持分も大阪・近畿対応で買取しています。"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "空き家バンクに登録するとすぐ売れますか？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "残念ながら成約率は低く、全国的に数%程度とされています。急ぎの場合は買取業者への相談を優先してください。"
-      }
-    }
-  ]
-}
-</script>
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "HowTo",
-  "name": "相続不動産の処分手順：5ステップ",
-  "description": "相続した不動産を適切に処分するための5ステップ。相続人確定から処分実行まで。",
-  "totalTime": "P6M",
-  "step": [
-    {
-      "@type": "HowToStep",
-      "name": "STEP 1：相続人と遺産の全体像を把握する",
-      "text": "戸籍謄本を収集して法定相続人を確定。遺言書の有無を確認。相続放棄は3ヶ月以内。"
-    },
-    {
-      "@type": "HowToStep",
-      "name": "STEP 2：不動産の現状を調べる",
-      "text": "登記事項証明書・固定資産税課税明細書で評価額・名義・接道状況・訳あり要素を把握します。"
-    },
-    {
-      "@type": "HowToStep",
-      "name": "STEP 3：遺産分割協議を行う",
-      "text": "相続人全員で不動産の処分方針を協議し、遺産分割協議書を作成します。"
-    },
-    {
-      "@type": "HowToStep",
-      "name": "STEP 4：相続登記を申請する",
-      "text": "2024年4月から義務化。取得を知った日から3年以内に法務局で申請します。"
-    },
-    {
-      "@type": "HowToStep",
-      "name": "STEP 5：処分方針を決めて実行する",
-      "text": "売却・賃貸・解体の3択から選択。3,000万円特別控除は相続から3年以内が条件。"
-    }
-  ]
-}
-</script>
 
 <img src="/images/souzoku-fudousan-shobun-kanzen-guide-hero.jpg" alt="相続した不動産の鍵と物件図面。相続不動産処分の完全ガイドのイメージ" width="1200" height="800" style="width:100%;height:auto;border-radius:8px;margin-bottom:1.5rem;" />
 
 「親が亡くなり、不動産を相続した。でも何から手をつければいいかわからない」——そんな状況でこのページにたどり着いた方に向けて、<strong>相続不動産の処分に関わるすべてのステップ</strong>を一ページにまとめました。
+
+このテーマの全体像は[相続した家の売り方と手続き](/guide/parent-death-house/)にまとめています。
 
 このガイドでわかること：
 - 相続の法律基礎（相続人・遺言・相続放棄）
@@ -190,7 +100,7 @@ updatedDate: "2026-09-07"
 
 負債が多い・管理が難しい不動産しか残っていないケースでは、<strong>相続放棄</strong>も選択肢の一つです。相続を知った日から<strong>3ヶ月以内</strong>に家庭裁判所へ申立てます。ただし2023年の民法改正により、相続放棄後も「他に管理できる人がいない場合は管理継続義務が残る」ことが明記されました。完全に手が離せるわけではない点に注意が必要です。
 
-→ 詳しくは[相続放棄 完全ガイド](/guide/inheritance-abandon)を参照してください。
+→ 詳しくは[相続放棄 完全ガイド](/guide/inheritance-abandon/)を参照してください。
 
 ---
 
@@ -224,7 +134,7 @@ updatedDate: "2026-09-07"
 4. 遺産分割協議書を作成（全員が署名・実印）
 5. 法務局へ申請（司法書士に依頼が一般的）
 
-→ 詳しくは[相続登記の義務化 完全対応ガイド](/guide/souzoku-touki-gimuka-kanzen-taiou-2026)を参照してください。
+→ 詳しくは[相続登記の義務化 完全対応ガイド](/guide/inheritance-registry-neglect-sale-3options/)を参照してください。
 
 ---
 
@@ -247,7 +157,7 @@ updatedDate: "2026-09-07"
 
 空き家を「持ち続ける」選択をした場合、毎年の固定資産税のほかに建物劣化・火災保険・草木管理などのコストが発生します。<strong>「特定空き家」に指定されると固定資産税の住宅用地特例が解除され、税額が最大6倍になります。</strong>2023年の改正で「管理不全空き家」も指定対象に加わり（住宅用地特例の解除で最大4.2倍）、放置リスクは法改正のたびに拡大しています。
 
-→ 詳しくは[空き家の固定資産税が最大6倍に](/guide/vacancy-tax-6times)を参照してください。
+→ 詳しくは[空き家の固定資産税が最大6倍に](/guide/akiya-koteishisanzei-6bai-hikaku/)を参照してください。
 
 ---
 
@@ -275,7 +185,7 @@ updatedDate: "2026-09-07"
 
 空き家バンクは自治体が運営する無料のマッチングサービスですが、<strong>成約率は全国的に低い</strong>のが実態です。地方の過疎エリアや老朽化した物件は、登録しても数年経っても問い合わせがゼロというケースも少なくありません。「バンクに登録したから安心」とそのまま放置すると、固定資産税や維持費だけがかさみます。
 
-→ 詳しくは[空き家処分の5大選択肢を徹底比較](/guide/akiya-shobun-5-hikaku)を参照してください。
+→ 詳しくは[空き家処分の5大選択肢を徹底比較](/guide/akiya-shobun-5-hikaku/)を参照してください。
 
 ---
 
@@ -304,7 +214,7 @@ updatedDate: "2026-09-07"
 
 取得費が不明な場合は「売却価格の5%」を取得費として計上できますが、実額が5%を超える場合は実額を使った方が有利です。
 
-→ 詳しくは[相続不動産の売却で失敗した3事例](/guide/souzoku-fudosan-shippai-3jirei)を参照してください。
+→ 詳しくは[相続不動産の売却で失敗した3事例](/guide/souzoku-fudosan-shippai-3jirei/)を参照してください。
 
 ---
 
@@ -323,7 +233,7 @@ updatedDate: "2026-09-07"
 
 <strong>訳あり物件ほど、早めに専門業者に相談するのが得策です。</strong>時間が経つほど建物が劣化し、買取価格が下がっていきます。
 
-→ 詳しくは[訳あり物件とは？5種類と処分方法の比較](/guide/wakeare-bukken-5shu-hikaku)を参照してください。
+→ 詳しくは[訳あり物件とは？5種類と処分方法の比較](/guide/wakeare-bukken-5shu-hikaku/)を参照してください。
 
 ---
 
@@ -355,7 +265,7 @@ updatedDate: "2026-09-07"
 
 **対策**: 不動産の価値（査定価格）を共有し、売却して現金で分割するという選択肢を早期に提示する。協議が難航する場合は家庭裁判所の調停（申立費用：印紙代1,200円〜）を活用する。
 
-→ 詳しくは[相続不動産で家族がもめる5つのケース](/guide/souzoku-fudosan-kazoku-trouble-kaiketsu)を参照してください。
+→ 詳しくは[相続不動産で家族がもめる5つのケース](/guide/souzoku-fudosan-kazoku-trouble-kaiketsu/)を参照してください。
 
 ### 失敗⑤：悪質業者に安値で買い叩かれる
 
@@ -363,7 +273,7 @@ updatedDate: "2026-09-07"
 
 **対策**: 複数の買取業者に査定を依頼し、価格を比較する。査定価格の根拠（周辺の取引事例・劣化状況）を説明してくれる業者を選ぶ。
 
-→ 詳しくは[悪質業者の5つの手口と見極め方](/guide/akusha-gyosha-5-teguchi-mikiwake)を参照してください。
+→ 詳しくは[悪質業者の5つの手口と見極め方](/guide/akusha-gyosha-5-teguchi-mikiwake/)を参照してください。
 
 ---
 
@@ -387,7 +297,7 @@ updatedDate: "2026-09-07"
 お電話・メールでのご相談は、お問い合わせフォームをご利用ください。
 
 <div style="text-align:center;margin:1rem 0 2rem;">
-  <a href="/contact" style="display:inline-block;background:#2c5282;color:white;padding:0.8rem 2rem;border-radius:50px;font-size:1rem;font-weight:bold;text-decoration:none;">お問い合わせフォームへ</a>
+  <a href="/contact/" style="display:inline-block;background:#2c5282;color:white;padding:0.8rem 2rem;border-radius:50px;font-size:1rem;font-weight:bold;text-decoration:none;">お問い合わせフォームへ</a>
 </div>
 
 ---
@@ -395,41 +305,40 @@ updatedDate: "2026-09-07"
 ## 関連記事一覧（相続不動産の処分に関する詳細情報）
 
 ### 相続の基礎・手順
-- [相続した家 どうすればいい？完全ハブガイド](/guide/souzoku-ie-doushitara-hub)
-- [相続した家はどうすればいい？4つの選択肢と判断基準](/guide/souzoku-ie-doushitara)
-- [相続した家、何から手をつければいい？7ステップ・チェックリスト](/guide/souzoku-ie-nani-kara)
-- [相続した不動産の売り方 完全ガイド2026年版](/guide/souzoku-fudousan-urikata-kanzen-guide)
-- [相続から売却完了までのタイムライン](/guide/inheritance-sale-timeline)
+- [相続した家 どうすればいい？完全ハブガイド](/guide/souzoku-ie-doushitara-hub/)
+- [相続した家はどうすればいい？4つの選択肢と判断基準](/guide/souzoku-ie-doushitara/)
+- [相続した家、何から手をつければいい？7ステップ・チェックリスト](/guide/souzoku-ie-nani-kara/)
+- [相続した不動産の売り方 完全ガイド2026年版](/guide/parent-death-house/)
+- [相続から売却完了までのタイムライン](/guide/inheritance-sale-timeline/)
 
 ### 相続登記
-- [相続登記の義務化 完全対応ガイド2026年版](/guide/souzoku-touki-gimuka-kanzen-taiou-2026)
-- [相続登記 義務化で2年経過——未登記のままどうなる？](/guide/souzoku-touki-gimuka-2years)
-- [相続登記にかかる費用が払えないとき](/guide/souzoku-touki-hiyou-haraenai)
-- [相続登記を自分でやる方法と費用](/guide/souzoku-touki-jibunde-hiyou)
-- [相続登記を放置したらどうなる？](/guide/souzoku-touki-houchi-doushitara)
+- [相続登記の義務化 完全対応ガイド2026年版](/guide/inheritance-registry-neglect-sale-3options/)
+- [相続登記 義務化で2年経過——未登記のままどうなる？](/guide/souzoku-touki-gimuka-2years/)
+- [相続登記にかかる費用が払えないとき](/guide/souzoku-touki-hiyou-haraenai/)
+- [相続登記を自分でやる方法と費用](/guide/souzoku-touki-jibunde-hiyou/)
+- [相続登記を放置したらどうなる？](/guide/souzoku-touki-houchi-doushitara/)
 
 ### 相続アパート・農地
-- [相続したアパートを売るか持ち続けるか 完全ガイド](/guide/souzoku-apart-kanzen-guide)
-- [相続アパートの5つの手放し方法を比較](/guide/souzoku-apart-tewatashi-5houhou)
-- [相続アパート買取・実績事例](/guide/souzoku-jirei-03-apart-souzoku-kaitori)
-- [相続した農地・山林の売却方法](/guide/souzoku-nouchi-sanrin-baikyaku)
+- [相続したアパートを売るか持ち続けるか 完全ガイド](/guide/souzoku-apart-kanzen-guide/)
+- [相続アパートの5つの手放し方法を比較](/guide/souzoku-apart-tewatashi-5houhou/)
+- [相続アパート買取・参考事例](/guide/souzoku-jirei-03-apart-souzoku-kaitori/)
+- [相続した農地・山林の売却方法](/guide/souzoku-nouchi-sanrin-baikyaku/)
 
 ### 固定資産税・空き家
-- [空き家の固定資産税が最大6倍に](/guide/vacancy-tax-6times)
-- [相続した空き家の固定資産税が6倍になる前に](/guide/souzoku-akiya-koteishisanzei-kaihi)
-- [空き家処分の5大選択肢を徹底比較](/guide/akiya-shobun-5-hikaku)
+- [空き家の固定資産税が最大6倍に](/guide/akiya-koteishisanzei-6bai-hikaku/)
+- [相続した空き家の固定資産税が6倍になる前に](/guide/souzoku-akiya-koteishisanzei-kaihi/)
+- [空き家処分の5大選択肢を徹底比較](/guide/akiya-shobun-5-hikaku/)
 
 ### 訳あり物件
-- [訳あり物件とは？5種類と処分方法の比較](/guide/wakeare-bukken-5shu-hikaku)
-- [再建築不可物件の買取事例](/guide/souzoku-jirei-04-saikenchifu-kaitori)
-- [事故物件・心理的瑕疵物件の買取](/guide/accident-property-sale)
-- [共有持分のみの買取（もめた相続に）](/guide/joint-ownership-sale)
+- [訳あり物件とは？5種類と処分方法の比較](/guide/wakeare-bukken-5shu-hikaku/)
+- [再建築不可物件の買取事例](/guide/souzoku-jirei-04-saikenchifu-kaitori/)
+- [事故物件・心理的瑕疵物件の買取](/guide/accident-property-sale/)
+- [共有持分のみの買取（もめた相続に）](/guide/kyouyuu-mochibun-kaitori/)
 
 ## 関連するガイド記事
 
-- <a href="/guide/souzoku-hub">相続不動産 完全ハブ｜処分・売却・登記・固定資産税・事例まで全ガイドをまとめて確認【2026年版】</a>
-- <a href="/guide/souzoku-apart-kanzen-guide">相続アパートを手放したい方へ｜売却の流れ・税金・失敗しない判断基準を宅建業者が完全解説【2026年最新】</a>
-- <a href="/guide/souzoku-fudousan-urikata-kanzen-guide">【2026年版】相続した不動産の売り方 完全ガイド｜実務手順・費用・業者選定を買取業者が解説</a>
-- <a href="/guide/akiya-shobun-5-hikaku">空き家処分の5大選択肢を徹底比較【2026年版】費用・期間・手残り額</a>
-- <a href="/guide/akiya-souzoku-urenai">相続した空き家が売れない？3つの原因と4つの出口戦略｜再建築不可・未登記・共有名義も最短14日で現金化【2026年版】</a>
+- <a href="/guide/parent-death-house/">相続した家の売り方と手続き</a>
+- <a href="/guide/souzoku-apart-kanzen-guide/">相続アパートを手放したい方へ｜売却の流れ・税金・失敗しない判断基準を宅建業者が完全解説【2026年最新】</a>
+- <a href="/guide/akiya-shobun-5-hikaku/">空き家処分の5大選択肢を徹底比較【2026年版】費用・期間・手残り額</a>
+- <a href="/guide/akiya-souzoku-urenai/">相続した空き家が売れない？3つの原因と4つの出口戦略｜再建築不可・未登記・共有名義も最短14日で現金化【2026年版】</a>
 

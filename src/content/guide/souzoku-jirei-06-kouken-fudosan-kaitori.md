@@ -1,8 +1,9 @@
 ---
 updatedDate: "2026-09-07"
-title: "【体験談・事例06】認知症の父の家を成年後見人として売却。家裁許可取得から決済まで60日の全記録"
-description: "認知症の父（82歳・要介護2）の自宅を成年後見人（長男・Eさん・55歳）として売却したケース。銀行口座凍結・家庭裁判所の許可申立・審判確定・買取決済まで60日間のプロセスを全記録。施設費用の捻出に困る方・親が認知症で不動産が動かせない方への実例。"
+title: "【参考例・事例06】認知症の父の家を成年後見人として売却。家裁許可取得から決済まで60日のケース"
+description: "認知症の父（82歳・要介護2）の自宅を成年後見人（長男・Eさん・55歳）として売却するケース（参考例）。銀行口座凍結・家庭裁判所の許可申立・審判確定・買取決済まで60日間のプロセスを、よくある状況をもとに紹介。施設費用の捻出に困る方・親が認知症で不動産が動かせない方への参考例。"
 publishDate: "2026-05-17"
+noindex: true
 author: "空き家のミカタ編集部"
 authorTitle: "宅地建物取引業者（大阪府知事(1)第65646号）"
 heroImage: "/images/souzoku-jirei-06-hero.jpg"
@@ -26,8 +27,8 @@ cluster: "inheritance"
 {
   "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "【体験談・事例06】認知症の父の家を成年後見人として売却。家裁許可取得から決済まで60日の全記録",
-  "description": "認知症の父（82歳・要介護2）の自宅を成年後見人（長男・Eさん・55歳）として売却したケース。家庭裁判所の許可申立から決済まで60日間の全プロセスを実録。",
+  "headline": "【参考例・事例06】認知症の父の家を成年後見人として売却。家裁許可取得から決済まで60日のケース",
+  "description": "認知症の父（82歳・要介護2）の自宅を成年後見人（長男・Eさん・55歳）として売却するケース（参考例）。家庭裁判所の許可申立から決済まで60日間のプロセスをご紹介。",
   "datePublished": "2026-05-17",
   "author": {
     "@type": "Organization",
@@ -56,78 +57,6 @@ cluster: "inheritance"
 }
 </script>
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Review",
-  "itemReviewed": {
-    "@type": "Service",
-    "name": "空き家のミカタ 訳あり不動産買取サービス",
-    "url": "https://akiya.arshe-corp.com"
-  },
-  "reviewRating": {
-    "@type": "Rating",
-    "ratingValue": "5",
-    "bestRating": "5",
-    "worstRating": "1"
-  },
-  "author": {
-    "@type": "Person",
-    "name": "Eさん（55歳・長男・大阪市在住）"
-  },
-  "reviewBody": "父が認知症で銀行口座が凍結され、施設費用が払えない状況でした。成年後見の手続きを自分でできると思っていませんでしたが、司法書士の先生と買取業者が連携して一緒に動いてくれて、60日で決済が完了しました。施設費用の心配がなくなり、本当に助かりました。"
-}
-</script>
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "認知症の親の不動産は、成年後見人がいれば売却できますか？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "成年後見人が選任されていれば、家庭裁判所の許可を得ることで居住用不動産を売却できます。非居住用不動産であれば、家裁許可なしに後見人の判断で売却できる場合があります。ただし手続きは複雑なため、司法書士・訳あり専門の買取業者と連携して進めることをおすすめします。"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "成年後見人の申立てから不動産売却まで、どのくらいかかりますか？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "成年後見人選任の申立てから審判確定まで1〜3か月、居住用不動産の売却許可申立てから許可まで1〜2か月が目安です。本事例では合計60日（約2か月）で決済完了しました。"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "親が認知症で銀行口座が凍結されています。どうすればいいですか？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "成年後見人が選任されると、後見人が本人の財産管理権限を持ち、銀行口座の管理・施設費用の支払いも行えます。不動産の売却代金で施設費用を賄いたい場合は、売却と口座管理を並行して進めることが有効です。"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "父がすでに施設に入居して空き家になっている家でも、家裁の許可が必要ですか？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "施設入居後に空き家になっていても、本人の生活の本拠として使用していた不動産は家裁許可が必要とされるケースがほとんどです。具体的な判断は担当裁判所・司法書士に確認してください。"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "親族が成年後見人になることはできますか？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "親族でも成年後見人になることは可能です（親族後見人）。ただし、財産額が高額・他の親族と対立がある・複雑な財産管理が必要等の場合、家庭裁判所が専門家を後見人として選任することがあります。最終決定は家庭裁判所が行います。"
-      }
-    }
-  ]
-}
-</script>
-
 > <strong>この記事の結論</strong>
 > 1. 認知症で意思確認が取れない親の不動産は、<strong>成年後見人を選任し家庭裁判所の許可を得ることで売却できます。</strong>「売れない」ではなく「手続きが必要」です。
 > 2. Eさん（福岡市・55歳男性）は父（82歳・認知症）の自宅を成年後見人として、<strong>相談から60日で手取り730万円の現金化</strong>に成功しました。
@@ -136,6 +65,8 @@ cluster: "inheritance"
 <img src="/images/souzoku-jirei-06-hero.jpg" alt="認知症の親の自宅を成年後見人として売却するケース　家族が書類を前に話し合う様子" width="1200" height="800" style="width:100%;height:auto;border-radius:8px;margin-bottom:1.5rem;" />
 
 「父が認知症になってから、家のことが何も動かせなくなってしまった」——そう話すEさん（55歳・大阪市在住）が空き家のミカタに相談したのは、父が施設に入居して14か月が経ったころでした。
+
+関連する内容は[共有者が認知症のときの売却方法](/guide/dementia-coowner-property-sale/)で詳しく解説しています。
 
 認知症の親の不動産は<strong>「売れない」のではなく、「手続きが必要」</strong>なのです。この記事では、その手続きをどう乗り越えたか、Eさんの60日間の記録を公開します。
 
@@ -294,7 +225,7 @@ Eさんが最も後悔していたのは「もっと早く専門家に相談す�
 
 <strong>お問い合わせフォームはこちら</strong>
 
-<a href="/contact" style="display:inline-block;background:#2563eb;color:#fff;padding:0.75rem 1.5rem;border-radius:6px;text-decoration:none;font-weight:bold;">フォームから相談する</a>
+<a href="/contact/" style="display:inline-block;background:#2563eb;color:#fff;padding:0.75rem 1.5rem;border-radius:6px;text-decoration:none;font-weight:bold;">フォームから相談する</a>
 
 </div>
 
@@ -302,17 +233,17 @@ Eさんが最も後悔していたのは「もっと早く専門家に相談す�
 
 <strong>関連記事</strong>
 
-- <a href="/guide/kaitori-jirei-10sen">訳あり不動産の買取実績10選——相続・再建築不可・事故物件・共有持分・空き家の解決事例集</a>
-- <a href="/guide/jiko-bukken-kaitori">事故物件 買取・現金化｜最短3日・告知義務あり対応【大阪府・秘密厳守】</a>
-- <a href="/guide/souzoku-jirei-01-akiya-3nen">【体験談01】実家を空き家にして3年。管理不全通知が届いて決断した売却の全記録</a>
-- <a href="/guide/parent-death-house">親が亡くなったあと実家はどうする？——相続・売却・空き家のロードマップ</a>
-- <a href="/guide/inheritance-sale-timeline">相続不動産の売却タイムライン——査定から決済まで何日かかるか</a>
+- <a href="/guide/osaka-city-yakuari-kaitori/">大阪市の訳あり物件の買取</a>
+- <a href="/guide/jiko-bukken-hub/">事故物件 買取・現金化｜最短3日・告知義務あり対応【大阪府・秘密厳守】</a>
+- <a href="/guide/souzoku-jirei-01-akiya-3nen/">【相続物件 参考例・事例01】実家を空き家にして3年。市から「管理不全」予備通知が届いて決断した売却のケース</a>
+- <a href="/guide/parent-death-house/">親が亡くなったあと実家はどうする？——相続・売却・空き家のロードマップ</a>
+- <a href="/guide/inheritance-sale-timeline/">相続不動産の売却タイムライン——査定から決済まで何日かかるか</a>
 
 ## 関連するガイド記事
 
-- <a href="/guide/souzoku-apart-kanzen-guide">相続アパートを手放したい方へ｜売却の流れ・税金・失敗しない判断基準を宅建業者が完全解説【2026年最新】</a>
-- <a href="/guide/souzoku-hub">相続不動産 完全ハブ｜処分・売却・登記・固定資産税・事例まで全ガイドをまとめて確認【2026年版】</a>
-- <a href="/guide/souzoku-fudosan-shippai-3jirei">相続不動産の売却で失敗した3事例｜買取で解決した比較と5問リスク診断</a>
-- <a href="/guide/akiya-shobun-5-hikaku">空き家処分の5大選択肢を徹底比較【2026年版】費用・期間・手残り額</a>
-- <a href="/guide/kyouyuu-mochibun-hub">共有持分 完全ハブ｜売却・買取・トラブル解決・相場まで全ガイドまとめ【2026年版】</a>
+- <a href="/guide/souzoku-apart-kanzen-guide/">相続アパートを手放したい方へ｜売却の流れ・税金・失敗しない判断基準を宅建業者が完全解説【2026年最新】</a>
+- <a href="/guide/parent-death-house/">相続した家の売り方と手続き</a>
+- <a href="/guide/souzoku-fudosan-shippai-3jirei/">相続不動産の売却で失敗した3事例｜買取で解決した比較と5問リスク診断</a>
+- <a href="/guide/akiya-shobun-5-hikaku/">空き家処分の5大選択肢を徹底比較【2026年版】費用・期間・手残り額</a>
+- <a href="/guide/kyouyuu-mochibun-kaitori/">共有持分の買取・売却方法</a>
 

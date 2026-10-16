@@ -57,9 +57,9 @@ A: <strong>①相続登記（義務化済・3年以内）→②複数業者へ�
 
 <div style="background:#f8f9fa;border:1px solid #dee2e6;border-radius:8px;padding:1rem 1.2rem;margin:1.2rem 0;font-size:0.95rem;">
 <strong>この記事は「まず読む1ページ」の全体ガイドです。特定のテーマを深く知りたい方は専門記事へどうぞ。</strong><br>
-・<strong>いつ売るのがベストか</strong>を詳しく知りたい → <a href="/guide/souzoku-apart-timing">相続アパートの売却タイミング判断基準</a><br>
-・<strong>相続登記の手続き</strong>を詳しく知りたい → <a href="/guide/souzoku-touki-apart-baikyaku">相続登記義務化とアパート売却の手順</a><br>
-・<strong>手放す方法（仲介/買取/管理委託/相続放棄/法人化）を比較したい</strong> → <a href="/guide/souzoku-apart-tewatashi-5houhou">相続アパートを手放す5つの方法</a>
+・<strong>いつ売るのがベストか</strong>を詳しく知りたい → <a href="/guide/souzoku-apart-timing/">相続アパートの売却タイミング判断基準</a><br>
+・<strong>相続登記の手続き</strong>を詳しく知りたい → <a href="/guide/souzoku-touki-apart-baikyaku/">相続登記義務化とアパート売却の手順</a><br>
+・<strong>手放す方法（仲介/買取/管理委託/相続放棄/法人化）を比較したい</strong> → <a href="/guide/souzoku-apart-tewatashi-5houhou/">相続アパートを手放す5つの方法</a>
 </div>
 
 ---
@@ -119,6 +119,17 @@ A: <strong>①相続登記（義務化済・3年以内）→②複数業者へ�
 
 <img src="/images/souzoku-apart-kanzen-guide-documents.jpg" alt="相続アパートの賃貸継続vs売却比較　収支計算書と不動産書類" width="800" height="533" style="width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" />
 
+### 利回りは「表面」と「実質」を分けて見る
+
+家賃収入があるから持っておく、と決める前に、実際に手元に残る額を利回りで確認します。
+
+| 項目 | 計算方法 | 注意点 |
+|------|---------|--------|
+| **表面利回り** | 年間家賃収入 ÷ 物件価格 × 100 | 空室や経費を含まない数字 |
+| **実質利回り** | （年間家賃収入 − 年間経費）÷ 物件価格 × 100 | 実際の手残りに近い数字 |
+
+経費には、固定資産税・都市計画税、管理費、修繕費、空室による家賃の減少が入ります。築年数が古いほど、表面利回りと実質利回りの差は開きやすくなります。
+
 ### 賃貸継続のメリット・デメリット
 
 | 項目 | 内容 |
@@ -140,6 +151,21 @@ A: <strong>①相続登記（義務化済・3年以内）→②複数業者へ�
 | **デメリット** | 売却益に譲渡所得税がかかる（節税特例あり） |
 | **デメリット** | 仲介の場合は売却まで時間がかかる |
 
+### 売却・賃貸継続・管理委託の3択を並べる
+
+管理会社に委託する選択肢を加えると、違いは次のとおりです。
+
+| | 売却 | 賃貸継続（自主管理） | 管理委託 |
+|---|---|---|---|
+| 即時現金 | 売却代金が手元に入る | なし | なし |
+| 毎月の収入 | なし | 家賃収入（満室時） | 家賃収入 − 管理費 |
+| 管理の手間 | なし（売却後） | 大きい | 小さい（委託先が対応） |
+| 修繕リスク | なし（売却後） | オーナー負担 | オーナー負担 |
+| 空室リスク | なし（売却後） | オーナー負担 | オーナー負担 |
+| 向いている物件 | 築古・空室多め・遠方 | 築浅・都心・高稼働 | 遠方・管理が困難 |
+
+管理委託は手間を減らせますが、修繕と空室のリスクはオーナーに残ります。
+
 ### 判断の目安
 
 <strong>以下に1つでも当てはまる場合は、売却を優先的に検討することをおすすめします。</strong>
@@ -150,6 +176,16 @@ A: <strong>①相続登記（義務化済・3年以内）→②複数業者へ�
 - ローン残高が家賃収入を上回っている
 - 相続人が複数いて管理方針の合意が難しい
 - 他に不動産を持っており管理が手に余る
+
+### 相続放棄で手放す場合の注意点
+
+相続放棄は、相続を知った時から原則3か月以内に、家庭裁判所へ申述して行います（民法第915条。申述書に貼る収入印紙は800円）。次の点に注意してください。
+
+- アパートだけを選んで放棄することはできず、預貯金や自宅などを含めた全財産を放棄することになります
+- 放棄すると次の順位の親族に相続が移るため、影響を受ける親族がいないか確認が要ります
+- 放棄の時にアパートを現に占有（管理）していた人は、他の相続人や相続財産清算人に引き渡すまで、自分の財産と同じ注意でその建物を保存する義務が残ります（民法第940条、2023年4月施行の改正）
+
+アパートに資産価値がある場合は、放棄よりも売却のほうが手元に残る額が大きくなります。
 
 ---
 
@@ -170,6 +206,19 @@ A: <strong>①相続登記（義務化済・3年以内）→②複数業者へ�
 例）相続人が3人の場合 → 3,000万円 + 600万円×3 = **4,800万円**が基礎控除
 
 アパートの相続税評価額は「土地（路線価方式）＋建物（固定資産税評価額）」で算出しますが、賃貸中の物件は自用より評価額が低くなります（借地権割合・借家権割合の控除）。
+
+### 持っている間にかかる固定資産税・都市計画税
+
+売らずに持ち続ける間は、毎年1月1日時点の所有者に固定資産税と都市計画税がかかります。計算の考え方は次のとおりです（税率は標準税率。自治体により異なります）。
+
+| 項目 | 計算方法 | 仮の数字での年額 |
+|------|---------|----------------|
+| 土地の固定資産税 | 評価額 × 1/6（小規模住宅用地の特例）× 1.4% | 評価額2,000万円で約4.7万円 |
+| 建物の固定資産税 | 評価額 × 1.4% | 評価額400万円で約5.6万円 |
+| 土地の都市計画税 | 評価額 × 1/3（小規模住宅用地の特例）× 0.3% | 評価額2,000万円で約2.0万円 |
+| 建物の都市計画税 | 評価額 × 0.3% | 評価額400万円で約1.2万円 |
+
+評価額はあくまで説明用の仮の数字です。実際の額は毎年届く納税通知書で確認してください。建物を解体して更地にすると住宅用地の特例が外れ、土地の固定資産税が上がります。出典：地方税法第349条の3の2、第702条の3（確認日：2026年10月12日）。
 
 ### 売却時の税金（譲渡所得税）
 
@@ -267,37 +316,36 @@ A: <strong>①相続登記（義務化済・3年以内）→②複数業者へ�
 
 ### 相続アパート関連
 
-- [相続アパートの買取｜管理できない入居者付きアパートも直接買取](/guide/souzoku-apart-kaitori)
-- [相続アパートの買取｜収益計算・管理リスク・売却方法](/guide/inherited-apartment-buyout)
-- [相続アパートはいつ売るべき？売却タイミングの判断基準](/guide/souzoku-apart-timing)
-- [相続発生から10ヶ月でやること完全タイムライン](/guide/souzoku-apart-10months-timeline)
-- [相続アパートの維持費シミュレーション（10年試算）](/guide/souzoku-apart-cost-simulation)
-- [入居者がいるアパートの売却方法](/guide/nyukyosha-apart-baikyaku)
-- [相続アパート管理できない｜放置した場合の年間コスト実例3件と早期解決策](/guide/souzoku-apart-kanri-dekinai-houchi-cost)
-- [相続アパートのサブリース解約｜難しさと売却という選択肢](/guide/souzoku-apart-sublease-kaiyaku-baikyaku)
-- [相続アパートの修繕積立がゼロ｜大規模修繕の前に売却すべきかの判断基準](/guide/souzoku-apart-shuzen-tsumitate-zero)
-- [相続登記の義務化でアパート売却はどう変わる？](/guide/souzoku-touki-apart-baikyaku)
-- [相続アパート「売る・貸す・管理委託する」三択を徹底比較（10年・20年手取りシミュレーター付き）](/guide/souzoku-apart-baikyaku-vs-chintai-vs-kanri)
-- [共有持分の買取｜相続アパートで共有名義になった場合の解決策](/guide/kyouyuu-mochibun-kaitori)
-- [特定空き家に指定される前に確認｜固定資産税6倍化の判定チェックリストと5ステップ回避策](/guide/tokutei-akiya-hantei-checklist)
+- [相続アパートの買取｜収益計算・管理リスク・売却方法](/guide/inherited-apartment-buyout/)
+- [相続アパートはいつ売るべき？売却タイミングの判断基準](/guide/souzoku-apart-timing/)
+- [相続発生から10ヶ月でやること完全タイムライン](/guide/souzoku-apart-10months-timeline/)
+- [相続アパートの維持費シミュレーション（10年試算）](/guide/souzoku-apart-cost-simulation/)
+- [入居者がいるアパートの売却方法](/guide/souzoku-apart-owner-change-shokei/)
+- [相続アパート管理できない｜放置した場合の年間コスト試算例3件と早期解決策](/guide/souzoku-apart-kanri-dekinai-houchi-cost/)
+- [相続アパートのサブリース解約｜難しさと売却という選択肢](/guide/souzoku-apart-sublease-kaiyaku-baikyaku/)
+- [相続アパートの修繕積立がゼロ｜大規模修繕の前に売却すべきかの判断基準](/guide/souzoku-apart-shuzen-tsumitate-zero/)
+- [相続登記の義務化でアパート売却はどう変わる？](/guide/souzoku-touki-apart-baikyaku/)
+- [相続アパート「売る・貸す・管理委託する」三択を徹底比較（10年・20年手取りシミュレーター付き）](/guide/souzoku-apart-baikyaku-vs-chintai-vs-kanri/)
+- [共有持分の買取｜相続アパートで共有名義になった場合の解決策](/guide/kyouyuu-mochibun-kaitori/)
+- [特定空き家に指定される前に確認｜固定資産税6倍化の判定チェックリストと5ステップ回避策](/guide/tokutei-akiya-hantei-checklist/)
 
 ### 相続・税金・手続き
 
-- [相続から売却完了までのタイムライン](/guide/inheritance-sale-timeline)
-- [相続した不動産を売却する完全ガイド](/guide/inheritance-sale)
-- [相続税はいくらから？基礎控除の計算方法](/guide/inheritance-tax-basics)
-- [不動産を売った時の税金はいくら？](/guide/selling-tax-guide)
-- [相続登記の義務化はいつから？罰則と対策](/guide/inheritance-registry)
-- [相続放棄したら家はどうなる？](/guide/inheritance-abandon)
+- [相続から売却完了までのタイムライン](/guide/inheritance-sale-timeline/)
+- [相続した不動産を売却する完全ガイド](/guide/parent-death-house/)
+- [相続税はいくらから？基礎控除の計算方法](/guide/inheritance-tax-basics/)
+- [不動産を売った時の税金はいくら？](/guide/souzoku-jouto-shotokuzei-5nen-kisanbi/)
+- [相続登記の義務化はいつから？罰則と対策](/guide/inheritance-registry-neglect-sale-3options/)
+- [相続放棄したら家はどうなる？](/guide/inheritance-abandon/)
 
 ### エリア別の買取相場
 
-- [大阪市の不動産買取相場（生野区・城東区・東成区など全24区）](/area/osaka-ikuno)
-- [横浜市の不動産買取相場](/area/yokohama-city)
-- [名古屋市の不動産買取相場](/area/nagoya-city)
-- [福岡市の不動産買取相場](/area/fukuoka-city)
-- [札幌市の不動産買取相場](/area/sapporo-city)
-- [さいたま市の不動産買取相場](/area/saitama-city)
+- [大阪市の不動産買取相場（生野区・城東区・東成区など全24区）](/area/osaka-ikuno/)
+- [横浜市の不動産買取相場](/area/yokohama-city/)
+- [名古屋市の不動産買取相場](/area/nagoya-city/)
+- [福岡市の不動産買取相場](/area/fukuoka-city/)
+- [札幌市の不動産買取相場](/area/sapporo-city/)
+- [さいたま市の不動産買取相場](/area/saitama-city/)
 
 ---
 
@@ -373,7 +421,7 @@ A: 築30年以上・空室率50%以上・旧耐震基準・遠方管理のいず
 |-----------------|--------|-------------|
 | **3ヶ月以内** | 相続放棄の申立て（家庭裁判所） | 期限超過で放棄不可・負債も引き継ぐ |
 | **4ヶ月以内** | 準確定申告（被相続人に賃料収入があった場合） | 無申告加算税・延滞税が発生 |
-| **10ヶ月以内** | 相続税の申告・納付 | 延滞税（年2.4〜8.7%）・無申告加算税が発生 |
+| **10ヶ月以内** | 相続税の申告・納付 | 延滞税（令和8年は年2.8〜9.1%・毎年改定）・無申告加算税が発生 |
 | **相続を知った日から3年以内** | 相続登記（2024年4月1日から義務化） | 10万円以下の過料（罰則） |
 | **相続発生から3年10ヶ月以内** | 取得費加算の特例を使って売却完了 | 節税特例が失効。譲渡税が数百万円増える場合も |
 | **売却翌年の2月16日〜3月15日** | 譲渡所得税の確定申告 | 無申告加算税・延滞税が発生 |
@@ -396,26 +444,26 @@ A: 築30年以上・空室率50%以上・旧耐震基準・遠方管理のいず
 ## 相続アパート関連ガイド
 
 <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:1rem;margin:1.5rem 0;">
-  <a href="/guide/souzoku-apart-kaitori" style="display:block;background:#f0f7ff;border:2px solid #1a56db;border-radius:8px;padding:1rem;text-decoration:none;color:#1a3a5c;font-weight:bold;">
-    ▶ 相続アパートの買取（ハブページ）<br><span style="font-size:0.8rem;font-weight:normal;color:#1a56db;">入居者付き・老朽化でも最短2週間で現金化</span>
-  </a>
-  <a href="/guide/souzoku-apart-cost-simulation" style="display:block;background:#f8f9fa;border:1px solid #dee2e6;border-radius:8px;padding:1rem;text-decoration:none;color:#1a3a5c;font-weight:bold;">
+  <a href="/guide/souzoku-apart-cost-simulation/" style="display:block;background:#f8f9fa;border:1px solid #dee2e6;border-radius:8px;padding:1rem;text-decoration:none;color:#1a3a5c;font-weight:bold;">
     相続アパートのコストシミュレーション<br><span style="font-size:0.8rem;font-weight:normal;color:#666;">維持費・売却益・税金を試算</span>
   </a>
-  <a href="/guide/souzoku-apart-timing" style="display:block;background:#f8f9fa;border:1px solid #dee2e6;border-radius:8px;padding:1rem;text-decoration:none;color:#1a3a5c;font-weight:bold;">
+  <a href="/guide/souzoku-apart-timing/" style="display:block;background:#f8f9fa;border:1px solid #dee2e6;border-radius:8px;padding:1rem;text-decoration:none;color:#1a3a5c;font-weight:bold;">
     相続アパートの売却タイミング<br><span style="font-size:0.8rem;font-weight:normal;color:#666;">いつ売るべきか判断基準を解説</span>
   </a>
-  <a href="/guide/souzoku-apart-baikyaku-vs-chintai-vs-kanri" style="display:block;background:#f8f9fa;border:1px solid #dee2e6;border-radius:8px;padding:1rem;text-decoration:none;color:#1a3a5c;font-weight:bold;">
+  <a href="/guide/souzoku-apart-baikyaku-vs-chintai-vs-kanri/" style="display:block;background:#f8f9fa;border:1px solid #dee2e6;border-radius:8px;padding:1rem;text-decoration:none;color:#1a3a5c;font-weight:bold;">
     売却vs賃貸継続vs管理委託 比較<br><span style="font-size:0.8rem;font-weight:normal;color:#666;">3択の損得を数字で徹底比較</span>
   </a>
-  <a href="/guide/akiya-koteishisanzei-simulator" style="display:block;background:#f8f9fa;border:1px solid #dee2e6;border-radius:8px;padding:1rem;text-decoration:none;color:#1a3a5c;font-weight:bold;">
+  <a href="/guide/akiya-koteishisanzei-simulator/" style="display:block;background:#f8f9fa;border:1px solid #dee2e6;border-radius:8px;padding:1rem;text-decoration:none;color:#1a3a5c;font-weight:bold;">
     固定資産税・維持費シミュレーター<br><span style="font-size:0.8rem;font-weight:normal;color:#666;">アパートの年間維持コストを無料試算</span>
   </a>
 </div>
 
 ## 関連するガイド記事
 
-- <a href="/guide/souzoku-hub">相続不動産 完全ハブ｜処分・売却・登記・固定資産税まで全ガイドをまとめて確認【2026年版】</a>
+- <a href="/guide/parent-death-house/">相続した家の売り方と手続き</a>
+- <a href="/guide/apart-tachinokiryo-souba/">アパートの立退き料相場</a>
+- <a href="/guide/souzoku-apart-tebanashitai-flowchart/">貸す・売る・管理委託の判断フローチャート</a>
+- <a href="/guide/chihou-souzoku-apart-baikyaku/">地方の相続アパートが売れない理由</a>
 
 ## まとめ：相続アパートは「早めの相談」が最善策
 
@@ -436,6 +484,6 @@ A: 築30年以上・空室率50%以上・旧耐震基準・遠方管理のいず
   <p style="margin-bottom:1rem;">査定・相談は完全無料。仲介手数料なし。大阪・近畿対応。</p>
   <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06c755;color:white;padding:0.8rem 2rem;border-radius:4px;font-weight:bold;font-size:1.1rem;text-decoration:none;margin-bottom:0.5rem;">LINEで無料相談する</a>
   <p style="margin:0.5rem 0;font-size:0.9rem;">または</p>
-  <a href="/contact" style="display:inline-block;background:#1a56db;color:white;padding:0.8rem 2rem;border-radius:4px;font-weight:bold;font-size:1.1rem;text-decoration:none;">お問い合わせフォームへ</a>
+  <a href="/contact/" style="display:inline-block;background:#1a56db;color:white;padding:0.8rem 2rem;border-radius:4px;font-weight:bold;font-size:1.1rem;text-decoration:none;">お問い合わせフォームへ</a>
   <p style="margin-top:1rem;font-size:0.85rem;color:#666;">宅建業免許：大阪府知事(1)第65646号　合同会社アルシェ</p>
 </div>

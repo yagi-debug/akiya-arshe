@@ -36,7 +36,9 @@ updatedDate: "2026-09-07"
 > **TL;DR — 相続税10ヶ月期限が迫っている場合の要点**
 > 相続税の申告・納付期限は<strong>相続開始を知った日の翌日から10ヶ月以内</strong>（相続税法第27条）。不動産を売って納税資金を確保したい場合、<strong>仲介は3〜12ヶ月かかるためリスク大</strong>。<strong>買取業者なら最短7日〜3週間</strong>で現金化できます。間に合わない場合は<strong>延納（最長20年・要申請）</strong>か<strong>物納（要件厳しい）</strong>という選択肢があります。宅建業免許: 大阪府知事(1)第65646号の専門業者が大阪・近畿対応・無料査定。
 
-「相続税の申告期限が迫っているのに、不動産がなかなか売れない」「期限を過ぎたらどうなるのか不安」——そのようなご相談を多くいただきます。
+「相続税の申告期限が迫っているのに、不動産がなかなか売れない」「期限を過ぎたらどうなるのか不安」——そのようなご相談もお受けしています。
+
+このテーマの全体像は[相続した家の売り方と手続き](/guide/parent-death-house/)にまとめています。
 
 相続税の申告・納付期限は<strong>「10ヶ月以内」</strong>と定められています。この期限を守るには、不動産の現金化をどの方法で進めるかが最大のポイントです。
 
@@ -209,11 +211,11 @@ updatedDate: "2026-09-07"
 
 ## 関連する記事
 
-- <a href="/guide/inheritance-tax-basics">相続税はいくらから？基礎控除の計算方法</a>
-- <a href="/guide/souzoku-apart-10months-timeline">相続アパート処分の10ヶ月タイムライン</a>
-- <a href="/guide/souzoku-fudosan-urikata-5pattern">相続不動産の売却方法5パターン比較</a>
-- <a href="/guide/souzoku-fudosan-shobun-5-pattern">相続不動産の処分方法5パターン完全比較</a>
-- <a href="/guide/souzoku-hub">相続不動産 完全ハブ</a>
+- <a href="/guide/inheritance-tax-basics/">相続税はいくらから？基礎控除の計算方法</a>
+- <a href="/guide/souzoku-apart-10months-timeline/">相続アパート処分の10ヶ月タイムライン</a>
+- <a href="/guide/souzoku-fudosan-urikata-5pattern/">相続不動産の売却方法5パターン比較</a>
+- <a href="/guide/souzoku-fudosan-shobun-5-pattern/">相続不動産の処分方法5パターン完全比較</a>
+- <a href="/guide/parent-death-house/">相続した家の売り方と手続き</a>
 
 ---
 
@@ -227,7 +229,6 @@ updatedDate: "2026-09-07"
 
 「空き家のミカタ」を友だち追加してください
 
-<a href="/contact" style="display:inline-block;border:2px solid rgba(255,255,255,0.4);color:#fff;padding:0.5rem 1.5rem;border-radius:8px;font-weight:bold;text-decoration:none;margin-top:0.5rem;">フォームで相談する</a>
+<a href="/contact/" style="display:inline-block;border:2px solid rgba(255,255,255,0.4);color:#fff;padding:0.5rem 1.5rem;border-radius:8px;font-weight:bold;text-decoration:none;margin-top:0.5rem;">フォームで相談する</a>
 
 </section>
-- <a href="/guide/souzoku-hub">相続不動産 完全ハブ｜処分・売却・登記・固定資産税まで全ガイドをまとめて確認【2026年版】</a>

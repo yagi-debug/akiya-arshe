@@ -144,14 +144,14 @@ A: できます。物件の規模と状態を確かめて、当社がそのま�
 | 確かめること | 主な理由 | くわしいページ |
 |---|---|---|
 | 名義（個人・会社・共有・相続の登記がまだ） | 売主になる人と、必要な手続きが変わる | ― |
-| 用途地域 | 住宅を建てられる土地かどうかで、買い手が変わる | <a href="/guide/machikoba-baikyaku">町工場の売却</a> |
-| 前の道の幅、大きなトラックが入れるか | 倉庫や工場として使えるかに関わる | <a href="/guide/furui-souko-baikyaku">古い倉庫の売却</a> |
+| 用途地域 | 住宅を建てられる土地かどうかで、買い手が変わる | <a href="/guide/machikoba-baikyaku/">町工場の売却</a> |
+| 前の道の幅、大きなトラックが入れるか | 倉庫や工場として使えるかに関わる | <a href="/guide/furui-souko-baikyaku/">古い倉庫の売却</a> |
 | 建物の構造と建てた年 | 使い続けられるか、建て替えかの判断に関わる | ― |
 | 借主がいるか | 借主がいるまま売るかどうか | ― |
 | 機械・材料・在庫・薬品が残っているか | 片付けの段取りと費用に関わる | ― |
-| 土壌汚染のおそれがある使い方をしていたか | 調査が必要になる場合がある | <a href="/guide/dojo-osen-souzoku-baikyaku">土壌汚染のある不動産の売却</a> |
-| アスベストを使った建材 | 解体や改修の費用に関わる | <a href="/guide/asbestos-souzoku-baikyaku">アスベストを含む建物の売却</a> |
-| 根抵当権・事業の借入 | 売る前に金融機関と扱いを決める | <a href="/guide/ne-teito-souzoku-baikyaku">根抵当権が付いた不動産の売却</a> |
+| 土壌汚染のおそれがある使い方をしていたか | 調査が必要になる場合がある | <a href="/guide/dojo-osen-souzoku-baikyaku/">土壌汚染のある不動産の売却</a> |
+| アスベストを使った建材 | 解体や改修の費用に関わる | <a href="/guide/asbestos-souzoku-baikyaku/">アスベストを含む建物の売却</a> |
+| 根抵当権・事業の借入 | 売る前に金融機関と扱いを決める | <a href="/guide/ne-teito-souzoku-baikyaku/">根抵当権が付いた不動産の売却</a> |
 | 登記されていない増築や建物 | 登記を整えるかどうか | ― |
 
 用途地域は、国土交通省の「不動産情報ライブラリ」の地図で調べられます。
@@ -174,22 +174,22 @@ A: できます。物件の規模と状態を確かめて、当社がそのま�
 ## 建物の種類別のくわしいページ
 
 <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:1rem;margin:1.5rem 0;">
-  <a href="/guide/tenpo-tsuki-jutaku-baikyaku" style="display:block;background:#f8f9fa;border:1px solid #dee2e6;border-radius:8px;padding:1rem;text-decoration:none;color:#1a3a5c;font-weight:bold;">
+  <a href="/guide/tenpo-tsuki-jutaku-baikyaku/" style="display:block;background:#f8f9fa;border:1px solid #dee2e6;border-radius:8px;padding:1rem;text-decoration:none;color:#1a3a5c;font-weight:bold;">
     店舗付き住宅を売りたい<br><span style="font-size:0.8rem;font-weight:normal;color:#666;">店を閉めた後の順番・3,000万円控除・1階を貸している場合</span>
   </a>
-  <a href="/guide/machikoba-baikyaku" style="display:block;background:#f8f9fa;border:1px solid #dee2e6;border-radius:8px;padding:1rem;text-decoration:none;color:#1a3a5c;font-weight:bold;">
+  <a href="/guide/machikoba-baikyaku/" style="display:block;background:#f8f9fa;border:1px solid #dee2e6;border-radius:8px;padding:1rem;text-decoration:none;color:#1a3a5c;font-weight:bold;">
     町工場・工場跡地を売りたい<br><span style="font-size:0.8rem;font-weight:normal;color:#666;">廃業や相続の後の順番・機械や廃液・土壌汚染の確認</span>
   </a>
-  <a href="/guide/furui-souko-baikyaku" style="display:block;background:#f8f9fa;border:1px solid #dee2e6;border-radius:8px;padding:1rem;text-decoration:none;color:#1a3a5c;font-weight:bold;">
+  <a href="/guide/furui-souko-baikyaku/" style="display:block;background:#f8f9fa;border:1px solid #dee2e6;border-radius:8px;padding:1rem;text-decoration:none;color:#1a3a5c;font-weight:bold;">
     古い倉庫・作業場を売りたい<br><span style="font-size:0.8rem;font-weight:normal;color:#666;">値段の決まり方・中に物が残る倉庫・登記がない倉庫</span>
   </a>
 </div>
 
 ## 関連する売却ガイド
 
-- <a href="/guide/dojo-osen-souzoku-baikyaku">土壌汚染のある相続不動産の売却方法</a>
-- <a href="/guide/asbestos-souzoku-baikyaku">アスベスト含有建物を相続したら？売却方法・解体費用・告知義務</a>
-- <a href="/guide/ne-teito-souzoku-baikyaku">根抵当権が付いた不動産を相続したら？抹消・売却・買取の手順</a>
+- <a href="/guide/dojo-osen-souzoku-baikyaku/">土壌汚染のある相続不動産の売却方法</a>
+- <a href="/guide/asbestos-souzoku-baikyaku/">アスベスト含有建物を相続したら？売却方法・解体費用・告知義務</a>
+- <a href="/guide/ne-teito-souzoku-baikyaku/">根抵当権が付いた不動産を相続したら？抹消・売却・買取の手順</a>
 
 ## よくある質問
 
@@ -237,10 +237,14 @@ A: できます。物件の規模と状態を確かめて、当社がそのま�
 
 できます。使っていた薬品や業種を、分かる範囲で教えてください。有害物質を使う特定施設の使用をやめた工場の土地では、法律で調査と報告が必要になる場合があります（土壌汚染対策法3条）。当てはまるかどうかは、物件のある都道府県や市の担当窓口で確かめられます。
 
+## 関連する記事
+
+- [相続した店舗・テナントビルの手放し方](/guide/inherited-commercial-building-disposal/)
+
 ## 工場・倉庫・店舗付き住宅のご相談
 
 所在地（町名まで）と建物の種類だけでも大丈夫です。売るかどうか決まっていなくても構いません。ご相談は無料です。
 
 <strong><a href="https://line.arshe1719.workers.dev/auth/line?ref=biz-hub">工場・倉庫・店舗付き住宅の相談をLINEで送る</a></strong>
 
-<a href="/contact">フォームで相談する</a>
+<a href="/contact/">フォームで相談する</a>

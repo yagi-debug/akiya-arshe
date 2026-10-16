@@ -29,6 +29,8 @@ faqs:
 
 「査定の依頼をしたら断られた」「買取不可と言われた」「何社に相談しても同じ答えしか返ってこない」——相続した物件や訳ありの不動産を手放したい方から、こうした相談をよくいただきます。
 
+関連する内容は[不動産会社の断り文句の逆引き](/guide/kotowarareta-riyu-gyakubiki/)で詳しく解説しています。
+
 「もう売れないのだろうか」と諦めそうになっている方に、まずお伝えしたいことがあります。<strong>不動産会社に断られた理由の多くは「その業者に売るルートがない」「手間がかかりすぎる」という業者側の都合</strong>であり、物件そのものが売れない理由ではありません。
 
 この記事では、一般の仲介業者が断る理由の構造を整理し、断られた後でも物件を手放せる5つの解決策を具体的に解説します。
@@ -192,11 +194,10 @@ faqs:
 
 ## 関連するガイド記事
 
-- <a href="/guide/kaitori-jirei-10sen">訳あり不動産の買取実績10選｜相続・再建築不可・事故物件・共有持分・空き家の解決事例集</a>
-- <a href="/guide/kaitori-jirei">訳あり不動産の買取事例5選｜相続アパート・再建築不可・事故物件の解決ストーリー</a>
-- <a href="/guide/okyakusama-no-koe-3jirei">「空き家のミカタに相談してよかった」訳あり物件を手放した3名のリアルな声</a>
-- <a href="/guide/jiko-bukken-hub">事故物件 完全ハブ｜買取・告知義務・心理的瑕疵・価格相場まで全ガイドまとめ【2026年版】</a>
-- <a href="/guide/kyouyuu-mochibun-hub">共有持分 完全ハブ｜売却・買取・トラブル解決・相場まで全ガイドまとめ【2026年版】</a>
+- <a href="/guide/osaka-city-yakuari-kaitori/">大阪市の訳あり物件の買取</a>
+- <a href="/guide/okyakusama-no-koe-3jirei/">訳あり物件を手放した方の声（参考例）｜相続空き家・再建築不可・相続アパート3選</a>
+- <a href="/guide/jiko-bukken-hub/">事故物件 完全ハブ｜買取・告知義務・心理的瑕疵・価格相場まで全ガイドまとめ【2026年版】</a>
+- <a href="/guide/kyouyuu-mochibun-kaitori/">共有持分の買取・売却方法</a>
 
 ## まとめ：断られた後の5ステップ行動プラン
 
@@ -214,5 +215,5 @@ faqs:
 <p style="font-weight:bold;margin:0 0 0.5rem;">「断られた物件」の無料相談はこちら</p>
 <p style="margin:0 0 1rem;">当社（空き家のミカタ）は、大阪府知事(1)第65646号の宅建業者として、他社に断られた訳あり物件の直接買取を行っています。再建築不可・事故物件・共有持分・相続アパート・老朽化物件など、ほとんどの訳あり物件に対応可能です。「どこに相談しても断られる」という方こそ、お気軽にご相談ください。査定・相談は完全無料、費用は一切かかりません。</p>
 <p style="margin:0.5rem 0;"><a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="background:#06c755;color:#fff;padding:0.6rem 1.4rem;border-radius:6px;text-decoration:none;font-weight:bold;display:inline-block;">LINEで無料相談（24時間受付）</a></p>
-<p style="margin:0.5rem 0;"><a href="/contact" style="background:#2563eb;color:#fff;padding:0.6rem 1.4rem;border-radius:6px;text-decoration:none;font-weight:bold;display:inline-block;">お問い合わせフォームから相談する</a></p>
+<p style="margin:0.5rem 0;"><a href="/contact/" style="background:#2563eb;color:#fff;padding:0.6rem 1.4rem;border-radius:6px;text-decoration:none;font-weight:bold;display:inline-block;">お問い合わせフォームから相談する</a></p>
 </div>

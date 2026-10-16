@@ -2,6 +2,7 @@
 title: "空き家の固定資産税が最大6倍に｜1分でわかる6倍化チェックと大阪市・堺市の指定基準・3つの回避策比較【2026年最新】"
 description: "空き家を放置すると固定資産税が最大6倍になります。大阪市・堺市の特定空き家指定の実際の運用基準、6倍化対象か1分でわかる診断フロー、売却・賃貸・解体の費用・期間・手取り額比較表を宅建業者が解説。2023年法改正対応版。"
 publishDate: "2026-01-22"
+noindex: true
 updatedDate: "2026-09-07"
 author: "八木宏樹（合同会社アルシェ代表）"
 heroImage: "/images/vacancy-tax-6times-hero.jpg"
@@ -40,6 +41,8 @@ A: 空き家が「特定空き家」または「管理不全空き家」に指�
 > <strong>空き家を放置すると固定資産税が最大6倍になります。</strong>「特定空き家」に指定されると住宅用地の固定資産税の特例（課税標準額を最大6分の1に軽減する措置）が解除されるためです。2023年12月の法改正で「管理不全空き家」制度が新設され、指定のハードルが下がりました。土地と建物の合計で見た実質的な税負担増は最大4.2倍程度ですが、土地のみに限れば最大6倍になります。早期の売却・活用が最も有効な回避策です。
 
 空き家を放置して<strong>「特定空き家」</strong>に指定されると、住宅用地の固定資産税の特例（最大6分の1の軽減措置）が解除されます。その結果、<strong>固定資産税が最大6倍</strong>に跳ね上がります。さらに2023年の法改正で<strong>「管理不全空き家」</strong>も特例解除の対象に加わり、指定のハードルが下がりました。
+
+このテーマの全体像は[空き家の固定資産税6倍化の回避策](/guide/akiya-koteishisanzei-6bai-hikaku/)にまとめています。
 
 この記事では、6倍化の対象になるかどうかを確認する診断フロー、大阪市・堺市の実際の運用事例、そして売却・賃貸・解体の3択を費用・期間・手取り額で比較した表をお伝えします。
 
@@ -280,7 +283,7 @@ A: 空き家が「特定空き家」または「管理不全空き家」に指�
 
 - <strong>大阪市空家等対策推進室</strong>：06-6882-7053
 - <strong>各区役所の空家相談窓口</strong>：区ごとに対応
-- <strong>大阪市空家利活用改修補助事業</strong>：リフォームに最大<strong>75万円</strong>の補助金（<a href="/guide/osaka-akiya-subsidy">大阪市の空き家補助金制度の詳細はこちら</a>）
+- <strong>大阪市空家利活用改修補助事業</strong>：リフォームに最大<strong>75万円</strong>の補助金（<a href="/guide/osaka-akiya-subsidy/">大阪市の空き家補助金制度の詳細はこちら</a>）
 
 **堺市の場合**
 
@@ -322,17 +325,17 @@ A: 空き家が「特定空き家」または「管理不全空き家」に指�
 
 **お問い合わせフォームからのご相談**
 
-<a href="/contact" style="display:inline-block;background:#1a56db;color:#fff;font-weight:bold;padding:14px 32px;border-radius:8px;text-decoration:none;font-size:1.05rem;margin:8px 4px;">お問い合わせフォームを開く</a>
+<a href="/contact/" style="display:inline-block;background:#1a56db;color:#fff;font-weight:bold;padding:14px 32px;border-radius:8px;text-decoration:none;font-size:1.05rem;margin:8px 4px;">お問い合わせフォームを開く</a>
 
 ---
 
 ## 関連する記事
 
-- <a href="/guide/vacant-house">空き家をどうする？売却・活用・解体の選択肢</a>
-- <a href="/guide/osaka-akiya-subsidy">大阪市の空き家対策と補助金制度</a>
-- <a href="/guide/akiya-koteishisanzei-6bai-hikaku">空き家固定資産税6倍化の回避策と売却タイミング徹底比較</a>
-- <a href="/guide/tokutei-akiya-hantei-checklist">特定空き家に指定される前に確認｜固定資産税6倍化の判定チェックリストと5ステップ回避策</a>
-- <a href="/guide/akiya-koteishisanzei-tainou-sashibsae">固定資産税を滞納するとどうなる？差押えまでの流れと4つの対処法【2026年版】</a>
+- <a href="/guide/akiya-shobun-5-hikaku/">空き家をどうする？売却・活用・解体の選択肢</a>
+- <a href="/guide/osaka-akiya-subsidy/">大阪市の空き家対策と補助金制度</a>
+- <a href="/guide/akiya-koteishisanzei-6bai-hikaku/">空き家固定資産税6倍化の回避策と売却タイミング徹底比較</a>
+- <a href="/guide/tokutei-akiya-hantei-checklist/">特定空き家に指定される前に確認｜固定資産税6倍化の判定チェックリストと5ステップ回避策</a>
+- <a href="/guide/akiya-koteishisanzei-tainou-sashibsae/">固定資産税を滞納するとどうなる？差押えまでの流れと4つの対処法【2026年版】</a>
 
 ---
 

@@ -46,62 +46,16 @@ updatedDate: "2026-09-07"
 }
 </script>
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "洪水浸水想定区域の不動産は売れますか？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "売れます。ただし2020年の宅建業法改正で水害リスクの告知が義務化されたため、重要事項説明で浸水想定区域の指定を必ず伝える必要があります。一般仲介では住宅ローンが通りにくく売れ残りやすいですが、訳あり買取専門業者なら現況のまま対応できます。"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "洪水浸水想定区域かどうかはどうやって調べますか？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "国土交通省の「重ねるハザードマップ」（disaportal.gsi.go.jp）で住所を入力するだけで確認できます。各市区町村が発行するハザードマップでも確認可能です。"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "過去に浸水被害を受けた物件でも買取してもらえますか？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "はい、対応しています。過去に床上・床下浸水の履歴がある物件でも、現況のまま査定・買取します。浸水履歴は告知義務があるため、隠さずにお伝えいただいて問題ありません。"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "水害リスクの告知義務を怠るとどうなりますか？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "宅建業者が仲介する場合は宅建業法違反となり行政処分の対象になります。個人間売買でも、民法上の契約不適合責任に基づく損害賠償請求・契約解除を求められるリスクがあります。"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "相続した物件で相続登記が終わっていませんが相談できますか？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "相談・査定は可能です。売買契約には相続登記の完了が必要ですが、事前相談は未登記でも構いません。提携司法書士のご紹介もできるため、登記と売却を同時進行で進めることができます。"
-      }
-    }
-  ]
-}
-</script>
 
-<a href="/guide/kozui-shinsu-soteiku-baikyaku">洪水浸水想定区域の不動産売却ガイド</a>
+<a href="/guide/kozui-shinsu-soteiku-baikyaku/">洪水浸水想定区域の不動産売却ガイド</a>
 
 ---
 
 ![浸水被害を受けた住宅街。洪水浸水想定区域に指定される河川沿いや低地の物件は一般仲介では売れにくい](/images/kozui-shinsu-soteiku-hero.jpg)
 
 「ハザードマップを見たら、自分の家が洪水浸水想定区域に入っていた。この不動産、売れるのだろうか…」
+
+このテーマの全体像は[大阪市の訳あり物件の買取](/guide/osaka-city-yakuari-kaitori/)にまとめています。
 
 相続した実家を処分しようとして、はじめてハザードマップを確認したら浸水想定区域に指定されていた——そういったご相談を、私たちはよくお受けします。あるいは売却査定を依頼した不動産会社から「水害リスクがあるので売りにくい」と言われた、という方もいらっしゃいます。
 
@@ -322,11 +276,11 @@ updatedDate: "2026-09-07"
 
 ## 関連するガイド記事
 
-- <a href="/guide/doshasaigai-keikaikuiki-baikyaku">土砂災害警戒区域の不動産を売りたい｜告知義務・建築制限・現況買取の方法</a>
-- <a href="/guide/lp-wakeari-bukken-kaitori">訳あり不動産の買取とは？手続きの流れと仲介との違い</a>
-- <a href="/guide/akiya-tsuyu-risk-baikyaku">梅雨に空き家を放置するリスク｜シロアリ・カビ・雨漏りが資産価値を下げる前に</a>
-- <a href="/guide/akiya-shobun-5-hikaku">空き家処分の5大選択肢を徹底比較【2026年版】費用・期間・手残り額</a>
-- <a href="/guide/kaitori-gyosha-erabikata-checkpoints">訳あり買取業者の選び方｜失敗しない7つのチェックポイント</a>
+- <a href="/guide/doshasaigai-keikaikuiki-baikyaku/">土砂災害警戒区域の不動産を売りたい｜告知義務・建築制限・現況買取の方法</a>
+- <a href="/guide/osaka-city-yakuari-kaitori/">訳あり不動産の買取とは？手続きの流れと仲介との違い</a>
+- <a href="/guide/akiya-tsuyu-risk-baikyaku/">梅雨に空き家を放置するリスク｜シロアリ・カビ・雨漏りが資産価値を下げる前に</a>
+- <a href="/guide/akiya-shobun-5-hikaku/">空き家処分の5大選択肢を徹底比較【2026年版】費用・期間・手残り額</a>
+- <a href="/guide/kaitori-gyosha-erabikata-checkpoints/">訳あり買取業者の選び方｜失敗しない7つのチェックポイント</a>
 
 ---
 
@@ -348,11 +302,11 @@ updatedDate: "2026-09-07"
 
 https://line.arshe1719.workers.dev/auth/line?ref=hp
 
-**お問い合わせフォームはこちら** → [/contact](/contact)
+**お問い合わせフォームはこちら** → [/contact/](/contact/)
 
 ---
 
 関連記事：
-- [訳あり不動産とは？5種類の特徴と売却方法を比較](/guide/wakare-bukken-to-wa)
-- [相続した不動産の売り方 完全ガイド2026年版](/guide/souzoku-fudousan-urikata-kanzen-guide)
-- [仲介業者に断られた不動産、その後にできること](/guide/fudosan-kotowarareta-ato-dekiru-koto)
+- [訳あり不動産とは？5種類の特徴と売却方法を比較](/guide/wakare-bukken-to-wa/)
+- [相続した不動産の売り方 完全ガイド2026年版](/guide/parent-death-house/)
+- [仲介業者に断られた不動産、その後にできること](/guide/fudosan-kotowarareta-ato-dekiru-koto/)

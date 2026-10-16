@@ -348,7 +348,7 @@ faqs:
 
 <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06c755;color:#fff;padding:14px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 4px;">LINE「空き家のミカタ」に相談する（無料）</a>
 
-<a href="/contact" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 4px;">無料査定フォームで相談する</a>
+<a href="/contact/" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 4px;">無料査定フォームで相談する</a>
 
 空き家のミカタは、大阪市生野区に事務所を構える宅地建物取引業者です（大阪府知事(1)第65646号）。大阪市24区の空き家・長屋・再建築不可物件・事故物件・共有持分を専門に扱っており、<strong>荷物が残ったまま・相続登記が未了・共有者と連絡が取れない</strong>状態でも査定にお応えできます。なお、補助金の申請可否の最終判断は大阪市の受付窓口、登記の代理申請は司法書士、相続人間の話し合いがまとまらない場合は弁護士、譲渡所得税・相続税の判断は税理士へご確認ください。担当するのは、その不動産をいくらで、どういう順序で手放せるかの部分です。
 
@@ -356,19 +356,19 @@ faqs:
 
 ## 関連記事
 
-- <a href="/guide/hirano-ku-fudosan-baikyaku-souba-youin">平野区の不動産売却相場を決める4つの要因｜買取相場との割合も公開</a>
-- <a href="/guide/osaka-24ku-kaitori-data-2026">大阪市24区の買取データ2026｜区ごとの価格帯と相談傾向</a>
-- <a href="/guide/osaka-24ku-wakeari-kakakutai-map">大阪市24区 訳あり物件の価格帯マップ</a>
-- <a href="/guide/osaka-akiya-subsidy">大阪市の空き家解体補助金｜上限額・対象条件・申請窓口</a>
-- <a href="/guide/osaka-kaitai-hiyou-kubetsu">大阪市の解体費用を区別に比較</a>
-- <a href="/guide/kaitori-kakaku-naze-yasui-genka">買取価格はなぜ安いのか｜原価の分解</a>
-- <a href="/guide/kaitori-satei-konkyo-gendai-checklist">買取査定の根拠を確かめるチェックリスト</a>
-- <a href="/guide/kaitori-kyohi-tokucho-7">買取を断られる物件の特徴7つ</a>
-- <a href="/guide/rentoushi-nagaya-baikyaku">連棟式建物（長屋）の売却｜仲介で断られたときの選択肢</a>
-- <a href="/guide/2koudouro-setback-baikyaku">2項道路とセットバック｜売却前に知っておくこと</a>
-- <a href="/guide/kyouyuu-mochibun-kaitori">共有持分の買取｜他の共有者の同意なく売れます</a>
-- <a href="/guide/akiya-kaitai-hiyou-haraenai">空き家の解体費用が払えないときの選択肢</a>
-- <a href="/guide/souzoku-akiya-3000man-tokubetsu-kojo">相続空き家の3,000万円特別控除｜使える条件と落とし穴</a>
+- <a href="/guide/hirano-ku-fudosan-baikyaku-souba-youin/">平野区の不動産売却相場を決める4つの要因｜買取相場との割合も公開</a>
+- <a href="/guide/osaka-24ku-kaitori-data-2026/">大阪市24区の買取データ2026｜区ごとの価格帯と相談傾向</a>
+- <a href="/guide/osaka-24ku-wakeari-kakakutai-map/">大阪市24区 訳あり物件の価格帯マップ</a>
+- <a href="/guide/osaka-akiya-subsidy/">大阪市の空き家解体補助金｜上限額・対象条件・申請窓口</a>
+- <a href="/guide/osaka-kaitai-hiyou-kubetsu/">大阪市の解体費用を区別に比較</a>
+- <a href="/guide/kaitori-kakaku-naze-yasui-genka/">買取価格はなぜ安いのか｜原価の分解</a>
+- <a href="/guide/kaitori-satei-konkyo-gendai-checklist/">買取査定の根拠を確かめるチェックリスト</a>
+- <a href="/guide/kaitori-kyohi-tokucho-7/">買取を断られる物件の特徴7つ</a>
+- <a href="/guide/rentoushi-nagaya-baikyaku/">連棟式建物（長屋）の売却｜仲介で断られたときの選択肢</a>
+- <a href="/guide/2koudouro-setback-baikyaku/">2項道路とセットバック｜売却前に知っておくこと</a>
+- <a href="/guide/kyouyuu-mochibun-kaitori/">共有持分の買取｜他の共有者の同意なく売れます</a>
+- <a href="/guide/akiya-kaitai-hiyou-haraenai/">空き家の解体費用が払えないときの選択肢</a>
+- <a href="/guide/souzoku-akiya-3000man-tokubetsu-kojo/">相続空き家の3,000万円特別控除｜使える条件と落とし穴</a>
 
 ---
 

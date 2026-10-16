@@ -128,7 +128,7 @@ faqs:
 
 売却価格は仲介のほうが高くなる可能性がありますが、測量費用（35万〜100万円）・維持管理費・固定資産税の支払いが長引くことを考えると、<strong>手元に残る金額が買取のほうが多くなるケース</strong>も少なくありません。
 
-訳あり物件の売却・買取について詳しくは[訳あり物件の買取ガイド](/guide/wakeare-bukken-kaitori)もご参照ください。
+訳あり物件の売却・買取について詳しくは[訳あり物件の買取ガイド](/guide/wakeare-bukken-kaitori/)もご参照ください。
 
 > <strong>宅建業者の視点</strong>  
 > 「境界未確定のまま買取」というスキームは、すべての買取業者が対応しているわけではありません。訳あり物件・境界問題の取り扱い実績があるかどうかを、事前に確認することをお勧めします。また、買取価格の根拠（測量リスク・整地費用・再販コストの積算など）を明示してもらうことも重要です。
@@ -141,7 +141,7 @@ faqs:
 
 2024年4月1日より<strong>相続登記が義務化</strong>されました（不動産登記法第76条の2）。相続を知った日から3年以内に登記申請をしなければ、<strong>10万円以下の過料</strong>が科される可能性があります。
 
-測量の前に、まず相続登記を完了させることが優先されます。相続不動産の処分全般については[相続不動産の処分方法](/guide/souzoku-fudousan-urikata-kanzen-guide)も参考にしてください。
+測量の前に、まず相続登記を完了させることが優先されます。相続不動産の処分全般については[相続不動産の処分方法](/guide/parent-death-house/)も参考にしてください。
 
 ### 隣地所有者も相続未登記の場合
 
@@ -149,7 +149,7 @@ faqs:
 
 ### 相続アパートの場合は権利関係が複雑になりやすい
 
-相続したアパートが建つ土地の境界が未確定の場合、賃借人の存在・建物の登記状況・共有名義など複数の問題が重なることがあります。相続アパートの買取については[相続アパートの買取](/guide/souzoku-apart-kaitori)で詳しく解説しています。
+相続したアパートが建つ土地の境界が未確定の場合、賃借人の存在・建物の登記状況・共有名義など複数の問題が重なることがあります。相続アパートの買取については[相続アパートの買取](/guide/souzoku-apart-kanzen-guide/)で詳しく解説しています。
 
 ### 「現況のまま売る」場合の契約不適合責任
 
@@ -184,9 +184,13 @@ A. 地籍調査が完了している場合、法務局に地積測量図が登�
 
 「境界未確定だから売れない」とあきらめる前に、まずは現状を専門家に相談してみることをお勧めします。
 
+## 関連する記事
+
+- [測量費用が払えないとき](/guide/inheritance-no-survey-sell/)
+
 ---
 
-**このカテゴリの全ガイド一覧:** [→ 相続不動産 完全ハブ【2026年版】](/guide/souzoku-hub)
+**このカテゴリの中心の記事:** [→ 相続した家の売り方と手続き](/guide/parent-death-house/)
 
 ---
 
@@ -195,4 +199,4 @@ A. 地籍調査が完了している場合、法務局に地積測量図が登�
 境界未確定の土地・空き家・相続不動産のご相談は、空き家のミカタへお気軽にどうぞ。査定・相談は無料で、しつこい営業は行いません。
 
 <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06C755;color:#fff;padding:14px 32px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 8px 8px 0;">LINEで無料相談（即日対応）</a>
-<a href="/contact" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 32px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 0;">お問い合わせフォーム</a>
+<a href="/contact/" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 32px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 0;">お問い合わせフォーム</a>

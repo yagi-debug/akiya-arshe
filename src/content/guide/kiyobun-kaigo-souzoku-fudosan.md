@@ -155,7 +155,7 @@ A: 協議または家庭裁判所で「寄与分」が認められれば取り�
 「とりあえず共有にしておこう」で終わった遺産分割協議書を、後から何度も見てきました。10年後、その持分を売りたいと相談に来られる頃には、共有者が5人・6人に増えていて、そのうち何人かは連絡先すらわからない。当時いちばん介護をがんばった方が、いちばん動けなくなっているんです。分けにくいから共有にする、ではなく、分けにくいからこそ換価分割で一度現金に変える。私たちが現場で見てきた限り、その方が家族の関係も残ります。
 </div>
 
-詳しい進め方は<a href="/guide/souzoku-daishobunkatsu-fudosan">代償分割で相続した不動産を解決する方法｜代償金が払えないときの対処法</a>と<a href="/guide/isan-bunkatsu-kyougisho-kakikata">遺産分割協議書の書き方と4ステップ手順</a>もあわせてご覧ください。
+詳しい進め方は<a href="/guide/souzoku-daishobunkatsu-fudosan/">代償分割で相続した不動産を解決する方法｜代償金が払えないときの対処法</a>と<a href="/guide/isan-bunkatsu-kyougisho-kakikata/">遺産分割協議書の書き方と4ステップ手順</a>もあわせてご覧ください。
 
 ---
 
@@ -173,7 +173,7 @@ A: 協議または家庭裁判所で「寄与分」が認められれば取り�
 
 寄与分を定める処分の請求は、<strong>遺産分割の請求とセットでなければできません</strong>。民法904条の2第4項がそう定めており、裁判所の案内も「話合いがまとまらず調停が不成立になった場合には審判手続が開始されますが、遺産分割審判の申立てをしないと不適法として却下される」と明記しています。「まず寄与分だけ決めてから遺産分割の話をしよう」という順番は成り立ちません。
 
-なお、遺産分割調停が不成立になった場合は自動的に審判手続が開始され、裁判官が判断します。調停の実際の流れは<a href="/guide/isan-bunkatsu-chotei-fudosan-nagare">遺産分割調停とは？不動産で揉めた場合の流れ・費用・解決策</a>で解説しています。
+なお、遺産分割調停が不成立になった場合は自動的に審判手続が開始され、裁判官が判断します。調停の実際の流れは<a href="/guide/isan-bunkatsu-chotei-fudosan-nagare/">遺産分割調停とは？不動産で揉めた場合の流れ・費用・解決策</a>で解説しています。
 
 ---
 
@@ -188,7 +188,7 @@ A: 協議または家庭裁判所で「寄与分」が認められれば取り�
 - 2020年に親が亡くなった → 2030年まで（相続開始から10年）
 - 2005年に親が亡くなり、実家が未分割のまま → <strong>2028年3月31日まで</strong>
 
-「実家の名義が祖父のままで、誰も手をつけていない」というご相談は大阪市内でも多く、その多くがこの期限に該当します。相続登記も2024年4月1日から義務化されており、放置の負担は増える一方です（<a href="/guide/souzoku-touki-gimuka-2years">相続登記義務化から2年の実態</a>）。
+「実家の名義が祖父のままで、誰も手をつけていない」というご相談は大阪市内でも多く、その多くがこの期限に該当します。相続登記も2024年4月1日から義務化されており、放置の負担は増える一方です（<a href="/guide/souzoku-touki-gimuka-2years/">相続登記義務化から2年の実態</a>）。
 
 ---
 
@@ -233,17 +233,17 @@ A: 協議または家庭裁判所で「寄与分」が認められれば取り�
 
 <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" target="_blank" rel="noopener noreferrer"><strong>LINEで無料相談する（相続・寄与分・実家の売却）</strong></a>
 
-<a href="/contact"><strong>お問い合わせフォームはこちら</strong></a>
+<a href="/contact/"><strong>お問い合わせフォームはこちら</strong></a>
 
 ---
 
 ## 関連するガイド記事
 
-- <a href="/guide/souzoku-daishobunkatsu-fudosan">代償分割で相続した不動産を解決する方法｜補償額の計算・税金の注意点・代償金が払えないときの対処法</a>
-- <a href="/guide/isan-bunkatsu-chotei-fudosan-nagare">遺産分割調停とは？不動産で揉めた場合の流れ・費用・解決策</a>
-- <a href="/guide/isan-bunkatsu-kyougisho-kakikata">遺産分割協議書とは？相続した不動産を売るための書き方と4ステップ手順</a>
-- <a href="/guide/souzoku-fudosan-kazoku-trouble-kaiketsu">相続した不動産で家族がもめる5つのケース｜解決できないと固定資産税が膨らむ一方</a>
-- <a href="/guide/iryubun-shingai-gaku-fudosan-baikyaku">遺留分侵害額を請求された！払えない場合に不動産を売って解決する方法</a>
-- <a href="/guide/kyouyuu-mochibun-kaitori">共有持分の買取・売却方法【2026年最新】大阪市24区対応</a>
-- <a href="/guide/rojinhome-nyusho-jikka-baikyaku">親が老人ホームに入居後、実家を売却できる？3,000万円控除の条件と手続き</a>
-- <a href="/guide/souzoku-hub">相続不動産 完全ハブ｜処分・売却・登記・固定資産税・事例まで全ガイドをまとめて確認【2026年版】</a>
+- <a href="/guide/souzoku-daishobunkatsu-fudosan/">代償分割で相続した不動産を解決する方法｜補償額の計算・税金の注意点・代償金が払えないときの対処法</a>
+- <a href="/guide/isan-bunkatsu-chotei-fudosan-nagare/">遺産分割調停とは？不動産で揉めた場合の流れ・費用・解決策</a>
+- <a href="/guide/isan-bunkatsu-kyougisho-kakikata/">遺産分割協議書とは？相続した不動産を売るための書き方と4ステップ手順</a>
+- <a href="/guide/souzoku-fudosan-kazoku-trouble-kaiketsu/">相続した不動産で家族がもめる5つのケース｜解決できないと固定資産税が膨らむ一方</a>
+- <a href="/guide/iryubun-shingai-gaku-fudosan-baikyaku/">遺留分侵害額を請求された！払えない場合に不動産を売って解決する方法</a>
+- <a href="/guide/kyouyuu-mochibun-kaitori/">共有持分の買取・売却方法【2026年最新】大阪市24区対応</a>
+- <a href="/guide/rojinhome-nyusho-jikka-baikyaku/">親が老人ホームに入居後、実家を売却できる？3,000万円控除の条件と手続き</a>
+- <a href="/guide/parent-death-house/">相続した家の売り方と手続き</a>

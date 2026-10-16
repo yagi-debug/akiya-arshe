@@ -153,7 +153,7 @@ howToSteps:
 
 <img src="/images/souzoku-tochi-kokkoku-kizoku-consultation.jpg" alt="不動産専門家に相続土地の処分を相談する" width="1260" height="840" style="width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" />
 
-「条件に合わない」「費用が高すぎる」「時間がかかりすぎる」——このような理由で国庫帰属を断念された方からのご相談が、当社には多く寄せられます。
+「条件に合わない」「費用が高すぎる」「時間がかかりすぎる」——このような理由で国庫帰属を断念することもあります。
 
 そうした場合、<strong>買取専門業者への売却</strong>が現実的な選択肢になります。
 
@@ -169,19 +169,18 @@ howToSteps:
 
 国庫帰属制度は「土地の処分費用を支払ってゼロ円で国に返す」制度です。一方、買取は「お金をもらって土地を手放す」方法です。条件さえ合えば、買取のほうが金銭的にも時間的にも有利になることが多いです。
 
-再建築不可・市街化調整区域・共有持分・山林・農地など、一般の不動産会社では「売れない」と言われた土地でも、専門の買取業者に相談する価値はあります。相続登記（名義変更）がまだの場合も、買取と並行して手続きを進めることができます（<a href="/guide/inheritance-registry">相続登記の義務化について詳しくはこちら</a>）。
+再建築不可・市街化調整区域・共有持分・山林・農地など、一般の不動産会社では「売れない」と言われた土地でも、専門の買取業者に相談する価値はあります。相続登記（名義変更）がまだの場合も、買取と並行して手続きを進めることができます（<a href="/guide/inheritance-registry-neglect-sale-3options/">相続登記の義務化について詳しくはこちら</a>）。
 
-また、相続放棄を検討中の方は、放棄した後でも管理義務が残るケースがあります。放棄前に買取という選択肢も含めてご検討ください（<a href="/guide/inheritance-abandon">相続放棄と不動産の関係はこちら</a>）。
+また、相続放棄を検討中の方は、放棄した後でも管理義務が残るケースがあります。放棄前に買取という選択肢も含めてご検討ください（<a href="/guide/inheritance-abandon/">相続放棄と不動産の関係はこちら</a>）。
 
-空き家が建っている土地の処分方法については、<a href="/guide/akiya-shobun-5-hikaku">空き家処分の5大選択肢を徹底比較した記事</a>もあわせてご覧ください。
+空き家が建っている土地の処分方法については、<a href="/guide/akiya-shobun-5-hikaku/">空き家処分の5大選択肢を徹底比較した記事</a>もあわせてご覧ください。
 
 ## 関連するガイド記事
 
-- <a href="/guide/souzoku-apart-kanzen-guide">相続アパートを手放したい方へ｜売却の流れ・税金・失敗しない判断基準を宅建業者が完全解説【2026年最新】</a>
-- <a href="/guide/souzoku-fudousan-shobun-kanzen-guide">相続不動産の処分 完全ガイド2026｜法律・登記・比較表・失敗対策まで一気に解説</a>
-- <a href="/guide/souzoku-fudousan-urikata-kanzen-guide">【2026年版】相続した不動産の売り方 完全ガイド｜実務手順・費用・業者選定を買取業者が解説</a>
-- <a href="/guide/akiya-shobun-5-hikaku">空き家処分の5大選択肢を徹底比較【2026年版】費用・期間・手残り額</a>
-- <a href="/guide/akiya-kaitai-hiyou-haraenai">相続した実家の解体費用が払えない｜補助金・現況買取で費用ゼロで手放す3つの方法</a>
+- <a href="/guide/souzoku-apart-kanzen-guide/">相続アパートを手放したい方へ｜売却の流れ・税金・失敗しない判断基準を宅建業者が完全解説【2026年最新】</a>
+- <a href="/guide/parent-death-house/">相続不動産の処分 完全ガイド2026｜法律・登記・比較表・失敗対策まで一気に解説</a>
+- <a href="/guide/akiya-shobun-5-hikaku/">空き家処分の5大選択肢を徹底比較【2026年版】費用・期間・手残り額</a>
+- <a href="/guide/akiya-kaitai-hiyou-haraenai/">相続した実家の解体費用が払えない｜補助金・現況買取で費用ゼロで手放す3つの方法</a>
 
 ## まとめ
 
@@ -199,8 +198,8 @@ howToSteps:
 <strong>無料でご相談できます</strong><br>
 相続した土地の処分方法でお悩みでしたら、当社（空き家のミカタ）にご相談ください。国庫帰属の条件に合うかの確認から、買取査定まで、無料でお答えします。<br><br>
 <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06c755;color:#fff;padding:0.7rem 1.5rem;border-radius:6px;text-decoration:none;font-weight:bold;margin-right:0.8rem;">LINEで無料相談する</a>
-<a href="/contact" style="display:inline-block;background:#1a56db;color:#fff;padding:0.7rem 1.5rem;border-radius:6px;text-decoration:none;font-weight:bold;">お問い合わせフォーム</a>
+<a href="/contact/" style="display:inline-block;background:#1a56db;color:#fff;padding:0.7rem 1.5rem;border-radius:6px;text-decoration:none;font-weight:bold;">お問い合わせフォーム</a>
 </div>
 ---
 
-**このカテゴリの全ガイド一覧:** [→ 相続不動産 完全ハブ【2026年版】](/guide/souzoku-hub)
+**このカテゴリの中心の記事:** [→ 相続した家の売り方と手続き](/guide/parent-death-house/)

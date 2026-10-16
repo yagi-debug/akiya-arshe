@@ -2,6 +2,7 @@
 title: "相続した底地を手放したい｜処分・売却の4つの方法をわかりやすく解説"
 description: "相続した底地（借地権付き土地）を処分・売却する方法を解説。借地人への売却・等価交換・共同売却・買取専門業者の活用まで、底地特有の難しさと解決策を宅建業者が説明します。"
 publishDate: "2026-06-15"
+noindex: true
 author: "空き家のミカタ編集部"
 authorTitle: "宅地建物取引業者（大阪府知事(1)第65646号）"
 heroImage: "/images/sokochi-souzoku-baikyaku-hero.jpg"
@@ -19,11 +20,13 @@ faqs:
 
 親や祖父母から相続した土地の登記簿を確認したら、「賃借権」や「借地権」という記載があった——そんな状況で困っている方は少なくありません。<strong>底地（そこち）とは、借地権が設定された土地のことです。</strong>売ろうとしても買い手がつかず、地代収入も少なく、かといって更地にもできない——底地の処分は、通常の不動産売却よりはるかに難しいのが現実です。
 
+このテーマの全体像は[底地の買取](/guide/sokochi-kaitori/)にまとめています。
+
 <strong>結論からお伝えすると、底地を処分する方法は主に4つあります。借地人への売却・等価交換・共同売却・買取専門業者への売却です。</strong>それぞれの特徴と現実的な進め方を、以下で詳しくお伝えします。
 
 > **シルバーウィーク（2026年9月19日〜23日）の帰省中にできること**
 > Q: シルバーウィークに実家へ帰るなら、相続した底地についてこの機会に何をすればいいですか？
-> A: 帰省中に[「帰省したら実家が荒れていた」チェックリスト](/guide/obon-jikka-checklist-kaitori-handan)で登記簿や関連書類を家族で確認し、[相続アパート・空き家の放置コスト診断【お盆版】](/guide/kisei-souzoku-apart-akiya-shindan)も見ながら、底地をどう処分するか話し合うのが最短です。
+> A: 帰省中に[「帰省したら実家が荒れていた」チェックリスト](/guide/obon-jikka-checklist-kaitori-handan/)で登記簿や関連書類を家族で確認し、[相続アパート・空き家の放置コスト診断【お盆版】](/guide/kisei-souzoku-apart-akiya-shindan/)も見ながら、底地をどう処分するか話し合うのが最短です。
 
 ## 目次
 
@@ -172,11 +175,11 @@ A. 借地借家法第11条に基づき、地代の増額請求は可能です。
 
 底地の処分に最初から正解はありません。まず専門家に相談して、あなたの物件の状況に合った方針を決めることが第一歩です。
 
-相続登記の手続きについては[相続登記義務化の完全対応ガイド](/guide/souzoku-touki-gimuka-kanzen-taiou-2026)も参考になります。共有持分が絡む場合は[共有持分の売却方法](/guide/joint-ownership-sale)も合わせてご確認ください。
+相続登記の手続きについては[相続登記義務化の完全対応ガイド](/guide/inheritance-registry-neglect-sale-3options/)も参考になります。共有持分が絡む場合は[共有持分の売却方法](/guide/kyouyuu-mochibun-kaitori/)も合わせてご確認ください。
 
 ---
 
-**このカテゴリの全ガイド一覧:** [→ 相続不動産 完全ハブ【2026年版】](/guide/souzoku-hub)
+**このカテゴリの中心の記事:** [→ 相続した家の売り方と手続き](/guide/parent-death-house/)
 
 ---
 
@@ -185,4 +188,4 @@ A. 借地借家法第11条に基づき、地代の増額請求は可能です。
 底地の処分に困っている方のご相談をお受けしています。底地の状況（旧法・新法の区別、地代の収支、借地人との関係）を教えていただければ、現実的な処分方針をご提案します。査定・相談は無料で、しつこい営業は行いません。
 
 <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06C755;color:#fff;padding:14px 32px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 8px 8px 0;">LINEで無料相談（即日対応）</a>
-<a href="/contact" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 32px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 0;">お問い合わせフォーム</a>
+<a href="/contact/" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 32px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 0;">お問い合わせフォーム</a>

@@ -30,6 +30,8 @@ howToSteps:
 
 親が亡くなり相続手続きを進めていたら、「隣の家の塀が自分の土地にはみ出している」「うちの建物の軒先が隣地に越えている」——こうした問題に直面するケースが増えています。
 
+このテーマの全体像は[再建築不可物件の売却方法](/guide/non-rebuildable-property-sale/)にまとめています。
+
 <strong>越境がある不動産でも、売却は可能です。ただし、越境の事実を知らせずに売ると契約不適合責任を問われるため、「越境確認書を作る」「越境物を撤去する」「買取専門業者に現況のまま売る」という3つの対処法を状況に合わせて選ぶことが大切です。</strong>
 
 この記事では、越境の種類・仲介で売れにくい理由・解決方法の選び方・越境確認書の作り方・買取業者を活用した最短売却の流れを具体的に説明します。
@@ -211,7 +213,7 @@ A. 法務局で登記事項証明書・戸籍等を辿ることで相続人を�
 
 <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" target="_blank" rel="noopener noreferrer" style="display:inline-block;background:#06C755;color:#fff;padding:12px 28px;border-radius:6px;text-decoration:none;font-weight:bold;margin:8px 4px;">LINE「空き家のミカタ」に相談する（無料）</a>
 
-<a href="/contact" style="display:inline-block;background:#333;color:#fff;padding:12px 28px;border-radius:6px;text-decoration:none;font-weight:bold;margin:8px 4px;">お問い合わせフォームで相談する</a>
+<a href="/contact/" style="display:inline-block;background:#333;color:#fff;padding:12px 28px;border-radius:6px;text-decoration:none;font-weight:bold;margin:8px 4px;">お問い合わせフォームで相談する</a>
 
 越境の問題があっても、諦める必要はありません。まず現状を確認するところからお手伝いします。
 
@@ -219,9 +221,9 @@ A. 法務局で登記事項証明書・戸籍等を辿ることで相続人を�
 
 ## この記事を読んだ方にお勧めの関連記事
 
-- [境界線が未確定の相続不動産を売る方法](/guide/souzoku-fudosan-kyoukaisen-fumei-baikyaku)
-- [訳あり物件の買取とは？メリット・デメリットを解説](/guide/wakeare-bukken-kaitori)
-- [再建築不可物件の売却方法と買取](/guide/non-rebuildable-property-sale)
+- [境界線が未確定の相続不動産を売る方法](/guide/souzoku-fudosan-kyoukaisen-fumei-baikyaku/)
+- [訳あり物件の買取とは？メリット・デメリットを解説](/guide/wakeare-bukken-kaitori/)
+- [再建築不可物件の売却方法と買取](/guide/non-rebuildable-property-sale/)
 ---
 
-**このカテゴリの全ガイド一覧:** [→ 相続不動産 完全ハブ【2026年版】](/guide/souzoku-hub)
+**このカテゴリの中心の記事:** [→ 相続した家の売り方と手続き](/guide/parent-death-house/)

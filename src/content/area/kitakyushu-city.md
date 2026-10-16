@@ -63,7 +63,7 @@ A: はい、対応できます。訳あり物件専門の宅建業者「空き�
 
 - <strong>門司区・若松区・八幡東区</strong>などの旧工業地帯・旧炭鉱地帯では、人口流出に伴い空き家が増加
 - 高齢の親が亡くなり、子ども世代が市外・県外に転出しているため、相続後に誰も住まない物件が急増
-- 放置された空き家は<a href="/guide/vacancy-tax-6times">特定空き家に指定されると固定資産税が最大6倍</a>になるリスクも
+- 放置された空き家は<a href="/guide/akiya-koteishisanzei-6bai-hikaku/">特定空き家に指定されると固定資産税が最大6倍</a>になるリスクも
 
 ### 再建築不可物件
 
@@ -105,7 +105,7 @@ A: はい、対応できます。訳あり物件専門の宅建業者「空き�
 ## よくあるご質問
 
 <strong>Q. 北九州市の再建築不可物件は買い取ってもらえますか？</strong>
-A. はい、対応可能です。門司区や小倉北区など旧市街の再建築不可物件も多数の相談実績があります。接道状況・建物の状態・権利関係を確認した上で、直接買取の価格をご提示します。
+A. はい、対応可能です。門司区や小倉北区など旧市街の再建築不可物件もご相談いただけます。接道状況・建物の状態・権利関係を確認した上で、直接買取の価格をご提示します。
 
 <strong>Q. 築40年を超えた木造アパートも買取できますか？</strong>
 A. 買取対象です。現況のまま買い取りますので、解体や修繕は不要です。入居者がいない状態・老朽化が進んでいる状態でもご相談ください。
@@ -120,16 +120,16 @@ A. もちろんです。LINE・メールでのご相談に対応しており、�
 
 ## 関連する記事
 
-- <a href="/guide/inheritance-sale">相続した不動産を売却する完全ガイド</a>
-- <a href="/guide/selling-process">はじめての不動産売却ガイド</a>
-- <a href="/guide/vacancy-tax-6times">空き家の固定資産税が6倍になる条件と回避方法</a>
-- <a href="/guide/saikenchifu-kaitori">再建築不可物件の売却方法と注意点</a>
+- <a href="/guide/parent-death-house/">相続した不動産を売却する完全ガイド</a>
+- <a href="/guide/osaka-kaitori-vs-chukai/">買取・仲介・放置の比較</a>
+- <a href="/guide/akiya-koteishisanzei-6bai-hikaku/">空き家の固定資産税が6倍になる条件と回避方法</a>
+- <a href="/guide/non-rebuildable-property-sale/">再建築不可物件の売却方法と注意点</a>
 
 ## 他のエリアの相場を見る
 
-- <a href="/area/fukuoka-city">福岡市の不動産買取相場</a>
-- <a href="/area/kumamoto-city">熊本市の不動産買取相場</a>
-- <a href="/area/osaka-kita">大阪市北区の不動産買取相場</a>
+- <a href="/area/fukuoka-city/">福岡市の不動産買取相場</a>
+- <a href="/area/kumamoto-city/">熊本市の不動産買取相場</a>
+- <a href="/area/osaka-kita/">大阪市北区の不動産買取相場</a>
 
 ---
 

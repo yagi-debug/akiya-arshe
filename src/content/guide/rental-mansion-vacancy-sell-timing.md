@@ -157,7 +157,7 @@ A: 査定から契約まで最短1週間、引き渡し完了まで2〜4週間�
 
 ## 関連するガイド記事
 
-- <a href="/guide/kuushitsu-manshon-baikyaku-kufuu">空室のマンションを売る｜内覧なしで高く売る3つの工夫【2026年版】</a>
+- <a href="/guide/kuushitsu-manshon-baikyaku-kufuu/">空室のマンションを売る｜内覧なしで高く売る3つの工夫【2026年版】</a>
 
 ## 空室率が高い相続マンション、まずは無料査定から
 
@@ -169,6 +169,6 @@ A: 査定から契約まで最短1週間、引き渡し完了まで2〜4週間�
   <p style="font-size:1.1rem;font-weight:bold;margin-bottom:1rem;color:#1a35a8;">相続した賃貸マンションの売却をご相談ください（無料・秘密厳守）</p>
   <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06C755;color:white;padding:12px 32px;border-radius:6px;text-decoration:none;font-weight:bold;font-size:1rem;margin-right:8px;">LINEで無料査定を依頼する（24時間受付）</a>
   <br style="margin:8px 0;" />
-  <a href="/contact" style="display:inline-block;background:#1a56db;color:white;padding:12px 32px;border-radius:6px;text-decoration:none;font-weight:bold;font-size:1rem;margin-top:8px;">お問い合わせフォームから相談する</a>
+  <a href="/contact/" style="display:inline-block;background:#1a56db;color:white;padding:12px 32px;border-radius:6px;text-decoration:none;font-weight:bold;font-size:1rem;margin-top:8px;">お問い合わせフォームから相談する</a>
   <p style="font-size:0.85rem;color:#555;margin-top:1rem;">宅地建物取引業者（大阪府知事(1)第65646号）｜秘密厳守・相談無料</p>
 </div>

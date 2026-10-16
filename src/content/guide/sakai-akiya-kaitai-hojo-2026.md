@@ -75,7 +75,7 @@ A: 堺市では老朽危険建築物と認定された空き家の解体費用�
 
 この記事では、堺市の解体補助金制度の概要・対象条件・申請手順・窓口を宅建業者の視点で整理してお伝えします。なお、<strong>予算枠・補助額は年度途中で変わる場合があるため、必ず堺市の公式窓口で最新情報をご確認ください。</strong>
 
-> 大阪市内の空き家をお持ちの場合は、対象制度・上限額が異なります。<a href="/guide/osaka-ku-akiya-hojo-madoguchi-2026">大阪市の空き家解体補助金ガイド（24区の窓口一覧）</a>をご覧ください。
+> 大阪市内の空き家をお持ちの場合は、対象制度・上限額が異なります。<a href="/guide/osaka-ku-akiya-hojo-madoguchi-2026/">大阪市の空き家解体補助金ガイド（24区の窓口一覧）</a>をご覧ください。
 
 ---
 
@@ -280,7 +280,7 @@ A: 堺市では老朽危険建築物と認定された空き家の解体費用�
 
 <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06c755;color:#fff;padding:14px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 4px;">LINE「空き家のミカタ」に相談する（無料）</a>
 
-<a href="/contact" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 4px;">無料査定フォームで相談する</a>
+<a href="/contact/" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 4px;">無料査定フォームで相談する</a>
 
 訳あり物件・空き家・相続物件を専門に扱っており、補助金の状況に関係なく<strong>現況のまま・片付け不要で買取査定</strong>ができます。大阪府知事(1)第65646号の宅建業免許のもと、安心してご相談いただけます。
 
@@ -288,11 +288,10 @@ A: 堺市では老朽危険建築物と認定された空き家の解体費用�
 
 ## 関連記事
 
-- <a href="/guide/osaka-akiya-subsidy">大阪市の空き家対策と補助金制度（制度の基本を確認）</a>
-- <a href="/guide/osaka-ku-akiya-hojo-madoguchi-2026">大阪市24区の空き家補助金申請窓口・2026年度版</a>
-- <a href="/guide/vacant-house">空き家をどうする？売却・活用・解体の選択肢</a>
-- <a href="/guide/akiya-kotei-shisan-zei-haraenai">空き家の固定資産税が払えないときの4つの選択肢</a>
-- <a href="/guide/akiya-shobun-5-hikaku">空き家処分の5大選択肢を徹底比較【2026年版】</a>
+- <a href="/guide/osaka-akiya-subsidy/">大阪市の空き家対策と補助金制度（制度の基本を確認）</a>
+- <a href="/guide/osaka-ku-akiya-hojo-madoguchi-2026/">大阪市24区の空き家補助金申請窓口・2026年度版</a>
+- <a href="/guide/akiya-kotei-shisan-zei-haraenai/">空き家の固定資産税が払えないときの4つの選択肢</a>
+- <a href="/guide/akiya-shobun-5-hikaku/">空き家処分の5大選択肢を徹底比較【2026年版】</a>
 
 ## よくある質問
 

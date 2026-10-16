@@ -1,7 +1,8 @@
 ---
-title: "【実録】固定資産税の通知書が届き、空き家売却を決意した3つの体験談【2026年5月】"
-description: "毎年5月前後に届く固定資産税の通知書を機に「もう手放したい」と決意した3人の体験談を実録形式でお伝えします。遠方管理・共有持分の揉め事・特定空き家指定リスクのケース別に、相談から売却完了までの流れと実際の手取り額を掲載しています。"
+title: "【参考例】固定資産税の通知書が届き、空き家売却を決意した3つのケース【2026年5月】"
+description: "毎年5月前後に届く固定資産税の通知書を機に「もう手放したい」と決意する、よくある3つの状況を参考例としてご紹介します。遠方管理・共有持分の揉め事・特定空き家指定リスクのケース別に、相談から売却完了までの流れと手取り額の目安を掲載しています。"
 publishDate: "2026-05-19"
+noindex: true
 author: "空き家のミカタ編集部"
 authorTitle: "宅地建物取引業者（大阪府知事(1)第65646号）"
 heroImage: "/images/kotei-shisan-zei-nousho-baikyaku-hero.jpg"
@@ -23,8 +24,8 @@ cluster: "akiya-tax"
 {
   "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "【実録】固定資産税の通知書が届き、空き家売却を決意した3つの体験談【2026年5月】",
-  "description": "毎年5月に届く固定資産税の通知書を機に空き家売却を決意した3ケースの実録体験談。遠方管理・共有持分・特定空き家指定リスクの各ケースを解説。",
+  "headline": "【参考例】固定資産税の通知書が届き、空き家売却を決意した3つのケース【2026年5月】",
+  "description": "毎年5月に届く固定資産税の通知書を機に空き家売却を決意する、よくある3つの状況を参考例として紹介。遠方管理・共有持分・特定空き家指定リスクの各ケースを解説。",
   "datePublished": "2026-05-19",
   "author": {
     "@type": "Organization",
@@ -43,66 +44,22 @@ cluster: "akiya-tax"
 }
 </script>
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "固定資産税の通知書が届きました。空き家を売却する場合、その年の固定資産税はどうなりますか？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "固定資産税は毎年1月1日時点の所有者に課税されます。年途中に売却した場合でも、その年の固定資産税は元の所有者に課税されます。ただし売買契約では「固定資産税の日割り精算」を行うことが一般的で、売却日以降の日数分を買主が負担する形で売買代金に反映されます。"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "空き家の固定資産税を何年も払い続けています。今から売却しても遅くないですか？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "遅くありません。訳あり不動産専門の買取業者であれば、現況のまま・築年数に関係なく査定が可能です。特定空き家の指定を受けていない段階での売却が得策で、指定後は固定資産税が最大6倍になるリスクがあります。"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "兄弟（共有持分）で空き家を相続しましたが、固定資産税の支払いでもめています。",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "共有持分のまま空き家を所有している場合、固定資産税は共有者全員に連帯納税義務が生じます。共有持分ごと専門業者に買い取ってもらうと一括で問題が解決します。"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "市役所から「特定空き家に指定する可能性がある」と通知が来ました。",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "「可能性がある」という段階では、まだ指定・勧告を受けていないため住宅用地特例の解除は起きていません。ただし勧告を受けると翌年度から特例が解除されるため、できるだけ早めに動くことが重要です。"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "固定資産税を滞納しています。それでも売却できますか？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "差し押さえが入っていなければ売却は可能です。売却代金から滞納税・延滞金を精算して所有権を移転するケースは多くあります。"
-      }
-    }
-  ]
-}
-</script>
 
 <img src="/images/kotei-shisan-zei-nousho-baikyaku-hero.jpg" alt="固定資産税の納税通知書。毎年5月頃に届くこの通知書をきっかけに空き家売却を決意する人が多い" width="1200" height="800" style="width:100%;height:auto;border-radius:8px;margin-bottom:1.5rem;" />
 
 毎年5月前後、固定資産税の納税通知書が届きます。<strong>「また今年も払わないといけない」「いつになったら終わるんだろう」</strong>と重い気持ちになる方は、全国にたくさんいらっしゃいます。
 
-当社「空き家のミカタ」には、この通知書が届いたタイミングで「もう売却しようと決めた」とご連絡いただくケースが、5〜6月に集中します。そこで今回は、<strong>実際にご相談いただいたAさん・Bさん（兄妹）・Cさんの3つの体験談</strong>を、それぞれの事情と結果も含めて実録形式でお伝えします。
+関連する内容は[固定資産税の通知書の確認チェックリスト](/guide/kotei-shisan-zei-tsuchisho-checklist/)で詳しく解説しています。
+
+この通知書が届いたタイミングで「もう売却しようと決めた」と動き出す方は、5〜6月に多くなる傾向があります。そこで今回は、<strong>よくある状況をもとにしたAさん・Bさん（兄妹）・Dさんの3つの参考例</strong>を、それぞれの事情と結果の目安も含めてお伝えします。
+
+※実在の取引ではなく、よくある状況をもとにした参考例です。価格や期間は物件ごとに異なります。
 
 「自分と似た状況かもしれない」と感じた方は、ぜひ最後まで読んでみてください。
 
 ---
 
-## 体験談①　Aさん（58歳・神奈川県在住）｜9年分の税金を払い続けた末の決意
+## 参考例①　Aさん（58歳・神奈川県在住）｜9年分の税金を払い続けた末の決意
 
 ### 状況
 
@@ -116,7 +73,7 @@ Aさんは神奈川県在住で、9年前に大阪市内の実家を相続しま
 
 「今年も11万円か…」。9回目の通知書を手にしたとき、Aさんは初めて<strong>9年分の合計を電卓で計算</strong>しました。100万円近い数字を見て、「もうやめよう」と決意されたと言います。
 
-> **担当者より**: 9年間払い続けた固定資産税の累計を初めて計算した、というAさんのお話は、当社でも非常に多いケースです。通知書1枚1枚は「また今年も」と流しがちですが、積み重なると大きな金額になります。
+> **担当者より**: 9年間払い続けた固定資産税の累計を初めて計算した、というAさんの状況は、よくあるケースです。通知書1枚1枚は「また今年も」と流しがちですが、積み重なると大きな金額になります。
 
 <img src="/images/kotei-shisan-zei-nousho-remote-owner.jpg" alt="固定資産税の通知書を見て困惑する遠方在住の相続人。遠方管理の限界から売却を決意するケースが多い" width="1200" height="800" style="width:100%;height:auto;border-radius:8px;margin-top:1rem;margin-bottom:1.5rem;" />
 
@@ -141,12 +98,12 @@ Aさんは「正直もっと安いと思っていた」とおっしゃってい�
 <p style="margin:0 0 1rem;font-size:1.1rem;"><strong>無料査定・ご相談はこちら</strong></p>
 <p style="margin:0 0 1rem;">LINE「空き家のミカタ」に友だち追加するだけで、24時間いつでも相談できます</p>
 <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06c755;color:#fff;padding:0.8rem 2rem;border-radius:4px;text-decoration:none;font-weight:bold;margin-bottom:0.5rem;">LINEで無料相談する</a>
-<p style="margin:0.5rem 0 0;font-size:0.9rem;"><a href="/contact">メール・フォームでのお問い合わせはこちら</a></p>
+<p style="margin:0.5rem 0 0;font-size:0.9rem;"><a href="/contact/">メール・フォームでのお問い合わせはこちら</a></p>
 </div>
 
 ---
 
-## 体験談②　Bさん兄妹（55歳・52歳）｜共有持分の固定資産税トラブルが5年目に解決
+## 参考例②　Bさん兄妹（55歳・52歳）｜共有持分の固定資産税トラブルが5年目に解決
 
 ### 状況
 
@@ -186,12 +143,12 @@ Bさんが当社にご連絡いただき、名古屋市内の戸建て（築38�
 <div style="background:#fff8f0;border:2px solid #ff6b35;padding:1.5rem;margin:2rem 0;border-radius:8px;text-align:center;">
 <p style="margin:0 0 1rem;font-size:1.1rem;"><strong>共有持分のご相談も受け付けています</strong></p>
 <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06c755;color:#fff;padding:0.8rem 2rem;border-radius:4px;text-decoration:none;font-weight:bold;margin-bottom:0.5rem;">LINEで無料相談する</a>
-<p style="margin:0.5rem 0 0;font-size:0.9rem;"><a href="/contact">メール・フォームでのお問い合わせはこちら</a></p>
+<p style="margin:0.5rem 0 0;font-size:0.9rem;"><a href="/contact/">メール・フォームでのお問い合わせはこちら</a></p>
 </div>
 
 ---
 
-## 体験談③　Dさん（64歳・埼玉県在住）｜特定空き家指定の予告通知で急いで売却
+## 参考例③　Dさん（64歳・埼玉県在住）｜特定空き家指定の予告通知で急いで売却
 
 ### 状況
 
@@ -227,12 +184,12 @@ Dさんはすぐにインターネットで調べ、特定空き家に指定・�
 <div style="background:#fff8f0;border:2px solid #ff6b35;padding:1.5rem;margin:2rem 0;border-radius:8px;text-align:center;">
 <p style="margin:0 0 1rem;font-size:1.1rem;"><strong>特定空き家指定の通知が届いた方はお早めに</strong></p>
 <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06c755;color:#fff;padding:0.8rem 2rem;border-radius:4px;text-decoration:none;font-weight:bold;margin-bottom:0.5rem;">LINEで無料相談する</a>
-<p style="margin:0.5rem 0 0;font-size:0.9rem;"><a href="/contact">メール・フォームでのお問い合わせはこちら</a></p>
+<p style="margin:0.5rem 0 0;font-size:0.9rem;"><a href="/contact/">メール・フォームでのお問い合わせはこちら</a></p>
 </div>
 
 ---
 
-## 3つの体験談に共通していること
+## 3つの参考例に共通していること
 
 Aさん・Bさん兄妹・Dさんの3ケースを振り返ると、共通点が見えてきます。
 
@@ -285,18 +242,18 @@ Dさんのケースは特定空き家指定の予告通知が届いた後でし�
 <p style="margin:0 0 1.5rem;color:#555;">LINEに友だち追加するだけ。24時間いつでも受け付けています</p>
 <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06c755;color:#fff;padding:1rem 2.5rem;border-radius:4px;text-decoration:none;font-weight:bold;font-size:1.1rem;margin-bottom:1rem;">LINE「空き家のミカタ」で無料相談</a>
 <br>
-<a href="/contact" style="display:inline-block;background:#1a56db;color:#fff;padding:0.8rem 2rem;border-radius:4px;text-decoration:none;font-weight:bold;margin-top:0.5rem;">メール・フォームでお問い合わせ</a>
+<a href="/contact/" style="display:inline-block;background:#1a56db;color:#fff;padding:0.8rem 2rem;border-radius:4px;text-decoration:none;font-weight:bold;margin-top:0.5rem;">メール・フォームでお問い合わせ</a>
 </div>
 
 ---
 
 ## 関連するガイド記事
 
-- <a href="/guide/akiya-kotei-shisan-zei-haraenai">空き家の固定資産税が払えないとき｜分納・減免・売却・相続放棄の4つの選択肢【2026年版】</a>
-- <a href="/guide/akiya-koteishisanzei-6bai-hikaku">空き家固定資産税6倍化の回避策と売却タイミング徹底比較｜賃貸・寄付・売却どれが得か</a>
-- <a href="/guide/akiya-shobun-5-hikaku">空き家処分の5大選択肢を徹底比較【2026年版】費用・期間・手残り額</a>
-- <a href="/guide/souzoku-hub">相続不動産 完全ハブ｜処分・売却・登記・固定資産税・事例まで全ガイドをまとめて確認【2026年版】</a>
-- <a href="/guide/souzoku-apart-kanzen-guide">相続アパートを手放したい方へ｜売却の流れ・税金・失敗しない判断基準を宅建業者が完全解説【2026年最新】</a>
+- <a href="/guide/akiya-kotei-shisan-zei-haraenai/">空き家の固定資産税が払えないとき｜分納・減免・売却・相続放棄の4つの選択肢【2026年版】</a>
+- <a href="/guide/akiya-koteishisanzei-6bai-hikaku/">空き家固定資産税6倍化の回避策と売却タイミング徹底比較｜賃貸・寄付・売却どれが得か</a>
+- <a href="/guide/akiya-shobun-5-hikaku/">空き家処分の5大選択肢を徹底比較【2026年版】費用・期間・手残り額</a>
+- <a href="/guide/parent-death-house/">相続した家の売り方と手続き</a>
+- <a href="/guide/souzoku-apart-kanzen-guide/">相続アパートを手放したい方へ｜売却の流れ・税金・失敗しない判断基準を宅建業者が完全解説【2026年最新】</a>
 
 ## よくある質問
 
@@ -321,4 +278,4 @@ Dさんのケースは特定空き家指定の予告通知が届いた後でし�
 固定資産税を滞納していても、差し押さえが入っていなければ売却は可能です。<strong>売却代金から滞納税・延滞金を精算して所有権を移転</strong>するケースは多くあります。差し押さえが入っている場合も、状況によっては解除できるケースがありますので、まずはご相談ください。
 ---
 
-**このカテゴリの全ガイド一覧:** [→ 空き家の処分・活用 完全ガイド](/guide/vacant-house)
+**このカテゴリの中心の記事:** [→ 空き家の処分・活用 完全ガイド](/guide/akiya-shobun-5-hikaku/)

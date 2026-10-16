@@ -63,7 +63,7 @@ faqs:
 
 日数の話でひとつ正直に書いておきます。上の表は「書類がそろっている場合」です。実際に手続きが長引く原因は、価格交渉ではありません。ほぼ必ず<strong>相続登記が終わっていない</strong>か、<strong>共有者の一人と連絡が取れない</strong>かのどちらかです。この2つについては後半の「手続きが止まる3つの場所」で扱います。
 
-関連: <a href="/guide/wakeare-bukken-kaitori-nagare">訳あり物件の買取の流れ｜相談から最短2週間で現金化する5ステップ</a>／<a href="/guide/osaka-kaitori-vs-chukai">不動産売却は買取・仲介・放置どれが正解？4軸で徹底比較</a>
+関連: <a href="/guide/wakeare-bukken-kaitori-nagare/">訳あり物件の買取の流れ｜相談から最短2週間で現金化する5ステップ</a>／<a href="/guide/osaka-kaitori-vs-chukai/">不動産売却は買取・仲介・放置どれが正解？4軸で徹底比較</a>
 
 ---
 
@@ -94,7 +94,7 @@ faqs:
 
 立会いは任意です。遠方にお住まいの方には、鍵をお預かりして調査し、写真をお送りする形も取っています。片付けは不要です。むしろ、<strong>片付ける前に見せていただいたほうが、残置物込みの価格を正確に出せます</strong>。
 
-関連: <a href="/guide/souzoku-fudosan-genjou-watashi-kaitori">相続した家を現状渡しで売る方法｜片付け・修繕なしで買取できる理由</a>／<a href="/guide/kaitori-satei-konkyo-gendai-checklist">買取査定の根拠を確かめるチェックリスト</a>
+関連: <a href="/guide/souzoku-fudosan-genjou-watashi-kaitori/">相続した家を現状渡しで売る方法｜片付け・修繕なしで買取できる理由</a>／<a href="/guide/kaitori-satei-konkyo-gendai-checklist/">買取査定の根拠を確かめるチェックリスト</a>
 
 ---
 
@@ -125,7 +125,7 @@ faqs:
 
 「12点もあるのか」と思われたかもしれませんが、①②③④⑩⑫は決済日に持っていくもの、⑥⑦は業者が取るもの、⑧⑨は無ければ無いで進むものです。<strong>売主が事前に用意するのは、実質的に⑤の納税通知書と、⑪の相続関係書類だけ</strong>と考えてください。
 
-関連: <a href="/guide/kenri-sho-funshitsu-fudosan-baikyaku">権利証を紛失した不動産は売れるのか｜事前通知と本人確認情報の実務</a>／<a href="/guide/souzoku-touki-jibunde-hiyou">相続登記を自分でやる費用はいくら？司法書士との比較</a>
+関連: <a href="/guide/kenri-sho-funshitsu-fudosan-baikyaku/">権利証を紛失した不動産は売れるのか｜事前通知と本人確認情報の実務</a>／<a href="/guide/souzoku-touki-jibunde-hiyou/">相続登記を自分でやる費用はいくら？司法書士との比較</a>
 
 ---
 
@@ -175,7 +175,7 @@ faqs:
 
 「◯年経ったから黙っていい」と年数で判断するのはやめて、事実を告知書に書き、買主に判断してもらってください。それが売主にとっていちばん安全です。
 
-関連: <a href="/guide/shinriteki-kashi-kokuchi-gimu">心理的瑕疵とは？事故物件の告知義務の範囲・売却時期・価格への影響</a>／<a href="/guide/jikobukken-baikyaku-futan-hiyou">事故物件の売却費用は誰が払う？特殊清掃・原状回復の相場と負担者</a>
+関連: <a href="/guide/shinriteki-kashi-kokuchi-gimu/">心理的瑕疵とは？事故物件の告知義務の範囲・売却時期・価格への影響</a>／<a href="/guide/jikobukken-baikyaku-futan-hiyou/">事故物件の売却費用は誰が払う？特殊清掃・原状回復の相場と負担者</a>
 
 ---
 
@@ -238,7 +238,7 @@ faqs:
 <strong>増えるもの：告知書を売主自身が書くこと</strong>
 買主はプロなので、質問が具体的で細かくなります。「雨漏りしていましたか」ではなく「どの部屋の、どの天井ですか」「何年ごろですか」「補修しましたか」と聞かれます。面倒に感じられるかもしれませんが、これは前章のとおり<strong>売主の免責を成立させるための作業</strong>です。
 
-関連: <a href="/guide/kinjo-ni-shirarezu-uru">近所に知られずに不動産を売る方法｜広告なしで進める買取の仕組み</a>／<a href="/guide/wakeari-kaitori-tesuryo-uchiwake">訳あり物件の買取業者に手数料はかかる？仲介手数料ゼロの根拠と実費7項目</a>
+関連: <a href="/guide/kinjo-ni-shirarezu-uru/">近所に知られずに不動産を売る方法｜広告なしで進める買取の仕組み</a>／<a href="/guide/wakeari-kaitori-tesuryo-uchiwake/">訳あり物件の買取業者に手数料はかかる？仲介手数料ゼロの根拠と実費7項目</a>
 
 ---
 
@@ -309,7 +309,7 @@ faqs:
 
 私たちがお約束できるのは、<strong>売るかどうかを決めるまでの間、こちらから他の共有者に連絡しないこと</strong>です。売却を決めた後、他の共有者への伝え方（登記後に買主から連絡するのか、その前に売主から一言入れるのか）は、ご希望に合わせて決めています。
 
-関連: <a href="/guide/kyouyuu-mochibun-naisho-satei">共有持分を他の共有者に内緒で査定できるか</a>／<a href="/guide/kyouyuu-mochibun-kaitori">共有持分の買取｜相場・流れ・トラブル回避を宅建業者が解説</a>
+関連: <a href="/guide/kyouyuu-mochibun-naisho-satei/">共有持分を他の共有者に内緒で査定できるか</a>／<a href="/guide/kyouyuu-mochibun-kaitori/">共有持分の買取｜相場・流れ・トラブル回避を宅建業者が解説</a>
 
 ---
 
@@ -332,7 +332,7 @@ faqs:
 7. <strong>「この査定額から、あとで引かれるものはありますか」</strong>
    残置物処分・解体・測量を後から差し引く手口を防ぐ質問です。
 
-関連: <a href="/guide/wakeare-kaitori-gyosha-erabikata-7check">訳あり不動産買取業者の選び方｜悪質業者の5手口と7チェックリスト</a>／<a href="/guide/akusha-gyosha-5-teguchi-mikiwake">訳あり不動産買取の悪質業者5つの手口と安全な相見積もり手順</a>
+関連: <a href="/guide/wakeare-kaitori-gyosha-erabikata-7check/">訳あり不動産買取業者の選び方｜悪質業者の5手口と7チェックリスト</a>／<a href="/guide/akusha-gyosha-5-teguchi-mikiwake/">訳あり不動産買取の悪質業者5つの手口と安全な相見積もり手順</a>
 
 ---
 
@@ -374,7 +374,7 @@ faqs:
 
 外し方は、金融機関と調整して抵当権を外してもらう任意売却の手続きに切り替えることです。ここまで来ると私たちだけでは完結しないため、早い段階で残債の額を確認させてください。<strong>いちばんよくないのは、残債を伏せたまま話を進めることです。</strong>決済日の直前に判明すると、全部やり直しになります。
 
-関連: <a href="/guide/souzoku-touki-gimuka-2years">相続登記の義務化｜3年以内の申請と10万円以下の過料</a>／<a href="/guide/mitouki-fudosan-kaitori">未登記の建物は売れるのか｜表題登記と買取の実務</a>／<a href="/guide/nini-baikyaku-zandaka-yukue">任意売却で残った残債はどうなるのか</a>
+関連: <a href="/guide/souzoku-touki-gimuka-2years/">相続登記の義務化｜3年以内の申請と10万円以下の過料</a>／<a href="/guide/mitouki-fudosan-kaitori/">未登記の建物は売れるのか｜表題登記と買取の実務</a>／<a href="/guide/nini-baikyaku-zandaka-yukue/">任意売却で残った残債はどうなるのか</a>
 
 ---
 
@@ -396,7 +396,7 @@ faqs:
 
 人の死に関する事案や、雨漏り・シロアリなど、あとで告知書に書くことになる事情がある場合も、契約書の作成段階まで待たず、相談の時点で伝えていただいたほうが手続きは早く進みます。前述のとおり、告知書に書くべき事実を先に伝えることは売主にとって不利にはならず、むしろ免責特約を成立させるための情報になります。
 
-関連: <a href="/guide/wakeari-kaitori-gyosha-sekinin-erabikata">訳あり物件の買取業者の選び方｜「売った後の責任」で決める8判定と契約不適合責任の免責</a>／<a href="/guide/souzoku-apart-uritai-lp">相続アパートを売りたい方へ｜最短2週間で現金買取・収益試算シミュレーション付き</a>
+関連: <a href="/guide/wakeari-kaitori-gyosha-sekinin-erabikata/">訳あり物件の買取業者の選び方｜「売った後の責任」で決める8判定と契約不適合責任の免責</a>／<a href="/guide/souzoku-apart-uritai-lp/">相続アパートを売りたい方へ｜最短2週間で現金買取・収益試算シミュレーション付き</a>
 
 ---
 
@@ -451,7 +451,7 @@ faqs:
 
 <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06c755;color:#fff;padding:14px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 4px;">LINE「空き家のミカタ」に相談する（無料）</a>
 
-<a href="/contact" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 4px;">無料査定フォームで相談する</a>
+<a href="/contact/" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 4px;">無料査定フォームで相談する</a>
 
 空き家のミカタは、大阪市生野区に事務所を構える宅地建物取引業者です（大阪府知事(1)第65646号）。大阪市24区の空き家・長屋・再建築不可物件・共有持分・事故物件を専門に扱っており、<strong>荷物が残ったまま・相続登記が未了・他の共有者と連絡が取れない</strong>という状態でも査定にお応えできます。当社が買主として直接買い取りますので、仲介手数料はいただきません。なお、登記の代理申請は司法書士へ、譲渡所得税・相続税の判断は税理士へ、権利関係の争いは弁護士へご確認ください。私どもがお手伝いできるのは、その不動産をいくらで、どういう順序で手放せるかという部分です。
 
@@ -459,22 +459,22 @@ faqs:
 
 ## 関連記事
 
-- <a href="/guide/wakeare-bukken-kaitori-nagare">訳あり物件の買取の流れ｜相談から最短2週間で現金化する5ステップ</a>
-- <a href="/guide/wakeari-kaitori-tesuryo-uchiwake">訳あり物件の買取業者に手数料はかかる？仲介手数料ゼロの根拠と実費7項目の内訳</a>
-- <a href="/guide/wakeare-kaitori-gyosha-erabikata-7check">訳あり不動産買取業者の選び方｜悪質業者の5手口と7チェックリスト</a>
-- <a href="/guide/shinriteki-kashi-kokuchi-gimu">心理的瑕疵とは？事故物件の告知義務の範囲・売却時期・価格への影響</a>
-- <a href="/guide/kenri-sho-funshitsu-fudosan-baikyaku">権利証を紛失した不動産の売却｜事前通知と本人確認情報の実務</a>
-- <a href="/guide/kyouyuu-mochibun-naisho-satei">共有持分を他の共有者に内緒で査定できるか</a>
-- <a href="/guide/kyouyuu-mochibun-kaitori">共有持分の買取｜相場・流れ・トラブル回避</a>
-- <a href="/guide/souzoku-touki-gimuka-2years">相続登記の義務化｜3年以内の申請と10万円以下の過料</a>
-- <a href="/guide/souzoku-fudosan-genjou-watashi-kaitori">相続した家を現状渡しで売る方法｜片付け・修繕なしで買取できる理由</a>
-- <a href="/guide/kinjo-ni-shirarezu-uru">近所に知られずに不動産を売る方法</a>
-- <a href="/guide/mitouki-fudosan-kaitori">未登記の建物は売れるのか｜表題登記と買取の実務</a>
-- <a href="/guide/nini-baikyaku-zandaka-yukue">任意売却で残った残債はどうなるのか</a>
-- <a href="/guide/wakeari-bukken-type-kaitori-hikaku">訳あり物件5タイプ 買取価格・売却期間の比較表</a>
-- <a href="/guide/osaka-24ku-wakeari-kakakutai-map">大阪市24区の訳あり物件買取相場マップ</a>
-- <a href="/guide/lp-wakeari-bukken-kaitori">大阪の訳あり物件 買取｜再建築不可・共有持分・相続アパート・事故物件</a>
-- <a href="/guide/akiya-no-mikata-erabareru-5-riyuu">「空き家のミカタ」が選ばれる5つの理由｜訳あり不動産の直接買取専門</a>
+- <a href="/guide/wakeare-bukken-kaitori-nagare/">訳あり物件の買取の流れ｜相談から最短2週間で現金化する5ステップ</a>
+- <a href="/guide/wakeari-kaitori-tesuryo-uchiwake/">訳あり物件の買取業者に手数料はかかる？仲介手数料ゼロの根拠と実費7項目の内訳</a>
+- <a href="/guide/wakeare-kaitori-gyosha-erabikata-7check/">訳あり不動産買取業者の選び方｜悪質業者の5手口と7チェックリスト</a>
+- <a href="/guide/shinriteki-kashi-kokuchi-gimu/">心理的瑕疵とは？事故物件の告知義務の範囲・売却時期・価格への影響</a>
+- <a href="/guide/kenri-sho-funshitsu-fudosan-baikyaku/">権利証を紛失した不動産の売却｜事前通知と本人確認情報の実務</a>
+- <a href="/guide/kyouyuu-mochibun-naisho-satei/">共有持分を他の共有者に内緒で査定できるか</a>
+- <a href="/guide/kyouyuu-mochibun-kaitori/">共有持分の買取｜相場・流れ・トラブル回避</a>
+- <a href="/guide/souzoku-touki-gimuka-2years/">相続登記の義務化｜3年以内の申請と10万円以下の過料</a>
+- <a href="/guide/souzoku-fudosan-genjou-watashi-kaitori/">相続した家を現状渡しで売る方法｜片付け・修繕なしで買取できる理由</a>
+- <a href="/guide/kinjo-ni-shirarezu-uru/">近所に知られずに不動産を売る方法</a>
+- <a href="/guide/mitouki-fudosan-kaitori/">未登記の建物は売れるのか｜表題登記と買取の実務</a>
+- <a href="/guide/nini-baikyaku-zandaka-yukue/">任意売却で残った残債はどうなるのか</a>
+- <a href="/guide/wakeari-bukken-type-kaitori-hikaku/">訳あり物件5タイプ 買取価格・売却期間の比較表</a>
+- <a href="/guide/osaka-24ku-wakeari-kakakutai-map/">大阪市24区の訳あり物件買取相場マップ</a>
+- <a href="/guide/lp-wakeari-bukken-kaitori/">大阪の訳あり物件 買取｜再建築不可・共有持分・相続アパート・事故物件</a>
+- <a href="/guide/akiya-no-mikata-erabareru-5-riyuu/">「空き家のミカタ」が選ばれる5つの理由｜訳あり不動産の直接買取専門</a>
 
 ---
 

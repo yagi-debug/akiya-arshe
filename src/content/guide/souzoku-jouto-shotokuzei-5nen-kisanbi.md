@@ -21,7 +21,7 @@ faqs:
 
 <img src="/images/souzoku-jouto-shotokuzei-5nen-kisanbi-hero.jpg" alt="確定申告の時期にのぼり旗が並ぶ日本の税務署の外観　相続不動産の譲渡所得税の申告先" width="1280" height="960" style="width:100%;height:auto;border-radius:8px;margin-bottom:1.5rem;" />
 
-「相続してまだ2年しか経っていないから、短期で税率が40%近くになる」——このご相談を、私たちは毎年お受けします。そして、そのほとんどが<strong>数え方の勘違い</strong>です。
+「相続してまだ2年しか経っていないから、短期で税率が40%近くになる」——こうした悩みはよくあります。そして、その多くは<strong>数え方の勘違い</strong>です。
 
 <div style="background:#f5f7fa;border-left:4px solid #1a56db;border-radius:8px;padding:1rem 1.25rem;margin:1.25rem 0;font-size:0.95rem;line-height:1.7;">
 <strong>結論:</strong> 相続した不動産の所有期間は、<strong>相続した日ではなく被相続人が買った日</strong>から数えます（所得税法60条1項）。そして5年超かどうかは<strong>譲渡した年の1月1日</strong>時点で判定します。親の代から持っていた家であれば、相続直後に売っても長期譲渡所得（20.315%）になるのが通常です。一方で、購入時の契約書がないと取得費は<strong>売却代金の5%</strong>とみなされ、こちらは税額を大きく押し上げます。
@@ -50,6 +50,20 @@ faqs:
 | 1998年3月（父が購入） | 2026年8月 | 28年5か月 | 27年10か月 | 長期（20.315%） |
 
 実際には5年を超えて持っていても、1月1日時点で5年以下なら短期です。<strong>売り急いで年内に決済すると短期になり、年明けまで待てば長期になる</strong>——そういう境目に立つ物件があります。
+
+### 税率をかける前の「譲渡所得」の出し方
+
+税率をかける対象は、売った金額そのものではなく、次の式で出す譲渡所得です。
+
+<strong>譲渡所得 = 売却価格 −（取得費 + 譲渡費用）</strong>
+
+| 項目 | 内容 |
+|------|------|
+| 売却価格 | 買主から受け取った金額 |
+| 取得費 | 購入時の代金や購入手数料 + その後の改良費 − 建物の減価償却費相当額 |
+| 譲渡費用 | 売るために直接かかった費用。仲介手数料、測量費、売買契約書の印紙代、建物の取壊し費用など |
+
+出典：国税庁タックスアンサーNo.3208「長期譲渡所得の税額の計算」（2026年10月12日確認）。3,000万円特別控除などの特別控除がある場合は、この式の結果からさらに差し引きます。
 
 ### 税率は20.315%と39.63%。差は約2倍です
 
@@ -113,7 +127,7 @@ faqs:
 
 <img src="/images/souzoku-jouto-shotokuzei-5nen-kisanbi-shutokuhi-flow.svg" alt="相続した不動産の取得費がわからないときに何を探し、見つからない場合に概算取得費5パーセントへ進むかを示したフローチャート" width="900" height="700" style="width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" />
 
-売買契約書そのものがなくても、購入代金を裏づける資料はほかにもあります。私たちが実際にお客様と一緒に探して見つかったことのある場所を、見つかりやすい順に挙げます。
+売買契約書そのものがなくても、購入代金を裏づける資料はほかにもあります。探す場所の例を、見つかりやすい順に挙げます。
 
 1. <strong>購入時の領収書一式</strong>——売買代金の領収書だけでなく、仲介手数料・登記費用・不動産取得税の領収書も取得費に含められます
 2. <strong>住宅ローンの金銭消費貸借契約書・返済予定表</strong>——借入額から購入価格を推し量る材料になります
@@ -122,7 +136,7 @@ faqs:
 5. <strong>分譲時のパンフレット・価格表・広告チラシ</strong>——同じ分譲地の当時の価格がわかります
 6. <strong>売主だった分譲会社・仲介会社への照会</strong>——会社が現存していれば売買契約書の写しが保管されている場合があります
 
-探す場所は、仏壇の引き出し、押入れの奥の茶箱、金庫、貸金庫、そして権利証と一緒に保管された封筒です。<strong>解体や遺品整理を発注する前が最後の機会</strong>だとお考えください。書類は一度捨てると戻りません。片付けの順番については<a href="/guide/katazukenaide-soudan">片付けないでご相談ください｜実家7つの状態別・手残り比較</a>でも触れています。
+探す場所は、仏壇の引き出し、押入れの奥の茶箱、金庫、貸金庫、そして権利証と一緒に保管された封筒です。<strong>解体や遺品整理を発注する前が最後の機会</strong>だとお考えください。書類は一度捨てると戻りません。片付けの順番については<a href="/guide/katazukenaide-soudan/">片付けないでご相談ください｜実家7つの状態別・手残り比較</a>でも触れています。
 
 ### 「市街地価格指数で推計する方法」について
 
@@ -140,7 +154,7 @@ faqs:
 
 相続税を納めた方が、<strong>相続開始の翌日から相続税の申告期限（10か月）の翌日以後3年を経過する日まで</strong>——つまりおよそ<strong>3年10か月以内</strong>——に売却した場合、納めた相続税のうち売却した不動産に対応する部分を取得費に加算できます（租税特別措置法39条、国税庁No.3267）。
 
-概算取得費150万円に、この加算額が上乗せされる形です。計算方法と具体例は<a href="/guide/souzoku-fudosan-shutoku-hi-kazan">相続した不動産を売るなら必ず確認｜取得費加算の特例で譲渡税が大幅減</a>にまとめています。相続税がゼロだった方は使えません。
+概算取得費150万円に、この加算額が上乗せされる形です。計算方法と具体例は<a href="/guide/souzoku-fudosan-shutoku-hi-kazan/">相続した不動産を売るなら必ず確認｜取得費加算の特例で譲渡税が大幅減</a>にまとめています。相続税がゼロだった方は使えません。
 
 ### ② 被相続人の居住用財産（空き家）の3,000万円特別控除
 
@@ -154,9 +168,9 @@ faqs:
 | 建物の要件 | 区分所有建物登記がされている建物<strong>でない</strong>こと |
 | 控除額 | 最高3,000万円（2024年1月1日以後の譲渡で相続人が3人以上の場合は2,000万円） |
 
-<strong>分譲マンションは区分所有建物登記がされているため、この特例の対象になりません。</strong>ここは誤解の多い部分です。マンションを相続された方は<a href="/guide/souzoku-mansion-baikyaku">相続したマンションの売却</a>もあわせてご覧ください。
+<strong>分譲マンションは区分所有建物登記がされているため、この特例の対象になりません。</strong>ここは誤解の多い部分です。マンションを相続された方は<a href="/guide/souzoku-mansion-baikyaku/">相続したマンションの売却</a>もあわせてご覧ください。
 
-なお、同一の資産について取得費加算の特例とこの3,000万円特別控除を重ねて使うことは原則できません。どちらが有利かは税理士とご相談ください。要件の詳細は<a href="/guide/souzoku-akiya-3000man-tokubetsu-kojo">相続空き家の3,000万円特別控除</a>で解説しています。
+なお、同一の資産について取得費加算の特例とこの3,000万円特別控除を重ねて使うことは原則できません。どちらが有利かは税理士とご相談ください。要件の詳細は<a href="/guide/souzoku-akiya-3000man-tokubetsu-kojo/">相続空き家の3,000万円特別控除</a>で解説しています。
 
 ## 訳あり物件では、期限と売却スピードが噛み合わないことがあります
 
@@ -169,7 +183,7 @@ faqs:
 
 仲介に出して買主を探している間に、相続開始から3年を経過する日の属する年の12月31日を越えてしまうと、3,000万円特別控除は使えなくなります。<strong>控除の3,000万円は、買取価格と仲介価格の差より大きいことがあります。</strong>期限内に確実に決済できる買取と、期限を越えるかもしれない仲介を、金額だけで比べないほうがよい理由がここにあります。
 
-相続登記が済んでいないと売却自体ができません。2024年4月1日から相続登記は義務化されています（<a href="/guide/inheritance-registry">相続登記の義務化と手続き</a>）。<strong>期限から逆算すると、動き始める時期は思っているより早い</strong>とお考えください。売却全体の段取りは<a href="/guide/inheritance-sale-timeline">相続不動産の売却スケジュール</a>にまとめています。
+相続登記が済んでいないと売却自体ができません。2024年4月1日から相続登記は義務化されています（<a href="/guide/inheritance-registry-neglect-sale-3options/">相続登記の義務化と手続き</a>）。<strong>期限から逆算すると、動き始める時期は思っているより早い</strong>とお考えください。売却全体の段取りは<a href="/guide/inheritance-sale-timeline/">相続不動産の売却スケジュール</a>にまとめています。
 
 ## よくあるご質問
 
@@ -203,7 +217,7 @@ faqs:
 
 <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06c755;color:#fff;padding:14px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 4px;">LINE「空き家のミカタ」に相談する（無料）</a>
 
-<a href="/contact" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 4px;">無料査定フォームで相談する</a>
+<a href="/contact/" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 4px;">無料査定フォームで相談する</a>
 
 秘密厳守で対応し、遠方にお住まいの相続人の方からのご相談も承ります。なお、譲渡所得の申告・税額計算は税理士へ、相続登記は司法書士へご相談ください。当社は不動産の売買を担当します。
 
@@ -211,14 +225,13 @@ faqs:
 
 ## 関連ガイド記事
 
-- <a href="/guide/souzoku-fudosan-shutoku-hi-kazan">相続した不動産を売るなら必ず確認｜取得費加算の特例で譲渡税が大幅減【2026年版】</a>
-- <a href="/guide/souzoku-akiya-3000man-tokubetsu-kojo">相続空き家の3,000万円特別控除</a>
-- <a href="/guide/selling-tax-guide">不動産を売った時の税金はいくら？譲渡所得税の計算方法と節税対策</a>
-- <a href="/guide/inheritance-tax-deadline-quick-sale">相続税の納付期限と不動産の早期売却</a>
-- <a href="/guide/inheritance-registry">相続登記の義務化と手続き</a>
-- <a href="/guide/inheritance-sale-timeline">相続不動産の売却スケジュール</a>
-- <a href="/guide/souzoku-mansion-baikyaku">相続したマンションの売却</a>
-- <a href="/guide/katazukenaide-soudan">片付けないでご相談ください｜実家7つの状態別・手残り比較</a>
+- <a href="/guide/souzoku-fudosan-shutoku-hi-kazan/">相続した不動産を売るなら必ず確認｜取得費加算の特例で譲渡税が大幅減【2026年版】</a>
+- <a href="/guide/souzoku-akiya-3000man-tokubetsu-kojo/">相続空き家の3,000万円特別控除</a>
+- <a href="/guide/inheritance-tax-deadline-quick-sale/">相続税の納付期限と不動産の早期売却</a>
+- <a href="/guide/inheritance-registry-neglect-sale-3options/">相続登記の義務化と手続き</a>
+- <a href="/guide/inheritance-sale-timeline/">相続不動産の売却スケジュール</a>
+- <a href="/guide/souzoku-mansion-baikyaku/">相続したマンションの売却</a>
+- <a href="/guide/katazukenaide-soudan/">片付けないでご相談ください｜実家7つの状態別・手残り比較</a>
 
 ---
 

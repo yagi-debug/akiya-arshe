@@ -44,7 +44,7 @@ author: "宅建業者"
 
 豊中市の空き家数は<strong>約14,900戸、空き家率は約10.1%</strong>（出典：総務省「平成30年住宅・土地統計調査」）です。市全体として他市と比較して低い水準ですが、<strong>市南部の庄内・大島エリアに集中</strong>しており、旧市街地の老朽住宅・長屋の空き家化が進んでいます。
 
-- <strong>特定空き家に認定されると固定資産税が最大6倍</strong>になるリスクがある（[詳細はこちら](/guide/vacancy-tax-6times)）
+- <strong>特定空き家に認定されると固定資産税が最大6倍</strong>になるリスクがある（[詳細はこちら](/guide/akiya-koteishisanzei-6bai-hikaku/)）
 - 豊中市は「豊中市空き家等対策計画（2022年改訂）」を策定し、老朽空き家への対策を強化中
 - 市南部の木造密集地域（庄内地区）は都市再開発が遅れており、再建築不可物件が多数存在
 
@@ -101,7 +101,7 @@ author: "宅建業者"
 
 <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06C755;color:#fff;font-weight:bold;padding:0.75rem 2rem;border-radius:0.5rem;text-decoration:none;margin:0.5rem 0;">LINEで無料相談する（24時間受付）</a>
 
-<a href="/contact" style="display:inline-block;background:#2563eb;color:#fff;font-weight:bold;padding:0.75rem 2rem;border-radius:0.5rem;text-decoration:none;margin:0.5rem 0;">お問い合わせフォームはこちら</a>
+<a href="/contact/" style="display:inline-block;background:#2563eb;color:#fff;font-weight:bold;padding:0.75rem 2rem;border-radius:0.5rem;text-decoration:none;margin:0.5rem 0;">お問い合わせフォームはこちら</a>
 
 空き家のミカタ（宅建業者・大阪府知事(1)第65646号）
 
@@ -109,15 +109,15 @@ author: "宅建業者"
 
 ## 関連するエリアページ
 
-- <a href="/area/osaka-city">大阪市の訳あり物件買取完全ガイド</a>
-- <a href="/area/osaka-pref">大阪府の空き家補助金・空き家バンク</a>
-- <a href="/area/higashiosaka-city">東大阪市の不動産買取相場</a>
-- <a href="/area/suita-city">吹田市の不動産買取相場</a>
+- <a href="/guide/osaka-city-yakuari-kaitori/">大阪市の訳あり物件買取完全ガイド</a>
+- <a href="/area/osaka-pref/">大阪府の空き家補助金・空き家バンク</a>
+- <a href="/area/higashiosaka-city/">東大阪市の不動産買取相場</a>
+- <a href="/area/suita-city/">吹田市の不動産買取相場</a>
 
 ## 関連ガイド
 
-- <a href="/guide/souzoku-apart-kaitori">相続アパートの買取｜管理できない入居者付きアパートも直接買取</a>
-- <a href="/guide/non-rebuildable-property-sale">再建築不可物件の売却方法と注意点</a>
-- <a href="/guide/akiya-kaitori">空き家の買取｜放置している空き家を現金化する方法</a>
-- <a href="/guide/kyouyuu-mochibun-kaitori">共有持分の買取｜他の共有者の同意なしで売却できる方法</a>
-- <a href="/guide/souzoku-touki-gimuka-karyo">相続登記しないと過料10万円？放置リスクと売却で解決する方法</a>
+- <a href="/guide/souzoku-apart-kanzen-guide/">相続アパートの買取｜管理できない入居者付きアパートも直接買取</a>
+- <a href="/guide/non-rebuildable-property-sale/">再建築不可物件の売却方法と注意点</a>
+- <a href="/guide/akiya-shobun-5-hikaku/">空き家の処分方法の比較</a>
+- <a href="/guide/kyouyuu-mochibun-kaitori/">共有持分の買取｜他の共有者の同意なしで売却できる方法</a>
+- <a href="/guide/souzoku-touki-gimuka-karyo/">相続登記しないと過料10万円？放置リスクと売却で解決する方法</a>

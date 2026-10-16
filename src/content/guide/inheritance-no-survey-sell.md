@@ -59,7 +59,7 @@ A: 売れます。測量なしで売却できるケースがあります。特�
 
 「相続した土地や家を売ろうとしたら、不動産会社に『まず測量してください』と言われた」「測量費用が50万円以上かかると聞いて途方に暮れている」というご相談は少なくありません。
 
-相続後の口座が少ない状態で、急な出費は大きな負担です。この記事では、<strong>測量費用を用意できない場合でも相続不動産を売る方法</strong>を、宅建業者として実際の相談事例をもとに解説します。
+相続後の口座が少ない状態で、急な出費は大きな負担です。この記事では、<strong>測量費用を用意できない場合でも相続不動産を売る方法</strong>を、宅建業者の立場から解説します。
 
 ## 相続不動産の「測量」とはどんな手続きか
 
@@ -193,6 +193,6 @@ A: 売れます。測量なしで売却できるケースがあります。特�
 
 <p style="margin-top:0.5rem;font-size:0.9rem;">「空き家のミカタ」を友だち追加してください</p>
 
-<a href="/contact" style="display:inline-block;border:2px solid rgba(255,255,255,0.4);color:#fff;padding:0.5rem 1.5rem;border-radius:8px;font-weight:bold;text-decoration:none;margin-top:0.5rem;">フォームで相談する</a>
+<a href="/contact/" style="display:inline-block;border:2px solid rgba(255,255,255,0.4);color:#fff;padding:0.5rem 1.5rem;border-radius:8px;font-weight:bold;text-decoration:none;margin-top:0.5rem;">フォームで相談する</a>
 
 </section>

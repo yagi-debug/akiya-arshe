@@ -81,7 +81,7 @@ Q1・Q2のどちらかに「はい」があれば<strong>相続アパート型�
 
 木造家屋は使われないまま放置されると劣化が加速し、5年もすれば売却時の評価が下がったり、解体前提でしか売れなくなったりします。さらに<strong>相続登記は2024年4月から義務化</strong>され、取得を知った日から3年以内に申請しないと10万円以下の過料の対象になります。名義が親や祖父母のままだと、いざ売ろうとしても相続人全員の合意と書類集めに時間がかかり、「売りたいのに売れない」状態に陥りがちです。
 
-戸建ての実家の放置コストと判断手順は、<a href="/guide/souzoku-ie-cost-5nen-flowchart">相続した家の意思決定フローチャート｜住む・貸す・売る・放置の5年間コスト試算</a>や<a href="/guide/kisei-jikka-boroboro-taisho">帰省したら実家がボロボロだった｜放置リスクと今すぐできる5つの対処法</a>でも数字を交えて解説しています。
+戸建ての実家の放置コストと判断手順は、<a href="/guide/souzoku-ie-cost-5nen-flowchart/">相続した家の意思決定フローチャート｜住む・貸す・売る・放置の5年間コスト試算</a>や<a href="/guide/kisei-jikka-boroboro-taisho/">帰省したら実家がボロボロだった｜放置リスクと今すぐできる5つの対処法</a>でも数字を交えて解説しています。
 
 ## 【相続アパート型】賃貸アパートを5年放置した場合のコスト
 
@@ -111,7 +111,7 @@ Q1・Q2のどちらかに「はい」があれば<strong>相続アパート型�
 
 入居者がいれば、家賃滞納・設備故障・退去時の原状回復・クレーム対応などが随時発生します。遠方に住んでいれば管理会社への委託料（一般的に家賃の5%前後）もかかり、対応が後手に回れば入居者トラブルにもつながります。
 
-相続アパートの維持費と判断の詳細は、<a href="/guide/souzoku-apart-cost-simulation">相続アパートの維持費シミュレーション｜固定資産税・修繕費・管理費の10年間コスト</a>や<a href="/guide/souzoku-apart-kanri-dekinai-houchi-cost">相続アパート管理できない｜放置した場合の年間コスト実例3件と早期解決策</a>もあわせてご覧ください。入居者がいるまま売る方法は<a href="/guide/nyukyosha-apart-baikyaku">入居者がいるアパートの売却方法</a>で解説しています。
+相続アパートの維持費と判断の詳細は、<a href="/guide/souzoku-apart-cost-simulation/">相続アパートの維持費シミュレーション｜固定資産税・修繕費・管理費の10年間コスト</a>や<a href="/guide/souzoku-apart-kanri-dekinai-houchi-cost/">相続アパート管理できない｜放置した場合の年間コスト試算例3件と早期解決策</a>もあわせてご覧ください。入居者がいるまま売る方法は<a href="/guide/souzoku-apart-owner-change-shokei/">入居者がいるアパートの売却方法</a>で解説しています。
 
 ## 帰省の「短い窓」で家族と決めておく3つのこと
 
@@ -119,7 +119,7 @@ Q1・Q2のどちらかに「はい」があれば<strong>相続アパート型�
 
 帰省中にその場で売買契約を結ぶ必要はありません。全員が集まっている間に、次の3点だけでも共有しておくと、後の話し合いが一気に進みます。
 
-1. <strong>名義（誰が相続するか・相続登記の方針）</strong>：名義が親や祖父母のまま放置されていないかを確認します。すでに相続が起きているなら、誰が引き継ぐか・共有にするかの方針を決めます。放置状態なら<a href="/guide/souzoku-touki-houchi-doushitara">相続登記を放置したらどうなるか</a>もご確認ください。
+1. <strong>名義（誰が相続するか・相続登記の方針）</strong>：名義が親や祖父母のまま放置されていないかを確認します。すでに相続が起きているなら、誰が引き継ぐか・共有にするかの方針を決めます。放置状態なら<a href="/guide/souzoku-touki-houchi-doushitara/">相続登記を放置したらどうなるか</a>もご確認ください。
 2. <strong>方向性（売る・貸す・持ち続ける）</strong>：空き家型なら「解体して更地か、現況のまま売るか、リフォームか」、アパート型なら「修繕して保有か、入居者付きで売るか」の大枠を共有します。
 3. <strong>次に動く担当と期限</strong>：「誰が・いつまでに・何をするか」を決めておかないと、帰省が終われば再び止まります。査定を取る担当と、次に判断する時期（例：年末）まで決めておくと確実です。
 
@@ -127,23 +127,23 @@ Q1・Q2のどちらかに「はい」があれば<strong>相続アパート型�
 
 ## 診断結果別・帰省後の「次の一手」
 
-- <strong>空き家型で、当分売る気はない場合</strong>：まず相続登記と、特定空家・管理不全空家に指定されないための最低限の管理を確保します。維持費と資産価値の下落を数字で把握しておきましょう。→ <a href="/guide/vacant-house-management-vs-early-sale-cost">空き家の管理代行 vs 早期売却</a>
-- <strong>空き家型で、手放す方向が見えている場合</strong>：現況のままの買取査定を取り、解体・リフォームと比べて手残りを試算します。→ <a href="/guide/obon-akiya-checklist-2026">お盆版・空き家の確認ポイントと売却判断フローチャート</a>
-- <strong>相続アパート型の場合</strong>：残りのローン・空室率・次の大規模修繕までの費用と、入居者付きで売った場合の手残りを並べます。修繕して持ち続けるか、今売るかを金額で比較してください。→ <a href="/guide/souzoku-apart-kaitori">相続アパートの買取</a>
+- <strong>空き家型で、当分売る気はない場合</strong>：まず相続登記と、特定空家・管理不全空家に指定されないための最低限の管理を確保します。維持費と資産価値の下落を数字で把握しておきましょう。→ <a href="/guide/vacant-house-management-vs-early-sale-cost/">空き家の管理代行 vs 早期売却</a>
+- <strong>空き家型で、手放す方向が見えている場合</strong>：現況のままの買取査定を取り、解体・リフォームと比べて手残りを試算します。→ <a href="/guide/obon-akiya-checklist-2026/">お盆版・空き家の確認ポイントと売却判断フローチャート</a>
+- <strong>相続アパート型の場合</strong>：残りのローン・空室率・次の大規模修繕までの費用と、入居者付きで売った場合の手残りを並べます。修繕して持ち続けるか、今売るかを金額で比較してください。→ <a href="/guide/souzoku-apart-kanzen-guide/">相続アパートの買取</a>
 - <strong>兄弟・親戚で共有している場合</strong>：全員の意思統一が最大の壁です。共有名義や意見の相違があっても、まずは査定額という共通の数字を持つところから始めます。
 
-<a href="/guide/souzoku-hub">相続不動産 完全ハブ｜処分・売却・登記・固定資産税・事例まで全ガイドをまとめて確認【2026年版】</a>もあわせてご活用ください。
+<a href="/guide/parent-death-house/">相続した家の売り方と手続き</a>もあわせてご活用ください。
 
 ## 関連するガイド記事
 
-- [相続した家の意思決定フローチャート｜住む・貸す・売る・放置の5年間コスト試算](/guide/souzoku-ie-cost-5nen-flowchart)
-- [帰省したら実家がボロボロだった｜放置リスクと今すぐできる5つの対処法](/guide/kisei-jikka-boroboro-taisho)
-- [「帰省したら実家が荒れていた」その場でできる5つのアクションと売却判断チェックリスト](/guide/obon-jikka-checklist-kaitori-handan)
-- [【2026年お盆版】帰省したら実家の空き家どうする？7つの確認ポイントと売却判断フローチャート](/guide/obon-akiya-checklist-2026)
-- [相続アパートの維持費シミュレーション｜10年間コスト](/guide/souzoku-apart-cost-simulation)
-- [相続アパート管理できない｜放置した場合の年間コスト実例3件と早期解決策](/guide/souzoku-apart-kanri-dekinai-houchi-cost)
-- [空き家の管理代行 vs 早期売却｜月3万円を払い続ける前のコスト比較](/guide/vacant-house-management-vs-early-sale-cost)
-- [相続登記を放置したらどうなるか｜義務化後の過料と手続き](/guide/souzoku-touki-houchi-doushitara)
+- [相続した家の意思決定フローチャート｜住む・貸す・売る・放置の5年間コスト試算](/guide/souzoku-ie-cost-5nen-flowchart/)
+- [帰省したら実家がボロボロだった｜放置リスクと今すぐできる5つの対処法](/guide/kisei-jikka-boroboro-taisho/)
+- [「帰省したら実家が荒れていた」その場でできる5つのアクションと売却判断チェックリスト](/guide/obon-jikka-checklist-kaitori-handan/)
+- [【2026年お盆版】帰省したら実家の空き家どうする？7つの確認ポイントと売却判断フローチャート](/guide/obon-akiya-checklist-2026/)
+- [相続アパートの維持費シミュレーション｜10年間コスト](/guide/souzoku-apart-cost-simulation/)
+- [相続アパート管理できない｜放置した場合の年間コスト試算例3件と早期解決策](/guide/souzoku-apart-kanri-dekinai-houchi-cost/)
+- [空き家の管理代行 vs 早期売却｜月3万円を払い続ける前のコスト比較](/guide/vacant-house-management-vs-early-sale-cost/)
+- [相続登記を放置したらどうなるか｜義務化後の過料と手続き](/guide/souzoku-touki-houchi-doushitara/)
 
 <div style="background:#f0f7ff;border:2px solid #1a56db;border-radius:8px;padding:1.2rem 1.5rem;margin:1.5rem 0;">
 <strong>帰省中に3秒でチェック：実家の放置コスト診断</strong>
@@ -164,4 +164,4 @@ Q1・Q2のどちらかに「はい」があれば<strong>相続アパート型�
 
 <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" target="_blank" rel="noopener noreferrer"><strong>LINEで無料相談する</strong></a>
 
-<a href="/contact"><strong>お問い合わせフォームはこちら</strong></a>
+<a href="/contact/"><strong>お問い合わせフォームはこちら</strong></a>

@@ -2,6 +2,7 @@
 title: "相続した家を現状渡しで売る方法｜片付け・修繕なしで買取できる理由【2026年版】"
 description: "相続した家の片付けや修繕をする時間・費用がない方へ。現状渡し（現況引渡し）での不動産売却の仕組みと注意点、訳あり買取業者が現状のまま購入できる理由をわかりやすく解説します。"
 publishDate: "2026-06-28"
+noindex: true
 cluster: "inheritance"
 author: "空き家のミカタ編集部"
 authorTitle: "宅地建物取引業者（大阪府知事(1)第65646号）"
@@ -23,6 +24,8 @@ updatedDate: "2026-09-07"
 <img src="/images/souzoku-fudosan-genjou-watashi-kaitori-hero.jpg" alt="相続した古い家の外観　現状渡し売却のイメージ" width="1200" height="800" style="width:100%;height:auto;border-radius:8px;margin-bottom:1.5rem;" />
 
 「相続した実家を売りたいけど、荷物が山積みのまま……片付けなければ売れないの？」
+
+このテーマの全体像は[大阪市の訳あり物件の買取](/guide/osaka-city-yakuari-kaitori/)にまとめています。
 
 そんな不安を抱えている方は多くいらっしゃいます。答えは「<strong>片付けなしで売る方法があります</strong>」です。これを<strong>現状渡し（現況引渡し）</strong>と呼びます。
 
@@ -240,15 +243,14 @@ updatedDate: "2026-09-07"
 <strong>無料相談はこちら（24時間・大阪・近畿対応）</strong>
 
 - <strong>LINE相談</strong>：[空き家のミカタ（LINEで無料相談）](https://line.arshe1719.workers.dev/auth/line?ref=hp)
-- <strong>お問い合わせフォーム</strong>：[こちらから](/contact)
+- <strong>お問い合わせフォーム</strong>：[こちらから](/contact/)
 
 荷物が残ったまま・修繕なし・再建築不可・老朽化など、どんな状態の相続物件でもご相談いただけます。仲介手数料なし・大阪・近畿対応。
 
 ## 関連記事
 
-- <a href="/guide/inheritance-sale">相続した不動産を売却する完全ガイド</a>
-- <a href="/guide/souzoku-ihin-seiri-kazai-baikyaku">相続した家の遺品整理と家財売却の進め方</a>
-- <a href="/guide/katazukenaide-soudan">片付けないでご相談ください｜実家7つの状態別・手残り比較</a>
-- <a href="/guide/akiya-kaitori">空き家買取の完全ガイド｜費用・相場・業者の選び方</a>
-- <a href="/guide/fudosan-kotowarareta-ato-dekiru-koto">不動産会社に断られた物件、次にできること</a>
-- <a href="/guide/souzoku-hub">相続不動産 完全ハブ｜全ガイドをまとめて確認</a>
+- <a href="/guide/parent-death-house/">相続した不動産を売却する完全ガイド</a>
+- <a href="/guide/souzoku-ihin-seiri-kazai-baikyaku/">相続した家の遺品整理と家財売却の進め方</a>
+- <a href="/guide/katazukenaide-soudan/">片付けないでご相談ください｜実家7つの状態別・手残り比較</a>
+- <a href="/guide/akiya-shobun-5-hikaku/">空き家の処分方法の比較</a>
+- <a href="/guide/fudosan-kotowarareta-ato-dekiru-koto/">不動産会社に断られた物件、次にできること</a>

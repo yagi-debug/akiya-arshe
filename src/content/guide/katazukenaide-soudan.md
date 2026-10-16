@@ -65,7 +65,7 @@ faqs:
 
 ### ① 残置物（家具・家電・仏壇）
 
-もっとも多いご相談です。家財に片付けの法的義務はなく、残ったまま引き渡す契約が可能です。仏壇についても、閉眼供養だけご自身で済ませていただき、あとは物として処分する形をとれます。詳しくは<a href="/guide/movables-disposal-sell-as-is">相続した家に残る車・骨董品・家電はどうする？</a>で整理しています。
+もっとも多いご相談です。家財に片付けの法的義務はなく、残ったまま引き渡す契約が可能です。仏壇についても、閉眼供養だけご自身で済ませていただき、あとは物として処分する形をとれます。詳しくは<a href="/guide/movables-disposal-sell-as-is/">相続した家に残る車・骨董品・家電はどうする？</a>で整理しています。
 
 ### ② ゴミの堆積
 
@@ -93,7 +93,7 @@ faqs:
 
 また、枝や幹が倒れて損害が出た場合は、民法717条2項により竹木の栽植または支持の瑕疵として所有者が賠償責任を負う可能性があります。さらに空家等対策の推進に関する特別措置法13条は、そのまま放置すれば特定空家等になるおそれのある空家等を「管理不全空家等」として、市町村長が<strong>立木竹の伐採を含む措置を指導・勧告できる</strong>と定めています。勧告を受けると、地方税法349条の3の2により住宅用地の課税標準の特例から除かれ、固定資産税の負担が上がります。
 
-伐採しても数か月で伸び戻ることを考えると、<strong>切るより手放すほうが早い</strong>ケースは少なくありません。越境の実務は<a href="/guide/ettsukyo-bukken-baikyaku">越境している不動産の売却方法</a>にまとめています。
+伐採しても数か月で伸び戻ることを考えると、<strong>切るより手放すほうが早い</strong>ケースは少なくありません。越境の実務は<a href="/guide/ettsukyo-bukken-baikyaku/">越境している不動産の売却方法</a>にまとめています。
 
 <img src="/images/katazukenaide-soudan-niwaki-ekkyo.jpg" alt="庭木と蔦に覆われて屋根まで隠れた空き家　庭木の越境と雑草が進んだ状態" width="1200" height="800" style="width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" />
 
@@ -131,7 +131,7 @@ faqs:
 
 片付けを止めていただく話をしてきましたが、例外もお伝えしておきます。
 
-<strong>1つ目は、崩落や飛散が起きそうな部分がある場合です。</strong>屋根材や外壁が今にも落ちそう、ブロック塀が傾いている、といった状態は、通行人や隣家に実害が出る可能性があります。ここは費用の損得の話ではありませんので、応急の措置を優先してください。市町村から指導・勧告を受けている場合も同じです。<a href="/guide/kanri-fuzen-akiya-shitei-taisho">管理不全空き家に指定されたら？固定資産税の変化と売却で解決する3ステップ</a>にまとめています。
+<strong>1つ目は、崩落や飛散が起きそうな部分がある場合です。</strong>屋根材や外壁が今にも落ちそう、ブロック塀が傾いている、といった状態は、通行人や隣家に実害が出る可能性があります。ここは費用の損得の話ではありませんので、応急の措置を優先してください。市町村から指導・勧告を受けている場合も同じです。<a href="/guide/kanri-fuzen-akiya-shitei-taisho/">管理不全空き家に指定されたら？固定資産税の変化と売却で解決する3ステップ</a>にまとめています。
 
 <strong>2つ目は、そのまま住宅として再販できる状態の建物である場合です。</strong>この場合は室内の印象が価格に反映されますので、片付けやハウスクリーニングが金額に効くことがあります。ただし、これも<strong>先に金額を確認してから判断していただく順番</strong>は変わりません。
 
@@ -144,7 +144,7 @@ faqs:
 現地に来ていただかなくても進められます。私たちが外観を確認し、登記情報と合わせて金額をお出しします。
 
 <strong>Q. 兄弟の同意がまだ取れていません。</strong><br />
-その段階でのご相談も承っています。金額が分からないまま話し合うと結論が出にくいため、先に数字をご覧いただくほうが進みやすいです。詳しくは<a href="/guide/soudan-shiteii-joutai-checklist">相続した家、まだ相談していい？7つの状態別チェック</a>をご覧ください。
+その段階でのご相談も承っています。金額が分からないまま話し合うと結論が出にくいため、先に数字をご覧いただくほうが進みやすいです。詳しくは<a href="/guide/soudan-shiteii-joutai-checklist/">相続した家、まだ相談していい？7つの状態別チェック</a>をご覧ください。
 
 <strong>Q. 近所に知られたくありません。</strong><br />
 看板の設置や近隣への聞き込みは行いません。外観の確認も、通常の通行と変わらない形で行います。
@@ -162,7 +162,7 @@ faqs:
 
 <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06c755;color:#fff;padding:14px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 4px;">LINE「空き家のミカタ」に相談する（無料）</a>
 
-<a href="/contact" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 4px;">無料査定フォームで相談する</a>
+<a href="/contact/" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 4px;">無料査定フォームで相談する</a>
 
 大阪市24区を中心に、空き家・再建築不可・長屋・共有持分などの訳あり不動産を扱っています。<strong>家財が残ったまま・現況のまま</strong>で査定にお応えします。秘密厳守で対応し、遠方にお住まいの相続人の方からのご相談も承ります。なお、相続放棄の手続きは司法書士または弁護士へ、相続税の申告は税理士へご相談ください。当社は不動産の売買を担当します。
 
@@ -170,14 +170,14 @@ faqs:
 
 ## 関連ガイド記事
 
-- <a href="/guide/souzoku-fudosan-genjou-watashi-kaitori">相続した家を現状渡しで売る方法｜片付け・修繕なしで買取できる理由【2026年版】</a>
-- <a href="/guide/movables-disposal-sell-as-is">相続した家に残る車・骨董品・家電はどうする？処分義務の有無と残置物のまま売る方法【2026年版】</a>
-- <a href="/guide/gomiyashiki-bukken-kaitori">ゴミ屋敷・汚部屋の不動産を売りたい｜片付け不要の現況買取を解説</a>
-- <a href="/guide/osaka-gomiyashiki-katazuke-hiyou">実家のゴミ屋敷を片付ける費用は大阪市でいくら？条例・市の100万円支援・現況買取を比較</a>
-- <a href="/guide/soudan-shiteii-joutai-checklist">相続した家、まだ相談していい？7つの状態別チェック</a>
-- <a href="/guide/ettsukyo-bukken-baikyaku">越境している不動産の売却方法｜越境確認書・買取の全手順【2026年版】</a>
-- <a href="/guide/osaka-kaitai-hiyou-soba-2026">大阪市の解体費用の相場【2026年】道路4m未満・重機不可の坪単価と自己負担額</a>
-- <a href="/guide/kanri-fuzen-akiya-shitei-taisho">管理不全空き家に指定されたら？固定資産税の変化と売却で解決する3ステップ</a>
+- <a href="/guide/souzoku-fudosan-genjou-watashi-kaitori/">相続した家を現状渡しで売る方法｜片付け・修繕なしで買取できる理由【2026年版】</a>
+- <a href="/guide/movables-disposal-sell-as-is/">相続した家に残る車・骨董品・家電はどうする？処分義務の有無と残置物のまま売る方法【2026年版】</a>
+- <a href="/guide/gomiyashiki-bukken-kaitori/">ゴミ屋敷・汚部屋の不動産を売りたい｜片付け不要の現況買取を解説</a>
+- <a href="/guide/osaka-gomiyashiki-katazuke-hiyou/">実家のゴミ屋敷を片付ける費用は大阪市でいくら？条例・市の100万円支援・現況買取を比較</a>
+- <a href="/guide/soudan-shiteii-joutai-checklist/">相続した家、まだ相談していい？7つの状態別チェック</a>
+- <a href="/guide/ettsukyo-bukken-baikyaku/">越境している不動産の売却方法｜越境確認書・買取の全手順【2026年版】</a>
+- <a href="/guide/osaka-kaitai-hiyou-soba-2026/">大阪市の解体費用の相場【2026年】道路4m未満・重機不可の坪単価と自己負担額</a>
+- <a href="/guide/kanri-fuzen-akiya-shitei-taisho/">管理不全空き家に指定されたら？固定資産税の変化と売却で解決する3ステップ</a>
 
 ---
 

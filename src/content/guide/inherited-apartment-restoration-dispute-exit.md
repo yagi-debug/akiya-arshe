@@ -175,7 +175,7 @@ A: 国交省ガイドラインでは通常のハウスクリーニングは家�
 
 A: 遺産分割協議でアパートの管理者（代表相続人）を決め、その方が窓口となって対応します。アパートを共有名義のまま放置すると、管理の決定ができず対応が滞りやすいです。売却を選ぶ場合も全員の合意が必要なため、方針は早めに決定することをお勧めします。
 
-相続アパートの処分全体については「<a href="/guide/souzoku-apart-kanzen-guide">相続アパートを手放したい方へ｜完全ガイド【2026年版】</a>」もあわせてご覧ください。
+相続アパートの処分全体については「<a href="/guide/souzoku-apart-kanzen-guide/">相続アパートを手放したい方へ｜完全ガイド【2026年版】</a>」もあわせてご覧ください。
 
 ## まとめ
 
@@ -198,10 +198,10 @@ A: 遺産分割協議でアパートの管理者（代表相続人）を決め�
 
 <p style="margin-top:0.5rem;font-size:0.9rem;">「空き家のミカタ」を友だち追加してください</p>
 
-<a href="/contact" style="display:inline-block;border:2px solid rgba(255,255,255,0.4);color:#fff;padding:0.5rem 1.5rem;border-radius:8px;font-weight:bold;text-decoration:none;margin-top:0.5rem;">フォームで相談する</a>
+<a href="/contact/" style="display:inline-block;border:2px solid rgba(255,255,255,0.4);color:#fff;padding:0.5rem 1.5rem;border-radius:8px;font-weight:bold;text-decoration:none;margin-top:0.5rem;">フォームで相談する</a>
 
 </section>
 
 ---
 
-**このカテゴリの全ガイド一覧:** [→ 相続不動産 完全ハブ【2026年版】](/guide/souzoku-hub)
+**このカテゴリの中心の記事:** [→ 相続した家の売り方と手続き](/guide/parent-death-house/)

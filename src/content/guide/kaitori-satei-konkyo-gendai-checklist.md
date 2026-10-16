@@ -2,6 +2,7 @@
 title: "訳あり物件の買取価格はどう決まる？査定の根拠と現地調査の8チェックポイントを公開"
 description: "「なぜこの金額なのか」を知りたい方へ。訳あり不動産の買取価格が算出される5つの根拠と、現地調査で確認される8つのポイントを宅建業者が透明化。業者への不信感を解消し、納得して相談できるように解説します。"
 publishDate: "2026-05-10"
+noindex: true
 cluster: "wakeari"
 author: "宅建業者"
 heroImage: "/images/kaitori-satei-konkyo-hero.jpg"
@@ -37,9 +38,11 @@ howToSteps:
 
 > **シルバーウィーク（2026年9月19日〜23日）の帰省中にできること**
 > Q: シルバーウィークに実家へ帰るなら、買取査定の根拠をこの機会にどう確認すればいいですか？
-> A: 帰省中に[「帰省したら実家が荒れていた」チェックリスト](/guide/obon-jikka-checklist-kaitori-handan)で建物の現況を記録しておくと、後日の査定で根拠を照らし合わせやすくなります。集まった家族で[相続アパート・空き家の放置コスト診断【お盆版】](/guide/kisei-souzoku-apart-akiya-shindan)を見ながら方針を話し合うのが最短です。
+> A: 帰省中に[「帰省したら実家が荒れていた」チェックリスト](/guide/obon-jikka-checklist-kaitori-handan/)で建物の現況を記録しておくと、後日の査定で根拠を照らし合わせやすくなります。集まった家族で[相続アパート・空き家の放置コスト診断【お盆版】](/guide/kisei-souzoku-apart-akiya-shindan/)を見ながら方針を話し合うのが最短です。
 
 「査定を受けてみたけど、なぜこの価格なのか教えてもらえなかった」「業者によって金額が全然違う。どっちが正しいの？」——そうした疑問をお持ちの方は少なくありません。
+
+このテーマの全体像は[大阪市の訳あり物件の買取](/guide/osaka-city-yakuari-kaitori/)にまとめています。
 
 訳あり不動産の買取では、価格の算出根拠が見えにくいことへの不安が、相談をためらわせる原因のひとつになっています。このページでは、買取価格がどのような要素で決まるか、現地調査では何をチェックするかを具体的に説明します。「しくみを知ったうえで相談する」ことで、査定結果を冷静に判断できるようになります。
 
@@ -188,11 +191,9 @@ howToSteps:
 
 ## 関連するガイド記事
 
-- <a href="/guide/kaitori-jirei-10sen">訳あり不動産の買取実績10選｜相続・再建築不可・事故物件・共有持分・空き家の解決事例集</a>
-- <a href="/guide/kaitori-jirei">訳あり不動産の買取事例5選｜相続アパート・再建築不可・事故物件の解決ストーリー</a>
-- <a href="/guide/osaka-kaitori-jirei">大阪市内の訳あり不動産買取事例集｜再建築不可・事故物件・共有持分・空き家・相続アパートの5事例</a>
-- <a href="/guide/jiko-bukken-hub">事故物件 完全ハブ｜買取・告知義務・心理的瑕疵・価格相場まで全ガイドまとめ【2026年版】</a>
-- <a href="/guide/kyouyuu-mochibun-hub">共有持分 完全ハブ｜売却・買取・トラブル解決・相場まで全ガイドまとめ【2026年版】</a>
+- <a href="/guide/osaka-city-yakuari-kaitori/">大阪市の訳あり物件の買取</a>
+- <a href="/guide/kyouyuu-mochibun-kaitori/">共有持分の買取・売却方法</a>
+- <a href="/guide/jiko-bukken-hub/">事故物件 完全ハブ｜買取・告知義務・心理的瑕疵・価格相場まで全ガイドまとめ【2026年版】</a>
 
 ## 無料相談・査定の受付
 
@@ -202,7 +203,7 @@ howToSteps:
 <p style="margin:0 0 0.75rem;font-weight:bold;font-size:1.05rem;">📋 無料査定・ご相談</p>
 <p style="margin:0 0 0.5rem;">訳あり物件・相続物件・空き家の買取相談を受け付けています。</p>
 <p style="margin:0 0 0.5rem;"><strong>LINE（空き家のミカタ）</strong>: <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="color:#1a56db;">https://line.arshe1719.workers.dev/auth/line?ref=hp</a>（24時間受付、返信は翌営業日まで）</p>
-<p style="margin:0;"><strong>お問い合わせフォーム</strong>: <a href="/contact" style="color:#1a56db;">こちらからどうぞ</a></p>
+<p style="margin:0;"><strong>お問い合わせフォーム</strong>: <a href="/contact/" style="color:#1a56db;">こちらからどうぞ</a></p>
 </div>
 
 査定は「知るための手段」です。まず価格を知り、そのうえで売るかどうかを判断されることをお勧めします。「相談したら断れない」ということはありません。

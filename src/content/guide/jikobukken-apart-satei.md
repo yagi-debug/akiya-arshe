@@ -164,7 +164,7 @@ howToSteps:
 
 事案の後は、募集を再開してから決まるまでの期間が通常より長くなります。この期間を0か月で計算した査定額は、実際の手残りと乖離します。何か月分を見込んでいるかを確認し、各社で揃えて比べてください。
 
-なお、事故物件の下落率について「相場の何割」という公的な統計はありません。買取価格の一般的な目安については<a href="/guide/jiko-bukken-kaitori-kakaku-soba">事故物件の買取価格はいくら？相場の下落率と査定額の内訳</a>で整理していますので、あわせてご覧ください。一棟アパート全般の収益評価の仕組みは<a href="/guide/chihou-souzoku-apart-baikyaku">地方の相続アパートは売れない？都市部との査定差が生まれる仕組みと手放す5つの手順</a>でも触れています。
+なお、事故物件の下落率について「相場の何割」という公的な統計はありません。買取価格の一般的な目安については<a href="/guide/jiko-bukken-kaitori-kakaku-soba/">事故物件の買取価格はいくら？相場の下落率と査定額の内訳</a>で整理していますので、あわせてご覧ください。一棟アパート全般の収益評価の仕組みは<a href="/guide/chihou-souzoku-apart-baikyaku/">地方の相続アパートは売れない？都市部との査定差が生まれる仕組みと手放す5つの手順</a>でも触れています。
 
 ## 査定の前に整理しておきたい5項目
 
@@ -186,7 +186,7 @@ howToSteps:
 
 私たちは大阪市24区を中心に、<strong>事案があったままの状態・特殊清掃前・入居者が残ったまま</strong>でも、一棟のまま直接買い取っています。仲介ではないため、広告を出したり現地に看板を掲げたりすることはありません。既存入居者や近隣に知られずに進めることも可能です。
 
-相続で引き継いだアパートの手放し方全般については<a href="/guide/souzoku-apart-kaitori">相続アパートの買取｜手放したい・管理できないアパートを最短2週間で現金化</a>、入居者がいる場合の進め方は<a href="/guide/nyukyosha-apart-baikyaku">入居者がいるアパートの売却方法｜立退き交渉とオーナーチェンジ買取を徹底比較</a>をご覧ください。
+相続で引き継いだアパートの手放し方全般については<a href="/guide/souzoku-apart-kanzen-guide/">相続アパートの買取｜手放したい・管理できないアパートを最短2週間で現金化</a>、入居者がいる場合の進め方は<a href="/guide/souzoku-apart-owner-change-shokei/">入居者がいるアパートの売却方法｜立退き交渉とオーナーチェンジ買取を徹底比較</a>をご覧ください。
 
 ## よくあるご質問
 
@@ -228,7 +228,7 @@ howToSteps:
 
 <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06c755;color:#fff;padding:14px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 4px;">LINE「空き家のミカタ」に相談する（無料）</a>
 
-<a href="/contact" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 4px;">無料査定フォームで相談する</a>
+<a href="/contact/" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 4px;">無料査定フォームで相談する</a>
 
 事故物件・訳あり物件を専門に扱っており、<strong>特殊清掃前・残置物そのまま・入居者が残ったまま・現況のまま</strong>で査定にお応えできます。秘密厳守で対応し、遠方にお住まいの相続人の方からのご相談も承っています。レントロールがお手元にない場合も、そろえるところからご相談いただけます。
 
@@ -236,11 +236,11 @@ howToSteps:
 
 ## 関連記事
 
-- <a href="/guide/jiko-bukken-hub">事故物件 完全ハブ｜買取・告知義務・心理的瑕疵・価格相場まで全ガイドまとめ</a>
-- <a href="/guide/jiko-bukken-kaitori-kakaku-soba">事故物件の買取価格はいくら？相場の下落率と査定額の内訳</a>
-- <a href="/guide/shinriteki-kashi-kokuchi-gimu">心理的瑕疵とは？事故物件の告知義務の範囲・売却時期・価格への影響を宅建業者が解説</a>
-- <a href="/guide/nyukyosha-apart-baikyaku">入居者がいるアパートの売却方法｜立退き交渉とオーナーチェンジ買取を徹底比較</a>
-- <a href="/guide/chihou-souzoku-apart-baikyaku">地方の相続アパートは売れない？都市部との査定差が生まれる仕組みと手放す5つの手順</a>
-- <a href="/guide/souzoku-apart-kaitori">相続アパートの買取｜手放したい・管理できないアパートを最短2週間で現金化</a>
-- <a href="/guide/kaitori-satei-konkyo-gendai-checklist">訳あり物件の買取価格はどう決まる？査定の根拠と現地調査の8チェックポイントを公開</a>
-- <a href="/guide/jiko-bukken-uru-timing">事故物件を高く売るタイミング｜「3年待てば」が損になる理由と5つの期限</a>
+- <a href="/guide/jiko-bukken-hub/">事故物件 完全ハブ｜買取・告知義務・心理的瑕疵・価格相場まで全ガイドまとめ</a>
+- <a href="/guide/jiko-bukken-kaitori-kakaku-soba/">事故物件の買取価格はいくら？相場の下落率と査定額の内訳</a>
+- <a href="/guide/shinriteki-kashi-kokuchi-gimu/">心理的瑕疵とは？事故物件の告知義務の範囲・売却時期・価格への影響を宅建業者が解説</a>
+- <a href="/guide/souzoku-apart-owner-change-shokei/">入居者がいるアパートの売却方法｜立退き交渉とオーナーチェンジ買取を徹底比較</a>
+- <a href="/guide/chihou-souzoku-apart-baikyaku/">地方の相続アパートは売れない？都市部との査定差が生まれる仕組みと手放す5つの手順</a>
+- <a href="/guide/souzoku-apart-kanzen-guide/">相続アパートの買取｜手放したい・管理できないアパートを最短2週間で現金化</a>
+- <a href="/guide/kaitori-satei-konkyo-gendai-checklist/">訳あり物件の買取価格はどう決まる？査定の根拠と現地調査の8チェックポイントを公開</a>
+- <a href="/guide/jiko-bukken-uru-timing/">事故物件を高く売るタイミング｜「3年待てば」が損になる理由と5つの期限</a>

@@ -2,6 +2,7 @@
 title: "相続不動産の売却で失敗した3事例｜買取で解決した比較と5問リスク診断"
 description: "相続不動産の売却で起きた3つの失敗パターン（①相続争いで2年以上長期化②仲介で売れず維持費が膨大③再建築不可で買い手なし）をストーリー形式で解説。各事例の「買取専門業者活用の解決策」を対比し、5問リスク診断チェックリストで自分のケースを確認できます。"
 publishDate: "2026-05-10"
+noindex: true
 cluster: "inheritance"
 author: "宅建業者"
 heroImage: "/images/souzoku-fudosan-shippai-3jirei-hero.jpg"
@@ -40,6 +41,8 @@ howToSteps:
 > - **共通の解決策**: 物件特性を把握し、買取専門業者に早期相談する
 
 相続した不動産を売ろうとして、予想外の壁にぶつかった——そういったご相談を私たちはよく受けます。「どこに頼んでも断られた」「もう何年も手放せていない」という状況に陥っている方の多くは、<strong>最初の段階で物件の特性に合わない方法を選んでいたケースがほとんどです。</strong>
+
+このテーマの全体像は[相続した家の売り方と手続き](/guide/parent-death-house/)にまとめています。
 
 このページでは、実際によくある3つの失敗パターンをストーリー形式でご紹介します。それぞれの「何がまずかったか」と「買取専門業者を使った場合どうなったか」を対比して解説します。
 
@@ -145,15 +148,15 @@ howToSteps:
 
 ### ステップ②：物件タイプを正確に把握する
 
-再建築不可・共有名義・事故物件・老朽化などの「訳あり要素」があるかを確認します。<strong>訳あり要素が1つでもあれば、最初から買取専門業者に相談することが前提になります。</strong>詳しくは[訳あり物件の種類と買取の仕組み](/guide/wakare-bukken-to-wa)をご覧ください。
+再建築不可・共有名義・事故物件・老朽化などの「訳あり要素」があるかを確認します。<strong>訳あり要素が1つでもあれば、最初から買取専門業者に相談することが前提になります。</strong>詳しくは[訳あり物件の種類と買取の仕組み](/guide/wakare-bukken-to-wa/)をご覧ください。
 
 ### ステップ③：維持費のタイムリミットを計算する
 
-固定資産税・管理費・修繕費などの月次コストを試算し、「何ヶ月保有したら損益分岐点を超えるか」を把握します。[空き家の維持費シミュレーター](/guide/akiya-koteishisanzei-simulator)を使うと無料で計算できます。
+固定資産税・管理費・修繕費などの月次コストを試算し、「何ヶ月保有したら損益分岐点を超えるか」を把握します。[空き家の維持費シミュレーター](/guide/akiya-koteishisanzei-simulator/)を使うと無料で計算できます。
 
 ### ステップ④：買取専門業者に複数社査定を依頼する
 
-訳あり物件に対応している買取専門業者に2〜3社査定を依頼し、価格・スピード・対応を比較します。<strong>「仲介で売れなかったから仕方なく」ではなく、最初の選択肢として比較する姿勢が重要です。</strong>[業者の選び方はこちら](/guide/wakeare-kaitori-gyosha-4type-hikaku)でも解説しています。
+訳あり物件に対応している買取専門業者に2〜3社査定を依頼し、価格・スピード・対応を比較します。<strong>「仲介で売れなかったから仕方なく」ではなく、最初の選択肢として比較する姿勢が重要です。</strong>[業者の選び方はこちら](/guide/wakeare-kaitori-gyosha-4type-hikaku/)でも解説しています。
 
 ### ステップ⑤：売却方法を決定し、速やかに手続きを進める
 
@@ -163,11 +166,10 @@ howToSteps:
 
 ## 関連するガイド記事
 
-- <a href="/guide/souzoku-apart-kanzen-guide">相続アパートを手放したい方へ｜売却の流れ・税金・失敗しない判断基準を宅建業者が完全解説【2026年最新】</a>
-- <a href="/guide/souzoku-fudousan-urikata-kanzen-guide">【2026年版】相続した不動産の売り方 完全ガイド｜実務手順・費用・業者選定を買取業者が解説</a>
-- <a href="/guide/souzoku-hub">相続不動産 完全ハブ｜処分・売却・登記・固定資産税・事例まで全ガイドをまとめて確認【2026年版】</a>
-- <a href="/guide/kyouyuu-mochibun-hub">共有持分 完全ハブ｜売却・買取・トラブル解決・相場まで全ガイドまとめ【2026年版】</a>
-- <a href="/guide/saikenchifu-hub">再建築不可物件 完全ハブ｜売却・買取・価格相場・事例まで全ガイドまとめ【2026年版】</a>
+- <a href="/guide/souzoku-apart-kanzen-guide/">相続アパートを手放したい方へ｜売却の流れ・税金・失敗しない判断基準を宅建業者が完全解説【2026年最新】</a>
+- <a href="/guide/parent-death-house/">【2026年版】相続した不動産の売り方 完全ガイド｜実務手順・費用・業者選定を買取業者が解説</a>
+- <a href="/guide/kyouyuu-mochibun-kaitori/">共有持分の買取・売却方法</a>
+- <a href="/guide/non-rebuildable-property-sale/">再建築不可物件の売却方法</a>
 
 ## まとめ：「どこに頼んでも断られた」には理由があります
 
@@ -183,13 +185,13 @@ howToSteps:
 <strong>無料相談・査定のお申し込み</strong><br>
 訳あり不動産の売却は「空き家のミカタ」にご相談ください。相続アパート・再建築不可・事故物件・共有持分など、一般仲介で断られた物件もお気軽にご相談いただけます。<br><br>
 <p style="margin:0.5rem 0;"><a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="background:#06c755;color:#fff;padding:0.6rem 1.4rem;border-radius:6px;text-decoration:none;font-weight:bold;display:inline-block;">LINEで無料相談（24時間受付）</a></p>
-<p style="margin:0.5rem 0;"><a href="/contact" style="background:#2563eb;color:#fff;padding:0.6rem 1.4rem;border-radius:6px;text-decoration:none;font-weight:bold;display:inline-block;">お問い合わせフォームから相談する</a></p>
+<p style="margin:0.5rem 0;"><a href="/contact/" style="background:#2563eb;color:#fff;padding:0.6rem 1.4rem;border-radius:6px;text-decoration:none;font-weight:bold;display:inline-block;">お問い合わせフォームから相談する</a></p>
 電話番号の掲載はありませんが、LINEまたはフォームからご連絡いただければ、通常1営業日以内にご返信します。
 </div>
 
 ### 関連記事
 
-- [相続した不動産を売却する完全ガイド](/guide/souzoku-fudousan-urikata-kanzen-guide)
-- [共有持分の買取について](/guide/kyouyuu-mochibun-kaitori)
-- [再建築不可物件の売却方法](/guide/non-rebuildable-property-sale)
-- [相続アパートの買取](/guide/inherited-apartment-buyout)
+- [相続した不動産を売却する完全ガイド](/guide/parent-death-house/)
+- [共有持分の買取について](/guide/kyouyuu-mochibun-kaitori/)
+- [再建築不可物件の売却方法](/guide/non-rebuildable-property-sale/)
+- [相続アパートの買取](/guide/inherited-apartment-buyout/)

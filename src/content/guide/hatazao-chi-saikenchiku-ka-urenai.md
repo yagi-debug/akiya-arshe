@@ -47,6 +47,14 @@ A: 「建て替えられる（再建築可）」ことと「買いたい人が�
 
 <strong>旗竿地（はたざおち）</strong>とは、道路に接する部分が細い通路（竿）で、その奥に建物を建てる敷地（旗）が広がっている土地のことです。「路地状敷地」「敷地延長（旗竿の延長敷地）」とも呼ばれます。
 
+似た言葉との違いは次のとおりです。
+
+| 呼び名 | 特徴 |
+|--------|------|
+| 旗竿地・路地状敷地 | 細長い通路部分（竿）と、その奥の建物を建てる部分（旗）からなる形状。竿部分の幅が2m以上あれば接道義務を満たす |
+| 袋地 | 他人の土地に囲まれ、道路に接していない土地（民法第210条が定める囲繞地通行権の対象） |
+| 再建築不可物件 | 接道義務を満たさず、建て替えができない物件。旗竿地でも竿部分が2m未満ならこれに当たる |
+
 多くの方が誤解しがちなのが、「<strong>再建築可＝売れる土地</strong>」という思い込みです。しかし不動産の売却では、次の2つはまったく別の話です。
 
 | 観点 | 内容 |
@@ -224,15 +232,15 @@ A. いいえ。査定・相談は無料で、価格を聞いてから判断し�
 
 <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" target="_blank" rel="noopener noreferrer"><strong>LINEで無料相談する（旗竿地・路地状敷地の売却相談）</strong></a>
 
-<a href="/contact"><strong>お問い合わせフォームはこちら</strong></a>
+<a href="/contact/"><strong>お問い合わせフォームはこちら</strong></a>
 
 ---
 
 ## 関連するガイド記事
 
-- <a href="/guide/hatazao-chi-baikyaku">旗竿地の売却方法｜売れない理由と専門買取で解決するポイント【2026年版】</a>
-- <a href="/guide/landlocked-inheritance-exit">接道なし袋地を相続したら？出口戦略と買取価格の目安</a>
-- <a href="/guide/non-rebuildable-property-sale">再建築不可物件の売却方法｜相場・4つの方法・法改正の影響</a>
-- <a href="/guide/saikenchifu-kaitori-souba">再建築不可物件の買取相場｜大阪市エリア別</a>
-- <a href="/guide/sokochi-kaitori">底地の買取｜地代トラブル・借地権付き土地の手放し方</a>
-- <a href="/guide/souzoku-hub">相続不動産 完全ハブ｜処分・売却・登記・固定資産税まで全ガイドをまとめて確認【2026年版】</a>
+- <a href="/guide/hatazao-chi-baikyaku/">旗竿地の売却方法｜売れない理由と専門買取で解決するポイント【2026年版】</a>
+- <a href="/guide/landlocked-inheritance-exit/">接道なし袋地を相続したら？出口戦略と買取価格の目安</a>
+- <a href="/guide/non-rebuildable-property-sale/">再建築不可物件の売却方法｜相場・4つの方法・法改正の影響</a>
+- <a href="/guide/saikenchifu-kaitori-souba/">再建築不可物件の買取相場｜大阪市エリア別</a>
+- <a href="/guide/sokochi-kaitori/">底地の買取｜地代トラブル・借地権付き土地の手放し方</a>
+- <a href="/guide/parent-death-house/">相続した家の売り方と手続き</a>

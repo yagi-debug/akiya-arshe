@@ -117,7 +117,7 @@ const homeWebPageSchema = {
           LINEで無料相談する
         </a>
         <a
-          href="/satei"
+          href="/satei/"
           class="inline-flex w-full items-center justify-center gap-2 rounded-full border-2 border-white/70 bg-white/10 px-8 py-4 text-base font-bold text-white backdrop-blur-sm transition-all hover:-translate-y-0.5 hover:bg-white hover:text-primary sm:w-auto"
          data-rondo-cta>
           無料査定の相談準備 →
@@ -167,7 +167,7 @@ const homeWebPageSchema = {
           あなたの物件、<span class="marker">わかる範囲</span>で相談
         </h2>
         <p class="text-sm text-text-light md:text-base">相談したい内容をメモに整理できます。価格は物件の状況を確認して個別にご案内します。相談・査定は無料です。</p>
-        <p class="mt-4 text-sm"><a href="/guide/souzoku-apart-uritai-lp/" class="font-bold text-primary underline">相続したアパートの管理にお困りの方へ：手残りの比べ方と相談前のチェック</a></p>
+        <p class="mt-4 text-sm"><a href="/guide/souzoku-apart-kanzen-guide/" class="font-bold text-primary underline">相続したアパートの売却・買取の考え方と手残りの比べ方</a></p>
         <p class="mt-2 text-sm"><a href="/guide/jigyoyo-fudosan-kaitori/" class="font-bold text-primary underline">工場・倉庫・店舗付き住宅の売却相談はこちら</a></p>
       </div>
       <div class="reveal mb-8 overflow-hidden rounded-3xl">
@@ -352,7 +352,7 @@ const homeWebPageSchema = {
             tag: "空き家",
             title: "3年放置した実家に、隣地から苦情が",
             desc: "相続後そのままになっていた空き家。隣地からの苦情をきっかけにご相談いただき、現況のまま・残置物ごと買取で解決。",
-            href: "/guide/souzoku-jirei-01-akiya-3nen",
+            href: "/guide/souzoku-jirei-01-akiya-3nen/",
             img: "/images/site/case-akiya.webp",
             alt: "草木に覆われた放置された空き家",
           },
@@ -360,7 +360,7 @@ const homeWebPageSchema = {
             tag: "相続アパート",
             title: "空室だらけの築古アパートを相続",
             desc: "入居者と空室が混在する築38年のアパート。オーナーチェンジのまま直接買取し、立ち退き交渉は不要のまま引き渡し。",
-            href: "/guide/souzoku-jirei-03-apart-souzoku-kaitori",
+            href: "/guide/souzoku-jirei-03-apart-souzoku-kaitori/",
             img: "/images/site/case-apart.webp",
             alt: "昭和築の古い木造2階建てアパート",
           },
@@ -368,7 +368,7 @@ const homeWebPageSchema = {
             tag: "再建築不可",
             title: "間口2m未満、仲介に断られた戸建て",
             desc: "建て替えできず買い手がつかない再建築不可の戸建て。現況のまま買取価格をご提示し、スムーズに手放せた事例。",
-            href: "/guide/souzoku-jirei-04-saikenchifu-kaitori",
+            href: "/guide/souzoku-jirei-04-saikenchifu-kaitori/",
             img: "/images/site/case-roji.webp",
             alt: "狭い路地に面した古い木造の家",
           },
@@ -397,7 +397,7 @@ const homeWebPageSchema = {
       </p>
 
       <!-- 監修者（人の顔・信頼） -->
-      <a href="/about/hiroki" class="reveal card-lift mx-auto mt-10 flex max-w-2xl items-start gap-5 rounded-3xl border border-border bg-bg p-6 md:p-7">
+      <a href="/about/hiroki/" class="reveal card-lift mx-auto mt-10 flex max-w-2xl items-start gap-5 rounded-3xl border border-border bg-bg p-6 md:p-7">
         <div class="flex h-16 w-16 shrink-0 items-center justify-center rounded-full bg-primary text-2xl font-bold text-white">八</div>
         <div>
           <p class="mb-1 text-xs font-bold tracking-widest text-accent">サイト運営・監修</p>
@@ -423,7 +423,7 @@ const homeWebPageSchema = {
       <div class="grid gap-4 sm:grid-cols-2 md:grid-cols-3">
         {[
           {
-            href: "/guide/souzoku-hub",
+            href: "/guide/parent-death-house/",
             img: "/images/site/cat-souzoku.webp",
             imgAlt: "相続した実家の門構え",
             label: "相続不動産の売却",
@@ -431,7 +431,7 @@ const homeWebPageSchema = {
             desc: "相続登記・遺産分割から売却完了まで。相続アパート・空き家・農地・共有不動産に対応。",
           },
           {
-            href: "/guide/saikenchifu-hub",
+            href: "/guide/non-rebuildable-property-sale/",
             img: "/images/site/cat-saikenchifu.webp",
             imgAlt: "間口の狭い旗竿地の通路",
             label: "再建築不可物件",
@@ -439,15 +439,15 @@ const homeWebPageSchema = {
             desc: "接道義務違反でも現況のまま買取可能。旗竿地・狭小地・再建築不可の専門知識で解決。",
           },
           {
-            href: "/guide/jiko-bukken-hub",
+            href: "/guide/jiko-bukken-hub/",
             img: "/images/site/cat-jiko.webp",
             imgAlt: "夕暮れの静かなアパートの外廊下",
             label: "事故物件・心理的瑕疵",
             icon: "M12 9v2m0 4h.01M5.07 19h13.86c1.54 0 2.5-1.67 1.73-3L13.73 4c-.77-1.33-2.69-1.33-3.46 0L3.34 16c-.77 1.33.19 3 1.73 3z",
-            desc: "告知義務ありでも現況買取・大阪・近畿対応。事件・孤独死・自殺物件の処分に実績あり。",
+            desc: "告知義務ありでも現況買取・大阪・近畿対応。事件・孤独死・自殺物件の処分に対応します。",
           },
           {
-            href: "/guide/kyouyuu-mochibun-hub",
+            href: "/guide/kyouyuu-mochibun-kaitori/",
             img: "/images/site/cat-kyouyuu.webp",
             imgAlt: "相続書類と印鑑",
             label: "共有持分トラブル",
@@ -455,7 +455,7 @@ const homeWebPageSchema = {
             desc: "他の共有者の同意不要で持分だけ売却。相続で共有者が多数・連絡取れない場合も対応。",
           },
           {
-            href: "/guide/vacant-house",
+            href: "/guide/akiya-shobun-5-hikaku/",
             img: "/images/site/cat-akiya-tax.webp",
             imgAlt: "チラシが溜まった空き家の玄関",
             label: "空き家・固定資産税対策",
@@ -463,12 +463,12 @@ const homeWebPageSchema = {
             desc: "空き家の固定資産税が6倍になる前に。特定空家指定・管理不全空家の回避策を解説。",
           },
           {
-            href: "/guide/wakeari-osekkai-database",
+            href: "/guide/osaka-city-yakuari-kaitori/",
             img: "/images/site/cat-wakeari.webp",
             imgAlt: "間取り図と虫眼鏡",
             label: "訳あり物件まるわかり",
             icon: "M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z",
-            desc: "再建築不可・事故物件・共有持分など訳あり50問に宅建業者が本音で回答するQ&Aデータベース。",
+            desc: "再建築不可・事故物件・共有持分など、大阪市の訳あり物件を買取で手放す流れと確認ポイントをまとめたページ。",
           },
         ].map((item) => (
           <a
@@ -504,11 +504,11 @@ const homeWebPageSchema = {
         </p>
         <ul class="divide-y divide-border">
           {[
-            { href: "/guide/osaka-ku-akiya-hojo-madoguchi-2026", label: "大阪市の空き家解体補助金【2026年度・令和8年度】24区の窓口一覧" },
-            { href: "/guide/resort-mansion-urenai-kaitori", label: "リゾートマンションが売れない・手放したい人へ｜3つの出口" },
-            { href: "/guide/kyouyuu-mochibun-kaitori", label: "共有持分の買取・売却方法｜同意不要で最短2週間現金化" },
-            { href: "/guide/metsubou-touki-tochi-baikyaku", label: "滅失登記を忘れた土地は売れる？費用・手続き・そのまま売る方法" },
-            { href: "/guide/akiya-koteishisanzei-6bai-hikaku", label: "空き家の固定資産税はいつから6倍？特定空家指定を回避する方法" },
+            { href: "/guide/osaka-ku-akiya-hojo-madoguchi-2026/", label: "大阪市の空き家解体補助金【2026年度・令和8年度】24区の窓口一覧" },
+            { href: "/guide/resort-mansion-urenai-kaitori/", label: "リゾートマンションが売れない・手放したい人へ｜3つの出口" },
+            { href: "/guide/kyouyuu-mochibun-kaitori/", label: "共有持分の買取・売却方法｜同意不要で最短2週間現金化" },
+            { href: "/guide/metsubou-touki-tochi-baikyaku/", label: "滅失登記を忘れた土地は売れる？費用・手続き・そのまま売る方法" },
+            { href: "/guide/akiya-koteishisanzei-6bai-hikaku/", label: "空き家の固定資産税はいつから6倍？特定空家指定を回避する方法" },
           ].map((item) => (
             <li>
               <a href={item.href} class="group flex items-center gap-3 py-3 text-sm font-medium text-text transition-colors hover:text-accent">
@@ -534,7 +534,7 @@ const homeWebPageSchema = {
       </div>
       <div class="reveal mt-10 text-center">
         <a
-          href="/faq"
+          href="/faq/"
           class="inline-flex items-center gap-2 rounded-full border-2 border-primary px-7 py-3 font-bold text-primary transition-all hover:bg-primary hover:text-white"
         >
           すべての質問を見る

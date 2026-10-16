@@ -28,6 +28,8 @@ A: 「被相続人居住用財産（空き家）に係る譲渡所得の特別�
 
 親から相続した実家が空き家になっている、というケースは珍しくありません。その空き家を売りたいと思ったとき、「税金がどのくらいかかるか」は真っ先に気になる点のひとつです。
 
+このテーマの全体像は[相続した家の売り方と手続き](/guide/parent-death-house/)にまとめています。
+
 条件を満たせば譲渡所得から<strong>最大3,000万円</strong>の控除が受けられる特例があります。2026年現在も有効で、令和9年（2027年）12月31日まで適用期間が延長されています。
 
 ただし、この特例には細かい条件があり、2024年に重要な改正がありました。この記事では、適用条件・2024年改正内容・申告手続きを順番に解説します。
@@ -246,7 +248,7 @@ A. 買取業者（当社のような不動産買取業者）への売却でも�
 物件の住所・築年数・現状をお知らせいただくだけで査定できます。
 
 <strong>お問い合わせフォームからのご相談</strong><br>
-<a href="/contact" style="display:inline-block;background:#1a56db;color:#fff;font-weight:bold;padding:14px 32px;border-radius:8px;text-decoration:none;font-size:1.05rem;margin:8px 4px;">お問い合わせフォームを開く</a>
+<a href="/contact/" style="display:inline-block;background:#1a56db;color:#fff;font-weight:bold;padding:14px 32px;border-radius:8px;text-decoration:none;font-size:1.05rem;margin:8px 4px;">お問い合わせフォームを開く</a>
 
 ※電話での営業はしておりません。LINE・メールでお気軽にご相談ください。
 
@@ -254,10 +256,10 @@ A. 買取業者（当社のような不動産買取業者）への売却でも�
 
 ### 関連記事
 
-- [不動産を売った時の税金はいくら？譲渡所得税の計算方法と節税対策](/guide/selling-tax-guide)
-- [旧耐震基準の物件を売りたい｜耐震改修なしで現況買取できる方法](/guide/kyutaishin-bukken-baikyaku)
-- [相続した不動産の完全ガイド｜手続き・税金・売却まで](/guide/souzoku-fudousan-shobun-kanzen-guide)
-- [相続登記（名義変更）の義務化とは？2026年最新情報](/guide/souzoku-touki-gimuka-kanzen-taiou-2026)
+- [不動産を売った時の税金はいくら？譲渡所得税の計算方法と節税対策](/guide/souzoku-jouto-shotokuzei-5nen-kisanbi/)
+- [旧耐震基準の物件を売りたい｜耐震改修なしで現況買取できる方法](/guide/kyutaishin-bukken-baikyaku/)
+- [相続した不動産の完全ガイド｜手続き・税金・売却まで](/guide/parent-death-house/)
+- [相続登記（名義変更）の義務化とは？2026年最新情報](/guide/inheritance-registry-neglect-sale-3options/)
 ---
 
-**このカテゴリの全ガイド一覧:** [→ 相続不動産 完全ハブ【2026年版】](/guide/souzoku-hub)
+**このカテゴリの中心の記事:** [→ 相続した家の売り方と手続き](/guide/parent-death-house/)

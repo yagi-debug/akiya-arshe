@@ -2,6 +2,7 @@
 title: "【2026年版】相続した不動産の売り方 完全ガイド｜実務手順・費用・業者選定を買取業者が解説"
 description: "相続不動産の売却手順・かかる費用・業者選定の判断基準を買取業者の実務視点で解説します。相続登記から引き渡しまで7ステップ、費用シミュレーション付き。仲介と買取の比較、3,000万円特別控除の注意点まで網羅した完全ガイドです。"
 publishDate: "2026-05-07"
+noindex: true
 cluster: "inheritance"
 author: "宅建業者"
 heroImage: "/images/souzoku-fudousan-urikata-hero.jpg"
@@ -39,6 +40,8 @@ updatedDate: "2026-09-07"
 <img src="/images/souzoku-fudousan-urikata-hero.jpg" alt="相続不動産の売買契約書にサインする場面　不動産売却の実務手順解説" width="1200" height="800" style="width:100%;height:auto;border-radius:8px;margin-bottom:1.5rem;" />
 
 相続した不動産の売却は、通常の不動産売却よりも手順が複雑です。「誰に売ればいいのか」「費用はいくらかかるのか」「どんな税金が発生するのか」——こうした疑問をお持ちの方は多くいます。
+
+このテーマの全体像は[相続した家の売り方と手続き](/guide/parent-death-house/)にまとめています。
 
 この記事では、<strong>相続不動産の売却実務を10年以上経験してきた買取業者の視点</strong>から、実務手順・かかる費用・業者の選び方を具体的に解説します。難しい専門用語はできるだけ使わず、はじめて相続不動産を売る方でも順を追って理解できるようにまとめました。
 
@@ -229,11 +232,11 @@ updatedDate: "2026-09-07"
 
 ## 関連するガイド記事
 
-- <a href="/guide/souzoku-fudosan-shippai-3jirei">相続不動産の売却で失敗した3事例｜買取で解決した比較と5問リスク診断</a>
-- <a href="/guide/souzoku-jirei-03-apart-souzoku-kaitori">【体験談・事例03】相続アパートを4人兄弟で8か月揉め続けた。買取で全員合意・決済まで28日の全記録</a>
-- <a href="/guide/souzoku-apart-kanzen-guide">相続アパートを手放したい方へ｜売却の流れ・税金・失敗しない判断基準を宅建業者が完全解説【2026年最新】</a>
-- <a href="/guide/akiya-kaitai-hiyou-haraenai">相続した実家の解体費用が払えない｜補助金・現況買取で費用ゼロで手放す3つの方法</a>
-- <a href="/guide/akiya-shobun-5-hikaku">空き家処分の5大選択肢を徹底比較【2026年版】費用・期間・手残り額</a>
+- <a href="/guide/souzoku-fudosan-shippai-3jirei/">相続不動産の売却で失敗した3事例｜買取で解決した比較と5問リスク診断</a>
+- <a href="/guide/souzoku-jirei-03-apart-souzoku-kaitori/">【参考例・事例03】相続アパートを4人兄弟で8か月揉め続けた。買取で全員合意・決済まで28日のケース</a>
+- <a href="/guide/souzoku-apart-kanzen-guide/">相続アパートを手放したい方へ｜売却の流れ・税金・失敗しない判断基準を宅建業者が完全解説【2026年最新】</a>
+- <a href="/guide/akiya-kaitai-hiyou-haraenai/">相続した実家の解体費用が払えない｜補助金・現況買取で費用ゼロで手放す3つの方法</a>
+- <a href="/guide/akiya-shobun-5-hikaku/">空き家処分の5大選択肢を徹底比較【2026年版】費用・期間・手残り額</a>
 
 ## ご相談はLINEまたはフォームから
 
@@ -244,13 +247,13 @@ updatedDate: "2026-09-07"
 <div style="background:#f0f7ff;border:2px solid #1a56db;border-radius:8px;padding:1.5rem;margin:2rem 0;text-align:center;">
   <p style="font-size:1.1rem;font-weight:bold;margin-bottom:1rem;">無料相談・査定のご依頼</p>
   <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06c755;color:#fff;font-weight:bold;padding:0.75rem 2rem;border-radius:8px;text-decoration:none;margin:0.5rem;">LINEで無料相談する</a>
-  <a href="/contact" style="display:inline-block;background:#1a56db;color:#fff;font-weight:bold;padding:0.75rem 2rem;border-radius:8px;text-decoration:none;margin:0.5rem;">お問い合わせフォーム</a>
+  <a href="/contact/" style="display:inline-block;background:#1a56db;color:#fff;font-weight:bold;padding:0.75rem 2rem;border-radius:8px;text-decoration:none;margin:0.5rem;">お問い合わせフォーム</a>
   <p style="font-size:0.9rem;color:#666;margin-top:0.75rem;">24時間受付・大阪・近畿対応・相談無料</p>
 </div>
 
 
 ## 関連するガイド記事
 
-- <a href="/guide/souzoku-hub">相続不動産 完全ハブ｜処分・売却・登記・固定資産税まで全ガイドをまとめて確認【2026年版】</a>
+- <a href="/guide/parent-death-house/">相続した家の売り方と手続き</a>
 
 相続した不動産の売却は、一人で抱え込まずに専門家に相談することが、結果的に一番スムーズな解決につながります。お気軽にご連絡ください。

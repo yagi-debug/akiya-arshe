@@ -25,7 +25,9 @@ updatedDate: "2026-09-07"
 > **TL;DR — 帰省で実家の劣化に気づいたときの対処法まとめ**
 > 「帰ったら実家がボロボロだった」という状況は、放置するほど選択肢が狭まります。<strong>まず写真で状態を記録し、5択（リフォーム・賃貸・自治体制度・解体・買取）の中から状況に合った対処法を選ぶことが重要です。</strong>空き家を放置すると年間35万円以上の維持費がかかり、「管理不全空き家」に指定されると固定資産税が最大6倍に。築古・遠方・訳ありの物件は仲介より買取専門業者への相談が現実的な出口になるケースが多いです。
 
-お盆や年末年始に久しぶりに帰省したら、実家の劣化ぶりに言葉を失った——そんな経験をされた方からのご相談が、毎年この時期に当社に多く寄せられます。
+お盆や年末年始に久しぶりに帰省したら、実家の劣化ぶりに言葉を失った——そんな経験をされる方は、毎年この時期に少なくありません。
+
+このテーマの全体像は[空き家の処分方法の比較](/guide/akiya-shobun-5-hikaku/)にまとめています。
 
 「窓枠が腐っていた」「雨染みが天井に広がっていた」「玄関を開けたら黴の臭いがした」。実家に住んでいた頃には気づかなかった変化が、年単位の時間をおいて帰省すると一気に目に入ることがあります。
 
@@ -108,9 +110,9 @@ updatedDate: "2026-09-07"
 5. 命令
 6. 行政代執行（強制撤去・費用は所有者負担）
 
-詳しくは[特定空き家・管理不全空き家の判定チェックリスト](/guide/tokutei-akiya-hantei-checklist)をご参照ください。
+詳しくは[特定空き家・管理不全空き家の判定チェックリスト](/guide/tokutei-akiya-hantei-checklist/)をご参照ください。
 
-固定資産税6倍化の詳細な試算と回避策は[空き家の固定資産税が6倍になる条件と回避策を比較](/guide/akiya-koteishisanzei-6bai-hikaku)でも解説しています。
+固定資産税6倍化の詳細な試算と回避策は[空き家の固定資産税が6倍になる条件と回避策を比較](/guide/akiya-koteishisanzei-6bai-hikaku/)でも解説しています。
 
 ## 5つの対処法を比較する
 
@@ -128,7 +130,7 @@ updatedDate: "2026-09-07"
   <p style="font-size:1.1rem;font-weight:bold;margin-bottom:1rem;">📩 5択のどれが合うか迷ったら</p>
   <p style="margin-bottom:1rem;">実家の写真をLINEで送るだけで、<br>買取なら査定額を無料でお伝えします</p>
   <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#4caf50;color:#fff;padding:0.75rem 2rem;border-radius:4px;text-decoration:none;font-weight:bold;margin-bottom:0.5rem;">LINEで無料相談する</a>
-  <p style="margin:0.5rem 0 0;"><a href="/contact" style="color:#4caf50;">お問い合わせフォームはこちら</a></p>
+  <p style="margin:0.5rem 0 0;"><a href="/contact/" style="color:#4caf50;">お問い合わせフォームはこちら</a></p>
 </div>
 
 ### ① リフォームして自分・家族が活用する
@@ -153,7 +155,7 @@ updatedDate: "2026-09-07"
 
 「どこに相談しても断られた」「仲介に出しても売れない」という物件でも、買取専門業者では対応できることがあります。
 
-空き家処分5択の詳細な比較は[空き家処分の5大選択肢を徹底比較](/guide/akiya-shobun-5-hikaku)をご覧ください。
+空き家処分5択の詳細な比較は[空き家処分の5大選択肢を徹底比較](/guide/akiya-shobun-5-hikaku/)をご覧ください。
 
 ## 状況別の判断フロー——どの対処法を選ぶか
 
@@ -181,7 +183,7 @@ updatedDate: "2026-09-07"
   <p style="font-size:1.1rem;font-weight:bold;margin-bottom:1rem;">📩 老朽化・訳ありの実家でも大丈夫です</p>
   <p style="margin-bottom:1rem;">片付け・修繕は不要。現況のまま査定します。<br>まずは写真をLINEでお送りください</p>
   <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#4caf50;color:#fff;padding:0.75rem 2rem;border-radius:4px;text-decoration:none;font-weight:bold;margin-bottom:0.5rem;">LINEで無料相談する</a>
-  <p style="margin:0.5rem 0 0;"><a href="/contact" style="color:#4caf50;">お問い合わせフォームはこちら</a></p>
+  <p style="margin:0.5rem 0 0;"><a href="/contact/" style="color:#4caf50;">お問い合わせフォームはこちら</a></p>
 </div>
 
 ## よくある質問
@@ -204,8 +206,8 @@ updatedDate: "2026-09-07"
   <p style="font-size:1.1rem;font-weight:bold;margin-bottom:1rem;">📩 無料相談はこちら</p>
   <p style="margin-bottom:1rem;">LINE「空き家のミカタ」に実家の写真を送るだけで<br>簡易査定を無料でお伝えします</p>
   <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#4caf50;color:#fff;padding:0.75rem 2rem;border-radius:4px;text-decoration:none;font-weight:bold;margin-bottom:0.5rem;">LINEで無料相談する</a>
-  <p style="margin:0.5rem 0 0;"><a href="/contact" style="color:#4caf50;">お問い合わせフォームはこちら</a></p>
+  <p style="margin:0.5rem 0 0;"><a href="/contact/" style="color:#4caf50;">お問い合わせフォームはこちら</a></p>
 </div>
 ---
 
-**このカテゴリの全ガイド一覧:** [→ 空き家の処分・活用 完全ガイド](/guide/vacant-house)
+**このカテゴリの中心の記事:** [→ 空き家の処分・活用 完全ガイド](/guide/akiya-shobun-5-hikaku/)

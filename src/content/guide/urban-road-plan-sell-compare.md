@@ -242,7 +242,7 @@ faqs:
 
 <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" target="_blank" rel="noopener noreferrer"><strong>LINEで無料相談する（都市計画道路の予定地・建築制限のある物件もOK）</strong></a>
 
-<a href="/contact"><strong>お問い合わせフォームはこちら</strong></a>
+<a href="/contact/"><strong>お問い合わせフォームはこちら</strong></a>
 
 ---
 
@@ -255,16 +255,16 @@ faqs:
 <li>仲介に出しても買い手が付きにくい</li>
 <li>事業化を待たず早く現金化したい</li>
 </ul>
-<p style="margin:0;font-size:0.9rem;">1つでも当てはまれば、まずは無料査定でご相談ください。建築制限のある物件全般は<a href="/guide/kenpeiri-yosekiritsu-over-baikyaku">建蔽率・容積率オーバーの物件を売りたい｜既存不適格・違反建築の売却方法</a>もあわせてご確認いただけます。</p>
+<p style="margin:0;font-size:0.9rem;">1つでも当てはまれば、まずは無料査定でご相談ください。建築制限のある物件全般は<a href="/guide/kenpeiri-yosekiritsu-over-baikyaku/">建蔽率・容積率オーバーの物件を売りたい｜既存不適格・違反建築の売却方法</a>もあわせてご確認いただけます。</p>
 </div>
 
 ## 関連するガイド記事
 
-- [再建築不可物件・旗竿地はなぜ売れない？売却する4つの方法](/guide/hatazao-chi-saikenchiku-ka-urenai)
-- [建蔽率・容積率オーバーの物件を売りたい｜既存不適格・違反建築の売却方法](/guide/kenpeiri-yosekiritsu-over-baikyaku)
-- [私道持分がない土地は売れる？私道トラブルと売却方法](/guide/private-road-no-share-sale)
-- [相続した家を現状渡しで売る方法｜片付け・修繕なしで買取できる理由](/guide/souzoku-fudosan-genjou-watashi-kaitori)
-- [訳あり不動産の買取事例5選](/guide/kaitori-jirei)
+- [再建築不可物件・旗竿地はなぜ売れない？売却する4つの方法](/guide/hatazao-chi-saikenchiku-ka-urenai/)
+- [建蔽率・容積率オーバーの物件を売りたい｜既存不適格・違反建築の売却方法](/guide/kenpeiri-yosekiritsu-over-baikyaku/)
+- [私道持分がない土地は売れる？私道トラブルと売却方法](/guide/private-road-no-share-sale/)
+- [相続した家を現状渡しで売る方法｜片付け・修繕なしで買取できる理由](/guide/souzoku-fudosan-genjou-watashi-kaitori/)
+- [大阪市の訳あり物件の買取](/guide/osaka-city-yakuari-kaitori/)
 
 ---
-- <a href="/guide/souzoku-hub">相続不動産 完全ハブ｜処分・売却・登記・固定資産税まで全ガイドをまとめて確認【2026年版】</a>
+- <a href="/guide/parent-death-house/">相続した家の売り方と手続き</a>

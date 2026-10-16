@@ -199,7 +199,7 @@ howToSteps:
 
 <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06c755;color:#fff;padding:14px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 4px;">LINE「空き家のミカタ」に相談する（無料）</a>
 
-<a href="/contact" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 4px;">無料査定フォームで相談する</a>
+<a href="/contact/" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 4px;">無料査定フォームで相談する</a>
 
 空き家・再建築不可・長屋・共有持分などの訳あり不動産を専門に扱っており、<strong>家財が残ったまま・現況のまま</strong>で査定にお応えできます。秘密厳守で対応し、遠方にお住まいの相続人の方からのご相談も承っています。なお、相続放棄・限定承認の手続きは司法書士または弁護士へ、相続税の申告は税理士へご相談ください。当社は不動産の売買を担当します。
 
@@ -207,13 +207,13 @@ howToSteps:
 
 ## 関連記事
 
-- <a href="/guide/souzoku-hub">相続不動産 完全ハブ｜処分・売却・登記・固定資産税・事例まで全ガイドをまとめて確認【2026年版】</a>
-- <a href="/guide/souzoku-houki-kigengire">相続放棄の期限（3ヶ月）を過ぎたらどうなる？期限切れ後の対処法を宅建業者が解説</a>
-- <a href="/guide/souzoku-houki-akiya-hozon-gimu">相続放棄すれば空き家から解放される？民法940条の保存義務と清算人の予納金・代執行費用の実額【2026年版】</a>
-- <a href="/guide/souzoku-touki-gimuka-kanzen-taiou-2026">相続登記義務化の完全対応ガイド【2026年版】5問セルフチェック・期限切れ後3つの対処法・出口戦略4択比較</a>
-- <a href="/guide/souzoku-ie-nani-kara">相続した家、何から手をつければいい？7ステップ・チェックリストと期限一覧【2026年版】</a>
-- <a href="/guide/souzoku-fudosan-kazoku-trouble-kaiketsu">相続した不動産で家族がもめる5つのケース｜解決できないと固定資産税が膨らむ一方</a>
-- <a href="/guide/souzoku-jirei-13-meigi-barabara-kaitori">【体験談・事例13】土地と建物で相続人が異なり8か月停滞。買取で名義問題ごと解決した全記録</a>
+- <a href="/guide/parent-death-house/">相続した家の売り方と手続き</a>
+- <a href="/guide/souzoku-houki-kigengire/">相続放棄の期限（3ヶ月）を過ぎたらどうなる？期限切れ後の対処法を宅建業者が解説</a>
+- <a href="/guide/souzoku-houki-akiya-hozon-gimu/">相続放棄すれば空き家から解放される？民法940条の保存義務と清算人の予納金・代執行費用の実額【2026年版】</a>
+- <a href="/guide/inheritance-registry-neglect-sale-3options/">相続登記義務化の完全対応ガイド【2026年版】5問セルフチェック・期限切れ後3つの対処法・出口戦略4択比較</a>
+- <a href="/guide/souzoku-ie-nani-kara/">相続した家、何から手をつければいい？7ステップ・チェックリストと期限一覧【2026年版】</a>
+- <a href="/guide/souzoku-fudosan-kazoku-trouble-kaiketsu/">相続した不動産で家族がもめる5つのケース｜解決できないと固定資産税が膨らむ一方</a>
+- <a href="/guide/souzoku-jirei-13-meigi-barabara-kaitori/">【参考例・事例13】土地と建物で相続人が異なり8か月停滞。買取で名義問題ごと解決したケース</a>
 
 ---
 

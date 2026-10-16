@@ -2,6 +2,7 @@
 title: "相続した不動産を売るなら必ず確認｜取得費加算の特例で譲渡税が大幅減【2026年版】"
 description: "相続した不動産の売却で「また税金？」と感じている方へ。取得費加算の特例（租税特別措置法第39条）を使えば、支払った相続税の一部を取得費に加算でき、譲渡所得税を大幅に節税できます。計算方法・3年10ヶ月の期限・3,000万円特別控除との選択を解説します。"
 publishDate: "2026-06-29"
+noindex: true
 author: "空き家のミカタ編集部"
 authorTitle: "宅地建物取引業者（大阪府知事(1)第65646号）"
 heroImage: "/images/souzoku-fudosan-shutoku-hi-kazan-hero.jpg"
@@ -28,9 +29,9 @@ updatedDate: "2026-09-07"
 
 <strong>ただし、使えるのは相続開始からおよそ3年10ヶ月以内に売却した場合だけ。</strong>「そんな特例があったとは知らなかった」と申告期限を過ぎてしまう方が後を絶ちません。
 
-この記事では、取得費加算の特例の基本から計算方法、<a href="/guide/souzoku-akiya-3000man-tokubetsu-kojo">3,000万円特別控除</a>との選択まで、相続不動産の売却でよく出る疑問にわかりやすく答えます。
+この記事では、取得費加算の特例の基本から計算方法、<a href="/guide/souzoku-akiya-3000man-tokubetsu-kojo/">3,000万円特別控除</a>との選択まで、相続不動産の売却でよく出る疑問にわかりやすく答えます。
 
-<strong>※ 国税庁の一次情報にあたって要件・算式・期限の数え方をまとめ直した詳細版を公開しました。期限の起算日や空き家特例との選択で迷っている方は、<a href="/guide/shutokuhi-kasan-tokurei-souzoku">取得費加算の特例｜相続税の一部が経費になる3年10か月の期限と計算式【2026年版】</a>をご覧ください。</strong>
+<strong>※ 国税庁の一次情報にあたって要件・算式・期限の数え方をまとめ直した詳細版を公開しました。期限の起算日や空き家特例との選択で迷っている方は、<a href="/guide/shutokuhi-kasan-tokurei-souzoku/">取得費加算の特例｜相続税の一部が経費になる3年10か月の期限と計算式【2026年版】</a>をご覧ください。</strong>
 
 ## 目次
 
@@ -151,7 +152,7 @@ updatedDate: "2026-09-07"
 
 <strong>確定申告の手続きが必須です。</strong>相続税の申告だけでは適用されません。売却した翌年の確定申告（2月16日〜3月15日）で申請する必要があります。
 
-> <strong>実務では：</strong>相続が発生してから不動産の名義変更（<a href="/guide/inheritance-registry">相続登記</a>）や遺産分割協議に時間がかかり、「いつの間にか3年10ヶ月が過ぎていた」というケースがあります。2024年4月から相続登記が義務化され手続きが早まる傾向はありますが、早めに税理士と相談することをお勧めします。
+> <strong>実務では：</strong>相続が発生してから不動産の名義変更（<a href="/guide/inheritance-registry-neglect-sale-3options/">相続登記</a>）や遺産分割協議に時間がかかり、「いつの間にか3年10ヶ月が過ぎていた」というケースがあります。2024年4月から相続登記が義務化され手続きが早まる傾向はありますが、早めに税理士と相談することをお勧めします。
 
 ---
 
@@ -159,7 +160,7 @@ updatedDate: "2026-09-07"
 
 <img src="/images/souzoku-fudosan-shutoku-hi-kazan-realestate.jpg" alt="不動産の引き渡し　家の鍵を渡す場面のイメージ" width="1260" height="750" style="width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" />
 
-相続した空き家を売却する際によく出てくるのが、<strong><a href="/guide/souzoku-akiya-3000man-tokubetsu-kojo">3,000万円特別控除（相続空き家特例、措置法35条3項）</a></strong>との比較です。
+相続した空き家を売却する際によく出てくるのが、<strong><a href="/guide/souzoku-akiya-3000man-tokubetsu-kojo/">3,000万円特別控除（相続空き家特例、措置法35条3項）</a></strong>との比較です。
 
 ### 3,000万円特別控除（相続空き家特例）とは？
 
@@ -235,7 +236,7 @@ updatedDate: "2026-09-07"
 - 取得費加算の期限を税理士と確認する
 - 「今売るか、様子を見るか」ではなく、「期限内に売れる方法を早めに探す」姿勢で動く
 
-<a href="/guide/wakeare-bukken-kaitori-nagare">訳あり物件の買取の流れ</a>についても、あわせてご確認ください。
+<a href="/guide/wakeare-bukken-kaitori-nagare/">訳あり物件の買取の流れ</a>についても、あわせてご確認ください。
 
 ---
 
@@ -252,7 +253,7 @@ updatedDate: "2026-09-07"
   </ul>
   <p style="margin-top:1rem;margin-bottom:0;">
     <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06c755;color:#fff;padding:0.7rem 1.8rem;border-radius:5px;text-decoration:none;font-weight:bold;margin-right:1rem;">LINEで無料相談</a>
-    <a href="/contact" style="display:inline-block;background:#4a7c3f;color:#fff;padding:0.7rem 1.8rem;border-radius:5px;text-decoration:none;font-weight:bold;">お問い合わせフォーム</a>
+    <a href="/contact/" style="display:inline-block;background:#4a7c3f;color:#fff;padding:0.7rem 1.8rem;border-radius:5px;text-decoration:none;font-weight:bold;">お問い合わせフォーム</a>
   </p>
 </div>
 
@@ -377,4 +378,4 @@ updatedDate: "2026-09-07"
 </script>
 ---
 
-**このカテゴリの全ガイド一覧:** [→ 相続不動産 完全ハブ【2026年版】](/guide/souzoku-hub)
+**このカテゴリの中心の記事:** [→ 相続した家の売り方と手続き](/guide/parent-death-house/)

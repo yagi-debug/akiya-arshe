@@ -22,6 +22,8 @@ updatedDate: "2026-09-07"
 
 親族間売買とは、親子・兄弟・配偶者など親族の間で不動産を売買することです。<strong>住宅ローンが組みにくい・税務調査を受けやすいという2つのリスク</strong>があり、適切な対策を講じないと思わぬトラブルになります。
 
+このテーマの全体像は[相続した家の売り方と手続き](/guide/parent-death-house/)にまとめています。
+
 この記事では、親族間売買を検討している方が事前に知っておくべきリスクと、それを回避するための具体的な手順をお伝えします。
 
 ![親族が不動産売買の書類にサインする場面](/images/intra-family-real-estate-sale-risks-hero.jpg)
@@ -204,13 +206,13 @@ updatedDate: "2026-09-07"
 当社では、親族間での不動産問題（共有持分・相続後の名義整理・訳あり物件の処分）についての無料相談を受け付けています。<strong>「売買か相続か贈与か、どうするのが一番良いかわからない」</strong>という段階からご相談いただけます。
 
 - <strong>LINE相談（24時間・無料）</strong>：[空き家のミカタ](https://line.arshe1719.workers.dev/auth/line?ref=hp)
-- <strong>お問い合わせフォーム</strong>：[こちらから](/contact)
+- <strong>お問い合わせフォーム</strong>：[こちらから](/contact/)
 
 ## 関連記事
 
-- <a href="/guide/inheritance-sale">相続した不動産を売却する完全ガイド</a>
-- <a href="/guide/akiya-kaitori">空き家の買取とは？仲介との違い・メリット・流れ</a>
-- <a href="/guide/inheritance-abandon">相続放棄と不動産の関係｜管理責任・リスクと対策</a>
+- <a href="/guide/parent-death-house/">相続した不動産を売却する完全ガイド</a>
+- <a href="/guide/akiya-shobun-5-hikaku/">空き家の処分方法の比較</a>
+- <a href="/guide/inheritance-abandon/">相続放棄と不動産の関係｜管理責任・リスクと対策</a>
 ---
 
-**このカテゴリの全ガイド一覧:** [→ 相続不動産 完全ハブ【2026年版】](/guide/souzoku-hub)
+**このカテゴリの中心の記事:** [→ 相続した家の売り方と手続き](/guide/parent-death-house/)

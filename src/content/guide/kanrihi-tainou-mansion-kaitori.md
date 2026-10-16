@@ -30,6 +30,8 @@ A: 支払い義務は相続人が引き継ぎます（区分所有法第8条）�
 
 管理組合からの請求は、相続人に対して正当なものです。**区分所有法第8条**により、マンションの管理費・修繕積立金の滞納債務はオーナーが変わっても次の所有者に引き継がれます。「自分が住んでいた期間の分ではない」という主張は法律上通りません。
 
+このテーマの全体像は[相続した家の売り方と手続き](/guide/parent-death-house/)にまとめています。
+
 ただし、**売却代金から滞納額を清算する方法**があります。専門の買取業者に相談すれば、滞納額を差し引いた形での買取提案を受けられるため、手持ち現金がなくても解決できます。
 
 <img src="/images/kanrihi-tainou-mansion-kaitori-hero.jpg" alt="東京の集合住宅・マンション外観　相続した区分所有物件のイメージ" width="1260" height="750" style="width:100%;height:auto;border-radius:8px;margin-bottom:1.5rem;" />
@@ -158,11 +160,11 @@ A. 法的措置が進行中でも売却の手続き自体は可能です。た�
 
 管理費滞納があって動き方がわからない方や、管理組合からすでに通知が来ている方は、お早めにご相談ください。
 
-相続登記の手続きについては[相続登記義務化の完全対応ガイド](/guide/souzoku-touki-gimuka-kanzen-taiou-2026)も参考になります。共有持分がある場合は[共有持分の買取](/guide/kyouyuu-mochibun-kaitori)も合わせてご確認ください。
+相続登記の手続きについては[相続登記義務化の完全対応ガイド](/guide/inheritance-registry-neglect-sale-3options/)も参考になります。共有持分がある場合は[共有持分の買取](/guide/kyouyuu-mochibun-kaitori/)も合わせてご確認ください。
 
 ---
 
-**このカテゴリの全ガイド一覧:** [→ 相続不動産 完全ハブ【2026年版】](/guide/souzoku-hub)
+**このカテゴリの中心の記事:** [→ 相続した家の売り方と手続き](/guide/parent-death-house/)
 
 ---
 
@@ -171,4 +173,4 @@ A. 法的措置が進行中でも売却の手続き自体は可能です。た�
 管理費の滞納があるマンションの処分に困っている方のご相談を受け付けています。滞納額・管理組合との状況・相続登記の進捗などを教えていただければ、最適な進め方をご提案します。査定・相談は無料で、しつこい営業は行いません。
 
 <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06C755;color:#fff;padding:14px 32px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 8px 8px 0;">LINEで無料相談（即日対応）</a>
-<a href="/contact" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 32px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 0;">お問い合わせフォーム</a>
+<a href="/contact/" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 32px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 0;">お問い合わせフォーム</a>

@@ -2,6 +2,7 @@
 title: "相続した不動産で家族がもめる5つのケース｜解決できないと固定資産税が膨らむ一方"
 description: "相続した不動産で家族がもめるよくある5パターンを解説。遺産分割協議が成立しない理由、放置リスク（固定資産税・管理費）、遺産分割調停から自分の持分だけ売る方法まで。大阪市の宅建業者が解説します。"
 publishDate: "2026-05-12"
+noindex: true
 cluster: "inheritance"
 author: "空き家のミカタ編集部"
 authorTitle: "宅地建物取引業者（大阪府知事(1)第65646号）"
@@ -43,43 +44,13 @@ faqs:
 }
 </script>
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "相続人の1人が売却に反対しています。それでも売れますか？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "相続人全員の同意がなければ、共有状態の不動産全体を売却することはできません。ただし、自分の「持分」だけであれば、他の相続人の同意なしに売却することは法律上可能です（判例・通説）。話し合いが進まない場合は、家庭裁判所への遺産分割調停の申立てという選択肢もあります。"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "連絡がとれない相続人がいます。どうすればいいですか？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "相続人の所在が確認できない場合、家庭裁判所に「不在者財産管理人」の選任を申し立てることができます。2023年4月施行の「所在等不明共有者の持分取得・譲渡制度」により、一定条件のもと不在の共有者抜きで手続きを進める方法も整備されました。"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "相続人の1人が認知症です。遺産分割協議はできますか？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "判断能力が低下した相続人は、遺産分割協議への参加が法律上認められません。家庭裁判所で「成年後見人」を選任し、後見人が代理として協議に参加する必要があります。"
-      }
-    }
-  ]
-}
-</script>
 
 > **Q: 相続した不動産で家族がもめています。売却できますか？**
 > A: 相続人全員の同意がなければ共有不動産全体の売却はできません。ただし「自分の持分だけ」であれば他の相続人の同意なしに売却可能です（判例）。話し合いが進まない場合は、①家庭裁判所への遺産分割調停申立て（印紙代1,200円〜）、②弁護士・司法書士への相談、③持分のみ売却――の3つが主な選択肢になります。もめたままでも査定・相談は無料で受け付けています。
 
 <strong>相続した不動産をめぐる家族のトラブルは、珍しいことではありません。</strong>最高裁判所の司法統計によると、2022年に家庭裁判所に申し立てられた遺産分割調停は11,411件。10年前（2012年: 約7,800件）と比べて約1.5倍に増えています。
+
+このテーマの全体像は[共有持分の買取・売却方法](/guide/kyouyuu-mochibun-kaitori/)にまとめています。
 
 問題は、<strong>もめたまま放置すると、誰も得をしないままコストだけが増え続けること</strong>です。固定資産税・管理費・建物の劣化――解決を先送りするほど、不動産の価値は下がり、売りにくくなります。
 
@@ -199,11 +170,10 @@ faqs:
 
 ## 関連するガイド記事
 
-- <a href="/guide/souzoku-hub">相続不動産 完全ハブ｜処分・売却・登記・固定資産税・事例まで全ガイドをまとめて確認【2026年版】</a>
-- <a href="/guide/souzoku-apart-kanzen-guide">相続アパートを手放したい方へ｜売却の流れ・税金・失敗しない判断基準を宅建業者が完全解説【2026年最新】</a>
-- <a href="/guide/souzoku-fudousan-shobun-kanzen-guide">相続不動産の処分 完全ガイド2026｜法律・登記・比較表・失敗対策まで一気に解説</a>
-- <a href="/guide/akiya-kotei-shisan-zei-haraenai">空き家の固定資産税が払えないとき｜分納・減免・売却・相続放棄の4つの選択肢【2026年版】</a>
-- <a href="/guide/akiya-owner-annual-calendar">相続した空き家の年間やることカレンダー｜固定資産税5〜6月・年末12月・確定申告2〜3月 完全ガイド2026年版</a>
+- <a href="/guide/parent-death-house/">相続した家の売り方と手続き</a>
+- <a href="/guide/souzoku-apart-kanzen-guide/">相続アパートを手放したい方へ｜売却の流れ・税金・失敗しない判断基準を宅建業者が完全解説【2026年最新】</a>
+- <a href="/guide/akiya-kotei-shisan-zei-haraenai/">空き家の固定資産税が払えないとき｜分納・減免・売却・相続放棄の4つの選択肢【2026年版】</a>
+- <a href="/guide/akiya-owner-annual-calendar/">相続した空き家の年間やることカレンダー｜固定資産税5〜6月・年末12月・確定申告2〜3月 完全ガイド2026年版</a>
 
 ## 相続した不動産のこと、ひとりで抱えないでください
 
@@ -213,15 +183,15 @@ faqs:
 
 <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06C755;color:#fff;padding:14px 28px;border-radius:6px;font-weight:bold;text-decoration:none;font-size:1.05em;">LINEで無料相談する（空き家のミカタ）</a>
 
-<a href="/contact">お問い合わせフォームはこちら</a>
+<a href="/contact/">お問い合わせフォームはこちら</a>
 
 相談無料・秘密厳守・大阪市全域対応
 
 ---
 
 **関連記事**
-- <a href="/guide/kyouyuu-mochibun-kaitori">共有持分の買取｜他の共有者の同意なしに売る方法</a>
-- <a href="/guide/isan-bunkatsu-kyougisho-kakikata">遺産分割協議書の書き方と4ステップ手順</a>
-- <a href="/guide/dementia-coowner-property-sale">認知症の共有者がいる不動産を売る方法</a>
-- <a href="/guide/souzoku-ie-doushitara">相続した家はどうする？4つの選択肢と判断基準</a>
-- <a href="/guide/souzoku-touki-gimuka-akiya-baikyaku">相続登記が義務化｜空き家を売るまでの流れ</a>
+- <a href="/guide/kyouyuu-mochibun-kaitori/">共有持分の買取｜他の共有者の同意なしに売る方法</a>
+- <a href="/guide/isan-bunkatsu-kyougisho-kakikata/">遺産分割協議書の書き方と4ステップ手順</a>
+- <a href="/guide/dementia-coowner-property-sale/">認知症の共有者がいる不動産を売る方法</a>
+- <a href="/guide/souzoku-ie-doushitara/">相続した家はどうする？4つの選択肢と判断基準</a>
+- <a href="/guide/souzoku-touki-gimuka-akiya-baikyaku/">相続登記が義務化｜空き家を売るまでの流れ</a>

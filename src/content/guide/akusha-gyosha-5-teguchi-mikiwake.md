@@ -2,6 +2,7 @@
 title: "訳あり不動産買取の悪質業者5つの手口｜騙されない見分け方と安全な相見積もり手順"
 description: "訳あり不動産の買取業者を探している方向けに、悪質業者が使う5つの手口（買い叩き・手付金詐欺・契約書の不利条項・無免許業者・しつこい営業）を具体的に解説します。各手口の見分け方・対処法と、信頼できる業者を選ぶ3項目チェックリストを宅建業者の視点からお伝えします。"
 publishDate: "2026-05-14"
+noindex: true
 author: "空き家のミカタ編集部"
 authorTitle: "宅地建物取引業者（大阪府知事(1)第65646号）"
 heroImage: "/images/akusha-gyosha-5-teguchi-hero.jpg"
@@ -36,6 +37,8 @@ updatedDate: "2026-09-07"
 > - 信頼できる業者を選ぶ3項目チェックリスト
 
 「なかなか売れない物件なのに、いきなり高額査定が来た」「契約後に理由をつけて大幅に値下げされた」「書類を置いていったまま連絡が取れなくなった」——訳あり不動産の売却に関するトラブル相談は、全国の消費生活センターに年間数千件単位で寄せられています。
+
+このテーマの全体像は[訳あり不動産の買取業者を選ぶ5つのチェックポイント](/guide/kaitori-gyosha-erabikata-checkpoints/)にまとめています。
 
 訳あり物件は一般の不動産より売却先が限られ、売主が情報を持ちにくい分、<strong>悪質業者に狙われやすい取引</strong>でもあります。被害を避けるには、よく使われる手口をあらかじめ知っておくことが最も効果的です。
 
@@ -242,11 +245,10 @@ updatedDate: "2026-09-07"
 
 ## 関連するガイド記事
 
-- <a href="/guide/jiko-bukken-hub">事故物件 完全ハブ｜買取・告知義務・心理的瑕疵・価格相場まで全ガイドまとめ【2026年版】</a>
-- <a href="/guide/accident-property-sale">事故物件は売れる？告知義務・売却相場・買取の流れを宅建業者が解説【大阪・近畿対応・秘密厳守】</a>
-- <a href="/guide/jiko-bukken-kaitori">事故物件 買取・現金化｜最短3日・告知義務あり対応【大阪府・秘密厳守】</a>
-- <a href="/guide/kyouyuu-mochibun-hub">共有持分 完全ハブ｜売却・買取・トラブル解決・相場まで全ガイドまとめ【2026年版】</a>
-- <a href="/guide/saikenchifu-hub">再建築不可物件 完全ハブ｜売却・買取・価格相場・事例まで全ガイドまとめ【2026年版】</a>
+- <a href="/guide/jiko-bukken-hub/">事故物件 完全ハブ｜買取・告知義務・心理的瑕疵・価格相場まで全ガイドまとめ【2026年版】</a>
+- <a href="/guide/accident-property-sale/">事故物件は売れる？告知義務・売却相場・買取の流れを宅建業者が解説【大阪・近畿対応・秘密厳守】</a>
+- <a href="/guide/kyouyuu-mochibun-kaitori/">共有持分の買取・売却方法</a>
+- <a href="/guide/non-rebuildable-property-sale/">再建築不可物件の売却方法</a>
 
 ## まとめ：訳あり物件の売却で気をつけるべきこと
 
@@ -268,5 +270,5 @@ updatedDate: "2026-09-07"
 <p style="font-weight:bold;margin:0 0 0.5rem;">訳あり物件の査定・ご相談（無料）</p>
 <p style="margin:0 0 1rem;">当社（空き家のミカタ）は、大阪府知事(1)第65646号の宅建業者として、訳あり不動産の直接買取を行っています。査定根拠の説明・費用の透明性・持ち帰り検討への対応など、誠実な取引を心がけています。「他社で断られた」「査定に疑問を感じている」という方もお気軽にご相談ください。</p>
 <p style="margin:0.5rem 0;"><a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="background:#06c755;color:#fff;padding:0.6rem 1.4rem;border-radius:6px;text-decoration:none;font-weight:bold;display:inline-block;">LINEで無料相談（24時間受付）</a></p>
-<p style="margin:0.5rem 0;"><a href="/contact" style="background:#2563eb;color:#fff;padding:0.6rem 1.4rem;border-radius:6px;text-decoration:none;font-weight:bold;display:inline-block;">お問い合わせフォームから相談する</a></p>
+<p style="margin:0.5rem 0;"><a href="/contact/" style="background:#2563eb;color:#fff;padding:0.6rem 1.4rem;border-radius:6px;text-decoration:none;font-weight:bold;display:inline-block;">お問い合わせフォームから相談する</a></p>
 </div>
