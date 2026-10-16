@@ -184,7 +184,7 @@ faqs:
 
 2023年12月13日に施行された改正（令和5年法律第50号）で、この管理不全空家等の段階が新設されました。<strong>従来は「特定空家等」に指定されるほど傷んで初めて対象でしたが、その手前の段階でも勧告の対象になりうる</strong>ということです。逆に言えば、<strong>指導の通知が届いた段階で草木の伐採や修繕に対応すれば、勧告には至りません</strong>。届いた封筒を開けないまま置いておくことが、一番避けたい対応になります。
 
-固定資産税の詳しい試算は「[空き家の固定資産税6倍化の回避策と売却タイミング](/guide/akiya-koteishisanzei-6bai-hikaku)」で扱っています。
+固定資産税の詳しい試算は「[空き家の固定資産税6倍化の回避策と売却タイミング](/guide/akiya-koteishisanzei-6bai-hikaku/)」で扱っています。
 
 ## 状態悪化型：売れる物件が売れない物件に変わる分岐点
 
@@ -290,7 +290,7 @@ A: 「今は動かないほうがいい」とお伝えすることもありま�
 
 <p style="margin-top:0.5rem;font-size:0.9rem;">「空き家のミカタ」を友だち追加してください</p>
 
-<a href="/contact" style="display:inline-block;border:2px solid rgba(255,255,255,0.4);color:#fff;padding:0.5rem 1.5rem;border-radius:8px;font-weight:bold;text-decoration:none;margin-top:0.5rem;">フォームで相談する</a>
+<a href="/contact/" style="display:inline-block;border:2px solid rgba(255,255,255,0.4);color:#fff;padding:0.5rem 1.5rem;border-radius:8px;font-weight:bold;text-decoration:none;margin-top:0.5rem;">フォームで相談する</a>
 
 </section>
 
@@ -298,14 +298,14 @@ A: 「今は動かないほうがいい」とお伝えすることもありま�
 
 ## 関連するガイド記事
 
-- [空き家固定資産税6倍化の回避策と売却タイミング徹底比較](/guide/akiya-koteishisanzei-6bai-hikaku)
-- [相続登記を放置したらどうなる？義務化後の過料と3つの選択肢](/guide/souzoku-touki-houchi-doushitara)
-- [相続した空き家が売れない理由と、それでも手放す方法](/guide/akiya-souzoku-urenai)
-- [空き家所有者の年間カレンダー｜いつ何をすればいいか](/guide/akiya-owner-annual-calendar)
-- [実家を売るのは親不孝か｜仏壇・位牌の片づけ順と親族への伝え方](/guide/jikka-uru-oyafukou-handan)
-- [空き家の処分5つの方法を徹底比較｜売却・解体・寄付・活用・放置](/guide/akiya-shobun-5-hikaku)
+- [空き家固定資産税6倍化の回避策と売却タイミング徹底比較](/guide/akiya-koteishisanzei-6bai-hikaku/)
+- [相続登記を放置したらどうなる？義務化後の過料と3つの選択肢](/guide/souzoku-touki-houchi-doushitara/)
+- [相続した空き家が売れない理由と、それでも手放す方法](/guide/akiya-souzoku-urenai/)
+- [空き家所有者の年間カレンダー｜いつ何をすればいいか](/guide/akiya-owner-annual-calendar/)
+- [実家を売るのは親不孝か｜仏壇・位牌の片づけ順と親族への伝え方](/guide/jikka-uru-oyafukou-handan/)
+- [空き家の処分5つの方法を徹底比較｜売却・解体・寄付・活用・放置](/guide/akiya-shobun-5-hikaku/)
 
-**このカテゴリの全ガイド一覧:** [→ 相続不動産 完全ハブ](/guide/inheritance-sale)
+**このカテゴリの中心の記事:** [→ 相続不動産 完全ハブ](/guide/parent-death-house/)
 
 ---
 

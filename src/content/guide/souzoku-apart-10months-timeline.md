@@ -2,6 +2,7 @@
 title: "相続発生から10ヶ月でやること完全タイムライン｜アパート処分の判断ガイド"
 description: "相続したアパートの処分を10ヶ月以内に判断するための月別チェックリスト。相続税の基礎控除計算式、遺産分割協議の進め方、保有・売却・買取の比較まで宅建業者が解説します。"
 publishDate: "2026-04-19"
+noindex: true
 author: "八木 宏樹"
 updatedDate: "2026-09-07"
 heroImage: "/images/souzoku-apart-10months-hero.jpg"
@@ -46,12 +47,9 @@ A: できます。入居者がいるアパートは「オーナーチェンジ�
 
 **大阪市でアパートを相続した場合、売却期間は通常21〜30日、買取なら最短7日で現金化できます。**
 
-大阪市内のアパート相続は、**遺産分割協議前でも査定・買取契約を並行**して進められることが多いため、相続税申告までの10ヶ月を有効活用できます。
+このテーマの全体像は[相続アパートの売却ガイド](/guide/souzoku-apart-kanzen-guide/)にまとめています。
 
-**大阪市の相続アパート売却実績例**：
-- 生野区：3DK築30年入居者付きアパート → オーナーチェンジで37日現金化
-- 東淀川区：4戸建アパート相続登記前 → 換価分割で45日決済
-- 北区：共有持分アパート → 異議なし相続登記後22日で買取完了
+大阪市内のアパート相続は、**遺産分割協議前でも査定・買取契約を並行**して進められることが多いため、相続税申告までの10ヶ月を有効活用できます。
 
 相続したアパートに**入居者がいる場合も、オーナーチェンジとして投資家に売却可能**です。満室なら相場より上振れすることもあります。
 
@@ -160,7 +158,7 @@ A: できます。入居者がいるアパートは「オーナーチェンジ�
 - 相続財産を使ったり処分したりすると、相続を承認したとみなされます
 - 判断に迷う場合は、家庭裁判所に<strong>熟慮期間の伸長</strong>を申し立てることができます
 
-相続放棄について詳しくは<a href="/guide/inheritance-abandon">相続放棄の手続きガイド</a>をご覧ください。期限を過ぎてしまった場合の対処法は<a href="/guide/souzoku-houki-kigengire">相続放棄の期限切れ対処法</a>で解説しています。
+相続放棄について詳しくは<a href="/guide/inheritance-abandon/">相続放棄の手続きガイド</a>をご覧ください。期限を過ぎてしまった場合の対処法は<a href="/guide/souzoku-houki-kigengire/">相続放棄の期限切れ対処法</a>で解説しています。
 
 ## 4ヶ月目：準確定申告
 
@@ -212,7 +210,7 @@ A: できます。入居者がいるアパートは「オーナーチェンジ�
 | <strong>仲介で売却</strong> | 市場価格で売れる可能性 | 3〜6ヶ月かかる・仲介手数料 | 好立地・築浅で買い手がつきやすい |
 | <strong>買取を依頼</strong> | 最短数日で売却完了・仲介手数料不要 | 仲介より価格が下がることが多い | 築古・地方・入居者あり・急ぎの処分 |
 
-相続アパートの売却タイミングについて詳しくは<a href="/guide/souzoku-apart-timing">相続アパートの売却タイミング判断基準</a>をご参考ください。維持費の具体的なシミュレーションは<a href="/guide/souzoku-apart-cost-simulation">相続アパートの維持費シミュレーション</a>で解説しています。
+相続アパートの売却タイミングについて詳しくは<a href="/guide/souzoku-apart-timing/">相続アパートの売却タイミング判断基準</a>をご参考ください。維持費の具体的なシミュレーションは<a href="/guide/souzoku-apart-cost-simulation/">相続アパートの維持費シミュレーション</a>で解説しています。
 
 ## 9〜10ヶ月目：相続税の申告・納付
 
@@ -259,7 +257,7 @@ A: できます。入居者がいるアパートは「オーナーチェンジ�
 | ペナルティ | 内容 |
 |----------|------|
 | <strong>無申告加算税</strong> | 税額の15%〜20% |
-| <strong>延滞税</strong> | 年率約2.4%〜8.7%（時期により変動） |
+| <strong>延滞税</strong> | 令和8年は年2.8%〜9.1%（毎年改定） |
 | <strong>特例の適用不可</strong> | 小規模宅地等の特例・配偶者の税額軽減が使えなくなる可能性 |
 
 <strong>ペナルティは金額が大きくなりがちです。</strong>10ヶ月はあっという間に過ぎますので、早めに動き始めることをおすすめします。
@@ -286,9 +284,11 @@ A: できます。入居者がいるアパートは「オーナーチェンジ�
 
 **代表・八木 宏樹の見解**（合同会社アルシェ／宅建業免許: 大阪府知事(1)第65646号）
 
-相続アパートの相談で最も多い思い込みは「入居者がいるから売れない」「相続登記が済んでいないと相談できない」というものです。実際には、次のような案件を解決しています。
+相続アパートでよくある思い込みは「入居者がいるから売れない」「相続登記が済んでいないと相談できない」というものです。実際には、次のような案件も買取で解決できる場合があります。
 
-**匿名買取実績（例）**
+**よくあるご相談の例（参考例）**
+
+※実在の取引ではなく、よくある状況をもとにした参考例です。価格や期間は物件ごとに異なります。
 - 大阪市内・築48年木造アパート4室・入居者2名付き → オーナーチェンジ形式で直接買取（相続発生から29日で完了）
 - 大阪府内・再建築不可の戸建て・相続登記未了 → 相続登記と売買手続きを並行して進め、23日で現金化
 - 関西圏・相続人3名の共有名義アパート・兄弟間で意見が相違 → 共有持分の個別買取から名義整理の順で対応し解決
@@ -322,13 +322,13 @@ A: できます。入居者がいるアパートは「オーナーチェンジ�
 
 ## 関連する記事
 
-- <a href="/guide/inheritance-sale-timeline">相続から売却完了までのタイムライン</a>
-- <a href="/guide/souzoku-apart-timing">相続アパートの売却タイミング判断基準</a>
-- <a href="/guide/souzoku-apart-cost-simulation">相続アパートの維持費シミュレーション</a>
-- <a href="/guide/inherited-apartment-buyout">相続アパートの買取ガイド</a>
-- <a href="/guide/nyukyosha-apart-baikyaku">入居者がいるアパートの売却方法</a>
-- <a href="/guide/inheritance-tax-basics">相続税の基本と計算方法</a>
-- <a href="/guide/selling-tax-guide">不動産売却の税金ガイド</a>
+- <a href="/guide/inheritance-sale-timeline/">相続から売却完了までのタイムライン</a>
+- <a href="/guide/souzoku-apart-timing/">相続アパートの売却タイミング判断基準</a>
+- <a href="/guide/souzoku-apart-cost-simulation/">相続アパートの維持費シミュレーション</a>
+- <a href="/guide/inherited-apartment-buyout/">相続アパートの買取ガイド</a>
+- <a href="/guide/souzoku-apart-owner-change-shokei/">入居者がいるアパートの売却方法</a>
+- <a href="/guide/inheritance-tax-basics/">相続税の基本と計算方法</a>
+- <a href="/guide/souzoku-jouto-shotokuzei-5nen-kisanbi/">不動産売却の税金ガイド</a>
 
 ---
 
@@ -342,7 +342,7 @@ A: できます。入居者がいるアパートは「オーナーチェンジ�
 
 「空き家のミカタ」を友だち追加してください
 
-<a href="/contact" style="display:inline-block;border:2px solid rgba(255,255,255,0.4);color:#fff;padding:0.5rem 1.5rem;border-radius:8px;font-weight:bold;text-decoration:none;margin-top:0.5rem;">フォームで相談する</a>
+<a href="/contact/" style="display:inline-block;border:2px solid rgba(255,255,255,0.4);color:#fff;padding:0.5rem 1.5rem;border-radius:8px;font-weight:bold;text-decoration:none;margin-top:0.5rem;">フォームで相談する</a>
 
 </section>
-- <a href="/guide/souzoku-hub">相続不動産 完全ハブ｜処分・売却・登記・固定資産税まで全ガイドをまとめて確認【2026年版】</a>
+- <a href="/guide/parent-death-house/">相続した家の売り方と手続き</a>

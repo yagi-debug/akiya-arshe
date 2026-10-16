@@ -229,15 +229,15 @@ cluster: "wakeari"
 
 ### Q. 賃貸中だった投資用のワンルームが空室になりました。売るべきか、また入居者を探すべきか迷っています。
 
-年間の手残り（家賃収入から管理費・修繕積立金・固定資産税・原状回復費を引いた額）と、売却して現金化した場合の金額を並べて比べてください。空室期間が長引くほど、管理費と修繕積立金が持ち出しになります。判断材料の作り方は<a href="/guide/rental-mansion-vacancy-sell-timing">相続した賃貸マンションの空室率が高い｜収益悪化で売却を判断する3つのサイン</a>にまとめています。
+年間の手残り（家賃収入から管理費・修繕積立金・固定資産税・原状回復費を引いた額）と、売却して現金化した場合の金額を並べて比べてください。空室期間が長引くほど、管理費と修繕積立金が持ち出しになります。判断材料の作り方は<a href="/guide/rental-mansion-vacancy-sell-timing/">相続した賃貸マンションの空室率が高い｜収益悪化で売却を判断する3つのサイン</a>にまとめています。
 
 ## 関連するガイド記事
 
-- <a href="/guide/rental-mansion-vacancy-sell-timing">相続した賃貸マンションの空室率が高い｜収益悪化で売却を判断する3つのサイン</a>
-- <a href="/guide/souzoku-mansion-baikyaku">相続したマンションの売却方法｜管理費滞納・共有持分・3つの注意点</a>
-- <a href="/guide/kanrihi-tainou-mansion-kaitori">管理費を滞納しているマンションの買取</a>
-- <a href="/guide/vacant-house-management-vs-early-sale-cost">空き家の管理を続ける場合と早期売却の費用比較</a>
-- <a href="/guide/akiya-kaitori">空き家の買取｜現況のまま売却する方法</a>
+- <a href="/guide/rental-mansion-vacancy-sell-timing/">相続した賃貸マンションの空室率が高い｜収益悪化で売却を判断する3つのサイン</a>
+- <a href="/guide/souzoku-mansion-baikyaku/">相続したマンションの売却方法｜管理費滞納・共有持分・3つの注意点</a>
+- <a href="/guide/kanrihi-tainou-mansion-kaitori/">管理費を滞納しているマンションの買取</a>
+- <a href="/guide/vacant-house-management-vs-early-sale-cost/">空き家の管理を続ける場合と早期売却の費用比較</a>
+- <a href="/guide/akiya-shobun-5-hikaku/">空き家の処分方法の比較</a>
 
 ## まずはお気軽にご相談ください
 
@@ -247,7 +247,7 @@ cluster: "wakeari"
 
 <strong><a href="https://line.arshe1719.workers.dev/auth/line?ref=hp">LINEで無料相談する</a></strong>
 
-<strong><a href="/contact">お問い合わせフォームはこちら</a></strong>
+<strong><a href="/contact/">お問い合わせフォームはこちら</a></strong>
 
 → <a href="/satei/">無料査定の相談準備メモ（入力任意）</a>　所在地や入居状況を整理できます。価格は物件を確認して個別にご案内します。
 

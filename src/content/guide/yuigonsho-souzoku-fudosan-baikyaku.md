@@ -21,6 +21,8 @@ faqs:
 
 親が遺言書を残していた——。こうしたケースで「遺言書があれば話し合いなしに不動産を売れるのか」「公正証書と手書きの遺言では手続きが違うのか」と疑問を持つ方は多くいらっしゃいます。
 
+このテーマの全体像は[相続した家の売り方と手続き](/guide/parent-death-house/)にまとめています。
+
 <strong>遺言書がある場合、受遺者（遺言で財産を受け取る人）が明確であれば、原則として遺産分割協議なしに不動産の相続登記・売却を進めることができます。</strong>ただし、遺言書の種類によって「検認」の要否が変わり、遺言執行者がいるかどうかで手続きのスムーズさも大きく変わります。
 
 この記事では、遺言書がある場合の相続不動産売却の手順を、遺言書の種類別・ステップ別に説明します。
@@ -167,7 +169,7 @@ faqs:
 
 訳あり物件の買取専門業者であれば、<strong>現況のまま・最短数日〜数週間で現金化</strong>できる場合があります。仲介手数料もかかりません。
 
-相続登記が完了していることが前提になりますので、まず登記を進めてからご相談ください。相続登記の手続きについては[相続登記義務化の対応ガイド](/guide/souzoku-touki-gimuka-kanzen-taiou-2026)もご参照ください。
+相続登記が完了していることが前提になりますので、まず登記を進めてからご相談ください。相続登記の手続きについては[相続登記義務化の対応ガイド](/guide/inheritance-registry-neglect-sale-3options/)もご参照ください。
 
 ---
 
@@ -203,7 +205,7 @@ A. 遺言書がある場合でも、再建築不可・事故物件・共有持�
 
 ---
 
-**このカテゴリの全ガイド一覧:** [→ 相続不動産 完全ハブ【2026年版】](/guide/souzoku-hub)
+**このカテゴリの中心の記事:** [→ 相続した家の売り方と手続き](/guide/parent-death-house/)
 
 ---
 
@@ -212,4 +214,4 @@ A. 遺言書がある場合でも、再建築不可・事故物件・共有持�
 遺言書がある相続不動産の売却について、ご状況をお聞かせください。相続登記前のご相談でも構いません。査定・相談は無料で、しつこい営業は行いません。
 
 <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06C755;color:#fff;padding:14px 32px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 8px 8px 0;">LINEで無料相談（即日対応）</a>
-<a href="/contact" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 32px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 0;">お問い合わせフォーム</a>
+<a href="/contact/" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 32px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 0;">お問い合わせフォーム</a>

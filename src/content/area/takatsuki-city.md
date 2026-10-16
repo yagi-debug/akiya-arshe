@@ -46,7 +46,7 @@ author: "宅建業者"
 
 高槻市を含む北摂エリアでは、高度経済成長期（1960〜1970年代）に急増した住宅団地の老朽化が進んでいます。<strong>大阪府全体の空き家率は約15.2%（出典：総務省「令和5年住宅・土地統計調査」）</strong>で全国平均（13.8%）を上回っており、高槻市においても市北部や旧市街地を中心に空き家の増加傾向が見られます。
 
-- <strong>特定空き家に認定されると固定資産税が最大6倍</strong>になるリスクがある（[詳細はこちら](/guide/vacancy-tax-6times)）
+- <strong>特定空き家に認定されると固定資産税が最大6倍</strong>になるリスクがある（[詳細はこちら](/guide/akiya-koteishisanzei-6bai-hikaku/)）
 - 高槻市は「高槻市空き家等対策計画」を策定し、危険空き家への勧告・代執行を強化中
 - 市内の市街化調整区域（農地・山林隣接エリア）では、相続後に管理放棄された空き家が特に多い
 
@@ -96,7 +96,7 @@ JR・阪急2路線利用可で大阪・京都双方へのアクセスが良い�
 
 <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06C755;color:#fff;font-weight:bold;padding:0.75rem 2rem;border-radius:0.5rem;text-decoration:none;margin:0.5rem 0;">LINEで無料相談する（24時間受付）</a>
 
-<a href="/contact" style="display:inline-block;background:#2563eb;color:#fff;font-weight:bold;padding:0.75rem 2rem;border-radius:0.5rem;text-decoration:none;margin:0.5rem 0;">お問い合わせフォームはこちら</a>
+<a href="/contact/" style="display:inline-block;background:#2563eb;color:#fff;font-weight:bold;padding:0.75rem 2rem;border-radius:0.5rem;text-decoration:none;margin:0.5rem 0;">お問い合わせフォームはこちら</a>
 
 空き家のミカタ（宅建業者・大阪府知事(1)第65646号）
 
@@ -104,14 +104,14 @@ JR・阪急2路線利用可で大阪・京都双方へのアクセスが良い�
 
 ## 関連するエリアページ
 
-- <a href="/area/osaka-city">大阪市の訳あり物件買取完全ガイド</a>
-- <a href="/area/osaka-pref">大阪府の空き家補助金・空き家バンク</a>
-- <a href="/area/suita-city">吹田市の不動産買取相場</a>
-- <a href="/area/toyonaka-city">豊中市の不動産買取相場</a>
-- <a href="/area/higashiosaka-city">東大阪市の不動産買取相場</a>
+- <a href="/guide/osaka-city-yakuari-kaitori/">大阪市の訳あり物件買取完全ガイド</a>
+- <a href="/area/osaka-pref/">大阪府の空き家補助金・空き家バンク</a>
+- <a href="/area/suita-city/">吹田市の不動産買取相場</a>
+- <a href="/area/toyonaka-city/">豊中市の不動産買取相場</a>
+- <a href="/area/higashiosaka-city/">東大阪市の不動産買取相場</a>
 
 ## 関連ガイド
 
-- <a href="/guide/souzoku-apart-kaitori">相続アパートの買取｜管理できない入居者付きアパートも直接買取</a>
-- <a href="/guide/non-rebuildable-property-sale">再建築不可物件の売却方法と注意点</a>
-- <a href="/guide/akiya-kaitori">空き家の買取｜放置している空き家を現金化する方法</a>
+- <a href="/guide/souzoku-apart-kanzen-guide/">相続アパートの買取｜管理できない入居者付きアパートも直接買取</a>
+- <a href="/guide/non-rebuildable-property-sale/">再建築不可物件の売却方法と注意点</a>
+- <a href="/guide/akiya-shobun-5-hikaku/">空き家の処分方法の比較</a>

@@ -12,7 +12,7 @@ faqs:
   - question: "相続した空き家の固定資産税は減免されますか？"
     answer: "自治体によって異なりますが、空き家に対する固定資産税の一般的な減免制度はほとんど存在しません。ただし、所有者の生活困窮・災害・火災被害などの特別な事情がある場合、条例に基づく減免が認められるケースがあります。管轄の税務課に個別に相談してください。"
   - question: "固定資産税を払わずに放置するとどうなりますか？"
-    answer: "納期限を過ぎると延滞金（最初の1ヶ月は年2.4%、以降は年8.7%）が加算されます。さらに督促状、差押予告通知が送付され、最終的には不動産・預貯金・給与などへの差し押さえが行われます。差し押さえを避けるためには早めに市区町村の窓口に相談することが重要です。"
+    answer: "納期限を過ぎると延滞金（令和8年は、最初の1ヶ月は年2.8%、以降は年9.1%。割合は毎年改定されます）が加算されます。さらに督促状、差押予告通知が送付され、最終的には不動産・預貯金・給与などへの差し押さえが行われます。差し押さえを避けるためには早めに市区町村の窓口に相談することが重要です。"
   - question: "固定資産税を滞納したまま不動産を売却できますか？"
     answer: "売却自体は可能ですが、固定資産税の滞納がある場合、物件に「差押え」が入っていると売却できません。差押え前であれば売却代金から滞納税を精算して所有権を移転できます。買取業者への直接売却は仲介より早く進むため、差押え前の早期対応が有効です。"
   - question: "相続した空き家を相続放棄すれば固定資産税を払わなくて済みますか？"
@@ -28,7 +28,7 @@ cluster: "akiya-tax"
 
 この記事では、空き家の固定資産税が払えない・高すぎると感じている方に向けて、<strong>分納申請・減免・売却（買取）・相続放棄</strong>の4つの選択肢を、税負担のシミュレーション付きでわかりやすく解説します。
 
-宅建業者として実際の相談事例をもとに書いていますので、具体的な判断の参考にしていただけると思います。
+宅建業者の立場から、よくあるご相談の状況を想定して書いていますので、具体的な判断の参考にしていただけると思います。
 
 ## なぜ空き家の固定資産税は高くなるのか
 
@@ -67,7 +67,7 @@ cluster: "akiya-tax"
 **申請のポイント**
 
 - 納期限を<strong>過ぎてから</strong>ではなく、<strong>届いた直後</strong>に相談する
-- 延滞金は「納期限翌日から最初の1ヶ月は年2.4%、以降は年8.7%」（令和3年以降の割合）で加算される
+- 延滞金は「納期限翌日から最初の1ヶ月は年2.8%、以降は年9.1%」（令和8年の割合。毎年改定されます）で加算される
 - 猶予中も延滞金が軽減されるケースあり（申請内容による）
 
 **向いているケース**: 一時的な資金不足で、数ヶ月以内に支払えそうな方。
@@ -190,16 +190,16 @@ cluster: "akiya-tax"
 ## 関連するガイド記事
 
 <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:1rem;margin:1.5rem 0;">
-  <a href="/guide/akiya-koteishisanzei-simulator" style="display:block;background:#f0f7ff;border:2px solid #1a56db;border-radius:8px;padding:1rem;text-decoration:none;color:#1a3a5c;font-weight:bold;">
+  <a href="/guide/akiya-koteishisanzei-simulator/" style="display:block;background:#f0f7ff;border:2px solid #1a56db;border-radius:8px;padding:1rem;text-decoration:none;color:#1a3a5c;font-weight:bold;">
     ▶ 固定資産税・維持費シミュレーター（ハブページ）<br><span style="font-size:0.8rem;font-weight:normal;color:#1a56db;">空き家の年間コストを自動計算・無料</span>
   </a>
-  <a href="/guide/akiya-kaitori" style="display:block;background:#f8f9fa;border:1px solid #dee2e6;border-radius:8px;padding:1rem;text-decoration:none;color:#1a3a5c;font-weight:bold;">
+  <a href="/guide/akiya-shobun-5-hikaku/" style="display:block;background:#f8f9fa;border:1px solid #dee2e6;border-radius:8px;padding:1rem;text-decoration:none;color:#1a3a5c;font-weight:bold;">
     空き家の買取｜放置空き家を現金化<br><span style="font-size:0.8rem;font-weight:normal;color:#666;">固定資産税ゼロ・最短1ヶ月で手放せる</span>
   </a>
-  <a href="/guide/koteishisanzei-haraitsudzukeru-vs-baikyaku" style="display:block;background:#f8f9fa;border:1px solid #dee2e6;border-radius:8px;padding:1rem;text-decoration:none;color:#1a3a5c;font-weight:bold;">
+  <a href="/guide/koteishisanzei-haraitsudzukeru-vs-baikyaku/" style="display:block;background:#f8f9fa;border:1px solid #dee2e6;border-radius:8px;padding:1rem;text-decoration:none;color:#1a3a5c;font-weight:bold;">
     固定資産税を払い続けるvs売却<br><span style="font-size:0.8rem;font-weight:normal;color:#666;">10年累計コストで損得を徹底比較</span>
   </a>
-  <a href="/guide/tokutei-akiya-hantei-checklist" style="display:block;background:#f8f9fa;border:1px solid #dee2e6;border-radius:8px;padding:1rem;text-decoration:none;color:#1a3a5c;font-weight:bold;">
+  <a href="/guide/tokutei-akiya-hantei-checklist/" style="display:block;background:#f8f9fa;border:1px solid #dee2e6;border-radius:8px;padding:1rem;text-decoration:none;color:#1a3a5c;font-weight:bold;">
     特定空家の判定チェックリスト<br><span style="font-size:0.8rem;font-weight:normal;color:#666;">6倍化指定を受けるリスクを自己診断</span>
   </a>
 </div>
@@ -232,9 +232,9 @@ cluster: "akiya-tax"
 
 **お問い合わせフォーム**
 
-<a href="/contact" style="display:inline-block;background:#1a56db;color:#fff;padding:12px 24px;border-radius:6px;font-weight:bold;text-decoration:none;margin:8px 0;">フォームで相談する（24時間受付）</a>
+<a href="/contact/" style="display:inline-block;background:#1a56db;color:#fff;padding:12px 24px;border-radius:6px;font-weight:bold;text-decoration:none;margin:8px 0;">フォームで相談する（24時間受付）</a>
 
 査定・相談は完全無料です。売却を強制することはありません。固定資産税の支払い期限が迫っている方はお早めにご連絡ください。
 ---
 
-**このカテゴリの全ガイド一覧:** [→ 空き家の処分・活用 完全ガイド](/guide/vacant-house)
+**このカテゴリの中心の記事:** [→ 空き家の処分・活用 完全ガイド](/guide/akiya-shobun-5-hikaku/)

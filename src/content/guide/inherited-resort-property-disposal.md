@@ -291,9 +291,9 @@ A. 売却を決めたら速やかに管理組合または管理会社に連絡�
 
 管理費が限界に達する前に動くことが、手取り額と時間コストを最小化する方法です。
 
-その他のリゾートマンション関連の解説は<a href="/guide/resort-mansion-souzoku-baikyaku">リゾートマンション相続・売却の解決策【2026年版】</a>と<a href="/guide/resort-mansion-urenai-kaitori">リゾートマンションが売れない場合の買取活用法</a>もあわせてご参照ください。
+その他のリゾートマンション関連の解説は<a href="/guide/resort-mansion-souzoku-baikyaku/">リゾートマンション相続・売却の解決策【2026年版】</a>と<a href="/guide/resort-mansion-urenai-kaitori/">リゾートマンションが売れない場合の買取活用法</a>もあわせてご参照ください。
 
-<strong>このカテゴリの全ガイド一覧:</strong> <a href="/guide/souzoku-hub">→ 相続不動産 完全ハブ【2026年版】</a>
+<strong>このカテゴリの中心の記事:</strong> <a href="/guide/parent-death-house/">→ 相続した家の売り方と手続き</a>
 
 ---
 
@@ -302,4 +302,4 @@ A. 売却を決めたら速やかに管理組合または管理会社に連絡�
 「相続したリゾートマンションを手放したい」「管理費の支払いが限界」「どこに相談すればいいかわからない」——そうした物件のご相談をお受けしています。査定・ご相談は無料で、しつこい営業は行いません。
 
 <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06C755;color:#fff;padding:14px 32px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 8px 8px 0;">LINEで無料相談（即日対応）</a>
-<a href="/contact" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 32px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 0;">お問い合わせフォーム</a>
+<a href="/contact/" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 32px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 0;">お問い合わせフォーム</a>

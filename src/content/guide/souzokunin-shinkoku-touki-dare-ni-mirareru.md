@@ -40,7 +40,7 @@ faqs:
 
 <strong>相続人申告登記とは</strong>、「この不動産の名義人について相続が始まりました」「私はその相続人です」と法務局に申し出る手続きのことです。遺産分割（相続人の方々の間で、誰が何を取るかを決めること）がまとまっていなくても申し出ができ、相続人全員を確定させたり、取り分の割合を決めたりする必要はありません。相続人のお一人が単独で申し出ることができます。
 
-期限や過料は<a href="/guide/souzoku-touki-gimuka-kanzen-taiou-2026">相続登記義務化の完全対応ガイド</a>をご確認ください。この記事は、その申出をしたときに<strong>ご自身の氏名と住所がどこまで表に出るのか</strong>に絞ってお伝えします。
+期限や過料は<a href="/guide/inheritance-registry-neglect-sale-3options/">相続登記義務化の完全対応ガイド</a>をご確認ください。この記事は、その申出をしたときに<strong>ご自身の氏名と住所がどこまで表に出るのか</strong>に絞ってお伝えします。
 
 ---
 
@@ -80,7 +80,7 @@ faqs:
 
 請求に資格が要らず、手数料も数百円です。ですから<strong>「自分の氏名と住所が、どなたでも数百円で見られる状態になる」</strong>とお考えいただくのが、実態に近い理解です。
 
-この点は相続人申告登記に限った話ではありません。通常の名義変更（相続登記）をした場合も、新しい所有者としてご自身の氏名と住所が登記簿に載り、同じようにどなたでも写しを取れます。<strong>名義変更をすれば表に出ない、という違いはありません</strong>。登記で近隣に知られるかどうかは<a href="/guide/kinjo-ni-shirarezu-uru">近所に知られずに家を売る方法</a>でも整理しています。
+この点は相続人申告登記に限った話ではありません。通常の名義変更（相続登記）をした場合も、新しい所有者としてご自身の氏名と住所が登記簿に載り、同じようにどなたでも写しを取れます。<strong>名義変更をすれば表に出ない、という違いはありません</strong>。登記で近隣に知られるかどうかは<a href="/guide/kinjo-ni-shirarezu-uru/">近所に知られずに家を売る方法</a>でも整理しています。
 
 ---
 
@@ -136,7 +136,7 @@ faqs:
 
 ですから相続人申告登記は、<strong>期限に対応するための手当て</strong>であって、名義変更そのものの代わりではありません。「申し出たので、もうこの不動産のことは片付いた」とお考えになっていると、分割後の期限を見落とすことがあります。
 
-費用の面について一点だけ補足します。申出そのものの手数料、登録免許税の扱い、司法書士へお支払いする報酬の額は、今回この記事で確認した資料の範囲に含まれていません。金額の見通しをここに書くことは控えます。費用の全体像は<a href="/guide/souzoku-touki-hiyou-haraenai">相続登記の費用が払えないときの選択肢</a>をご覧ください。
+費用の面について一点だけ補足します。申出そのものの手数料、登録免許税の扱い、司法書士へお支払いする報酬の額は、今回この記事で確認した資料の範囲に含まれていません。金額の見通しをここに書くことは控えます。費用の全体像は<a href="/guide/souzoku-touki-hiyou-haraenai/">相続登記の費用が払えないときの選択肢</a>をご覧ください。
 
 ---
 
@@ -154,7 +154,7 @@ faqs:
 
 いずれの道でも、<strong>登記簿にご自身の氏名と住所が載ること自体は避けられません</strong>。避けられるのは、二度手間と、期限の見落としです。
 
-進む道の整理は<a href="/guide/souzoku-fudosan-shobun-method-shindan">相続した不動産の処分方法の診断</a>をご覧ください。
+進む道の整理は<a href="/guide/souzoku-fudosan-shobun-method-shindan/">相続した不動産の処分方法の診断</a>をご覧ください。
 
 ---
 
@@ -179,7 +179,7 @@ style="display:inline-block;background:#06C755;color:#fff;padding:14px 32px;
 border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 8px 8px 0;"
 >LINE「空き家のミカタ」に相談する（無料）</a>
 
-<a href="/contact"
+<a href="/contact/"
 style="display:inline-block;background:#1a56db;color:#fff;padding:14px 32px;
 border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 0;"
 >無料査定フォームで相談する</a>
@@ -190,13 +190,12 @@ border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 0;"
 
 ## 関連記事
 
-- <a href="/guide/souzoku-touki-gimuka-kanzen-taiou-2026">相続登記義務化の完全対応ガイド</a>
-- <a href="/guide/inheritance-registry">相続登記の義務化｜3年期限・10万円過料・手続き費用と3つの対策</a>
-- <a href="/guide/kinjo-ni-shirarezu-uru">近所に知られずに家を売る方法</a>
-- <a href="/guide/souzoku-touki-hiyou-haraenai">相続登記の費用が払えないときの選択肢</a>
-- <a href="/guide/souzoku-fudosan-shobun-method-shindan">相続した不動産の処分方法｜診断で選ぶ</a>
-- <a href="/guide/kijou-satei-souzoku-fudosan-soudan">机上査定とは？現地確認前に相談する方法</a>
-- <a href="/guide/souzoku-apart-uritai-lp">相続アパートを売りたい方へ【大阪・近畿対応】</a>
+- <a href="/guide/inheritance-registry-neglect-sale-3options/">相続登記義務化の完全対応ガイド</a>
+- <a href="/guide/kinjo-ni-shirarezu-uru/">近所に知られずに家を売る方法</a>
+- <a href="/guide/souzoku-touki-hiyou-haraenai/">相続登記の費用が払えないときの選択肢</a>
+- <a href="/guide/souzoku-fudosan-shobun-method-shindan/">相続した不動産の処分方法｜診断で選ぶ</a>
+- <a href="/guide/kijou-satei-souzoku-fudosan-soudan/">机上査定とは？現地確認前に相談する方法</a>
+- <a href="/guide/souzoku-apart-uritai-lp/">相続アパートを売りたい方へ【大阪・近畿対応】</a>
 
 ---
 

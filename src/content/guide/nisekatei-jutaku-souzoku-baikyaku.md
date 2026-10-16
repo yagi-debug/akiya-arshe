@@ -22,6 +22,8 @@ updatedDate: "2026-09-07"
 
 <strong>二世帯住宅を相続した場合、通常の一戸建てよりも売却の手続きや税金の扱いが複雑になりやすいです。</strong>ただし、構造の特徴や相続人の状況に合わせた処分方法を選べば、確実に手放すことができます。
 
+このテーマの全体像は[相続した家の売り方と手続き](/guide/parent-death-house/)にまとめています。
+
 > <strong>二世帯住宅の相続・売却 — まとめ</strong>
 > - <strong>売却の流れ</strong>：相続登記（義務化済）→ 遺産分割協議 → 査定 → 売買契約の順で進む
 > - <strong>小規模宅地の特例</strong>：同居の子世帯が相続した場合、330㎡まで評価額を80%減額できる可能性がある
@@ -187,15 +189,14 @@ updatedDate: "2026-09-07"
 
 ## 関連する売却ガイド
 
-- <a href="/guide/souzoku-fudousan-shobun-kanzen-guide">相続不動産の処分 完全ガイド2026</a>
-- <a href="/guide/souzoku-ie-doushitara-hub">相続した家 どうすればいい？完全ハブガイド</a>
-- <a href="/guide/shakuchiken-tatemono-baikyaku">借地権付き建物の売却方法</a>
-- <a href="/guide/inheritance-sale">相続した不動産を売却する完全ガイド</a>
-- <a href="/guide/inheritance-registry">相続登記の義務化と手続きガイド</a>
+- <a href="/guide/parent-death-house/">相続不動産の処分 完全ガイド2026</a>
+- <a href="/guide/souzoku-ie-doushitara-hub/">相続した家 どうすればいい？完全ハブガイド</a>
+- <a href="/guide/shakuchiken-tatemono-baikyaku/">借地権付き建物の売却方法</a>
+- <a href="/guide/inheritance-registry-neglect-sale-3options/">相続登記の義務化と手続きガイド</a>
 
 ## 二世帯住宅の相続、一人で抱え込まないでください
 
-「売るか残すか決められない」「兄弟と意見が合わない」「税金のことが不安」——こうしたご相談を多くいただいています。
+「売るか残すか決められない」「兄弟と意見が合わない」「税金のことが不安」——こうしたご相談もお受けしています。
 
 <strong>二世帯住宅の相続は複雑に見えますが、状況を整理すれば必ず出口があります。</strong>宅建業者として、現況確認から売却・買取まで一貫してサポートします。
 
@@ -203,9 +204,9 @@ updatedDate: "2026-09-07"
 
 <strong><a href="https://line.arshe1719.workers.dev/auth/line?ref=hp">LINEで無料相談する（空き家のミカタ）</a></strong>
 
-<a href="/contact">お問い合わせフォームはこちら</a>
+<a href="/contact/">お問い合わせフォームはこちら</a>
 
 相談無料・秘密厳守・大阪・近畿対応
 ---
 
-**このカテゴリの全ガイド一覧:** [→ 相続不動産 完全ハブ【2026年版】](/guide/souzoku-hub)
+**このカテゴリの中心の記事:** [→ 相続した家の売り方と手続き](/guide/parent-death-house/)

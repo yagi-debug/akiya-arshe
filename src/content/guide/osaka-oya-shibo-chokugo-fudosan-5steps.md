@@ -118,7 +118,7 @@ howToSteps:
 
 <strong>放置がいちばん危険です。</strong>空き家になった家で火災や漏水が起き、隣家に損害が及んだとき、想定していた補償が受けられないと、その負担は相続人の方に向かいます。保険は「掛けているつもり」が通用しない世界です。
 
-空き家の火災保険については、[相続した空き家の火災保険はどうなる？継承・加入・解約の判断](/guide/akiya-kasai-hoken-souzoku-guide)で詳しく整理しています。
+空き家の火災保険については、[相続した空き家の火災保険はどうなる？継承・加入・解約の判断](/guide/akiya-kasai-hoken-souzoku-guide/)で詳しく整理しています。
 
 ## ステップ5：3か月・4か月・10か月・3年の逆算カレンダー
 
@@ -143,7 +143,7 @@ howToSteps:
 
 相続登記については、令和6年4月1日から申請が義務化され、正当な理由がないのに申請を怠ったときは<strong>10万円以下の過料</strong>の適用対象とされました。施行日より前に開始した相続で登記をしていない場合も対象で、<strong>令和9年（2027年）3月31日まで</strong>（不動産を相続で取得したことを知った日が令和6年4月以降の場合はその日から3年以内）に申請が必要です。何十年も前に亡くなった祖父母の名義のままになっている物件がある方は、ここが期限になります。
 
-大阪の相続登記をどの法務局に出すかについては、[大阪の相続登記はどの法務局？管轄と必要書類](/guide/souzoku-touki-osaka-kankatsu-shorui)にまとめています。
+大阪の相続登記をどの法務局に出すかについては、[大阪の相続登記はどの法務局？管轄と必要書類](/guide/souzoku-touki-osaka-kankatsu-shorui/)にまとめています。
 
 ## 遺産分割協議の前に、金額を確認しておく理由
 
@@ -171,7 +171,7 @@ A. 書類の受け取り役ですので、物件の近くに住んでいる方�
 A. 登記が済めば市も所有者を把握できますが、現所有者に関する申告の期限は「知った日の翌日から3か月を経過した日まで」で、登記より先に来ます。3か月以内に登記まで終わる見込みがないのであれば、申告は先に出しておいてください。
 
 <strong>Q. 空き家のまま持ち続けると、税金は上がりますか。</strong>  
-A. 住宅用地の特例が外れると固定資産税の負担が変わります。管理が行き届いていない空き家は行政の指導・勧告の対象になり得ますので、詳しくは[固定資産税の課税明細書チェックリスト](/guide/kotei-shisan-zei-tsuchisho-checklist)をご覧ください。
+A. 住宅用地の特例が外れると固定資産税の負担が変わります。管理が行き届いていない空き家は行政の指導・勧告の対象になり得ますので、詳しくは[固定資産税の課税明細書チェックリスト](/guide/kotei-shisan-zei-tsuchisho-checklist/)をご覧ください。
 
 ## まとめ
 
@@ -191,7 +191,7 @@ A. 住宅用地の特例が外れると固定資産税の負担が変わりま�
 
 <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06c755;color:#fff;padding:14px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 4px;">LINE「空き家のミカタ」に相談する（無料）</a>
 
-<a href="/contact" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 4px;">無料査定フォームで相談する</a>
+<a href="/contact/" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 4px;">無料査定フォームで相談する</a>
 
 大阪市24区の相続不動産・訳あり物件を専門に扱っており、<strong>相続登記が未了のまま・荷物が残ったまま・現況のまま</strong>で査定にお応えできます。秘密厳守で対応いたします。なお、相続放棄や限定承認の手続きについては弁護士・司法書士へ、相続税額の判断や申告については税理士へ、火災保険の契約内容については保険会社へご確認ください。各手続きの詳細や最新の取扱いは、大阪市の各窓口でもご確認ください。
 
@@ -199,10 +199,10 @@ A. 住宅用地の特例が外れると固定資産税の負担が変わりま�
 
 ## 関連記事
 
-- <a href="/guide/souzoku-ie-nani-kara">相続した家、何から手をつければいい？7ステップ・チェックリストと期限一覧</a>
-- <a href="/guide/inheritance-sale-timeline">相続から不動産売却完了まで｜期限つきタイムラインで全手順を解説</a>
-- <a href="/guide/souzoku-touki-osaka-kankatsu-shorui">大阪の相続登記はどの法務局？管轄と必要書類</a>
-- <a href="/guide/akiya-kasai-hoken-souzoku-guide">相続した空き家の火災保険はどうなる？継承・加入・解約の判断</a>
-- <a href="/guide/inheritance-abandon">相続放棄したら家はどうなる？手続きの流れと注意点</a>
-- <a href="/guide/souzoku-houki-kigengire">相続放棄の期限（3ヶ月）を過ぎたらどうなる？期限切れ後の対処法</a>
-- <a href="/guide/kotei-shisan-zei-tsuchisho-checklist">固定資産税の課税明細書チェックリスト</a>
+- <a href="/guide/souzoku-ie-nani-kara/">相続した家、何から手をつければいい？7ステップ・チェックリストと期限一覧</a>
+- <a href="/guide/inheritance-sale-timeline/">相続から不動産売却完了まで｜期限つきタイムラインで全手順を解説</a>
+- <a href="/guide/souzoku-touki-osaka-kankatsu-shorui/">大阪の相続登記はどの法務局？管轄と必要書類</a>
+- <a href="/guide/akiya-kasai-hoken-souzoku-guide/">相続した空き家の火災保険はどうなる？継承・加入・解約の判断</a>
+- <a href="/guide/inheritance-abandon/">相続放棄したら家はどうなる？手続きの流れと注意点</a>
+- <a href="/guide/souzoku-houki-kigengire/">相続放棄の期限（3ヶ月）を過ぎたらどうなる？期限切れ後の対処法</a>
+- <a href="/guide/kotei-shisan-zei-tsuchisho-checklist/">固定資産税の課税明細書チェックリスト</a>

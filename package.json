@@ -7,7 +7,7 @@
   },
   "scripts": {
     "dev": "astro dev",
-    "build": "node scripts/check-line-links.mjs && astro build",
+    "build": "node scripts/check-line-links.mjs && astro build && node scripts/check-schema-visible.mjs && node scripts/check-internal-links-slash.mjs && node scripts/check-seo-structure.mjs",
     "preview": "astro preview",
     "astro": "astro",
     "deploy": "echo '公開は content-evidence.py の公開係だけ。npm run deploy は 2026-09-15 に廃止' 1>&2 && exit 1"

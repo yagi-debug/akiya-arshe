@@ -2,6 +2,7 @@
 title: "固定資産税 払い続ける vs 売却｜10年コスト＋損益分岐シミュレーター【2026年5月版】"
 description: "固定資産税の納付書が届く5月〜6月は「払い続けるか売るか」を数字で比べる絶好のタイミングです。築年数・延床面積・都道府県を入力するだけで、①今後10年の保有コスト概算②売却手取りレンジ③損益分岐年数をリアルタイム試算。計算根拠となる法令・データを宅建業者が解説します。"
 publishDate: "2026-05-09"
+noindex: true
 author: "宅建業者"
 authorTitle: "宅建業者"
 heroImage: "/images/kotei-shisan-zei-vs-baikyaku-hero.jpg"
@@ -11,7 +12,7 @@ faqs:
   - question: "損益分岐年数とはなんですか？"
     answer: "「今売却すれば得られる手取り額」を「年間保有コスト」で割った年数です。たとえば売却手取りが300万円で年間保有コストが50万円なら、6年目以降は保有し続けることが実質的に損になります。損益分岐年数が5年を切る場合は、早期売却を検討する価値があります。"
   - question: "固定資産税を滞納するとどうなりますか？"
-    answer: "固定資産税を滞納すると、納期限翌日から延滞金（年最大14.6%）が加算されます。さらに督促状の送付→財産差押え（不動産・預貯金・給与等）→公売という流れで、滞納が続けば不動産が強制売却される可能性があります。払えない場合は分納・減免・売却・相続放棄を早期にご検討ください。"
+    answer: "固定資産税を滞納すると、納期限翌日から延滞金（法律上の上限は年14.6%。令和8年の実際の割合は、1か月以内が年2.8%、その後が年9.1%）が加算されます。さらに督促状の送付→財産差押え（不動産・預貯金・給与等）→公売という流れで、滞納が続けば不動産が強制売却される可能性があります。払えない場合は分納・減免・売却・相続放棄を早期にご検討ください。"
   - question: "訳あり物件の売却手取りはどのくらい下がりますか？"
     answer: "再建築不可・事故物件・共有持分・管理不全空き家などは、通常の市場価格の50〜80%程度が買取価格の目安です。シミュレーターでは低め・高めの±20%レンジで試算しています。正確な査定は無料でおこなっていますので、お気軽にご相談ください。"
   - question: "相続した空き家の固定資産税は誰が払いますか？"
@@ -23,6 +24,8 @@ updatedDate: "2026-09-07"
 <img src="/images/kotei-shisan-zei-vs-baikyaku-hero.jpg" alt="固定資産税の納付書と電卓　払い続けるか売却するかを比較する損益分岐シミュレーションのイメージ" width="1200" height="800" style="width:100%;height:auto;border-radius:8px;margin-bottom:1.5rem;" />
 
 毎年5月〜6月、固定資産税の納付書が届くこの時期に「そろそろ売った方がいいのでは」と感じる方は少なくありません。<strong>年間保有コストと売却手取り額を数字で比べると、想定より早い時期に「持ち続ける方が損」になるケースがあります。</strong>
+
+このテーマの全体像は[空き家の固定資産税6倍化の回避策](/guide/akiya-koteishisanzei-6bai-hikaku/)にまとめています。
 
 このページでは、<strong>築年数・延床面積・都道府県の3項目を入力するだけで</strong>、①今後10年間の保有コスト概算、②売却手取りレンジ、③損益分岐年数をリアルタイムで試算できる無料ツールを提供しています。固定資産税の評価額を調べなくても使えるよう設計しています。
 
@@ -309,7 +312,7 @@ function calcKoteiBaikyaku() {
 </script>
 
 <p style="font-size:0.8rem;color:#888;margin-top:0.5rem;">
-※このシミュレーターは概算です。土地価格は国土交通省地価公示データ（2025年）の都道府県住宅地平均を基準にしています。実際の売却価格・保有コストは物件の状態・立地・権利関係によって大きく異なります。正確な査定は<a href="/contact">こちらのフォーム</a>または<a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" target="_blank" rel="noopener noreferrer">LINE</a>から無料でお申し込みいただけます。
+※このシミュレーターは概算です。土地価格は国土交通省地価公示データ（2025年）の都道府県住宅地平均を基準にしています。実際の売却価格・保有コストは物件の状態・立地・権利関係によって大きく異なります。正確な査定は<a href="/contact/">こちらのフォーム</a>または<a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" target="_blank" rel="noopener noreferrer">LINE</a>から無料でお申し込みいただけます。
 </p>
 
 ---
@@ -368,7 +371,7 @@ function calcKoteiBaikyaku() {
 
 たとえば、売却手取りが<strong>400万円</strong>で年間保有コストが<strong>60万円</strong>であれば、損益分岐年数は約<strong>6.7年</strong>です。今から7年間保有し続けた場合、固定資産税・修繕費・保険料の合計が売却で得られるはずだった手取り額を超えてしまうことを意味します。
 
-> **宅建業者の視点**: 実際にご相談いただく案件で多いのは、「5年前に売れば300万円の手取りがあったのに、修繕費と税金で気づいたら100万円しか残っていない」というケースです。相続から時間が経つほど、建物の劣化と維持費の積み上がりで選択肢が狭まります。
+> **宅建業者の視点**: よくあるのは、「5年前に売れば300万円の手取りがあったのに、修繕費と税金で気づいたら100万円しか残っていない」というケースです。相続から時間が経つほど、建物の劣化と維持費の積み上がりで選択肢が狭まります。
 
 ### 判断の目安
 
@@ -386,7 +389,7 @@ function calcKoteiBaikyaku() {
 - 共有持分があり、将来の権利関係が複雑になるリスクがある物件
 - 相続登記が未了で名義が被相続人のままになっている物件（相続登記義務化により<strong>2024年4月1日以降は3年以内の登記が義務</strong>。正当な理由なく違反した場合は10万円以下の過料）
 
-詳しくは<a href="/guide/akiya-kotei-shisan-zei-haraenai">固定資産税が払えないときの4つの選択肢</a>もご参照ください。
+詳しくは<a href="/guide/akiya-kotei-shisan-zei-haraenai/">固定資産税が払えないときの4つの選択肢</a>もご参照ください。
 
 ---
 
@@ -409,7 +412,7 @@ function calcKoteiBaikyaku() {
 - 大阪市内で管理が難しく、近隣トラブルが心配な物件
 - 固定資産税の支払いが毎年の負担になっている物件
 
-関連記事: <a href="/guide/akiya-koteishisanzei-simulator">空き家の固定資産税・維持費シミュレーター（評価額ベースの詳細計算版）</a>
+関連記事: <a href="/guide/akiya-koteishisanzei-simulator/">空き家の固定資産税・維持費シミュレーター（評価額ベースの詳細計算版）</a>
 
 ---
 
@@ -425,7 +428,7 @@ function calcKoteiBaikyaku() {
     <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" target="_blank" rel="noopener noreferrer" style="display:inline-block;background:#06C755;color:white;text-decoration:none;padding:12px 24px;border-radius:6px;font-weight:bold;font-size:0.95rem;">
       LINEで無料相談する
     </a>
-    <a href="/contact" style="display:inline-block;background:white;color:#1a56db;text-decoration:none;padding:12px 24px;border-radius:6px;font-weight:bold;font-size:0.95rem;border:2px solid #1a56db;">
+    <a href="/contact/" style="display:inline-block;background:white;color:#1a56db;text-decoration:none;padding:12px 24px;border-radius:6px;font-weight:bold;font-size:0.95rem;border:2px solid #1a56db;">
       お問い合わせフォームへ
     </a>
   </div>
@@ -433,11 +436,11 @@ function calcKoteiBaikyaku() {
 
 ## 関連するガイド記事
 
-- <a href="/guide/kotei-shisan-zei-nousho-baikyaku-3taiken">【実録】固定資産税の通知書が届き、空き家売却を決意した3つの体験談【2026年5月】</a>
-- <a href="/guide/souzoku-jirei-09-shigaika-chosei-kaitori">【体験談・事例09】市街化調整区域の実家を相続。仲介3社に断られ2年間固定資産税を払い続けた末に、24日で現金化した全記録</a>
-- <a href="/guide/akiya-kotei-shisan-zei-haraenai">空き家の固定資産税が払えないとき｜分納・減免・売却・相続放棄の4つの選択肢【2026年版】</a>
-- <a href="/guide/souzoku-hub">相続不動産 完全ハブ｜処分・売却・登記・固定資産税・事例まで全ガイドをまとめて確認【2026年版】</a>
-- <a href="/guide/souzoku-apart-kanzen-guide">相続アパートを手放したい方へ｜売却の流れ・税金・失敗しない判断基準を宅建業者が完全解説【2026年最新】</a>
+- <a href="/guide/kotei-shisan-zei-tsuchisho-checklist/">【参考例】固定資産税の通知書が届き、空き家売却を決意した3つのケース【2026年5月】</a>
+- <a href="/guide/souzoku-jirei-09-shigaika-chosei-kaitori/">【参考例・事例09】市街化調整区域の実家を相続。仲介3社に断られ2年間固定資産税を払い続けた末に、24日で現金化したケース</a>
+- <a href="/guide/akiya-kotei-shisan-zei-haraenai/">空き家の固定資産税が払えないとき｜分納・減免・売却・相続放棄の4つの選択肢【2026年版】</a>
+- <a href="/guide/parent-death-house/">相続した家の売り方と手続き</a>
+- <a href="/guide/souzoku-apart-kanzen-guide/">相続アパートを手放したい方へ｜売却の流れ・税金・失敗しない判断基準を宅建業者が完全解説【2026年最新】</a>
 ---
 
-**このカテゴリの全ガイド一覧:** [→ 空き家の処分・活用 完全ガイド](/guide/vacant-house)
+**このカテゴリの中心の記事:** [→ 空き家の処分・活用 完全ガイド](/guide/akiya-shobun-5-hikaku/)

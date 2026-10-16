@@ -2,6 +2,7 @@
 title: "相続放棄したアパートの入居者はどうなる？管理責任と手続きを宅建業者が解説"
 description: "相続放棄したアパートに入居者がいる場合、賃貸借契約はどうなるか・誰が家主になるか・管理責任は誰が負うかを宅建業者が解説。2023年民法改正後の管理義務の変化と、売却による根本解決策も紹介。"
 publishDate: "2026-07-13"
+noindex: true
 author: "空き家のミカタ編集部"
 authorTitle: "宅地建物取引業者（大阪府知事(1)第65646号）"
 heroImage: "/images/inheritance-renunciation-apartment-tenant-hero.jpg"
@@ -44,6 +45,8 @@ A: 相続放棄をしても入居者の賃貸借契約は法律上継続しま�
 <img src="/images/inheritance-renunciation-apartment-tenant-hero.jpg" alt="相続したアパート建物の外観　入居者がいる賃貸物件のイメージ" width="1260" height="750" style="width:100%;height:auto;border-radius:8px;margin-bottom:1.5rem;" />
 
 親が亡くなり、賃貸アパートを相続することになった。入居者が数人いるが、建物は老朽化しており、将来的な管理が不安で相続放棄を考えている——そのような状況で「入居者はどうなるのか」「自分に管理責任は残るのか」と心配される方は多くいらっしゃいます。
+
+関連する内容は[入居者付き物件を相続放棄したとき](/guide/souzoku-houki-chintai-nyukyosha-tsuki/)で詳しく解説しています。
 
 <strong>結論からお伝えすると、相続放棄をしても入居者の賃貸借契約は継続します。ただし、全員が放棄した場合には「家主不在」状態が生じ、賃料の支払い先・修繕対応・緊急時の対応が滞るという実務上の問題が起こります。</strong>
 
@@ -179,15 +182,15 @@ A: 相続放棄をしても入居者の賃貸借契約は法律上継続しま�
 入居者がいる状態でも、老朽化していても、相続直後でも対応可能です。<br>
 空き家のミカタ（宅建業者・大阪府知事(1)第65646号）が、最短2週間で現金化できるプランをご提案します。<br><br>
 <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06C755;color:#fff;padding:0.75rem 1.5rem;border-radius:6px;text-decoration:none;font-weight:bold;margin-right:1rem;">LINEで無料相談する</a>
-<a href="/contact" style="display:inline-block;background:#1d4ed8;color:#fff;padding:0.75rem 1.5rem;border-radius:6px;text-decoration:none;font-weight:bold;">お問い合わせフォームへ</a>
+<a href="/contact/" style="display:inline-block;background:#1d4ed8;color:#fff;padding:0.75rem 1.5rem;border-radius:6px;text-decoration:none;font-weight:bold;">お問い合わせフォームへ</a>
 </div>
 
 ## 関連記事
 
-- <a href="/guide/inheritance-abandon">相続放棄したら家はどうなる？手続きの流れと注意点</a>
-- <a href="/guide/inherited-property-with-unauthorized-occupant">相続した空き家に占有者・賃借人がいる場合の売却方法</a>
-- <a href="/guide/osaka-souzoku-apart-kaitori-soba-2026">大阪の相続アパート買取相場2026年版</a>
-- <a href="/guide/souzoku-hub">相続不動産 完全ハブ｜処分・売却・登記まで全ガイド</a>
+- <a href="/guide/inheritance-abandon/">相続放棄したら家はどうなる？手続きの流れと注意点</a>
+- <a href="/guide/inherited-property-with-unauthorized-occupant/">相続した空き家に占有者・賃借人がいる場合の売却方法</a>
+- <a href="/guide/osaka-souzoku-apart-kaitori-soba-2026/">大阪の相続アパート買取相場2026年版</a>
+- <a href="/guide/parent-death-house/">相続した家の売り方と手続き</a>
 
 ## よくあるご質問
 

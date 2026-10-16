@@ -127,7 +127,7 @@ A: 共有持分のみでは不動産を単独で売却・賃貸・建替えで�
 
 なお「不動産全体の市場価格」は、<strong>固定資産税評価額ではなく、仲介で売り出したときに想定される売却価格（実勢価格）</strong>を使います。固定資産税評価額は実勢価格の70%程度が目安とされているため、使い分けに注意してください。
 
-この「不動産全体の市場価格」をご自身で出す手順は、[共有持分はいくらで売れる？大阪市の路線価から自分で計算する4ステップ](/guide/kyouyuu-mochibun-osaka-jibunde-keisan)にまとめています。相続税路線価を0.8で割り戻す方法と、大阪市24区の路線価目安一覧、掛け目が0.3〜0.5まで下がる条件を実額で解説しています。
+この「不動産全体の市場価格」をご自身で出す手順は、[共有持分はいくらで売れる？大阪市の路線価から自分で計算する4ステップ](/guide/kyouyuu-mochibun-osaka-jibunde-keisan/)にまとめています。相続税路線価を0.8で割り戻す方法と、大阪市24区の路線価目安一覧、掛け目が0.3〜0.5まで下がる条件を実額で解説しています。
 
 ## なぜ共有持分は「全体×持分割合」より安くなるのか
 
@@ -307,7 +307,7 @@ A: 共有持分のみでは不動産を単独で売却・賃貸・建替えで�
 
 **結論：共有者間の合意が取れない・固定資産税が負担・兄弟間でもめているケースでは、専門の訳あり買取業者への早期相談が最短の解決策です。複数業者の見積もり比較で適正相場を確認してから決断してください。**
 
-共有持分の売却を検討中の方は、まず<a href="/guide/kyouyuu-mochibun-kaitori">共有持分の買取・売却方法ガイド</a>もあわせてご覧ください。相場に関するより詳しいQ&Aは<a href="/guide/kyouyuu-mochibun-qa-hub">共有持分Q&Aハブ</a>をご参照ください。持分を売った後に買主との間で何が起きるかは<a href="/guide/kyouyuu-butsu-bunkatsu-seikyu-jitsumu">共有物分割請求の流れ・期間・費用</a>で整理しています。
+共有持分の売却を検討中の方は、まず<a href="/guide/kyouyuu-mochibun-kaitori/">共有持分の買取・売却方法ガイド</a>もあわせてご覧ください。相場に関するより詳しいQ&Aは<a href="/guide/kyouyuu-mochibun-kaitori/">共有持分の買取・売却方法</a>をご参照ください。持分を売った後に買主との間で何が起きるかは<a href="/guide/kyouyuu-butsu-bunkatsu-seikyu-jitsumu/">共有物分割請求の流れ・期間・費用</a>で整理しています。
 
 ## 無料査定・ご相談はこちら（大阪・近畿対応）
 
@@ -323,9 +323,9 @@ A: 共有持分のみでは不動産を単独で売却・賃貸・建替えで�
 
 整理してから相談したい方はお問い合わせフォームをご利用ください。
 
-<a href="/contact" style="display:inline-block;background:#2563eb;color:white;padding:12px 24px;border-radius:8px;text-decoration:none;font-weight:bold;margin:0.5rem 0;">お問い合わせフォームへ</a>
+<a href="/contact/" style="display:inline-block;background:#2563eb;color:white;padding:12px 24px;border-radius:8px;text-decoration:none;font-weight:bold;margin:0.5rem 0;">お問い合わせフォームへ</a>
 
 宅建業免許: 大阪府知事(1)第65646号
 ---
 
-**このカテゴリの全ガイド一覧:** [→ 共有持分 完全ハブ【2026年版】](/guide/kyouyuu-mochibun-hub)
+**このカテゴリの中心の記事:** [→ 共有持分の買取・売却方法](/guide/kyouyuu-mochibun-kaitori/)

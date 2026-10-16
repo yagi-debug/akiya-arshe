@@ -83,7 +83,7 @@ faqs:
 
 <strong>いちばん手取りが大きくなりやすいのは、2つめの「借地権を地主に買い取ってもらう」形です。</strong>建物の時価だけを見る第13条と違い、借地権という財産そのものを評価する話になるためです。地主の側にも、借地権を戻して土地を完全な所有権に戻せる（=売却も活用もしやすくなる）という利益があります。
 
-一方で、地主に資金がない、あるいは買い取る意思がないという場合もあります。そのときは第三者への売却という選択肢が残ります。詳しくは[借地権付き建物の売却方法｜地主の承諾から買取まで](/guide/shakuchiken-tatemono-baikyaku)で整理しています。
+一方で、地主に資金がない、あるいは買い取る意思がないという場合もあります。そのときは第三者への売却という選択肢が残ります。詳しくは[借地権付き建物の売却方法｜地主の承諾から買取まで](/guide/shakuchiken-tatemono-baikyaku/)で整理しています。
 
 ## 手続きの正しい順序（5ステップ）
 
@@ -131,9 +131,9 @@ faqs:
 
 <strong>第一に、第三者への譲渡です。</strong>借地上の建物を第三者に譲渡しようとする場合に、地主に不利となるおそれがないにもかかわらず承諾が得られないときは、裁判所に地主の承諾に代わる許可を求める申立てができます（借地借家法第19条第1項）。ただしこの申立てがあると、地主の側から「自分が建物と借地権を譲り受ける」と申し立てることも認められています（同条第3項）。時間も費用もかかる手続きですので、その前段階で条件を整理できないかを探るのが現実的です。
 
-<strong>第二に、借地権付き建物のまま買い取る業者に相談することです。</strong>私たちのような買取業者が入る場合、地主との承諾交渉や名義の整理を含めて引き受けることになります。仲介と違って買主を探す期間が不要なため、返還期限が迫っている場面では選ばれやすい方法です。関連する整理は[借地権付き建物を相続したら？地主交渉・売却・買取の3択比較](/guide/inherited-leasehold-building-options)にまとめています。
+<strong>第二に、借地権付き建物のまま買い取る業者に相談することです。</strong>私たちのような買取業者が入る場合、地主との承諾交渉や名義の整理を含めて引き受けることになります。仲介と違って買主を探す期間が不要なため、返還期限が迫っている場面では選ばれやすい方法です。関連する整理は[借地権付き建物を相続したら？地主交渉・売却・買取の3択比較](/guide/inherited-leasehold-building-options/)にまとめています。
 
-相続で取得した借地で、まだ名義の変更が済んでいない場合は、[相続登記の義務化への完全対応ガイド](/guide/souzoku-touki-gimuka-kanzen-taiou-2026)も併せてご確認ください。名義が亡くなった方のままだと、返還の合意そのものが進みません。
+相続で取得した借地で、まだ名義の変更が済んでいない場合は、[相続登記の義務化への完全対応ガイド](/guide/inheritance-registry-neglect-sale-3options/)も併せてご確認ください。名義が亡くなった方のままだと、返還の合意そのものが進みません。
 
 ## よくあるご質問
 
@@ -151,7 +151,7 @@ faqs:
 
 ### 兄弟で相続した借地です。全員の同意が必要ですか？
 
-借地権を全体として手放す場合は、共有者全員の関与が必要になります。話がまとまらない段階でも、金額の見当がついてから協議したほうが進みやすいというのが実感です。詳しくは[アパートを兄弟で相続したら？共有名義の3つの危険](/guide/souzoku-apart-kyodai-kyoyu-baikyaku)をご覧ください。
+借地権を全体として手放す場合は、共有者全員の関与が必要になります。話がまとまらない段階でも、金額の見当がついてから協議したほうが進みやすいというのが実感です。詳しくは[アパートを兄弟で相続したら？共有名義の3つの危険](/guide/souzoku-apart-kyodai-kyoyu-baikyaku/)をご覧ください。
 
 ### 大阪市外の借地でも相談できますか？
 
@@ -178,7 +178,7 @@ faqs:
 </div>
 
 <div style="text-align:center;margin:1rem 0 2rem;">
-  <a href="/contact" style="display:inline-block;background:#2c5282;color:white;padding:0.75rem 2rem;border-radius:8px;font-size:1rem;font-weight:bold;text-decoration:none;">お問い合わせフォームはこちら</a>
+  <a href="/contact/" style="display:inline-block;background:#2c5282;color:white;padding:0.75rem 2rem;border-radius:8px;font-size:1rem;font-weight:bold;text-decoration:none;">お問い合わせフォームはこちら</a>
 </div>
 
 <strong>大阪市24区を中心に対応・仲介手数料ゼロ・現況のまま買取。</strong>解体前のご相談を歓迎しています。
@@ -187,12 +187,12 @@ faqs:
 
 ## 関連ガイド記事
 
-- [借地権付き建物の売却方法｜地主の承諾から買取まで](/guide/shakuchiken-tatemono-baikyaku)
-- [借地権付き建物を相続したら？地主交渉・売却・買取の3択比較](/guide/inherited-leasehold-building-options)
-- [借地権付き建物を相続したら？地主通知・名義変更・売却の全手順](/guide/leasehold-building-inheritance-options)
-- [底地の買取｜借地権付き土地を手放す方法](/guide/sokochi-kaitori)
-- [相続した実家の解体費用が払えないときの3つの方法](/guide/akiya-kaitai-hiyou-haraenai)
-- [未登記の空き家・相続アパートは売れる？](/guide/mitouki-fudosan-kaitori)
+- [借地権付き建物の売却方法｜地主の承諾から買取まで](/guide/shakuchiken-tatemono-baikyaku/)
+- [借地権付き建物を相続したら？地主交渉・売却・買取の3択比較](/guide/inherited-leasehold-building-options/)
+- [借地権付き建物を相続したら？地主通知・名義変更・売却の全手順](/guide/leasehold-building-inheritance-options/)
+- [底地の買取｜借地権付き土地を手放す方法](/guide/sokochi-kaitori/)
+- [相続した実家の解体費用が払えないときの3つの方法](/guide/akiya-kaitai-hiyou-haraenai/)
+- [未登記の空き家・相続アパートは売れる？](/guide/mitouki-fudosan-kaitori/)
 
 ---
 
@@ -204,4 +204,4 @@ faqs:
 
 ---
 
-**このカテゴリの全ガイド一覧:** [→ 再建築不可物件 完全ハブ【2026年版】](/guide/saikenchifu-hub)
+**このカテゴリの中心の記事:** [→ 再建築不可物件の売却方法](/guide/non-rebuildable-property-sale/)

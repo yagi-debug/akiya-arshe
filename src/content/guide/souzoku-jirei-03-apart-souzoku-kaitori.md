@@ -1,6 +1,6 @@
 ---
-title: "【体験談・事例03】相続アパートを4人兄弟で8か月揉め続けた。買取で全員合意・決済まで28日の全記録"
-description: "父の遺産である板橋区の築35年木造アパート（8室・入居者5名）を4人の相続人で8か月間揉め続けたCさん（60歳・長男）。訳あり買取で全員が合意し、相談から28日で決済完了。査定・価格内訳・4名への分配まで全記録を公開。"
+title: "【参考例・事例03】相続アパートを4人兄弟で8か月揉め続けた。買取で全員合意・決済まで28日のケース"
+description: "父の遺産である板橋区の築35年木造アパート（8室・入居者5名）を4人の相続人で8か月間揉め続けたCさん（60歳・長男）のケース（参考例）。訳あり買取で全員が合意し、相談から28日で決済に至る流れ。査定・価格内訳・4名への分配までを、よくある状況をもとに紹介。"
 publishDate: "2026-05-02"
 cluster: "inheritance"
 author: "宅建業者"
@@ -26,8 +26,8 @@ updatedDate: "2026-09-07"
 {
   "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "【体験談・事例03】相続アパートを4人兄弟で8か月揉め続けた。買取で全員合意・決済まで28日の全記録",
-  "description": "父の遺産である板橋区の築35年木造アパート（8室・入居者5名）を4人の相続人で8か月間揉め続けたCさんの買取体験談。全員合意・相談から28日で決済完了までの全プロセスを公開。",
+  "headline": "【参考例・事例03】相続アパートを4人兄弟で8か月揉め続けた。買取で全員合意・決済まで28日のケース",
+  "description": "父の遺産である板橋区の築35年木造アパート（8室・入居者5名）を4人の相続人で8か月間揉め続けたCさんの買取ケース（参考例）。全員合意・相談から28日で決済に至るまでのプロセスを紹介。",
   "datePublished": "2026-05-02",
   "author": {
     "@type": "Organization",
@@ -56,54 +56,6 @@ updatedDate: "2026-09-07"
 }
 </script>
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "相続人が複数いる場合、一人が反対しても相続アパートを売却できますか？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "相続登記が完了していない共有状態では、全員の合意がなければ売却はできません。各自の持分のみを単独で売却することは可能ですが、持分のみの買取は全体評価より価格が低くなる傾向があります。空き家のミカタでは相続人全員への説明サポートも承っています。"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "相続アパートの買取価格は、仲介で売る場合と比べてどのくらい変わりますか？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "買取は市場価格の70〜80%程度が目安ですが、仲介で長期間売れなかった場合の機会費用・維持費・修繕費を考えると、トータルの差は縮まることが多いです。相続人が複数いる場合は「早期に現金化して分配できる」という精神的・時間的メリットも大きいです。"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "相続人が4人いる場合、手続きはどれくらい複雑になりますか？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "相続登記の際に相続人全員の印鑑証明書と遺産分割協議書が必要です。提携の司法書士が全員の手続きをまとめてサポートします。遠方の相続人がいても、郵送・メールで対応できます。"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "入居者がいるアパートを売却する場合、入居者に退去してもらう必要がありますか？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "退去してもらう必要はありません。入居者付きのまま（オーナーチェンジ）で売却できます。買取後も既存の賃貸借契約は引き継がれ、入居者はそのまま住み続けられます。"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "相続した賃貸アパートの家賃収入は相続税の計算にどう影響しますか？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "賃貸アパートの相続税評価は「貸家建付地」として計算され、自用地評価額から「借地権割合×借家権割合（30%）×賃貸割合」分が減額されます。建物も固定資産税評価額×（1−借家権割合30%）で評価され、更地・空き家より評価が下がります。詳細は税理士にご相談ください。"
-      }
-    }
-  ]
-}
-</script>
 
 <img src="/images/souzoku-jirei-03-apart-hero.jpg" alt="東京都板橋区の木造2階建てアパート外観 — 相続アパートのイメージ（築35年）" width="1200" height="800" style="width:100%;height:auto;border-radius:8px;margin-bottom:1.5rem;" />
 
@@ -113,7 +65,7 @@ updatedDate: "2026-09-07"
 
 2026年3月に空き家のミカタへLINEで相談。相談から28日後、4人全員が合意のもとで決済を完了しました。
 
-この記事では、Cさんの了承を得て（個人情報は匿名化）、膠着の原因・全員合意に至った経緯・査定から決済までの全プロセスを公開します。
+この記事では、よくある状況をもとにした参考例として（個人は特定できない形で構成）、膠着の原因・全員合意に至った経緯・査定から決済までのプロセスをご紹介します。
 
 > <strong>この記事でわかること</strong>
 > - 相続人4人で意見が割れたとき、どうすればまとまるか
@@ -325,7 +277,7 @@ Cさんのように「相続人が複数いてなかなかまとまらない」�
 
 <strong>[LINEで無料相談する（24時間受付）](https://line.arshe1719.workers.dev/auth/line?ref=hp)</strong>
 
-<strong>[お問い合わせフォームはこちら](/contact)</strong>
+<strong>[お問い合わせフォームはこちら](/contact/)</strong>
 
 相談無料・秘密厳守・大阪・近畿対応
 
@@ -335,22 +287,22 @@ Cさんのように「相続人が複数いてなかなかまとまらない」�
 
 ## 関連するガイド記事
 
-- <a href="/guide/souzoku-apart-kanzen-guide">相続アパートを手放したい方へ｜売却の流れ・税金・失敗しない判断基準を宅建業者が完全解説【2026年最新】</a>
-- <a href="/guide/souzoku-fudousan-urikata-kanzen-guide">【2026年版】相続した不動産の売り方 完全ガイド｜実務手順・費用・業者選定を買取業者が解説</a>
-- <a href="/guide/souzoku-fudosan-shippai-3jirei">相続不動産の売却で失敗した3事例｜買取で解決した比較と5問リスク診断</a>
-- <a href="/guide/kaitori-jirei">訳あり不動産の買取事例5選｜相続アパート・再建築不可・事故物件の解決ストーリー</a>
-- <a href="/guide/osaka-kaitori-jirei">大阪市内の訳あり不動産買取事例集｜再建築不可・事故物件・共有持分・空き家・相続アパートの5事例</a>
+- <a href="/guide/souzoku-apart-kanzen-guide/">相続アパートを手放したい方へ｜売却の流れ・税金・失敗しない判断基準を宅建業者が完全解説【2026年最新】</a>
+- <a href="/guide/parent-death-house/">【2026年版】相続した不動産の売り方 完全ガイド｜実務手順・費用・業者選定を買取業者が解説</a>
+- <a href="/guide/souzoku-fudosan-shippai-3jirei/">相続不動産の売却で失敗した3事例｜買取で解決した比較と5問リスク診断</a>
+- <a href="/guide/osaka-city-yakuari-kaitori/">大阪市の訳あり物件の買取</a>
+- <a href="/guide/kyouyuu-mochibun-kaitori/">共有持分の買取・売却方法</a>
 
 ## この事例で使った売却方法の詳細
 
 Cさんが選んだ「相続アパートのオーナーチェンジ買取」の仕組み・手順・価格の根拠を詳しく解説しているガイド記事です。
 
-- <a href="/guide/souzoku-apart-kanzen-guide">相続アパートを手放したい方へ｜完全ガイド（詳細）</a>
-- <a href="/guide/souzoku-apart-baikyaku-vs-chintai-vs-kanri">相続アパートの売却・賃貸継続・管理委託を比較</a>
-- <a href="/guide/souzoku-apart-timing">相続アパートはいつ売却すべき？タイミングの判断基準</a>
-- <a href="/guide/inherited-apartment-buyout">相続したアパートの買取｜入居者付きでも対応できます</a>
-- <a href="/guide/souzoku-touki-gimuka-2years">相続登記の義務化とは？期限・罰則・手続きを解説</a>
-- <a href="/guide/kaitori-jirei-10sen">訳あり不動産の買取実績10選</a>
+- <a href="/guide/souzoku-apart-kanzen-guide/">相続アパートを手放したい方へ｜完全ガイド（詳細）</a>
+- <a href="/guide/souzoku-apart-baikyaku-vs-chintai-vs-kanri/">相続アパートの売却・賃貸継続・管理委託を比較</a>
+- <a href="/guide/souzoku-apart-timing/">相続アパートはいつ売却すべき？タイミングの判断基準</a>
+- <a href="/guide/inherited-apartment-buyout/">相続したアパートの買取｜入居者付きでも対応できます</a>
+- <a href="/guide/souzoku-touki-gimuka-2years/">相続登記の義務化とは？期限・罰則・手続きを解説</a>
+- <a href="/guide/osaka-city-yakuari-kaitori/">大阪市の訳あり物件の買取</a>
 ---
 
-**このカテゴリの全ガイド一覧:** [→ 相続不動産 完全ハブ【2026年版】](/guide/souzoku-hub)
+**このカテゴリの中心の記事:** [→ 相続した家の売り方と手続き](/guide/parent-death-house/)

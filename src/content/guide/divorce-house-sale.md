@@ -2,6 +2,7 @@
 title: "離婚で家を売る時の注意点｜ローンが残っている場合の対処法"
 description: "離婚時の不動産売却で知っておくべきこと。財産分与、住宅ローンが残っている場合の対処法、売却のタイミングを宅建業者が解説します。"
 publishDate: "2026-02-05"
+noindex: true
 author: "宅建業者"
 faqs:
   - question: "離婚する場合、家はどうするのが一般的ですか？"
@@ -30,6 +31,8 @@ cluster: "shared-ownership"
 
 離婚時の不動産の扱いは<strong>「①売却して現金を分ける」「②どちらかが住み続ける」「③賃貸に出す」</strong>の3パターンが基本です。住宅ローンが残っている場合は、<strong>残債が売却価格を上回る「オーバーローン」</strong>かどうかで対処法が大きく変わります。
 
+関連する内容は[離婚で相手が同意しない家の持分](/guide/rikon-mochibun-kaitori-osaka/)で詳しく解説しています。
+
 この記事では、離婚に伴う不動産売却で押さえておくべきポイントを整理します。
 
 ## 財産分与の基本
@@ -54,7 +57,7 @@ cluster: "shared-ownership"
 
 ### アンダーローンの場合（売却価格 > 残債）
 
-売却価格がローン残債を上回っていれば、売却して残ったお金を分けるのが最もシンプルです。売却の具体的な流れは<a href="/guide/selling-process">はじめての不動産売却ガイド</a>で解説しています。
+売却価格がローン残債を上回っていれば、売却して残ったお金を分けるのが最もシンプルです。売却の具体的な流れは<a href="/guide/osaka-kaitori-vs-chukai/">買取・仲介・放置の比較</a>で解説しています。
 
 <strong>計算例</strong>
 - 売却価格：<strong>3,000万円</strong>
@@ -73,7 +76,7 @@ cluster: "shared-ownership"
 | ②任意売却 | 金融機関の同意を得て残債ありで売却 | 競売より高く売れる | 信用情報に影響する場合あり |
 | ③どちらかが住み続ける | ローンを引き続き返済 | 住居を確保できる | ローン名義の問題が残る |
 
-> <strong>宅建業者の視点</strong>：オーバーローンの場合でも、まずは不動産の査定を受けて現在の市場価格を正確に把握することが大切です。「オーバーローンだと思っていたけど、査定してみたらアンダーローンだった」というケースは大阪市内では珍しくありません。特にここ数年は不動産価格が上昇傾向にあり、購入時より値上がりしている物件も多いです。査定額の見方や注意点は<a href="/guide/appraisal-difference">査定額の差の理由と高すぎる査定の注意点</a>も参考にしてください。
+> <strong>宅建業者の視点</strong>：オーバーローンの場合でも、まずは不動産の査定を受けて現在の市場価格を正確に把握することが大切です。「オーバーローンだと思っていたけど、査定してみたらアンダーローンだった」というケースは大阪市内では珍しくありません。特にここ数年は不動産価格が上昇傾向にあり、購入時より値上がりしている物件も多いです。査定額の見方や注意点は<a href="/guide/appraisal-difference/">査定額の差の理由と高すぎる査定の注意点</a>も参考にしてください。
 
 ## 売却のタイミング：離婚前 vs 離婚後
 
@@ -138,14 +141,14 @@ cluster: "shared-ownership"
 
 ## 関連する記事
 
-- <a href="/guide/selling-process">はじめての不動産売却ガイド</a>
-- <a href="/guide/appraisal-difference">査定額はなぜ会社によって違う？高すぎる査定に注意</a>
-- <a href="/guide/selling-tax-guide">不動産売却時の税金と節税対策</a>
+- <a href="/guide/osaka-kaitori-vs-chukai/">買取・仲介・放置の比較</a>
+- <a href="/guide/appraisal-difference/">査定額はなぜ会社によって違う？高すぎる査定に注意</a>
+- <a href="/guide/souzoku-jouto-shotokuzei-5nen-kisanbi/">不動産売却時の税金と節税対策</a>
 
 
 ## 関連するガイド記事
 
-- <a href="/guide/kyouyuu-mochibun-hub">共有持分 完全ハブ｜売却・買取・トラブル解決・相場まで全ガイドまとめ【2026年版】</a>
+- <a href="/guide/kyouyuu-mochibun-kaitori/">共有持分の買取・売却方法</a>
 
 LINE「空き家のミカタ」：[https://line.arshe1719.workers.dev/auth/line?ref=hp](https://line.arshe1719.workers.dev/auth/line?ref=hp)
 

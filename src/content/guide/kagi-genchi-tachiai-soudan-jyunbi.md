@@ -41,7 +41,7 @@ faqs:
 
 どの組み合わせでも、相談を始めることはできます。表の右端は、相談の入口で「何を確かめれば次に進めるか」の目安です。買取の可否や条件は、所在地と物件の状況を確認して判断します。
 
-机上査定そのものの仕組みは、<a href="/guide/kijou-satei-souzoku-fudosan-soudan">机上査定とは？空き家・訳あり物件を現地確認前に相談する方法</a>で詳しくまとめています。机上でわかることと現地で固まることの違いも、そちらで説明しています。この記事では、鍵と立会いの準備に絞ってお伝えします。
+机上査定そのものの仕組みは、<a href="/guide/kijou-satei-souzoku-fudosan-soudan/">机上査定とは？空き家・訳あり物件を現地確認前に相談する方法</a>で詳しくまとめています。机上でわかることと現地で固まることの違いも、そちらで説明しています。この記事では、鍵と立会いの準備に絞ってお伝えします。
 
 ---
 
@@ -66,7 +66,7 @@ faqs:
 
 相続人が複数いて、遺言で取得する人が決まっていない場合、遺産分割が終わるまで、相続した不動産は<strong>相続人全員の共有</strong>です（民法898条1項）。物件全体を売る段階では、共有者の全員が売主になります。そのため、鍵を持っている方とは、いずれ売却そのものについても話をすることになります。
 
-同じ理由で、鍵を壊したり交換したりする前には、ほかの相続人の方と話をしておくことをおすすめします。ほかの相続人に知られずに査定できるかが気になる方は、<a href="/guide/kyouyuu-mochibun-naisho-satei">共有持分は兄弟に内緒で査定できる？</a>をご覧ください。
+同じ理由で、鍵を壊したり交換したりする前には、ほかの相続人の方と話をしておくことをおすすめします。ほかの相続人に知られずに査定できるかが気になる方は、<a href="/guide/kyouyuu-mochibun-naisho-satei/">共有持分は兄弟に内緒で査定できる？</a>をご覧ください。
 
 ---
 
@@ -88,7 +88,7 @@ faqs:
 
 相続したアパートに入居者の方がいる場合、入居中の部屋はその方の住まいです。現地確認をするときも、室内まで見られるとは限りません。
 
-この場合は、<strong>入居状況（入居中・一部入居・空室）と家賃の明細</strong>がわかると、机上で整理できる範囲が広がります。相続アパートの相談の流れは<a href="/guide/souzoku-apart-uritai-lp">相続アパートを売りたい方へ【大阪・近畿対応】</a>をご覧ください。
+この場合は、<strong>入居状況（入居中・一部入居・空室）と家賃の明細</strong>がわかると、机上で整理できる範囲が広がります。相続アパートの相談の流れは<a href="/guide/souzoku-apart-uritai-lp/">相続アパートを売りたい方へ【大阪・近畿対応】</a>をご覧ください。
 
 ---
 
@@ -119,7 +119,7 @@ faqs:
 | 現地確認について伝えたいこと | 鍵の所在：不明／現地で対応できる人：未確認 |
 | 相談して確認したいこと | 机上でどこまで確認できるか |
 
-記入例の値は説明のためのもので、実際のご相談ではありません。確認表には、物件の種類・売却を考える時期・手元にある情報も含まれます。全体は<a href="/guide/kijou-satei-souzoku-fudosan-soudan">机上査定の記事</a>に載せています。
+記入例の値は説明のためのもので、実際のご相談ではありません。確認表には、物件の種類・売却を考える時期・手元にある情報も含まれます。全体は<a href="/guide/kijou-satei-souzoku-fudosan-soudan/">机上査定の記事</a>に載せています。
 
 この表は、ご相談の準備のための記入欄です。<strong>氏名・連絡先・口座番号・身分証明書を書く必要はありません。</strong>
 
@@ -157,7 +157,7 @@ faqs:
 
 <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06C755;color:#fff;padding:14px 32px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 8px 8px 0;">LINE「空き家のミカタ」に相談する（無料）</a>
 
-<a href="/contact" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 32px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 0;">無料査定フォームで相談する</a>
+<a href="/contact/" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 32px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 0;">無料査定フォームで相談する</a>
 
 空き家のミカタは、大阪市生野区に事務所を置く宅地建物取引業者（大阪府知事(1)第65646号）です。大阪を中心に、兵庫・京都・奈良・滋賀・和歌山の物件を対象に、当社が買主として直接買取のご相談をお受けしています。登記の手続きは司法書士へ、税金の判断は税理士へご確認ください。
 
@@ -165,10 +165,10 @@ faqs:
 
 ## 関連記事
 
-- <a href="/guide/kijou-satei-souzoku-fudosan-soudan">机上査定とは？空き家・訳あり物件を現地確認前に相談する方法</a>
-- <a href="/guide/kyouyuu-mochibun-naisho-satei">共有持分は兄弟に内緒で査定できる？</a>
-- <a href="/guide/souzoku-apart-uritai-lp">相続アパートを売りたい方へ【大阪・近畿対応】</a>
-- <a href="/guide/wakeari-bukken-kaitori-tetsuzuki">訳あり物件の買取手続き｜必要書類・告知書の書き方</a>
+- <a href="/guide/kijou-satei-souzoku-fudosan-soudan/">机上査定とは？空き家・訳あり物件を現地確認前に相談する方法</a>
+- <a href="/guide/kyouyuu-mochibun-naisho-satei/">共有持分は兄弟に内緒で査定できる？</a>
+- <a href="/guide/souzoku-apart-uritai-lp/">相続アパートを売りたい方へ【大阪・近畿対応】</a>
+- <a href="/guide/wakeari-bukken-kaitori-tetsuzuki/">訳あり物件の買取手続き｜必要書類・告知書の書き方</a>
 
 ---
 

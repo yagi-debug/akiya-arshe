@@ -82,7 +82,7 @@ faqs:
 
 一方、レインズに載せない売り方は、買い手候補の母数が減ります。母数が減れば売却期間は延びます。<strong>物件が市場に出ている期間が長いほど、看板・チラシ・内見の回数は積み上がり、近隣の目に触れる総量は増えます。</strong>
 
-「短期間だけ広く出す」のと「長期間だけ狭く出す」のとで、どちらが結果的に知られにくいのか。これは物件ごとに答えが変わります。とくに<a href="/guide/saikenchifu-hub">再建築不可</a>や<a href="/guide/jiko-bukken-hub">事故物件</a>のように買い手が限られる物件では、狭く出すと半年から1年単位で市場に残ることがあり、その間ずっと看板が立ち続けます。
+「短期間だけ広く出す」のと「長期間だけ狭く出す」のとで、どちらが結果的に知られにくいのか。これは物件ごとに答えが変わります。とくに<a href="/guide/non-rebuildable-property-sale/">再建築不可</a>や<a href="/guide/jiko-bukken-hub/">事故物件</a>のように買い手が限られる物件では、狭く出すと半年から1年単位で市場に残ることがあり、その間ずっと看板が立ち続けます。
 
 | 比べる項目 | 専任・専属専任媒介 | 一般媒介 | 買取（業者への直接売却） |
 |---|---|---|---|
@@ -95,7 +95,7 @@ faqs:
 | 売却までの期間 | 数か月〜 | 長引きやすい | 短い |
 | 引渡し後の登記 | 発生する | 発生する | 発生する |
 
-<strong>近所に知られたくないという条件を最優先にするなら、露出そのものが発生しない買取が構造的に有利です。</strong>ただし買取価格は市場価格より低くなりますので、その差額をどう見るかは別の判断になります。価格差の内訳については<a href="/guide/osaka-kaitori-vs-chukai">大阪市で不動産を売るとき、買取と仲介はどちらが得か</a>で詳しくお伝えしています。
+<strong>近所に知られたくないという条件を最優先にするなら、露出そのものが発生しない買取が構造的に有利です。</strong>ただし買取価格は市場価格より低くなりますので、その差額をどう見るかは別の判断になります。価格差の内訳については<a href="/guide/osaka-kaitori-vs-chukai/">大阪市で不動産を売るとき、買取と仲介はどちらが得か</a>で詳しくお伝えしています。
 
 ## 登記が近隣に伝わる、本当の経路
 
@@ -122,9 +122,9 @@ faqs:
 
 ### 親族に伝わるかどうかは、名義のかたちで変わります
 
-単独名義であれば、他の親族の同意も通知も不要です。一方、<strong>相続した不動産で相続登記が済んでいない場合は、法定相続人全員での遺産分割協議が前提になるため、他の相続人に知られずに進めることはできません。</strong>相続登記は2024年4月1日から義務化されており、過去の相続も対象になります（詳しくは<a href="/guide/souzoku-touki-gimuka-2years">相続登記の義務化｜3年ルールと過料の実際</a>）。
+単独名義であれば、他の親族の同意も通知も不要です。一方、<strong>相続した不動産で相続登記が済んでいない場合は、法定相続人全員での遺産分割協議が前提になるため、他の相続人に知られずに進めることはできません。</strong>相続登記は2024年4月1日から義務化されており、過去の相続も対象になります（詳しくは<a href="/guide/souzoku-touki-gimuka-2years/">相続登記の義務化｜3年ルールと過料の実際</a>）。
 
-共有名義で自分の持分だけを売る場合は、他の共有者の同意なく売却できます。ただし持分移転登記のあとに登記簿で知られる可能性がありますので、<a href="/guide/kyouyuu-mochibun-naisho-satei">共有持分は兄弟に内緒で査定できる？</a>もあわせてご覧ください。
+共有名義で自分の持分だけを売る場合は、他の共有者の同意なく売却できます。ただし持分移転登記のあとに登記簿で知られる可能性がありますので、<a href="/guide/kyouyuu-mochibun-naisho-satei/">共有持分は兄弟に内緒で査定できる？</a>もあわせてご覧ください。
 
 ## 現地調査のとき、こちらでお引き受けできる配慮
 
@@ -148,11 +148,11 @@ faqs:
 
 大阪市の長屋建住宅は令和5年時点で3万1,200戸あり、生野区・西成区・東住吉区に偏って残っています（大阪市「令和5年住宅・土地統計調査」）。<strong>長屋は隣家と壁を共有しているため、切り離しを伴う工事では隣家の同意が必要になります。</strong>この場合、隣家に話が伝わることは避けられません。
 
-一方で、切り離さずに現況のまま買い取る出口を選べば、引渡しの時点で隣家に説明が必要になるとは限りません。<a href="/guide/osaka-nagaya-kiribanashi-doui">大阪市の長屋は切り離せる？隣家の同意が必要な理由と出口3つ</a>と<a href="/guide/osaka-bunka-jutaku-nagaya-souzoku-2026">大阪の文化住宅・長屋を相続したら</a>で、両方の見通しをまとめています。
+一方で、切り離さずに現況のまま買い取る出口を選べば、引渡しの時点で隣家に説明が必要になるとは限りません。<a href="/guide/osaka-nagaya-kiribanashi-doui/">大阪市の長屋は切り離せる？隣家の同意が必要な理由と出口3つ</a>と<a href="/guide/osaka-bunka-jutaku-nagaya-souzoku-2026/">大阪の文化住宅・長屋を相続したら</a>で、両方の見通しをまとめています。
 
 ### 私道
 
-前面道路が私道の場合、通行と掘削（水道・ガス管の引き直し）について、私道の共有者から承諾書をもらう必要が出てきます。共有者は多くの場合、近隣の住民です。<strong>承諾を取りに行く時点で、所有者が変わったことは相手に伝わります。</strong>詳しくは<a href="/guide/shido-futan-bukken-baikyaku">私道に面した不動産を売りたい｜私道負担・通行権・掘削承諾問題と現況買取の解決策</a>でお伝えしています。
+前面道路が私道の場合、通行と掘削（水道・ガス管の引き直し）について、私道の共有者から承諾書をもらう必要が出てきます。共有者は多くの場合、近隣の住民です。<strong>承諾を取りに行く時点で、所有者が変わったことは相手に伝わります。</strong>詳しくは<a href="/guide/shido-futan-bukken-baikyaku/">私道に面した不動産を売りたい｜私道負担・通行権・掘削承諾問題と現況買取の解決策</a>でお伝えしています。
 
 ### ゴミ置き場・町会
 
@@ -184,7 +184,7 @@ faqs:
 売却の話は伝わりませんが、庭木の越境・郵便物の滞留・老朽化については、近隣から自治体へ相談が入ることがあります。空家等対策の推進に関する特別措置法に基づく管理不全空家等・特定空家等として<strong>勧告</strong>を受けると、その敷地は固定資産税の住宅用地特例の対象から外れます（地方税法349条の3の2）。放置しているほうが人目につくという逆転が起きる点は、頭の片隅に置いていただければと思います。
 
 <strong>Q. 家の中を見られたくありません。それでも売れますか。</strong>  
-売れます。残置物が残ったまま、家財がそのままの状態でも査定・買取ができます。<a href="/guide/katazukenaide-soudan">片づけないままご相談ください</a>で具体的な進め方をお伝えしています。
+売れます。残置物が残ったまま、家財がそのままの状態でも査定・買取ができます。<a href="/guide/katazukenaide-soudan/">片づけないままご相談ください</a>で具体的な進め方をお伝えしています。
 
 <strong>Q. 事故物件です。近所には知られていますが、買い手にはどこまで伝わりますか。</strong>  
 人の死に関する事案は、国土交通省のガイドラインに沿って買主・借主へ告知します。ただしこれは取引の相手方に対する説明で、町内に公表するものではありません。
@@ -212,7 +212,7 @@ faqs:
 
 <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06c755;color:#fff;padding:14px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 4px;">LINE「空き家のミカタ」に相談する（無料）</a>
 
-<a href="/contact" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 4px;">無料査定フォームで相談する</a>
+<a href="/contact/" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 4px;">無料査定フォームで相談する</a>
 
 大阪市24区の空き家・長屋・再建築不可物件・事故物件・共有持分を専門に扱っており、<strong>荷物や家財が残ったまま・入居者が住んだまま・相続登記が未了</strong>の状態でも査定にお応えできます。社名の入らない車での訪問、時間帯のご指定、室内に立ち入らない外観のみの調査、ご連絡方法の指定（LINEのみ・郵送先の変更など）にも対応しています。秘密厳守で対応いたします。なお、相続人間の話し合いや立退き交渉については弁護士へ、相続登記の手続は司法書士へ、譲渡所得税・相続税の判断は税理士へご確認ください。
 
@@ -220,18 +220,18 @@ faqs:
 
 ## 関連記事
 
-- <a href="/guide/osaka-kaitori-vs-chukai">大阪市で不動産を売るなら買取と仲介どちらが得か</a>
-- <a href="/guide/kyouyuu-mochibun-naisho-satei">共有持分は兄弟に内緒で査定できる？知られるのは登記のあと</a>
-- <a href="/guide/osaka-nagaya-kiribanashi-doui">大阪市の長屋は切り離せる？隣家の同意が必要な理由と出口3つ</a>
-- <a href="/guide/osaka-bunka-jutaku-nagaya-souzoku-2026">大阪の文化住宅・長屋を相続したら｜24区別データと入居者がいる場合の出口</a>
-- <a href="/guide/shido-futan-bukken-baikyaku">私道に面した不動産を売りたい｜私道負担・通行権・掘削承諾問題と現況買取の解決策</a>
-- <a href="/guide/saikenchifu-hub">再建築不可物件の売却ガイド｜理由別の対処法まとめ</a>
-- <a href="/guide/jiko-bukken-hub">事故物件の売却ガイド｜告知義務と価格への影響</a>
-- <a href="/guide/katazukenaide-soudan">片づけないままご相談ください｜残置物ありでも買取できます</a>
-- <a href="/guide/kaitori-kyohi-tokucho-7">買取を断られる物件の特徴7つ</a>
-- <a href="/guide/fudosan-kotowarareta-ato-dekiru-koto">不動産会社に断られた後にできること</a>
-- <a href="/guide/souzoku-touki-gimuka-2years">相続登記の義務化｜3年ルールと過料の実際</a>
-- <a href="/guide/osaka-kaitori-jirei">大阪市の買取事例</a>
+- <a href="/guide/osaka-kaitori-vs-chukai/">大阪市で不動産を売るなら買取と仲介どちらが得か</a>
+- <a href="/guide/kyouyuu-mochibun-naisho-satei/">共有持分は兄弟に内緒で査定できる？知られるのは登記のあと</a>
+- <a href="/guide/osaka-nagaya-kiribanashi-doui/">大阪市の長屋は切り離せる？隣家の同意が必要な理由と出口3つ</a>
+- <a href="/guide/osaka-bunka-jutaku-nagaya-souzoku-2026/">大阪の文化住宅・長屋を相続したら｜24区別データと入居者がいる場合の出口</a>
+- <a href="/guide/shido-futan-bukken-baikyaku/">私道に面した不動産を売りたい｜私道負担・通行権・掘削承諾問題と現況買取の解決策</a>
+- <a href="/guide/non-rebuildable-property-sale/">再建築不可物件の売却ガイド｜理由別の対処法まとめ</a>
+- <a href="/guide/jiko-bukken-hub/">事故物件の売却ガイド｜告知義務と価格への影響</a>
+- <a href="/guide/katazukenaide-soudan/">片づけないままご相談ください｜残置物ありでも買取できます</a>
+- <a href="/guide/kaitori-kyohi-tokucho-7/">買取を断られる物件の特徴7つ</a>
+- <a href="/guide/fudosan-kotowarareta-ato-dekiru-koto/">不動産会社に断られた後にできること</a>
+- <a href="/guide/souzoku-touki-gimuka-2years/">相続登記の義務化｜3年ルールと過料の実際</a>
+- <a href="/guide/kyouyuu-mochibun-kaitori/">共有持分の買取・売却方法</a>
 
 ---
 

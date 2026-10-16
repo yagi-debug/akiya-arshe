@@ -262,7 +262,7 @@ updatedDate: "2026-09-07"
 
 なお、告知義務は<strong>宅地建物取引業者に課される規律</strong>であって、賃貸人と相続人の間の損害賠償の可否を直接決めるものではありません。とはいえ、「告知が必要な事案かどうか」は減収の主張の土台になりますので、確認する価値は十分にあります。<strong>金額の当否の最終判断は、弁護士にご相談ください。</strong>
 
-告知義務そのものについては、[心理的瑕疵とは？事故物件の告知義務の範囲・売却時期・価格への影響](/guide/shinriteki-kashi-kokuchi-gimu)で詳しく整理しています。
+告知義務そのものについては、[心理的瑕疵とは？事故物件の告知義務の範囲・売却時期・価格への影響](/guide/shinriteki-kashi-kokuchi-gimu/)で詳しく整理しています。
 
 ---
 
@@ -332,7 +332,7 @@ updatedDate: "2026-09-07"
 
 前章に書いたとおりです。<strong>相続放棄で消えるのは「相続によって承継する債務」だけです。</strong>ご自身が連帯保証人として署名していれば、その責任は放棄後も残ります。相続放棄の申述をする前に、賃貸借契約書の連帯保証人欄を必ず確認してください。
 
-なお、賃貸住宅の鍵を預かっていた、部屋に自分の荷物を置いていたといった事情があると、民法第940条第1項の保存義務（放棄の時に相続財産に属する財産を現に占有しているときは、相続人または相続財産の清算人に引き渡すまで保存する義務）が問題になることがあります。この点は[相続放棄すれば空き家から解放される？民法940条の保存義務と清算人の予納金](/guide/souzoku-houki-akiya-hozon-gimu)で詳しく整理しています。
+なお、賃貸住宅の鍵を預かっていた、部屋に自分の荷物を置いていたといった事情があると、民法第940条第1項の保存義務（放棄の時に相続財産に属する財産を現に占有しているときは、相続人または相続財産の清算人に引き渡すまで保存する義務）が問題になることがあります。この点は[相続放棄すれば空き家から解放される？民法940条の保存義務と清算人の予納金](/guide/souzoku-houki-akiya-hozon-gimu/)で詳しく整理しています。
 
 ---
 
@@ -346,7 +346,7 @@ updatedDate: "2026-09-07"
 
 50万円の原状回復費用を避けるために相続放棄をした結果、300万円で売れたはずの土地も一緒に失う。<strong>相続放棄は財産を選べません。</strong>これが、私たちが現場でいちばん申し上げたいことです。
 
-もうひとつ。<strong>「片付けてから査定を」と考えないでください。</strong>前述のとおり、片付けは法定単純承認の引き金になり得ます。当社では<strong>現況のまま</strong>、つまり残置物がある状態のままで売却見込額をお出ししています。そのほうが、判断の順番として安全です。現況のままの売却については[相続した家を現状渡しで売る方法｜片付け・修繕なしで買取できる理由](/guide/souzoku-fudosan-genjou-watashi-kaitori)にまとめています。
+もうひとつ。<strong>「片付けてから査定を」と考えないでください。</strong>前述のとおり、片付けは法定単純承認の引き金になり得ます。当社では<strong>現況のまま</strong>、つまり残置物がある状態のままで売却見込額をお出ししています。そのほうが、判断の順番として安全です。現況のままの売却については[相続した家を現状渡しで売る方法｜片付け・修繕なしで買取できる理由](/guide/souzoku-fudosan-genjou-watashi-kaitori/)にまとめています。
 
 <strong>調べる順番は、こうです。</strong>
 
@@ -467,7 +467,7 @@ A. 相続放棄が受理されたら、<strong>受理通知書または受理証
 
 <strong>[LINEで無料相談する（24時間受付）](https://line.arshe1719.workers.dev/auth/line?ref=hp)</strong>
 
-<strong>[お問い合わせフォームはこちら](/contact)</strong>
+<strong>[お問い合わせフォームはこちら](/contact/)</strong>
 
 相談無料・秘密厳守。査定後にお断りいただいても問題ありません。相続放棄を選ばれる場合でも、判断材料としてお使いいただければ十分です。
 
@@ -475,18 +475,18 @@ A. 相続放棄が受理されたら、<strong>受理通知書または受理証
 
 ## 関連するガイド記事
 
-- [事故物件の売却費用は誰が払う？特殊清掃・原状回復の相場と負担者](/guide/jikobukken-baikyaku-futan-hiyou)
-- [心理的瑕疵とは？事故物件の告知義務の範囲・売却時期・価格への影響](/guide/shinriteki-kashi-kokuchi-gimu)
-- [事故物件の買取価格はいくら？相場の下落率と査定額の内訳](/guide/jiko-bukken-kaitori-kakaku-soba)
-- [事故物件を高く売るタイミング｜「3年待てば」が損になる理由と5つの期限](/guide/jiko-bukken-uru-timing)
-- [相続放棄したら家はどうなる？手続きの流れと注意点](/guide/inheritance-abandon)
-- [相続放棄の期限（3ヶ月）を過ぎたらどうなる？期限切れ後の対処法](/guide/souzoku-houki-kigengire)
-- [相続放棄すれば空き家から解放される？民法940条の保存義務と清算人の予納金](/guide/souzoku-houki-akiya-hozon-gimu)
-- [入居者付き物件を相続放棄したら家賃はどこへ行く？管理義務・敷金・供託の行方](/guide/souzoku-houki-chintai-nyukyosha-tsuki)
-- [相続放棄したアパートの入居者はどうなる？管理責任と手続き](/guide/inheritance-renunciation-apartment-tenant-issue)
-- [相続した家を現状渡しで売る方法｜片付け・修繕なしで買取できる理由](/guide/souzoku-fudosan-genjou-watashi-kaitori)
-- [相続から不動産売却完了まで｜期限つきタイムラインで全手順を解説](/guide/inheritance-sale-timeline)
-- [相続した空き家が売れない？固定資産税が6倍になる前に試すべき3つの売却戦略](/guide/akiya-souzoku-urenai)
+- [事故物件の売却費用は誰が払う？特殊清掃・原状回復の相場と負担者](/guide/jikobukken-baikyaku-futan-hiyou/)
+- [心理的瑕疵とは？事故物件の告知義務の範囲・売却時期・価格への影響](/guide/shinriteki-kashi-kokuchi-gimu/)
+- [事故物件の買取価格はいくら？相場の下落率と査定額の内訳](/guide/jiko-bukken-kaitori-kakaku-soba/)
+- [事故物件を高く売るタイミング｜「3年待てば」が損になる理由と5つの期限](/guide/jiko-bukken-uru-timing/)
+- [相続放棄したら家はどうなる？手続きの流れと注意点](/guide/inheritance-abandon/)
+- [相続放棄の期限（3ヶ月）を過ぎたらどうなる？期限切れ後の対処法](/guide/souzoku-houki-kigengire/)
+- [相続放棄すれば空き家から解放される？民法940条の保存義務と清算人の予納金](/guide/souzoku-houki-akiya-hozon-gimu/)
+- [入居者付き物件を相続放棄したら家賃はどこへ行く？管理義務・敷金・供託の行方](/guide/souzoku-houki-chintai-nyukyosha-tsuki/)
+- [相続放棄したアパートの入居者はどうなる？管理責任と手続き](/guide/inheritance-renunciation-apartment-tenant-issue/)
+- [相続した家を現状渡しで売る方法｜片付け・修繕なしで買取できる理由](/guide/souzoku-fudosan-genjou-watashi-kaitori/)
+- [相続から不動産売却完了まで｜期限つきタイムラインで全手順を解説](/guide/inheritance-sale-timeline/)
+- [相続した空き家が売れない？固定資産税が6倍になる前に試すべき3つの売却戦略](/guide/akiya-souzoku-urenai/)
 
 ---
 

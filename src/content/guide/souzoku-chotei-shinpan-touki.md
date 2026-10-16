@@ -39,7 +39,7 @@ howToSteps:
 
 <strong>「裁判になった」と聞くと身構えてしまいますが、遺産分割の調停や審判は、刑事事件のような「争って負ける手続き」ではありません。</strong>話し合いがまとまらないときに、分け方を決めてもらうための手続きです。そして最終的には、不動産の名義をどう変えるかという実務に着地します。
 
-この記事では、<strong>特別送達が届いたところから、審判が確定して法務局に登記を入れるまで</strong>を、法令と裁判所が公開している資料に沿って順にお伝えします。調停や審判そのものの費用・期間の全体像は[遺産分割調停とは？不動産で揉めた場合の流れ・費用・解決策](/guide/isan-bunkatsu-chotei-fudosan-nagare)にまとめていますので、あわせてご覧ください。
+この記事では、<strong>特別送達が届いたところから、審判が確定して法務局に登記を入れるまで</strong>を、法令と裁判所が公開している資料に沿って順にお伝えします。調停や審判そのものの費用・期間の全体像は[遺産分割調停とは？不動産で揉めた場合の流れ・費用・解決策](/guide/isan-bunkatsu-chotei-fudosan-nagare/)にまとめていますので、あわせてご覧ください。
 
 > <strong>この記事のポイント</strong>
 > - 特別送達は<strong>受け取りを拒んでも効力が生じます</strong>（民事訴訟法106条3項の差置送達）
@@ -127,7 +127,7 @@ howToSteps:
 - <strong>その不動産が本当に亡くなった方の所有だったのかで争いがある</strong>
 - <strong>遺言書の効力について意見が割れている</strong>
 
-これらは家庭裁判所の遺産分割手続きでは決着しません。地方裁判所での民事訴訟が先になります。<strong>「調停が終わったのに何も決まらないまま戻された」という場合、この前提問題が原因である可能性があります。</strong>その間も不動産は亡くなった方の名義のまま残り続けます。未登記のまま放置した場合のリスクは[相続登記をせずに放置したらどうなる？](/guide/souzoku-touki-houchi-doushitara)にまとめています。
+これらは家庭裁判所の遺産分割手続きでは決着しません。地方裁判所での民事訴訟が先になります。<strong>「調停が終わったのに何も決まらないまま戻された」という場合、この前提問題が原因である可能性があります。</strong>その間も不動産は亡くなった方の名義のまま残り続けます。未登記のまま放置した場合のリスクは[相続登記をせずに放置したらどうなる？](/guide/souzoku-touki-houchi-doushitara/)にまとめています。
 
 ## 審判が出てから確定するまでの2週間
 
@@ -191,7 +191,7 @@ howToSteps:
 - <strong>固定資産評価証明書</strong>（登録免許税を計算するために使います）
 - <strong>登記事項証明書</strong>（現在の登記内容の確認用）
 
-必要書類の細かい揃え方と大阪法務局での手続きは[大阪で相続登記をするときの管轄と必要書類](/guide/souzoku-touki-osaka-kankatsu-shorui)に、ご自身で申請する場合の進め方は[相続登記を自分でやる場合の費用と手順](/guide/souzoku-touki-jibunde-hiyou)にまとめています。
+必要書類の細かい揃え方と大阪法務局での手続きは[大阪で相続登記をするときの管轄と必要書類](/guide/souzoku-touki-osaka-kankatsu-shorui/)に、ご自身で申請する場合の進め方は[相続登記を自分でやる場合の費用と手順](/guide/souzoku-touki-jibunde-hiyou/)にまとめています。
 
 ### 確定証明書と謄本の取り方・費用
 
@@ -237,7 +237,7 @@ howToSteps:
 
 正当な理由がないのに申請を怠ると、<strong>10万円以下の過料</strong>の対象になります（同法164条1項）。
 
-なお、3年以内に遺産分割がまとまりそうにない場合には、<strong>相続人申告登記</strong>という制度があります（同法76条の3）。登記官に対して「この不動産の登記名義人について相続が開始した」「自分はその相続人である」と申し出るもので、期間内に申し出れば申請義務を履行したものとみなされます（同条2項）。<strong>調停や審判が長引いている間の、義務違反を避けるための備えとして使えます。</strong>制度の全体像は[相続登記義務化の完全対応ガイド](/guide/souzoku-touki-gimuka-kanzen-taiou-2026)、過料の実際については[相続登記の過料はいくら？](/guide/souzoku-touki-gimuka-karyo)をご覧ください。
+なお、3年以内に遺産分割がまとまりそうにない場合には、<strong>相続人申告登記</strong>という制度があります（同法76条の3）。登記官に対して「この不動産の登記名義人について相続が開始した」「自分はその相続人である」と申し出るもので、期間内に申し出れば申請義務を履行したものとみなされます（同条2項）。<strong>調停や審判が長引いている間の、義務違反を避けるための備えとして使えます。</strong>制度の全体像は[相続登記義務化の完全対応ガイド](/guide/inheritance-registry-neglect-sale-3options/)、過料の実際については[相続登記の過料はいくら？](/guide/souzoku-touki-gimuka-karyo/)をご覧ください。
 
 ## 大阪市の不動産で調停・審判になったときの実額
 
@@ -287,7 +287,7 @@ howToSteps:
 このうち<strong>現物を売却して分ける方法で、任意の売却がまとまらない場合、競売になることがあります。</strong>競売は買い手が現地を十分に確認できず、引き渡しの保証もないため、任意の売却に比べて価格が伸びにくい手続きです。全員で分け合う金額そのものが小さくなります。
 
 > <strong>宅建業者の視点</strong>  
-> 大阪市内の実家を相続され、きょうだい間で調停になっているという段階でご相談をいただいたことがあります。「売る」ということ自体には全員が反対していないのに、いくらで売れるかがわからないので誰も動けない、という状態でした。買取の査定額をお出ししたところ、「この金額で分けるなら」と話が前に進みました。<strong>揉めているのは分け方ではなく、「金額がわからない」ことだったわけです。</strong>調停中でも査定はできますし、査定を受けたからといって売らなければならないわけでもありません。数字が一つ乗るだけで話が動くことは、実際にあります。
+> 実家を相続したきょうだい間で調停になっている場合に、よくある状況があります（参考例）。「売る」ということ自体には全員が反対していないのに、いくらで売れるかがわからないので誰も動けない、という状態です。買取の査定額のような具体的な金額が出ると、「この金額で分けるなら」と話が前に進むことがあります。<strong>揉めているのは分け方ではなく、「金額がわからない」ことだったというケースです。</strong>調停中でも査定はできますし、査定を受けたからといって売らなければならないわけでもありません。
 
 ### 調停中でも、ご自身の持分だけを売る方法があります
 
@@ -295,7 +295,7 @@ howToSteps:
 
 <strong>ただし、通常の不動産仲介では共有持分だけの売却は成立しにくいのが実情です。</strong>持分だけを買っても自由に使えないため、一般の買い手がつきません。共有持分の買取に対応している業者に相談する必要があります。
 
-考え方と注意点は[共有持分の買取とは？](/guide/kyouyuu-mochibun-kaitori)、共有物分割請求まで進んだ場合の実務は[共有物分割請求の実務](/guide/kyouyuu-butsu-bunkatsu-seikyu-jitsumu)にまとめています。<strong>持分の売却は他の相続人との関係に影響しますので、進める前に弁護士へご相談ください。</strong>
+考え方と注意点は[共有持分の買取とは？](/guide/kyouyuu-mochibun-kaitori/)、共有物分割請求まで進んだ場合の実務は[共有物分割請求の実務](/guide/kyouyuu-butsu-bunkatsu-seikyu-jitsumu/)にまとめています。<strong>持分の売却は他の相続人との関係に影響しますので、進める前に弁護士へご相談ください。</strong>
 
 ## まとめ
 
@@ -315,7 +315,7 @@ howToSteps:
 
 <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06c755;color:#fff;padding:14px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 4px;">LINE「空き家のミカタ」に相談する（無料）</a>
 
-<a href="/contact" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 4px;">無料査定フォームで相談する</a>
+<a href="/contact/" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 4px;">無料査定フォームで相談する</a>
 
 大阪市24区の訳あり不動産を専門に扱っており、<strong>登記が亡くなった方の名義のまま・きょうだいで共有・家財が残ったまま・再建築不可</strong>といった状態でも査定にお応えできます。遠方にお住まいで現地を見に行けない方のご相談も承ります。秘密厳守で対応いたします。なお、調停・審判の見通しや即時抗告の要否は弁護士へ、登記申請の具体的な手続きは司法書士または管轄の法務局へ、税額と特例の適用可否は税理士または所轄の税務署へご確認ください。当社は法律事務・登記手続きの代理は行いません。
 
@@ -323,15 +323,15 @@ howToSteps:
 
 ## 関連記事
 
-- <a href="/guide/isan-bunkatsu-chotei-fudosan-nagare">遺産分割調停とは？不動産で揉めた場合の流れ・費用・解決策</a>
-- <a href="/guide/isan-bunkatsu-kyougisho-kakikata">遺産分割協議書の書き方</a>
-- <a href="/guide/souzoku-touki-osaka-kankatsu-shorui">大阪で相続登記をするときの管轄と必要書類</a>
-- <a href="/guide/souzoku-touki-jibunde-hiyou">相続登記を自分でやる場合の費用と手順</a>
-- <a href="/guide/souzoku-touki-gimuka-kanzen-taiou-2026">相続登記義務化の完全対応ガイド</a>
-- <a href="/guide/souzoku-touki-gimuka-karyo">相続登記の過料はいくら？</a>
-- <a href="/guide/souzoku-touki-houchi-doushitara">相続登記をせずに放置したらどうなる？</a>
-- <a href="/guide/kyouyuu-mochibun-kaitori">共有持分の買取とは？</a>
-- <a href="/guide/kyouyuu-butsu-bunkatsu-seikyu-jitsumu">共有物分割請求の実務</a>
-- <a href="/guide/daishou-bunkatsu-fudousan-souzoku">代償分割とは？相続で他の相続人に現金を渡す方法</a>
-- <a href="/guide/mitouki-fudosan-kaitori">未登記の不動産の買取</a>
-- <a href="/guide/souzoku-ie-doushitara-hub">相続した家をどうしたらいい？判断の入口まとめ</a>
+- <a href="/guide/isan-bunkatsu-chotei-fudosan-nagare/">遺産分割調停とは？不動産で揉めた場合の流れ・費用・解決策</a>
+- <a href="/guide/isan-bunkatsu-kyougisho-kakikata/">遺産分割協議書の書き方</a>
+- <a href="/guide/souzoku-touki-osaka-kankatsu-shorui/">大阪で相続登記をするときの管轄と必要書類</a>
+- <a href="/guide/souzoku-touki-jibunde-hiyou/">相続登記を自分でやる場合の費用と手順</a>
+- <a href="/guide/inheritance-registry-neglect-sale-3options/">相続登記義務化の完全対応ガイド</a>
+- <a href="/guide/souzoku-touki-gimuka-karyo/">相続登記の過料はいくら？</a>
+- <a href="/guide/souzoku-touki-houchi-doushitara/">相続登記をせずに放置したらどうなる？</a>
+- <a href="/guide/kyouyuu-mochibun-kaitori/">共有持分の買取とは？</a>
+- <a href="/guide/kyouyuu-butsu-bunkatsu-seikyu-jitsumu/">共有物分割請求の実務</a>
+- <a href="/guide/daishou-bunkatsu-fudousan-souzoku/">代償分割とは？相続で他の相続人に現金を渡す方法</a>
+- <a href="/guide/mitouki-fudosan-kaitori/">未登記の不動産の買取</a>
+- <a href="/guide/souzoku-ie-doushitara-hub/">相続した家をどうしたらいい？判断の入口まとめ</a>

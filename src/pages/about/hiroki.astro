@@ -3,8 +3,8 @@ import BaseLayout from "../../layouts/BaseLayout.astro";
 
 const breadcrumbs = [
   { name: "ホーム", url: "/" },
-  { name: "会社概要", url: "/about" },
-  { name: "専門家プロフィール：八木 宏樹", url: "/about/hiroki" },
+  { name: "会社概要", url: "/about/" },
+  { name: "専門家プロフィール：八木 宏樹", url: "/about/hiroki/" },
 ];
 
 const personSchema = {
@@ -53,43 +53,34 @@ const personSchema = {
   ],
 };
 
+// 画面に表示する FAQ。構造化データ（FAQPage）も同じリストから作る（2026-10-11: 画面と構造化データのずれを防ぐ）
+const aboutFaqs = [
+    {
+      q: "八木宏樹さんはどんな専門家ですか？",
+      a: "宅建業免許（大阪府知事(1)第65646号）を受けた宅地建物取引業者・合同会社アルシェの代表社員です。訳あり不動産の買取を専門とし、契約時の重要事項説明は資格を持つ宅地建物取引士が行います。",
+    },
+    {
+      q: "どんな訳あり物件を専門に取り扱っていますか？",
+      a: "相続アパート（入居者付き・空室混在）、再建築不可物件、事故物件、共有持分（兄弟間トラブルを含む）、空き家・放置物件、底地・借地権付き物件など。一般的な不動産会社が断ることの多い物件を直接買取で大阪府全域に対応しています。",
+    },
+    {
+      q: "大阪府外に住んでいても相談できますか？",
+      a: "大阪を中心に、兵庫・京都・奈良・滋賀・和歌山の物件のご相談に対応しています。買取の可否・条件は所在地と物件の状況を確認してご案内します。所有者が遠方にお住まいでも、LINE・メールでご相談いただけます。",
+    },
+    {
+      q: "相談は無料ですか？",
+      a: "初回相談は無料です。直接買取のため仲介手数料は発生しません。査定・買取の流れはご相談の中でご説明します。",
+    },
+];
+
 const faqSchema = {
   "@context": "https://schema.org",
   "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "八木宏樹さんはどんな専門家ですか？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "八木宏樹は、宅建業免許（大阪府知事(1)第65646号）を受けた宅地建物取引業者・合同会社アルシェの代表社員です。相続アパート・再建築不可・事故物件・共有持分・空き家など訳あり不動産の買取を専門とし、契約時の重要事項説明は資格を持つ宅地建物取引士が行います。",
-      },
-    },
-    {
-      "@type": "Question",
-      "name": "どんな訳あり物件を専門に取り扱っていますか？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "相続アパート（入居者付き・空室混在）、再建築不可物件（接道義務未達）、事故物件（告知義務対象）、共有持分（兄弟間トラブルを含む）、空き家・放置物件、底地・借地権付き物件など、一般的な不動産会社が断ることの多い「訳あり物件」を直接買取で大阪府全域に対応しています。",
-      },
-    },
-    {
-      "@type": "Question",
-      "name": "大阪府外に住んでいても相談できますか？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "大阪を中心に、兵庫・京都・奈良・滋賀・和歌山の物件のご相談に対応しています。買取の可否・条件は所在地と物件の状況を確認してご案内します。所有者が遠方にお住まいでも、LINE・メールでご相談いただけます。",
-      },
-    },
-    {
-      "@type": "Question",
-      "name": "相談は無料ですか？費用はかかりますか？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "初回相談は無料です。直接買取のため仲介手数料は不要です。査定・買取の流れについてはご相談の中でご説明します。",
-      },
-    },
-  ],
+  "mainEntity": aboutFaqs.map((item) => ({
+    "@type": "Question",
+    "name": item.q,
+    "acceptedAnswer": { "@type": "Answer", "text": item.a },
+  })),
 };
 ---
 
@@ -206,7 +197,7 @@ const faqSchema = {
 
       <!-- 相談事例（匿名） -->
       <section class="mb-12">
-        <h2 class="mb-6 text-xl font-bold text-primary">相談事例（匿名・一部抜粋）</h2>
+        <h2 class="mb-6 text-xl font-bold text-primary">よくあるご相談の例（参考例）</h2>
         <div class="space-y-4">
           {[
             {
@@ -241,26 +232,9 @@ const faqSchema = {
       <section class="mb-12">
         <h2 class="mb-6 text-xl font-bold text-primary">よくある質問</h2>
         <div class="space-y-4">
-          {[
-            {
-              q: "Q. 八木宏樹さんはどんな専門家ですか？",
-              a: "宅建業免許（大阪府知事(1)第65646号）を受けた宅地建物取引業者・合同会社アルシェの代表社員です。訳あり不動産の買取を専門とし、契約時の重要事項説明は資格を持つ宅地建物取引士が行います。",
-            },
-            {
-              q: "Q. どんな訳あり物件を専門に取り扱っていますか？",
-              a: "相続アパート（入居者付き・空室混在）、再建築不可物件、事故物件、共有持分（兄弟間トラブルを含む）、空き家・放置物件、底地・借地権付き物件など。一般的な不動産会社が断ることの多い物件を直接買取で大阪府全域に対応しています。",
-            },
-            {
-              q: "Q. 大阪府外に住んでいても相談できますか？",
-              a: "大阪を中心に、兵庫・京都・奈良・滋賀・和歌山の物件のご相談に対応しています。買取の可否・条件は所在地と物件の状況を確認してご案内します。所有者が遠方にお住まいでも、LINE・メールでご相談いただけます。",
-            },
-            {
-              q: "Q. 相談は無料ですか？",
-              a: "初回相談は無料です。直接買取のため仲介手数料は発生しません。査定・買取の流れはご相談の中でご説明します。",
-            },
-          ].map((item) => (
+          {aboutFaqs.map((item) => (
             <div class="rounded-lg border border-border bg-white p-5 shadow-sm">
-              <p class="font-bold text-primary text-sm mb-2">{item.q}</p>
+              <p class="font-bold text-primary text-sm mb-2">Q. {item.q}</p>
               <p class="text-sm leading-relaxed text-text-light">{item.a}</p>
             </div>
           ))}
@@ -303,7 +277,7 @@ const faqSchema = {
             LINEで無料相談
           </a>
           <a
-            href="/contact"
+            href="/contact/"
             class="inline-block rounded-lg border border-primary px-6 py-3 font-bold text-primary hover:bg-primary hover:text-white"
           >
             フォームで問い合わせ

@@ -2,6 +2,7 @@
 title: "梅雨に空き家を放置するリスク｜シロアリ・カビ・雨漏りが資産価値を下げる前に【2026年版】"
 description: "梅雨（6〜7月）は空き家の劣化が1年で最も速く進む季節です。シロアリ・カビ・雨漏り・犯罪リスクの4大リスクと費用シミュレーション、梅雨前に取れる3つの対処法を宅建業者が解説します。"
 publishDate: "2026-06-01"
+noindex: true
 author: "空き家のミカタ編集部"
 authorTitle: "宅地建物取引業者（大阪府知事(1)第65646号）"
 heroImage: "/images/akiya-tsuyu-risk-baikyaku-hero.jpg"
@@ -19,6 +20,8 @@ updatedDate: "2026-09-07"
 ---
 
 <strong>梅雨の時期（6〜7月）は、空き家の劣化が1年で最も速く進む季節です。</strong>1シーズン放置するだけで、シロアリ・カビ・雨漏りの被害が一気に拡大し、修繕費が数十万〜数百万円に積み上がることがあります。
+
+このテーマの全体像は[空き家の処分方法の比較](/guide/akiya-shobun-5-hikaku/)にまとめています。
 
 > <strong>この記事のポイント — まずここだけ読んでください</strong>
 > - <strong>梅雨（6〜7月）はイエシロアリの羽アリシーズン</strong>：湿気で柱・床下の食害が急速に進む
@@ -97,7 +100,7 @@ updatedDate: "2026-09-07"
 
 これは「被害が重複しない比較的軽度な場合」の見積もりです。構造材の補修が必要になると、修繕費だけで<strong>300〜500万円超</strong>になることもあります。一方、この費用を出しても「仲介での売却は難しい」という現実もあります。
 
-既存記事「[空き家処分の5大選択肢を徹底比較](/guide/akiya-shobun-5-hikaku)」も合わせてご確認ください。
+既存記事「[空き家処分の5大選択肢を徹底比較](/guide/akiya-shobun-5-hikaku/)」も合わせてご確認ください。
 
 <img src="/images/akiya-tsuyu-consultation.jpg" alt="空き家の売却について専門家と相談する様子" width="1200" height="800" loading="lazy" />
 
@@ -117,7 +120,7 @@ updatedDate: "2026-09-07"
 
 シロアリ被害・カビ・雨漏りがある物件でも対応可能で、修繕費や維持費の出費を今すぐ止められます。梅雨前の今が最も状態が良いタイミングです。1シーズン放置すると、被害が進んで査定額がさらに下がります。
 
-関連情報：[雨漏り・傾き・老朽化した家でも売れる？現況買取の仕組み](/guide/furui-akiya-kekkan-kaitori)
+関連情報：[雨漏り・傾き・老朽化した家でも売れる？現況買取の仕組み](/guide/furui-akiya-kekkan-kaitori/)
 
 ## 空き家のミカタへご相談ください
 
@@ -138,17 +141,16 @@ updatedDate: "2026-09-07"
 
 https://line.arshe1719.workers.dev/auth/line?ref=hp
 
-**お問い合わせフォームはこちら** → [/contact](/contact)
+**お問い合わせフォームはこちら** → [/contact/](/contact/)
 
 ---
 
 ## 関連するガイド記事
 
-- <a href="/guide/kaitori-jirei-10sen">訳あり不動産の買取実績10選｜相続・再建築不可・事故物件・共有持分・空き家の解決事例集</a>
-- <a href="/guide/okyakusama-no-koe-3jirei">「空き家のミカタに相談してよかった」訳あり物件を手放した3名のリアルな声</a>
-- <a href="/guide/osaka-kaitori-jirei">大阪市内の訳あり不動産買取事例集｜再建築不可・事故物件・共有持分・空き家・相続アパートの5事例</a>
-- <a href="/guide/jiko-bukken-hub">事故物件 完全ハブ｜買取・告知義務・心理的瑕疵・価格相場まで全ガイドまとめ【2026年版】</a>
-- <a href="/guide/kyouyuu-mochibun-hub">共有持分 完全ハブ｜売却・買取・トラブル解決・相場まで全ガイドまとめ【2026年版】</a>
+- <a href="/guide/osaka-city-yakuari-kaitori/">大阪市の訳あり物件の買取</a>
+- <a href="/guide/okyakusama-no-koe-3jirei/">訳あり物件を手放した方の声（参考例）｜相続空き家・再建築不可・相続アパート3選</a>
+- <a href="/guide/kyouyuu-mochibun-kaitori/">共有持分の買取・売却方法</a>
+- <a href="/guide/jiko-bukken-hub/">事故物件 完全ハブ｜買取・告知義務・心理的瑕疵・価格相場まで全ガイドまとめ【2026年版】</a>
 
 ## まとめ
 
@@ -156,4 +158,4 @@ https://line.arshe1719.workers.dev/auth/line?ref=hp
 
 <strong>梅雨入り前の今がベストタイミング</strong>です。現況のまま・修繕不要で買取できる専門業者への相談を、まず一歩として踏み出してみてください。「修繕してから売ろう」「来年落ち着いたら」という判断の繰り返しが、空き家の資産価値を年々下げていきます。
 
-特定空き家の判定基準については「[特定空き家に指定される前に確認すべき7項目](/guide/tokutei-akiya-hantei-checklist)」もご参考ください。
+特定空き家の判定基準については「[特定空き家に指定される前に確認すべき7項目](/guide/tokutei-akiya-hantei-checklist/)」もご参考ください。

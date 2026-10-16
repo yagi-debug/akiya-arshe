@@ -2,6 +2,7 @@
 title: "リゾートマンションが売れない理由と4つの解決策【2026年版】｜管理費滞納・相続の対処法"
 description: "リゾートマンションが売れない理由（需要の少なさ・管理費負担・負動産問題）と、0円譲渡・買取・相続放棄など4つの解決策を宅建業者が解説。管理費が払えない・相続して困っている方向け【2026年最新版】"
 publishDate: "2026-06-16"
+noindex: true
 author: "空き家のミカタ編集部"
 authorTitle: "宅地建物取引業者（大阪府知事(1)第65646号）"
 heroImage: "/images/resort-mansion-souzoku-baikyaku-hero.jpg"
@@ -29,6 +30,8 @@ howToSteps:
 <img src="/images/resort-mansion-souzoku-baikyaku-hero.jpg" alt="雪山を背景にそびえる高層リゾートマンションの外観　相続不動産のイメージ" width="1260" height="750" style="width:100%;height:auto;border-radius:8px;margin-bottom:1.5rem;" />
 
 親や親族が亡くなり、軽井沢・熱海・那須・富士山周辺などに購入したリゾートマンションを相続したものの、「売れない」「使わない」「管理費だけ払い続けている」という状況で困っていませんか。
+
+このテーマの全体像は[リゾートマンションの手放し方](/guide/resort-mansion-urenai-kaitori/)にまとめています。
 
 <strong>リゾートマンションを相続した場合の主な対処法は、①訳あり専門業者への買取依頼（0円・格安譲渡含む）、②管理費負担を抑えながら仲介売却を待つ、③相続放棄（期限内の場合）、④管理組合・周辺住民への無償譲渡、の4択です。</strong>バブル期に建てられたリゾートマンションの多くは現在ほぼ市場価値がなく、一般仲介では売れ残るケースが大半のため、早めに専門業者への相談をお勧めします。
 
@@ -171,11 +174,11 @@ A. 区分所有マンションの相続税評価額は、土地（敷地利用�
 - 相続土地国庫帰属制度（2023年施行）はマンション（区分所有建物）は対象外
 - 一般仲介では動かないケースが多いため、<strong>訳あり物件の買取専門業者への早めの相談が最善策</strong>
 
-相続不動産の処分全般については[相続不動産の処分方法を5パターンで比較](/guide/souzoku-fudosan-shobun-method-shindan)もあわせてご覧ください。
+相続不動産の処分全般については[相続不動産の処分方法を5パターンで比較](/guide/souzoku-fudosan-shobun-method-shindan/)もあわせてご覧ください。
 
 ---
 
-**このカテゴリの全ガイド一覧:** [→ 相続不動産 完全ハブ【2026年版】](/guide/souzoku-hub)
+**このカテゴリの中心の記事:** [→ 相続した家の売り方と手続き](/guide/parent-death-house/)
 
 ---
 
@@ -184,4 +187,4 @@ A. 区分所有マンションの相続税評価額は、土地（敷地利用�
 リゾートマンション・別荘の相続・処分でお困りの方のご相談をお受けしています。「管理費が払えない」「査定したら0円と言われた」「どこに相談しても断られた」など、複雑な状況でもお気軽にご連絡ください。査定・ご相談は無料で、しつこい営業は行いません。
 
 <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06C755;color:#fff;padding:14px 32px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 8px 8px 0;">LINEで無料相談（即日対応）</a>
-<a href="/contact" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 32px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 0;">お問い合わせフォーム</a>
+<a href="/contact/" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 32px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 0;">お問い合わせフォーム</a>

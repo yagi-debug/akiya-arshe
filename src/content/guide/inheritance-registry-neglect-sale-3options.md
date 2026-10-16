@@ -4,7 +4,6 @@ description: "2024年4月から相続登記が義務化、10万円以下の過�
 publishDate: "2026-07-20"
 updatedDate: "2026-09-07"
 cluster: "inheritance"
-isPillar: true
 author: "空き家のミカタ編集部"
 authorTitle: "宅地建物取引業者（大阪府知事(1)第65646号）"
 heroImage: "/images/inheritance-registry-neglect-hero.jpg"
@@ -46,6 +45,20 @@ howToSteps:
 
 重要なのは、<strong>2024年4月以前に発生した古い相続も対象</strong>という点です。その場合の申請期限は<strong>2027年3月31日</strong>までと猶予が設けられていますが、この期限を過ぎると義務違反になります。
 
+### 自分が義務の対象か確認する5つの質問
+
+次の5つにすべて「はい」であれば、相続登記の義務の対象です。
+
+| 質問 | 確認 |
+|------|------|
+| ① 親族（親・祖父母・兄弟姉妹など）が亡くなっている | はい / いいえ |
+| ② 亡くなった方が不動産（土地・建物）を所有していた | はい / いいえ |
+| ③ 自分が法定相続人、または遺言で不動産を受け取る人に当たる | はい / いいえ |
+| ④ その不動産の相続登記（名義変更）がまだ終わっていない | はい / いいえ |
+| ⑤ 相続放棄をしていない | はい / いいえ |
+
+④が「いいえ」なら登記済みで、義務は果たしています。⑤が「いいえ」（相続放棄をした）なら、放棄した人は義務の対象外です。③が分からないときは、亡くなった方の戸籍謄本を取り寄せて、法定相続人を確かめます。
+
 ### 「まだ大丈夫」が通じない3つの理由
 
 放置を続けることのリスクは、罰則だけではありません。
@@ -71,6 +84,11 @@ howToSteps:
 - 司法書士報酬：6〜15万円（物件数・相続の複雑さによる）
 - 登録免許税：固定資産評価額 × 0.4%
   （例：評価額500万円の土地なら登録免許税2万円）
+
+登録免許税が免除になる場合もあります（租税特別措置法第84条の2の2、2027年3月31日までの時限措置。出典：法務局「相続登記の登録免許税の免税措置について」、2026年10月12日確認）。建物は対象外です。
+
+- 数次相続で、すでに亡くなった方への名義変更をする登記
+- 土地の固定資産評価額が100万円以下の場合
 
 <strong>手続き期間：1〜3ヶ月</strong>（相続人が多い場合や数次相続は3〜6ヶ月以上）
 
@@ -160,6 +178,13 @@ howToSteps:
 - 協議が難航している方は<strong>「相続人申告登記」</strong>でまず罰則を回避できる
 - どの選択肢が最適かは状況によって異なる。まず無料相談で現状を整理することをおすすめします
 
+## 関連する記事
+
+- [15年放置・行方不明の相続人がいる登記](/guide/souzokutouki-15nen-houchi-yukuefumei/)
+- [数次相続の登記をまとめる条件](/guide/suuji-souzoku-touki-matomete/)
+- [滅失登記を忘れた土地](/guide/metsubou-touki-tochi-baikyaku/)
+- [相続人申告登記で氏名住所は誰に見られるか](/guide/souzokunin-shinkoku-touki-dare-ni-mirareru/)
+
 ---
 
 <div style="background:#f0f8f0;border-left:4px solid #2d7a3a;padding:1.5rem;border-radius:4px;margin:2rem 0;">
@@ -172,7 +197,7 @@ howToSteps:
 <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06C755;color:#fff;padding:0.75rem 1.5rem;border-radius:4px;text-decoration:none;font-weight:bold;margin:0.5rem 0;">LINEで無料相談する</a>
 
 <strong>メール・フォームで相談する</strong><br>
-<a href="/contact" style="display:inline-block;background:#2d7a3a;color:#fff;padding:0.75rem 1.5rem;border-radius:4px;text-decoration:none;font-weight:bold;margin:0.5rem 0;">お問い合わせフォームへ</a>
+<a href="/contact/" style="display:inline-block;background:#2d7a3a;color:#fff;padding:0.75rem 1.5rem;border-radius:4px;text-decoration:none;font-weight:bold;margin:0.5rem 0;">お問い合わせフォームへ</a>
 
 宅地建物取引業者（大阪府知事(1)第65646号）が対応します。相談・査定は無料です。
 

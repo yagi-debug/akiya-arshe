@@ -39,7 +39,7 @@ howToSteps:
 
 <p id="kekka-direct"><strong>結論：事故物件の買取価格は、通常相場の5〜9割が実務上の目安です。金額を決めているのは「死因」そのものよりも、発見までの日数・特殊清掃や原状回復が必要だったか・近隣や報道でどの程度知られているか・物件種別の4点です。また、国土交通省のガイドラインが示す「概ね3年で告知不要」という目安は賃貸借取引についてのもので、売買取引には経過期間の定めがありません。時間の経過を待っても価格が自動的に戻るわけではない、という点が事故物件の売却では最も見落とされやすいポイントです。</strong></p>
 
-このページは事故物件クラスタの中で「価格・相場・査定額の内訳」を専門に解説します。買取の流れ全体は[事故物件の買取｜告知義務あり対応【大阪府・秘密厳守】](/guide/jiko-bukken-kaitori)、売主が負担する費用や告知義務については[事故物件を断られ続けた方へ](/guide/accident-property-sale)をご覧ください。
+このページは事故物件クラスタの中で「価格・相場・査定額の内訳」を専門に解説します。買取の流れ全体は[事故物件の買取｜告知義務あり対応【大阪府・秘密厳守】](/guide/jiko-bukken-hub/)、売主が負担する費用や告知義務については[事故物件を断られ続けた方へ](/guide/accident-property-sale/)をご覧ください。
 
 「いくらになるのか、誰にも聞けないまま何年も持ち続けている」——事故物件のご相談で最も多いのがこの状態です。金額の目安がわからないと、売る判断も、持ち続ける判断もできません。この記事では、査定額がどう組み立てられているのかを内訳まで分解してお伝えします。
 
@@ -132,7 +132,7 @@ howToSteps:
 
 出典：[国土交通省「宅地建物取引業者による人の死の告知に関するガイドライン」](https://www.mlit.go.jp/tochi_fudousan_kensetsugyo/const/tochi_fudousan_kensetsugyo_const_tk3_000001_00061.html)
 
-告知義務の範囲そのものについては、<a href="/guide/shinriteki-kashi-kokuchi-gimu">心理的瑕疵とは？事故物件の告知義務の範囲・売却時期・価格への影響</a>で詳しく整理しています。
+告知義務の範囲そのものについては、<a href="/guide/shinriteki-kashi-kokuchi-gimu/">心理的瑕疵とは？事故物件の告知義務の範囲・売却時期・価格への影響</a>で詳しく整理しています。
 
 ## 仲介と買取、手残りはどちらが多いか
 
@@ -205,7 +205,7 @@ howToSteps:
 
 <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06c755;color:#fff;padding:14px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 4px;">LINE「空き家のミカタ」に相談する（無料）</a>
 
-<a href="/contact" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 4px;">無料査定フォームで相談する</a>
+<a href="/contact/" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 4px;">無料査定フォームで相談する</a>
 
 事故物件・訳あり物件を専門に扱っており、<strong>特殊清掃前・残置物そのまま・現況のまま</strong>で査定にお応えできます。秘密厳守で対応し、遠方にお住まいの相続人の方からのご相談も承っています。
 
@@ -213,9 +213,9 @@ howToSteps:
 
 ## 関連記事
 
-- <a href="/guide/jiko-bukken-hub">事故物件 完全ハブ｜買取・告知義務・心理的瑕疵・価格相場まで全ガイドまとめ</a>
-- <a href="/guide/shinriteki-kashi-kokuchi-gimu">心理的瑕疵とは？事故物件の告知義務の範囲・売却時期・価格への影響</a>
-- <a href="/guide/accident-property-sale">事故物件を断られ続けた方へ｜現況のまま買取する方法</a>
-- <a href="/guide/souzoku-jirei-02-jiko-bukken-kaitori">【事例】弟の孤独死マンションを相続。特殊清掃前・遠方から18日で売却できた全記録</a>
-- <a href="/guide/osaka-wakeare-buyer-4sha-hikaku">大阪 訳あり物件 買取｜専門業者を徹底比較</a>
-- <a href="/guide/wakeare-kaitori-gyosha-erabikata-7check">訳あり物件の買取業者の選び方7つのチェックポイント</a>
+- <a href="/guide/jiko-bukken-hub/">事故物件 完全ハブ｜買取・告知義務・心理的瑕疵・価格相場まで全ガイドまとめ</a>
+- <a href="/guide/shinriteki-kashi-kokuchi-gimu/">心理的瑕疵とは？事故物件の告知義務の範囲・売却時期・価格への影響</a>
+- <a href="/guide/accident-property-sale/">事故物件を断られ続けた方へ｜現況のまま買取する方法</a>
+- <a href="/guide/souzoku-jirei-02-jiko-bukken-kaitori/">【参考例・事例02】弟の孤独死マンションを相続。特殊清掃前・遠方からでも18日で売却できたケース</a>
+- <a href="/guide/osaka-wakeare-buyer-4sha-hikaku/">大阪 訳あり物件 買取｜専門業者を徹底比較</a>
+- <a href="/guide/wakeare-kaitori-gyosha-erabikata-7check/">訳あり物件の買取業者の選び方7つのチェックポイント</a>

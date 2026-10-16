@@ -2,6 +2,7 @@
 title: "相続登記しないと過料10万円？放置リスクと売却で解決する方法を宅建業者が解説"
 description: "相続登記の義務化で放置すると10万円以下の過料リスクが発生。さらに空き家化で固定資産税が最大6倍に。過料の仕組み・2027年3月の期限・売却による一括解決の方法を宅建業者が解説します。"
 publishDate: "2026-04-15"
+noindex: true
 cluster: "inheritance"
 author: "宅建業者"
 authorTitle: "宅建業者"
@@ -22,6 +23,8 @@ faqs:
 <img src="/images/souzoku-touki-gimuka-hero.jpg" alt="古い空き家の外観　相続登記未了で放置された不動産のイメージ" width="1200" height="900" style="width:100%;height:auto;border-radius:8px;margin-bottom:1.5rem;" />
 
 相続した不動産の名義変更（相続登記）を済ませていない方は、今すぐ確認してください。<strong>2024年4月から相続登記が義務化</strong>され、正当な理由なく放置すると<strong>10万円以下の過料</strong>が科される可能性があります。
+
+このテーマの全体像は[相続登記を放置した実家の売却](/guide/inheritance-registry-neglect-sale-3options/)にまとめています。
 
 さらに、登記を放置したまま空き家になった不動産は、自治体から<strong>「特定空き家」</strong>に指定されるリスクがあります。指定されると固定資産税の軽減措置が解除され、<strong>税負担が最大6倍</strong>に膨れ上がります。
 
@@ -227,11 +230,10 @@ faqs:
 
 ## 関連するガイド記事
 
-- <a href="/guide/souzoku-hub">相続不動産 完全ハブ｜処分・売却・登記・固定資産税・事例まで全ガイドをまとめて確認【2026年版】</a>
-- <a href="/guide/souzoku-apart-kanzen-guide">相続アパートを手放したい方へ｜売却の流れ・税金・失敗しない判断基準を宅建業者が完全解説【2026年最新】</a>
-- <a href="/guide/souzoku-fudousan-shobun-kanzen-guide">相続不動産の処分 完全ガイド2026｜法律・登記・比較表・失敗対策まで一気に解説</a>
-- <a href="/guide/akiya-kotei-shisan-zei-haraenai">空き家の固定資産税が払えないとき｜分納・減免・売却・相続放棄の4つの選択肢【2026年版】</a>
-- <a href="/guide/akiya-shobun-5-hikaku">空き家処分の5大選択肢を徹底比較【2026年版】費用・期間・手残り額</a>
+- <a href="/guide/parent-death-house/">相続した家の売り方と手続き</a>
+- <a href="/guide/souzoku-apart-kanzen-guide/">相続アパートを手放したい方へ｜売却の流れ・税金・失敗しない判断基準を宅建業者が完全解説【2026年最新】</a>
+- <a href="/guide/akiya-kotei-shisan-zei-haraenai/">空き家の固定資産税が払えないとき｜分納・減免・売却・相続放棄の4つの選択肢【2026年版】</a>
+- <a href="/guide/akiya-shobun-5-hikaku/">空き家処分の5大選択肢を徹底比較【2026年版】費用・期間・手残り額</a>
 
 ## まとめ：2027年3月までに行動を
 
@@ -250,4 +252,4 @@ faqs:
 
 <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" rel="noopener noreferrer" target="_blank"><strong>LINEで無料相談する</strong></a>
 
-<a href="/contact"><strong>問い合わせフォームから相談する</strong></a>
+<a href="/contact/"><strong>問い合わせフォームから相談する</strong></a>

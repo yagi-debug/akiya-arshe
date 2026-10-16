@@ -32,6 +32,8 @@ faqs:
 
 「土地はうちの名義になってるんです。建物だけが、兄と弟との3人共有のままで」——大阪で持分買取のご相談をお受けしていると、この形が驚くほど多く出てきます。
 
+このテーマの全体像は[共有持分の買取・売却方法](/guide/kyouyuu-mochibun-kaitori/)にまとめています。
+
 そして、多くの方がここで止まっています。<strong>土地は自分ひとりで売れるはずなのに売れない。建物は兄弟と話がつかない。結果、どちらも動かないまま固定資産税だけ払い続けている</strong>——という状態です。
 
 <img src="/images/tochi-tandoku-tatemono-kyouyuu-baikyaku-hero.jpg" alt="大阪の古い木造家屋の外観。土地は単独名義・建物は共有のまま相続され、売却が止まっている実家の典型例" width="1600" height="900" style="width:100%;height:auto;border-radius:8px;margin-bottom:1.5rem;" />
@@ -253,7 +255,7 @@ faqs:
 
 <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06c755;color:#fff;padding:14px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 4px;">LINE「空き家のミカタ」に相談する（無料）</a>
 
-<a href="/contact" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 4px;">無料査定フォームで相談する</a>
+<a href="/contact/" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 4px;">無料査定フォームで相談する</a>
 
 空き家のミカタは、大阪市生野区に事務所を構える宅地建物取引業者です（大阪府知事(1)第65646号）。大阪市24区の空き家・長屋・再建築不可物件・共有持分を専門に扱っており、<strong>土地と建物で名義が分かれている・他の共有者と連絡が取れない・相続登記が未了・荷物が残ったまま</strong>という状態でも査定にお応えできます。当社が買主として直接買い取りますので、仲介手数料はいただきません。なお、登記の代理申請は司法書士へ、譲渡所得税・相続税の判断は税理士へ、共有者間の争いそのものは弁護士へご確認ください。私どもがお手伝いできるのは、その不動産をいくらで、どういう順序で手放せるかという部分です。
 
@@ -261,32 +263,29 @@ faqs:
 
 ## 関連記事
 
-- <a href="/guide/kyouyuu-mochibun-hub">共有持分 完全ハブ｜売却・買取・トラブル解決・相場まで全ガイドまとめ</a>
-- <a href="/guide/kyoyu-meigi-kaitori-osaka">共有名義の不動産を買取で手放す大阪の手順｜全体売却と持分売却の分かれ道</a>
-- <a href="/guide/kyouyuu-mochibun-kaitori">共有持分の買取・売却方法｜大阪市24区対応・最短2週間現金化</a>
-- <a href="/guide/kyouyuu-mochibun-kaitori-soba">共有持分の買取相場はいくら？持分割合・物件種別・地域別の計算式と実例</a>
-- <a href="/guide/kyouyuu-mochibun-osaka-jibunde-keisan">共有持分はいくらで売れる？大阪市の路線価から自分で計算する4ステップ</a>
-- <a href="/guide/kyoyuu-mochibun-teigi-hikaku">共有持分とは｜定義・持分割合の意味・処分方法4つの比較表</a>
-- <a href="/guide/kyouyuu-fuzai-baikyaku">共有者が行方不明でも売却できる？所在等不明共有者の制度の使い方</a>
-- <a href="/guide/kyouyuu-butsu-bunkatsu-seikyu-jitsumu">共有物分割請求の実務｜協議・調停・訴訟の流れと費用</a>
-- <a href="/guide/joint-ownership-sale">共有名義の不動産を売却する方法｜兄弟で相続した家を売るには</a>
-- <a href="/guide/kyouyuu-mochibun-naisho-satei">共有持分は兄弟に内緒で査定できる？知られるのは登記のあと</a>
-- <a href="/guide/inherited-leasehold-building-options">借地の上に建つ相続した建物の出口｜地主との交渉と売却の選択肢</a>
-- <a href="/guide/inheritance-registry">相続登記の義務化｜3年以内・過料10万円のルールと手続き</a>
-- <a href="/guide/inheritance-registry-neglect-sale-3options">相続登記を放置したまま売りたいときの3つの選択肢</a>
-- <a href="/guide/isan-bunkatsu-kyougisho-kakikata">遺産分割協議書の書き方</a>
-- <a href="/guide/daishou-bunkatsu-fudousan-souzoku">代償分割で不動産を相続する方法｜金額の決め方と協議書の書き方</a>
-- <a href="/guide/divorce-house-sale">離婚で家を売る方法｜住宅ローン・名義・財産分与の順序</a>
-- <a href="/guide/dementia-coowner-property-sale">「共有者が認知症で不動産が売れない…」を解決する3つの方法</a>
-- <a href="/guide/souzoku-apart-kyodai-kyoyu-baikyaku">相続したアパートを兄弟共有のまま売る方法</a>
-- <a href="/guide/souzoku-mansion-baikyaku">相続したマンションの買取｜区分所有の評価と売却の手順</a>
-- <a href="/guide/shigaika-chosei-fudosan-baikyaku">市街化調整区域の不動産買取｜売れない理由と出口の作り方</a>
-- <a href="/guide/osaka-kaitai-hiyou-soba-2026">大阪市の解体費用の相場｜道路4m未満・重機不可の坪単価と自己負担額</a>
-- <a href="/guide/osaka-akiya-subsidy">大阪市の空き家補助金は最大200万円【2026年最新】</a>
-- <a href="/guide/osaka-kaitori-vs-chukai">不動産売却は買取・仲介・放置どれが正解？4軸で徹底比較</a>
-- <a href="/guide/wakeari-kaitori-gyosha-sekinin-erabikata">訳あり買取業者の責任と選び方</a>
-- <a href="/guide/akusha-gyosha-5-teguchi-mikiwake">訳あり不動産買取の悪質業者5つの手口｜騙されない見分け方</a>
-- <a href="/guide/lp-wakeari-bukken-kaitori">大阪の訳あり物件 買取｜再建築不可・共有持分・相続アパート・事故物件</a>
+- <a href="/guide/kyoyu-meigi-kaitori-osaka/">共有名義の不動産を買取で手放す大阪の手順｜全体売却と持分売却の分かれ道</a>
+- <a href="/guide/kyouyuu-mochibun-kaitori/">共有持分の買取・売却方法｜大阪市24区対応・最短2週間現金化</a>
+- <a href="/guide/kyouyuu-mochibun-kaitori-soba/">共有持分の買取相場はいくら？持分割合・物件種別・地域別の計算式と実例</a>
+- <a href="/guide/kyouyuu-mochibun-osaka-jibunde-keisan/">共有持分はいくらで売れる？大阪市の路線価から自分で計算する4ステップ</a>
+- <a href="/guide/kyoyuu-mochibun-teigi-hikaku/">共有持分とは｜定義・持分割合の意味・処分方法4つの比較表</a>
+- <a href="/guide/kyouyuu-fuzai-baikyaku/">共有者が行方不明でも売却できる？所在等不明共有者の制度の使い方</a>
+- <a href="/guide/kyouyuu-butsu-bunkatsu-seikyu-jitsumu/">共有物分割請求の実務｜協議・調停・訴訟の流れと費用</a>
+- <a href="/guide/kyouyuu-mochibun-naisho-satei/">共有持分は兄弟に内緒で査定できる？知られるのは登記のあと</a>
+- <a href="/guide/inherited-leasehold-building-options/">借地の上に建つ相続した建物の出口｜地主との交渉と売却の選択肢</a>
+- <a href="/guide/inheritance-registry-neglect-sale-3options/">相続登記を放置したまま売りたいときの3つの選択肢</a>
+- <a href="/guide/isan-bunkatsu-kyougisho-kakikata/">遺産分割協議書の書き方</a>
+- <a href="/guide/daishou-bunkatsu-fudousan-souzoku/">代償分割で不動産を相続する方法｜金額の決め方と協議書の書き方</a>
+- <a href="/guide/divorce-house-sale/">離婚で家を売る方法｜住宅ローン・名義・財産分与の順序</a>
+- <a href="/guide/dementia-coowner-property-sale/">「共有者が認知症で不動産が売れない…」を解決する3つの方法</a>
+- <a href="/guide/souzoku-apart-kyodai-kyoyu-baikyaku/">相続したアパートを兄弟共有のまま売る方法</a>
+- <a href="/guide/souzoku-mansion-baikyaku/">相続したマンションの買取｜区分所有の評価と売却の手順</a>
+- <a href="/guide/shigaika-chosei-fudosan-baikyaku/">市街化調整区域の不動産買取｜売れない理由と出口の作り方</a>
+- <a href="/guide/osaka-kaitai-hiyou-soba-2026/">大阪市の解体費用の相場｜道路4m未満・重機不可の坪単価と自己負担額</a>
+- <a href="/guide/osaka-akiya-subsidy/">大阪市の空き家補助金は最大200万円【2026年最新】</a>
+- <a href="/guide/osaka-kaitori-vs-chukai/">不動産売却は買取・仲介・放置どれが正解？4軸で徹底比較</a>
+- <a href="/guide/wakeari-kaitori-gyosha-sekinin-erabikata/">訳あり買取業者の責任と選び方</a>
+- <a href="/guide/akusha-gyosha-5-teguchi-mikiwake/">訳あり不動産買取の悪質業者5つの手口｜騙されない見分け方</a>
+- <a href="/guide/osaka-city-yakuari-kaitori/">大阪の訳あり物件 買取｜再建築不可・共有持分・相続アパート・事故物件</a>
 
 ---
 

@@ -91,7 +91,7 @@ faqs:
 
 <img src="/images/souzokutouki-15nen-shorui-flow.png" alt="被相続人の住所がつながらないときの書類フロー図。登記簿の住所確認から住民票の除票・戸籍の附票の請求、廃棄されていた場合の廃棄済証明と法務局への事前相談までの流れ" width="1200" height="900" style="width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" />
 
-ここで大事なのは、<strong>この組み合わせが全国一律の決まりではない</strong>ということです。何をどこまで求めるかは管轄の法務局や事案によって変わります。書類をそろえてから「これでは足りません」と言われると、また役所を回り直すことになります。<strong>廃棄済みと分かった時点で、申請予定の法務局の登記相談を予約して、必要書類を確認してから動いてください</strong>。大阪市24区の物件であれば、大阪法務局の本局・北出張所・天王寺出張所のいずれかが窓口です（どの区がどこの管轄かは<a href="/guide/souzoku-touki-osaka-kankatsu-shorui">相続登記は大阪のどこに出す？管轄法務局3庁と必要書類の集め方</a>にまとめています）。
+ここで大事なのは、<strong>この組み合わせが全国一律の決まりではない</strong>ということです。何をどこまで求めるかは管轄の法務局や事案によって変わります。書類をそろえてから「これでは足りません」と言われると、また役所を回り直すことになります。<strong>廃棄済みと分かった時点で、申請予定の法務局の登記相談を予約して、必要書類を確認してから動いてください</strong>。大阪市24区の物件であれば、大阪法務局の本局・北出張所・天王寺出張所のいずれかが窓口です（どの区がどこの管轄かは<a href="/guide/souzoku-touki-osaka-kankatsu-shorui/">相続登記は大阪のどこに出す？管轄法務局3庁と必要書類の集め方</a>にまとめています）。
 
 ## 二つめの壁：相続人と連絡が取れない
 
@@ -123,7 +123,7 @@ faqs:
 <strong>失踪宣告（民法第30条）</strong>
 不在者の生死が<strong>7年間</strong>明らかでないときは、利害関係人の請求により家庭裁判所が失踪宣告をすることができます。宣告を受けた人は、その7年の期間が満了した時に死亡したものとみなされます（民法第31条）。死亡とみなされることで、その方の相続人が代わりに協議に加わることになります。
 
-どちらも数か月単位の時間がかかります。<strong>「連絡が取れない人がいる」と分かった時点で、期限から逆算して動き始めてください</strong>。共有名義の物件で共有者が行方不明のケースについては<a href="/guide/kyouyuu-fuzai-baikyaku">共有者が行方不明の不動産を売る3つの方法</a>で、相続人が海外にいるケースは<a href="/guide/kaigai-souzokunin-fudousan-baikyaku">海外在住の相続人がいる不動産の売却</a>で個別に扱っています。
+どちらも数か月単位の時間がかかります。<strong>「連絡が取れない人がいる」と分かった時点で、期限から逆算して動き始めてください</strong>。共有名義の物件で共有者が行方不明のケースについては<a href="/guide/kyouyuu-fuzai-baikyaku/">共有者が行方不明の不動産を売る3つの方法</a>で、相続人が海外にいるケースは<a href="/guide/kaigai-souzokunin-fudousan-baikyaku/">海外在住の相続人がいる不動産の売却</a>で個別に扱っています。
 
 ## 見落としやすい：広域交付では取れない戸籍がある
 
@@ -237,7 +237,7 @@ faqs:
 
 <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06c755;color:#fff;padding:14px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 4px;">LINE「空き家のミカタ」に相談する（無料）</a>
 
-<a href="/contact" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 4px;">無料査定フォームで相談する</a>
+<a href="/contact/" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 4px;">無料査定フォームで相談する</a>
 
 大阪市24区の訳あり不動産を専門に扱っており、<strong>登記未了・相続人多数・行方不明の相続人がいる</strong>状態でも査定にお応えできます。秘密厳守で対応し、司法書士と連携して戸籍収集・相続登記・売却を並行して進めるご提案も可能です。
 
@@ -245,15 +245,15 @@ faqs:
 
 ## 関連記事
 
-- <a href="/guide/souzoku-touki-osaka-kankatsu-shorui">相続登記は大阪のどこに出す？管轄法務局3庁と必要書類の集め方</a>
-- <a href="/guide/souzoku-touki-houchi-doushitara">相続登記を放置したらどうなる？義務化の期限に間に合わない場合の3つの出口</a>
-- <a href="/guide/suji-souzoku-meigi-baikyaku">数次相続で名義がそのままの不動産を売る方法</a>
-- <a href="/guide/kyouyuu-fuzai-baikyaku">共有者が行方不明の不動産を売る3つの方法</a>
-- <a href="/guide/kaigai-souzokunin-fudousan-baikyaku">海外在住の相続人がいる不動産の売却</a>
-- <a href="/guide/isan-bunkatsu-kyougisho-kakikata">遺産分割協議書の書き方</a>
-- <a href="/guide/souzoku-touki-hiyou-haraenai">相続登記の費用が払えない・間に合わない場合の対処法</a>
-- <a href="/guide/souzoku-touki-gimuka-kanzen-taiou-2026">相続登記義務化の完全対応ガイド【2026年版】</a>
-- <a href="/guide/souzoku-hub">相続不動産 完全ハブ｜手続き・税金・売却の全ガイドまとめ</a>
+- <a href="/guide/souzoku-touki-osaka-kankatsu-shorui/">相続登記は大阪のどこに出す？管轄法務局3庁と必要書類の集め方</a>
+- <a href="/guide/souzoku-touki-houchi-doushitara/">相続登記を放置したらどうなる？義務化の期限に間に合わない場合の3つの出口</a>
+- <a href="/guide/suji-souzoku-meigi-baikyaku/">数次相続で名義がそのままの不動産を売る方法</a>
+- <a href="/guide/kyouyuu-fuzai-baikyaku/">共有者が行方不明の不動産を売る3つの方法</a>
+- <a href="/guide/kaigai-souzokunin-fudousan-baikyaku/">海外在住の相続人がいる不動産の売却</a>
+- <a href="/guide/isan-bunkatsu-kyougisho-kakikata/">遺産分割協議書の書き方</a>
+- <a href="/guide/souzoku-touki-hiyou-haraenai/">相続登記の費用が払えない・間に合わない場合の対処法</a>
+- <a href="/guide/inheritance-registry-neglect-sale-3options/">相続登記義務化の完全対応ガイド【2026年版】</a>
+- <a href="/guide/parent-death-house/">相続した家の売り方と手続き</a>
 
 ---
 

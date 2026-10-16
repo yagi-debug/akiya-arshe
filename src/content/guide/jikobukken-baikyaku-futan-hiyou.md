@@ -170,7 +170,7 @@ howToSteps:
 
 ### Q. 遠方に住んでいて、大阪の物件を見に行けません
 
-現地に行かずに進められます。写真と間取り図、わかる範囲の状況をお送りいただければ査定は可能です。実際に、遠方の相続人の方からのご相談を数多くお受けしています。
+現地に行かずに進められます。写真と間取り図、わかる範囲の状況をお送りいただければ査定は可能です。遠方の相続人の方からのご相談もお受けしています。
 
 ### Q. 近所に知られたくないのですが、清掃業者の車で気づかれませんか
 
@@ -198,7 +198,7 @@ howToSteps:
 
 <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06c755;color:#fff;padding:14px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 4px;">LINE「空き家のミカタ」に相談する（無料）</a>
 
-<a href="/contact" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 4px;">無料査定フォームで相談する</a>
+<a href="/contact/" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 4px;">無料査定フォームで相談する</a>
 
 事故物件・訳あり物件を専門に扱っており、<strong>特殊清掃前・残置物そのまま・現況のまま</strong>で査定にお応えできます。秘密厳守で対応し、遠方にお住まいの相続人の方からのご相談も承っています。
 
@@ -206,13 +206,13 @@ howToSteps:
 
 ## 関連記事
 
-- <a href="/guide/jiko-bukken-hub">事故物件 完全ハブ｜買取・告知義務・心理的瑕疵・価格相場まで全ガイドまとめ</a>
-- <a href="/guide/jiko-bukken-kaitori-kakaku-soba">事故物件の買取価格はいくら？相場の下落率と査定額の内訳</a>
-- <a href="/guide/shinriteki-kashi-kokuchi-gimu">心理的瑕疵とは？事故物件の告知義務の範囲・売却時期・価格への影響</a>
-- <a href="/guide/accident-property-sale">事故物件を断られ続けた方へ｜現況のまま買取する方法</a>
-- <a href="/guide/souzoku-jirei-02-jiko-bukken-kaitori">【事例】弟の孤独死マンションを相続。特殊清掃前・遠方から18日で売却できた全記録</a>
-- <a href="/guide/gomiyashiki-bukken-kaitori">ゴミ屋敷状態の物件を片付けずに売る方法｜残置物そのままの買取</a>
-- <a href="/guide/oya-shigo-hiyou-souzokuzei-koujo">親の死後にかかった費用は相続税から引ける？特殊清掃・遺品整理・解体費を国税庁の基準で仕分ける</a>
+- <a href="/guide/jiko-bukken-hub/">事故物件 完全ハブ｜買取・告知義務・心理的瑕疵・価格相場まで全ガイドまとめ</a>
+- <a href="/guide/jiko-bukken-kaitori-kakaku-soba/">事故物件の買取価格はいくら？相場の下落率と査定額の内訳</a>
+- <a href="/guide/shinriteki-kashi-kokuchi-gimu/">心理的瑕疵とは？事故物件の告知義務の範囲・売却時期・価格への影響</a>
+- <a href="/guide/accident-property-sale/">事故物件を断られ続けた方へ｜現況のまま買取する方法</a>
+- <a href="/guide/souzoku-jirei-02-jiko-bukken-kaitori/">【参考例・事例02】弟の孤独死マンションを相続。特殊清掃前・遠方からでも18日で売却できたケース</a>
+- <a href="/guide/gomiyashiki-bukken-kaitori/">ゴミ屋敷状態の物件を片付けずに売る方法｜残置物そのままの買取</a>
+- <a href="/guide/oya-shigo-hiyou-souzokuzei-koujo/">親の死後にかかった費用は相続税から引ける？特殊清掃・遺品整理・解体費を国税庁の基準で仕分ける</a>
 
 ---
 

@@ -30,6 +30,8 @@ howToSteps:
 
 相続した不動産が共有名義になっているのに、共有者の一人と連絡が取れない——そのような状況で「もう売れないのでは」と諦めている方は少なくありません。
 
+このテーマの全体像は[共有持分の買取・売却方法](/guide/kyouyuu-mochibun-kaitori/)にまとめています。
+
 <strong>結論からお伝えすると、共有者が行方不明・連絡不能の場合でも不動産は売却できます。</strong>方法は主に3つあります。①自分の持分だけを買取専門業者に売る、②2023年4月施行の改正民法（所在不明共有者制度）を活用する、③家庭裁判所に不在者財産管理人の選任を申立てる——それぞれの手順・費用・期間が異なります。
 
 この記事では、状況に合った方法を選べるよう、それぞれの仕組みを具体的に説明します。
@@ -203,11 +205,11 @@ A. 共有関係を解消しやすくするため、①所在不明共有者の�
 
 まずは現状の整理から始めることをお勧めします。「連絡が取れないだけで売れないと思っていた」という方でも、持分の売却から動き出せるケースは多くあります。
 
-共有持分の売却については[共有持分の買取ガイド](/guide/kyouyuu-mochibun-kaitori)で詳しく解説しています。また、相続で共有名義になったケースのトラブル解決については[相続不動産の家族トラブル解決ガイド](/guide/souzoku-fudosan-kazoku-trouble-kaiketsu)もご参考にください。
+共有持分の売却については[共有持分の買取ガイド](/guide/kyouyuu-mochibun-kaitori/)で詳しく解説しています。また、相続で共有名義になったケースのトラブル解決については[相続不動産の家族トラブル解決ガイド](/guide/souzoku-fudosan-kazoku-trouble-kaiketsu/)もご参考にください。
 
 ---
 
-**このカテゴリの全ガイド一覧:** [→ 共有持分 完全ハブ【2026年版】](/guide/kyouyuu-mochibun-hub)
+**このカテゴリの中心の記事:** [→ 共有持分の買取・売却方法](/guide/kyouyuu-mochibun-kaitori/)
 
 ---
 
@@ -216,4 +218,4 @@ A. 共有関係を解消しやすくするため、①所在不明共有者の�
 「共有者と連絡が取れない」「行方不明の共有者がいて売れない」という状況でも、持分だけの売却からご相談いただけます。現状をお聞きして、最適な方法をご提案します。査定・相談は無料です。
 
 <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06C755;color:#fff;padding:14px 32px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 8px 8px 0;">LINEで無料相談（即日対応）</a>
-<a href="/contact" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 32px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 0;">お問い合わせフォーム</a>
+<a href="/contact/" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 32px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 0;">お問い合わせフォーム</a>

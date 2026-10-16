@@ -50,77 +50,6 @@ updatedDate: "2026-09-07"
       "datePublished": "2026-07-12",
       "dateModified": "2026-07-12",
       "image": "https://akiya.arshe-corp.com/images/maisetu-haikibutsu-chichu-shogaibutsu-tochi-baikyaku-hero.jpg"
-    },
-    {
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "埋設廃棄物がある土地は売却できますか？",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "はい、売却できます。ただし、仲介（個人への通常売却）では買い手が値下げを求めるか取引を敬遠するケースがほとんどです。最も現実的な選択肢は、埋設廃棄物を告知した上で訳あり物件専門の買取業者に現況のまま売却する方法です。撤去費用を自己負担せずに手放せます。"
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "地中に何が埋まっているか調査する義務はありますか？",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "法律で調査を義務付ける規定は原則ありません。ただし、埋設廃棄物の存在を「知っていたのに告知しなかった」場合は契約不適合責任（民法562条〜564条）を問われます。宅地建物取引業法35条により知っている情報は必ず開示する義務があります。"
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "地下タンクがある土地の撤去費用の目安は？",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "地下タンクの撤去費用はタンクの容量・深度・設置状況によって異なりますが、一般的に50万〜300万円程度が目安です。タンクが大型の場合や油分による土壌汚染が判明した場合は浄化費用が別途必要になります。"
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "埋設廃棄物を告知せずに売ることはできますか？",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "できません。地下に廃棄物や障害物があることを知りながら重要事項説明で告知しなかった場合、引き渡し後に買主が発見した時点で契約不適合責任（民法562条〜564条）を問われ、補修費用の請求・代金減額・契約解除のリスクがあります。"
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "旧基礎・コンクリートガラが埋まっている土地を買い取ってもらえますか？",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "はい、訳あり物件専門の買取業者であれば、旧基礎・コンクリートガラ・産業廃棄物など地中障害物がある土地も現況のまま買取が可能です。撤去費用を差し引いた価格になりますが、自己資金ゼロで手放すことができます。"
-          }
-        }
-      ]
-    },
-    {
-      "@type": "HowTo",
-      "name": "埋設廃棄物がある土地を現況買取で売却する手順",
-      "step": [
-        {
-          "@type": "HowToStep",
-          "name": "地中障害物の有無を確認する（地歴調査）",
-          "text": "過去の建物の用途・産業廃棄物の不法投棄履歴・地下タンクの設置記録などを調べます。市区町村の建築指導課・消防署・法務局で書類を確認するほか、古地図や航空写真でも調査できます。"
-        },
-        {
-          "@type": "HowToStep",
-          "name": "必要に応じて物理探査・試掘を実施する",
-          "text": "地中レーダー探査（GPR）で地下構造物の有無を確認し、疑わしい箇所は試掘で現物確認します。産業廃棄物が疑われる場合はボーリング調査も選択肢です。"
-        },
-        {
-          "@type": "HowToStep",
-          "name": "売却方法を決定する",
-          "text": "埋設廃棄物の内容・量が確認できたら、自己負担で撤去してから仲介売却するか、費用差し引きで現況買取するかを選択します。"
-        },
-        {
-          "@type": "HowToStep",
-          "name": "重要事項説明で告知し、買取契約を締結する",
-          "text": "確認できた地中障害物の内容・調査結果を重要事項説明書・物件状況確認書に記載し、告知内容に基づく査定価格で売買契約を締結します。"
-        }
-      ]
     }
   ]
 }
@@ -129,6 +58,8 @@ updatedDate: "2026-09-07"
 <img src="/images/maisetu-haikibutsu-chichu-shogaibutsu-tochi-baikyaku-hero.jpg" alt="ショベルカーが土地を掘削している様子　地中障害物・埋設廃棄物の調査・撤去工事のイメージ" width="1260" height="750" style="width:100%;height:auto;border-radius:8px;margin-bottom:1.5rem;" />
 
 「相続した土地を更地にしようとしたら、地中から古いドラム缶が出てきた」「父の代からある倉庫跡地を売ろうとしたら、旧基礎が地下に残っていると言われた」——そんな相談が当社には多く届きます。<strong>地中に廃棄物や障害物がある土地でも、現況のまま売却することは可能です。</strong>ただし、告知義務と撤去費用の問題を正しく理解しておかないと、売却後に大きなトラブルになります。
+
+このテーマの全体像は[大阪市の訳あり物件の買取](/guide/osaka-city-yakuari-kaitori/)にまとめています。
 
 > <strong>埋設廃棄物・地中障害物がある土地の売却 — まとめ</strong>
 > - <strong>売却は可能</strong>：現況のまま訳あり専門業者に買取してもらう方法が最も現実的
@@ -367,7 +298,7 @@ updatedDate: "2026-09-07"
 <div style="background:#f8f8f8;border:1px solid #ddd;border-radius:12px;padding:2rem;text-align:center;margin:2rem 0;">
   <p style="font-size:1.1rem;font-weight:bold;margin-bottom:1rem;">メール・フォームでのお問い合わせ</p>
   <p style="margin-bottom:1.5rem;">LINEが難しい方はフォームからもお問い合わせいただけます。<br>通常1営業日以内にご返信します。</p>
-  <a href="/contact" style="display:inline-block;background:#2d5fa6;color:#fff;font-size:1rem;font-weight:bold;padding:0.8rem 2rem;border-radius:8px;text-decoration:none;">お問い合わせフォームへ</a>
+  <a href="/contact/" style="display:inline-block;background:#2d5fa6;color:#fff;font-size:1rem;font-weight:bold;padding:0.8rem 2rem;border-radius:8px;text-decoration:none;">お問い合わせフォームへ</a>
 </div>
 
 > **合同会社アルシェ**  

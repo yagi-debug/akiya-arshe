@@ -2,6 +2,7 @@
 title: "固定資産税の通知が届いたら読む｜大阪市エリア別6倍リスクマップと空き家売却の5つの選択肢"
 description: "大阪市24区の特定空き家指定リスクを区別に可視化。木造・RC別の税額シミュレーション、売却・買取・賃貸・解体・寄付5選択肢の費用対効果を宅建業者が解説。今年度中の売却で来年の固定資産税をゼロにする方法も紹介します。"
 publishDate: "2026-04-26"
+noindex: true
 updatedDate: "2026-04-26"
 author: "宅建業者"
 authorTitle: "宅建業者"
@@ -23,6 +24,8 @@ cluster: "akiya-tax"
 <img src="/images/osaka-24ku-risk-aerial.jpg" alt="大阪市の住宅密集地。固定資産税6倍リスクを抱えるエリアを区別に解説" width="1200" height="800" style="width:100%;height:auto;border-radius:8px;margin-bottom:1.5rem;" />
 
 毎年5〜6月になると、固定資産税の納税通知書がポストに届きます。「今年もそのまま支払えばいい」と思っている方も多いかもしれませんが、<strong>大阪市内で空き家・相続物件を持っている方は、今年の通知書を受け取ったタイミングが最大のターニングポイントです。</strong>
+
+このテーマの全体像は[空き家の固定資産税6倍化の回避策](/guide/akiya-koteishisanzei-6bai-hikaku/)にまとめています。
 
 2023年12月に施行された「管理不全空き家」制度により、大阪市内でも特定空き家・管理不全空き家の指定が急増しています。指定後に勧告を受けると、<strong>翌年度から固定資産税が最大6倍に跳ね上がります。</strong>
 
@@ -269,16 +272,15 @@ cluster: "akiya-tax"
 
 <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" target="_blank" rel="noopener noreferrer" style="display:inline-block;background:#06C755;color:#fff;padding:12px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 0;">LINEで無料相談する（24時間受付）</a>
 
-<a href="/contact" style="display:inline-block;background:#1a56db;color:#fff;padding:12px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 0;">フォームで無料査定を依頼する</a>
+<a href="/contact/" style="display:inline-block;background:#1a56db;color:#fff;padding:12px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 0;">フォームで無料査定を依頼する</a>
 
 ## 関連する記事
 
-- <a href="/guide/vacancy-tax-6times">空き家の固定資産税が6倍に？特定空き家の条件と回避する方法</a>
-- <a href="/guide/akiya-koteishisanzei-6bai-hikaku">空き家固定資産税6倍化の回避策と売却タイミング徹底比較</a>
-- <a href="/guide/kotei-shisan-zei-tsuchisho-checklist">固定資産税の通知書が届いたら確認すべき5つのポイント【2026年版】</a>
-- <a href="/guide/akiya-kotei-shisan-zei-haraenai">空き家の固定資産税が払えないとき｜4つの選択肢</a>
-- <a href="/guide/osaka-akiya-subsidy">大阪市の空き家対策補助金制度</a>
-- <a href="/guide/akiya-kaitori">空き家の買取｜放置している空き家を現金化する方法</a>
+- <a href="/guide/akiya-koteishisanzei-6bai-hikaku/">空き家固定資産税6倍化の回避策と売却タイミング徹底比較</a>
+- <a href="/guide/kotei-shisan-zei-tsuchisho-checklist/">固定資産税の通知書が届いたら確認すべき5つのポイント【2026年版】</a>
+- <a href="/guide/akiya-kotei-shisan-zei-haraenai/">空き家の固定資産税が払えないとき｜4つの選択肢</a>
+- <a href="/guide/osaka-akiya-subsidy/">大阪市の空き家対策補助金制度</a>
+- <a href="/guide/akiya-shobun-5-hikaku/">空き家の処分方法の比較</a>
 ---
 
-**このカテゴリの全ガイド一覧:** [→ 空き家の処分・活用 完全ガイド](/guide/vacant-house)
+**このカテゴリの中心の記事:** [→ 空き家の処分・活用 完全ガイド](/guide/akiya-shobun-5-hikaku/)

@@ -167,7 +167,7 @@ updatedDate: "2026-09-07"
 
 ただし、小規模宅地等の特例と3,000万円特別控除（相続空き家特例）は<strong>同じ土地に対して重複適用はできません</strong>（厳密には制度の対象が異なるケースもあるため、税理士への確認が必須です）。どちらの節税効果が大きいか、シミュレーションを行ったうえで判断してください。
 
-> <strong>宅建業者の視点：</strong>実際の相談事例では、「相続税の申告期限が過ぎたので早く売りたい」という方が多くいらっしゃいます。特例適用後の土地は自由に売れますが、売却時の税務（譲渡所得税・取得費の計算）も別途発生します。売却前に税理士と売却シミュレーションを確認することが、手残りを最大化するコツです。
+> <strong>宅建業者の視点：</strong>「相続税の申告期限が過ぎたので早く売りたい」という方はよくいらっしゃいます。特例適用後の土地は自由に売れますが、売却時の税務（譲渡所得税・取得費の計算）も別途発生します。売却前に税理士と売却シミュレーションを確認することが、手残りを最大化するコツです。
 
 ---
 
@@ -214,7 +214,7 @@ updatedDate: "2026-09-07"
   </ul>
   <p style="margin-top:1rem;margin-bottom:0;">
     <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06c755;color:#fff;padding:0.7rem 1.8rem;border-radius:5px;text-decoration:none;font-weight:bold;margin-right:1rem;">LINEで無料相談</a>
-    <a href="/contact" style="display:inline-block;background:#4a7c3f;color:#fff;padding:0.7rem 1.8rem;border-radius:5px;text-decoration:none;font-weight:bold;">お問い合わせフォーム</a>
+    <a href="/contact/" style="display:inline-block;background:#4a7c3f;color:#fff;padding:0.7rem 1.8rem;border-radius:5px;text-decoration:none;font-weight:bold;">お問い合わせフォーム</a>
   </p>
 </div>
 
@@ -244,51 +244,6 @@ updatedDate: "2026-09-07"
       }
     },
     {
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "小規模宅地等の特例を使った後でも、土地を売却できますか？",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "はい、申告期限（相続開始を知った翌日から10ヶ月以内）が過ぎた後に売却する分には問題ありません。特例の要件は「申告期限まで保有・継続」ですので、申告期限を過ぎれば自由に売却できます。ただし申告期限前の売却は、取得者の種類によって特例を失う可能性があります。"
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "配偶者が相続した土地は、申告期限前に売っても特例を使えますか？",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "はい、配偶者が特定居住用宅地等を取得した場合、保有継続・居住継続の要件がないため、申告期限前に売却しても小規模宅地等の特例（80%評価減）を適用できます。ただし相続税申告そのものは必要です。"
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "相続したアパートの土地で小規模宅地の特例を使う場合、売却はいつからできますか？",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "アパートや駐車場などの貸付事業用宅地等は、申告期限まで「貸付事業の継続」と「土地の保有継続」が必要です。申告期限前に売却（または賃貸を止める）と特例を失います。申告期限（10ヶ月）を過ぎてからの売却をお勧めします。"
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "3,000万円特別控除（相続空き家特例）と小規模宅地等の特例は同時に使えますか？",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "原則として、同じ土地・建物について両方を重複して使うことはできません。小規模宅地等の特例は相続税の軽減、3,000万円特別控除は売却時の譲渡所得税の軽減です。どちらが有利かは個別状況によって異なるため、税理士にシミュレーションを依頼することをお勧めします。"
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "遺産分割協議が終わっていない状態で、小規模宅地の特例は使えますか？",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "原則として、申告期限までに遺産分割協議を完了させる必要があります。ただし、申告期限内に分割できない場合は「申告期限後3年以内の分割見込書」を提出することで、後から特例を適用できる制度もあります。詳細は税理士にご確認ください。"
-          }
-        }
-      ]
-    },
-    {
       "@type": "BreadcrumbList",
       "itemListElement": [
         {
@@ -316,4 +271,4 @@ updatedDate: "2026-09-07"
 </script>
 ---
 
-**このカテゴリの全ガイド一覧:** [→ 相続不動産 完全ハブ【2026年版】](/guide/souzoku-hub)
+**このカテゴリの中心の記事:** [→ 相続した家の売り方と手続き](/guide/parent-death-house/)

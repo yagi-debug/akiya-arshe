@@ -27,6 +27,8 @@ updatedDate: "2026-09-07"
 
 「親が家族信託を設定した不動産を、そろそろ売りたい。でも、どうやって売ればいいのかわからない」——そんなご相談が増えています。
 
+関連する内容は[共有者が認知症のときの売却方法](/guide/dementia-coowner-property-sale/)で詳しく解説しています。
+
 家族信託は、認知症対策や相続対策として近年広く利用されていますが、設定した後に<strong>「信託財産をどうやって売るのか」という段階で初めて困る</strong>ケースが多くあります。
 
 家族信託で管理されている不動産の売却は、<strong>通常の不動産売却とは手続きが異なります</strong>。登記の名義人が変わること、売買契約を結ぶ主体が受託者になること、信託登記の抹消が必要になること——これらをひとつずつ確認しておく必要があります。
@@ -45,7 +47,7 @@ updatedDate: "2026-09-07"
 
 売却する際、売買契約書に署名・押印するのは<strong>受託者（管理を委ねられた人）</strong>です。親（委託者）や受益者本人が署名するのではなく、受託者が「信託財産の処分」として契約を締結します。
 
-親が認知症になっていても、受託者の権限で売却を進められる点は、<a href="/guide/dementia-house-sale">成年後見制度</a>と比べた家族信託の大きなメリットです。
+親が認知症になっていても、受託者の権限で売却を進められる点は、<a href="/guide/dementia-house-sale/">成年後見制度</a>と比べた家族信託の大きなメリットです。
 
 ### 3. 信託登記の抹消が必要になる
 
@@ -115,7 +117,7 @@ updatedDate: "2026-09-07"
 | 訳あり物件 | 買手が見つかりにくい場合あり | 現況のまま対応可 |
 | 仲介手数料 | 物件価格の最大3.3%＋6万円 | なし |
 
-老朽化・再建築不可・境界未確定・空室の多いアパートなど<a href="/guide/wakeare-bukken-kaitori">訳あり物件</a>の場合は、直接買取の方がスムーズです。
+老朽化・再建築不可・境界未確定・空室の多いアパートなど<a href="/guide/wakeare-bukken-kaitori/">訳あり物件</a>の場合は、直接買取の方がスムーズです。
 
 ### ステップ4：売買契約・登記手続きを進める
 
@@ -134,7 +136,7 @@ updatedDate: "2026-09-07"
 - 受益者が亡くなり信託期間が終了した
 - 委託者・受益者・受託者の合意で信託を解除することになった
 
-信託終了の手続きは信託法第163条に定められており、信託契約書の定めに従って進めます。終了後、所有権が受益者（または信託契約書で定めた帰属権利者）に戻ってから通常の<a href="/guide/inheritance-sale">相続不動産売却</a>を行います。
+信託終了の手続きは信託法第163条に定められており、信託契約書の定めに従って進めます。終了後、所有権が受益者（または信託契約書で定めた帰属権利者）に戻ってから通常の<a href="/guide/parent-death-house/">相続不動産売却</a>を行います。
 
 この場合、<strong>信託終了登記 → 所有権移転登記 → 売却</strong>という流れになるため、手続きに時間がかかります（目安：1〜2ヶ月程度）。
 
@@ -202,9 +204,9 @@ updatedDate: "2026-09-07"
 </ul>
 <p>
 <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06c755;color:white;padding:0.75rem 2rem;border-radius:8px;text-decoration:none;font-weight:bold;margin-right:1rem;">LINEで無料相談（24時間）</a>
-<a href="/contact" style="display:inline-block;background:#1a73e8;color:white;padding:0.75rem 2rem;border-radius:8px;text-decoration:none;font-weight:bold;">お問い合わせフォーム</a>
+<a href="/contact/" style="display:inline-block;background:#1a73e8;color:white;padding:0.75rem 2rem;border-radius:8px;text-decoration:none;font-weight:bold;">お問い合わせフォーム</a>
 </p>
 </div>
 ---
 
-**このカテゴリの全ガイド一覧:** [→ 相続不動産 完全ハブ【2026年版】](/guide/souzoku-hub)
+**このカテゴリの中心の記事:** [→ 相続した家の売り方と手続き](/guide/parent-death-house/)

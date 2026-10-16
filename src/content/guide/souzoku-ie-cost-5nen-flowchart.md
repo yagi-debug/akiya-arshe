@@ -2,6 +2,7 @@
 title: "相続した家の意思決定フローチャート｜住む・貸す・売る・放置の5年間コスト試算【2026年版】"
 description: "「相続した家をどうするか」を4択フローチャートで整理し、住む・貸す・売る・放置それぞれの5年間コストを具体的な数字で比較。相続から3年以内が節税の分岐点。宅地建物取引業者（大阪府知事(1)第65646号）執筆。"
 publishDate: "2026-07-09"
+noindex: true
 author: "空き家のミカタ編集部"
 authorTitle: "宅地建物取引業者（大阪府知事(1)第65646号）"
 heroImage: "/images/souzoku-ie-cost-5nen-flowchart-hero.jpg"
@@ -56,38 +57,6 @@ updatedDate: "2026-09-07"
 }
 </script>
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "相続した家を住む・貸す・売るで迷っています。5年間でどれが一番得ですか？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "5年間の実質収支で比較すると、「今すぐ仲介売却」が最大手取り（試算例で約1,246万円）になるケースが多いです。「放置」は5年間で仲介売却より250万円以上損するリスクがあるため最もおすすめできません。"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "相続した家を放置するとどれくらいコストがかかりますか？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "固定資産税（年5万円前後）＋最低限の管理費（年5万円前後）で年間10万円前後のコストが発生します。5年で50万円以上になり、建物老朽化による売却価格の低下（100〜300万円規模）も加わります。"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "相続した家を今すぐ売るのと5年後に売るのはどちらが得ですか？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "ほとんどのケースで今すぐ売る方が有利です。今すぐ仲介売却すれば手取り約1,246万円（試算例）、5年放置後の売却は手取り約996万円になり、差額は約250万円になります。"
-      }
-    }
-  ]
-}
-</script>
 
 <div class="speakable-highlight" style="background:#fff7e6;border-left:4px solid #f59e0b;padding:1rem 1.5rem;margin-bottom:1.5rem;border-radius:4px;">
 <strong>この記事の結論</strong><br>
@@ -100,6 +69,8 @@ A: 5年間コストで比較すると「今すぐ仲介売却」が最大手取�
 <img src="/images/souzoku-ie-cost-5nen-flowchart-hero.jpg" alt="相続した家の処分方法を検討する書類と鍵のイメージ" width="1200" height="901" loading="lazy" />
 
 <strong>「相続した家をどうすればいいか」</strong> — この問いへの答えは、あなたの状況と物件の条件によって変わります。ただし、感覚ではなく<strong>具体的なコストと収益の数字</strong>で比較すれば、答えは見えてきます。
+
+このテーマの全体像は[相続した家の売り方と手続き](/guide/parent-death-house/)にまとめています。
 
 この記事では、フローチャートで状況を整理したあと、「住む・貸す・売る・放置」の4択それぞれについて<strong>5年間の具体的なコスト試算</strong>を示します。試算の前提条件は「築35年の木造一戸建て、固定資産税評価額900万円、市場価格（仲介売却想定）1,300万円」です。ご自身の物件の数字に置き換えて参考にしてください。
 
@@ -245,7 +216,7 @@ A: 5年間コストで比較すると「今すぐ仲介売却」が最大手取�
 <strong>注意点：</strong>
 築古物件のリフォームは見積もりより高額になることがあります。特に耐震補強・給排水設備の更新・断熱改修が必要な場合は500万円以上になるケースもあります。居住前に建物診断（ホームインスペクション）を受けることをおすすめします。
 
-→ 詳細は<a href="/guide/souzoku-ie-doushitara">「相続した家をどうする？」全体ガイド</a>をご覧ください。
+→ 詳細は<a href="/guide/souzoku-ie-doushitara/">「相続した家をどうする？」全体ガイド</a>をご覧ください。
 
 ---
 
@@ -272,7 +243,7 @@ A: 5年間コストで比較すると「今すぐ仲介売却」が最大手取�
 <strong>注意点：</strong>
 築35年以上の木造一戸建ては入居者付けが難しいことがあります。また、修繕が重なると収益が急減します。賃貸を選ぶ場合は、入居付けの見込みを地元の不動産会社に事前確認してください。賃貸活用後に売却する場合、<strong>売却タイミングが相続から3年を超えると3,000万円特別控除が使えなくなる</strong>点にも注意が必要です。
 
-→ 詳細は<a href="/guide/souzoku-apart-kanri-dekinai-houchi-cost">「相続アパートの維持コストと管理」</a>もあわせてご覧ください。
+→ 詳細は<a href="/guide/souzoku-apart-kanri-dekinai-houchi-cost/">「相続アパートの維持コストと管理」</a>もあわせてご覧ください。
 
 ---
 
@@ -297,7 +268,7 @@ A: 5年間コストで比較すると「今すぐ仲介売却」が最大手取�
 <strong>買取のメリット：</strong>
 現況のまま（片付け・修繕不要）、仲介手数料ゼロ、最短2週間で決済。仲介の「手取り最大化」と比較すると価格は下がりますが、時間・手間・リスクを最小化できます。
 
-→ 詳細は<a href="/guide/wakeare-bukken-kaitori">「訳あり物件の買取ガイド」</a>をご覧ください。
+→ 詳細は<a href="/guide/wakeare-bukken-kaitori/">「訳あり物件の買取ガイド」</a>をご覧ください。
 
 ---
 
@@ -321,7 +292,7 @@ A: 5年間コストで比較すると「今すぐ仲介売却」が最大手取�
 <strong>注意点：</strong>
 訳あり要素（築古・再建築不可・残置物・共有名義など）があると、仲介で売れるまで半年以上かかることがあります。その間の管理費・固定資産税も発生します。
 
-→ 詳細は<a href="/guide/inheritance-sale">「相続した不動産を売却する完全ガイド」</a>をご覧ください。
+→ 詳細は<a href="/guide/parent-death-house/">「相続した不動産を売却する完全ガイド」</a>をご覧ください。
 
 ---
 
@@ -352,7 +323,7 @@ A: 5年間コストで比較すると「今すぐ仲介売却」が最大手取�
 2. <strong>建物の老朽化加速</strong>：空き家は人が住んでいる家より劣化が速い。雨漏り・シロアリ・設備の腐食が進み、5年後には売却価格がさらに下がるリスクがあります。
 3. <strong>特定空き家指定のリスク</strong>：管理不全と判断されると固定資産税が最大6倍になります（住宅用地特例の解除）。2023年の法改正で「管理不全空き家」も対象になりました。
 
-→ 放置リスクの詳細は<a href="/guide/akiya-koteishisanzei-6bai-hikaku">「空き家固定資産税6倍化の回避策」</a>をご覧ください。
+→ 放置リスクの詳細は<a href="/guide/akiya-koteishisanzei-6bai-hikaku/">「空き家固定資産税6倍化の回避策」</a>をご覧ください。
 
 ---
 
@@ -397,7 +368,7 @@ A: 5年間コストで比較すると「今すぐ仲介売却」が最大手取�
 
 相続から3年以上経過している場合でも売却は可能ですが、節税メリットが大きく減ります。<strong>現在どの段階にいるかを確認することが最初の一歩</strong>です。
 
-→ 節税の詳細は<a href="/guide/souzoku-akiya-3000man-tokubetsu-kojo">「相続空き家の3,000万円特別控除」完全ガイド</a>をご覧ください。
+→ 節税の詳細は<a href="/guide/souzoku-akiya-3000man-tokubetsu-kojo/">「相続空き家の3,000万円特別控除」完全ガイド</a>をご覧ください。
 
 ---
 
@@ -407,7 +378,7 @@ A: 5年間コストで比較すると「今すぐ仲介売却」が最大手取�
 
 A. 売却（仲介・買取とも）の正式契約には相続登記の完了が必要です。ただし、<strong>査定・相談は登記前でも可能</strong>です。当社では司法書士との連携で登記手続きと売却を並行して進めるサポートも行っています。なお、2024年4月から相続登記は義務化されており、相続を知った日から3年以内に申請しないと10万円以下の過料が科されます。
 
-→ <a href="/guide/inheritance-registry">「相続登記の義務化ガイド」</a>も参照してください。
+→ <a href="/guide/inheritance-registry-neglect-sale-3options/">「相続登記の義務化ガイド」</a>も参照してください。
 
 ### Q. 相続人が複数いる場合、全員が合意しないと何も決められませんか？
 
@@ -425,14 +396,14 @@ A. 賃貸に出した後でも売却は可能です（入居者がいる場合�
 
 ## このカテゴリの関連ガイド
 
-- <a href="/guide/souzoku-ie-doushitara">相続した家をどうする？4つの選択肢と放置リスク</a>
-- <a href="/guide/souzoku-ie-doushitara-hub">相続した家 どうすればいい？完全ハブガイド</a>
-- <a href="/guide/inheritance-sale">相続した不動産を売却する完全ガイド</a>
-- <a href="/guide/souzoku-akiya-3000man-tokubetsu-kojo">相続空き家の3,000万円特別控除ガイド</a>
-- <a href="/guide/akiya-koteishisanzei-6bai-hikaku">空き家固定資産税6倍化の回避策</a>
-- <a href="/guide/wakeare-bukken-kaitori">訳あり物件の買取ガイド</a>
-- <a href="/guide/inheritance-registry">相続登記の義務化ガイド</a>
-- <a href="/guide/souzoku-fudosan-3pun-shindan-flowchart">相続不動産 3分診断フローチャート</a>
+- <a href="/guide/souzoku-ie-doushitara/">相続した家をどうする？4つの選択肢と放置リスク</a>
+- <a href="/guide/souzoku-ie-doushitara-hub/">相続した家 どうすればいい？完全ハブガイド</a>
+- <a href="/guide/parent-death-house/">相続した不動産を売却する完全ガイド</a>
+- <a href="/guide/souzoku-akiya-3000man-tokubetsu-kojo/">相続空き家の3,000万円特別控除ガイド</a>
+- <a href="/guide/akiya-koteishisanzei-6bai-hikaku/">空き家固定資産税6倍化の回避策</a>
+- <a href="/guide/wakeare-bukken-kaitori/">訳あり物件の買取ガイド</a>
+- <a href="/guide/inheritance-registry-neglect-sale-3options/">相続登記の義務化ガイド</a>
+- <a href="/guide/souzoku-fudosan-3pun-shindan-flowchart/">相続不動産 3分診断フローチャート</a>
 
 ---
 
@@ -444,6 +415,6 @@ A. 賃貸に出した後でも売却は可能です（入居者がいる場合�
 
 <strong><a href="https://line.arshe1719.workers.dev/auth/line?ref=hp">LINEで無料相談する（空き家のミカタ）</a></strong>
 
-<a href="/contact">お問い合わせフォームはこちら</a>
+<a href="/contact/">お問い合わせフォームはこちら</a>
 
 相談無料・秘密厳守・大阪・近畿対応

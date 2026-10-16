@@ -54,56 +54,10 @@ A: 売却は可能ですが、<strong>仲介市場では住宅ローン審査が
 }
 </script>
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "私道持分がなくても売却できますか？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "売却自体は可能ですが、通行同意書・掘削承諾書が取得できていない場合、買い手が住宅ローンを組めないため仲介市場では売れにくくなります。訳あり専門の買取業者（現金購入）であれば現況のまま売却できる場合があります。"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "通行同意書とはどんな書類ですか？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "私道の所有者が「この物件の所有者・居住者が当該私道を通行してよい」と認める書面です。通行承諾書とも呼ばれます。書面で取得し、できれば通行地役権の登記をすることで第三者への対抗力が生まれます。"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "接道義務（建築基準法43条）とは何ですか？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "建築物の敷地は幅員4m以上の道路に2m以上接しなければならないという規定です（建築基準法第43条第1項）。この要件を満たさない物件は建て替えができない再建築不可物件になります。"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "私道持分なし・同意書なしだと買取価格はどのくらい下がりますか？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "問題の重さによりますが、通常の市場価格の50〜70%程度が目安です。通行同意書・掘削承諾書が書面で取得できている場合は80〜90%程度に改善します。"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "私道所有者が通行を拒否している場合でも売却できますか？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "袋地の場合は民法第210条の囲繞地通行権が認められ、公道へ出るために隣接する土地を通行する権利があります。ただし権利確定には時間がかかるため、現況のまま訳あり買取業者に売却する方が早期解決できるケースが多いです。"
-      }
-    }
-  ]
-}
-</script>
 
 「相続した実家を確認したら、前に面している道路が私道だった。しかも自分には持分がなく、通行を許可する書類も何もない——」。こうした状況で不動産会社に相談すると、「売れないことはないけど、難しい」と言われて途方に暮れる方が多くいらっしゃいます。
+
+このテーマの全体像は[再建築不可物件の売却方法](/guide/non-rebuildable-property-sale/)にまとめています。
 
 <strong>私道持分がなく、かつ通行同意書（承諾書）も取得していない状態は、接道問題の中でも特に売却しにくいケースです。</strong>ただ、出口戦略は3つあります。状況に合った方法を選べば、必ず前に進めます。
 
@@ -212,7 +166,7 @@ A: 売却は可能ですが、<strong>仲介市場では住宅ローン審査が
 
 「囲繞地通行権があるから大丈夫」と思って放置すると、権利確定に時間がかかる間も固定資産税の支払いは続きます。時間的コストも考慮した上で、<strong>現況買取との比較で判断することをお勧めします。</strong>
 
-私道に面した物件の基礎知識については、<a href="/guide/shido-futan-bukken-baikyaku">私道に面した不動産の売却ガイド</a>もあわせてご覧ください。再建築不可物件の売却相場については<a href="/guide/saikenchifu-kaitori-souba">再建築不可物件の買取相場ガイド</a>もご参考ください。
+私道に面した物件の基礎知識については、<a href="/guide/shido-futan-bukken-baikyaku/">私道に面した不動産の売却ガイド</a>もあわせてご覧ください。再建築不可物件の売却相場については<a href="/guide/saikenchifu-kaitori-souba/">再建築不可物件の買取相場ガイド</a>もご参考ください。
 
 ## よくある質問
 
@@ -261,9 +215,9 @@ A: 売却は可能ですが、<strong>仲介市場では住宅ローン審査が
 
 整理してから相談したい方はお問い合わせフォームをご利用ください。
 
-<a href="/contact" style="display:inline-block;background:#2563eb;color:white;padding:12px 24px;border-radius:8px;text-decoration:none;font-weight:bold;margin:0.5rem 0;">お問い合わせフォームへ</a>
+<a href="/contact/" style="display:inline-block;background:#2563eb;color:white;padding:12px 24px;border-radius:8px;text-decoration:none;font-weight:bold;margin:0.5rem 0;">お問い合わせフォームへ</a>
 
 宅建業免許: 大阪府知事(1)第65646号
 ---
 
-**このカテゴリの全ガイド一覧:** [→ 再建築不可物件 完全ハブ【2026年版】](/guide/saikenchifu-hub)
+**このカテゴリの中心の記事:** [→ 再建築不可物件の売却方法](/guide/non-rebuildable-property-sale/)

@@ -20,6 +20,8 @@ faqs:
 
 <strong>改修やインフラの工事をした物件で査定に効くのは、「工事をしたかどうか」ではなく、「何の工事を、どこまでやって、記録が残っているか」です。</strong>かけた費用がそのまま査定額に足される、という形にはなりません。
 
+このテーマの全体像は[大阪市の訳あり物件の買取](/guide/osaka-city-yakuari-kaitori/)にまとめています。
+
 そして、この3点の多くは<strong>机上（現地に行かずに、書類や写真だけで確認すること）で先に整理できます</strong>。工事の書類が手元になくても、わかる範囲をお伝えいただければ相談は始められます。
 
 この記事では、工事の種類ごとに査定での見られ方がどう違うか、なぜ「記録」が繰り返し聞かれるのか、そして相談のときに何を伝えればよいかをお伝えします。
@@ -168,7 +170,7 @@ faqs:
 
 <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06C755;color:#fff;padding:14px 32px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 8px 8px 0;">LINE「空き家のミカタ」に相談する（無料）</a>
 
-<a href="/contact" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 32px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 0;">無料査定フォームで相談する</a>
+<a href="/contact/" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 32px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 0;">無料査定フォームで相談する</a>
 
 空き家のミカタは、大阪市生野区に事務所を置く宅地建物取引業者（大阪府知事(1)第65646号）です。大阪を中心に、兵庫・京都・奈良・滋賀・和歌山の物件を対象に、当社が買主として直接買取のご相談をお受けしています。建築確認の要否は建築主事等・指定確認検査機関へ、登記の手続きは司法書士へ、税金の判断は税理士へご確認ください。
 
@@ -176,10 +178,10 @@ faqs:
 
 ## 関連記事
 
-- <a href="/guide/kijou-satei-souzoku-fudosan-soudan">机上査定とは？空き家・訳あり物件を現地確認前に相談する方法</a>
-- <a href="/guide/kagi-genchi-tachiai-soudan-jyunbi">鍵がない・立会いできない場合の相談準備｜相続不動産</a>
-- <a href="/guide/kaitori-satei-konkyo-gendai-checklist">訳あり物件の買取価格はどう決まる？査定の根拠と現地調査の8チェックポイント</a>
-- <a href="/guide/jikka-reform-hiyou-haraenai">実家のリフォーム費用が払えない｜リフォームvs現況買取を手残り額で比べる</a>
+- <a href="/guide/kijou-satei-souzoku-fudosan-soudan/">机上査定とは？空き家・訳あり物件を現地確認前に相談する方法</a>
+- <a href="/guide/kagi-genchi-tachiai-soudan-jyunbi/">鍵がない・立会いできない場合の相談準備｜相続不動産</a>
+- <a href="/guide/kaitori-satei-konkyo-gendai-checklist/">訳あり物件の買取価格はどう決まる？査定の根拠と現地調査の8チェックポイント</a>
+- <a href="/guide/jikka-reform-hiyou-haraenai/">実家のリフォーム費用が払えない｜リフォームvs現況買取を手残り額で比べる</a>
 
 ---
 

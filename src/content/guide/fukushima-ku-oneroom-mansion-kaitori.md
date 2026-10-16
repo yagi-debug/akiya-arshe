@@ -43,6 +43,8 @@ faqs:
 
 「福島区に持っているワンルームマンションを手放したいが、いくらになるのか見当もつかない」——このご相談をいただくとき、多くの方が不動産ポータルサイトで福島区の売り出し価格を調べています。ただ、その数字を見ても決まらないものが1つあります。
 
+この周辺を含む区の相場や買取の流れは[福島区の不動産売却相場](/area/osaka-fukushima/)にまとめています。
+
 先に結論をお伝えします。
 
 <strong>福島区でワンルームマンションの買取を考えるとき、査定額を最も大きく動かすのは駅からの距離でも築年数でもなく、管理費と修繕積立金の滞納です。</strong>滞納分は、建物の区分所有等に関する法律（区分所有法）の8条によって買主にも請求できる債権になるためです。売っても消えません。査定額から引かれる形で、結局はご自身の手取りが減ります。
@@ -95,7 +97,7 @@ faqs:
 
 <img src="/images/fukushima-ku-oneroom-mansion-kaitori-machinami.jpg" alt="大阪市福島区玉川付近の街並み。中層マンションと低層の住宅・倉庫が混在している" width="1200" height="900" style="width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" />
 
-ワンルームの持ち主にとって、この数字は「借り手がつかない部屋から順に空く」という意味を持ちます。空室が長引いたときの選択肢は、[空室マンションを売るときの工夫](/guide/kuushitsu-manshon-baikyaku-kufuu)と[賃貸マンションが空室になったときの売却タイミング](/guide/rental-mansion-vacancy-sell-timing)でも整理しています。
+ワンルームの持ち主にとって、この数字は「借り手がつかない部屋から順に空く」という意味を持ちます。空室が長引いたときの選択肢は、[空室マンションを売るときの工夫](/guide/kuushitsu-manshon-baikyaku-kufuu/)と[賃貸マンションが空室になったときの売却タイミング](/guide/rental-mansion-vacancy-sell-timing/)でも整理しています。
 
 ---
 
@@ -119,7 +121,7 @@ faqs:
 
 なお、売買価格が800万円以下の宅地・建物については、仲介手数料の上限に特例があります。低廉な空家等の売買等の媒介では、報酬の上限が30万円の1.1倍（33万円）までとされています。通常の速算式よりも高くなる場合がある点に注意してください。この特例を使う場合、宅地建物取引業者は媒介契約を結ぶときにあらかじめ説明し、合意しておく必要があります。
 
-仲介と買取のどちらを選ぶかの考え方は、[大阪で買取と仲介のどちらを選ぶか](/guide/osaka-kaitori-vs-chukai)でも比較しています。
+仲介と買取のどちらを選ぶかの考え方は、[大阪で買取と仲介のどちらを選ぶか](/guide/osaka-kaitori-vs-chukai/)でも比較しています。
 
 ---
 
@@ -138,7 +140,7 @@ faqs:
 | 再販時の仲介手数料 | 約36.3万円 | 900万円で売れた場合 |
 | 売れ残りに備える引当 | 価格の5〜15% | 値下げした場合に赤字にならない幅です |
 
-これらを差し引いた残りが提示できる金額になります。結果として、<strong>仲介で売れたと仮定した価格の5割から7割</strong>に収まることが多くなります。原価の分解は[買取価格はなぜ安いのか](/guide/kaitori-kakaku-naze-yasui-genka)でも詳しく扱っています。査定額の根拠を確かめたいときは、[買取査定の根拠を確かめるチェックリスト](/guide/kaitori-satei-konkyo-gendai-checklist)をお使いください。
+これらを差し引いた残りが提示できる金額になります。結果として、<strong>仲介で売れたと仮定した価格の5割から7割</strong>に収まることが多くなります。原価の分解は[買取価格はなぜ安いのか](/guide/kaitori-kakaku-naze-yasui-genka/)でも詳しく扱っています。査定額の根拠を確かめたいときは、[買取査定の根拠を確かめるチェックリスト](/guide/kaitori-satei-konkyo-gendai-checklist/)をお使いください。
 
 ---
 
@@ -156,7 +158,7 @@ faqs:
 
 月12,000円を24か月滞納していれば288,000円です。この金額がそのまま査定額から引かれます。遅延損害金が管理規約で定められている場合は、その見込みも引かれます。
 
-<strong>先に管理会社へ残高を照会しておいてください。</strong>照会は所有者本人であればできます。金額が確定していれば、査定額が後から動くことはありません。滞納が長期化している場合の進め方は、[管理費を滞納したマンションの買取](/guide/kanrihi-tainou-mansion-kaitori)にまとめています。
+<strong>先に管理会社へ残高を照会しておいてください。</strong>照会は所有者本人であればできます。金額が確定していれば、査定額が後から動くことはありません。滞納が長期化している場合の進め方は、[管理費を滞納したマンションの買取](/guide/kanrihi-tainou-mansion-kaitori/)にまとめています。
 
 ---
 
@@ -176,7 +178,7 @@ faqs:
 
 耐震性の基準に適合していない、火災に対する安全性の基準に適合していない、外壁等が剝離・落下して周辺に危害を生ずるおそれがある、配管設備の劣化により著しく衛生上有害となるおそれがある、バリアフリー基準に適合していない——この5類型のいずれかに当たる場合、建替え決議の要件が4分の3に下がります。
 
-売主にとっての意味は1つです。<strong>管理組合が動けるようになった分、修繕積立金の値上げや一時金の徴収、大規模修繕の実施が議題に上がりやすくなります。</strong>持ち続ける場合の支出は、これまでより読みにくくなりました。旧耐震のワンルームを持っている方は、[旧耐震物件の売却](/guide/kyutaishin-bukken-baikyaku)もあわせてご確認ください。
+売主にとっての意味は1つです。<strong>管理組合が動けるようになった分、修繕積立金の値上げや一時金の徴収、大規模修繕の実施が議題に上がりやすくなります。</strong>持ち続ける場合の支出は、これまでより読みにくくなりました。旧耐震のワンルームを持っている方は、[旧耐震物件の売却](/guide/kyutaishin-bukken-baikyaku/)もあわせてご確認ください。
 
 ---
 
@@ -191,7 +193,7 @@ faqs:
 
 逆に、入居者が長く住んでいて滞納がなく、賃料が相場並みであれば、空室よりも高く評価できることがあります。空室は「次にいくらで貸せるか」がわからない状態だからです。
 
-査定の段階で室内に立ち入る必要はありません。入居者に売却の話が伝わることもありません。所有者が変わったことは、決済後に賃貸人の地位の移転として通知しますが、それだけです。入居者がいる状態での売却は、[入居者がいるアパートの買取](/guide/nyukyosha-apart-baikyaku)と[相続した賃貸物件を入居者ありのまま売る](/guide/souzoku-chintai-nyuukyosha-ari-baikyaku)でも扱っています。
+査定の段階で室内に立ち入る必要はありません。入居者に売却の話が伝わることもありません。所有者が変わったことは、決済後に賃貸人の地位の移転として通知しますが、それだけです。入居者がいる状態での売却は、[入居者がいるアパートの買取](/guide/souzoku-apart-owner-change-shokei/)と[相続した賃貸物件を入居者ありのまま売る](/guide/souzoku-chintai-nyuukyosha-ari-baikyaku/)でも扱っています。
 
 ---
 
@@ -216,7 +218,7 @@ faqs:
 
 いずれの場合も、事件性・周知性・社会に与えた影響が特に高い事案は例外とされています。また、買主・借主から問われた場合は告げる必要があります。
 
-事故物件の買取では、<strong>室内を現状のまま引き渡していただけます。</strong>特殊清掃やリフォームを先に済ませていただく必要はありません。残置物もそのままで構いません。清掃業者を探す手間と費用がかからない分、事故物件の買取は即金での決済がしやすい部類に入ります。価格の考え方は[事故物件の買取価格の相場](/guide/jiko-bukken-kaitori-kakaku-soba)、告知義務の詳細は[心理的瑕疵の告知義務](/guide/shinriteki-kashi-kokuchi-gimu)にまとめています。
+事故物件の買取では、<strong>室内を現状のまま引き渡していただけます。</strong>特殊清掃やリフォームを先に済ませていただく必要はありません。残置物もそのままで構いません。清掃業者を探す手間と費用がかからない分、事故物件の買取は即金での決済がしやすい部類に入ります。価格の考え方は[事故物件の買取価格の相場](/guide/jiko-bukken-kaitori-kakaku-soba/)、告知義務の詳細は[心理的瑕疵の告知義務](/guide/shinriteki-kashi-kokuchi-gimu/)にまとめています。
 
 ---
 
@@ -228,7 +230,7 @@ faqs:
 
 ご自身の持分だけであれば、他の共有者の同意がなくても売却できます。共有物の全体を売るには全員の合意が必要ですが、持分の処分は各共有者が単独でできるためです。どちらの形で進めるかで金額も手順も変わります。まずは持分割合と、他の共有者と連絡が取れる状態かどうかだけをお聞かせください。
 
-進め方は[他の共有者に知られずに共有持分を査定する](/guide/kyouyuu-mochibun-naisho-satei)と[共有持分の買取](/guide/kyouyuu-mochibun-kaitori)で詳しく扱っています。
+進め方は[他の共有者に知られずに共有持分を査定する](/guide/kyouyuu-mochibun-naisho-satei/)と[共有持分の買取](/guide/kyouyuu-mochibun-kaitori/)で詳しく扱っています。
 
 ---
 
@@ -246,13 +248,13 @@ faqs:
 
 このうち4番目は、福島区に限らずワンルーム全般で価格差の原因になります。<strong>金融機関の多くが専有面積の下限を設けているため、狭い部屋ほど買い手が現金の層に絞られ、その分だけ価格が下がります。</strong>広さは変えられないので、ここは受け入れて価格の前提に織り込むほかありません。
 
-大阪市24区ごとの価格帯は[大阪市24区の買取データ2026](/guide/osaka-24ku-kaitori-data-2026)と[大阪市24区 訳あり物件の価格帯マップ](/guide/osaka-24ku-wakeari-kakakutai-map)で公開しています。隣接する区の状況は[淀川区エリアの買取](/guide/yodogawa-area-buyout-2026)と[此花区・桜島エリアの買取](/guide/konohana-sakurajima-buyout-2026)もご覧ください。
+大阪市24区ごとの価格帯は[大阪市24区の買取データ2026](/guide/osaka-24ku-kaitori-data-2026/)と[大阪市24区 訳あり物件の価格帯マップ](/guide/osaka-24ku-wakeari-kakakutai-map/)で公開しています。隣接する区の状況は[淀川区エリアの買取](/guide/yodogawa-area-buyout-2026/)と[此花区・桜島エリアの買取](/guide/konohana-sakurajima-buyout-2026/)もご覧ください。
 
 ---
 
 ## 大阪市福島区のワンルームマンション売却で、実際に多いご相談3パターン
 
-ここでは成約事例ではなく、ご相談として実際に多い3つのパターンと、そのときに何を確認したかをお伝えします。金額は考え方をお示しするための数値例です。
+ここでは成約事例ではなく、ご相談としてよくある3つのパターンと、そのときに何を確認したかをお伝えします。金額は考え方をお示しするための数値例です。
 
 <strong>パターン1：相続したワンルームの管理費が引き落とされ続けている</strong>
 
@@ -313,7 +315,7 @@ faqs:
 - 入居者が室内で亡くなった
 - 賃貸中で、入居者に知られたくない
 
-他社に断られた理由が「次に買う人に住宅ローンが付かないから」であれば、現金で直接買い取る場合は判断が変わることがあります。断られた理由ごとの見方は[買取を断られる物件の特徴7つ](/guide/kaitori-kyohi-tokucho-7)にまとめています。
+他社に断られた理由が「次に買う人に住宅ローンが付かないから」であれば、現金で直接買い取る場合は判断が変わることがあります。断られた理由ごとの見方は[買取を断られる物件の特徴7つ](/guide/kaitori-kyohi-tokucho-7/)にまとめています。
 
 ---
 
@@ -329,7 +331,7 @@ faqs:
 
 <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06c755;color:#fff;padding:14px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 4px;">LINE「空き家のミカタ」に相談する（無料）</a>
 
-<a href="/contact" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 4px;">無料査定フォームで相談する</a>
+<a href="/contact/" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 4px;">無料査定フォームで相談する</a>
 
 空き家のミカタを運営しているのは、大阪市生野区に事務所を構える合同会社アルシェです（宅地建物取引業免許 大阪府知事(1)第65646号）。大阪市24区のワンルームマンション・空き家・長屋・再建築不可物件・事故物件・共有持分を専門に扱っており、<strong>管理費の滞納があるまま・相続登記が未了・入居者がいるまま</strong>の状態でも査定にお応えできます。なお、登記の代理申請は司法書士、相続人間の話し合いがまとまらない場合は弁護士、譲渡所得税・相続税の具体的な計算は税理士へご確認ください。担当するのは、その部屋をいくらで、どういう順序で手放せるかの部分です。
 
@@ -337,26 +339,26 @@ faqs:
 
 ## 関連記事
 
-- <a href="/guide/kanrihi-tainou-mansion-kaitori">管理費を滞納したマンションの買取｜滞納が引き継がれる仕組み</a>
-- <a href="/guide/kuushitsu-manshon-baikyaku-kufuu">空室マンションを売るときの工夫</a>
-- <a href="/guide/rental-mansion-vacancy-sell-timing">賃貸マンションが空室になったときの売却タイミング</a>
-- <a href="/guide/souzoku-mansion-baikyaku">相続したマンションの売却｜手順と税金</a>
-- <a href="/guide/kyutaishin-bukken-baikyaku">旧耐震物件の売却｜住宅ローンが付かない理由</a>
-- <a href="/guide/nyukyosha-apart-baikyaku">入居者がいるアパートの買取</a>
-- <a href="/guide/souzoku-chintai-nyuukyosha-ari-baikyaku">相続した賃貸物件を入居者ありのまま売る</a>
-- <a href="/guide/jiko-bukken-kaitori-kakaku-soba">事故物件の買取価格の相場</a>
-- <a href="/guide/shinriteki-kashi-kokuchi-gimu">心理的瑕疵の告知義務｜賃貸と売買で違うところ</a>
-- <a href="/guide/kyouyuu-mochibun-naisho-satei">他の共有者に知られずに共有持分を査定する</a>
-- <a href="/guide/kyouyuu-mochibun-kaitori">共有持分の買取｜他の共有者の同意なく売れます</a>
-- <a href="/guide/osaka-24ku-kaitori-data-2026">大阪市24区の買取データ2026｜区ごとの価格帯と相談傾向</a>
-- <a href="/guide/osaka-24ku-wakeari-kakakutai-map">大阪市24区 訳あり物件の価格帯マップ</a>
-- <a href="/guide/osaka-kaitori-vs-chukai">大阪で買取と仲介のどちらを選ぶか</a>
-- <a href="/guide/kaitori-kakaku-naze-yasui-genka">買取価格はなぜ安いのか｜原価の分解</a>
-- <a href="/guide/kaitori-satei-konkyo-gendai-checklist">買取査定の根拠を確かめるチェックリスト</a>
-- <a href="/guide/kaitori-kyohi-tokucho-7">買取を断られる物件の特徴7つ</a>
-- <a href="/guide/yodogawa-area-buyout-2026">淀川区エリアの買取</a>
-- <a href="/guide/konohana-sakurajima-buyout-2026">此花区・桜島エリアの買取</a>
-- <a href="/guide/abeno-fuminosato-fudosan-kaitori">阿倍野区文の里の不動産買取｜解体補助の対策地区と土地買取の判断基準</a>
+- <a href="/guide/kanrihi-tainou-mansion-kaitori/">管理費を滞納したマンションの買取｜滞納が引き継がれる仕組み</a>
+- <a href="/guide/kuushitsu-manshon-baikyaku-kufuu/">空室マンションを売るときの工夫</a>
+- <a href="/guide/rental-mansion-vacancy-sell-timing/">賃貸マンションが空室になったときの売却タイミング</a>
+- <a href="/guide/souzoku-mansion-baikyaku/">相続したマンションの売却｜手順と税金</a>
+- <a href="/guide/kyutaishin-bukken-baikyaku/">旧耐震物件の売却｜住宅ローンが付かない理由</a>
+- <a href="/guide/souzoku-apart-owner-change-shokei/">入居者がいるアパートの買取</a>
+- <a href="/guide/souzoku-chintai-nyuukyosha-ari-baikyaku/">相続した賃貸物件を入居者ありのまま売る</a>
+- <a href="/guide/jiko-bukken-kaitori-kakaku-soba/">事故物件の買取価格の相場</a>
+- <a href="/guide/shinriteki-kashi-kokuchi-gimu/">心理的瑕疵の告知義務｜賃貸と売買で違うところ</a>
+- <a href="/guide/kyouyuu-mochibun-naisho-satei/">他の共有者に知られずに共有持分を査定する</a>
+- <a href="/guide/kyouyuu-mochibun-kaitori/">共有持分の買取｜他の共有者の同意なく売れます</a>
+- <a href="/guide/osaka-24ku-kaitori-data-2026/">大阪市24区の買取データ2026｜区ごとの価格帯の目安</a>
+- <a href="/guide/osaka-24ku-wakeari-kakakutai-map/">大阪市24区 訳あり物件の価格帯マップ</a>
+- <a href="/guide/osaka-kaitori-vs-chukai/">大阪で買取と仲介のどちらを選ぶか</a>
+- <a href="/guide/kaitori-kakaku-naze-yasui-genka/">買取価格はなぜ安いのか｜原価の分解</a>
+- <a href="/guide/kaitori-satei-konkyo-gendai-checklist/">買取査定の根拠を確かめるチェックリスト</a>
+- <a href="/guide/kaitori-kyohi-tokucho-7/">買取を断られる物件の特徴7つ</a>
+- <a href="/guide/yodogawa-area-buyout-2026/">淀川区エリアの買取</a>
+- <a href="/guide/konohana-sakurajima-buyout-2026/">此花区・桜島エリアの買取</a>
+- <a href="/guide/abeno-fuminosato-fudosan-kaitori/">阿倍野区文の里の不動産買取｜解体補助の対策地区と土地買取の判断基準</a>
 
 ---
 

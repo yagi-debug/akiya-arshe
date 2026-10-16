@@ -2,6 +2,7 @@
 title: "訳あり物件の買取｜再建築不可・事故物件・共有持分・空き家を手放す完全ガイド【2026年版】"
 description: "訳あり物件（再建築不可・事故物件・共有持分・相続アパート・空き家）の買取について、定義・法的背景・買取相場・売却フロー・よくある失敗・よくある質問まで宅建業者が解説。最短1〜2週間・仲介手数料ゼロ・大阪・近畿対応。"
 publishDate: "2026-05-13"
+noindex: true
 updatedDate: "2026-09-07"
 author: "空き家のミカタ編集部"
 authorTitle: "宅地建物取引業者（大阪府知事(1)第65646号）"
@@ -37,6 +38,8 @@ cluster: "accident"
 
 **訳あり物件とは**、再建築不可・事故物件・共有持分・相続アパート・空き家など、仲介市場では買い手がつきにくい事情を抱えた不動産の総称です。全国の空き家は約900万戸（総務省「令和5年住宅・土地統計調査」2024年速報値）に達しており、その処分に困っている方が急増しています。直接買取なら最短1〜2週間・仲介手数料ゼロで現金化できます。つまり、他社で断られた訳あり物件でも、専門業者に直接相談すれば確実に手放せます。
 
+このテーマの全体像は[大阪市の訳あり物件の買取](/guide/osaka-city-yakuari-kaitori/)にまとめています。
+
 > **この記事の結論**
 > 1. 訳あり物件（再建築不可・事故物件・共有持分・相続アパート・空き家）は、<strong>買取専門業者に直接売ることで最短1〜2週間で現金化</strong>できます。仲介では売れない物件でも対応可能です。
 > 2. 買取価格の目安は物件種別によって異なり、<strong>再建築不可は路線価の50〜70%、事故物件は通常相場の80〜90%、共有持分は全体評価額×持分割合の60〜70%</strong>が目安です。
@@ -62,7 +65,7 @@ cluster: "accident"
 
 袋地（道路に接していない土地）、前面道路の幅が不足する物件、接道幅が2m未満の物件などが該当します。
 
-→ 詳しくは <a href="/guide/saikenchifu-kaitori">再建築不可物件の買取</a> をご参照ください。
+→ 詳しくは <a href="/guide/non-rebuildable-property-sale/">再建築不可物件の買取</a> をご参照ください。
 
 ### ②事故物件
 
@@ -70,7 +73,7 @@ cluster: "accident"
 
 売買の場合は時効がなく、買取業者は告知事項を理解したうえで購入します。
 
-→ 詳しくは <a href="/guide/jiko-bukken-kaitori">事故物件の買取</a> をご参照ください。
+→ 詳しくは <a href="/guide/jiko-bukken-hub/">事故物件の買取</a> をご参照ください。
 
 ### ③共有持分
 
@@ -78,13 +81,13 @@ cluster: "accident"
 
 民法第206条により、各共有者は自分の持分を他の共有者の同意なしに処分できます。
 
-→ 詳しくは <a href="/guide/kyouyuu-mochibun-kaitori">共有持分の買取</a> をご参照ください。
+→ 詳しくは <a href="/guide/kyouyuu-mochibun-kaitori/">共有持分の買取</a> をご参照ください。
 
 ### ④相続アパート・空き家
 
 <strong>相続した築古アパートや、管理できずに放置している空き家</strong>です。空き家は特定空家に認定されると固定資産税が最大6倍になるリスクがあります。相続アパートは入退去トラブルや修繕費の増大が問題になります。
 
-→ 詳しくは <a href="/guide/inherited-apartment-buyout">相続アパートの買取</a> をご参照ください。
+→ 詳しくは <a href="/guide/inherited-apartment-buyout/">相続アパートの買取</a> をご参照ください。
 
 ## 訳あり物件が仲介で売れにくい法的・構造的背景
 
@@ -266,15 +269,15 @@ LINEまたはお問い合わせフォームから物件の状況をお伝えく�
 
 ## 関連するガイド記事
 
-- <a href="/guide/saikenchifu-kaitori">再建築不可物件の買取｜建て替えできない家・土地を手放す方法</a>
-- <a href="/guide/jiko-bukken-kaitori">事故物件の買取｜告知義務ありでも最短3日で現金化</a>
-- <a href="/guide/kyouyuu-mochibun-kaitori">共有持分の買取｜他の共有者の同意不要・もめずに持分だけ売る方法</a>
-- <a href="/guide/inherited-apartment-buyout">相続アパートの買取</a>
-- <a href="/guide/wakeare-bukken-kaitori-nagare">訳あり物件の買取の流れ｜相談から最短2週間で現金化する5ステップ</a>
-- <a href="/guide/wakeare-kaitori-gyosha-4type-hikaku">訳あり物件の買取業者を比較｜4タイプ別の特徴と5つのチェックポイント</a>
-- <a href="/guide/osaka-wakeare-buyer-4sha-hikaku">大阪 訳あり物件 買取業者4社比較｜相場・口コミ・スピード【2026年版】</a>
-- <a href="/guide/wakeare-bukken-5shu-hikaku">訳あり物件の種類と比較</a>
-- <a href="/guide/inheritance-sale">相続した不動産を売却する完全ガイド</a>
+- <a href="/guide/non-rebuildable-property-sale/">再建築不可物件の買取｜建て替えできない家・土地を手放す方法</a>
+- <a href="/guide/jiko-bukken-hub/">事故物件の買取｜告知義務ありでも最短3日で現金化</a>
+- <a href="/guide/kyouyuu-mochibun-kaitori/">共有持分の買取｜他の共有者の同意不要・もめずに持分だけ売る方法</a>
+- <a href="/guide/inherited-apartment-buyout/">相続アパートの買取</a>
+- <a href="/guide/wakeare-bukken-kaitori-nagare/">訳あり物件の買取の流れ｜相談から最短2週間で現金化する5ステップ</a>
+- <a href="/guide/wakeare-kaitori-gyosha-4type-hikaku/">訳あり物件の買取業者を比較｜4タイプ別の特徴と5つのチェックポイント</a>
+- <a href="/guide/osaka-wakeare-buyer-4sha-hikaku/">大阪 訳あり物件 買取業者4社比較｜相場・口コミ・スピード【2026年版】</a>
+- <a href="/guide/wakeare-bukken-5shu-hikaku/">訳あり物件の種類と比較</a>
+- <a href="/guide/parent-death-house/">相続した不動産を売却する完全ガイド</a>
 
 ## まずはお気軽にご相談ください
 
@@ -284,12 +287,12 @@ LINEまたはお問い合わせフォームから物件の状況をお伝えく�
 
 <strong>[LINEで無料相談する](https://line.arshe1719.workers.dev/auth/line?ref=hp)</strong>
 
-<strong>[お問い合わせフォームはこちら](/contact)</strong>
+<strong>[お問い合わせフォームはこちら](/contact/)</strong>
 
 
 ## 関連するガイド記事
 
-- <a href="/guide/jiko-bukken-hub">事故物件 完全ハブ｜告知義務・買取・価格への影響まで全ガイドまとめ</a>
+- <a href="/guide/jiko-bukken-hub/">事故物件 完全ハブ｜告知義務・買取・価格への影響まで全ガイドまとめ</a>
 
 相談無料・秘密厳守・大阪・近畿対応
 

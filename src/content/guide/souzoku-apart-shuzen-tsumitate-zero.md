@@ -100,7 +100,7 @@ cluster: "inheritance"
 
 さらに、Aには「修繕したのに買い手がすぐ見つからず、その間も維持費（固定資産税・管理費）がかかり続ける」というリスクもあります。<strong>「修繕すれば高く売れる」は思い込みのことが多く、必ず両方の手残りを試算してから決める</strong>のが安全です。
 
-なお、相続したアパートの維持費全体（固定資産税・管理費・空室損を含む）の考え方は、[相続アパートの維持費シミュレーション｜固定資産税・修繕費・管理費の10年間コスト](/guide/souzoku-apart-cost-simulation)で詳しく整理しています。売却のタイミングそのものに迷う場合は、[相続アパートはいつ売るべき？売却タイミングの判断基準](/guide/souzoku-apart-timing)もあわせてご確認ください。
+なお、相続したアパートの維持費全体（固定資産税・管理費・空室損を含む）の考え方は、[相続アパートの維持費シミュレーション｜固定資産税・修繕費・管理費の10年間コスト](/guide/souzoku-apart-cost-simulation/)で詳しく整理しています。売却のタイミングそのものに迷う場合は、[相続アパートはいつ売るべき？売却タイミングの判断基準](/guide/souzoku-apart-timing/)もあわせてご確認ください。
 
 ## 修繕が必要なアパートでも売却できる
 
@@ -108,7 +108,7 @@ cluster: "inheritance"
 
 築古で修繕が必要な物件、空室が多い物件、入居者が付いたままの物件でも、<strong>現況のまま買取に対応できる</strong>ケースは多くあります。買取では、買主が修繕やリフォームを前提に価格を算定するため、売主が先に工事をする必要はありません。修繕費の負担も、工事期間中の空室リスクも、買主側が引き受けます。
 
-「売る・貸す・管理を委託する」という選択肢の全体像は、[相続アパート「売る・貸す・管理委託する」三択を徹底比較](/guide/souzoku-apart-baikyaku-vs-chintai-vs-kanri)で比較しています。手放す方向で流れ・税金・失敗しないポイントまでまとめて確認したい方は、[相続アパートを手放したい方へ｜売却の流れ・税金・失敗しない判断基準](/guide/souzoku-apart-kanzen-guide)をご覧ください。
+「売る・貸す・管理を委託する」という選択肢の全体像は、[相続アパート「売る・貸す・管理委託する」三択を徹底比較](/guide/souzoku-apart-baikyaku-vs-chintai-vs-kanri/)で比較しています。手放す方向で流れ・税金・失敗しないポイントまでまとめて確認したい方は、[相続アパートを手放したい方へ｜売却の流れ・税金・失敗しない判断基準](/guide/souzoku-apart-kanzen-guide/)をご覧ください。
 
 ## まとめ
 
@@ -126,17 +126,16 @@ cluster: "inheritance"
 
 ## 関連するガイド記事
 
-- [相続アパートの維持費シミュレーション｜固定資産税・修繕費・管理費の10年間コスト](/guide/souzoku-apart-cost-simulation)
-- [相続アパートはいつ売るべき？売却タイミングの判断基準と手順](/guide/souzoku-apart-timing)
-- [相続アパート「売る・貸す・管理委託する」三択を徹底比較](/guide/souzoku-apart-baikyaku-vs-chintai-vs-kanri)
-- [相続アパートを手放したい方へ｜売却の流れ・税金・失敗しない判断基準](/guide/souzoku-apart-kanzen-guide)
-- [相続アパートの買取｜手放したい・管理できないアパートを最短2週間で現金化](/guide/souzoku-apart-kaitori)
-- [相続アパート管理できない｜放置した場合の年間コスト実例3件と早期解決策](/guide/souzoku-apart-kanri-dekinai-houchi-cost)
-- [相続アパートのサブリース解約｜難しさと売却という選択肢](/guide/souzoku-apart-sublease-kaiyaku-baikyaku)
-- [入居者がいるアパートの売却方法](/guide/nyukyosha-apart-baikyaku)
+- [相続アパートの維持費シミュレーション｜固定資産税・修繕費・管理費の10年間コスト](/guide/souzoku-apart-cost-simulation/)
+- [相続アパートはいつ売るべき？売却タイミングの判断基準と手順](/guide/souzoku-apart-timing/)
+- [相続アパート「売る・貸す・管理委託する」三択を徹底比較](/guide/souzoku-apart-baikyaku-vs-chintai-vs-kanri/)
+- [相続アパートを手放したい方へ｜売却の流れ・税金・失敗しない判断基準](/guide/souzoku-apart-kanzen-guide/)
+- [相続アパート管理できない｜放置した場合の年間コスト試算例3件と早期解決策](/guide/souzoku-apart-kanri-dekinai-houchi-cost/)
+- [相続アパートのサブリース解約｜難しさと売却という選択肢](/guide/souzoku-apart-sublease-kaiyaku-baikyaku/)
+- [入居者がいるアパートの売却方法](/guide/souzoku-apart-owner-change-shokei/)
 
 ---
-- <a href="/guide/souzoku-hub">相続不動産 完全ハブ｜処分・売却・登記・固定資産税・事例まで全ガイドをまとめて確認【2026年版】</a>
+- <a href="/guide/parent-death-house/">相続した家の売り方と手続き</a>
 
 <div style="background:#f0f7ff;border:2px solid #1a56db;border-radius:8px;padding:1.2rem 1.5rem;margin:1.5rem 0;">
 <strong>相続アパート、今の状況を3秒でチェック</strong>
@@ -157,4 +156,4 @@ cluster: "inheritance"
 
 <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" target="_blank" rel="noopener noreferrer"><strong>LINEで無料相談する</strong></a>
 
-<a href="/contact"><strong>お問い合わせフォームはこちら</strong></a>
+<a href="/contact/"><strong>お問い合わせフォームはこちら</strong></a>

@@ -2,6 +2,7 @@
 title: "再建築不可物件の買取相場｜大阪市エリア別の価格帯と高く売るコツ"
 description: "再建築不可物件の買取相場は通常物件の3〜7割が目安です。大阪市の主要エリア別に具体的な買取価格帯を提示し、査定に影響する5つのポイントと2025年建築基準法改正の影響を宅建業者が解説します。"
 publishDate: "2026-04-13"
+noindex: true
 author: "宅建業者"
 authorTitle: "宅建業者"
 faqs:
@@ -21,6 +22,8 @@ cluster: "non-rebuildable"
 <img src="/images/saikenchifu-souba-hero.jpg" alt="大阪市内の狭い路地に面した古い住宅　再建築不可物件のイメージ" width="1200" height="1600" style="width:100%;height:auto;border-radius:8px;margin-bottom:1.5rem;" />
 
 「相続した実家が再建築不可だった」「不動産会社に相談したら買取価格が安すぎて驚いた」。再建築不可物件を所有している方にとって、<strong>自分の物件がいくらで売れるのか</strong>は最も気になるポイントではないでしょうか。
+
+このテーマの全体像は[再建築不可物件の売却方法](/guide/non-rebuildable-property-sale/)にまとめています。
 
 この記事では、再建築不可物件の買取相場の基本的な考え方から、大阪市の主要エリア別に具体的な価格帯の目安を提示し、査定額を左右するポイントや2025年建築基準法改正の影響まで、宅建業者の立場から解説します。
 
@@ -191,11 +194,11 @@ cluster: "non-rebuildable"
 
 ## 関連するガイド記事
 
-- <a href="/guide/saikenchifu-osaka-uri-jirei">大阪市の再建築不可物件｜仲介で売れなかった3つの失敗パターンと買取解決事例3件【2026年版】</a>
-- <a href="/guide/saikenchifu-hub">再建築不可物件 完全ハブ｜売却・買取・価格相場・事例まで全ガイドまとめ【2026年版】</a>
-- <a href="/guide/saikenchifu-kaitori-jirei">再建築不可物件の買取事例5選｜袋地・2m未満接道・旗竿地の解決ストーリー</a>
-- <a href="/guide/osaka-kaitori-jirei">大阪市内の訳あり不動産買取事例集｜再建築不可・事故物件・共有持分・空き家・相続アパートの5事例</a>
-- <a href="/guide/kaitori-jirei-10sen">訳あり不動産の買取実績10選｜相続・再建築不可・事故物件・共有持分・空き家の解決事例集</a>
+- <a href="/guide/saikenchifu-osaka-uri-jirei/">大阪市の再建築不可物件｜仲介で売れなかった3つの失敗パターンと買取解決事例3件【2026年版】</a>
+- <a href="/guide/non-rebuildable-property-sale/">再建築不可物件の売却方法</a>
+- <a href="/guide/saikenchifu-kaitori-jirei/">再建築不可物件の買取 参考事例5選｜袋地・2m未満接道・旗竿地の解決ストーリー</a>
+- <a href="/guide/kyouyuu-mochibun-kaitori/">共有持分の買取・売却方法</a>
+- <a href="/guide/osaka-city-yakuari-kaitori/">大阪市の訳あり物件の買取</a>
 
 ## 再建築不可物件の売却を検討されている方へ
 
@@ -209,4 +212,4 @@ cluster: "non-rebuildable"
 → [空き家のミカタ LINE相談](https://line.arshe1719.workers.dev/auth/line?ref=hp)
 
 <strong>メール・フォームでのお問い合わせ</strong>
-→ [無料査定・お問い合わせフォーム](/contact)
+→ [無料査定・お問い合わせフォーム](/contact/)

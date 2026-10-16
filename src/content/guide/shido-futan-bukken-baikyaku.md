@@ -184,17 +184,17 @@ A: 売却できます。ただし通行権・掘削承諾・私道持分の問�
 - 権利整備の交渉は時間がかかることが多く、費用対効果を比較することが重要です
 - 現況買取なら最短2〜4週間で現金化できます
 
-まずは現況の状態でどのくらいの価格になるか、無料査定でご確認ください。[再建築不可物件の売却](/guide/saikenchifu-hub)や[建築基準法違反物件の売却](/guide/kenchiku-kijunho-ihan-bukken-baikyaku)も合わせてご参照いただけます。
+まずは現況の状態でどのくらいの価格になるか、無料査定でご確認ください。[再建築不可物件の売却](/guide/non-rebuildable-property-sale/)や[建築基準法違反物件の売却](/guide/kenchiku-kijunho-ihan-bukken-baikyaku/)も合わせてご参照いただけます。
 
 ---
 
 ## 関連するガイド記事
 
-- <a href="/guide/saikenchifu-hub">再建築不可物件 完全ハブ｜売却・買取・価格相場・事例まで全ガイドまとめ【2026年版】</a>
-- <a href="/guide/kenchiku-kijunho-ihan-bukken-baikyaku">建築基準法違反物件を売りたい｜仲介で断られた物件を買取で現金化する方法【大阪・近畿対応】</a>
-- <a href="/guide/ettsukyo-bukken-baikyaku">越境物件を売りたい｜越境の種類・告知義務・解決策と現況買取</a>
-- <a href="/guide/souzoku-fudosan-kyoukaisen-fumei-baikyaku">相続した土地の境界が不明｜境界未確定不動産の売却・買取の全手順</a>
-- <a href="/guide/hatazao-chi-baikyaku">旗竿地を売りたい｜売れにくい理由・価格への影響と買取での解決策</a>
+- <a href="/guide/non-rebuildable-property-sale/">再建築不可物件の売却方法</a>
+- <a href="/guide/kenchiku-kijunho-ihan-bukken-baikyaku/">建築基準法違反物件を売りたい｜仲介で断られた物件を買取で現金化する方法【大阪・近畿対応】</a>
+- <a href="/guide/ettsukyo-bukken-baikyaku/">越境物件を売りたい｜越境の種類・告知義務・解決策と現況買取</a>
+- <a href="/guide/souzoku-fudosan-kyoukaisen-fumei-baikyaku/">相続した土地の境界が不明｜境界未確定不動産の売却・買取の全手順</a>
+- <a href="/guide/hatazao-chi-baikyaku/">旗竿地を売りたい｜売れにくい理由・価格への影響と買取での解決策</a>
 
 ## 無料査定・ご相談はこちら
 
@@ -209,6 +209,6 @@ A: 売却できます。ただし通行権・掘削承諾・私道持分の問�
   </ul>
   <p>
     <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block; background:#06C755; color:#fff; padding:0.8em 2em; border-radius:4px; text-decoration:none; font-weight:bold; margin-right:1em;">LINEで無料相談する</a>
-    <a href="/contact" style="display:inline-block; background:#0070f3; color:#fff; padding:0.8em 2em; border-radius:4px; text-decoration:none; font-weight:bold;">お問い合わせフォーム</a>
+    <a href="/contact/" style="display:inline-block; background:#0070f3; color:#fff; padding:0.8em 2em; border-radius:4px; text-decoration:none; font-weight:bold;">お問い合わせフォーム</a>
   </p>
 </div>

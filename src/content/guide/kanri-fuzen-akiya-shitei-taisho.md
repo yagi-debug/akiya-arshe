@@ -2,6 +2,7 @@
 title: "管理不全空き家に指定されたら？固定資産税の変化と売却で解決する3ステップ"
 description: "2023年改正空家法で新設された「管理不全空き家」に指定されると、自治体から指導・勧告が届き、住宅用地の特例が解除されて固定資産税が大幅に増加します。指定後の行政フロー・税負担の変化・3つの対処法（修繕・解体・売却）を宅建業者が解説します。"
 publishDate: "2026-05-26"
+noindex: true
 author: "空き家のミカタ編集部"
 authorTitle: "宅地建物取引業者（大阪府知事(1)第65646号）"
 heroImage: "/images/kanri-fuzen-akiya-hero.jpg"
@@ -44,83 +45,6 @@ updatedDate: "2026-09-07"
 }
 </script>
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "管理不全空き家に指定されると固定資産税はどうなりますか？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "自治体から勧告を受けると、住宅用地の特例（小規模住宅用地で固定資産税が1/6になる制度）が解除される場合があります。解除されると固定資産税が最大6倍、都市計画税が最大3倍になるケースがあります。指導の段階では特例はまだ継続されています。"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "管理不全空き家と特定空き家の違いは何ですか？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "管理不全空き家は2023年改正空家法で新設されたカテゴリで、「放置すれば特定空き家になるおそれがある」状態。特定空き家は老朽化・危険・衛生上の問題がある状態で、行政代執行（解体）まで可能です。管理不全はその手前の段階です。"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "管理不全空き家に指定された物件でも売却できますか？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "売却できます。管理不全空き家に指定されていても売却は可能です。指定前に売却するほうがスムーズなケースが多いですが、指定後でも訳あり買取専門業者への相談であれば、指定状況を含めて査定できます。"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "管理不全空き家の指定を取り消してもらえますか？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "適切な管理状態に改善されれば指定が解除される場合があります。草木の剪定・外壁の補修・ゴミの撤去などの管理改善が求められます。解除の基準は自治体によって異なりますので担当窓口に確認してください。"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "管理不全空き家の調査はどのように行われますか？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "市区町村の担当者が外観の目視調査や周辺住民からの苦情をもとに調査します。外観・外構の状態（草木の繁茂・外壁の崩落・ゴミの放置）が判定の基準です。2023年改正空家法では自治体の調査権限が強化されています。"
-      }
-    }
-  ]
-}
-</script>
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "HowTo",
-  "name": "管理不全空き家の指定後に売却で解決する3ステップ",
-  "step": [
-    {
-      "@type": "HowToStep",
-      "position": 1,
-      "name": "指定内容と行政フローを確認する",
-      "text": "自治体から届いた文書（指導通知または勧告通知）の内容を確認し、現在の段階（指導 or 勧告）を把握する。勧告前であれば住宅用地特例はまだ継続中。"
-    },
-    {
-      "@type": "HowToStep",
-      "position": 2,
-      "name": "3つの選択肢の費用と手取りを比較する",
-      "text": "修繕して管理を継続（費用30万〜数百万円）、解体して更地にする（木造50坪で100万〜150万円）、売却（訳あり買取なら仲介手数料ゼロ）の3択を比較する。"
-    },
-    {
-      "@type": "HowToStep",
-      "position": 3,
-      "name": "訳あり買取専門業者に相談する",
-      "text": "管理不全空き家の指定状況を含めて査定を依頼する。LINEで無料相談が可能。査定後に押し付けられることはない。"
-    }
-  ]
-}
-</script>
-
 > <strong>この記事の結論</strong>
 > 1. 「管理不全空き家」は2023年の改正空家法で新設されたカテゴリで、<strong>特定空き家の手前の段階</strong>です。自治体から指導→勧告の流れで通知が届きます。
 > 2. 勧告が届いた後は、<strong>住宅用地の特例（固定資産税を1/6に抑える制度）が解除される可能性があり、税負担が数倍に膨らむ</strong>ケースがあります。
@@ -135,6 +59,8 @@ updatedDate: "2026-09-07"
 ## 管理不全空き家とは？2023年改正で新設されたカテゴリ
 
 「管理不全空き家」という言葉を聞いて、何のことかわからないという方も多いと思います。
+
+関連する内容は[市役所から空き家の通知が届いたとき](/guide/osaka-kanri-fuzen-tsuchi-todoita/)で詳しく解説しています。
 
 この概念は、<strong>2023年（令和5年）12月施行の「改正空家等対策の推進に関する特別措置法」</strong>によって新設されました。施行からまだ数年しか経っておらず、認知度が低いのが現状です。
 
@@ -323,7 +249,7 @@ updatedDate: "2026-09-07"
 
 <strong>[LINEで無料相談する（24時間受付）](https://line.arshe1719.workers.dev/auth/line?ref=hp)</strong>
 
-<strong>[お問い合わせフォームはこちら](/contact)</strong>
+<strong>[お問い合わせフォームはこちら](/contact/)</strong>
 
 相談無料・秘密厳守・大阪・近畿対応
 
@@ -331,19 +257,18 @@ updatedDate: "2026-09-07"
 
 ## 関連するガイド記事
 
-- <a href="/guide/kotei-shisan-zei-nousho-baikyaku-3taiken">【実録】固定資産税の通知書が届き、空き家売却を決意した3つの体験談【2026年5月】</a>
-- <a href="/guide/akiya-kotei-shisan-zei-haraenai">空き家の固定資産税が払えないとき｜分納・減免・売却・相続放棄の4つの選択肢【2026年版】</a>
-- <a href="/guide/akiya-koteishisanzei-6bai-hikaku">空き家固定資産税6倍化の回避策と売却タイミング徹底比較｜賃貸・寄付・売却どれが得か</a>
-- <a href="/guide/souzoku-hub">相続不動産 完全ハブ｜処分・売却・登記・固定資産税・事例まで全ガイドをまとめて確認【2026年版】</a>
-- <a href="/guide/souzoku-apart-kanzen-guide">相続アパートを手放したい方へ｜売却の流れ・税金・失敗しない判断基準を宅建業者が完全解説【2026年最新】</a>
+- <a href="/guide/kotei-shisan-zei-tsuchisho-checklist/">【参考例】固定資産税の通知書が届き、空き家売却を決意した3つのケース【2026年5月】</a>
+- <a href="/guide/akiya-kotei-shisan-zei-haraenai/">空き家の固定資産税が払えないとき｜分納・減免・売却・相続放棄の4つの選択肢【2026年版】</a>
+- <a href="/guide/akiya-koteishisanzei-6bai-hikaku/">空き家固定資産税6倍化の回避策と売却タイミング徹底比較｜賃貸・寄付・売却どれが得か</a>
+- <a href="/guide/parent-death-house/">相続した家の売り方と手続き</a>
+- <a href="/guide/souzoku-apart-kanzen-guide/">相続アパートを手放したい方へ｜売却の流れ・税金・失敗しない判断基準を宅建業者が完全解説【2026年最新】</a>
 
 ## この記事に関連するガイド記事
 
-- <a href="/guide/vacancy-tax-6times">空き家の固定資産税が最大6倍に｜特定空き家制度の仕組みと対処法</a>
-- <a href="/guide/tokutei-akiya-hantei-checklist">特定空き家の判定基準チェックリスト｜指定されたらどうなる？</a>
-- <a href="/guide/akiya-shobun-5-hikaku">空き家の処分方法5つを徹底比較【2026年版】費用・期間・手残り額</a>
-- <a href="/guide/kotei-shisan-zei-akiya-3check-guide">固定資産税の通知書が届いたら確認｜空き家4.2倍リスク回避の3ステップ</a>
-- <a href="/guide/akiya-kaitori">空き家の買取｜放置している空き家を現金化する方法</a>
+- <a href="/guide/akiya-koteishisanzei-6bai-hikaku/">空き家の固定資産税が最大6倍に｜特定空き家制度の仕組みと対処法</a>
+- <a href="/guide/tokutei-akiya-hantei-checklist/">特定空き家の判定基準チェックリスト｜指定されたらどうなる？</a>
+- <a href="/guide/akiya-shobun-5-hikaku/">空き家の処分方法5つを徹底比較【2026年版】費用・期間・手残り額</a>
+- <a href="/guide/kotei-shisan-zei-akiya-3check-guide/">固定資産税の通知書が届いたら確認｜空き家4.2倍リスク回避の3ステップ</a>
 ---
 
-**このカテゴリの全ガイド一覧:** [→ 空き家の処分・活用 完全ガイド](/guide/vacant-house)
+**このカテゴリの中心の記事:** [→ 空き家の処分・活用 完全ガイド](/guide/akiya-shobun-5-hikaku/)

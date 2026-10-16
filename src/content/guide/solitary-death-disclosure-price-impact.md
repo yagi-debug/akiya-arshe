@@ -185,7 +185,7 @@ updatedDate: "2026-09-07"
 
 ### Q. 相続した物件で孤独死があった場合、相続放棄はできますか？
 
-相続放棄自体は可能ですが、<strong>プラスの財産（預貯金・他の不動産）も含めて全財産を放棄</strong>することになります。孤独死があった物件だけを放棄して他の財産を相続することはできません。相続放棄の判断は<a href="/guide/inheritance-abandon">相続放棄のメリット・デメリットと手続きの流れ</a>も参考にしてください。
+相続放棄自体は可能ですが、<strong>プラスの財産（預貯金・他の不動産）も含めて全財産を放棄</strong>することになります。孤独死があった物件だけを放棄して他の財産を相続することはできません。相続放棄の判断は<a href="/guide/inheritance-abandon/">相続放棄のメリット・デメリットと手続きの流れ</a>も参考にしてください。
 
 ### Q. 孤独死があってから何年後なら告知しなくていいですか？
 
@@ -205,13 +205,12 @@ updatedDate: "2026-09-07"
 
 ## 関連する記事
 
-- <a href="/guide/accident-property-sale">事故物件は売れる？告知義務・売却相場・買取の流れを宅建業者が解説</a>（孤独死を含む事故物件全般の売却方法）
-- <a href="/guide/shinriteki-kashi-kokuchi-gimu">心理的瑕疵とは？事故物件の告知義務の範囲・売却時期・価格への影響</a>（心理的瑕疵の法的定義と全体像）
-- <a href="/guide/jiko-bukken-kaitori">事故物件の買取｜告知義務ありでも最短3日で現金化【完全ガイド】</a>（買取フロー・価格シミュレーション）
-- <a href="/guide/jiko-bukken-hub">事故物件 完全ハブ｜告知義務・買取・価格相場まで全ガイドまとめ</a>（事故物件関連記事の一覧）
-- <a href="/guide/parent-death-house">親が亡くなった家はどうする？相続から売却・管理まで全ガイド</a>（相続した家全般の対処法）
-- <a href="/guide/oya-shigo-hiyou-souzokuzei-koujo">親の死後にかかった費用は相続税から引ける？特殊清掃・遺品整理・解体費を国税庁の基準で仕分ける</a>
+- <a href="/guide/accident-property-sale/">事故物件は売れる？告知義務・売却相場・買取の流れを宅建業者が解説</a>（孤独死を含む事故物件全般の売却方法）
+- <a href="/guide/shinriteki-kashi-kokuchi-gimu/">心理的瑕疵とは？事故物件の告知義務の範囲・売却時期・価格への影響</a>（心理的瑕疵の法的定義と全体像）
+- <a href="/guide/jiko-bukken-hub/">事故物件 完全ハブ｜告知義務・買取・価格相場まで全ガイドまとめ</a>（事故物件関連記事の一覧）
+- <a href="/guide/parent-death-house/">親が亡くなった家はどうする？相続から売却・管理まで全ガイド</a>（相続した家全般の対処法）
+- <a href="/guide/oya-shigo-hiyou-souzokuzei-koujo/">親の死後にかかった費用は相続税から引ける？特殊清掃・遺品整理・解体費を国税庁の基準で仕分ける</a>
 
 LINE「空き家のミカタ」：[https://line.arshe1719.workers.dev/auth/line?ref=hp](https://line.arshe1719.workers.dev/auth/line?ref=hp)
 
-<a href="/contact">無料査定・ご相談フォームはこちら</a>
+<a href="/contact/">無料査定・ご相談フォームはこちら</a>

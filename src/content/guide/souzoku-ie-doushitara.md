@@ -2,6 +2,7 @@
 title: "相続した家をどうする？放置すると固定資産税6倍リスク｜4つの選択肢と後悔しない判断基準"
 description: "相続した家を放置すると固定資産税が最大6倍になるリスクがあります。売る・貸す・住む・放置の4択を比較し、3000万円特別控除の条件も解説。大阪・近畿対応の宅建業者が回答。"
 publishDate: "2026-04-20"
+noindex: true
 updatedDate: "2026-09-07"
 author: "八木宏樹（合同会社アルシェ代表）"
 authorTitle: "宅地建物取引業者（大阪府知事(1)第65646号）"
@@ -28,6 +29,8 @@ cluster: "inheritance"
 > *(出典: 国税庁・相続空き家に係る譲渡所得の特別控除の特例／空家等対策の推進に関する特別措置法)*
 
 **相続した家をどうすればいいか** — 選択肢は「売る・貸す・住む・放置する」の4つです。自分で住む予定がなければ、相続から**3年以内に売却**するのが税金面で最も有利です（3,000万円特別控除の期限）。
+
+このテーマの全体像は[相続した家の売り方と手続き](/guide/parent-death-house/)にまとめています。
 
 <strong>相続した家は、「売る」「貸す」「住む」「放置する」の4つの選択肢があります。</strong>どれが正解かは、物件の状態・あなたの状況・税制の期限によって変わります。
 
@@ -209,12 +212,11 @@ LINEまたはお問い合わせフォームから、物件の情報をお送り�
 
 ## 関連するガイド記事
 
-- <a href="/guide/inheritance-sale">相続した不動産を売却する完全ガイド</a>
-- <a href="/guide/inheritance-registry">相続登記の義務化はいつから？罰則と3つの対策</a>
-- <a href="/guide/vacant-house">空き家をどうする？選択肢ガイド</a>
-- <a href="/guide/selling-tax-guide">不動産を売った時の税金はいくら？</a>
-- <a href="/guide/souzoku-akiya-koteishisanzei-kaihi">相続した空き家の固定資産税が6倍になる前に</a>
-- <a href="/guide/parent-death-house">親が亡くなった後の家はどうする？</a>
+- <a href="/guide/inheritance-registry-neglect-sale-3options/">相続登記の義務化はいつから？罰則と3つの対策</a>
+- <a href="/guide/akiya-shobun-5-hikaku/">空き家をどうする？選択肢ガイド</a>
+- <a href="/guide/souzoku-jouto-shotokuzei-5nen-kisanbi/">不動産を売った時の税金はいくら？</a>
+- <a href="/guide/souzoku-akiya-koteishisanzei-kaihi/">相続した空き家の固定資産税が6倍になる前に</a>
+- <a href="/guide/parent-death-house/">親が亡くなった後の家はどうする？</a>
 
 ## 相続した家のこと、ひとりで悩まないでください
 
@@ -225,14 +227,14 @@ LINEまたはお問い合わせフォームから、物件の情報をお送り�
 <strong><a href="https://line.arshe1719.workers.dev/auth/line?ref=hp">LINEで無料相談する</a></strong>
 
 
-<a href="/contact">お問い合わせフォームはこちら</a>
+<a href="/contact/">お問い合わせフォームはこちら</a>
 
 メール：<a href="mailto:info.arshe@arshe-corp.com">info.arshe@arshe-corp.com</a>
 
 
 ## 関連するガイド記事
 
-- <a href="/guide/souzoku-hub">相続不動産 完全ハブ｜処分・売却・登記・固定資産税まで全ガイドをまとめて確認【2026年版】</a>
+- <a href="/guide/parent-death-house/">相続した家の売り方と手続き</a>
 
 相談無料・秘密厳守・大阪・近畿対応
 

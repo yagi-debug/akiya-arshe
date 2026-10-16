@@ -46,54 +46,15 @@ faqs:
 }
 </script>
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "土砂災害警戒区域の不動産は売れますか？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "売れます。ただし告知義務があり住宅ローン審査が通りにくいため一般仲介では買い手が付きにくい状況です。訳あり買取専門業者なら現況のまま対応できます。"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "土砂災害警戒区域かどうかはどうやって調べますか？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "国土交通省の「ハザードマップポータルサイト」（disaportal.gsi.go.jp）で住所を入力するだけで確認できます。各都道府県が公開する土砂災害警戒区域等マップや市区町村窓口でも確認できます。"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "土砂災害警戒区域の不動産を売るときに告知義務はありますか？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "あります。宅建業者が仲介する場合、宅建業法第35条に基づく重要事項説明で土砂災害警戒区域の指定を必ず告知しなければなりません。個人間売買でも告知義務があります。"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "土砂災害特別警戒区域（レッドゾーン）でも買取してもらえますか？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "はい、対応しています。特別警戒区域は建築制限がより厳しいため買取価格は低くなりやすいですが、売れないということはありません。固定資産税を払い続けるより早期に現金化した方が合理的なケースも多いです。"
-      }
-    }
-  ]
-}
-</script>
-
-<a href="/guide/doshasaigai-keikaikuiki-baikyaku">土砂災害警戒区域の不動産売却ガイド</a>
+<a href="/guide/doshasaigai-keikaikuiki-baikyaku/">土砂災害警戒区域の不動産売却ガイド</a>
 
 ---
 
 ![傾斜地に建ち並ぶ住宅街の様子。土砂災害警戒区域に指定されるケースが多い](/images/doshasaigai-keikaikuiki-baikyaku-hero.jpg)
 
 「土砂災害警戒区域に指定されていると言われた。この家、売れるのだろうか…」
+
+このテーマの全体像は[大阪市の訳あり物件の買取](/guide/osaka-city-yakuari-kaitori/)にまとめています。
 
 こうしたご相談を、私たちはよくお受けします。相続で家を引き継いだら役所から指定の通知が来た、あるいは売却査定を依頼したら「この物件は警戒区域内なので売りにくい」と言われた——そんな状況に困っている方が多くいらっしゃいます。
 
@@ -301,11 +262,11 @@ faqs:
 
 ## 関連するガイド記事
 
-- <a href="/guide/lp-wakeari-bukken-kaitori">訳あり不動産の買取とは？手続きの流れと仲介との違い</a>
-- <a href="/guide/akiya-shobun-5-hikaku">空き家処分の5大選択肢を徹底比較【2026年版】費用・期間・手残り額</a>
-- <a href="/guide/kaitori-gyosha-erabikata-checkpoints">訳あり買取業者の選び方｜失敗しない7つのチェックポイント</a>
-- <a href="/guide/shigaika-chosei-fudosan-baikyaku">市街化調整区域の不動産は売れる？仲介で断られても買取で現金化できる理由</a>
-- <a href="/guide/kenpeiri-yosekiritsu-over-baikyaku">建蔽率・容積率オーバーの物件を売りたい｜現況買取の方法と価格相場</a>
+- <a href="/guide/osaka-city-yakuari-kaitori/">訳あり不動産の買取とは？手続きの流れと仲介との違い</a>
+- <a href="/guide/akiya-shobun-5-hikaku/">空き家処分の5大選択肢を徹底比較【2026年版】費用・期間・手残り額</a>
+- <a href="/guide/kaitori-gyosha-erabikata-checkpoints/">訳あり買取業者の選び方｜失敗しない7つのチェックポイント</a>
+- <a href="/guide/shigaika-chosei-fudosan-baikyaku/">市街化調整区域の不動産は売れる？仲介で断られても買取で現金化できる理由</a>
+- <a href="/guide/kenpeiri-yosekiritsu-over-baikyaku/">建蔽率・容積率オーバーの物件を売りたい｜現況買取の方法と価格相場</a>
 
 ---
 
@@ -325,11 +286,11 @@ faqs:
 
 https://line.arshe1719.workers.dev/auth/line?ref=hp
 
-**お問い合わせフォームはこちら** → [/contact](/contact)
+**お問い合わせフォームはこちら** → [/contact/](/contact/)
 
 ---
 
 関連記事：
-- [訳あり不動産とは？5種類の特徴と売却方法を比較](/guide/wakare-bukken-to-wa)
-- [相続した不動産の売り方 完全ガイド2026年版](/guide/souzoku-fudousan-urikata-kanzen-guide)
-- [仲介業者に断られた不動産、その後にできること](/guide/fudosan-kotowarareta-ato-dekiru-koto)
+- [訳あり不動産とは？5種類の特徴と売却方法を比較](/guide/wakare-bukken-to-wa/)
+- [相続した不動産の売り方 完全ガイド2026年版](/guide/parent-death-house/)
+- [仲介業者に断られた不動産、その後にできること](/guide/fudosan-kotowarareta-ato-dekiru-koto/)

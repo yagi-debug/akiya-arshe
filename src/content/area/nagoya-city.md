@@ -76,7 +76,7 @@ A: はい、対応できます。訳あり物件専門の宅建業者「空き�
 
 - <strong>空き家率14.7%は全国平均（13.8%）を上回る水準</strong>
 - 郊外エリア（守山区・緑区・天白区）では空き家密度が高い
-- <strong>特定空き家に指定されると固定資産税が最大6倍</strong>になるリスクがある（詳細は<a href="/guide/vacancy-tax-6times">こちらの記事</a>参照）
+- <strong>特定空き家に指定されると固定資産税が最大6倍</strong>になるリスクがある（詳細は<a href="/guide/akiya-koteishisanzei-6bai-hikaku/">こちらの記事</a>参照）
 - 名古屋市では空き家の利活用補助金制度（改修費最大100万円）があるが、訳あり物件の多くは適用外
 
 ### 再建築不可物件
@@ -136,7 +136,7 @@ A. はい、対応可能です。接道状況・建物の状態・権利関係�
 A. 空室・老朽化物件も買取対象です。入居率や建物状態にかかわらず現況のまま買い取りますので、解体・退去交渉・片付けは不要です。まずは現在の状況をお知らせください。
 
 <strong>Q. 相続登記が済んでいない名古屋の不動産でも相談できますか？</strong>
-A. ご相談いただけます。<a href="/guide/souzoku-touki-gimuka-karyo">相続登記の義務化（2024年4月施行）</a>で3年以内の登記が義務となっており、登記と売却を同時に進めるサポートも行っています。
+A. ご相談いただけます。<a href="/guide/souzoku-touki-gimuka-karyo/">相続登記の義務化（2024年4月施行）</a>で3年以内の登記が義務となっており、登記と売却を同時に進めるサポートも行っています。
 
 <strong>Q. 名古屋市外（東京・大阪等）に住んでいても相談できますか？</strong>
 A. もちろんです。LINE・メールでのご相談に対応しており、現地調査は提携ネットワークを活用します。相続人が全国各地に住んでいるケースにも慣れていますのでご安心ください。
@@ -149,7 +149,7 @@ A. もちろんです。LINE・メールでのご相談に対応しており、�
 
 <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06C755;color:#fff;font-weight:bold;padding:0.75rem 2rem;border-radius:0.5rem;text-decoration:none;margin:0.5rem 0;">LINEで無料相談する（24時間受付）</a>
 
-<a href="/contact" style="display:inline-block;background:#2563eb;color:#fff;font-weight:bold;padding:0.75rem 2rem;border-radius:0.5rem;text-decoration:none;margin:0.5rem 0;">お問い合わせフォームはこちら</a>
+<a href="/contact/" style="display:inline-block;background:#2563eb;color:#fff;font-weight:bold;padding:0.75rem 2rem;border-radius:0.5rem;text-decoration:none;margin:0.5rem 0;">お問い合わせフォームはこちら</a>
 
 空き家のミカタ（宅建業者・大阪府知事(1)第65646号）
 
@@ -157,20 +157,20 @@ A. もちろんです。LINE・メールでのご相談に対応しており、�
 
 ## 関連する記事
 
-- <a href="/guide/souzoku-apart-kaitori">相続アパートの買取｜管理できない入居者付きアパートも直接買取</a>
-- <a href="/guide/non-rebuildable-property-sale">再建築不可物件の売却方法と注意点</a>
-- <a href="/guide/akiya-kaitori">空き家の買取｜放置している空き家を現金化する方法</a>
-- <a href="/guide/souzoku-ie-doushitara">相続した家はどうすればいい？4つの選択肢と判断基準</a>
-- <a href="/guide/vacancy-tax-6times">空き家の固定資産税が6倍になる条件と回避方法</a>
-- <a href="/guide/souzoku-touki-gimuka-karyo">相続登記しないと過料10万円？放置リスクと売却で解決する方法</a>
+- <a href="/guide/souzoku-apart-kanzen-guide/">相続アパートの買取｜管理できない入居者付きアパートも直接買取</a>
+- <a href="/guide/non-rebuildable-property-sale/">再建築不可物件の売却方法と注意点</a>
+- <a href="/guide/akiya-shobun-5-hikaku/">空き家の処分方法の比較</a>
+- <a href="/guide/souzoku-ie-doushitara/">相続した家はどうすればいい？4つの選択肢と判断基準</a>
+- <a href="/guide/akiya-koteishisanzei-6bai-hikaku/">空き家の固定資産税が6倍になる条件と回避方法</a>
+- <a href="/guide/souzoku-touki-gimuka-karyo/">相続登記しないと過料10万円？放置リスクと売却で解決する方法</a>
 
 ## 他のエリアの相場を見る
 
-- <a href="/area/osaka-kita">大阪市北区の不動産売却相場</a>
-- <a href="/area/kobe-city">神戸市の不動産買取相場</a>
-- <a href="/area/kyoto-city">京都市の不動産買取相場</a>
-- <a href="/area/fukuoka-city">福岡市の不動産買取相場</a>
-- <a href="/area/hiroshima-city">広島市の不動産買取相場</a>
+- <a href="/area/osaka-kita/">大阪市北区の不動産売却相場</a>
+- <a href="/area/kobe-city/">神戸市の不動産買取相場</a>
+- <a href="/area/kyoto-city/">京都市の不動産買取相場</a>
+- <a href="/area/fukuoka-city/">福岡市の不動産買取相場</a>
+- <a href="/area/hiroshima-city/">広島市の不動産買取相場</a>
 ---
 
 執筆: 八木宏樹（合同会社アルシェ代表／宅建業免許: 大阪府知事(1)第65646号）｜空き家のミカタ代表。大阪府全域・全国の訳あり不動産買取を手掛ける。専門分野: 再建築不可・共有持分・相続アパート・事故物件の直接買取。

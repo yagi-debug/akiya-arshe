@@ -116,6 +116,8 @@ faqs:
 
 例外は「依頼者の依頼によって行う広告の料金」だけです。<strong>こちらから頼んでいない広告費、名目を変えた事務手数料、書類作成料、コンサルティング料は、この但し書きに当てはまりません。</strong>後半でこの見分け方を扱います。
 
+仲介を選んだ場合の支払い時期にも触れておきます。売買契約が成立した時点で報酬の請求権が生じるため、契約時に半額、引渡し時に残りの半額を支払う2回払いが一般的です。一括で引渡し時に支払う形もあり、いずれも媒介契約書の定めに従います。手元の現金が足りない場合は、売却代金から差し引く形で精算することもできます。
+
 ## 800万円以下なら33万円まで請求できる｜2024年7月施行の低廉な空家等の特例
 
 訳あり物件の相談で、いちばん誤解されているのがこの特例です。
@@ -342,17 +344,17 @@ faqs:
 
 なお、遠方の物件で最初に相談すべき相手は、必ずしも買取業者とは限りません。共有者が分からない・相続人が確定していないといった段階なら、司法書士や弁護士が先です。権利関係が整理される前に買取の話を進めても、価格は下がる方向にしか動きません。
 
-## お客様の声を手数料の視点で読む｜当社の相談で毎月出る4つの質問
+## お客様の声を手数料の視点で読む｜手数料まわりでよくある4つの質問
 
 <img src="/images/wakeari-kaitori-tesuryo-uchiwake-soudan.jpg" alt="担当者が机で書類を示しながら相談者に説明している場面。査定額の内訳と費用負担を確認するやりとり" width="1600" height="900" style="width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" />
 
 業者選びで「お客様の声」を参考にされる方は多いと思います。読むときは、感想ではなく<strong>お金の記述があるかどうか</strong>を見てください。「対応が早かった」だけの声からは費用の透明性は測れません。「見積もり以外の請求がなかった」「片付け費用を業者側で持ってくれた」といった記述がある声のほうが、判断材料になります。
 
-参考までに、当社に大阪市24区からいただくご相談で、手数料まわりの質問として毎月繰り返し出るものを挙げます。個別の事案が特定されない形にまとめています。
+参考までに、手数料まわりでよくある質問を挙げます（実際の相談記録ではなく、一般によくある質問をまとめたものです）。
 
 <strong>1.「査定額から、あとで引かれるものはありますか」</strong>
 
-いちばん多い質問です。当社は現況のまま買い取るため、査定額をお出しした後に残置物の処分費や解体費を追加で請求することはありません。ご自身で撤去されたい家財がある場合は、その分を差し引かずに残していただいて構いません。
+よくある質問の一つです。当社は現況のまま買い取るため、査定額をお出しした後に残置物の処分費や解体費を追加で請求することはありません。ご自身で撤去されたい家財がある場合は、その分を差し引かずに残していただいて構いません。
 
 <strong>2.「片付けをしていないので、その分安くなりますか」</strong>
 
@@ -441,7 +443,7 @@ faqs:
 
 <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06c755;color:#fff;padding:14px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 4px;">LINE「空き家のミカタ」に相談する（無料）</a>
 
-<a href="/contact" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 4px;">無料査定フォームで相談する</a>
+<a href="/contact/" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 4px;">無料査定フォームで相談する</a>
 
 空き家のミカタは、大阪市生野区に事務所を構える宅地建物取引業者です（大阪府知事(1)第65646号）。大阪市24区の空き家・長屋・再建築不可物件・共有持分を専門に扱っており、<strong>荷物が残ったまま・相続登記が未了・他の共有者と連絡が取れない</strong>という状態でも査定にお応えできます。当社が買主として直接買い取りますので、仲介手数料はいただきません。なお、登記の代理申請は司法書士へ、譲渡所得税・相続税の判断は税理士へ、権利関係の争いは弁護士へご確認ください。私どもがお手伝いできるのは、その不動産をいくらで、どういう順序で手放せるかという部分です。
 
@@ -449,20 +451,20 @@ faqs:
 
 ## 関連記事
 
-- <a href="/guide/brokerage-fee-guide">不動産売却で仲介手数料を払わなくていい方法とは？計算式と直接買取との差額を宅建業者が比較</a>
-- <a href="/guide/osaka-kaitori-vs-chukai">不動産売却は買取・仲介・放置どれが正解？4軸で徹底比較</a>
-- <a href="/guide/wakeari-bukken-type-kaitori-hikaku">訳あり物件5タイプ 買取価格・売却期間の比較表</a>
-- <a href="/guide/wakeari-bukken-kaitori-kanousei-5check">「私の物件、買取できる？」訳あり不動産の買取可否を判断する5つの条件チェックリスト</a>
-- <a href="/guide/akusha-gyosha-5-teguchi-mikiwake">訳あり不動産買取の悪質業者5つの手口｜騙されない見分け方と安全な相見積もり手順</a>
-- <a href="/guide/appraisal-difference">不動産の査定額はなぜ会社によって違う？高すぎる査定に注意</a>
-- <a href="/guide/souzoku-fudosan-genjou-watashi-kaitori">相続した家を現状渡しで売る方法｜片付け・修繕なしで買取できる理由</a>
-- <a href="/guide/movables-disposal-sell-as-is">相続した家に残る車・骨董品・家電はどうする？処分義務の有無と残置物のまま売る方法</a>
-- <a href="/guide/jikobukken-baikyaku-futan-hiyou">事故物件の売却費用は誰が払う？特殊清掃・原状回復の相場と負担者</a>
-- <a href="/guide/osaka-kaitai-hiyou-soba-2026">大阪市の解体費用の相場｜道路4m未満・重機不可の坪単価と自己負担額</a>
-- <a href="/guide/souzoku-touki-jibunde-hiyou">相続登記を自分でやる費用はいくら？司法書士との比較・評価額別シミュレーション</a>
-- <a href="/guide/osaka-24ku-wakeari-kakakutai-map">大阪市24区の訳あり物件買取相場マップ</a>
-- <a href="/guide/lp-wakeari-bukken-kaitori">大阪の訳あり物件 買取｜再建築不可・共有持分・相続アパート・事故物件</a>
-- <a href="/guide/akiya-no-mikata-erabareru-5-riyuu">「空き家のミカタ」が選ばれる5つの理由｜訳あり不動産の直接買取専門</a>
+- <a href="/guide/brokerage-fee-guide/">不動産売却で仲介手数料を払わなくていい方法とは？計算式と直接買取との差額を宅建業者が比較</a>
+- <a href="/guide/osaka-kaitori-vs-chukai/">不動産売却は買取・仲介・放置どれが正解？4軸で徹底比較</a>
+- <a href="/guide/wakeari-bukken-type-kaitori-hikaku/">訳あり物件5タイプ 買取価格・売却期間の比較表</a>
+- <a href="/guide/wakeari-bukken-kaitori-kanousei-5check/">「私の物件、買取できる？」訳あり不動産の買取可否を判断する5つの条件チェックリスト</a>
+- <a href="/guide/akusha-gyosha-5-teguchi-mikiwake/">訳あり不動産買取の悪質業者5つの手口｜騙されない見分け方と安全な相見積もり手順</a>
+- <a href="/guide/appraisal-difference/">不動産の査定額はなぜ会社によって違う？高すぎる査定に注意</a>
+- <a href="/guide/souzoku-fudosan-genjou-watashi-kaitori/">相続した家を現状渡しで売る方法｜片付け・修繕なしで買取できる理由</a>
+- <a href="/guide/movables-disposal-sell-as-is/">相続した家に残る車・骨董品・家電はどうする？処分義務の有無と残置物のまま売る方法</a>
+- <a href="/guide/jikobukken-baikyaku-futan-hiyou/">事故物件の売却費用は誰が払う？特殊清掃・原状回復の相場と負担者</a>
+- <a href="/guide/osaka-kaitai-hiyou-soba-2026/">大阪市の解体費用の相場｜道路4m未満・重機不可の坪単価と自己負担額</a>
+- <a href="/guide/souzoku-touki-jibunde-hiyou/">相続登記を自分でやる費用はいくら？司法書士との比較・評価額別シミュレーション</a>
+- <a href="/guide/osaka-24ku-wakeari-kakakutai-map/">大阪市24区の訳あり物件買取相場マップ</a>
+- <a href="/guide/osaka-city-yakuari-kaitori/">大阪の訳あり物件 買取｜再建築不可・共有持分・相続アパート・事故物件</a>
+- <a href="/guide/akiya-no-mikata-erabareru-5-riyuu/">「空き家のミカタ」が選ばれる5つの理由｜訳あり不動産の直接買取専門</a>
 
 ---
 

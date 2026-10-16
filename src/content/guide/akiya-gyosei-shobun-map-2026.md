@@ -119,7 +119,7 @@ cluster: "akiya-tax"
 
 ただし実際には、所有者が行方不明・無資力のケースも多く、自治体側が費用を全額回収できない「持ち出し」になるケースが少なくありません。これが各自治体が行政代執行に慎重になる理由の一つです。
 
-> 当社が買取査定を行った案件で、助言・指導の段階で相談に来られた方がいました。「市役所から通知が来て怖くなった」とのことでしたが、この段階での売却で行政代執行を未然に回避でき、費用負担もなく解決できました。行政処分が進むほど物件の価値が下がりやすく、早めの相談が結果的に有利です。
+> 助言・指導の段階で相談に来られるケースがよくあります。「市役所から通知が来て怖くなった」という場合でも、この段階で売却すれば行政代執行を未然に回避でき、費用負担なく解決できる可能性があります。行政処分が進むほど物件の価値が下がりやすく、早めの相談が結果的に有利です。
 
 ---
 
@@ -201,7 +201,7 @@ cluster: "akiya-tax"
 
 ![行政処分前に専門家へ相談するイメージ（書類を前に相談する様子）](/images/akiya-gyosei-shobun-map-2026-notice.jpg)
 
-内部リンク: 買取の流れについては[訳あり不動産の買取フロー完全ガイド](/guide/wakeare-bukken-kaitori-nagare)もご参照ください。特定空き家の判定基準については[特定空き家の判定チェックリスト（2026年版）](/guide/tokutei-akiya-hantei-checklist)で詳しく解説しています。
+内部リンク: 買取の流れについては[訳あり不動産の買取フロー完全ガイド](/guide/wakeare-bukken-kaitori-nagare/)もご参照ください。特定空き家の判定基準については[特定空き家の判定チェックリスト（2026年版）](/guide/tokutei-akiya-hantei-checklist/)で詳しく解説しています。
 
 ---
 
@@ -231,11 +231,11 @@ cluster: "akiya-tax"
 
 ## 関連するガイド記事
 
-- <a href="/guide/akiya-shobun-5-hikaku">空き家処分の5大選択肢を徹底比較【2026年版】費用・期間・手残り額</a>
-- <a href="/guide/kotei-shisan-zei-nousho-baikyaku-3taiken">【実録】固定資産税の通知書が届き、空き家売却を決意した3つの体験談【2026年5月】</a>
-- <a href="/guide/souzoku-jirei-09-shigaika-chosei-kaitori">【体験談・事例09】市街化調整区域の実家を相続。仲介3社に断られ2年間固定資産税を払い続けた末に、24日で現金化した全記録</a>
-- <a href="/guide/souzoku-apart-kanzen-guide">相続アパートを手放したい方へ｜売却の流れ・税金・失敗しない判断基準を宅建業者が完全解説【2026年最新】</a>
-- <a href="/guide/souzoku-fudousan-shobun-kanzen-guide">相続不動産の処分 完全ガイド2026｜法律・登記・比較表・失敗対策まで一気に解説</a>
+- <a href="/guide/akiya-shobun-5-hikaku/">空き家処分の5大選択肢を徹底比較【2026年版】費用・期間・手残り額</a>
+- <a href="/guide/kotei-shisan-zei-tsuchisho-checklist/">【参考例】固定資産税の通知書が届き、空き家売却を決意した3つのケース【2026年5月】</a>
+- <a href="/guide/souzoku-jirei-09-shigaika-chosei-kaitori/">【参考例・事例09】市街化調整区域の実家を相続。仲介3社に断られ2年間固定資産税を払い続けた末に、24日で現金化したケース</a>
+- <a href="/guide/souzoku-apart-kanzen-guide/">相続アパートを手放したい方へ｜売却の流れ・税金・失敗しない判断基準を宅建業者が完全解説【2026年最新】</a>
+- <a href="/guide/parent-death-house/">相続不動産の処分 完全ガイド2026｜法律・登記・比較表・失敗対策まで一気に解説</a>
 
 ## 空き家のことを一人で抱え込まないでください
 
@@ -247,8 +247,8 @@ cluster: "akiya-tax"
 <strong>LINEで気軽に相談</strong>（24時間受付）<br>
 <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06c755;color:white;padding:10px 24px;border-radius:4px;text-decoration:none;font-weight:bold;margin-top:8px;">LINE「空き家のミカタ」に相談する</a><br><br>
 <strong>メールでのお問い合わせ</strong><br>
-<a href="/contact">無料相談フォームはこちら</a>（48時間以内にご返信します）
+<a href="/contact/">無料相談フォームはこちら</a>（48時間以内にご返信します）
 </div>
 ---
 
-**このカテゴリの全ガイド一覧:** [→ 空き家の処分・活用 完全ガイド](/guide/vacant-house)
+**このカテゴリの中心の記事:** [→ 空き家の処分・活用 完全ガイド](/guide/akiya-shobun-5-hikaku/)

@@ -2,6 +2,7 @@
 title: "任意売却とは？住宅ローンが払えないときの売却方法と競売との違い"
 description: "住宅ローンの返済が難しくなったら任意売却という選択肢があります。競売との違い、手続きの流れ、残債の扱いを宅建業者がわかりやすく解説します。"
 publishDate: "2026-04-10"
+noindex: true
 updatedDate: "2026-09-07"
 cluster: "wakeari"
 author: "宅建業者"
@@ -34,7 +35,7 @@ howToSteps:
 
 > **シルバーウィーク（2026年9月19日〜23日）の帰省中にできること**
 > Q: シルバーウィークに実家へ帰るなら、住宅ローンが残る実家の任意売却についてこの機会に何をすればいいですか？
-> A: 帰省中に[「帰省したら実家が荒れていた」チェックリスト](/guide/obon-jikka-checklist-kaitori-handan)で建物の現況を記録し、集まった家族で[相続アパート・空き家の放置コスト診断【お盆版】](/guide/kisei-souzoku-apart-akiya-shindan)を見ながら、競売より先に任意売却を検討できないか話し合うのが最短です。
+> A: 帰省中に[「帰省したら実家が荒れていた」チェックリスト](/guide/obon-jikka-checklist-kaitori-handan/)で建物の現況を記録し、集まった家族で[相続アパート・空き家の放置コスト診断【お盆版】](/guide/kisei-souzoku-apart-akiya-shindan/)を見ながら、競売より先に任意売却を検討できないか話し合うのが最短です。
 
 > **Q: 住宅ローンが払えません。今すぐ何をすればいいですか？**
 > A: 結論から言うと、競売の通知が届く前に任意売却の相談を始めてください。任意売却は金融機関の同意を得たうえで市場価格に近い金額で売却でき、残った債務（残債）も分割返済の交渉が可能です。競売になると市場価格の50〜70%程度まで下がり、引越し時期も裁判所が決めるため、経済的にも精神的にも負担が大きくなります。
@@ -48,6 +49,8 @@ howToSteps:
 > *(合同会社アルシェ・宅建業免許 大阪府知事(1)第65646号)*
 
 <strong>住宅ローンが払えなくなっても、競売を回避して自分の意思で家を売る方法があります。</strong>それが「任意売却」です。
+
+このテーマの全体像は[大阪で任意売却できるのはいつまでか](/guide/osaka-nini-baikyaku-kyosai-calendar/)にまとめています。
 
 任意売却は、金融機関（債権者）の同意を得たうえで、通常の不動産売買と同じように市場で物件を売却する方法です。競売と比べて高い価格で売れる傾向があり、売却後の残債も分割返済の交渉が可能です。
 
@@ -181,11 +184,10 @@ howToSteps:
 
 ## 関連するガイド記事
 
-- <a href="/guide/kaitori-jirei-10sen">訳あり不動産の買取実績10選｜相続・再建築不可・事故物件・共有持分・空き家の解決事例集</a>
-- <a href="/guide/kaitori-jirei">訳あり不動産の買取事例5選｜相続アパート・再建築不可・事故物件の解決ストーリー</a>
-- <a href="/guide/okyakusama-no-koe-3jirei">「空き家のミカタに相談してよかった」訳あり物件を手放した3名のリアルな声</a>
-- <a href="/guide/kyouyuu-mochibun-hub">共有持分 完全ハブ｜売却・買取・トラブル解決・相場まで全ガイドまとめ【2026年版】</a>
-- <a href="/guide/saikenchifu-hub">再建築不可物件 完全ハブ｜売却・買取・価格相場・事例まで全ガイドまとめ【2026年版】</a>
+- <a href="/guide/osaka-city-yakuari-kaitori/">大阪市の訳あり物件の買取</a>
+- <a href="/guide/okyakusama-no-koe-3jirei/">訳あり物件を手放した方の声（参考例）｜相続空き家・再建築不可・相続アパート3選</a>
+- <a href="/guide/kyouyuu-mochibun-kaitori/">共有持分の買取・売却方法</a>
+- <a href="/guide/non-rebuildable-property-sale/">再建築不可物件の売却方法</a>
 
 ## まずはお気軽にご相談ください
 
@@ -195,7 +197,7 @@ howToSteps:
 
 <strong>[LINEで無料相談する](https://line.arshe1719.workers.dev/auth/line?ref=hp)</strong>
 
-<strong>[お問い合わせフォームはこちら](/contact)</strong>
+<strong>[お問い合わせフォームはこちら](/contact/)</strong>
 
 相談無料・秘密厳守・大阪・近畿対応
 

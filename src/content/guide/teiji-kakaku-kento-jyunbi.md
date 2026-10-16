@@ -40,13 +40,13 @@ faqs:
 
 <strong>売買の代金が決まるのは、契約を結んだときです。</strong>査定額や提示額は、その手前の段階の数字です。受け取った金額がどの段階のものか、はっきり書かれていない場合は、まずそこを聞いてください。
 
-机上査定の段階で何がわかり、何が仮の前提になるかは<a href="/guide/kijou-satei-souzoku-fudosan-soudan">机上査定とは？空き家・訳あり物件を現地確認前に相談する方法</a>にまとめています。
+机上査定の段階で何がわかり、何が仮の前提になるかは<a href="/guide/kijou-satei-souzoku-fudosan-soudan/">机上査定とは？空き家・訳あり物件を現地確認前に相談する方法</a>にまとめています。
 
 ### 仲介と直接買取で、提示額の意味が違います
 
 不動産会社に<strong>売却の仲介</strong>を頼む場合、会社が示すのは「この価格なら売れそう」という見込みです。宅地建物取引業法では、仲介の契約をした会社が売り出す価格について意見を述べることがあります。この場合、<strong>その根拠を明らかにしなければならない</strong>と定められています（第34条の2第2項）。
 
-一方、<strong>会社が買主として直接買い取る</strong>場合の提示額は、その会社自身が買う金額の提案です。仲介のこの条文の場面とは異なりますが、どちらの場合でも「何を前提にこの金額なのか」を聞くことはできます。仲介と買取の違いは<a href="/guide/osaka-kaitori-vs-chukai">不動産売却は買取・仲介・放置どれが正解？</a>をご覧ください。
+一方、<strong>会社が買主として直接買い取る</strong>場合の提示額は、その会社自身が買う金額の提案です。仲介のこの条文の場面とは異なりますが、どちらの場合でも「何を前提にこの金額なのか」を聞くことはできます。仲介と買取の違いは<a href="/guide/osaka-kaitori-vs-chukai/">不動産売却は買取・仲介・放置どれが正解？</a>をご覧ください。
 
 ---
 
@@ -73,7 +73,7 @@ faqs:
 
 複数の会社から提示を受けた場合、金額の数字だけで比べると判断を誤りやすくなります。上の表の「荷物の扱い」「費用の負担」「引渡し後の不具合の扱い」「引渡しの時期」をそろえて比べてください。
 
-買取価格は、仲介の売り出し価格より低くなることがあります。その理由は<a href="/guide/kaitori-kakaku-naze-yasui-genka">買取価格はなぜ仲介より安いのか</a>で説明しています。買う側が負担する費用の考え方も、同じ記事で確認できます。
+買取価格は、仲介の売り出し価格より低くなることがあります。その理由は<a href="/guide/kaitori-kakaku-naze-yasui-genka/">買取価格はなぜ仲介より安いのか</a>で説明しています。買う側が負担する費用の考え方も、同じ記事で確認できます。
 
 ---
 
@@ -100,7 +100,7 @@ faqs:
 
 売買の契約で「売主は引渡し後の不具合の責任を負わない」という特約を結ぶことがあります。この場合でも民法では、<strong>売主が知りながら告げなかった事実</strong>については責任を免れることができないと定められています（第572条）。
 
-建物の不具合や、建物の中で過去に起きた出来事など、知っていて伝えていないことがあれば、検討中のうちに伝えておくほうが、あとで困りにくくなります。言いにくい内容の場合は、まず「伝えておきたいことがある」とだけ伝えていただいても構いません。建物内の出来事をどこまで伝えるかは<a href="/guide/shinriteki-kashi-kokuchi-gimu">心理的瑕疵とは？事故物件の告知義務の範囲</a>をご覧ください。
+建物の不具合や、建物の中で過去に起きた出来事など、知っていて伝えていないことがあれば、検討中のうちに伝えておくほうが、あとで困りにくくなります。言いにくい内容の場合は、まず「伝えておきたいことがある」とだけ伝えていただいても構いません。建物内の出来事をどこまで伝えるかは<a href="/guide/shinriteki-kashi-kokuchi-gimu/">心理的瑕疵とは？事故物件の告知義務の範囲</a>をご覧ください。
 
 ---
 
@@ -114,7 +114,7 @@ faqs:
 - <strong>ご自身の期限</strong>：売却を考える時期に期限がある場合、その理由（管理の負担、費用の支払い、話し合いの予定など）
 - <strong>同意が必要な人</strong>：名義が共有になっている、相続の話し合いがまだ終わっていないなど、ご自身だけで決められない場合は、誰の同意が必要か
 
-ご家族や他の相続人に相談する場合は、この記事の「金額の前提」の表で確認した答えを一緒に見せると、金額の数字だけが独り歩きしにくくなります。相続の手続きがまだ途中でも相談できるかどうかは<a href="/guide/soudan-shiteii-joutai-checklist">相続した家、まだ相談していい？7つの状態別チェック</a>で整理しています。
+ご家族や他の相続人に相談する場合は、この記事の「金額の前提」の表で確認した答えを一緒に見せると、金額の数字だけが独り歩きしにくくなります。相続の手続きがまだ途中でも相談できるかどうかは<a href="/guide/soudan-shiteii-joutai-checklist/">相続した家、まだ相談していい？7つの状態別チェック</a>で整理しています。
 
 ---
 
@@ -128,7 +128,7 @@ faqs:
 - <strong>引渡し後の不具合の扱い</strong>：売主がどこまで責任を負うか
 - <strong>手付金の扱い</strong>：民法では、買主が手付を交付した場合、相手方が契約の履行に着手するまでは契約を解除できると定められています。解除の方法は、買主は手付を放棄し、売主は手付の倍額を現実に提供することです（第557条）。契約書で別の定めがあるかも確認してください
 
-契約から決済までは、<a href="/guide/wakeari-bukken-kaitori-tetsuzuki">訳あり物件の買取手続き｜必要書類・告知書の書き方</a>へ。必要書類も、同じ記事で確認できます。税金は税理士、登記の手続きは司法書士にご確認ください。
+契約から決済までは、<a href="/guide/wakeari-bukken-kaitori-tetsuzuki/">訳あり物件の買取手続き｜必要書類・告知書の書き方</a>へ。必要書類も、同じ記事で確認できます。税金は税理士、登記の手続きは司法書士にご確認ください。
 
 ---
 
@@ -165,7 +165,7 @@ faqs:
 
 <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06C755;color:#fff;padding:14px 32px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 8px 8px 0;">LINE「空き家のミカタ」に相談する（無料）</a>
 
-<a href="/contact" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 32px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 0;">無料査定フォームで相談する</a>
+<a href="/contact/" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 32px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 0;">無料査定フォームで相談する</a>
 
 空き家のミカタは、大阪市生野区に事務所を置く宅地建物取引業者（大阪府知事(1)第65646号）です。物件の所在地が大阪・兵庫・京都・奈良・滋賀・和歌山の不動産について、当社が買主として直接買取のご相談をお受けしています。所有者の方のお住まいは問いません。相談・査定は無料です。直接買取の可否・条件は、所在地と物件の状況を確認して判断します。
 
@@ -173,13 +173,13 @@ faqs:
 
 ## 関連記事
 
-- <a href="/guide/kijou-satei-souzoku-fudosan-soudan">机上査定とは？空き家・訳あり物件を現地確認前に相談する方法</a>
-- <a href="/guide/kaitori-satei-konkyo-gendai-checklist">訳あり物件の買取価格はどう決まる？査定の根拠と現地調査の8チェックポイント</a>
-- <a href="/guide/appraisal-difference">不動産の査定額はなぜ会社によって違う？高すぎる査定に注意</a>
-- <a href="/guide/kaitori-kakaku-naze-yasui-genka">買取価格はなぜ仲介より安いのか</a>
-- <a href="/guide/osaka-kaitori-vs-chukai">不動産売却は買取・仲介・放置どれが正解？</a>
-- <a href="/guide/kagi-genchi-tachiai-soudan-jyunbi">鍵がない・立会いできない場合の相談準備｜相続不動産</a>
-- <a href="/guide/wakeari-bukken-kaitori-tetsuzuki">訳あり物件の買取手続き｜必要書類・告知書の書き方</a>
+- <a href="/guide/kijou-satei-souzoku-fudosan-soudan/">机上査定とは？空き家・訳あり物件を現地確認前に相談する方法</a>
+- <a href="/guide/kaitori-satei-konkyo-gendai-checklist/">訳あり物件の買取価格はどう決まる？査定の根拠と現地調査の8チェックポイント</a>
+- <a href="/guide/appraisal-difference/">不動産の査定額はなぜ会社によって違う？高すぎる査定に注意</a>
+- <a href="/guide/kaitori-kakaku-naze-yasui-genka/">買取価格はなぜ仲介より安いのか</a>
+- <a href="/guide/osaka-kaitori-vs-chukai/">不動産売却は買取・仲介・放置どれが正解？</a>
+- <a href="/guide/kagi-genchi-tachiai-soudan-jyunbi/">鍵がない・立会いできない場合の相談準備｜相続不動産</a>
+- <a href="/guide/wakeari-bukken-kaitori-tetsuzuki/">訳あり物件の買取手続き｜必要書類・告知書の書き方</a>
 
 ---
 

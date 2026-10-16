@@ -32,9 +32,9 @@ faqs:
 
 相続は、多くの方にとって人生で数回しか経験しないことです。何が正解かわからないまま、目の前にある作業から手をつけてしまう。それ自体は自然なことだと思います。
 
-ただ、不動産に関しては<strong>着手する順番によって、かかる費用と選べる出口が変わってしまいます。</strong>この記事では、実際にご相談をお受けするなかで繰り返し出会ってきた5つの落とし穴を、法務省・国税庁・大阪市の一次情報とあわせて整理しました。
+ただ、不動産に関しては<strong>着手する順番によって、かかる費用と選べる出口が変わってしまいます。</strong>この記事では、相続不動産でよくある5つの落とし穴を、法務省・国税庁・大阪市の一次情報とあわせて整理しました。
 
-相続した家について何から始めればいいかがまだ固まっていない方は、[相続した家をどうしたらいい？判断の入口まとめ](/guide/souzoku-ie-doushitara-hub)もあわせてご覧ください。
+相続した家について何から始めればいいかがまだ固まっていない方は、[相続した家をどうしたらいい？判断の入口まとめ](/guide/souzoku-ie-doushitara-hub/)もあわせてご覧ください。
 
 ## やってはいけない①｜相続登記を「そのうち」にする
 
@@ -66,7 +66,7 @@ faqs:
 
 期限内に相続登記の申請をすることが難しい場合に、簡易に申請義務を履行できるようにするものです。法定相続人の範囲や法定相続分の割合を確定させる必要がなく、登録免許税がかからないという特徴があります。ただし<strong>遺産分割成立後の追加的義務は、相続人申告登記では果たせません</strong>ので、話がまとまったら改めて登記が必要です。
 
-登記にかかる費用の目安は[相続登記を自分でやる場合の費用](/guide/souzoku-touki-jibunde-hiyou)に、過料の運用の実際は[相続登記の義務化と3年ルール](/guide/souzoku-touki-gimuka-2years)にまとめています。
+登記にかかる費用の目安は[相続登記を自分でやる場合の費用](/guide/souzoku-touki-jibunde-hiyou/)に、過料の運用の実際は[相続登記の義務化と3年ルール](/guide/souzoku-touki-gimuka-2years/)にまとめています。
 
 ## やってはいけない②｜とりあえず全員の共有名義にする
 
@@ -90,7 +90,7 @@ faqs:
 
 <strong>共有名義は「決断の先送り」に見えて、実際には「将来の選択肢を減らす決断」です。</strong>3年以内にまとまらないのであれば、共有登記ではなく相続人申告登記で義務だけを果たし、話し合いは続けるほうが後が楽になります。
 
-すでに共有になってしまっている場合の対処は[共有持分の売却ガイド](/guide/kyouyuu-mochibun-hub)に、話し合いが進まない場合の整理は[相続不動産で家族ともめたときの解決手順](/guide/souzoku-fudosan-kazoku-trouble-kaiketsu)にまとめています。
+すでに共有になってしまっている場合の対処は[共有持分の売却ガイド](/guide/kyouyuu-mochibun-kaitori/)に、話し合いが進まない場合の整理は[相続不動産で家族ともめたときの解決手順](/guide/souzoku-fudosan-kazoku-trouble-kaiketsu/)にまとめています。
 
 ## やってはいけない③｜売り先を決めないまま先に解体する
 
@@ -117,9 +117,9 @@ faqs:
 
 解体そのものが悪いのではありません。<strong>順番の問題です。</strong>「解体した場合いくらで売れるか」「現況のままだといくらか」の両方を先に確認してから決めれば、この失敗は避けられます。買取であれば、建物が建ったままの現況で売却できます。
 
-大阪市内の解体費の相場は[大阪市の解体費用相場（構造別・区別）](/guide/osaka-kaitai-hiyou-soba-2026)に、現況のまま売る方法は[相続不動産を現況のまま引き渡す買取](/guide/souzoku-fudosan-genjou-watashi-kaitori)にまとめています。
+大阪市内の解体費の相場は[大阪市の解体費用相場（構造別・区別）](/guide/osaka-kaitai-hiyou-soba-2026/)に、現況のまま売る方法は[相続不動産を現況のまま引き渡す買取](/guide/souzoku-fudosan-genjou-watashi-kaitori/)にまとめています。
 
-なお、管理が行き届かず特定空家等に指定された場合にも住宅用地特例が外れる仕組みがあります。放置による税負担の増え方は[空き家の固定資産税が6倍になる仕組み](/guide/vacancy-tax-6times)でご確認ください。
+なお、管理が行き届かず特定空家等に指定された場合にも住宅用地特例が外れる仕組みがあります。放置による税負担の増え方は[空き家の固定資産税が6倍になる仕組み](/guide/akiya-koteishisanzei-6bai-hikaku/)でご確認ください。
 
 ## やってはいけない④｜売る前にリフォーム・家財処分にお金をかける
 
@@ -137,7 +137,7 @@ faqs:
 
 思い出の品の整理は、費用対効果とは別の話です。ご家族が納得のいくまで時間をかけていただいて構いません。分けて考えていただくのが良いと思います。
 
-家財整理と売却の関係は[遺品整理と家財の処分](/guide/souzoku-ihin-seiri-kazai-baikyaku)に、リフォーム費用が捻出できない場合の選択肢は[実家のリフォーム費用が払えないときの3つの道](/guide/jikka-reform-hiyou-haraenai)にまとめています。
+家財整理と売却の関係は[遺品整理と家財の処分](/guide/souzoku-ihin-seiri-kazai-baikyaku/)に、リフォーム費用が捻出できない場合の選択肢は[実家のリフォーム費用が払えないときの3つの道](/guide/jikka-reform-hiyou-haraenai/)にまとめています。
 
 ## やってはいけない⑤｜3年の期限を意識せずに放置する
 
@@ -163,7 +163,7 @@ faqs:
 
 <strong>「区分所有建物登記がされている建物でないこと」は見落とされやすい要件です。</strong>分譲マンションを相続された方がこの控除を前提に計画を立てていたケースに出会ったことがあります。マンションの場合は使えませんので、別の方法で検討する必要があります。
 
-制度の詳細は[相続した空き家の3,000万円特別控除](/guide/souzoku-akiya-3000man-tokubetsu-kojo)にまとめています。
+制度の詳細は[相続した空き家の3,000万円特別控除](/guide/souzoku-akiya-3000man-tokubetsu-kojo/)にまとめています。
 
 ### 期限2：取得費加算は「相続税の申告期限の翌日から3年」
 
@@ -175,7 +175,7 @@ faqs:
 
 相続税の申告期限は原則として相続開始を知った日の翌日から10か月ですので、<strong>実質的には相続開始から3年10か月が目安になります。</strong>取得費が増えれば譲渡所得が減り、その分だけ税負担が軽くなります。
 
-計算の考え方は[相続不動産の取得費加算の特例](/guide/souzoku-fudosan-shutoku-hi-kazan)にまとめています。<strong>いずれの特例も適用の可否はご事情によって変わりますので、実際の判断は税理士または所轄の税務署へご確認ください。</strong>
+計算の考え方は[相続不動産の取得費加算の特例](/guide/souzoku-fudosan-shutoku-hi-kazan/)にまとめています。<strong>いずれの特例も適用の可否はご事情によって変わりますので、実際の判断は税理士または所轄の税務署へご確認ください。</strong>
 
 ## 5つを避けるための判断の順番
 
@@ -213,7 +213,7 @@ faqs:
 
 <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06c755;color:#fff;padding:14px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 4px;">LINE「空き家のミカタ」に相談する（無料）</a>
 
-<a href="/contact" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 4px;">無料査定フォームで相談する</a>
+<a href="/contact/" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 4px;">無料査定フォームで相談する</a>
 
 大阪市24区の訳あり不動産を専門に扱っており、<strong>相続登記が未了・きょうだいで共有・家財が残ったまま・再建築不可</strong>といった状態でも査定にお応えできます。遠方にお住まいで現地を見に行けない方のご相談も承ります。秘密厳守で対応いたします。なお、相続人間の紛争や登記手続きは弁護士・司法書士へ、税額と特例の適用可否は税理士または所轄の税務署へ、補助制度は各自治体の窓口へご確認ください。
 
@@ -221,15 +221,15 @@ faqs:
 
 ## 関連記事
 
-- <a href="/guide/souzoku-ie-doushitara-hub">相続した家をどうしたらいい？判断の入口まとめ</a>
-- <a href="/guide/souzoku-touki-gimuka-2years">相続登記の義務化｜3年ルールと過料の実際</a>
-- <a href="/guide/souzoku-touki-jibunde-hiyou">相続登記を自分でやる場合の費用</a>
-- <a href="/guide/kyouyuu-mochibun-hub">共有持分の売却ガイド</a>
-- <a href="/guide/souzoku-akiya-3000man-tokubetsu-kojo">相続した空き家の3,000万円特別控除</a>
-- <a href="/guide/souzoku-fudosan-shutoku-hi-kazan">相続不動産の取得費加算の特例</a>
-- <a href="/guide/vacancy-tax-6times">空き家の固定資産税が6倍になる仕組み</a>
-- <a href="/guide/osaka-kaitai-hiyou-soba-2026">大阪市の解体費用相場｜構造別・区別の目安</a>
-- <a href="/guide/souzoku-fudosan-genjou-watashi-kaitori">相続不動産を現況のまま引き渡す買取</a>
-- <a href="/guide/souzoku-ihin-seiri-kazai-baikyaku">遺品整理と家財の処分</a>
-- <a href="/guide/jikka-reform-hiyou-haraenai">実家のリフォーム費用が払えないときの3つの道</a>
-- <a href="/guide/souzoku-fudosan-kazoku-trouble-kaiketsu">相続不動産で家族ともめたときの解決手順</a>
+- <a href="/guide/souzoku-ie-doushitara-hub/">相続した家をどうしたらいい？判断の入口まとめ</a>
+- <a href="/guide/souzoku-touki-gimuka-2years/">相続登記の義務化｜3年ルールと過料の実際</a>
+- <a href="/guide/souzoku-touki-jibunde-hiyou/">相続登記を自分でやる場合の費用</a>
+- <a href="/guide/kyouyuu-mochibun-kaitori/">共有持分の売却ガイド</a>
+- <a href="/guide/souzoku-akiya-3000man-tokubetsu-kojo/">相続した空き家の3,000万円特別控除</a>
+- <a href="/guide/souzoku-fudosan-shutoku-hi-kazan/">相続不動産の取得費加算の特例</a>
+- <a href="/guide/akiya-koteishisanzei-6bai-hikaku/">空き家の固定資産税が6倍になる仕組み</a>
+- <a href="/guide/osaka-kaitai-hiyou-soba-2026/">大阪市の解体費用相場｜構造別・区別の目安</a>
+- <a href="/guide/souzoku-fudosan-genjou-watashi-kaitori/">相続不動産を現況のまま引き渡す買取</a>
+- <a href="/guide/souzoku-ihin-seiri-kazai-baikyaku/">遺品整理と家財の処分</a>
+- <a href="/guide/jikka-reform-hiyou-haraenai/">実家のリフォーム費用が払えないときの3つの道</a>
+- <a href="/guide/souzoku-fudosan-kazoku-trouble-kaiketsu/">相続不動産で家族ともめたときの解決手順</a>

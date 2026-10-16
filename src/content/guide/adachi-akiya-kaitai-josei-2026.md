@@ -147,7 +147,7 @@ cluster: "akiya-tax"
 
 <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06c755;color:#fff;padding:14px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 4px;">LINE「空き家のミカタ」に相談する（無料）</a>
 
-<a href="/contact" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 4px;">無料査定フォームで相談する</a>
+<a href="/contact/" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 4px;">無料査定フォームで相談する</a>
 
 訳あり物件・空き家・相続物件を専門に扱っており、補助金の状況に関係なく<strong>現況のまま・片付け不要で買取査定</strong>ができます。全国対応で、遠方にお住まいの相続人の方からのご相談も承っています。
 
@@ -155,8 +155,8 @@ cluster: "akiya-tax"
 
 ## 関連記事
 
-- <a href="/guide/akiya-kaitai-hiyou-haraenai">空き家の解体費用が払えないときの選択肢と資金の作り方</a>
-- <a href="/guide/furui-akiya-kekkan-kaitori">雨漏り・傾き・老朽化した家でも売れる？現況買取の仕組みと解決策</a>
-- <a href="/guide/akiya-kotei-shisan-zei-haraenai">空き家の固定資産税が払えないときの4つの選択肢</a>
-- <a href="/guide/akiya-koteishisanzei-6bai-hikaku">空き家を放置すると固定資産税が最大6倍に？特定空家のリスクを解説</a>
-- <a href="/guide/akiya-shobun-5-hikaku">空き家処分の5大選択肢を徹底比較【2026年版】費用・期間・手残り額</a>
+- <a href="/guide/akiya-kaitai-hiyou-haraenai/">空き家の解体費用が払えないときの選択肢と資金の作り方</a>
+- <a href="/guide/furui-akiya-kekkan-kaitori/">雨漏り・傾き・老朽化した家でも売れる？現況買取の仕組みと解決策</a>
+- <a href="/guide/akiya-kotei-shisan-zei-haraenai/">空き家の固定資産税が払えないときの4つの選択肢</a>
+- <a href="/guide/akiya-koteishisanzei-6bai-hikaku/">空き家を放置すると固定資産税が最大6倍に？特定空家のリスクを解説</a>
+- <a href="/guide/akiya-shobun-5-hikaku/">空き家処分の5大選択肢を徹底比較【2026年版】費用・期間・手残り額</a>

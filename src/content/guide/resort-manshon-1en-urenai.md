@@ -150,7 +150,7 @@ howToSteps:
 
 相続で取得した物件であれば、相続の開始を知った時から3か月以内は相続放棄という選択肢があります（民法915条）。ただし放棄は財産全体が対象になるため、預貯金など他のプラスの財産も一緒に手放すことになります。
 
-また2023年4月1日施行の改正民法940条により、放棄の時に財産を現に占有していた場合は、引き渡すまで保存義務が残ります。放棄した翌日から完全に無関係になるわけではない点はご承知おきください。期限を過ぎている場合の考え方は<a href="/guide/souzoku-houki-kigengire">相続放棄の3か月を過ぎてしまった場合の対処</a>にまとめています。
+また2023年4月1日施行の改正民法940条により、放棄の時に財産を現に占有していた場合は、引き渡すまで保存義務が残ります。放棄した翌日から完全に無関係になるわけではない点はご承知おきください。期限を過ぎている場合の考え方は<a href="/guide/souzoku-houki-kigengire/">相続放棄の3か月を過ぎてしまった場合の対処</a>にまとめています。
 
 ### 出口4：管理組合単位で建物と敷地ごと売る（2026年4月施行の新制度）
 
@@ -164,7 +164,7 @@ howToSteps:
 
 ### 出口5：使えない制度を早めに切り分ける
 
-相続した不要な不動産の処分先として<a href="/guide/souzoku-tochi-kokkoku-kizoku">相続土地国庫帰属制度</a>が案内されることがあります。しかし<strong>リゾートマンションでは使えません</strong>。
+相続した不要な不動産の処分先として<a href="/guide/souzoku-tochi-kokkoku-kizoku/">相続土地国庫帰属制度</a>が案内されることがあります。しかし<strong>リゾートマンションでは使えません</strong>。
 
 法務省が公表している要件では、<strong>建物の存する土地</strong>は申請そのものができない土地とされています。マンションの敷地は建物が建っている土地であり、区分所有者が持つのは土地そのものではなく敷地利用権です。制度の対象外だと早めに切り分けておくほうが、時間を無駄にせずに済みます。
 
@@ -200,7 +200,7 @@ howToSteps:
 
 ### Q. 管理費を払うのをやめたらどうなりますか？
 
-滞納が続くと、管理組合から催告を受けます。区分所有法第59条により、共同の利益に反する行為があるときは、管理組合が競売を請求できる仕組みがあります。競売になれば市場価格をさらに下回る結果になりやすく、その間の滞納分も残ります。支払いを止める判断は、事態を悪化させる方向に働きます。<a href="/guide/kanrihi-tainou-mansion-kaitori">管理費滞納がある物件の買取</a>もあわせてご確認ください。
+滞納が続くと、管理組合から催告を受けます。区分所有法第59条により、共同の利益に反する行為があるときは、管理組合が競売を請求できる仕組みがあります。競売になれば市場価格をさらに下回る結果になりやすく、その間の滞納分も残ります。支払いを止める判断は、事態を悪化させる方向に働きます。<a href="/guide/kanrihi-tainou-mansion-kaitori/">管理費滞納がある物件の買取</a>もあわせてご確認ください。
 
 ### Q. 名義が亡くなった親のままです。この状態でも動けますか？
 
@@ -208,7 +208,7 @@ howToSteps:
 
 ### Q. 遠方に住んでいて現地に行けません。
 
-現地に行かずに進められます。管理費の請求書、固定資産税の納税通知書、管理規約、部屋の写真があれば、状況の確認と判断の整理はできます。実際に、遠方にお住まいの相続人の方からのご相談を数多くお受けしています。
+現地に行かずに進められます。管理費の請求書、固定資産税の納税通知書、管理規約、部屋の写真があれば、状況の確認と判断の整理はできます。遠方にお住まいの相続人の方からのご相談もお受けしています。
 
 ### Q. 兄弟で共有しています。全員の同意がないと動けませんか？
 
@@ -236,7 +236,7 @@ howToSteps:
 
 <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06c755;color:#fff;padding:14px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 4px;">LINE「空き家のミカタ」に相談する（無料）</a>
 
-<a href="/contact" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 4px;">無料査定フォームで相談する</a>
+<a href="/contact/" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 4px;">無料査定フォームで相談する</a>
 
 大阪市24区の物件は<strong>現況のまま・残置物そのまま・管理費の滞納があるまま</strong>で査定にお応えできます。リゾート地の物件についても、対応の可否と現実的な出口をその場でお伝えします。遠方にお住まいの方からのご相談も承っています。
 
@@ -244,12 +244,12 @@ howToSteps:
 
 ## 関連記事
 
-- <a href="/guide/resort-mansion-urenai-kaitori">リゾートマンションが売れない・手放したい人へ｜3つの出口と買取相場</a>
-- <a href="/guide/inherited-resort-property-disposal">リゾートマンションを手放したい｜管理費滞納・競売リスクから管理組合対応まで</a>
-- <a href="/guide/ski-resort-mansion-souzoku-hoki">スキー場マンションを相続したら相続放棄すべきか？管理費破綻事例3件</a>
-- <a href="/guide/kanrihi-tainou-mansion-kaitori">管理費を滞納したマンションの買取｜滞納額の精算と競売までの流れ</a>
-- <a href="/guide/resort-mansion-souzoku-baikyaku">リゾートマンションが売れない理由と4つの解決策</a>
-- <a href="/guide/souzoku-tochi-kokkoku-kizoku">相続土地国庫帰属制度は使えるのか｜要件・費用・却下されるケース</a>
+- <a href="/guide/resort-mansion-urenai-kaitori/">リゾートマンションが売れない・手放したい人へ｜3つの出口と買取相場</a>
+- <a href="/guide/inherited-resort-property-disposal/">リゾートマンションを手放したい｜管理費滞納・競売リスクから管理組合対応まで</a>
+- <a href="/guide/ski-resort-mansion-souzoku-hoki/">スキー場マンションを相続したら相続放棄すべきか？管理費破綻事例3件</a>
+- <a href="/guide/kanrihi-tainou-mansion-kaitori/">管理費を滞納したマンションの買取｜滞納額の精算と競売までの流れ</a>
+- <a href="/guide/resort-mansion-souzoku-baikyaku/">リゾートマンションが売れない理由と4つの解決策</a>
+- <a href="/guide/souzoku-tochi-kokkoku-kizoku/">相続土地国庫帰属制度は使えるのか｜要件・費用・却下されるケース</a>
 
 ---
 

@@ -2,6 +2,7 @@
 title: "相続登記義務化の完全対応ガイド【2026年版】5問セルフチェック・期限切れ後3つの対処法・出口戦略4択比較"
 description: "相続登記義務化の「自分は対象か？」を5問でチェック。罰則・適用条件・期限切れ後の相続人申告登記など3つの対処法を解説。登記完了後の保有・売却・賃貸・解体の出口戦略4択比較と、登記→売却を一括で進める場合のスケジュール・費用も宅建業者が解説します。"
 publishDate: "2026-05-05"
+noindex: true
 cluster: "inheritance"
 author: "宅建業者"
 heroImage: "/images/souzoku-touki-kanzen-guide-hero.jpg"
@@ -28,6 +29,8 @@ faqs:
 > - **5月〜6月は行動のタイミング**：固定資産税の通知書が届く時期。今の税負担を確認して動き出すのに最適
 
 「相続登記をしなければいけないのはわかっているけど、自分が対象かどうかわからない」「期限を過ぎてしまっているかもしれない」「どうすれば一番スムーズに解決できるのか」——そんな疑問に、このガイドではまとめてお答えします。
+
+このテーマの全体像は[相続登記を放置した実家の売却](/guide/inheritance-registry-neglect-sale-3options/)にまとめています。
 
 5問のセルフチェックで「自分は対象か」を確認し、期限を過ぎた場合の現実的な対処法、そして<strong>登記完了後の出口戦略（保有・売却・賃貸・解体）の4択比較</strong>まで、ステップごとに解説します。
 
@@ -245,11 +248,10 @@ faqs:
 
 ## 関連するガイド記事
 
-- <a href="/guide/souzoku-fudousan-shobun-kanzen-guide">相続不動産の処分 完全ガイド2026｜法律・登記・比較表・失敗対策まで一気に解説</a>
-- <a href="/guide/souzoku-hub">相続不動産 完全ハブ｜処分・売却・登記・固定資産税・事例まで全ガイドをまとめて確認【2026年版】</a>
-- <a href="/guide/souzoku-apart-kanzen-guide">相続アパートを手放したい方へ｜売却の流れ・税金・失敗しない判断基準を宅建業者が完全解説【2026年最新】</a>
-- <a href="/guide/akiya-shobun-5-hikaku">空き家処分の5大選択肢を徹底比較【2026年版】費用・期間・手残り額</a>
-- <a href="/guide/akiya-souzoku-urenai">相続した空き家が売れない？3つの原因と4つの出口戦略｜再建築不可・未登記・共有名義も最短14日で現金化【2026年版】</a>
+- <a href="/guide/parent-death-house/">相続不動産の処分 完全ガイド2026｜法律・登記・比較表・失敗対策まで一気に解説</a>
+- <a href="/guide/souzoku-apart-kanzen-guide/">相続アパートを手放したい方へ｜売却の流れ・税金・失敗しない判断基準を宅建業者が完全解説【2026年最新】</a>
+- <a href="/guide/akiya-shobun-5-hikaku/">空き家処分の5大選択肢を徹底比較【2026年版】費用・期間・手残り額</a>
+- <a href="/guide/akiya-souzoku-urenai/">相続した空き家が売れない？3つの原因と4つの出口戦略｜再建築不可・未登記・共有名義も最短14日で現金化【2026年版】</a>
 
 ## まとめ：2027年3月31日までに動くべきこと
 
@@ -274,5 +276,5 @@ faqs:
 LINEで写真を送るだけで、最短即日に概算査定をお伝えします。<br /><br />
 <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06C755;color:#fff;padding:0.75rem 2rem;border-radius:4px;text-decoration:none;font-weight:bold;">LINE「空き家のミカタ」に無料相談</a><br /><br />
 またはお問い合わせフォームからもどうぞ。<br />
-<a href="/contact">→ お問い合わせフォームはこちら</a>
+<a href="/contact/">→ お問い合わせフォームはこちら</a>
 </div>

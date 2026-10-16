@@ -6,7 +6,7 @@ import Breadcrumb from '../../components/Breadcrumb.astro';
 
 const breadcrumbs = [
   { name: 'ホーム', url: '/' },
-  { name: '売却ガイド', url: '/guide' },
+  { name: '売却ガイド', url: '/guide/' },
 ];
 
 const guides = await getCollection('guide', ({ data }) => !data.noindex);
@@ -55,7 +55,7 @@ const sortedGuides = guides.sort((a, b) =>
       <div class="space-y-6">
         {sortedGuides.map((guide) => (
           <a
-            href={`/guide/${guide.id}`}
+            href={`/guide/${guide.id}/`}
             class="block rounded-xl border border-border bg-white p-6 shadow-sm transition-all hover:border-accent hover:shadow-md"
           >
             <h2 class="mb-2 text-lg font-bold text-primary md:text-xl">

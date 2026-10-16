@@ -266,6 +266,6 @@ A: はい、できます。オーナーチェンジとは、賃貸借契約を�
 
 <div style="text-align:center;margin:2rem 0;">
 
-[お問い合わせフォームで相談する →](/contact)
+[お問い合わせフォームで相談する →](/contact/)
 
 </div>

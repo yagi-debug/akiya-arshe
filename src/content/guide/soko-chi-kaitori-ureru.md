@@ -2,6 +2,7 @@
 title: "底地を売りたい｜借地権付き土地の処分方法4選と買取相場を宅建業者が解説"
 description: "底地（借地権が付いた土地）の売却方法を宅建業者が解説。借地人への売却・買取業者活用・等価交換の比較、買取相場の計算方法、手続きの流れまで網羅。底地の処分にお困りの方へ。"
 publishDate: "2026-05-18"
+noindex: true
 author: "空き家のミカタ編集部"
 authorTitle: "宅地建物取引業者（大阪府知事(1)第65646号）"
 heroImage: "/images/soko-chi-kaitori-ureru-hero.jpg"
@@ -29,6 +30,8 @@ A: はい、売却できます。底地は一般の仲介での売却が難し�
 <img src="/images/soko-chi-kaitori-ureru-hero.jpg" alt="古い借家が建つ底地のイメージ　借地権付き土地の売却" width="1200" height="800" style="width:100%;height:auto;border-radius:8px;margin-bottom:1.5rem;" />
 
 「親から相続した土地に、昔から借地人さんが住んでいる。地代はもらっているが、管理が手間で、かといって売ることもできないまま何十年も経っている」――そのようなお悩みを抱えている方は多くいらっしゃいます。
+
+このテーマの全体像は[底地の買取](/guide/sokochi-kaitori/)にまとめています。
 
 <strong>底地は「所有しているのに自由に使えない」という特殊な不動産です。</strong>売却方法も通常の土地とは異なります。この記事では、底地の基本的な仕組みから、実際に売れる4つの方法と買取相場の計算方法、手続きの流れまでを宅建業者の立場から説明します。
 
@@ -100,7 +103,7 @@ A: はい、売却できます。底地は一般の仲介での売却が難し�
 - 借地人とのやり取りを避けたい
 - 地代収入より一括現金化を優先したい
 
-> **宅建業者の視点**: 実際に相談を受ける底地案件の多くは、「何十年も借地人に貸しているが、地代が安すぎて管理の手間ばかりかかる」というものです。相続が発生するたびに登記が必要になり、そのたびにコストが発生します。「もう手放したい」と思われる気持ちはよく理解できます。買取であれば現状のまま売却できるため、借地人への説明も最小限で済みます。
+> **宅建業者の視点**: 底地でよくあるのは、「何十年も借地人に貸しているが、地代が安すぎて管理の手間ばかりかかる」というものです。相続が発生するたびに登記が必要になり、そのたびにコストが発生します。「もう手放したい」と思われる気持ちはよく理解できます。買取であれば現状のまま売却できるため、借地人への説明も最小限で済みます。
 
 ### ③ 等価交換で単独所有化する
 
@@ -178,7 +181,7 @@ A: はい、売却できます。底地は一般の仲介での売却が難し�
 
 ### 底地が複数人の名義になっています（共有持分）。売れますか？
 
-共有持分になっている底地も売却できます。ただし、<strong>全員の合意がある場合は通常の売却</strong>が可能で、合意が得られない場合は「自分の持分だけ売る」方法もあります（ただし価格は大幅に下がります）。詳しくは<a href="/guide/joint-ownership-sale">共有持分の売却ガイド</a>をご覧ください。
+共有持分になっている底地も売却できます。ただし、<strong>全員の合意がある場合は通常の売却</strong>が可能で、合意が得られない場合は「自分の持分だけ売る」方法もあります（ただし価格は大幅に下がります）。詳しくは<a href="/guide/kyouyuu-mochibun-kaitori/">共有持分の売却ガイド</a>をご覧ください。
 
 ### 借地人と連絡が取れない場合はどうすればいいですか？
 
@@ -186,11 +189,10 @@ A: はい、売却できます。底地は一般の仲介での売却が難し�
 
 ## 関連するガイド記事
 
-- <a href="/guide/kaitori-jirei-10sen">訳あり不動産の買取実績10選｜相続・再建築不可・事故物件・共有持分・空き家の解決事例集</a>
-- <a href="/guide/kaitori-jirei">訳あり不動産の買取事例5選｜相続アパート・再建築不可・事故物件の解決ストーリー</a>
-- <a href="/guide/osaka-kaitori-jirei">大阪市内の訳あり不動産買取事例集｜再建築不可・事故物件・共有持分・空き家・相続アパートの5事例</a>
-- <a href="/guide/sokochi-kaitori">底地の買取｜借地権付き土地を手放す方法を宅建業者が解説</a>
-- <a href="/guide/jiko-bukken-hub">事故物件 完全ハブ｜買取・告知義務・心理的瑕疵・価格相場まで全ガイドまとめ【2026年版】</a>
+- <a href="/guide/osaka-city-yakuari-kaitori/">大阪市の訳あり物件の買取</a>
+- <a href="/guide/kyouyuu-mochibun-kaitori/">共有持分の買取・売却方法</a>
+- <a href="/guide/sokochi-kaitori/">底地の買取｜借地権付き土地を手放す方法を宅建業者が解説</a>
+- <a href="/guide/jiko-bukken-hub/">事故物件 完全ハブ｜買取・告知義務・心理的瑕疵・価格相場まで全ガイドまとめ【2026年版】</a>
 
 ## まとめ：底地の処分で迷ったら、まず無料査定を
 
@@ -210,5 +212,5 @@ A: はい、売却できます。底地は一般の仲介での売却が難し�
 <strong>底地・訳あり不動産の無料相談はこちら</strong><br>
 「空き家のミカタ」（宅地建物取引業者・大阪府知事(1)第65646号）では、底地・借地権付き不動産の買取に対応しています。仲介手数料なし・最短2週間で現金化。まずはLINEまたはお問い合わせフォームからご相談ください。<br><br>
 <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06c755;color:#fff;padding:0.6rem 1.4rem;border-radius:6px;text-decoration:none;font-weight:bold;margin-right:0.8rem;">LINEで無料相談する</a>
-<a href="/contact" style="display:inline-block;background:#1a56db;color:#fff;padding:0.6rem 1.4rem;border-radius:6px;text-decoration:none;font-weight:bold;">お問い合わせフォーム</a>
+<a href="/contact/" style="display:inline-block;background:#1a56db;color:#fff;padding:0.6rem 1.4rem;border-radius:6px;text-decoration:none;font-weight:bold;">お問い合わせフォーム</a>
 </div>

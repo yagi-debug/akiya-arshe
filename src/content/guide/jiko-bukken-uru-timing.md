@@ -53,7 +53,7 @@ howToSteps:
 
 もちろん、年数がたつことで近隣の記憶が薄れ、周知性が下がることはあります。実務でも、報道された事案から10年以上たって周辺の入れ替わりが進んでいれば、価格への影響が小さくなっていることはあります。ただしそれは<strong>「そうなることもある」という程度の話で、金額として計算できるものではありません</strong>。待つ側にとっては保証のない期待値です。
 
-告知義務の範囲そのものは、<a href="/guide/shinriteki-kashi-kokuchi-gimu">心理的瑕疵とは？事故物件の告知義務の範囲・売却時期・価格への影響</a>で詳しく整理しています。
+告知義務の範囲そのものは、<a href="/guide/shinriteki-kashi-kokuchi-gimu/">心理的瑕疵とは？事故物件の告知義務の範囲・売却時期・価格への影響</a>で詳しく整理しています。
 
 ## 売却時期を決める5つの期限（すべて相続開始日が起点）
 
@@ -129,7 +129,7 @@ howToSteps:
 
 ### 先に費用をかけても、その分が価格に乗るとは限りません
 
-買取の場合、特殊清掃・残置物処理・リフォームは買主である業者側で手配することが多く、売主が先に負担しても同額が買取価格に上乗せされるとは限りません。さらに、特殊清掃等が行われた事実そのものが告知の対象になります。費用の負担者と金額の考え方は<a href="/guide/jikobukken-baikyaku-futan-hiyou">事故物件の売却費用は誰が払う？特殊清掃・原状回復の相場と負担者</a>に詳しくまとめています。
+買取の場合、特殊清掃・残置物処理・リフォームは買主である業者側で手配することが多く、売主が先に負担しても同額が買取価格に上乗せされるとは限りません。さらに、特殊清掃等が行われた事実そのものが告知の対象になります。費用の負担者と金額の考え方は<a href="/guide/jikobukken-baikyaku-futan-hiyou/">事故物件の売却費用は誰が払う？特殊清掃・原状回復の相場と負担者</a>に詳しくまとめています。
 
 ### 解体するなら1月1日をまたぐかどうかで負担が変わります
 
@@ -170,7 +170,7 @@ howToSteps:
 3. <strong>収益評価の低下</strong>：一棟アパートの一室で発生した事案の場合、空室のまま置いておくほど家賃収入をもとにした評価が下がります
 4. <strong>特例の残り時間</strong>：前述の④⑤は、1日ずつ確実に減っていきます
 
-価格が下がる要因の内訳については、<a href="/guide/jiko-bukken-kaitori-kakaku-soba">事故物件の買取価格はいくら？相場の下落率と査定額の内訳</a>で数字に分解しています。
+価格が下がる要因の内訳については、<a href="/guide/jiko-bukken-kaitori-kakaku-soba/">事故物件の買取価格はいくら？相場の下落率と査定額の内訳</a>で数字に分解しています。
 
 ## 状況別・いつ動くのがよいか
 
@@ -217,7 +217,7 @@ howToSteps:
 
 <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06c755;color:#fff;padding:14px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 4px;">LINE「空き家のミカタ」に相談する（無料）</a>
 
-<a href="/contact" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 4px;">無料査定フォームで相談する</a>
+<a href="/contact/" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 4px;">無料査定フォームで相談する</a>
 
 事故物件・訳あり物件を専門に扱っており、<strong>特殊清掃前・残置物そのまま・現況のまま</strong>で査定にお応えできます。秘密厳守で対応し、遠方にお住まいの相続人の方からのご相談も承っています。なお、税額の最終的な判断や申告については税理士へ、相続放棄の手続きについては司法書士・弁護士へご相談ください。
 
@@ -225,11 +225,11 @@ howToSteps:
 
 ## 関連記事
 
-- <a href="/guide/jiko-bukken-hub">事故物件 完全ハブ｜買取・告知義務・心理的瑕疵・価格相場まで全ガイドまとめ</a>
-- <a href="/guide/jiko-bukken-kaitori-kakaku-soba">事故物件の買取価格はいくら？相場の下落率と査定額の内訳</a>
-- <a href="/guide/jikobukken-baikyaku-futan-hiyou">事故物件の売却費用は誰が払う？特殊清掃・原状回復の相場と負担者</a>
-- <a href="/guide/shinriteki-kashi-kokuchi-gimu">心理的瑕疵とは？事故物件の告知義務の範囲・売却時期・価格への影響</a>
-- <a href="/guide/solitary-death-disclosure-price-impact">孤独死物件の告知義務と価格への影響｜自殺との違い・告知期間・値引き幅</a>
-- <a href="/guide/souzoku-akiya-3000man-tokubetsu-kojo">相続した空き家を売るときの3,000万円特別控除｜適用条件・2024年改正・申告方法</a>
-- <a href="/guide/souzoku-jirei-02-jiko-bukken-kaitori">【事例】弟の孤独死マンションを相続。特殊清掃前・遠方から18日で売却できた全記録</a>
-- <a href="/guide/oya-shigo-hiyou-souzokuzei-koujo">親の死後にかかった費用は相続税から引ける？特殊清掃・遺品整理・解体費を国税庁の基準で仕分ける</a>
+- <a href="/guide/jiko-bukken-hub/">事故物件 完全ハブ｜買取・告知義務・心理的瑕疵・価格相場まで全ガイドまとめ</a>
+- <a href="/guide/jiko-bukken-kaitori-kakaku-soba/">事故物件の買取価格はいくら？相場の下落率と査定額の内訳</a>
+- <a href="/guide/jikobukken-baikyaku-futan-hiyou/">事故物件の売却費用は誰が払う？特殊清掃・原状回復の相場と負担者</a>
+- <a href="/guide/shinriteki-kashi-kokuchi-gimu/">心理的瑕疵とは？事故物件の告知義務の範囲・売却時期・価格への影響</a>
+- <a href="/guide/solitary-death-disclosure-price-impact/">孤独死物件の告知義務と価格への影響｜自殺との違い・告知期間・値引き幅</a>
+- <a href="/guide/souzoku-akiya-3000man-tokubetsu-kojo/">相続した空き家を売るときの3,000万円特別控除｜適用条件・2024年改正・申告方法</a>
+- <a href="/guide/souzoku-jirei-02-jiko-bukken-kaitori/">【参考例・事例02】弟の孤独死マンションを相続。特殊清掃前・遠方からでも18日で売却できたケース</a>
+- <a href="/guide/oya-shigo-hiyou-souzokuzei-koujo/">親の死後にかかった費用は相続税から引ける？特殊清掃・遺品整理・解体費を国税庁の基準で仕分ける</a>

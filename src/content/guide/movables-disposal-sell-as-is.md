@@ -214,7 +214,7 @@ faqs:
 5. <strong>現況のまま査定を受ける</strong>：登記簿と固定資産税通知書、室内の写真をお送りいただければ、買取価格と手取り額のレンジをお伝えします
 6. <strong>売買契約・引き渡し</strong>：残置物の所有権放棄の特約を入れ、現況のままお引き渡しいただきます
 
-家財の扱いは[相続した実家の遺品・家財整理](/guide/souzoku-ihin-seiri-kazai-baikyaku)、現況渡しの仕組みは[相続した家を現状渡しで売る方法](/guide/souzoku-fudosan-genjou-watashi-kaitori)、量が極端に多い場合は[ゴミ屋敷・汚部屋の不動産を売りたい](/guide/gomiyashiki-bukken-kaitori)、大阪市での片付け費用と条例の実際は[実家のゴミ屋敷を片付ける費用は大阪市でいくら？](/guide/osaka-gomiyashiki-katazuke-hiyou)、登記義務化は[相続登記の義務化と対応](/guide/souzoku-touki-gimuka-2years)もあわせてご覧ください。手放し方全体を比べたい方は[相続不動産の処分5パターン](/guide/souzoku-fudosan-shobun-5-pattern)が参考になります。
+家財の扱いは[相続した実家の遺品・家財整理](/guide/souzoku-ihin-seiri-kazai-baikyaku/)、現況渡しの仕組みは[相続した家を現状渡しで売る方法](/guide/souzoku-fudosan-genjou-watashi-kaitori/)、量が極端に多い場合は[ゴミ屋敷・汚部屋の不動産を売りたい](/guide/gomiyashiki-bukken-kaitori/)、大阪市での片付け費用と条例の実際は[実家のゴミ屋敷を片付ける費用は大阪市でいくら？](/guide/osaka-gomiyashiki-katazuke-hiyou/)、登記義務化は[相続登記の義務化と対応](/guide/souzoku-touki-gimuka-2years/)もあわせてご覧ください。手放し方全体を比べたい方は[相続不動産の処分5パターン](/guide/souzoku-fudosan-shobun-5-pattern/)が参考になります。
 
 ---
 
@@ -249,11 +249,11 @@ faqs:
 
 <strong>[LINEで無料相談する（24時間受付）](https://line.arshe1719.workers.dev/auth/line?ref=hp)</strong>
 
-<strong>[お問い合わせフォームはこちら](/contact)</strong>
+<strong>[お問い合わせフォームはこちら](/contact/)</strong>
 
 相談無料・秘密厳守・大阪市24区の物件を中心に対応しています。
 
-片付けてから相談すべきか迷っている方は、<a href="/guide/katazukenaide-soudan">片付けないでご相談ください｜実家7つの状態別・手残り比較</a>もあわせてご覧ください。7つの状態ごとに、先に片付けた場合とそのまま相談した場合で手残りがどう変わるかを並べています。
+片付けてから相談すべきか迷っている方は、<a href="/guide/katazukenaide-soudan/">片付けないでご相談ください｜実家7つの状態別・手残り比較</a>もあわせてご覧ください。7つの状態ごとに、先に片付けた場合とそのまま相談した場合で手残りがどう変わるかを並べています。
 
 ---
 

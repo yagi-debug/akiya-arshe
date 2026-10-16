@@ -84,7 +84,7 @@ updatedDate: "2026-09-07"
 
 <strong>「うちは細い道だから再建築不可だ」と思い込んでいたら、実は2項道路で建て替えができた</strong>——というケースは珍しくありません。逆に、2項道路だと思っていたら建築基準法上の道路ですらない「通路」だった、という逆のケースもあります。まず種別をはっきりさせることが出発点です。
 
-再建築不可の判定については[再建築不可物件は売れる？4つの売却方法と相場](/guide/non-rebuildable-property-sale)で詳しくお伝えしています。
+再建築不可の判定については[再建築不可物件は売れる？4つの売却方法と相場](/guide/non-rebuildable-property-sale/)で詳しくお伝えしています。
 
 ---
 
@@ -168,7 +168,7 @@ updatedDate: "2026-09-07"
 
 つまり2項道路に面した敷地では、<strong>敷地面積が減るうえに、容積率も道路幅で頭を押さえられる</strong>という二重の制約がかかります。買取業者や建売業者が2項道路の土地を厳しく見るのは、この計算をした結果、建てられる建物の規模が想定より小さくなるためです。
 
-査定額がどう組み立てられているかは[買取査定の根拠を出してもらうチェックリスト](/guide/kaitori-satei-konkyo-gendai-checklist)でも解説しています。
+査定額がどう組み立てられているかは[買取査定の根拠を出してもらうチェックリスト](/guide/kaitori-satei-konkyo-gendai-checklist/)でも解説しています。
 
 ---
 
@@ -240,7 +240,7 @@ updatedDate: "2026-09-07"
 2. <strong>私道持分を買い取る</strong>——根本的な解決になりますが、相手が売ってくれるかは交渉次第です
 3. <strong>現況のまま専門業者に売却する</strong>——承諾書の取得を買主側（業者）が引き受ける形
 
-詳しい進め方は[私道持分なし・通行同意書なし物件の売却｜出口戦略3選](/guide/private-road-no-share-sale)と[私道に面した不動産を売りたい｜私道負担・通行権・掘削承諾問題](/guide/shido-futan-bukken-baikyaku)にまとめています。
+詳しい進め方は[私道持分なし・通行同意書なし物件の売却｜出口戦略3選](/guide/private-road-no-share-sale/)と[私道に面した不動産を売りたい｜私道負担・通行権・掘削承諾問題](/guide/shido-futan-bukken-baikyaku/)にまとめています。
 
 ---
 
@@ -285,7 +285,7 @@ updatedDate: "2026-09-07"
 
 <strong>売却前にやらなくてよいこと</strong>
 
-- 建物の解体（[解体してから売るかどうかは別途ご検討ください](/guide/old-house-demolish)）
+- 建物の解体（[解体してから売るかどうかは別途ご検討ください](/guide/old-house-demolish/)）
 - 残置物の片付け・ハウスクリーニング
 - 塀や門の先行撤去
 - リフォーム
@@ -314,7 +314,7 @@ A. あります。<strong>後退はしているが舗装・境界石が未整備
 
 <strong>Q. 相続した実家が2項道路に面していて、兄弟で共有しています。どう進めればよいですか。</strong>
 
-A. 共有物件は共有者全員の合意がないと売却できません。まず物件の道路種別と減る面積を確認して、共有者全員が同じ情報を持っている状態を作ることが先決です。話がまとまらない場合の進め方は[共有持分は兄弟に内緒で査定できる？話がつかないときの法的3ルート](/guide/kyouyuu-mochibun-naisho-satei)をご覧ください。
+A. 共有物件は共有者全員の合意がないと売却できません。まず物件の道路種別と減る面積を確認して、共有者全員が同じ情報を持っている状態を作ることが先決です。話がまとまらない場合の進め方は[共有持分は兄弟に内緒で査定できる？話がつかないときの法的3ルート](/guide/kyouyuu-mochibun-naisho-satei/)をご覧ください。
 
 ---
 
@@ -341,7 +341,7 @@ A. 共有物件は共有者全員の合意がないと売却できません。�
 
 <strong>[LINEで無料相談する（24時間受付）](https://line.arshe1719.workers.dev/auth/line?ref=hp)</strong>
 
-<strong>[お問い合わせフォームはこちら](/contact)</strong>
+<strong>[お問い合わせフォームはこちら](/contact/)</strong>
 
 相談無料・秘密厳守。査定後にお断りいただいても問題ありません。
 
@@ -349,17 +349,16 @@ A. 共有物件は共有者全員の合意がないと売却できません。�
 
 ## 関連するガイド記事
 
-- [私道持分なし・通行同意書なし物件の売却｜接道問題の出口戦略3選](/guide/private-road-no-share-sale)
-- [私道に面した不動産を売りたい｜私道負担・通行権・掘削承諾問題と現況買取](/guide/shido-futan-bukken-baikyaku)
-- [再建築不可物件は売れる？4つの売却方法と相場](/guide/non-rebuildable-property-sale)
-- [再建築不可物件 完全ハブ｜売却・買取・価格相場・事例まとめ](/guide/saikenchifu-hub)
-- [再建築不可物件の買取相場｜大阪市エリア別の価格帯](/guide/saikenchifu-kaitori-souba)
-- [旗竿地（路地状敷地）は再建築可でも売れない？7つの理由と解決策](/guide/hatazao-chi-saikenchiku-ka-urenai)
-- [買取を断られる物件の特徴7つ｜再査定を通す準備リスト](/guide/kaitori-kyohi-tokucho-7)
-- [買取査定の根拠を出してもらうチェックリスト](/guide/kaitori-satei-konkyo-gendai-checklist)
-- [相続した実家の解体費用が払えない｜補助金・現況買取で手放す3つの方法](/guide/akiya-kaitai-hiyou-haraenai)
-- [大阪市の解体費用相場2026｜坪単価と補助金](/guide/osaka-kaitai-hiyou-soba-2026)
-- [仲介手数料の仕組みと買取との違い](/guide/brokerage-fee-guide)
+- [私道持分なし・通行同意書なし物件の売却｜接道問題の出口戦略3選](/guide/private-road-no-share-sale/)
+- [私道に面した不動産を売りたい｜私道負担・通行権・掘削承諾問題と現況買取](/guide/shido-futan-bukken-baikyaku/)
+- [再建築不可物件は売れる？4つの売却方法と相場](/guide/non-rebuildable-property-sale/)
+- [再建築不可物件の買取相場｜大阪市エリア別の価格帯](/guide/saikenchifu-kaitori-souba/)
+- [旗竿地（路地状敷地）は再建築可でも売れない？7つの理由と解決策](/guide/hatazao-chi-saikenchiku-ka-urenai/)
+- [買取を断られる物件の特徴7つ｜再査定を通す準備リスト](/guide/kaitori-kyohi-tokucho-7/)
+- [買取査定の根拠を出してもらうチェックリスト](/guide/kaitori-satei-konkyo-gendai-checklist/)
+- [相続した実家の解体費用が払えない｜補助金・現況買取で手放す3つの方法](/guide/akiya-kaitai-hiyou-haraenai/)
+- [大阪市の解体費用相場2026｜坪単価と補助金](/guide/osaka-kaitai-hiyou-soba-2026/)
+- [仲介手数料の仕組みと買取との違い](/guide/brokerage-fee-guide/)
 
 ---
 

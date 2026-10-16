@@ -167,13 +167,13 @@ updatedDate: "2026-09-07"
 
 たとえば2021年6月に取得した物件を2026年12月に売ると、実際には5年半持っていても2026年1月1日時点では4年7か月なので<strong>短期</strong>です。同じ物件を2027年1月に売れば、2027年1月1日時点で5年7か月となり<strong>長期</strong>になります。<strong>1か月の違いで税率がおよそ2倍変わる</strong>境目がここにあります。
 
-ただし、相続した不動産の所有期間は<strong>被相続人が取得した日から引き継がれます</strong>（所得税法60条1項）。親の代から持っていた家であれば、相続直後に売っても通常は長期です。この点は<a href="/guide/souzoku-jouto-shotokuzei-5nen-kisanbi">相続不動産の譲渡所得税｜5年の起算日と取得費不明の対処</a>で詳しく整理しています。
+ただし、相続した不動産の所有期間は<strong>被相続人が取得した日から引き継がれます</strong>（所得税法60条1項）。親の代から持っていた家であれば、相続直後に売っても通常は長期です。この点は<a href="/guide/souzoku-jouto-shotokuzei-5nen-kisanbi/">相続不動産の譲渡所得税｜5年の起算日と取得費不明の対処</a>で詳しく整理しています。
 
 ### ② 3,000万円控除の要件がまだ整っていない場合
 
 相続空き家の3,000万円特別控除には、耐震基準を満たすか家屋を取り壊すかといった要件があります。期限が翌年以降にある物件で、要件を整える作業が年内に終わらないなら、<strong>急いで年内に売るより、要件を満たしてから売るほうが手残りは大きくなることがあります。</strong>
 
-3,000万円の控除額は、買取価格と仲介価格の差より大きくなることも珍しくありません。要件の詳細は<a href="/guide/souzoku-akiya-3000man-tokubetsu-kojo">相続空き家の3,000万円特別控除</a>にまとめています。
+3,000万円の控除額は、買取価格と仲介価格の差より大きくなることも珍しくありません。要件の詳細は<a href="/guide/souzoku-akiya-3000man-tokubetsu-kojo/">相続空き家の3,000万円特別控除</a>にまとめています。
 
 ## 現況のまま引き渡せると、工程が2つ消えます
 
@@ -185,12 +185,12 @@ updatedDate: "2026-09-07"
 - <strong>測量・境界確定</strong>：隣地所有者の立会いが要り、相手の都合次第で2〜3か月
 - <strong>内覧に耐える状態づくり</strong>：草刈り、清掃、修繕
 
-私たちは<strong>残置物が残ったまま、境界が未確定のまま、庭木が伸びたまま</strong>の状態で買い取っています。片付けてからご相談いただく必要はありません。むしろ、片付けの前にご相談いただいたほうが、取得費の資料が捨てられずに済むという利点もあります（<a href="/guide/katazukenaide-soudan">片付けないでご相談ください｜実家7つの状態別・手残り比較</a>）。
+私たちは<strong>残置物が残ったまま、境界が未確定のまま、庭木が伸びたまま</strong>の状態で買い取っています。片付けてからご相談いただく必要はありません。むしろ、片付けの前にご相談いただいたほうが、取得費の資料が捨てられずに済むという利点もあります（<a href="/guide/katazukenaide-soudan/">片付けないでご相談ください｜実家7つの状態別・手残り比較</a>）。
 
-残置物の扱いについては<a href="/guide/movables-disposal-sell-as-is">残置物を処分せずに売る方法</a>、現況引渡しの流れは<a href="/guide/souzoku-fudosan-genjou-watashi-kaitori">相続不動産の現況渡し買取</a>もあわせてご覧ください。
+残置物の扱いについては<a href="/guide/movables-disposal-sell-as-is/">残置物を処分せずに売る方法</a>、現況引渡しの流れは<a href="/guide/souzoku-fudosan-genjou-watashi-kaitori/">相続不動産の現況渡し買取</a>もあわせてご覧ください。
 
 <div style="background:#fff8e6;border-left:4px solid #c9a227;border-radius:8px;padding:1rem 1.25rem;margin:1.25rem 0;font-size:0.95rem;line-height:1.7;">
-<strong>現場から:</strong> 年内決済のご相談で最後まで残る工程は、ほぼ例外なく<strong>相続登記</strong>です。戸籍を遡る作業と、相続人の方々の署名押印を集める作業に日数がかかります。査定と買取条件の確定は登記の完了を待たずに進められますので、<strong>この2つを同時に走らせられるか</strong>が年内に間に合うかどうかの分かれ目になります。手続きの全体像は<a href="/guide/inheritance-registry">相続登記の義務化と手続き</a>をご確認ください。
+<strong>現場から:</strong> 年内決済のご相談で最後まで残る工程は、ほぼ例外なく<strong>相続登記</strong>です。戸籍を遡る作業と、相続人の方々の署名押印を集める作業に日数がかかります。査定と買取条件の確定は登記の完了を待たずに進められますので、<strong>この2つを同時に走らせられるか</strong>が年内に間に合うかどうかの分かれ目になります。手続きの全体像は<a href="/guide/inheritance-registry-neglect-sale-3options/">相続登記の義務化と手続き</a>をご確認ください。
 </div>
 
 ## よくあるご質問
@@ -225,7 +225,7 @@ updatedDate: "2026-09-07"
 
 <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06c755;color:#fff;padding:14px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 4px;">LINE「空き家のミカタ」に相談する（無料）</a>
 
-<a href="/contact" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 4px;">無料査定フォームで相談する</a>
+<a href="/contact/" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 4px;">無料査定フォームで相談する</a>
 
 秘密厳守で対応し、遠方にお住まいの相続人の方からのご相談も承ります。なお、譲渡所得の申告・税額計算は税理士へ、相続登記は司法書士へご相談ください。当社は不動産の売買を担当します。
 
@@ -237,12 +237,12 @@ updatedDate: "2026-09-07"
 
 ## 関連ガイド記事
 
-- <a href="/guide/souzoku-jouto-shotokuzei-5nen-kisanbi">相続不動産の譲渡所得税｜5年の起算日と取得費不明の対処【2026年版】</a>
-- <a href="/guide/souzoku-akiya-3000man-tokubetsu-kojo">相続空き家の3,000万円特別控除</a>
-- <a href="/guide/souzoku-fudosan-shutoku-hi-kazan">相続した不動産を売るなら必ず確認｜取得費加算の特例で譲渡税が大幅減</a>
-- <a href="/guide/akiya-owner-annual-calendar">相続した空き家の年間やることカレンダー</a>
-- <a href="/guide/inheritance-registry">相続登記の義務化と手続き</a>
-- <a href="/guide/inheritance-sale-timeline">相続不動産の売却スケジュール</a>
-- <a href="/guide/souzoku-fudosan-genjou-watashi-kaitori">相続不動産の現況渡し買取</a>
-- <a href="/guide/katazukenaide-soudan">片付けないでご相談ください｜実家7つの状態別・手残り比較</a>
-- <a href="/guide/souzoku-hub">相続不動産 完全ハブ｜処分・売却・登記・固定資産税まで全ガイド</a>
+- <a href="/guide/souzoku-jouto-shotokuzei-5nen-kisanbi/">相続不動産の譲渡所得税｜5年の起算日と取得費不明の対処【2026年版】</a>
+- <a href="/guide/souzoku-akiya-3000man-tokubetsu-kojo/">相続空き家の3,000万円特別控除</a>
+- <a href="/guide/souzoku-fudosan-shutoku-hi-kazan/">相続した不動産を売るなら必ず確認｜取得費加算の特例で譲渡税が大幅減</a>
+- <a href="/guide/akiya-owner-annual-calendar/">相続した空き家の年間やることカレンダー</a>
+- <a href="/guide/inheritance-registry-neglect-sale-3options/">相続登記の義務化と手続き</a>
+- <a href="/guide/inheritance-sale-timeline/">相続不動産の売却スケジュール</a>
+- <a href="/guide/souzoku-fudosan-genjou-watashi-kaitori/">相続不動産の現況渡し買取</a>
+- <a href="/guide/katazukenaide-soudan/">片付けないでご相談ください｜実家7つの状態別・手残り比較</a>
+- <a href="/guide/parent-death-house/">相続した家の売り方と手続き</a>

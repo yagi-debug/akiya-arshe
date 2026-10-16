@@ -2,6 +2,7 @@
 title: "相続した不動産の固定資産税は誰が払う？相続人間トラブル解決法【2026年版】"
 description: "相続した不動産の固定資産税は誰が納税義務者になるのか。相続登記が未了のまま放置すると相続人全員に連帯納税義務が生じます。大阪市の試算例と相続人間トラブル3パターン・解決策を宅建業者が解説します。"
 publishDate: "2026-04-26"
+noindex: true
 cluster: "inheritance"
 updatedDate: "2026-09-07"
 author: "宅建業者"
@@ -25,6 +26,8 @@ faqs:
 <img src="/images/souzoku-fudosan-tax-family.jpg" alt="相続した不動産の固定資産税について相続人家族が専門家を交えて話し合っている様子" width="1200" height="800" style="width:100%;height:auto;border-radius:8px;margin-bottom:1.5rem;" />
 
 毎年5〜6月に届く固定資産税の納付書。<strong>「親が亡くなって不動産を相続したが、固定資産税は誰が払うのか」「兄弟間で揉めていて誰も払っていない」</strong>という相談が、5月に入ると一気に増えます。
+
+このテーマの全体像は[空き家の固定資産税6倍化の回避策](/guide/akiya-koteishisanzei-6bai-hikaku/)にまとめています。
 
 この記事では、相続した不動産の固定資産税の<strong>法的な納税義務の仕組み</strong>から、<strong>相続人間に生じやすいトラブル3パターンとその解決策</strong>まで、大阪市の具体的な試算例を交えて宅建業者が解説します。
 
@@ -186,11 +189,10 @@ faqs:
 
 ## 関連するガイド記事
 
-- <a href="/guide/souzoku-hub">相続不動産 完全ハブ｜処分・売却・登記・固定資産税・事例まで全ガイドをまとめて確認【2026年版】</a>
-- <a href="/guide/souzoku-apart-kanzen-guide">相続アパートを手放したい方へ｜売却の流れ・税金・失敗しない判断基準を宅建業者が完全解説【2026年最新】</a>
-- <a href="/guide/souzoku-fudousan-shobun-kanzen-guide">相続不動産の処分 完全ガイド2026｜法律・登記・比較表・失敗対策まで一気に解説</a>
-- <a href="/guide/akiya-kotei-shisan-zei-haraenai">空き家の固定資産税が払えないとき｜分納・減免・売却・相続放棄の4つの選択肢【2026年版】</a>
-- <a href="/guide/akiya-owner-annual-calendar">相続した空き家の年間やることカレンダー｜固定資産税5〜6月・年末12月・確定申告2〜3月 完全ガイド2026年版</a>
+- <a href="/guide/parent-death-house/">相続した家の売り方と手続き</a>
+- <a href="/guide/souzoku-apart-kanzen-guide/">相続アパートを手放したい方へ｜売却の流れ・税金・失敗しない判断基準を宅建業者が完全解説【2026年最新】</a>
+- <a href="/guide/akiya-kotei-shisan-zei-haraenai/">空き家の固定資産税が払えないとき｜分納・減免・売却・相続放棄の4つの選択肢【2026年版】</a>
+- <a href="/guide/akiya-owner-annual-calendar/">相続した空き家の年間やることカレンダー｜固定資産税5〜6月・年末12月・確定申告2〜3月 完全ガイド2026年版</a>
 
 ## 無料査定・ご相談はこちら
 
@@ -200,6 +202,6 @@ faqs:
 
 <strong>お問い合わせフォーム</strong>
 
-<a href="/contact" style="display:inline-block;background:#1a56db;color:#fff;padding:12px 24px;border-radius:6px;font-weight:bold;text-decoration:none;margin:8px 0;">フォームで相談する（24時間受付）</a>
+<a href="/contact/" style="display:inline-block;background:#1a56db;color:#fff;padding:12px 24px;border-radius:6px;font-weight:bold;text-decoration:none;margin:8px 0;">フォームで相談する（24時間受付）</a>
 
 査定・相談は完全無料です。売却を強制することはありません。固定資産税の納付期限が迫っている方、相続人間でお困りの方はお早めにご連絡ください。

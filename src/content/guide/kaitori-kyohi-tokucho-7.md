@@ -246,7 +246,7 @@ updatedDate: "2026-09-07"
 
 <strong>[LINEで無料相談する（24時間受付）](https://line.arshe1719.workers.dev/auth/line?ref=hp)</strong>
 
-<strong>[お問い合わせフォームはこちら](/contact)</strong>
+<strong>[お問い合わせフォームはこちら](/contact/)</strong>
 
 相談無料・秘密厳守。査定後にお断りいただいても問題ありません。
 
@@ -254,19 +254,19 @@ updatedDate: "2026-09-07"
 
 ## 関連するガイド記事
 
-- [「私の物件、買取できる？」訳あり不動産の買取可否を判断する5つの条件チェックリスト](/guide/wakeari-bukken-kaitori-kanousei-5check)
-- [不動産会社に断られた物件でも売れる？断られた後にできる5つの解決策](/guide/fudosan-kotowarareta-ato-dekiru-koto)
-- [不動産売却は買取・仲介・放置どれが正解？4軸で徹底比較](/guide/osaka-kaitori-vs-chukai)
-- [訳あり物件の買取の流れ｜相談から最短2週間で現金化する5ステップ](/guide/wakeare-bukken-kaitori-nagare)
-- [増築・未登記部分がある家の売却｜登記不一致と固定資産税の問題](/guide/unregistered-addition-property-sale)
-- [建築基準法違反物件を売りたい｜仲介で断られた物件を買取で現金化する方法](/guide/kenchiku-kijunho-ihan-bukken-baikyaku)
-- [借地権付き建物の売却方法｜地主の承諾から買取まで](/guide/shakuchiken-tatemono-baikyaku)
-- [連棟式建物（長屋）は売れない？仲介で断られても買取なら現金化できる理由](/guide/rentoushi-nagaya-baikyaku)
-- [旗竿地（路地状敷地）は再建築可でも売れない？売れない理由と買取での解決策](/guide/hatazao-chi-saikenchiku-ka-urenai)
-- [共有持分の買取・売却方法｜同意不要で最短2週間現金化](/guide/kyouyuu-mochibun-kaitori)
-- [相続した不動産の境界線が不明でも売却できる？測量なし買取の方法](/guide/souzoku-fudosan-kyoukaisen-fumei-baikyaku)
-- [相続登記しないと過料10万円？放置リスクと売却で解決する方法](/guide/souzoku-touki-gimuka-karyo)
-- [相続した空き家を売るときの3,000万円特別控除｜適用条件・2024年改正・申告方法](/guide/souzoku-akiya-3000man-tokubetsu-kojo)
+- [「私の物件、買取できる？」訳あり不動産の買取可否を判断する5つの条件チェックリスト](/guide/wakeari-bukken-kaitori-kanousei-5check/)
+- [不動産会社に断られた物件でも売れる？断られた後にできる5つの解決策](/guide/fudosan-kotowarareta-ato-dekiru-koto/)
+- [不動産売却は買取・仲介・放置どれが正解？4軸で徹底比較](/guide/osaka-kaitori-vs-chukai/)
+- [訳あり物件の買取の流れ｜相談から最短2週間で現金化する5ステップ](/guide/wakeare-bukken-kaitori-nagare/)
+- [増築・未登記部分がある家の売却｜登記不一致と固定資産税の問題](/guide/unregistered-addition-property-sale/)
+- [建築基準法違反物件を売りたい｜仲介で断られた物件を買取で現金化する方法](/guide/kenchiku-kijunho-ihan-bukken-baikyaku/)
+- [借地権付き建物の売却方法｜地主の承諾から買取まで](/guide/shakuchiken-tatemono-baikyaku/)
+- [連棟式建物（長屋）は売れない？仲介で断られても買取なら現金化できる理由](/guide/rentoushi-nagaya-baikyaku/)
+- [旗竿地（路地状敷地）は再建築可でも売れない？売れない理由と買取での解決策](/guide/hatazao-chi-saikenchiku-ka-urenai/)
+- [共有持分の買取・売却方法｜同意不要で最短2週間現金化](/guide/kyouyuu-mochibun-kaitori/)
+- [相続した不動産の境界線が不明でも売却できる？測量なし買取の方法](/guide/souzoku-fudosan-kyoukaisen-fumei-baikyaku/)
+- [相続登記しないと過料10万円？放置リスクと売却で解決する方法](/guide/souzoku-touki-gimuka-karyo/)
+- [相続した空き家を売るときの3,000万円特別控除｜適用条件・2024年改正・申告方法](/guide/souzoku-akiya-3000man-tokubetsu-kojo/)
 
 ---
 

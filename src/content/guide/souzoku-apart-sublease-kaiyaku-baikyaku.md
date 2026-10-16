@@ -37,6 +37,8 @@ A: 相続は包括承継のため、被相続人が締結したサブリース�
 
 「亡くなった親のアパートを相続したら、大手業者とサブリース（家賃保証）契約が結ばれていた」というご相談をよくいただきます。サブリース契約は複雑な法律関係が絡むため、「解約できるの？」「そのままにしていいの？」と戸惑う方が少なくありません。
 
+このテーマの全体像は[相続アパートの売却ガイド](/guide/souzoku-apart-kanzen-guide/)にまとめています。
+
 この記事では、相続後のサブリース契約の法的な取り扱い・解約の手順・売却の方法について、順を追ってお伝えします。
 
 ## サブリース（家賃保証）契約とは？相続するとどうなるか
@@ -142,7 +144,7 @@ A: 相続は包括承継のため、被相続人が締結したサブリース�
 
 アパートを複数の相続人で共有相続している場合、<strong>売却には共有者全員の同意が必要</strong>です。
 
-「売りたい人」と「続けたい人」に意見が分かれるケースは少なくありません。売却を進めたい場合は、まず遺産分割協議をまとめることが先決です。共有不動産の処理については「<a href="/guide/joint-ownership-sale">相続不動産の共有名義問題｜全員同意なしに売却する方法と手順</a>」もご覧ください。
+「売りたい人」と「続けたい人」に意見が分かれるケースは少なくありません。売却を進めたい場合は、まず遺産分割協議をまとめることが先決です。共有不動産の処理については「<a href="/guide/kyouyuu-mochibun-kaitori/">相続不動産の共有名義問題｜全員同意なしに売却する方法と手順</a>」もご覧ください。
 
 ## 3つの選択肢を比較する
 
@@ -178,7 +180,7 @@ A: 2024年4月1日から相続登記が義務化され、<strong>相続を知っ
 4. <strong>家賃収入の受け取り</strong>：振込口座を相続人名義に変更する
 5. <strong>方針決定</strong>：継続・解約・売却のいずれかを専門家と相談して選ぶ
 
-相続アパートの処理全体については「<a href="/guide/souzoku-apart-kanzen-guide">相続アパートを手放したい方へ｜売却の流れ・税金・失敗しない判断基準を宅建業者が完全解説</a>」もあわせてご覧ください。
+相続アパートの処理全体については「<a href="/guide/souzoku-apart-kanzen-guide/">相続アパートを手放したい方へ｜売却の流れ・税金・失敗しない判断基準を宅建業者が完全解説</a>」もあわせてご覧ください。
 
 ## まとめ
 
@@ -200,15 +202,15 @@ A: 2024年4月1日から相続登記が義務化され、<strong>相続を知っ
 <li>築30年以上で大規模修繕が近い</li>
 <li>入居者がいるが売れるか分からない</li>
 </ul>
-<p style="margin:0;font-size:0.9rem;">1つでも当てはまれば、まずは無料査定でご相談ください。処分方法の全体像は<a href="/guide/souzoku-apart-kanzen-guide">相続アパートを手放したい方へ｜売却の流れ・税金・失敗しない判断基準</a>で確認できます。</p>
+<p style="margin:0;font-size:0.9rem;">1つでも当てはまれば、まずは無料査定でご相談ください。処分方法の全体像は<a href="/guide/souzoku-apart-kanzen-guide/">相続アパートを手放したい方へ｜売却の流れ・税金・失敗しない判断基準</a>で確認できます。</p>
 </div>
 
 ## 関連するガイド記事
 
-- [相続アパートを手放したい方へ｜売却の流れ・税金・失敗しない判断基準](/guide/souzoku-apart-kanzen-guide)
-- [相続アパート管理できない｜放置した場合の年間コスト実例3件と早期解決策](/guide/souzoku-apart-kanri-dekinai-houchi-cost)
-- [相続アパートの修繕積立がゼロ｜大規模修繕の前に売却すべきかの判断基準](/guide/souzoku-apart-shuzen-tsumitate-zero)
-- [入居者がいるアパートの売却方法](/guide/nyukyosha-apart-baikyaku)
+- [相続アパートを手放したい方へ｜売却の流れ・税金・失敗しない判断基準](/guide/souzoku-apart-kanzen-guide/)
+- [相続アパート管理できない｜放置した場合の年間コスト試算例3件と早期解決策](/guide/souzoku-apart-kanri-dekinai-houchi-cost/)
+- [相続アパートの修繕積立がゼロ｜大規模修繕の前に売却すべきかの判断基準](/guide/souzoku-apart-shuzen-tsumitate-zero/)
+- [入居者がいるアパートの売却方法](/guide/souzoku-apart-owner-change-shokei/)
 
 <section style="background:#1a5632;color:#fff;padding:2rem;border-radius:8px;text-align:center;margin-top:2rem;">
 
@@ -220,9 +222,9 @@ A: 2024年4月1日から相続登記が義務化され、<strong>相続を知っ
 
 <p style="margin-top:0.5rem;font-size:0.9rem;">「空き家のミカタ」を友だち追加してください</p>
 
-<a href="/contact" style="display:inline-block;border:2px solid rgba(255,255,255,0.4);color:#fff;padding:0.5rem 1.5rem;border-radius:8px;font-weight:bold;text-decoration:none;margin-top:0.5rem;">フォームで相談する</a>
+<a href="/contact/" style="display:inline-block;border:2px solid rgba(255,255,255,0.4);color:#fff;padding:0.5rem 1.5rem;border-radius:8px;font-weight:bold;text-decoration:none;margin-top:0.5rem;">フォームで相談する</a>
 
 </section>
 ---
 
-**このカテゴリの全ガイド一覧:** [→ 相続不動産 完全ハブ【2026年版】](/guide/souzoku-hub)
+**このカテゴリの中心の記事:** [→ 相続した家の売り方と手続き](/guide/parent-death-house/)

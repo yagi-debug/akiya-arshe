@@ -144,10 +144,10 @@ cluster: "inheritance"
 
 ## 関連するガイド記事
 
-- <a href="/guide/kisei-jikka-boroboro-taisho">実家がボロボロだった時の対処法5選｜放置で固定資産税6倍になる前に</a>
-- <a href="/guide/akiya-kaitai-hiyou-haraenai">相続した実家の解体費用が払えない｜補助金・現況買取で費用ゼロで手放す3つの方法</a>
-- <a href="/guide/souzoku-akiya-3000man-tokubetsu-kojo">相続した空き家の3,000万円特別控除｜適用要件と手続きを解説</a>
-- <a href="/guide/souzoku-fudousan-urikata-kanzen-guide">【2026年版】相続した不動産の売り方 完全ガイド｜実務手順・費用・業者選定</a>
+- <a href="/guide/kisei-jikka-boroboro-taisho/">実家がボロボロだった時の対処法5選｜放置で固定資産税6倍になる前に</a>
+- <a href="/guide/akiya-kaitai-hiyou-haraenai/">相続した実家の解体費用が払えない｜補助金・現況買取で費用ゼロで手放す3つの方法</a>
+- <a href="/guide/souzoku-akiya-3000man-tokubetsu-kojo/">相続した空き家の3,000万円特別控除｜適用要件と手続きを解説</a>
+- <a href="/guide/parent-death-house/">【2026年版】相続した不動産の売り方 完全ガイド｜実務手順・費用・業者選定</a>
 
 ## まとめ
 
@@ -172,6 +172,6 @@ cluster: "inheritance"
 
 <p style="margin-top:0.5rem;font-size:0.9rem;">「空き家のミカタ」を友だち追加してください</p>
 
-<a href="/contact" style="display:inline-block;border:2px solid rgba(255,255,255,0.4);color:#fff;padding:0.5rem 1.5rem;border-radius:8px;font-weight:bold;text-decoration:none;margin-top:0.5rem;">フォームで相談する</a>
+<a href="/contact/" style="display:inline-block;border:2px solid rgba(255,255,255,0.4);color:#fff;padding:0.5rem 1.5rem;border-radius:8px;font-weight:bold;text-decoration:none;margin-top:0.5rem;">フォームで相談する</a>
 
 </section>

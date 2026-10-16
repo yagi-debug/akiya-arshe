@@ -22,6 +22,8 @@ updatedDate: "2026-09-07"
 
 <strong>相続したマンションの売却は、一般的な不動産売却とは異なる3つの注意点があります。</strong>管理費の滞納承継、相続登記の義務化、複数の相続人がいる場合の手続きをひとつずつ整理すれば、確実に手放すことができます。
 
+このテーマの全体像は[相続した家の売り方と手続き](/guide/parent-death-house/)にまとめています。
+
 > <strong>相続したマンション売却 — まとめ</strong>
 > - <strong>管理費・修繕積立金の滞納</strong>：区分所有法第8条により買主が引き継ぐため、売却前に精算が必要
 > - <strong>相続登記</strong>：2024年4月から義務化。相続を知った日から3年以内に名義変更が必要
@@ -188,15 +190,14 @@ updatedDate: "2026-09-07"
 
 ## 関連する売却ガイド
 
-- <a href="/guide/souzoku-fudousan-shobun-kanzen-guide">相続不動産の処分 完全ガイド2026</a>
-- <a href="/guide/joint-ownership-sale">共有持分の売却方法</a>
-- <a href="/guide/kyouyuu-mochibun-kaitori">共有持分の買取</a>
-- <a href="/guide/inheritance-registry">相続登記の義務化と手続きガイド</a>
-- <a href="/guide/souzoku-ie-doushitara-hub">相続した家 どうすればいい？完全ハブガイド</a>
+- <a href="/guide/parent-death-house/">相続不動産の処分 完全ガイド2026</a>
+- <a href="/guide/kyouyuu-mochibun-kaitori/">共有持分の買取</a>
+- <a href="/guide/inheritance-registry-neglect-sale-3options/">相続登記の義務化と手続きガイド</a>
+- <a href="/guide/souzoku-ie-doushitara-hub/">相続した家 どうすればいい？完全ハブガイド</a>
 
 ## 相続したマンション、一人で抱え込まないでください
 
-管理費の滞納・複数の相続人・遠方のマンション——こうした悩みを抱えたまま、売却できずにいる方からのご相談を多くいただいています。
+管理費の滞納・複数の相続人・遠方のマンション——こうした悩みを抱えたまま、売却できずにいる方のご相談もお受けしています。
 
 <strong>相続したマンションは、状況を整理すれば必ず出口があります。</strong>滞納があっても、共有持分の状態でも、まず現状を確認してから最適な方法を選ぶことができます。
 
@@ -204,7 +205,7 @@ LINEで状況をお聞かせください。査定・相談は完全無料、秘�
 
 <strong><a href="https://line.arshe1719.workers.dev/auth/line?ref=hp">LINEで無料相談する（空き家のミカタ）</a></strong>
 
-<a href="/contact">お問い合わせフォームはこちら</a>
+<a href="/contact/">お問い合わせフォームはこちら</a>
 
 
 
@@ -212,7 +213,7 @@ LINEで状況をお聞かせください。査定・相談は完全無料、秘�
 
 ## 関連するガイド記事
 
-- <a href="/guide/souzoku-hub">相続不動産 完全ハブ｜処分・売却・登記・固定資産税まで全ガイドをまとめて確認【2026年版】</a>
-- <a href="/guide/kuushitsu-manshon-baikyaku-kufuu">空室のマンションを売る｜内覧なしで高く売る3つの工夫【2026年版】</a>
+- <a href="/guide/parent-death-house/">相続した家の売り方と手続き</a>
+- <a href="/guide/kuushitsu-manshon-baikyaku-kufuu/">空室のマンションを売る｜内覧なしで高く売る3つの工夫【2026年版】</a>
 
 相談無料・秘密厳守・大阪・近畿対応

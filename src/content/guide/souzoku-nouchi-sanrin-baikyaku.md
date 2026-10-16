@@ -61,6 +61,19 @@ updatedDate: "2026-09-07"
 
 相続した農地・山林を放置しても、<strong>所有者の管理責任はなくなりません。</strong>第三者に損害を与えた場合（倒木・土砂崩れなど）に損害賠償を求められるリスクがあります。
 
+### 相続した直後にすること：許可は不要、届出と登記は必要
+
+農地を<strong>相続で取得すること自体には、農地法第3条の許可は要りません</strong>。ただし、次の手続きは別にあります。
+
+| 手続き | 根拠 | 期限 |
+|-------|------|------|
+| 農業委員会への届出 | 農地法第3条の3 | 遅滞なく（農地を取得したことを知った日から<strong>おおむね10か月以内</strong>が目安）。届出をしないと10万円以下の過料の対象になります |
+| 相続登記 | 不動産登記法（2024年4月1日から義務化） | 相続で取得したことを知った日から<strong>3年以内</strong> |
+
+農地か山林か、農地ならどの区分かによって、この先に進める道が変わります。まず届出を済ませたうえで、農業委員会に区分を確認してください。
+
+出典：農地法第3条の3／千葉市・浜松市など各市の「相続等で農地の権利を取得したときの届出」の案内／法務省「相続登記の申請義務化」（2026年10月12日確認）。10か月の数え始めの日は自治体で表記が異なるため、農業委員会に確認してください。
+
 ---
 
 <img src="/images/souzoku-nouchi-sanrin-hero.jpg" alt="相続した農地（田んぼ・畑）。農地法の許可を受ければ売却・転用が可能" />
@@ -202,11 +215,13 @@ updatedDate: "2026-09-07"
 
 ## 関連するガイド記事
 
-- <a href="/guide/inheritance-sale">相続した不動産を売却する完全ガイド</a>
-- <a href="/guide/inheritance-abandon">相続放棄したら家はどうなる？手続きの流れと注意点</a>
-- <a href="/guide/souzoku-houki-kigengire">相続放棄の期限（3ヶ月）を過ぎた場合の対処法</a>
-- <a href="/guide/akiya-kaitori">空き家の買取｜放置している空き家を現金化する方法</a>
-- <a href="/guide/akiya-koteishisanzei-6bai-hikaku">空き家の固定資産税が6倍に？特定空き家の条件と回避する方法</a>
+- <a href="/guide/parent-death-house/">相続した不動産を売却する完全ガイド</a>
+- <a href="/guide/inheritance-abandon/">相続放棄したら家はどうなる？手続きの流れと注意点</a>
+- <a href="/guide/souzoku-houki-kigengire/">相続放棄の期限（3ヶ月）を過ぎた場合の対処法</a>
+- <a href="/guide/akiya-shobun-5-hikaku/">空き家の処分方法の比較</a>
+- <a href="/guide/akiya-koteishisanzei-6bai-hikaku/">空き家の固定資産税が6倍に？特定空き家の条件と回避する方法</a>
+- <a href="/guide/forest-zasshu-inheritance-exit/">山林・雑種地の手放し方</a>
+- <a href="/guide/fuyou-nouchi-shobun-hiyou-hikaku/">不要な農地の処分費用の比較</a>
 
 ## 農地・山林の処分に迷ったら、まずご相談ください
 
@@ -214,7 +229,7 @@ updatedDate: "2026-09-07"
 
 <strong><a href="https://line.arshe1719.workers.dev/auth/line?ref=hp">LINEで無料相談する</a></strong>
 
-<a href="/contact">お問い合わせフォームはこちら</a>
+<a href="/contact/">お問い合わせフォームはこちら</a>
 
 メール：<a href="mailto:info.arshe@arshe-corp.com">info.arshe@arshe-corp.com</a>
 
@@ -223,4 +238,4 @@ updatedDate: "2026-09-07"
 空き家のミカタ（宅建業者）
 ---
 
-**このカテゴリの全ガイド一覧:** [→ 相続不動産 完全ハブ【2026年版】](/guide/souzoku-hub)
+**このカテゴリの中心の記事:** [→ 相続した家の売り方と手続き](/guide/parent-death-house/)

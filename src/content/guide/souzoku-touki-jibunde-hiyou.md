@@ -172,11 +172,10 @@ faqs:
 
 ## 関連するガイド記事
 
-- <a href="/guide/souzoku-fudousan-shobun-kanzen-guide">相続不動産の処分 完全ガイド2026｜法律・登記・比較表・失敗対策まで一気に解説</a>
-- <a href="/guide/souzoku-hub">相続不動産 完全ハブ｜処分・売却・登記・固定資産税・事例まで全ガイドをまとめて確認【2026年版】</a>
-- <a href="/guide/souzoku-apart-kanzen-guide">相続アパートを手放したい方へ｜売却の流れ・税金・失敗しない判断基準を宅建業者が完全解説【2026年最新】</a>
-- <a href="/guide/akiya-shobun-5-hikaku">空き家処分の5大選択肢を徹底比較【2026年版】費用・期間・手残り額</a>
-- <a href="/guide/akiya-souzoku-urenai">相続した空き家が売れない？3つの原因と4つの出口戦略｜再建築不可・未登記・共有名義も最短14日で現金化【2026年版】</a>
+- <a href="/guide/parent-death-house/">相続不動産の処分 完全ガイド2026｜法律・登記・比較表・失敗対策まで一気に解説</a>
+- <a href="/guide/souzoku-apart-kanzen-guide/">相続アパートを手放したい方へ｜売却の流れ・税金・失敗しない判断基準を宅建業者が完全解説【2026年最新】</a>
+- <a href="/guide/akiya-shobun-5-hikaku/">空き家処分の5大選択肢を徹底比較【2026年版】費用・期間・手残り額</a>
+- <a href="/guide/akiya-souzoku-urenai/">相続した空き家が売れない？3つの原因と4つの出口戦略｜再建築不可・未登記・共有名義も最短14日で現金化【2026年版】</a>
 
 ## まとめ：相続登記の費用を整理して、早めに行動を
 
@@ -196,4 +195,4 @@ faqs:
 
 <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" rel="noopener noreferrer" target="_blank"><strong>LINEで無料相談する</strong></a>
 
-<a href="/contact"><strong>問い合わせフォームから相談する</strong></a>
+<a href="/contact/"><strong>問い合わせフォームから相談する</strong></a>

@@ -2,6 +2,7 @@
 title: "相続アパート「売る・貸す・管理委託する」三択を徹底比較｜10年・20年手取りシミュレーター付き【2026年版】"
 description: "相続したアパートの三択（売却・賃貸継続・管理委託）を宅建業者が徹底比較。家賃収入・修繕費・固定資産税・管理費を入力すると10年・20年後の手取りが自動計算されます。Comparison Schema・HowTo Schema実装。"
 publishDate: "2026-04-23"
+noindex: true
 updatedDate: "2026-05-29"
 author: "八木宏樹（合同会社アルシェ代表）"
 authorTitle: "宅地建物取引業者（大阪府知事(1)第65646号）"
@@ -43,6 +44,8 @@ cluster: "inheritance"
 相続したアパート、どうするか決められていますか。
 
 「とりあえず持っておく」「管理が面倒だから売りたい」「でも賃貸収入が惜しい」——そんな迷いをお持ちの方は多くいます。<strong>「売る・貸し続ける・管理委託する」の三択は、10年後・20年後の手取りに数百万円〜数千万円の差を生む意思決定です。</strong>
+
+このテーマの全体像は[相続アパートの売却ガイド](/guide/souzoku-apart-kanzen-guide/)にまとめています。
 
 この記事では、三択それぞれの収支構造をわかりやすく解説し、自分の物件に当てはめてシミュレーションできるツールを提供します。
 
@@ -341,13 +344,12 @@ document.addEventListener('DOMContentLoaded', calculateSim);
 
 ## 関連するガイド記事
 
-- [相続アパートを手放したい方へ｜売却の流れ・税金・判断基準の完全ガイド](/guide/souzoku-apart-kanzen-guide)
-- [相続アパートの維持費シミュレーション（固定資産税・修繕費・管理費の10年間コスト）](/guide/souzoku-apart-cost-simulation)
-- [相続アパートの買取｜管理できない入居者付きアパートも直接買取](/guide/souzoku-apart-kaitori)
-- [相続アパートはいつ売るべき？売却タイミングの判断基準](/guide/souzoku-apart-timing)
+- [相続アパートを手放したい方へ｜売却の流れ・税金・判断基準の完全ガイド](/guide/souzoku-apart-kanzen-guide/)
+- [相続アパートの維持費シミュレーション（固定資産税・修繕費・管理費の10年間コスト）](/guide/souzoku-apart-cost-simulation/)
+- [相続アパートはいつ売るべき？売却タイミングの判断基準](/guide/souzoku-apart-timing/)
 
 ---
-- <a href="/guide/souzoku-hub">相続不動産 完全ハブ｜処分・売却・登記・固定資産税まで全ガイドをまとめて確認【2026年版】</a>
+- <a href="/guide/parent-death-house/">相続した家の売り方と手続き</a>
 
 ## 相続アパートのご相談はこちら
 
@@ -356,6 +358,6 @@ document.addEventListener('DOMContentLoaded', calculateSim);
 <div style="background:#f0f7ff;border:2px solid #1a56db;border-radius:8px;padding:1.5rem;margin:1.5rem 0;text-align:center;">
   <p style="font-size:1.1rem;font-weight:bold;margin-bottom:1rem;">今すぐ無料で相談する</p>
   <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06C755;color:white;padding:12px 32px;border-radius:6px;text-decoration:none;font-weight:bold;font-size:1rem;margin-right:8px;">LINEで相談（無料）</a>
-  <a href="/contact" style="display:inline-block;background:#1a56db;color:white;padding:12px 32px;border-radius:6px;text-decoration:none;font-weight:bold;font-size:1rem;margin-top:8px;">お問い合わせフォーム</a>
+  <a href="/contact/" style="display:inline-block;background:#1a56db;color:white;padding:12px 32px;border-radius:6px;text-decoration:none;font-weight:bold;font-size:1rem;margin-top:8px;">お問い合わせフォーム</a>
   <p style="font-size:0.85rem;color:#666;margin-top:1rem;">査定は無料・しつこい営業はしません。宅建業者の代表が直接対応します。</p>
 </div>

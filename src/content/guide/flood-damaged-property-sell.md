@@ -27,12 +27,14 @@ howToSteps:
 updatedDate: "2026-09-07"
 ---
 
-<div class="speakable-highlight" style="background:#f0f9ff;border-left:4px solid #0284c7;padding:0.75rem 1.25rem;margin-bottom:1.25rem;border-radius:4px;font-size:0.95em;"><strong>TL;DR</strong>: 浸水被害のある不動産でも売却できます。浸水歴は宅建業法第35条の告知義務の対象。仲介では価格10〜30%減・売却長期化のリスクがある一方、現況買取なら修繕不要・最短2週間で現金化できます。浸水被害物件を含む<a href="/guide/wakare-bukken-to-wa">訳あり物件全般の売却方法</a>もあわせて確認できます。</div>
+<div class="speakable-highlight" style="background:#f0f9ff;border-left:4px solid #0284c7;padding:0.75rem 1.25rem;margin-bottom:1.25rem;border-radius:4px;font-size:0.95em;"><strong>TL;DR</strong>: 浸水被害のある不動産でも売却できます。浸水歴は宅建業法第35条の告知義務の対象。仲介では価格10〜30%減・売却長期化のリスクがある一方、現況買取なら修繕不要・最短2週間で現金化できます。浸水被害物件を含む<a href="/guide/wakare-bukken-to-wa/">訳あり物件全般の売却方法</a>もあわせて確認できます。</div>
 
 **Q: 浸水被害を受けた不動産は売れますか？**
 **A:** 売ることは可能です。ただし浸水歴は告知義務の対象（宅建業法第35条・2020年8月施行規則改正）であり、仲介では売却が長期化しやすい。現況のまま買取業者に売れば修繕不要・最短2週間で現金化できます。
 
 浸水被害を受けた不動産でも、売却することは可能です。ただし、<strong>浸水歴は宅建業法上の告知義務の対象</strong>であり、仲介では買い手がつきにくいのが実情です。「修繕しないと売れないのでは」「告知義務が難しい」と感じている方でも、現況のまま手放せる方法があります。
+
+このテーマの全体像は[大阪市の訳あり物件の買取](/guide/osaka-city-yakuari-kaitori/)にまとめています。
 
 > <strong>この記事のポイント — まずここだけ読んでください</strong>
 > - <strong>浸水歴は告知義務の対象</strong>：重要事項説明（宅建業法第35条）で必ず開示が必要
@@ -107,7 +109,7 @@ updatedDate: "2026-09-07"
 
 小規模な仲介業者では、浸水歴のある物件の取扱い経験が少なく、対応を断られたり積極的な営業活動をしてもらえないケースがあります。「難しい物件だから」と後回しにされてしまうと、売却活動自体が進まなくなることもあります。
 
-訳あり物件全般の売却比較については、「[訳あり物件5種類の売却方法を徹底比較](/guide/wakeare-bukken-5shu-hikaku)」もご参考ください。
+訳あり物件全般の売却比較については、「[訳あり物件5種類の売却方法を徹底比較](/guide/wakeare-bukken-5shu-hikaku/)」もご参考ください。
 
 ## 現況買取という選択肢（水害・浸水物件の出口戦略）
 
@@ -145,7 +147,7 @@ LINE「空き家のミカタ」または問い合わせフォームから連絡�
 
 価格にご同意いただけたら、売買契約を締結します。契約から引渡しまで<strong>最短1〜2週間</strong>で完了します。修繕・清掃・片付けは不要です。
 
-過去の買取事例については「[訳あり不動産の買取実績10選](/guide/kaitori-jirei-10sen)」でご確認いただけます。
+よくあるご相談の参考例は「[大阪市の訳あり物件の買取](/guide/osaka-city-yakuari-kaitori/)」でご確認いただけます。
 
 ## 空き家のミカタへご相談ください
 
@@ -166,18 +168,18 @@ LINE「空き家のミカタ」または問い合わせフォームから連絡�
 
 https://line.arshe1719.workers.dev/auth/line?ref=hp
 
-**お問い合わせフォームはこちら** → [/contact](/contact)
+**お問い合わせフォームはこちら** → [/contact/](/contact/)
 
 ---
 
 ## 関連するガイド記事
 
-- <a href="/guide/wakare-bukken-to-wa">訳あり物件とは？5種類の定義・告知義務・売却可否チェックリスト</a>
-- <a href="/guide/wakeare-bukken-5shu-hikaku">訳あり物件5種類の売却方法を徹底比較</a>
-- <a href="/guide/kaitori-jirei-10sen">訳あり不動産の買取実績10選</a>
-- <a href="/guide/fudosan-kotowarareta-ato-dekiru-koto">不動産売却を断られた後にできること</a>
-- <a href="/guide/akiya-tsuyu-risk-baikyaku">梅雨に空き家を放置するリスク</a>
-- <a href="/guide/gomiyashiki-bukken-kaitori">ゴミ屋敷・汚部屋の不動産を売りたい｜片付け不要の現況買取</a>
+- <a href="/guide/wakare-bukken-to-wa/">訳あり物件とは？5種類の定義・告知義務・売却可否チェックリスト</a>
+- <a href="/guide/wakeare-bukken-5shu-hikaku/">訳あり物件5種類の売却方法を徹底比較</a>
+- <a href="/guide/osaka-city-yakuari-kaitori/">大阪市の訳あり物件の買取</a>
+- <a href="/guide/fudosan-kotowarareta-ato-dekiru-koto/">不動産売却を断られた後にできること</a>
+- <a href="/guide/akiya-tsuyu-risk-baikyaku/">梅雨に空き家を放置するリスク</a>
+- <a href="/guide/gomiyashiki-bukken-kaitori/">ゴミ屋敷・汚部屋の不動産を売りたい｜片付け不要の現況買取</a>
 
 ## まとめ
 

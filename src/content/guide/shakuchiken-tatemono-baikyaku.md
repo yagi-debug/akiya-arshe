@@ -21,6 +21,8 @@ updatedDate: "2026-09-07"
 
 <strong>借地権付き建物は、売却できます。</strong> 地主との関係が複雑でも、建物が古くても、相続で取得したばかりでも、手放す方法はあります。
 
+このテーマの全体像は[底地の買取](/guide/sokochi-kaitori/)にまとめています。
+
 > <strong>借地権付き建物の売却 — まとめ</strong>
 > - <strong>売却相場の目安</strong>：更地価格の50〜70%（立地・建物の状態・借地権割合により変動）
 > - <strong>売却方法</strong>：地主への売却／第三者への売却／買取業者への売却／底地との同時売却
@@ -249,11 +251,10 @@ LINEまたはお問い合わせフォームから、物件の情報をお送り�
 
 ## 関連する売却ガイド
 
-- <a href="/guide/sokochi-kaitori">底地の買取ガイド</a>
-- <a href="/guide/inheritance-sale">相続した不動産を売却する完全ガイド</a>
-- <a href="/guide/inheritance-registry">相続登記の義務化と手続きガイド</a>
-- <a href="/guide/saikenchifu-kaitori">再建築不可物件の買取</a>
-- <a href="/guide/non-rebuildable-property-sale">再建築不可物件の売却方法</a>
+- <a href="/guide/sokochi-kaitori/">底地の買取ガイド</a>
+- <a href="/guide/parent-death-house/">相続した不動産を売却する完全ガイド</a>
+- <a href="/guide/inheritance-registry-neglect-sale-3options/">相続登記の義務化と手続きガイド</a>
+- <a href="/guide/non-rebuildable-property-sale/">再建築不可物件の売却方法</a>
 
 ## 借地権付き建物、ひとりで悩まないでください
 
@@ -263,7 +264,7 @@ LINEまたはお問い合わせフォームから、物件の情報をお送り�
 
 <strong><a href="https://line.arshe1719.workers.dev/auth/line?ref=hp">LINEで無料相談する</a></strong>
 
-<a href="/contact">お問い合わせフォームはこちら</a>
+<a href="/contact/">お問い合わせフォームはこちら</a>
 
 メール：<a href="mailto:info.arshe@arshe-corp.com">info.arshe@arshe-corp.com</a>
 
@@ -272,4 +273,4 @@ LINEまたはお問い合わせフォームから、物件の情報をお送り�
 空き家のミカタ（宅建業者）
 ---
 
-**このカテゴリの全ガイド一覧:** [→ 再建築不可物件 完全ハブ【2026年版】](/guide/saikenchifu-hub)
+**このカテゴリの中心の記事:** [→ 再建築不可物件の売却方法](/guide/non-rebuildable-property-sale/)

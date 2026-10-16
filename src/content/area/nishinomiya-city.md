@@ -47,7 +47,7 @@ author: "宅建業者"
 兵庫県全体の空き家率は<strong>約14.6%（出典：総務省「令和5年住宅・土地統計調査」）</strong>です。西宮市は全国の中核市の中で空き家率が比較的低い水準にあるものの、高齢化に伴う相続・住み替えで発生する管理不全の空き家は増加傾向にあります。
 
 - 西宮市は「西宮市空家等対策計画」を策定し、特定空き家への勧告・代執行を段階的に強化中
-- <strong>特定空き家に認定されると固定資産税が最大6倍</strong>になるリスクがある（[詳細はこちら](/guide/vacancy-tax-6times)）
+- <strong>特定空き家に認定されると固定資産税が最大6倍</strong>になるリスクがある（[詳細はこちら](/guide/akiya-koteishisanzei-6bai-hikaku/)）
 - 相続後に兄弟姉妹間で売却合意が取れないまま放置されるケースが西宮市でも増加している
 
 ### JR西宮駅南西地区の密集市街地問題
@@ -93,7 +93,7 @@ JR西宮駅の南西側には<strong>老朽木造建築物が密集するエリ�
 
 <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06C755;color:#fff;font-weight:bold;padding:0.75rem 2rem;border-radius:0.5rem;text-decoration:none;margin:0.5rem 0;">LINEで無料相談する（24時間受付）</a>
 
-<a href="/contact" style="display:inline-block;background:#2563eb;color:#fff;font-weight:bold;padding:0.75rem 2rem;border-radius:0.5rem;text-decoration:none;margin:0.5rem 0;">お問い合わせフォームはこちら</a>
+<a href="/contact/" style="display:inline-block;background:#2563eb;color:#fff;font-weight:bold;padding:0.75rem 2rem;border-radius:0.5rem;text-decoration:none;margin:0.5rem 0;">お問い合わせフォームはこちら</a>
 
 空き家のミカタ（宅建業者・大阪府知事(1)第65646号）
 
@@ -101,14 +101,14 @@ JR西宮駅の南西側には<strong>老朽木造建築物が密集するエリ�
 
 ## 関連するエリアページ
 
-- <a href="/area/osaka-city">大阪市の訳あり物件買取完全ガイド</a>
-- <a href="/area/hyogo-pref">兵庫県の空き家補助金・空き家バンク</a>
-- <a href="/area/amagasaki-city">尼崎市の不動産買取相場</a>
-- <a href="/area/kobe-city">神戸市の不動産買取相場</a>
-- <a href="/area/takatsuki-city">高槻市の不動産買取相場</a>
+- <a href="/guide/osaka-city-yakuari-kaitori/">大阪市の訳あり物件買取完全ガイド</a>
+- <a href="/area/hyogo-pref/">兵庫県の空き家補助金・空き家バンク</a>
+- <a href="/area/amagasaki-city/">尼崎市の不動産買取相場</a>
+- <a href="/area/kobe-city/">神戸市の不動産買取相場</a>
+- <a href="/area/takatsuki-city/">高槻市の不動産買取相場</a>
 
 ## 関連ガイド
 
-- <a href="/guide/souzoku-apart-kaitori">相続アパートの買取｜管理できない入居者付きアパートも直接買取</a>
-- <a href="/guide/non-rebuildable-property-sale">再建築不可物件の売却方法と注意点</a>
-- <a href="/guide/akiya-kaitori">空き家の買取｜放置している空き家を現金化する方法</a>
+- <a href="/guide/souzoku-apart-kanzen-guide/">相続アパートの買取｜管理できない入居者付きアパートも直接買取</a>
+- <a href="/guide/non-rebuildable-property-sale/">再建築不可物件の売却方法と注意点</a>
+- <a href="/guide/akiya-shobun-5-hikaku/">空き家の処分方法の比較</a>

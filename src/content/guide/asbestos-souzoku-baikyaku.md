@@ -94,7 +94,7 @@ howToSteps:
 
 「解体費用が高すぎて捻出できない」という方は少なくありません。そのような場合は、<strong>アスベスト含有建物を現況のまま訳あり買取業者に売却する</strong>のが有効な選択肢です。解体費用を差し引いた金額での買取になりますが、自分で費用を用意することなく売却が完結します。
 
-解体費用の工面でお困りの場合は[空き家の解体費用が払えない場合の対処法](/guide/akiya-kaitai-hiyou-haraenai)もご参照ください。
+解体費用の工面でお困りの場合は[空き家の解体費用が払えない場合の対処法](/guide/akiya-kaitai-hiyou-haraenai/)もご参照ください。
 
 ---
 
@@ -136,7 +136,7 @@ howToSteps:
 
 <strong>向いている方</strong>: 時間に余裕があり、自力で解体費用・除去費用の交渉ができる方
 
-訳あり物件専門の買取と仲介の違いについては[大阪の不動産買取 vs 仲介 比較ガイド](/guide/osaka-kaitori-vs-chukai)もご参照ください。
+訳あり物件専門の買取と仲介の違いについては[大阪の不動産買取 vs 仲介 比較ガイド](/guide/osaka-kaitori-vs-chukai/)もご参照ください。
 
 ---
 
@@ -146,7 +146,7 @@ howToSteps:
 
 **ステップ1：相続登記の完了（必須・3年以内）**
 
-2024年4月1日以降、相続を知った日から3年以内の登記が義務化されています（不動産登記法76条の2）。登記が完了していないと売却できません。10万円以下の過料の対象にもなります。詳しくは[相続登記義務化の完全対応ガイド2026](/guide/souzoku-touki-gimuka-kanzen-taiou-2026)をご覧ください。
+2024年4月1日以降、相続を知った日から3年以内の登記が義務化されています（不動産登記法76条の2）。登記が完了していないと売却できません。10万円以下の過料の対象にもなります。詳しくは[相続登記義務化の完全対応ガイド2026](/guide/inheritance-registry-neglect-sale-3options/)をご覧ください。
 
 **ステップ2：アスベスト事前調査の手配**
 
@@ -167,7 +167,7 @@ howToSteps:
 > <strong>宅建業者の視点</strong>  
 > 「アスベスト含有建物は、一般の仲介では動かしにくい物件です。複数の買取業者に無料査定を依頼して比較するのが損をしないコツです。当社は訳あり物件の現況買取を専門としていますので、まずはお気軽にご相談ください。」
 
-相続不動産の処分方法の全体像は[相続不動産の処分完全ガイド](/guide/souzoku-fudousan-shobun-kanzen-guide)もあわせてご参照ください。
+相続不動産の処分方法の全体像は[相続不動産の処分完全ガイド](/guide/parent-death-house/)もあわせてご参照ください。
 
 ---
 
@@ -202,7 +202,7 @@ A. 訳あり物件専門の買取業者への相談をお勧めします。専�
 
 ---
 
-**このカテゴリの全ガイド一覧:** [→ 相続不動産 完全ハブ【2026年版】](/guide/souzoku-hub)
+**このカテゴリの中心の記事:** [→ 相続した家の売り方と手続き](/guide/parent-death-house/)
 
 **工場・倉庫・店舗付き住宅をお持ちの方へ:** [→ 工場・倉庫・店舗付き住宅の売却相談はこちら](/guide/jigyoyo-fudosan-kaitori/)
 
@@ -213,4 +213,4 @@ A. 訳あり物件専門の買取業者への相談をお勧めします。専�
 アスベスト含有建物・古い建物の相続・売却について、訳あり物件専門の宅建業者が無料でご相談をお受けしています。解体費用の見通しが立たない・仲介業者に断られた・早く手放したいなど、どのようなご事情でもお気軽にご連絡ください。
 
 <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06C755;color:#fff;padding:14px 32px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 8px 8px 0;">LINEで無料相談（即日対応）</a>
-<a href="/contact" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 32px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 0;">お問い合わせフォーム</a>
+<a href="/contact/" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 32px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 0;">お問い合わせフォーム</a>

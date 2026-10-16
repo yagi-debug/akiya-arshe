@@ -2,6 +2,7 @@
 title: "訳あり物件5種類の売却難易度を比較｜タイプ別の最適な売り方を宅建業者が解説"
 description: "再建築不可・事故物件・共有持分・相続アパート・空き家の5種類を売却難易度・仲介成約のしやすさ・買取対応の3軸で比較。訳あり物件ごとの最適な売却方法を宅建業者が解説します。"
 publishDate: "2026-04-17"
+noindex: true
 updatedDate: "2026-09-07"
 author: "宅建業者"
 heroImage: "/images/wakeare-bukken-hikaku-hero.jpg"
@@ -32,6 +33,8 @@ cluster: "accident"
 > - **価格の目安**：種類・状態によって市場価格の30〜80%程度（詳細は下表参照）
 
 訳あり物件を売りたいと思って不動産会社に相談したのに、「うちでは取り扱えません」と断られてしまった——そんな経験をお持ちの方は少なくありません。
+
+関連する内容は[訳あり物件5タイプの比較](/guide/wakeari-bukken-type-kaitori-hikaku/)で詳しく解説しています。
 
 <strong>訳あり物件にはいくつかの種類があり、種類によって売却の難しさも最適な売り方もまったく異なります。</strong>同じ「訳あり」でも、空き家と再建築不可物件では事情が大きく違います。
 
@@ -91,7 +94,7 @@ cluster: "accident"
 
 仲介での売却はかなり困難です。<strong>買取専門業者</strong>であれば、隣地の買い増しによる接道確保やセットバック（道路後退）の可能性を検討したうえで購入するため、仲介より売却が成立しやすくなります。
 
-再建築不可物件の詳しい売却方法は<a href="/guide/saikenchifu-kaitori">再建築不可物件の買取ガイド</a>で解説しています。
+再建築不可物件の詳しい売却方法は<a href="/guide/non-rebuildable-property-sale/">再建築不可物件の買取ガイド</a>で解説しています。
 
 ## タイプ②：事故物件（売却難易度：高い）
 
@@ -113,7 +116,7 @@ cluster: "accident"
 
 <strong>自然死であれば、売却価格への影響はほとんどありません。</strong>一方、自殺や殺人事件の場合は相場から大幅に下がる傾向があります。
 
-事故物件の買取業者は告知事項がある物件を数多く取り扱っているため、仲介で断られた場合でも売却できる可能性があります。告知義務の詳細は<a href="/guide/shinriteki-kashi-kokuchi-gimu">心理的瑕疵の告知義務ガイド</a>で解説しています。
+事故物件の買取業者は告知事項がある物件を数多く取り扱っているため、仲介で断られた場合でも売却できる可能性があります。告知義務の詳細は<a href="/guide/shinriteki-kashi-kokuchi-gimu/">心理的瑕疵の告知義務ガイド</a>で解説しています。
 
 ## タイプ③：共有持分（売却難易度：高い）
 
@@ -131,7 +134,7 @@ cluster: "accident"
 
 <strong>最善の方法は共有者全員で合意して物件全体を売却すること</strong>です。全体売却であれば市場価格に近い金額での売却が期待できます。
 
-全員の合意が得られない場合は、<strong>自分の持分だけを買取専門業者に売却する方法</strong>があります。持分のみの売却では価格が大幅に下がりますが、共有関係のストレスから解放されるメリットがあります。共有持分の売却について詳しくは<a href="/guide/kyouyuu-mochibun-kaitori">共有持分の買取ガイド</a>をご覧ください。
+全員の合意が得られない場合は、<strong>自分の持分だけを買取専門業者に売却する方法</strong>があります。持分のみの売却では価格が大幅に下がりますが、共有関係のストレスから解放されるメリットがあります。共有持分の売却について詳しくは<a href="/guide/kyouyuu-mochibun-kaitori/">共有持分の買取ガイド</a>をご覧ください。
 
 ## タイプ④：相続アパート（売却難易度：やや高い）
 
@@ -148,7 +151,7 @@ cluster: "accident"
 
 入居者がいるアパートでも、<strong>「オーナーチェンジ」で売却が可能</strong>です。入居者はそのまま住み続け、所有権だけが新しいオーナーに移ります。退去を待つ必要はありません。
 
-仲介でも売却できるケースはありますが、<strong>築古・旧耐震基準（1981年5月以前）・空室が多い場合は買取の方が確実で早い</strong>です。相続アパートの買取については<a href="/guide/inherited-apartment-buyout">相続アパートの買取ガイド</a>で詳しく解説しています。
+仲介でも売却できるケースはありますが、<strong>築古・旧耐震基準（1981年5月以前）・空室が多い場合は買取の方が確実で早い</strong>です。相続アパートの買取については<a href="/guide/inherited-apartment-buyout/">相続アパートの買取ガイド</a>で詳しく解説しています。
 
 ## タイプ⑤：空き家（売却難易度：比較的低い）
 
@@ -169,7 +172,7 @@ cluster: "accident"
 - 遠方にあり現地対応が難しい場合
 - 相続税の納税期限など、早急に現金化が必要な場合
 
-空き家の買取について詳しくは<a href="/guide/akiya-kaitori">空き家の買取ガイド</a>をご覧ください。
+空き家の買取について詳しくは<a href="/guide/akiya-shobun-5-hikaku/">空き家の処分方法の比較</a>をご覧ください。
 
 ## 仲介と買取、どちらを選ぶべきか
 
@@ -236,11 +239,11 @@ cluster: "accident"
 
 ## 関連するガイド記事
 
-- <a href="/guide/saikenchifu-kaitori">再建築不可物件の買取ガイド</a>
-- <a href="/guide/jiko-bukken-kaitori">事故物件の買取ガイド</a>
-- <a href="/guide/kyouyuu-mochibun-kaitori">共有持分の買取ガイド</a>
-- <a href="/guide/inherited-apartment-buyout">相続アパートの買取ガイド</a>
-- <a href="/guide/akiya-kaitori">空き家の買取ガイド</a>
+- <a href="/guide/non-rebuildable-property-sale/">再建築不可物件の買取ガイド</a>
+- <a href="/guide/jiko-bukken-hub/">事故物件の買取ガイド</a>
+- <a href="/guide/kyouyuu-mochibun-kaitori/">共有持分の買取ガイド</a>
+- <a href="/guide/inherited-apartment-buyout/">相続アパートの買取ガイド</a>
+- <a href="/guide/akiya-shobun-5-hikaku/">空き家の処分方法の比較</a>
 
 ## 訳あり物件の売却、まずはご相談ください
 
@@ -252,7 +255,7 @@ cluster: "accident"
 
 <strong><a href="https://line.arshe1719.workers.dev/auth/line?ref=hp">LINEで無料相談する</a></strong>
 
-<a href="/contact">お問い合わせフォームはこちら</a>
+<a href="/contact/">お問い合わせフォームはこちら</a>
 
 メール：<a href="mailto:info.arshe@arshe-corp.com">info.arshe@arshe-corp.com</a>
 
@@ -261,4 +264,4 @@ cluster: "accident"
 空き家のミカタ（宅建業者）
 ---
 
-**このカテゴリの全ガイド一覧:** [→ 事故物件 完全ハブ【2026年版】](/guide/jiko-bukken-hub)
+**このカテゴリの全ガイド一覧:** [→ 事故物件 完全ハブ【2026年版】](/guide/jiko-bukken-hub/)

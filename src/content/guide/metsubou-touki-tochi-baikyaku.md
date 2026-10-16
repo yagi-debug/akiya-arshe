@@ -30,6 +30,8 @@ howToSteps:
 
 親が亡くなって相続手続きを進めていたら、「実家はもうとっくに取り壊したはずなのに、登記簿には建物が残ったままだった」——そういう状況に直面した方からのご相談が増えています。
 
+このテーマの全体像は[相続登記を放置した実家の売却](/guide/inheritance-registry-neglect-sale-3options/)にまとめています。
+
 <strong>建物を解体したあとに「建物滅失登記」を申請しないまま放置していても、土地の売却はできます。ただし、登記簿上に建物が「存在している」状態のまま売ろうとすると、買主がローンを組みにくいなど支障が出るため、先に滅失登記を完了させるのが基本です。</strong>
 
 この記事では、建物滅失登記の義務・放置した場合のリスク・手続きの費用と期間・買取業者を活用したスムーズな解決策を具体的に説明します。
@@ -220,9 +222,9 @@ A. 建物滅失登記が完了すると、市区町村への通知が行われ�
 
 <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" target="_blank" rel="noopener noreferrer" style="display:inline-block;background:#06C755;color:#fff;padding:12px 28px;border-radius:6px;text-decoration:none;font-weight:bold;margin:8px 4px;">LINE「空き家のミカタ」に相談する（無料）</a>
 
-<a href="/contact" style="display:inline-block;background:#333;color:#fff;padding:12px 28px;border-radius:6px;text-decoration:none;font-weight:bold;margin:8px 4px;">お問い合わせフォームで相談する</a>
+<a href="/contact/" style="display:inline-block;background:#333;color:#fff;padding:12px 28px;border-radius:6px;text-decoration:none;font-weight:bold;margin:8px 4px;">お問い合わせフォームで相談する</a>
 
 登記の不備があっても、すぐに売れないわけではありません。状況を整理するところからお手伝いします。
 ---
 
-**このカテゴリの全ガイド一覧:** [→ 相続不動産 完全ハブ【2026年版】](/guide/souzoku-hub)
+**このカテゴリの中心の記事:** [→ 相続した家の売り方と手続き](/guide/parent-death-house/)

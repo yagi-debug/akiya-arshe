@@ -2,6 +2,7 @@
 title: "再建築不可物件 完全ハブ｜売却・買取・価格相場・事例まで全ガイドまとめ【2026年版】"
 description: "再建築不可物件（接道不足・袋地・前面道路2m未満）の売却・買取・賃貸・隣地交渉まで、宅建業者（大阪府知事(1)第65646号）が執筆した全ガイドを一覧できるハブページ。「仲介で断られた」「相続した」「価格が知りたい」状況別に最適な記事へ案内します。"
 publishDate: "2026-05-30"
+noindex: true
 updatedDate: "2026-09-07"
 author: "空き家のミカタ編集部"
 authorTitle: "宅地建物取引業者（大阪府知事(1)第65646号）"
@@ -122,42 +123,42 @@ A: はい、買取できます。接道義務（建築基準法第43条：幅4m�
 ## あなたの状況に近いものは？ {#selector}
 
 <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:12px;margin:1.5rem 0;">
-  <a href="/guide/saikenchifu-kaitori" style="display:block;padding:16px;border:2px solid #e2e8f0;border-radius:8px;text-decoration:none;color:inherit;transition:border-color 0.2s,box-shadow 0.2s;" onmouseover="this.style.borderColor='#0ea5e9';this.style.boxShadow='0 2px 8px rgba(14,165,233,0.15)'" onmouseout="this.style.borderColor='#e2e8f0';this.style.boxShadow='none'">
+  <a href="/guide/non-rebuildable-property-sale/" style="display:block;padding:16px;border:2px solid #e2e8f0;border-radius:8px;text-decoration:none;color:inherit;transition:border-color 0.2s,box-shadow 0.2s;" onmouseover="this.style.borderColor='#0ea5e9';this.style.boxShadow='0 2px 8px rgba(14,165,233,0.15)'" onmouseout="this.style.borderColor='#e2e8f0';this.style.boxShadow='none'">
     <div style="font-size:1.4rem;margin-bottom:6px;">🏚️</div>
     <div style="font-weight:700;font-size:0.95rem;color:#1e293b;margin-bottom:4px;">仲介で売れなかった・断られた</div>
     <div style="font-size:0.8rem;color:#64748b;">→ 直接買取の方法・流れを確認</div>
   </a>
-  <a href="/guide/saikenchifu-kaitori-souba" style="display:block;padding:16px;border:2px solid #e2e8f0;border-radius:8px;text-decoration:none;color:inherit;transition:border-color 0.2s,box-shadow 0.2s;" onmouseover="this.style.borderColor='#0ea5e9';this.style.boxShadow='0 2px 8px rgba(14,165,233,0.15)'" onmouseout="this.style.borderColor='#e2e8f0';this.style.boxShadow='none'">
+  <a href="/guide/saikenchifu-kaitori-souba/" style="display:block;padding:16px;border:2px solid #e2e8f0;border-radius:8px;text-decoration:none;color:inherit;transition:border-color 0.2s,box-shadow 0.2s;" onmouseover="this.style.borderColor='#0ea5e9';this.style.boxShadow='0 2px 8px rgba(14,165,233,0.15)'" onmouseout="this.style.borderColor='#e2e8f0';this.style.boxShadow='none'">
     <div style="font-size:1.4rem;margin-bottom:6px;">💴</div>
     <div style="font-weight:700;font-size:0.95rem;color:#1e293b;margin-bottom:4px;">価格・相場が知りたい</div>
     <div style="font-size:0.8rem;color:#64748b;">→ 大阪市エリア別の買取相場と価格帯</div>
   </a>
-  <a href="/guide/souzoku-jirei-04-saikenchifu-kaitori" style="display:block;padding:16px;border:2px solid #e2e8f0;border-radius:8px;text-decoration:none;color:inherit;transition:border-color 0.2s,box-shadow 0.2s;" onmouseover="this.style.borderColor='#0ea5e9';this.style.boxShadow='0 2px 8px rgba(14,165,233,0.15)'" onmouseout="this.style.borderColor='#e2e8f0';this.style.boxShadow='none'">
+  <a href="/guide/souzoku-jirei-04-saikenchifu-kaitori/" style="display:block;padding:16px;border:2px solid #e2e8f0;border-radius:8px;text-decoration:none;color:inherit;transition:border-color 0.2s,box-shadow 0.2s;" onmouseover="this.style.borderColor='#0ea5e9';this.style.boxShadow='0 2px 8px rgba(14,165,233,0.15)'" onmouseout="this.style.borderColor='#e2e8f0';this.style.boxShadow='none'">
     <div style="font-size:1.4rem;margin-bottom:6px;">📖</div>
     <div style="font-weight:700;font-size:0.95rem;color:#1e293b;margin-bottom:4px;">相続して、4社に断られた</div>
-    <div style="font-size:0.8rem;color:#64748b;">→ 23日で現金化した事例・全記録</div>
+    <div style="font-size:0.8rem;color:#64748b;">→ 23日で現金化したケース（参考例）</div>
   </a>
-  <a href="/guide/saikenchifu-chintai-risk" style="display:block;padding:16px;border:2px solid #e2e8f0;border-radius:8px;text-decoration:none;color:inherit;transition:border-color 0.2s,box-shadow 0.2s;" onmouseover="this.style.borderColor='#0ea5e9';this.style.boxShadow='0 2px 8px rgba(14,165,233,0.15)'" onmouseout="this.style.borderColor='#e2e8f0';this.style.boxShadow='none'">
+  <a href="/guide/saikenchifu-chintai-risk/" style="display:block;padding:16px;border:2px solid #e2e8f0;border-radius:8px;text-decoration:none;color:inherit;transition:border-color 0.2s,box-shadow 0.2s;" onmouseover="this.style.borderColor='#0ea5e9';this.style.boxShadow='0 2px 8px rgba(14,165,233,0.15)'" onmouseout="this.style.borderColor='#e2e8f0';this.style.boxShadow='none'">
     <div style="font-size:1.4rem;margin-bottom:6px;">🏠</div>
     <div style="font-weight:700;font-size:0.95rem;color:#1e293b;margin-bottom:4px;">賃貸に出すか、売るか迷っている</div>
     <div style="font-size:0.8rem;color:#64748b;">→ 再建築不可を賃貸にするリスク比較</div>
   </a>
-  <a href="/guide/souzoku-jirei-05-rentouji-nagaya-kaitori" style="display:block;padding:16px;border:2px solid #e2e8f0;border-radius:8px;text-decoration:none;color:inherit;transition:border-color 0.2s,box-shadow 0.2s;" onmouseover="this.style.borderColor='#0ea5e9';this.style.boxShadow='0 2px 8px rgba(14,165,233,0.15)'" onmouseout="this.style.borderColor='#e2e8f0';this.style.boxShadow='none'">
+  <a href="/guide/souzoku-jirei-05-rentouji-nagaya-kaitori/" style="display:block;padding:16px;border:2px solid #e2e8f0;border-radius:8px;text-decoration:none;color:inherit;transition:border-color 0.2s,box-shadow 0.2s;" onmouseover="this.style.borderColor='#0ea5e9';this.style.boxShadow='0 2px 8px rgba(14,165,233,0.15)'" onmouseout="this.style.borderColor='#e2e8f0';this.style.boxShadow='none'">
     <div style="font-size:1.4rem;margin-bottom:6px;">🏘️</div>
     <div style="font-weight:700;font-size:0.95rem;color:#1e293b;margin-bottom:4px;">連棟式・長屋で困っている</div>
     <div style="font-size:0.8rem;color:#64748b;">→ 連棟式長屋の買取事例（3社断られた）</div>
   </a>
-  <a href="/guide/shakuchiken-tatemono-baikyaku" style="display:block;padding:16px;border:2px solid #e2e8f0;border-radius:8px;text-decoration:none;color:inherit;transition:border-color 0.2s,box-shadow 0.2s;" onmouseover="this.style.borderColor='#0ea5e9';this.style.boxShadow='0 2px 8px rgba(14,165,233,0.15)'" onmouseout="this.style.borderColor='#e2e8f0';this.style.boxShadow='none'">
+  <a href="/guide/shakuchiken-tatemono-baikyaku/" style="display:block;padding:16px;border:2px solid #e2e8f0;border-radius:8px;text-decoration:none;color:inherit;transition:border-color 0.2s,box-shadow 0.2s;" onmouseover="this.style.borderColor='#0ea5e9';this.style.boxShadow='0 2px 8px rgba(14,165,233,0.15)'" onmouseout="this.style.borderColor='#e2e8f0';this.style.boxShadow='none'">
     <div style="font-size:1.4rem;margin-bottom:6px;">📜</div>
     <div style="font-weight:700;font-size:0.95rem;color:#1e293b;margin-bottom:4px;">借地権・底地付きで売り方がわからない</div>
     <div style="font-size:0.8rem;color:#64748b;">→ 借地権建物・底地の売却方法と手順</div>
   </a>
-  <a href="/guide/saikenchifu-bukken-teigi-hikaku" style="display:block;padding:16px;border:2px solid #e2e8f0;border-radius:8px;text-decoration:none;color:inherit;transition:border-color 0.2s,box-shadow 0.2s;" onmouseover="this.style.borderColor='#0ea5e9';this.style.boxShadow='0 2px 8px rgba(14,165,233,0.15)'" onmouseout="this.style.borderColor='#e2e8f0';this.style.boxShadow='none'">
+  <a href="/guide/saikenchifu-bukken-teigi-hikaku/" style="display:block;padding:16px;border:2px solid #e2e8f0;border-radius:8px;text-decoration:none;color:inherit;transition:border-color 0.2s,box-shadow 0.2s;" onmouseover="this.style.borderColor='#0ea5e9';this.style.boxShadow='0 2px 8px rgba(14,165,233,0.15)'" onmouseout="this.style.borderColor='#e2e8f0';this.style.boxShadow='none'">
     <div style="font-size:1.4rem;margin-bottom:6px;">📋</div>
     <div style="font-weight:700;font-size:0.95rem;color:#1e293b;margin-bottom:4px;">再建築不可かどうかを確認したい</div>
     <div style="font-size:0.8rem;color:#64748b;">→ 定義・種類・確認方法を解説</div>
   </a>
-  <a href="/guide/saikenchifu-kaitori-jirei" style="display:block;padding:16px;border:2px solid #e2e8f0;border-radius:8px;text-decoration:none;color:inherit;transition:border-color 0.2s,box-shadow 0.2s;" onmouseover="this.style.borderColor='#0ea5e9';this.style.boxShadow='0 2px 8px rgba(14,165,233,0.15)'" onmouseout="this.style.borderColor='#e2e8f0';this.style.boxShadow='none'">
+  <a href="/guide/saikenchifu-kaitori-jirei/" style="display:block;padding:16px;border:2px solid #e2e8f0;border-radius:8px;text-decoration:none;color:inherit;transition:border-color 0.2s,box-shadow 0.2s;" onmouseover="this.style.borderColor='#0ea5e9';this.style.boxShadow='0 2px 8px rgba(14,165,233,0.15)'" onmouseout="this.style.borderColor='#e2e8f0';this.style.boxShadow='none'">
     <div style="font-size:1.4rem;margin-bottom:6px;">📊</div>
     <div style="font-weight:700;font-size:0.95rem;color:#1e293b;margin-bottom:4px;">買取事例・実例を見たい</div>
     <div style="font-size:0.8rem;color:#64748b;">→ 再建築不可物件の買取事例一覧</div>
@@ -170,9 +171,9 @@ A: はい、買取できます。接道義務（建築基準法第43条：幅4m�
 
 再建築不可物件の定義・種類・確認方法を知りたい方はこちら。
 
-- [再建築不可物件の買取｜建て替えできない家・土地を手放す方法](/guide/saikenchifu-kaitori) — 直接買取の仕組み・流れ・価格目安を宅建業者が解説（ピラーページ）
-- [再建築不可物件とは？接道不足・袋地・旗竿地の違いと売却への影響](/guide/saikenchifu-bukken-teigi-hikaku) — 接道義務の定義・種類別の比較表
-- [再建築不可物件の買取相場｜大阪市エリア別の価格帯と高く売るコツ](/guide/saikenchifu-kaitori-souba) — 路線価比・エリア別相場データ
+- [再建築不可物件の買取｜建て替えできない家・土地を手放す方法](/guide/non-rebuildable-property-sale/) — 直接買取の仕組み・流れ・価格目安を宅建業者が解説（ピラーページ）
+- [再建築不可物件とは？接道不足・袋地・旗竿地の違いと売却への影響](/guide/saikenchifu-bukken-teigi-hikaku/) — 接道義務の定義・種類別の比較表
+- [再建築不可物件の買取相場｜大阪市エリア別の価格帯と高く売るコツ](/guide/saikenchifu-kaitori-souba/) — 路線価比・エリア別相場データ
 
 ---
 
@@ -180,11 +181,11 @@ A: はい、買取できます。接道義務（建築基準法第43条：幅4m�
 
 「どうやって売るか」を決めたい方はこちら。
 
-- [再建築不可物件の買取｜建て替えできない家・土地を手放す方法](/guide/saikenchifu-kaitori) — 買取の流れと価格目安
-- [再建築不可のLP：再建築不可物件・専門買取](/guide/lp-saikenchifu-kaitori) — 問い合わせはこちらから
-- [大阪市の再建築不可物件｜仲介で売れなかった失敗パターンと買取解決事例3件](/guide/saikenchifu-osaka-uri-jirei) — 仲介失敗→買取解決の実例3件
-- [底地・借地権付き土地の買取｜売れるの？価格は？](/guide/soko-chi-kaitori-ureru) — 底地売却の可否と方法
-- [借地権建物・底地の売却方法と手順](/guide/shakuchiken-tatemono-baikyaku) — 借地権付き物件の処分手順
+- [再建築不可物件の買取｜建て替えできない家・土地を手放す方法](/guide/non-rebuildable-property-sale/) — 買取の流れと価格目安
+- [再建築不可のLP：再建築不可物件・専門買取](/guide/lp-saikenchifu-kaitori/) — 問い合わせはこちらから
+- [大阪市の再建築不可物件｜仲介で売れなかった失敗パターンと買取解決事例3件](/guide/saikenchifu-osaka-uri-jirei/) — 仲介失敗→買取解決の実例3件
+- [底地・借地権付き土地の買取｜売れるの？価格は？](/guide/soko-chi-kaitori-ureru/) — 底地売却の可否と方法
+- [借地権建物・底地の売却方法と手順](/guide/shakuchiken-tatemono-baikyaku/) — 借地権付き物件の処分手順
 
 ---
 
@@ -192,21 +193,21 @@ A: はい、買取できます。接道義務（建築基準法第43条：幅4m�
 
 「売るべきか、貸すべきか」で悩んでいる方はこちら。
 
-- [再建築不可物件を賃貸にするリスク｜修繕・保険・老朽化の問題点](/guide/saikenchifu-chintai-risk) — 賃貸維持のリスクと収支シミュレーション
+- [再建築不可物件を賃貸にするリスク｜修繕・保険・老朽化の問題点](/guide/saikenchifu-chintai-risk/) — 賃貸維持のリスクと収支シミュレーション
 
 ---
 
-## 体験談・買取事例 {#事例}
+## 参考事例・買取の例 {#事例}
 
 同じ状況の方の実例で判断したい方はこちら。
 
 | 事例 | 状況 | 解決日数 | リンク |
 |------|------|---------|------|
-| 事例04 | 4社に断られた父の実家（再建築不可） | **23日** | [記録を見る](/guide/souzoku-jirei-04-saikenchifu-kaitori) |
-| 事例05 | 連棟式長屋（3社断られた） | **25日** | [記録を見る](/guide/souzoku-jirei-05-rentouji-nagaya-kaitori) |
-| 事例07 | 再建築不可の長屋（相続） | **—** | [記録を見る](/guide/souzoku-jirei-07-saikenchifu-nagaya-kaitori) |
-| 大阪事例集 | 仲介で売れなかった3パターン | **—** | [記録を見る](/guide/saikenchifu-osaka-uri-jirei) |
-| 買取事例まとめ | 再建築不可・各事例 | **—** | [一覧を見る](/guide/saikenchifu-kaitori-jirei) |
+| 事例04 | 4社に断られた父の実家（再建築不可） | **23日** | [参考例を見る](/guide/souzoku-jirei-04-saikenchifu-kaitori/) |
+| 事例05 | 連棟式長屋（3社断られた） | **25日** | [参考例を見る](/guide/souzoku-jirei-05-rentouji-nagaya-kaitori/) |
+| 事例07 | 再建築不可の長屋（相続） | **—** | [参考例を見る](/guide/souzoku-jirei-07-saikenchifu-nagaya-kaitori/) |
+| 大阪事例集 | 仲介で売れなかった3パターン | **—** | [参考例を見る](/guide/saikenchifu-osaka-uri-jirei/) |
+| 買取事例まとめ | 再建築不可・各事例 | **—** | [一覧を見る](/guide/saikenchifu-kaitori-jirei/) |
 
 ---
 
@@ -225,20 +226,20 @@ A. 適用されます。再建築不可であっても「住宅の敷地」で�
 
 ## 関連するガイド記事
 
-- <a href="/guide/saikenchifu-kaitori-jirei">再建築不可物件の買取事例5選｜袋地・2m未満接道・旗竿地の解決ストーリー</a>
-- <a href="/guide/saikenchifu-osaka-uri-jirei">大阪市の再建築不可物件｜仲介で売れなかった3つの失敗パターンと買取解決事例3件【2026年版】</a>
-- <a href="/guide/souzoku-jirei-07-saikenchifu-nagaya-kaitori">【体験談・事例07】再建築不可の老朽木造長屋を14日で現金化。市から管理不全通知が届いた後に動いた60代女性の全記録</a>
-- <a href="/guide/kyouyuu-mochibun-hub">共有持分 完全ハブ｜売却・買取・トラブル解決・相場まで全ガイドまとめ【2026年版】</a>
-- <a href="/guide/kaitori-jirei-10sen">訳あり不動産の買取実績10選｜相続・再建築不可・事故物件・共有持分・空き家の解決事例集</a>
-- <a href="/guide/wakare-bukken-to-wa">訳あり物件とは？5種類の定義・告知義務・売却可否チェックリスト【2026年版】</a>
+- <a href="/guide/saikenchifu-kaitori-jirei/">再建築不可物件の買取 参考事例5選｜袋地・2m未満接道・旗竿地の解決ストーリー</a>
+- <a href="/guide/saikenchifu-osaka-uri-jirei/">大阪市の再建築不可物件｜仲介で売れなかった3つの失敗パターンと買取解決事例3件【2026年版】</a>
+- <a href="/guide/souzoku-jirei-07-saikenchifu-nagaya-kaitori/">【参考例・事例07】再建築不可の老朽木造長屋を14日で現金化。市から管理不全通知が届いた後に動いた60代女性のケース</a>
+- <a href="/guide/kyouyuu-mochibun-kaitori/">共有持分の買取・売却方法</a>
+- <a href="/guide/osaka-city-yakuari-kaitori/">大阪市の訳あり物件の買取</a>
+- <a href="/guide/wakare-bukken-to-wa/">訳あり物件とは？5種類の定義・告知義務・売却可否チェックリスト【2026年版】</a>
 
 ## 関連するハブガイド
 
 相続で取得した再建築不可物件の場合は、相続ガイドも合わせてご確認ください。
 
-- <a href="/guide/souzoku-hub">相続不動産 完全ハブ｜処分・売却・登記・固定資産税まで全ガイドをまとめて確認</a>
-- <a href="/guide/jiko-bukken-hub">事故物件 完全ハブ｜告知義務・買取・価格への影響まで全ガイドまとめ</a>
-- <a href="/area/osaka-city">大阪市の訳あり不動産買取相場（24区対応）</a>
+- <a href="/guide/parent-death-house/">相続した家の売り方と手続き</a>
+- <a href="/guide/jiko-bukken-hub/">事故物件 完全ハブ｜告知義務・買取・価格への影響まで全ガイドまとめ</a>
+- <a href="/guide/osaka-city-yakuari-kaitori/">大阪市の訳あり不動産買取相場（24区対応）</a>
 
 
 → <a href="/satei/">無料査定の相談準備メモ（入力任意）</a>　所在地や入居状況を整理できます。価格は物件を確認して個別にご案内します。
@@ -246,4 +247,4 @@ A. 適用されます。再建築不可であっても「住宅の敷地」で�
 ## 執筆・監修
 
 **八木 宏樹**（宅建業免許: 大阪府知事(1)第65646号）  
-合同会社アルシェ 代表。再建築不可・接道不足物件の買取を専門として大阪・近畿対応。「どこに相談しても断られた」案件を中心に買取実績多数。
+合同会社アルシェ 代表。再建築不可・接道不足物件の買取を専門として大阪・近畿対応。「どこに相談しても断られた」案件のご相談にも対応しています。

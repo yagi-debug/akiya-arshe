@@ -6,7 +6,6 @@ author: "空き家のミカタ編集部"
 authorTitle: "宅地建物取引業者（大阪府知事(1)第65646号）"
 heroImage: "/images/obon-akiya-checklist-2026-hero.jpg"
 cluster: "akiya-tax"
-isPillar: true
 faqs:
   - question: "お盆帰省中に実家の買取査定を依頼してもいいですか？"
     answer: "もちろんです。帰省中こそ実家の状態を直接確認できる貴重な機会です。スマートフォンで外観・内部・気になる箇所を撮影し、LINEで送っていただければ最短即日で概算査定をお伝えできます。「まだ売ると決めていない」「相場を知りたいだけ」という段階でも対応しています。"
@@ -55,38 +54,6 @@ updatedDate: "2026-09-07"
 }
 </script>
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "お盆帰省中に実家の買取査定を依頼してもいいですか？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "もちろんです。帰省中こそ実家の状態を直接確認できる貴重な機会です。スマートフォンで外観・内部・気になる箇所を撮影し、LINEで送っていただければ最短即日で概算査定をお伝えできます。「まだ売ると決めていない」「相場を知りたいだけ」という段階でも対応しています。"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "相続登記が終わっていない実家でも売れますか？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "売却前に相続登記（名義変更）が必要です。2024年4月から相続登記が義務化され、相続を知った日から3年以内に登記しなければ10万円以下の過料の対象になります。登記手続きと並行して査定・交渉を進めることは可能です。"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "帰省中だけで売却手続きが完結しますか？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "帰省中に全手続きを完了するのは難しいですが、「書類確認・写真撮影・LINE査定依頼」の3ステップは帰省中に済ませられます。その後の手続きはすべてオンライン・郵送・委任状で対応できます。"
-      }
-    }
-  ]
-}
-</script>
 
 <div class="speakable-highlight" style="background:#fff7e6;border-left:4px solid #f59e0b;padding:1rem 1.5rem;margin-bottom:1.5rem;border-radius:4px;">
 <strong>この記事の結論</strong><br>
@@ -125,7 +92,7 @@ A: まず帰省中に7つのポイント（相続登記・固定資産税・管�
 
 書類が見当たらない場合は、最寄りの法務局または登記情報提供サービス（オンライン334円〜）で取得できます。登記手続きは提携司法書士にご依頼いただけます（費用目安：5〜10万円）。
 
-→ 詳しくは[相続登記義務化と空き家売却への影響](/guide/souzoku-touki-gimuka-kanzen-taiou-2026)
+→ 詳しくは[相続登記義務化と空き家売却への影響](/guide/inheritance-registry-neglect-sale-3options/)
 
 ### ② 固定資産税の支払い状況
 
@@ -138,7 +105,7 @@ A: まず帰省中に7つのポイント（相続登記・固定資産税・管�
 
 <strong>固定資産税を数年分滞納している場合は、差押えのリスクがあります</strong>。差押えが入った状態でも売却は可能ですが、手続きが複雑になるため早めのご相談をおすすめします。
 
-→ 詳しくは[固定資産税を払い続けるか売却するかの判断基準](/guide/koteishisanzei-haraitsudzukeru-vs-baikyaku)
+→ 詳しくは[固定資産税を払い続けるか売却するかの判断基準](/guide/koteishisanzei-haraitsudzukeru-vs-baikyaku/)
 
 ### ③ 管理不全空き家のリスク確認
 
@@ -154,7 +121,7 @@ A: まず帰省中に7つのポイント（相続登記・固定資産税・管�
 
 管理不全空き家に認定されると、<strong>住宅用地の固定資産税特例（最大6分の1軽減）が解除され、税額が最大6倍</strong>になる可能性があります。
 
-→ 詳しくは[空き家の固定資産税6倍問題を解説](/guide/vacancy-tax-6times)
+→ 詳しくは[空き家の固定資産税6倍問題を解説](/guide/akiya-koteishisanzei-6bai-hikaku/)
 
 ### ④ 共有名義・相続人の状況
 
@@ -167,7 +134,7 @@ A: まず帰省中に7つのポイント（相続登記・固定資産税・管�
 
 <strong>相続人全員の合意がなければ、物件全体を売ることはできません</strong>。ただし、自分の持分だけを売る「共有持分買取」という方法もあります。
 
-→ 詳しくは[共有持分の買取と売却方法を解説](/guide/kyouyuu-mochibun-kaitori)
+→ 詳しくは[共有持分の買取と売却方法を解説](/guide/kyouyuu-mochibun-kaitori/)
 
 ### ⑤ 建物の安全性・劣化状況
 
@@ -473,13 +440,13 @@ function calcCost() {
 LINEで写真を送るだけで、最短即日に概算査定をお伝えします。帰省中でもスマートフォンから相談できます。しつこい営業・勧誘は一切ありません。<br /><br />
 <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06C755;color:#fff;padding:0.75rem 2rem;border-radius:4px;text-decoration:none;font-weight:bold;">LINE「空き家のミカタ」に無料相談</a><br /><br />
 またはお問い合わせフォームからもどうぞ。<br />
-<a href="/contact">→ お問い合わせフォームはこちら</a>
+<a href="/contact/">→ お問い合わせフォームはこちら</a>
 </div>
 
 ## 関連するガイド記事
 
-- <a href="/guide/obon-jikka-checklist-kaitori-handan">「帰省したら実家が荒れていた」その場でできる5つのアクション</a>
-- <a href="/guide/vacancy-tax-6times">空き家の固定資産税が6倍になる条件とは</a>
-- <a href="/guide/souzoku-ie-cost-5nen-flowchart">相続した家の意思決定フローチャート｜5年間コスト試算</a>
-- <a href="/guide/akiya-shobun-5-hikaku">空き家処分の5大選択肢を徹底比較【2026年版】</a>
-- <a href="/guide/souzoku-touki-gimuka-kanzen-taiou-2026">相続登記義務化の完全対応ガイド【2026年版】</a>
+- <a href="/guide/obon-jikka-checklist-kaitori-handan/">「帰省したら実家が荒れていた」その場でできる5つのアクション</a>
+- <a href="/guide/akiya-koteishisanzei-6bai-hikaku/">空き家の固定資産税が6倍になる条件とは</a>
+- <a href="/guide/souzoku-ie-cost-5nen-flowchart/">相続した家の意思決定フローチャート｜5年間コスト試算</a>
+- <a href="/guide/akiya-shobun-5-hikaku/">空き家処分の5大選択肢を徹底比較【2026年版】</a>
+- <a href="/guide/inheritance-registry-neglect-sale-3options/">相続登記義務化の完全対応ガイド【2026年版】</a>

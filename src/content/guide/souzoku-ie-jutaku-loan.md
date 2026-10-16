@@ -2,6 +2,7 @@
 title: "相続した親の家に住宅ローンが残っていた｜団信・残債・売却の3つの対処法"
 description: "親が亡くなり、相続した家に住宅ローンが残っていた場合の対処法を解説。団体信用生命保険（団信）の仕組み、ローン残債の引き継ぎ、オーバーローン物件の売却・買取まで、具体的な手順をお伝えします。"
 publishDate: "2026-05-29"
+noindex: true
 author: "空き家のミカタ編集部"
 authorTitle: "宅地建物取引業者（大阪府知事(1)第65646号）"
 heroImage: "/images/souzoku-ie-jutaku-loan-hero.jpg"
@@ -39,6 +40,8 @@ howToSteps:
 A: 民間銀行のローンは団信（団体信用生命保険）で残債が完済され、相続人が引き継ぐ必要はないケースがほとんどです。団信なし・オーバーローンの場合は任意売却や相続放棄という選択肢があります。
 
 「親が突然亡くなり、相続した家に住宅ローンが残っていることがわかった——。どうすればいいのか、誰に相談すればいいのかわからない」
+
+関連する内容は[住宅ローンが残る相続した家の売却](/guide/inherited-home-mortgage-sale-2026/)で詳しく解説しています。
 
 このようなご状況で不安を感じていらっしゃる方は少なくありません。
 
@@ -183,11 +186,11 @@ A: 民間銀行のローンは団信（団体信用生命保険）で残債が�
 
 ## 関連する記事
 
-- <a href="/guide/inheritance-abandon">相続放棄の手続きガイド｜期限・必要書類・注意点</a>
-- <a href="/guide/souzoku-apart-10months-timeline">相続発生から10ヶ月でやること完全タイムライン</a>
-- <a href="/guide/souzoku-touki-gimuka-karyo">相続登記の義務化と過料のリスク</a>
-- <a href="/guide/selling-tax-guide">不動産を売った時の税金はいくら？譲渡所得税の計算方法</a>
-- <a href="/guide/inherited-apartment-buyout">相続アパートの買取ガイド</a>
+- <a href="/guide/inheritance-abandon/">相続放棄の手続きガイド｜期限・必要書類・注意点</a>
+- <a href="/guide/souzoku-apart-10months-timeline/">相続発生から10ヶ月でやること完全タイムライン</a>
+- <a href="/guide/souzoku-touki-gimuka-karyo/">相続登記の義務化と過料のリスク</a>
+- <a href="/guide/souzoku-jouto-shotokuzei-5nen-kisanbi/">不動産を売った時の税金はいくら？譲渡所得税の計算方法</a>
+- <a href="/guide/inherited-apartment-buyout/">相続アパートの買取ガイド</a>
 
 ---
 
@@ -201,9 +204,9 @@ A: 民間銀行のローンは団信（団体信用生命保険）で残債が�
 
 <p style="margin-top:0.5rem;font-size:0.9rem;">「空き家のミカタ」を友だち追加してください</p>
 
-<a href="/contact" style="display:inline-block;border:2px solid rgba(255,255,255,0.4);color:#fff;padding:0.5rem 1.5rem;border-radius:8px;font-weight:bold;text-decoration:none;margin-top:0.5rem;">フォームで相談する</a>
+<a href="/contact/" style="display:inline-block;border:2px solid rgba(255,255,255,0.4);color:#fff;padding:0.5rem 1.5rem;border-radius:8px;font-weight:bold;text-decoration:none;margin-top:0.5rem;">フォームで相談する</a>
 
 </section>
 ---
 
-**このカテゴリの全ガイド一覧:** [→ 相続不動産 完全ハブ【2026年版】](/guide/souzoku-hub)
+**このカテゴリの中心の記事:** [→ 相続した家の売り方と手続き](/guide/parent-death-house/)

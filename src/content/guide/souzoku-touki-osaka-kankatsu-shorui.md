@@ -21,7 +21,7 @@ faqs:
   - question: "期限に間に合わないときに使える相続人申告登記とは何ですか？"
     answer: "2024年4月1日に創設された制度で、「自分は登記名義人の相続人です」と法務局に申し出るものです。相続人の1人が単独で申し出ることができ、登録免許税もかかりません。申出書と、自分が相続人であることがわかる戸籍の証明書があれば手続きできます。これにより相続登記の申請義務を果たしたものとして扱われます。ただし法務省が明記しているとおり、相続人申告登記は不動産の権利関係を公示するものではないため、売却したり抵当権を設定したりする場合には、別途あらためて相続登記の申請が必要です。"
   - question: "登記が終わっていない状態でも、売却の相談はできますか？"
-    answer: "できます。登記が完了していない段階でのご相談を数多くお受けしています。相続登記と売却は、司法書士と連携して並行して進めることが可能で、登記費用を売却代金から充当する形にすれば、手元に現金がなくても進められるケースがあります。まずは登記を済ませてから相談するという順番にこだわる必要はありません。ただし最終的に買主へ引き渡すには相続登記が完了している必要があるため、相続人全員のご意向は事前に確認しておいてください。"
+    answer: "できます。登記が完了していない段階でのご相談もお受けしています。相続登記と売却は、司法書士と連携して並行して進めることが可能で、登記費用を売却代金から充当する形にすれば、手元に現金がなくても進められるケースがあります。まずは登記を済ませてから相談するという順番にこだわる必要はありません。ただし最終的に買主へ引き渡すには相続登記が完了している必要があるため、相続人全員のご意向は事前に確認しておいてください。"
 howToSteps:
   - name: "ステップ1：不動産の所在地から管轄の法務局を確認する"
     text: "固定資産税の納税通知書か権利証で不動産の所在地（区名）を確認し、大阪法務局本局・北出張所・天王寺出張所のどこが管轄かを調べます。基準は物件の所在地であり、相続人の住所ではありません。大阪市内に複数の区にまたがって不動産がある場合は、庁ごとに申請を分ける必要があります。"
@@ -221,7 +221,7 @@ howToSteps:
 
 <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06c755;color:#fff;padding:14px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 4px;">LINE「空き家のミカタ」に相談する（無料）</a>
 
-<a href="/contact" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 4px;">無料査定フォームで相談する</a>
+<a href="/contact/" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 4px;">無料査定フォームで相談する</a>
 
 大阪市24区の訳あり不動産を専門に扱っており、<strong>登記未了・遺産分割の途中・遠方にお住まい</strong>の状態でも査定にお応えできます。秘密厳守で対応し、司法書士と連携して登記と売却を並行して進めるご提案も可能です。
 
@@ -229,13 +229,13 @@ howToSteps:
 
 ## 関連記事
 
-- <a href="/guide/souzoku-touki-gimuka-kanzen-taiou-2026">相続登記義務化の完全対応ガイド【2026年版】5問セルフチェックと出口戦略4択比較</a>
-- <a href="/guide/souzoku-touki-houchi-doushitara">相続登記を放置したらどうなる？義務化の期限に間に合わない場合の3つの出口</a>
-- <a href="/guide/souzoku-touki-hiyou-haraenai">相続登記の費用が払えない・間に合わない場合の対処法</a>
-- <a href="/guide/souzoku-touki-jibunde-hiyou">相続登記を自分でやる場合の費用と手順</a>
-- <a href="/guide/suji-souzoku-meigi-baikyaku">数次相続で名義がそのままの不動産を売る方法</a>
-- <a href="/guide/mitouki-fudosan-kaitori">未登記の不動産は売れる？表題登記から買取までの流れ</a>
-- <a href="/guide/souzoku-hub">相続不動産 完全ハブ｜手続き・税金・売却の全ガイドまとめ</a>
+- <a href="/guide/inheritance-registry-neglect-sale-3options/">相続登記義務化の完全対応ガイド【2026年版】5問セルフチェックと出口戦略4択比較</a>
+- <a href="/guide/souzoku-touki-houchi-doushitara/">相続登記を放置したらどうなる？義務化の期限に間に合わない場合の3つの出口</a>
+- <a href="/guide/souzoku-touki-hiyou-haraenai/">相続登記の費用が払えない・間に合わない場合の対処法</a>
+- <a href="/guide/souzoku-touki-jibunde-hiyou/">相続登記を自分でやる場合の費用と手順</a>
+- <a href="/guide/suji-souzoku-meigi-baikyaku/">数次相続で名義がそのままの不動産を売る方法</a>
+- <a href="/guide/mitouki-fudosan-kaitori/">未登記の不動産は売れる？表題登記から買取までの流れ</a>
+- <a href="/guide/parent-death-house/">相続した家の売り方と手続き</a>
 
 ---
 

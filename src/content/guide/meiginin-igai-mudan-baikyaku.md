@@ -291,7 +291,7 @@ faqs:
 
 <strong>3. 出ていけと言われても、応じる義務はありません。</strong>各共有者は共有物の全部について、その持分に応じた使用をすることができます（民法249条1項）。ただし持分を超える使用については、他の共有者に対価を償還する義務を負うと定められている点（同条2項）は知っておいてください。
 
-> 実際にあった相談では、持分を買った業者から届いた通知に「速やかに明け渡してください」とだけ書かれていた例がありました。登記簿を取り、こちらの持分と使用の権利を整理して回答したところ、話は明け渡しではなく持分の売買価格の交渉に切り替わりました。相手の書面のトーンと、法律上できることは別です。
+> 持分を買った業者から届いた通知に「速やかに明け渡してください」とだけ書かれている例があります。登記簿を取り、こちらの持分と使用の権利を整理して回答すると、話は明け渡しではなく持分の売買価格の交渉に切り替わることがあります。相手の書面のトーンと、法律上できることは別です。
 
 ---
 
@@ -303,7 +303,7 @@ faqs:
 
 <strong>共有物の分割について共有者間に協議が調わないとき、または協議をすることができないときは、その分割を裁判所に請求することができます</strong>（民法258条1項）。裁判所は、現物を分割する方法か、共有者に債務を負担させて他の共有者の持分を取得させる方法（全面的価格賠償）で分割を命じることができ、それができない場合や価格を著しく減少させるおそれがある場合には競売を命じることができます（同条2項・3項）。
 
-決着はしますが、弁護士費用と時間がかかります。手続きの流れと期間の目安は<a href="/guide/kyouyuu-butsu-bunkatsu-seikyu-jitsumu">共有持分を売った後どうなる？共有物分割請求の流れ・期間・費用</a>にまとめています。
+決着はしますが、弁護士費用と時間がかかります。手続きの流れと期間の目安は<a href="/guide/kyouyuu-butsu-bunkatsu-seikyu-jitsumu/">共有持分を売った後どうなる？共有物分割請求の流れ・期間・費用</a>にまとめています。
 
 ### 選択肢B：自分の持分を先に現金化する
 
@@ -376,7 +376,7 @@ faqs:
 
 <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06c755;color:#fff;padding:14px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 4px;">LINE「空き家のミカタ」に相談する（無料）</a>
 
-<a href="/contact" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 4px;">無料査定フォームで相談する</a>
+<a href="/contact/" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 4px;">無料査定フォームで相談する</a>
 
 空き家のミカタは、大阪市生野区に事務所を構える宅地建物取引業者です（大阪府知事(1)第65646号）。大阪市24区の空き家・長屋・再建築不可物件・共有持分を専門に扱っており、<strong>他の共有者と連絡が取れない・相続登記が未了・荷物が残ったまま</strong>という状態でも査定にお応えできます。なお、登記の代理申請は司法書士へ、抹消登記請求や仮処分など裁判所を使う手続きは弁護士へ、譲渡所得税・相続税の判断は税理士へご確認ください。私どもがお手伝いできるのは、その不動産や持分をいくらで、どういう順序で手放せるかという部分です。
 
@@ -384,19 +384,18 @@ faqs:
 
 ## 関連記事
 
-- <a href="/guide/kyouyuu-mochibun-kaitori">共有持分の買取｜他の共有者の同意なく売れます</a>
-- <a href="/guide/kyoyuu-mochibun-teigi-hikaku">共有持分とは｜定義・持分割合の意味・処分方法4つの比較</a>
-- <a href="/guide/kyouyuu-butsu-bunkatsu-seikyu-jitsumu">共有持分を売った後どうなる？共有物分割請求の流れ・期間・費用</a>
-- <a href="/guide/kyouyuu-mochibun-naisho-satei">共有持分を他の共有者に知られずに査定できるか</a>
-- <a href="/guide/souzoku-jirei-08-kyoyu-mome-kaitori">【事例08】「弟が売りたくない」と3年間膠着した実家の持分を現金化した記録</a>
-- <a href="/guide/souzoku-touki-gimuka-2years">相続登記の義務化｜3年ルールと過料の実際</a>
-- <a href="/guide/suji-souzoku-meigi-baikyaku">祖父・父名義のまま放置された不動産を売却する方法</a>
-- <a href="/guide/souzoku-jirei-13-meigi-barabara-kaitori">【事例13】土地と建物で相続人が異なり8か月停滞した物件</a>
-- <a href="/guide/dementia-coowner-property-sale">共有者が認知症で不動産が売れないときの3つの方法</a>
-- <a href="/guide/dementia-house-sale">認知症の親の家を売るには｜成年後見と家族信託</a>
-- <a href="/guide/kenri-sho-funshitsu-fudosan-baikyaku">権利証を紛失した不動産を売却する方法</a>
-- <a href="/guide/souzoku-chotei-shinpan-touki">遺産分割の調停・審判と登記の進め方</a>
-- <a href="/guide/kyouyuu-mochibun-hub">共有持分の相談まとめ</a>
+- <a href="/guide/kyouyuu-mochibun-kaitori/">共有持分の買取｜他の共有者の同意なく売れます</a>
+- <a href="/guide/kyoyuu-mochibun-teigi-hikaku/">共有持分とは｜定義・持分割合の意味・処分方法4つの比較</a>
+- <a href="/guide/kyouyuu-butsu-bunkatsu-seikyu-jitsumu/">共有持分を売った後どうなる？共有物分割請求の流れ・期間・費用</a>
+- <a href="/guide/kyouyuu-mochibun-naisho-satei/">共有持分を他の共有者に知られずに査定できるか</a>
+- <a href="/guide/souzoku-jirei-08-kyoyu-mome-kaitori/">【事例08】「弟が売りたくない」と3年間膠着した実家の持分を現金化した記録</a>
+- <a href="/guide/souzoku-touki-gimuka-2years/">相続登記の義務化｜3年ルールと過料の実際</a>
+- <a href="/guide/suji-souzoku-meigi-baikyaku/">祖父・父名義のまま放置された不動産を売却する方法</a>
+- <a href="/guide/souzoku-jirei-13-meigi-barabara-kaitori/">【事例13】土地と建物で相続人が異なり8か月停滞した物件</a>
+- <a href="/guide/dementia-coowner-property-sale/">共有者が認知症で不動産が売れないときの3つの方法</a>
+- <a href="/guide/dementia-house-sale/">認知症の親の家を売るには｜成年後見と家族信託</a>
+- <a href="/guide/kenri-sho-funshitsu-fudosan-baikyaku/">権利証を紛失した不動産を売却する方法</a>
+- <a href="/guide/souzoku-chotei-shinpan-touki/">遺産分割の調停・審判と登記の進め方</a>
 
 ---
 

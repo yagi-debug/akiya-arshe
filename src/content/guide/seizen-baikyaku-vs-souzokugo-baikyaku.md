@@ -30,6 +30,8 @@ faqs:
 
 <strong>自宅を生前に売るか、相続させてから売るかは、次の3点で決まります。</strong>1つめは、相続税がかかる家庭かどうかです。2つめは、配偶者か同居していた親族が自宅を相続するかどうかです。3つめは、家が昭和56年5月31日以前の建築かどうかです。この3点が決まれば、答えは自動的に4つの型のどれかに落ち着きます。
 
+このテーマの全体像は[相続した家の売り方と手続き](/guide/parent-death-house/)にまとめています。
+
 > 相続税がかからない家庭では、<strong>生前売却のほうが手取りが多くなりやすい</strong>傾向があります。親が住んでいる自宅なら、築年数も構造も問われずにマイホームの3,000万円特別控除が使えるためです。相続税がかかる家庭で、配偶者か同居の親族が相続する場合は、<strong>相続後売却が有利になりやすい</strong>傾向があります。小規模宅地等の特例で土地330㎡までの評価が80％下がるためです。
 
 「元気なうちに売って現金にしておいたほうがいいのか」「それとも子どもに相続させてから売らせたほうがいいのか」。大阪市内でご相談をいただくとき、この質問は必ずと言っていいほど出てきます。答えが人によって割れるのは、<strong>税金が消えているのではなく、かかる場所が入れ替わっているだけ</strong>だからです。
@@ -266,7 +268,7 @@ Cは、建物が昭和56年6月以降の建築だった場合や、親と同居�
 
 <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06c755;color:#fff;padding:14px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 4px;">LINE「空き家のミカタ」に相談する（無料）</a>
 
-<a href="/contact" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 4px;">無料査定フォームで相談する</a>
+<a href="/contact/" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 4px;">無料査定フォームで相談する</a>
 
 空き家のミカタを運営しているのは、大阪市生野区に事務所を構える合同会社アルシェです（宅地建物取引業免許 大阪府知事(1)第65646号）。大阪市24区の空き家・長屋・再建築不可物件・事故物件・共有持分を専門に扱っており、<strong>相続登記が未了・残置物が残ったまま・共有名義のまま</strong>の状態でも査定にお応えできます。なお、登記の代理申請は司法書士、相続人間の話し合いがまとまらない場合は弁護士、譲渡所得税・相続税の具体的な計算と申告は税理士へご確認ください。担当するのは、その家をいくらで、どういう順序で手放せるかの部分です。
 
@@ -276,21 +278,21 @@ Cは、建物が昭和56年6月以降の建築だった場合や、親と同居�
 
 ![関連記事のイラスト - 空き家のミカタ](/images/seizen-baikyaku-vs-souzokugo-baikyaku-h2-3.jpg)
 
-- <a href="/guide/souzoku-akiya-3000man-tokubetsu-kojo">相続した空き家を売るときの3,000万円特別控除｜適用条件と2024年改正</a>
-- <a href="/guide/inheritance-sale-timeline">相続から不動産売却完了まで｜期限つきタイムラインで全手順</a>
-- <a href="/guide/inheritance-tax-basics">相続税の基礎｜基礎控除と計算のしかた</a>
-- <a href="/guide/dementia-house-sale">認知症の親の家を売るには｜成年後見制度と家族信託</a>
-- <a href="/guide/jikka-uru-oyafukou-handan">実家を売るのは親不孝か｜仏壇の片づけ順と親族への伝え方</a>
-- <a href="/guide/jikka-souzoku-yattehaikenai-5">実家を相続したときにやってはいけない5つのこと</a>
-- <a href="/guide/jikka-houchi-komattenai-risk">実家を放置したままにするリスク</a>
-- <a href="/guide/akiya-koteishisanzei-6bai-hikaku">空き家の固定資産税が6倍になる条件</a>
-- <a href="/guide/inheritance-registry">相続登記の義務化｜3年の期限と過料</a>
-- <a href="/guide/inheritance-abandon">相続放棄の期限と管理責任</a>
-- <a href="/guide/souzoku-mansion-baikyaku">相続したマンションの売却｜手順と税金</a>
-- <a href="/guide/appraisal-difference">査定額が会社によって違う理由</a>
-- <a href="/guide/osaka-kaitori-vs-chukai">大阪で買取と仲介のどちらを選ぶか</a>
-- <a href="/guide/kaitori-kakaku-naze-yasui-genka">買取価格はなぜ安いのか｜原価の分解</a>
-- <a href="/guide/osaka-24ku-kaitori-data-2026">大阪市24区の買取データ2026</a>
+- <a href="/guide/souzoku-akiya-3000man-tokubetsu-kojo/">相続した空き家を売るときの3,000万円特別控除｜適用条件と2024年改正</a>
+- <a href="/guide/inheritance-sale-timeline/">相続から不動産売却完了まで｜期限つきタイムラインで全手順</a>
+- <a href="/guide/inheritance-tax-basics/">相続税の基礎｜基礎控除と計算のしかた</a>
+- <a href="/guide/dementia-house-sale/">認知症の親の家を売るには｜成年後見制度と家族信託</a>
+- <a href="/guide/jikka-uru-oyafukou-handan/">実家を売るのは親不孝か｜仏壇の片づけ順と親族への伝え方</a>
+- <a href="/guide/jikka-souzoku-yattehaikenai-5/">実家を相続したときにやってはいけない5つのこと</a>
+- <a href="/guide/jikka-houchi-komattenai-risk/">実家を放置したままにするリスク</a>
+- <a href="/guide/akiya-koteishisanzei-6bai-hikaku/">空き家の固定資産税が6倍になる条件</a>
+- <a href="/guide/inheritance-registry-neglect-sale-3options/">相続登記の義務化｜3年の期限と過料</a>
+- <a href="/guide/inheritance-abandon/">相続放棄の期限と管理責任</a>
+- <a href="/guide/souzoku-mansion-baikyaku/">相続したマンションの売却｜手順と税金</a>
+- <a href="/guide/appraisal-difference/">査定額が会社によって違う理由</a>
+- <a href="/guide/osaka-kaitori-vs-chukai/">大阪で買取と仲介のどちらを選ぶか</a>
+- <a href="/guide/kaitori-kakaku-naze-yasui-genka/">買取価格はなぜ安いのか｜原価の分解</a>
+- <a href="/guide/osaka-24ku-kaitori-data-2026/">大阪市24区の買取データ2026</a>
 
 ---
 

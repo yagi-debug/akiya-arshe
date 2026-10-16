@@ -79,7 +79,7 @@ A: はい、対応できます。訳あり物件専門の宅建業者「空き�
 
 広島駅・南区・中区の地価は確かに上昇しています。しかし、<strong>訳あり物件は市場全体が上昇しても普通には売れません</strong>。再建築不可・急傾斜地指定・事故物件・共有持分は、仲介では買い手を見つけること自体が困難です。
 
-値上がりを期待して保有し続ける間にも、固定資産税・管理費・修繕費がかかり続けます。特定空き家に指定されると<a href="/guide/vacancy-tax-6times">固定資産税が最大6倍</a>になるリスクもあります。
+値上がりを期待して保有し続ける間にも、固定資産税・管理費・修繕費がかかり続けます。特定空き家に指定されると<a href="/guide/akiya-koteishisanzei-6bai-hikaku/">固定資産税が最大6倍</a>になるリスクもあります。
 
 ### 広島市でよくある相談パターン
 
@@ -116,15 +116,15 @@ A. もちろんです。LINE・メールでのご相談に対応しており、�
 
 ## 関連する記事
 
-- <a href="/guide/inheritance-sale">相続した不動産を売却する完全ガイド</a>
-- <a href="/guide/selling-process">はじめての不動産売却ガイド</a>
-- <a href="/guide/vacancy-tax-6times">空き家の固定資産税が6倍になる条件と回避方法</a>
-- <a href="/guide/saikenchifu-kaitori">再建築不可物件の売却方法と注意点</a>
+- <a href="/guide/parent-death-house/">相続した不動産を売却する完全ガイド</a>
+- <a href="/guide/osaka-kaitori-vs-chukai/">買取・仲介・放置の比較</a>
+- <a href="/guide/akiya-koteishisanzei-6bai-hikaku/">空き家の固定資産税が6倍になる条件と回避方法</a>
+- <a href="/guide/non-rebuildable-property-sale/">再建築不可物件の売却方法と注意点</a>
 
 ## 他のエリアの相場を見る
 
-- <a href="/area/fukuoka-city">福岡市の不動産売却相場</a>
-- <a href="/area/yokohama-city">横浜市の不動産売却相場</a>
+- <a href="/area/fukuoka-city/">福岡市の不動産売却相場</a>
+- <a href="/area/yokohama-city/">横浜市の不動産売却相場</a>
 
 ---
 

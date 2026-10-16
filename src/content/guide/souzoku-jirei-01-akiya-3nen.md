@@ -1,7 +1,8 @@
 ---
-title: "【相続物件 体験談・事例01】実家を空き家にして3年。市から「管理不全」予備通知が届いて決断した売却の全記録"
-description: "相続した実家を3年間空き家にしていたAさん（50代・女性）の体験談。固定資産税の累積・雨漏り・近隣クレーム・市からの通知——限界まで悩んだ末に訳あり買取を選んだ経緯と、査定から決済までの全プロセスを実名なしで公開します。"
+title: "【相続物件 参考例・事例01】実家を空き家にして3年。市から「管理不全」予備通知が届いて決断した売却のケース"
+description: "相続した実家を3年間空き家にしていたAさん（50代・女性）のケース（参考例）。固定資産税の累積・雨漏り・近隣クレーム・市からの通知——限界まで悩んだ末に訳あり買取を選ぶ経緯と、査定から決済までのプロセスを、実在の取引ではなくよくある状況をもとに紹介します。"
 publishDate: "2026-04-23"
+noindex: true
 cluster: "inheritance"
 author: "宅建業者"
 authorTitle: "宅建業者"
@@ -27,10 +28,12 @@ updatedDate: "2026-09-07"
 
 相続した実家を3年間空き家にしていたAさん（50代・女性・東京都在住）は、2026年3月に空き家のミカタへLINEで相談してきました。相談から25日後、埼玉県川口市にある築44年の木造戸建てを無事に手放すことができました。
 
-この記事では、Aさんの了承を得て（個人情報は匿名化）、相談に至るまでの経緯・査定から決済までの全プロセス・最終的な手取り額を公開します。
+関連する内容は[市役所から空き家の通知が届いたとき](/guide/osaka-kanri-fuzen-tsuchi-todoita/)で詳しく解説しています。
+
+この記事では、よくある状況をもとにした参考例として、相談に至るまでの経緯・査定から決済までの全プロセス・最終的な手取り額の目安を紹介します。
 
 > <strong>この記事でわかること</strong>
-> - 相続した空き家を3年間放置した場合に何が起きるか（実体験）
+> - 相続した空き家を3年間放置した場合に何が起きるか（参考例）
 > - 仲介3社に断られた物件が、訳あり買取でどう解決したか
 > - 査定→契約→決済の全タイムライン（所要25日）
 > - 最終的な手取り額と、売らずにいた場合の損失試算
@@ -238,7 +241,7 @@ Aさんのように「仲介に断られた」「3年以上放置してしまっ
 
 <strong>[LINEで無料相談する（24時間受付）](https://line.arshe1719.workers.dev/auth/line?ref=hp)</strong>
 
-<strong>[お問い合わせフォームはこちら](/contact)</strong>
+<strong>[お問い合わせフォームはこちら](/contact/)</strong>
 
 相談無料・秘密厳守・大阪・近畿対応
 
@@ -248,20 +251,19 @@ Aさんのように「仲介に断られた」「3年以上放置してしまっ
 
 ## 関連するガイド記事
 
-- <a href="/guide/souzoku-apart-kanzen-guide">相続アパートを手放したい方へ｜売却の流れ・税金・失敗しない判断基準を宅建業者が完全解説【2026年最新】</a>
-- <a href="/guide/souzoku-hub">相続不動産 完全ハブ｜処分・売却・登記・固定資産税・事例まで全ガイドをまとめて確認【2026年版】</a>
-- <a href="/guide/souzoku-fudosan-shippai-3jirei">相続不動産の売却で失敗した3事例｜買取で解決した比較と5問リスク診断</a>
-- <a href="/guide/akiya-kotei-shisan-zei-haraenai">空き家の固定資産税が払えないとき｜分納・減免・売却・相続放棄の4つの選択肢【2026年版】</a>
-- <a href="/guide/akiya-shobun-5-hikaku">空き家処分の5大選択肢を徹底比較【2026年版】費用・期間・手残り額</a>
+- <a href="/guide/souzoku-apart-kanzen-guide/">相続アパートを手放したい方へ｜売却の流れ・税金・失敗しない判断基準を宅建業者が完全解説【2026年最新】</a>
+- <a href="/guide/parent-death-house/">相続した家の売り方と手続き</a>
+- <a href="/guide/souzoku-fudosan-shippai-3jirei/">相続不動産の売却で失敗した3事例｜買取で解決した比較と5問リスク診断</a>
+- <a href="/guide/akiya-kotei-shisan-zei-haraenai/">空き家の固定資産税が払えないとき｜分納・減免・売却・相続放棄の4つの選択肢【2026年版】</a>
+- <a href="/guide/akiya-shobun-5-hikaku/">空き家処分の5大選択肢を徹底比較【2026年版】費用・期間・手残り額</a>
 
 ## この事例で使った売却方法の詳細
 
 Aさんが選んだ「訳あり買取」の仕組み・手順・費用を詳しく解説しているガイド記事です。
 
-- <a href="/guide/akiya-kaitori">空き家の買取｜放置している空き家を現金化する方法（詳細ガイド）</a>
-- <a href="/guide/vacant-house">空き家をどうする？処分・売却・活用の選択肢ガイド</a>
-- <a href="/guide/vacancy-tax-6times">空き家の固定資産税が6倍になる？特定空き家制度を解説</a>
-- <a href="/guide/akiya-souzoku-urenai">相続した空き家が売れない理由と解決策</a>
-- <a href="/guide/parent-death-house">親が亡くなった後の実家をどうする？</a>
-- <a href="/guide/souzoku-touki-gimuka-2years">相続登記の義務化とは？期限・罰則・手続きを解説</a>
-- <a href="/guide/kaitori-jirei">訳あり不動産の買取事例5選（相続アパート・再建築不可・事故物件ほか）</a>
+- <a href="/guide/akiya-shobun-5-hikaku/">空き家の処分方法の比較</a>
+- <a href="/guide/akiya-koteishisanzei-6bai-hikaku/">空き家の固定資産税が6倍になる？特定空き家制度を解説</a>
+- <a href="/guide/akiya-souzoku-urenai/">相続した空き家が売れない理由と解決策</a>
+- <a href="/guide/parent-death-house/">親が亡くなった後の実家をどうする？</a>
+- <a href="/guide/souzoku-touki-gimuka-2years/">相続登記の義務化とは？期限・罰則・手続きを解説</a>
+- <a href="/guide/osaka-city-yakuari-kaitori/">大阪市の訳あり物件の買取</a>

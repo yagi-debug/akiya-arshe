@@ -36,6 +36,8 @@ updatedDate: "2026-09-07"
 
 毎年5〜6月に届く固定資産税の納税通知書。「今年も払うのか……」とため息をついた方は多いのではないでしょうか。
 
+このテーマの全体像は[空き家の固定資産税6倍化の回避策](/guide/akiya-koteishisanzei-6bai-hikaku/)にまとめています。
+
 <strong>空き家の固定資産税は「持ち続けること」の見えないコストです。</strong>通常の住宅であれば住宅用地特例（最大1/6軽減）が適用されていますが、特定空家または管理不全空き家として市区町村から「勧告」を受けると、この特例が翌年度から外れて税額が最大6倍になります。
 
 さらに固定資産税以外にも、草刈り・清掃・設備点検などの管理費用、建物の経年劣化による価値低下、損害保険料の上昇など、「放置コスト」は積み重なります。
@@ -258,18 +260,17 @@ updatedDate: "2026-09-07"
 </ul>
 <p style="margin-bottom:0.5rem;"><strong>LINEでかんたん相談（返信が一番早いです）</strong></p>
 <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06c755;color:#fff;padding:0.75rem 2rem;border-radius:50px;text-decoration:none;font-weight:bold;margin-bottom:1rem;">LINEで無料相談する</a>
-<p style="margin-bottom:0;"><a href="/contact" style="color:#2563eb;">▶ お問い合わせフォームはこちら</a></p>
+<p style="margin-bottom:0;"><a href="/contact/" style="color:#2563eb;">▶ お問い合わせフォームはこちら</a></p>
 </div>
 
 ---
 
 ## 関連するガイド記事
 
-- <a href="/guide/kotei-shisan-zei-nousho-baikyaku-3taiken">【実録】固定資産税の通知書が届き、空き家売却を決意した3つの体験談【2026年5月】</a>
-- <a href="/guide/akiya-kaitori">空き家の買取｜固定資産税6倍リスクのある空き家を今すぐ現金化【大阪・近畿対応・最短3日】</a>
-- <a href="/guide/akiya-shobun-5-hikaku">空き家処分の5大選択肢を徹底比較【2026年版】費用・期間・手残り額</a>
-- <a href="/guide/souzoku-hub">相続不動産 完全ハブ｜処分・売却・登記・固定資産税・事例まで全ガイドをまとめて確認【2026年版】</a>
-- <a href="/guide/souzoku-apart-kanzen-guide">相続アパートを手放したい方へ｜売却の流れ・税金・失敗しない判断基準を宅建業者が完全解説【2026年最新】</a>
+- <a href="/guide/kotei-shisan-zei-tsuchisho-checklist/">【参考例】固定資産税の通知書が届き、空き家売却を決意した3つのケース【2026年5月】</a>
+- <a href="/guide/akiya-shobun-5-hikaku/">空き家処分の5大選択肢を徹底比較【2026年版】費用・期間・手残り額</a>
+- <a href="/guide/parent-death-house/">相続した家の売り方と手続き</a>
+- <a href="/guide/souzoku-apart-kanzen-guide/">相続アパートを手放したい方へ｜売却の流れ・税金・失敗しない判断基準を宅建業者が完全解説【2026年最新】</a>
 
 ## <a id="faq"></a>よくあるご質問
 
@@ -294,4 +295,4 @@ updatedDate: "2026-09-07"
 *掲載データの出典：総務省「住宅・土地統計調査（2023年）」／国土交通省「空家等対策の推進に関する特別措置法の施行状況（2025年3月）」／国土交通省「地価公示（2025年）」。固定資産税目安は当社推計値であり、実際の税額は各市区町村の課税明細書でご確認ください。*
 ---
 
-**このカテゴリの全ガイド一覧:** [→ 空き家の処分・活用 完全ガイド](/guide/vacant-house)
+**このカテゴリの中心の記事:** [→ 空き家の処分・活用 完全ガイド](/guide/akiya-shobun-5-hikaku/)

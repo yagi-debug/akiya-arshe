@@ -159,7 +159,7 @@ style="display:inline-block;background:#06C755;color:#fff;padding:14px 32px;
 border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 8px 8px 0;"
 >LINE「空き家のミカタ」に相談する（無料）</a>
 
-<a href="/contact"
+<a href="/contact/"
 style="display:inline-block;background:#1a56db;color:#fff;padding:14px 32px;
 border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 0;"
 >無料査定フォームで相談する</a>
@@ -170,13 +170,13 @@ border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 0;"
 
 ## 関連記事
 
-- <a href="/guide/souzoku-touki-osaka-kankatsu-shorui">相続登記は大阪のどこに出す？管轄法務局3庁と必要書類の集め方</a>
-- <a href="/guide/isan-bunkatsu-kyougisho-kakikata">遺産分割協議書とは？書き方と4ステップ手順</a>
-- <a href="/guide/souzoku-touki-jibunde-hiyou">相続登記を自分でやる場合の費用</a>
-- <a href="/guide/souzoku-touki-hiyou-haraenai">相続登記の費用が払えないときの選択肢</a>
-- <a href="/guide/souzoku-touki-gimuka-kanzen-taiou-2026">相続登記義務化の完全対応ガイド</a>
-- <a href="/guide/souzoku-apart-kyodai-kyoyu-baikyaku">兄弟共有の相続アパートを売る方法</a>
-- <a href="/guide/kijou-satei-souzoku-fudosan-soudan">机上査定とは？現地確認前に相談する方法</a>
+- <a href="/guide/souzoku-touki-osaka-kankatsu-shorui/">相続登記は大阪のどこに出す？管轄法務局3庁と必要書類の集め方</a>
+- <a href="/guide/isan-bunkatsu-kyougisho-kakikata/">遺産分割協議書とは？書き方と4ステップ手順</a>
+- <a href="/guide/souzoku-touki-jibunde-hiyou/">相続登記を自分でやる場合の費用</a>
+- <a href="/guide/souzoku-touki-hiyou-haraenai/">相続登記の費用が払えないときの選択肢</a>
+- <a href="/guide/inheritance-registry-neglect-sale-3options/">相続登記義務化の完全対応ガイド</a>
+- <a href="/guide/souzoku-apart-kyodai-kyoyu-baikyaku/">兄弟共有の相続アパートを売る方法</a>
+- <a href="/guide/kijou-satei-souzoku-fudosan-soudan/">机上査定とは？現地確認前に相談する方法</a>
 
 ---
 

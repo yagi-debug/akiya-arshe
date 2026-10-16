@@ -181,11 +181,11 @@ updatedDate: "2026-09-07"
 
 ### Q. 遠方に住んでいて空き家を見に行けません。どうすればいいですか？
 
-遠方の空き家でも売却は可能です。買取の場合、<strong>現地調査は買取業者が手配</strong>し、契約手続きも郵送やオンラインで対応できます。空き家のミカタでは、大阪を中心とした近畿の物件について、遠方在住の所有者からもご相談をお受けしています。詳しくは<a href="/guide/remote-family-home-sale">遠方の実家を売却する方法</a>をご覧ください。
+遠方の空き家でも売却は可能です。買取の場合、<strong>現地調査は買取業者が手配</strong>し、契約手続きも郵送やオンラインで対応できます。空き家のミカタでは、大阪を中心とした近畿の物件について、遠方在住の所有者からもご相談をお受けしています。詳しくは<a href="/guide/remote-family-home-sale/">遠方の実家を売却する方法</a>をご覧ください。
 
 ### Q. 相続登記が終わっていませんが、売却できますか？
 
-売却するには相続登記の完了が必要です。ただし、<strong>相談・査定は相続登記の前でも可能</strong>です。2024年4月から相続登記が義務化されており、正当な理由なく3年以内に登記しないと10万円以下の過料が科される場合があります。相続登記の手続きについては、<a href="/guide/inheritance-registry">相続登記の義務化ガイド</a>で詳しく解説しています。
+売却するには相続登記の完了が必要です。ただし、<strong>相談・査定は相続登記の前でも可能</strong>です。2024年4月から相続登記が義務化されており、正当な理由なく3年以内に登記しないと10万円以下の過料が科される場合があります。相続登記の手続きについては、<a href="/guide/inheritance-registry-neglect-sale-3options/">相続登記の義務化ガイド</a>で詳しく解説しています。
 
 ---
 
@@ -207,16 +207,16 @@ updatedDate: "2026-09-07"
 
 <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" rel="noopener noreferrer">LINE「空き家のミカタ」で無料相談する</a>
 
-<a href="/contact">お問い合わせフォームはこちら</a>
+<a href="/contact/">お問い合わせフォームはこちら</a>
 
 ## 関連する記事
 
-- <a href="/guide/vacancy-tax-6times">空き家の固定資産税が6倍に？特定空き家の条件と回避する方法</a>
-- <a href="/guide/akiya-souzoku-urenai">相続した空き家が売れない6つの理由と解決策</a>
-- <a href="/guide/inheritance-sale-timeline">相続から売却完了までのタイムライン</a>
-- <a href="/guide/souzoku-touki-gimuka-karyo">相続登記しないと過料10万円？放置リスクと解決方法</a>
-- <a href="/guide/akiya-kaitori">空き家の買取｜放置している空き家を現金化する方法</a>
-- <a href="/guide/remote-family-home-sale">遠方の実家を売却する方法</a>
+- <a href="/guide/akiya-koteishisanzei-6bai-hikaku/">空き家の固定資産税が6倍に？特定空き家の条件と回避する方法</a>
+- <a href="/guide/akiya-souzoku-urenai/">相続した空き家が売れない6つの理由と解決策</a>
+- <a href="/guide/inheritance-sale-timeline/">相続から売却完了までのタイムライン</a>
+- <a href="/guide/souzoku-touki-gimuka-karyo/">相続登記しないと過料10万円？放置リスクと解決方法</a>
+- <a href="/guide/akiya-shobun-5-hikaku/">空き家の処分方法の比較</a>
+- <a href="/guide/remote-family-home-sale/">遠方の実家を売却する方法</a>
 ---
 
-**このカテゴリの全ガイド一覧:** [→ 空き家の処分・活用 完全ガイド](/guide/vacant-house)
+**このカテゴリの中心の記事:** [→ 空き家の処分・活用 完全ガイド](/guide/akiya-shobun-5-hikaku/)

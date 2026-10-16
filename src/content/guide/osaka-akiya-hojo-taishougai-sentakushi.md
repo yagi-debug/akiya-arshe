@@ -79,9 +79,9 @@ A: まず対象外の理由を特定してください。理由が「予算枠�
 
 そして最も見落とされやすいのが次の一文です。<strong>交付申請の前に解体の工事契約を結んでしまうと、原則として補助金は受けられません。</strong>
 
-大阪市の解体費用そのものの相場は<a href="/guide/osaka-kaitai-hiyou-soba-2026">大阪市の解体費用の相場【2026年】</a>にまとめています。区ごとの窓口は<a href="/guide/osaka-ku-akiya-hojo-madoguchi-2026">大阪市の空き家解体補助金・24区の窓口一覧</a>をご覧ください。
+大阪市の解体費用そのものの相場は<a href="/guide/osaka-kaitai-hiyou-soba-2026/">大阪市の解体費用の相場【2026年】</a>にまとめています。区ごとの窓口は<a href="/guide/osaka-ku-akiya-hojo-madoguchi-2026/">大阪市の空き家解体補助金・24区の窓口一覧</a>をご覧ください。
 
-なお、この受付期限や40日ルールを日付で逆算し、実質の申請デッドラインがいつになるのかは<a href="/guide/osaka-akiya-hojo-shinsei-timing-2026">大阪市の空き家除却補助金はいつ申請すべきか｜交付決定前の着工がNGな理由・入金まで約4か月</a>で詳しく解説しています。
+なお、この受付期限や40日ルールを日付で逆算し、実質の申請デッドラインがいつになるのかは<a href="/guide/osaka-akiya-hojo-shinsei-timing-2026/">大阪市の空き家除却補助金はいつ申請すべきか｜交付決定前の着工がNGな理由・入金まで約4か月</a>で詳しく解説しています。
 
 ## 補助金の対象外になる5パターンと、それぞれの分かれ目
 
@@ -128,7 +128,7 @@ A: まず対象外の理由を特定してください。理由が「予算枠�
 
 最後の共有者の承諾は、相続した物件で特につまずきやすい点です。兄弟姉妹で共有のまま相続登記を済ませていると、全員の署名が揃うまで申請が進みません。
 
-打ち手：共有者の承諾が理由なら、承諾を取れば申請できます。ただし連絡が取れない共有者がいる場合は長期化します。<strong>共有持分（複数人で1つの不動産を分けて所有している状態）のまま手放す方法もあります</strong>ので、時間をかけずに解決したい場合は<a href="/guide/akiya-souzoku-urenai">相続した空き家が売れないときの対処法</a>もあわせてご覧ください。
+打ち手：共有者の承諾が理由なら、承諾を取れば申請できます。ただし連絡が取れない共有者がいる場合は長期化します。<strong>共有持分（複数人で1つの不動産を分けて所有している状態）のまま手放す方法もあります</strong>ので、時間をかけずに解決したい場合は<a href="/guide/akiya-souzoku-urenai/">相続した空き家が売れないときの対処法</a>もあわせてご覧ください。
 
 ### パターン5：時期・手続きの条件を外した
 
@@ -238,7 +238,7 @@ A: まず対象外の理由を特定してください。理由が「予算枠�
 - 残置物を残したまま引き渡せる
 - 補助金の申請期間（2〜4ヶ月）を待つ必要がない
 
-とくに<strong>固定資産税の切り替わりは見落とすと痛手になります</strong>。12月31日までに取り壊すと、翌年度から住宅用地の特例が外れ、土地の固定資産税・都市計画税は合計でおよそ3.6倍になるのが一般的です。更地のまま買主が決まらない期間が長引くほど、この差額が積み上がっていきます。詳しくは<a href="/guide/akiya-koteishisanzei-6bai-hikaku">空き家固定資産税6倍化の回避策と売却タイミング</a>で解説しています。
+とくに<strong>固定資産税の切り替わりは見落とすと痛手になります</strong>。12月31日までに取り壊すと、翌年度から住宅用地の特例が外れ、土地の固定資産税・都市計画税は合計でおよそ3.6倍になるのが一般的です。更地のまま買主が決まらない期間が長引くほど、この差額が積み上がっていきます。詳しくは<a href="/guide/akiya-koteishisanzei-6bai-hikaku/">空き家固定資産税6倍化の回避策と売却タイミング</a>で解説しています。
 
 <img src="/images/osaka-hojo-taishougai-cost-calc.jpg" alt="電卓と書類で解体費用と売却価格の差額を試算する様子。補助金対象外の物件は手残り額の比較が判断の分かれ目になる" width="1600" height="1067" style="width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" />
 
@@ -298,7 +298,7 @@ A: まず対象外の理由を特定してください。理由が「予算枠�
 
 <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06c755;color:#fff;padding:14px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 4px;">LINE「空き家のミカタ」に相談する（無料）</a>
 
-<a href="/contact" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 4px;">無料査定フォームで相談する</a>
+<a href="/contact/" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 4px;">無料査定フォームで相談する</a>
 
 空き家・相続物件・訳あり物件を専門に扱っており、<strong>現況のまま・片付け不要・解体不要</strong>で買取査定ができます。大阪府知事(1)第65646号の宅地建物取引業免許のもとで対応しています。査定だけのご依頼でも問題ありません。
 
@@ -308,12 +308,12 @@ A: まず対象外の理由を特定してください。理由が「予算枠�
 
 ## 関連するガイド記事
 
-- <a href="/guide/osaka-ku-akiya-hojo-madoguchi-2026">大阪市の空き家解体補助金（最大200万円）｜24区の窓口一覧</a>
-- <a href="/guide/osaka-akiya-subsidy">大阪市の空き家補助金は最大200万円｜申請期限・対象条件</a>
-- <a href="/guide/osaka-kaitai-hiyou-soba-2026">大阪市の解体費用の相場【2026年】道路4m未満・重機不可の坪単価</a>
-- <a href="/guide/akiya-kaitai-hiyou-haraenai">相続した実家の解体費用が払えない｜費用ゼロで手放す3つの方法</a>
-- <a href="/guide/akiya-koteishisanzei-6bai-hikaku">空き家固定資産税6倍化の回避策と売却タイミング徹底比較</a>
-- <a href="/guide/akiya-shobun-5-hikaku">空き家処分の5大選択肢を徹底比較【2026年版】費用・期間・手残り額</a>
+- <a href="/guide/osaka-ku-akiya-hojo-madoguchi-2026/">大阪市の空き家解体補助金（最大200万円）｜24区の窓口一覧</a>
+- <a href="/guide/osaka-akiya-subsidy/">大阪市の空き家補助金は最大200万円｜申請期限・対象条件</a>
+- <a href="/guide/osaka-kaitai-hiyou-soba-2026/">大阪市の解体費用の相場【2026年】道路4m未満・重機不可の坪単価</a>
+- <a href="/guide/akiya-kaitai-hiyou-haraenai/">相続した実家の解体費用が払えない｜費用ゼロで手放す3つの方法</a>
+- <a href="/guide/akiya-koteishisanzei-6bai-hikaku/">空き家固定資産税6倍化の回避策と売却タイミング徹底比較</a>
+- <a href="/guide/akiya-shobun-5-hikaku/">空き家処分の5大選択肢を徹底比較【2026年版】費用・期間・手残り額</a>
 
 ## よくある質問
 
@@ -339,4 +339,4 @@ A: まず対象外の理由を特定してください。理由が「予算枠�
 
 ### Q. 補助金を待つ間に空き家が「特定空き家」に指定されることはありますか？
 
-あります。管理されず放置されていると、行政の調査を経て「管理不全空き家」や「特定空き家」に指定される可能性があります。指定されて勧告を受けると、土地の住宅用地特例が外れ、固定資産税が上がります。補助金の申請を翌年度まで待つ場合は、<strong>その間の管理（草木の手入れ・郵便物の処理・破損の応急対応）を続けてください</strong>。判定の目安は<a href="/guide/tokutei-akiya-hantei-checklist">特定空き家の判定チェックリスト</a>にまとめています。
+あります。管理されず放置されていると、行政の調査を経て「管理不全空き家」や「特定空き家」に指定される可能性があります。指定されて勧告を受けると、土地の住宅用地特例が外れ、固定資産税が上がります。補助金の申請を翌年度まで待つ場合は、<strong>その間の管理（草木の手入れ・郵便物の処理・破損の応急対応）を続けてください</strong>。判定の目安は<a href="/guide/tokutei-akiya-hantei-checklist/">特定空き家の判定チェックリスト</a>にまとめています。

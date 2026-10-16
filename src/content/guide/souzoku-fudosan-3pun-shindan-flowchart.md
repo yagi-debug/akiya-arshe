@@ -2,6 +2,7 @@
 title: "相続した不動産どうする？3分でわかる判断フローチャート【5つの選択肢を完全比較】"
 description: "相続不動産の処分方法（仲介売却・買取・相続放棄・自治体寄付・賃貸活用）を6つのYes/No質問で診断。費用・期間・手取り額の比較表つき。宅建業者が監修した無料診断ガイドです。"
 publishDate: "2026-05-31"
+noindex: true
 author: "空き家のミカタ編集部"
 authorTitle: "宅地建物取引業者（大阪府知事(1)第65646号）"
 heroImage: "/images/souzoku-fudosan-3pun-shindan-flowchart-hero.jpg"
@@ -35,6 +36,8 @@ updatedDate: "2026-09-07"
 A: 住む・貸す予定がなければ、売却（仲介・買取）・相続放棄・国庫帰属制度の中から状況で選択。負債超過なら3ヶ月以内に相続放棄検討、訳あり・複数相続人・築古物件なら直接買取が最短です。
 
 <strong>相続した不動産の処分方法は、「仲介売却・買取・相続放棄・自治体寄付（国庫帰属）・賃貸活用」の5つが主な選択肢です。</strong>どれが適切かは、相続人の人数・建物の状態・ローンの有無・売却の急ぎ度によって変わります。
+
+このテーマの全体像は[相続した家の売り方と手続き](/guide/parent-death-house/)にまとめています。
 
 > <strong>3分診断 — 結論まとめ</strong>
 > - <strong>住む・貸す予定がある</strong> → 賃貸・リフォーム活用（Result A）
@@ -255,12 +258,12 @@ A: 住む・貸す予定がなければ、売却（仲介・買取）・相続�
 
 ## 関連する売却ガイド
 
-- <a href="/guide/souzoku-fudosan-shobun-method-shindan">相続不動産の処分方法を選ぶガイド</a>
-- <a href="/guide/souzoku-fudousan-shobun-kanzen-guide">相続不動産の処分 完全ガイド2026</a>
-- <a href="/guide/souzoku-ie-doushitara-hub">相続した家 どうすればいい？完全ハブガイド</a>
-- <a href="/guide/inheritance-abandon">相続放棄の手続きガイド</a>
-- <a href="/guide/souzoku-tochi-kokkoku-kizoku">相続土地国庫帰属制度ガイド</a>
-- <a href="/guide/inherited-apartment-buyout">相続アパートの買取ガイド</a>
+- <a href="/guide/souzoku-fudosan-shobun-method-shindan/">相続不動産の処分方法を選ぶガイド</a>
+- <a href="/guide/parent-death-house/">相続不動産の処分 完全ガイド2026</a>
+- <a href="/guide/souzoku-ie-doushitara-hub/">相続した家 どうすればいい？完全ハブガイド</a>
+- <a href="/guide/inheritance-abandon/">相続放棄の手続きガイド</a>
+- <a href="/guide/souzoku-tochi-kokkoku-kizoku/">相続土地国庫帰属制度ガイド</a>
+- <a href="/guide/inherited-apartment-buyout/">相続アパートの買取ガイド</a>
 
 ## 相続不動産、一人で抱え込まないでください
 
@@ -270,9 +273,9 @@ A: 住む・貸す予定がなければ、売却（仲介・買取）・相続�
 
 <strong><a href="https://line.arshe1719.workers.dev/auth/line?ref=hp">LINEで無料相談する（空き家のミカタ）</a></strong>
 
-<a href="/contact">お問い合わせフォームはこちら</a>
+<a href="/contact/">お問い合わせフォームはこちら</a>
 
 相談無料・秘密厳守・大阪・近畿対応
 ---
 
-**このカテゴリの全ガイド一覧:** [→ 相続不動産 完全ハブ【2026年版】](/guide/souzoku-hub)
+**このカテゴリの中心の記事:** [→ 相続した家の売り方と手続き](/guide/parent-death-house/)

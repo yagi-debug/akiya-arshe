@@ -2,6 +2,7 @@
 title: "相続登記の義務化でアパート売却はどう変わる？期限・手順・税金の特例を解説"
 description: "2024年4月施行の相続登記義務化により、相続アパートの売却手順が変わりました。3年以内の登記期限、相続人申告登記制度、相続税取得費加算の特例など、アパートオーナーが知るべきポイントを宅建業者が解説します。"
 publishDate: "2026-04-14"
+noindex: true
 cluster: "inheritance"
 author: "宅建業者"
 authorTitle: "宅建業者"
@@ -33,7 +34,7 @@ updatedDate: "2026-09-07"
 「相続したアパートを売りたいけど、登記はどうすればいいのか」「いつまでに売却すれば税金が安くなるのか」——この記事では、相続登記義務化がアパートオーナーに与える影響と、売却の手順・タイミングを宅建業者の立場から解説します。
 
 <div style="background:#f8f9fa;border:1px solid #dee2e6;border-radius:8px;padding:1rem 1.2rem;margin:1.2rem 0;font-size:0.95rem;">
-この記事は<strong>相続登記の手続き</strong>に特化しています。処分方法全体の流れは<a href="/guide/souzoku-apart-kanzen-guide">相続アパート処分の完全ガイド</a>、「いつ売るか」の判断基準は<a href="/guide/souzoku-apart-timing">相続アパートの売却タイミング判断基準</a>をご覧ください。
+この記事は<strong>相続登記の手続き</strong>に特化しています。処分方法全体の流れは<a href="/guide/souzoku-apart-kanzen-guide/">相続アパート処分の完全ガイド</a>、「いつ売るか」の判断基準は<a href="/guide/souzoku-apart-timing/">相続アパートの売却タイミング判断基準</a>をご覧ください。
 </div>
 
 ## 相続登記の義務化とは？アパートオーナーへの影響
@@ -57,7 +58,7 @@ updatedDate: "2026-09-07"
 - <strong>入居者がいる状態</strong>でも登記・売却は可能だが、賃貸借契約の扱いを確認する必要がある
 - <strong>収益物件としての評価</strong>が必要で、固定資産税評価額だけでは判断できない
 
-相続登記の基本的な手続きや費用については、<a href="/guide/inheritance-registry">相続登記の義務化はいつから？罰則と3つの対策を宅建業者が解説</a>で詳しく解説しています。
+相続登記の基本的な手続きや費用については、<a href="/guide/inheritance-registry-neglect-sale-3options/">相続登記の義務化はいつから？罰則と3つの対策を宅建業者が解説</a>で詳しく解説しています。
 
 ## 登記をしないとアパートは売れない
 
@@ -138,7 +139,7 @@ updatedDate: "2026-09-07"
 
 築古アパート・空室が多いアパート・入居者付きアパートは、仲介では買い手がつきにくいのが実情です。<strong>早く手放したい場合は、買取を選択する方が多い</strong>です。
 
-相続アパートの買取については、<a href="/guide/souzoku-apart-kaitori">相続アパートの買取｜収益計算・管理リスク・売却方法を宅建業者が解説</a>で詳しく解説しています。
+相続アパートの買取については、<a href="/guide/souzoku-apart-kanzen-guide/">相続アパートの買取｜収益計算・管理リスク・売却方法を宅建業者が解説</a>で詳しく解説しています。
 
 ### ステップ5：売買契約・引渡し
 
@@ -235,15 +236,14 @@ updatedDate: "2026-09-07"
 
 ### Q. 相続アパートを持ち続けるか売却するか、どう判断すればいいですか？
 
-判断のポイントは<strong>「実質利回り」と「将来のリスク」</strong>です。表面利回りではなく、管理費・修繕費・空室損失・税金を差し引いた実質利回りを計算してください。築古アパートは大規模修繕や設備更新で突発的な支出が発生するリスクもあります。収支の詳しい計算方法は<a href="/guide/souzoku-apart-cost-simulation">相続アパートの維持コストシミュレーション</a>で解説しています。
+判断のポイントは<strong>「実質利回り」と「将来のリスク」</strong>です。表面利回りではなく、管理費・修繕費・空室損失・税金を差し引いた実質利回りを計算してください。築古アパートは大規模修繕や設備更新で突発的な支出が発生するリスクもあります。収支の詳しい計算方法は<a href="/guide/souzoku-apart-cost-simulation/">相続アパートの維持コストシミュレーション</a>で解説しています。
 
 ## 関連するガイド記事
 
-- <a href="/guide/souzoku-apart-kanzen-guide">相続アパートを手放したい方へ｜売却の流れ・税金・失敗しない判断基準を宅建業者が完全解説【2026年最新】</a>
-- <a href="/guide/souzoku-hub">相続不動産 完全ハブ｜処分・売却・登記・固定資産税・事例まで全ガイドをまとめて確認【2026年版】</a>
-- <a href="/guide/souzoku-fudousan-shobun-kanzen-guide">相続不動産の処分 完全ガイド2026｜法律・登記・比較表・失敗対策まで一気に解説</a>
-- <a href="/guide/mitouki-fudosan-kaitori">未登記の空き家・相続アパートは売れる？登記前に売る方法を宅建業者が解説</a>
-- <a href="/guide/akiya-kotei-shisan-zei-haraenai">空き家の固定資産税が払えないとき｜分納・減免・売却・相続放棄の4つの選択肢【2026年版】</a>
+- <a href="/guide/souzoku-apart-kanzen-guide/">相続アパートを手放したい方へ｜売却の流れ・税金・失敗しない判断基準を宅建業者が完全解説【2026年最新】</a>
+- <a href="/guide/parent-death-house/">相続した家の売り方と手続き</a>
+- <a href="/guide/mitouki-fudosan-kaitori/">未登記の空き家・相続アパートは売れる？登記前に売る方法を宅建業者が解説</a>
+- <a href="/guide/akiya-kotei-shisan-zei-haraenai/">空き家の固定資産税が払えないとき｜分納・減免・売却・相続放棄の4つの選択肢【2026年版】</a>
 
 ## 相続アパートの登記・売却、まずはご相談ください
 
@@ -260,7 +260,7 @@ updatedDate: "2026-09-07"
 
 <strong><a href="https://line.arshe1719.workers.dev/auth/line?ref=hp">LINEで無料相談する</a></strong>
 
-<a href="/contact">お問い合わせフォームはこちら</a>
+<a href="/contact/">お問い合わせフォームはこちら</a>
 
 メール：<a href="mailto:info.arshe@arshe-corp.com">info.arshe@arshe-corp.com</a>
 

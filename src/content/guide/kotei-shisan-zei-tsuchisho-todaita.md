@@ -2,6 +2,7 @@
 title: "固定資産税の通知書が届いたらやること3ステップ｜住宅用地特例が外れると税額6倍・相続空き家オーナー向け2026年版"
 description: "5〜6月に届く固定資産税の通知書。相続した空き家・訳あり物件をお持ちの方がまず確認すべき3ステップと、住宅用地特例が外れた場合の「税額6倍」の具体計算、持ち続けるvs売却の年間コスト比較表を宅建業者が解説します。"
 publishDate: "2026-05-22"
+noindex: true
 updatedDate: "2026-05-22"
 author: "空き家のミカタ編集部"
 authorTitle: "宅地建物取引業者（大阪府知事(1)第65646号）"
@@ -12,7 +13,7 @@ faqs:
   - question: "空き家の固定資産税が突然6倍になるのはなぜですか？"
     answer: "住宅が建っている土地には「住宅用地の特例」が適用されており、200㎡以下の部分（小規模住宅用地）は評価額の1/6が課税標準額になります。この特例が解除されると課税標準額が6倍に戻るため、税額も最大6倍になります。特例が外れる主な原因は①建物の解体・除却②特定空家への指定（勧告）③管理不全空家への指定（2023年12月改正）の3つです。"
   - question: "相続した空き家の固定資産税は誰が払いますか？"
-    answer: "1月1日時点の所有者（または相続人）が納税義務者です。相続登記が未了でも、相続人全員が連帯して支払う義務を負います。自治体から「相続人代表者指定届」の提出を求められることがあります。未払いが続くと年2.4〜8.7%の延滞金が加算されます。"
+    answer: "1月1日時点の所有者（または相続人）が納税義務者です。相続登記が未了でも、相続人全員が連帯して支払う義務を負います。自治体から「相続人代表者指定届」の提出を求められることがあります。未払いが続くと、令和8年は納期限の翌日から1か月以内は年2.8%、その後は年9.1%の延滞金が加算されます（割合は毎年改定されます）。"
   - question: "3,000万円特別控除の期限はいつまでですか？"
     answer: "被相続人が居住していた空き家を売却する場合、相続開始から3年を経過する日が属する年の12月31日が期限です（空き家特例）。例えば2023年に相続した場合、2026年12月31日が最終期限です。この期限を過ぎると節税メリットが大幅に下がるため、通知書が届いた今が期限確認のタイミングです。"
   - question: "相続登記が済んでいない物件の通知書が届きました。どうすればいいですか？"
@@ -32,6 +33,8 @@ cluster: "akiya-tax"
 <img src="/images/kotei-shisan-zei-tsuchisho-todaita-hero.jpg" alt="固定資産税の通知書が届いた封筒と課税明細書。相続した空き家の税額を確認するシーン" width="1200" height="800" style="width:100%;height:auto;border-radius:8px;margin-bottom:1.5rem;" />
 
 毎年5〜6月、ポストに固定資産税の通知書が届く季節。「また来たか」とそのまま引き出しにしまっていませんか？
+
+関連する内容は[固定資産税の通知書の確認チェックリスト](/guide/kotei-shisan-zei-tsuchisho-checklist/)で詳しく解説しています。
 
 <strong>相続した空き家・訳あり物件をお持ちの方にとって、この封筒は非常に重要なサインを含んでいます。</strong>住宅用地の特例が外れると税額が最大6倍になり、特定空家に指定された翌年から突然の大幅増税が始まることもあります。
 
@@ -224,11 +227,11 @@ cluster: "akiya-tax"
 
 ## 関連するガイド記事
 
-- <a href="/guide/kotei-shisan-zei-nousho-baikyaku-3taiken">【実録】固定資産税の通知書が届き、空き家売却を決意した3つの体験談【2026年5月】</a>
-- <a href="/guide/souzoku-jirei-09-shigaika-chosei-kaitori">【体験談・事例09】市街化調整区域の実家を相続。仲介3社に断られ2年間固定資産税を払い続けた末に、24日で現金化した全記録</a>
-- <a href="/guide/akiya-kotei-shisan-zei-haraenai">空き家の固定資産税が払えないとき｜分納・減免・売却・相続放棄の4つの選択肢【2026年版】</a>
-- <a href="/guide/souzoku-hub">相続不動産 完全ハブ｜処分・売却・登記・固定資産税・事例まで全ガイドをまとめて確認【2026年版】</a>
-- <a href="/guide/souzoku-apart-kanzen-guide">相続アパートを手放したい方へ｜売却の流れ・税金・失敗しない判断基準を宅建業者が完全解説【2026年最新】</a>
+- <a href="/guide/kotei-shisan-zei-tsuchisho-checklist/">【参考例】固定資産税の通知書が届き、空き家売却を決意した3つのケース【2026年5月】</a>
+- <a href="/guide/souzoku-jirei-09-shigaika-chosei-kaitori/">【参考例・事例09】市街化調整区域の実家を相続。仲介3社に断られ2年間固定資産税を払い続けた末に、24日で現金化したケース</a>
+- <a href="/guide/akiya-kotei-shisan-zei-haraenai/">空き家の固定資産税が払えないとき｜分納・減免・売却・相続放棄の4つの選択肢【2026年版】</a>
+- <a href="/guide/parent-death-house/">相続した家の売り方と手続き</a>
+- <a href="/guide/souzoku-apart-kanzen-guide/">相続アパートを手放したい方へ｜売却の流れ・税金・失敗しない判断基準を宅建業者が完全解説【2026年最新】</a>
 
 ## 無料査定・ご相談はこちら
 
@@ -238,9 +241,9 @@ cluster: "akiya-tax"
 
 <strong>お問い合わせフォーム（24時間受付）</strong>
 
-<a href="/contact" style="display:inline-block;background:#1a56db;color:#fff;padding:12px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 0;">フォームでご相談する</a>
+<a href="/contact/" style="display:inline-block;background:#1a56db;color:#fff;padding:12px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 0;">フォームでご相談する</a>
 
 固定資産税の通知書が届いた今が、空き家・相続物件の今後を見直すベストタイミングです。「まずは話を聞くだけ」という段階でも大歓迎です。査定・相談は完全無料ですので、お気軽にご連絡ください。
 ---
 
-**このカテゴリの全ガイド一覧:** [→ 空き家の処分・活用 完全ガイド](/guide/vacant-house)
+**このカテゴリの中心の記事:** [→ 空き家の処分・活用 完全ガイド](/guide/akiya-shobun-5-hikaku/)

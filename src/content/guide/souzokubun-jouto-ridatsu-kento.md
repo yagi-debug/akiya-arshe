@@ -49,9 +49,9 @@ faqs:
 - 他の相続人と話すこと自体がつらく、取り分よりも早く終わらせたい
 - 相続放棄の3か月の期間を過ぎてしまい、ほかに抜ける方法を探している
 
-相続放棄の期間内で、借金も含めて一切関わりたくない方は、[相続放棄の期限切れガイド](/guide/souzoku-houki-kigengire)を先にお読みください。
+相続放棄の期間内で、借金も含めて一切関わりたくない方は、[相続放棄の期限切れガイド](/guide/souzoku-houki-kigengire/)を先にお読みください。
 
-また、家庭裁判所の手続き全体の流れを知りたい方は[遺産分割調停の流れガイド](/guide/isan-bunkatsu-chotei-fudosan-nagare)をご覧ください。
+また、家庭裁判所の手続き全体の流れを知りたい方は[遺産分割調停の流れガイド](/guide/isan-bunkatsu-chotei-fudosan-nagare/)をご覧ください。
 
 ## 相続分の譲渡とは、遺産全体に対する立場を譲ることです
 
@@ -65,7 +65,7 @@ faqs:
 
 ここが大事な点です。譲るのは「実家の土地の3分の1」のような特定の物の持分ではなく、<strong>遺産分割の話し合いに参加する立場そのもの</strong>です。だからこそ、譲れば自分は抜け、譲り受けた人がその立場に入ります。
 
-遺産分割が終わるまでの相続財産は、法律上、相続人全員の共有になっています。分割が済んで特定の不動産の持分が自分のものになった後に、その持分だけを売るというのは、相続分の譲渡とは別の行為です。すでに分割が終わっている方は[共有持分の買取](/guide/kyouyuu-mochibun-kaitori)の側のお話になります。
+遺産分割が終わるまでの相続財産は、法律上、相続人全員の共有になっています。分割が済んで特定の不動産の持分が自分のものになった後に、その持分だけを売るというのは、相続分の譲渡とは別の行為です。すでに分割が終わっている方は[共有持分の買取](/guide/kyouyuu-mochibun-kaitori/)の側のお話になります。
 
 ## 家庭裁判所の手続き中なら、届出と排除決定で当事者から外れます
 
@@ -171,9 +171,9 @@ faqs:
 
 相続放棄をすると、法律上<strong>初めから相続人とならなかったものとみなされます</strong>。また、放棄をした人には、放棄の時に現に占有している財産について、引き渡すまで自己の財産におけるのと同一の注意で保存する義務がかかります。相続分の譲渡は、この保存義務の条文の対象として書かれていません。<strong>空き家を現に管理している方にとっては、ここが実際の負担の差になります。</strong>
 
-借金も含めて一切関わりたくないのであれば相続放棄です。限定承認（財産の範囲内で借金を引き受ける方法）との比較は[限定承認ガイド](/guide/souzoku-shitakunai-apart-hikaku)にあります。
+借金も含めて一切関わりたくないのであれば相続放棄です。限定承認（財産の範囲内で借金を引き受ける方法）との比較は[限定承認ガイド](/guide/souzoku-shitakunai-apart-hikaku/)にあります。
 
-不動産を他の相続人に譲り、現金を受け取って終わらせたい場合は、[代償分割](/guide/daishou-bunkatsu-fudousan-souzoku)という方法もあります。
+不動産を他の相続人に譲り、現金を受け取って終わらせたい場合は、[代償分割](/guide/daishou-bunkatsu-fudousan-souzoku/)という方法もあります。
 
 ## 税金のことは、確認した資料では答えられません
 
@@ -220,7 +220,7 @@ faqs:
 style="display:inline-block;background:#06C755;color:#fff;padding:14px 32px;
 border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 8px 8px 0;"
 >LINEで無料相談</a>
-<a href="/contact"
+<a href="/contact/"
 style="display:inline-block;background:#1a56db;color:#fff;padding:14px 32px;
 border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 0;"
 >お問い合わせフォーム</a>

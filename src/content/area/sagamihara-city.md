@@ -80,7 +80,7 @@ A: はい、対応できます。訳あり物件専門の宅建業者「空き�
 
 橋本エリアのリニア開業効果を期待して、訳あり物件を保有し続けるケースがあります。しかし<strong>再建築不可・共有持分・事故物件は、地価が上昇しても一般市場では売れません</strong>。リニア効果で恩恵を受けるのは、接道状況が良く建て替えが可能な土地や、新築・築浅の物件です。
 
-待機している間にも固定資産税・管理費・修繕費がかかり続け、特定空き家に指定されると<a href="/guide/vacancy-tax-6times">固定資産税が最大6倍</a>になるリスクもあります。
+待機している間にも固定資産税・管理費・修繕費がかかり続け、特定空き家に指定されると<a href="/guide/akiya-koteishisanzei-6bai-hikaku/">固定資産税が最大6倍</a>になるリスクもあります。
 
 ### 相模原市でよくある相談パターン
 
@@ -117,16 +117,16 @@ A. もちろんです。LINE・メールでのご相談に対応しており、�
 
 ## 関連する記事
 
-- <a href="/guide/inheritance-sale">相続した不動産を売却する完全ガイド</a>
-- <a href="/guide/selling-process">はじめての不動産売却ガイド</a>
-- <a href="/guide/vacancy-tax-6times">空き家の固定資産税が6倍になる条件と回避方法</a>
-- <a href="/guide/saikenchifu-kaitori">再建築不可物件の売却方法と注意点</a>
+- <a href="/guide/parent-death-house/">相続した不動産を売却する完全ガイド</a>
+- <a href="/guide/osaka-kaitori-vs-chukai/">買取・仲介・放置の比較</a>
+- <a href="/guide/akiya-koteishisanzei-6bai-hikaku/">空き家の固定資産税が6倍になる条件と回避方法</a>
+- <a href="/guide/non-rebuildable-property-sale/">再建築不可物件の売却方法と注意点</a>
 
 ## 他のエリアの相場を見る
 
-- <a href="/area/yokohama-city">横浜市の不動産売却相場</a>
-- <a href="/area/kawasaki-city">川崎市の不動産売却相場</a>
-- <a href="/area/saitama-city">さいたま市の不動産売却相場</a>
+- <a href="/area/yokohama-city/">横浜市の不動産売却相場</a>
+- <a href="/area/kawasaki-city/">川崎市の不動産売却相場</a>
+- <a href="/area/saitama-city/">さいたま市の不動産売却相場</a>
 
 ---
 

@@ -19,6 +19,8 @@ faqs:
 
 親が亡くなり土地を相続したところ、そこには兄弟や子ども名義の家が建っていた——こうした状況は決して珍しくありません。「地代を一度も払ってもらっていない」「口頭で許可していた」「子どもの家を今さら動かすことはできない」など、悩みを抱える方は多くいらっしゃいます。
 
+このテーマの全体像は[相続した家の売り方と手続き](/guide/parent-death-house/)にまとめています。
+
 <strong>このようなケースでは、多くの場合「使用貸借（しようたいしゃく）」という法的関係が成立しています。使用貸借は借地権と異なり、土地所有者が一定の手順を踏めば終了させることができます。</strong>
 
 この記事では、相続した土地に親族の建物がある場合の法的な整理、合意できる場合・できない場合それぞれの対処法、そして買取業者の活用まで、具体的な手順を説明します。
@@ -142,7 +144,7 @@ faqs:
 
 買取を進めるためには、<strong>相続登記（名義変更）が完了していることが前提</strong>になります。2024年4月1日より相続登記が義務化されており、相続を知った日から3年以内に登記申請をしなければ<strong>10万円以下の過料</strong>の対象になります。
 
-相続登記がまだの場合は先に完了させてから買取相談に進みましょう。相続登記の手続きについては[相続登記義務化の対応ガイド](/guide/souzoku-touki-gimuka-kanzen-taiou-2026)もご参照ください。
+相続登記がまだの場合は先に完了させてから買取相談に進みましょう。相続登記の手続きについては[相続登記義務化の対応ガイド](/guide/inheritance-registry-neglect-sale-3options/)もご参照ください。
 
 ---
 
@@ -173,7 +175,7 @@ A. 可能な場合があります。訳あり物件の買取専門業者は、�
 
 ---
 
-**このカテゴリの全ガイド一覧:** [→ 相続不動産 完全ハブ【2026年版】](/guide/souzoku-hub)
+**このカテゴリの中心の記事:** [→ 相続した家の売り方と手続き](/guide/parent-death-house/)
 
 ---
 
@@ -182,4 +184,4 @@ A. 可能な場合があります。訳あり物件の買取専門業者は、�
 相続した土地の処分に困っている方のご相談を受け付けています。使用貸借・親族が居住中・境界未確定など、複雑な状況でもお気軽にご連絡ください。査定・相談は無料で、しつこい営業は行いません。
 
 <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06C755;color:#fff;padding:14px 32px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 8px 8px 0;">LINEで無料相談（即日対応）</a>
-<a href="/contact" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 32px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 0;">お問い合わせフォーム</a>
+<a href="/contact/" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 32px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 0;">お問い合わせフォーム</a>

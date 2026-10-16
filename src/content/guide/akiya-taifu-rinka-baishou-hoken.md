@@ -95,7 +95,7 @@ A: 建物の傷みを放置していた場合は、民法第717条の工作物�
 
 とくに見落とされやすいのが最下段です。<strong>火災保険は自分の建物の損害を補償するもので、隣家への賠償はカバーしません</strong>。賠償に備えるには別の保険が必要ですが、住宅を前提とした個人賠償責任保険は空き家では対象外になることが多く、一般物件では施設賠償責任保険を検討することになります。しかも建物の管理状態によっては、この保険も引き受けを断られる場合があります。
 
-保険を用意するにも建物の状態が問われる、という構造です。相続後の保険の扱い全般は[相続した空き家の火災保険はどうなる？継承・加入・解約の判断](/guide/akiya-kasai-hoken-souzoku-guide)で詳しく整理しています。
+保険を用意するにも建物の状態が問われる、という構造です。相続後の保険の扱い全般は[相続した空き家の火災保険はどうなる？継承・加入・解約の判断](/guide/akiya-kasai-hoken-souzoku-guide/)で詳しく整理しています。
 
 ## 大阪市の管理不全空家指導と、固定資産税への影響
 
@@ -105,7 +105,7 @@ A: 建物の傷みを放置していた場合は、民法第717条の工作物�
 
 大阪市は空き家が多い都市です。令和5年住宅・土地統計調査（大阪市集計）では、<strong>市内の空き家は294,600戸、空き家率は16.1％</strong>。区別では西成区が22,870戸（25.9％）で最も多く、生野区20,890戸（22.8％）、東淀川区20,390戸（16.4％）と続きます。
 
-台風で瓦が落ちた、外壁が剥がれたという状態は、近隣からの通報につながりやすい典型例です。詳しい指定基準は[管理不全空家に指定されたらどうなる？](/guide/kanri-fuzen-akiya-shitei-taisho)をご覧ください。
+台風で瓦が落ちた、外壁が剥がれたという状態は、近隣からの通報につながりやすい典型例です。詳しい指定基準は[管理不全空家に指定されたらどうなる？](/guide/kanri-fuzen-akiya-shitei-taisho/)をご覧ください。
 
 ## 遠方の相続人が、台風シーズン前後にできること
 
@@ -139,7 +139,7 @@ A: 建物の傷みを放置していた場合は、民法第717条の工作物�
 
 実際の買取のご相談では、<strong>修繕も解体も残置物の片付けもしないまま、現況のまま査定してほしい</strong>というご要望が大半です。屋根が傷んでいる、雨漏りしている、瓦が落ちているといった状態でも、価格に織り込んだうえでお伝えできます。
 
-判断材料として、まず年間コストと査定額の両方を数字で並べてみてください。年間コストの内訳は[空き家の管理を続ける費用と早期売却の比較](/guide/vacant-house-management-vs-early-sale-cost)にまとめています。
+判断材料として、まず年間コストと査定額の両方を数字で並べてみてください。年間コストの内訳は[空き家の管理を続ける費用と早期売却の比較](/guide/vacant-house-management-vs-early-sale-cost/)にまとめています。
 
 ---
 
@@ -174,7 +174,7 @@ A: 建物の傷みを放置していた場合は、民法第717条の工作物�
 
 <strong>[LINEで無料相談する（24時間受付）](https://line.arshe1719.workers.dev/auth/line?ref=hp)</strong>
 
-<strong>[お問い合わせフォームはこちら](/contact)</strong>
+<strong>[お問い合わせフォームはこちら](/contact/)</strong>
 
 相談無料・秘密厳守。査定後にお断りいただいても問題ありません。
 
@@ -182,17 +182,17 @@ A: 建物の傷みを放置していた場合は、民法第717条の工作物�
 
 ## 関連するガイド記事
 
-- [相続した空き家の火災保険はどうなる？継承・加入・解約の判断と売却で根本解決する方法](/guide/akiya-kasai-hoken-souzoku-guide)
-- [管理不全空家に指定されたらどうなる？対象基準と対処法](/guide/kanri-fuzen-akiya-shitei-taisho)
-- [特定空家の判定チェックリスト｜指定される基準と回避策](/guide/tokutei-akiya-hantei-checklist)
-- [梅雨・大雨で空き家が受けるダメージと売却判断](/guide/akiya-tsuyu-risk-baikyaku)
-- [空き家の管理を続ける費用と早期売却はどちらが得か](/guide/vacant-house-management-vs-early-sale-cost)
-- [相続した実家の解体費用が払えない｜補助金・現況買取で手放す3つの方法](/guide/akiya-kaitai-hiyou-haraenai)
-- [空き家の固定資産税が払えないとき｜分納・減免・売却・相続放棄の4つの選択肢](/guide/akiya-kotei-shisan-zei-haraenai)
-- [相続した不動産を現況のまま引き渡して買い取ってもらう方法](/guide/souzoku-fudosan-genjou-watashi-kaitori)
-- [相続した空き家の年間やることカレンダー｜固定資産税・年末・確定申告](/guide/akiya-owner-annual-calendar)
-- [大阪市の空き家・解体補助金2026年度｜24区の申請窓口・対象条件](/guide/osaka-ku-akiya-hojo-madoguchi-2026)
-- [水害・浸水被害を受けた不動産の売却方法](/guide/flood-damaged-property-sell)
+- [相続した空き家の火災保険はどうなる？継承・加入・解約の判断と売却で根本解決する方法](/guide/akiya-kasai-hoken-souzoku-guide/)
+- [管理不全空家に指定されたらどうなる？対象基準と対処法](/guide/kanri-fuzen-akiya-shitei-taisho/)
+- [特定空家の判定チェックリスト｜指定される基準と回避策](/guide/tokutei-akiya-hantei-checklist/)
+- [梅雨・大雨で空き家が受けるダメージと売却判断](/guide/akiya-tsuyu-risk-baikyaku/)
+- [空き家の管理を続ける費用と早期売却はどちらが得か](/guide/vacant-house-management-vs-early-sale-cost/)
+- [相続した実家の解体費用が払えない｜補助金・現況買取で手放す3つの方法](/guide/akiya-kaitai-hiyou-haraenai/)
+- [空き家の固定資産税が払えないとき｜分納・減免・売却・相続放棄の4つの選択肢](/guide/akiya-kotei-shisan-zei-haraenai/)
+- [相続した不動産を現況のまま引き渡して買い取ってもらう方法](/guide/souzoku-fudosan-genjou-watashi-kaitori/)
+- [相続した空き家の年間やることカレンダー｜固定資産税・年末・確定申告](/guide/akiya-owner-annual-calendar/)
+- [大阪市の空き家・解体補助金2026年度｜24区の申請窓口・対象条件](/guide/osaka-ku-akiya-hojo-madoguchi-2026/)
+- [水害・浸水被害を受けた不動産の売却方法](/guide/flood-damaged-property-sell/)
 
 ---
 

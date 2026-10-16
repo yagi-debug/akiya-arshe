@@ -2,6 +2,7 @@
 title: "相続した家 どうすればいい？完全ハブガイド｜フローチャートで選択肢を整理【2026年版】"
 description: "「相続した家をどうすればいいかわからない」方のための完全ハブガイド。住む・貸す・売る3択をフローチャートで整理し、費用・税金・訳あり物件ケースまで比較表で解説。宅地建物取引業者（大阪府知事(1)第65646号）が執筆。"
 publishDate: "2026-05-23"
+noindex: true
 author: "空き家のミカタ編集部"
 authorTitle: "宅地建物取引業者（大阪府知事(1)第65646号）"
 heroImage: "/images/souzoku-ie-doushitara-hub-hero.jpg"
@@ -58,95 +59,11 @@ updatedDate: "2026-09-07"
 }
 </script>
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "相続した家はどうすればいいですか？まず何をすればいいですか？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "まず「遺言書の確認」と「相続人の確認（戸籍謄本）」から始めてください。次に相続放棄を検討する場合は相続を知った日から3ヶ月以内に家庭裁判所へ申立てが必要です。その後、住む・貸す・売るの3択で方針を決め、相続登記（2024年4月から義務化・3年以内）を進めます。"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "相続した家の選択肢は何がありますか？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "大きく3つあります。①住む ②貸す ③売る。自分で住む予定がないなら、税制メリット（3,000万円特別控除など）が使える相続から3年以内の売却が有利です。"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "相続した家を売る場合、3,000万円特別控除は使えますか？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "被相続人が居住していた空き家の場合、一定条件を満たせば相続空き家の3,000万円特別控除が適用されます。期限は相続開始から3年を経過する日が属する年の12月31日です。"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "訳あり物件（再建築不可・事故物件など）は売れますか？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "はい、売れます。一般仲介では買い手が付きにくいですが、買取業者（自社買取）なら現況のまま直接買取が可能です。当社は仲介手数料なしで大阪府全域に対応しています。"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "相続した家を放置するとどうなりますか？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "固定資産税が最大6倍になるリスク、建物劣化、近隣トラブル、行政指導のリスクが高まります。3,000万円特別控除の期限（相続から3年）も失われるため、放置は最もコストが高い選択です。"
-      }
-    }
-  ]
-}
-</script>
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "HowTo",
-  "name": "相続した家をどうすればいいか：5ステップで決める",
-  "description": "相続した家の方針を決めるための5ステップ。遺言書確認から選択肢実行まで。",
-  "totalTime": "P3M",
-  "step": [
-    {
-      "@type": "HowToStep",
-      "name": "STEP 1：遺言書の有無と相続人を確認する",
-      "text": "遺言書の有無を確認（自宅・貸金庫・公証役場）。戸籍謄本を収集して法定相続人を特定します。"
-    },
-    {
-      "@type": "HowToStep",
-      "name": "STEP 2：不動産の状況を把握する",
-      "text": "固定資産税課税明細書・登記事項証明書で物件の評価額・名義・接道状況を確認します。"
-    },
-    {
-      "@type": "HowToStep",
-      "name": "STEP 3：住む・貸す・売るの方針を決める",
-      "text": "税制上は相続から3年以内に売却するのが有利。訳あり要素があれば買取業者への相談を検討します。"
-    },
-    {
-      "@type": "HowToStep",
-      "name": "STEP 4：相続登記（名義変更）を行う",
-      "text": "2024年4月から義務化。不動産の取得を知った日から3年以内に申請します。"
-    },
-    {
-      "@type": "HowToStep",
-      "name": "STEP 5：選択した方針を実行する",
-      "text": "売却・賃貸・自己居住のいずれかを実行します。訳あり物件の売却は買取業者経由が最速です。"
-    }
-  ]
-}
-</script>
-
 <img src="/images/souzoku-ie-doushitara-hub-hero.jpg" alt="相続した家の鍵と建築図面。相続後の不動産処分を検討するシーン" width="1200" height="800" style="width:100%;height:auto;border-radius:8px;margin-bottom:1.5rem;" />
 
 「親が亡くなって家を相続したけど、どうすればいいかわからない」——そんな状況でこのページにたどり着いた方に向けて、選択肢を整理するための完全ガイドをお届けします。
+
+このテーマの全体像は[相続した家の売り方と手続き](/guide/parent-death-house/)にまとめています。
 
 <strong>相続した家の選択肢は「住む」「貸す」「売る」の3つです。</strong>どれが正解かは、物件の状態・あなたの生活環境・税制の期限によって変わります。このページでは、フローチャートで方針を決めるコツと、各選択肢の費用・メリット・デメリットを比較表でお伝えします。
 
@@ -338,29 +255,29 @@ updatedDate: "2026-09-07"
 このページは「相続した家 どうすればいい」に関する各テーマのハブページです。詳細は以下のガイドをご参照ください。
 
 ### 手続き・基本
-- [相続した家、何から手をつければいい？7ステップ・チェックリスト【2026年版】](/guide/souzoku-ie-nani-kara)
-- [相続した不動産の売り方 完全ガイド2026年版](/guide/souzoku-fudousan-urikata-kanzen-guide)
-- [相続から売却完了までのタイムライン（期限つき）](/guide/inheritance-sale-timeline)
+- [相続した家、何から手をつければいい？7ステップ・チェックリスト【2026年版】](/guide/souzoku-ie-nani-kara/)
+- [相続した不動産の売り方 完全ガイド2026年版](/guide/parent-death-house/)
+- [相続から売却完了までのタイムライン（期限つき）](/guide/inheritance-sale-timeline/)
 
 ### 相続登記
-- [相続登記の義務化 完全対応ガイド2026年版](/guide/souzoku-touki-gimuka-kanzen-taiou-2026)
-- [相続登記の放置でどうなる？行政代執行まで解説](/guide/souzoku-touki-houchi-doushitara)
-- [相続登記の費用が払えない場合の対処法](/guide/souzoku-touki-hiyou-haraenai)
+- [相続登記の義務化 完全対応ガイド2026年版](/guide/inheritance-registry-neglect-sale-3options/)
+- [相続登記の放置でどうなる？行政代執行まで解説](/guide/souzoku-touki-houchi-doushitara/)
+- [相続登記の費用が払えない場合の対処法](/guide/souzoku-touki-hiyou-haraenai/)
 
 ### 税金
-- [相続した不動産の固定資産税、誰が払うのか？](/guide/souzoku-fudosan-kotei-shisan-zei-tantou)
-- [相続空き家の固定資産税を合法的に抑える方法](/guide/souzoku-akiya-koteishisanzei-kaihi)
-- [相続税の基礎知識と相続不動産への影響](/guide/inheritance-tax-basics)
+- [相続した不動産の固定資産税、誰が払うのか？](/guide/souzoku-fudosan-kotei-shisan-zei-tantou/)
+- [相続空き家の固定資産税を合法的に抑える方法](/guide/souzoku-akiya-koteishisanzei-kaihi/)
+- [相続税の基礎知識と相続不動産への影響](/guide/inheritance-tax-basics/)
 
 ### 相続アパート
-- [相続したアパートを手放す5つの方法と選び方](/guide/souzoku-apart-tewatashi-5houhou)
-- [相続アパートを買取する場合の相場と流れ](/guide/souzoku-apart-kaitori)
-- [相続アパート 売る vs 貸す vs 管理継続の比較](/guide/souzoku-apart-baikyaku-vs-chintai-vs-kanri)
+- [相続したアパートを手放す5つの方法と選び方](/guide/souzoku-apart-tewatashi-5houhou/)
+- [相続アパートを買取する場合の相場と流れ](/guide/souzoku-apart-kanzen-guide/)
+- [相続アパート 売る vs 貸す vs 管理継続の比較](/guide/souzoku-apart-baikyaku-vs-chintai-vs-kanri/)
 
 ### 訳あり物件
-- [訳あり物件でも売れる？買取可否5条件チェックリスト](/guide/wakeari-bukken-kaitori-kanousei-5check)
-- [再建築不可物件の売却方法と相場](/guide/non-rebuildable-property-sale)
-- [事故物件の買取相場と手続き](/guide/jiko-bukken-kaitori)
+- [訳あり物件でも売れる？買取可否5条件チェックリスト](/guide/wakeari-bukken-kaitori-kanousei-5check/)
+- [再建築不可物件の売却方法と相場](/guide/non-rebuildable-property-sale/)
+- [事故物件の買取相場と手続き](/guide/jiko-bukken-hub/)
 
 ---
 
@@ -368,11 +285,11 @@ updatedDate: "2026-09-07"
 
 ### Q1. 相続した家は、相続人全員で合意しないと売れませんか？
 
-共有名義になっている場合（相続人が複数）は、原則として全員の同意が必要です。ただし、<strong>自分の「共有持分だけ」を売ることは、他の相続人の同意なしでも可能です。</strong>持分だけの売却は市場価格より低くなりますが、共有状態を早期に解消したい場合の選択肢の一つです。詳しくは[共有持分の売却ガイド](/guide/joint-ownership-sale)をご参照ください。
+共有名義になっている場合（相続人が複数）は、原則として全員の同意が必要です。ただし、<strong>自分の「共有持分だけ」を売ることは、他の相続人の同意なしでも可能です。</strong>持分だけの売却は市場価格より低くなりますが、共有状態を早期に解消したい場合の選択肢の一つです。詳しくは[共有持分の売却ガイド](/guide/kyouyuu-mochibun-kaitori/)をご参照ください。
 
 ### Q2. 相続した家が「再建築不可」でも売れますか？
 
-売れます。ただし一般仲介では買い手が付きにくく、売却に半年〜1年以上かかることがあります。<strong>再建築不可物件に特化した買取業者に依頼すると、最短2週間での現金化も可能です。</strong>当社でも再建築不可物件の直接買取に対応しています。詳しくは[再建築不可物件の売却方法](/guide/non-rebuildable-property-sale)をご覧ください。
+売れます。ただし一般仲介では買い手が付きにくく、売却に半年〜1年以上かかることがあります。<strong>再建築不可物件に特化した買取業者に依頼すると、最短2週間での現金化も可能です。</strong>当社でも再建築不可物件の直接買取に対応しています。詳しくは[再建築不可物件の売却方法](/guide/non-rebuildable-property-sale/)をご覧ください。
 
 ### Q3. 相続した家を売るのに相続登記は絶対に必要ですか？
 
@@ -382,11 +299,10 @@ updatedDate: "2026-09-07"
 
 ## 関連するガイド記事
 
-- <a href="/guide/souzoku-apart-kanzen-guide">相続アパートを手放したい方へ｜売却の流れ・税金・失敗しない判断基準を宅建業者が完全解説【2026年最新】</a>
-- <a href="/guide/souzoku-fudousan-shobun-kanzen-guide">相続不動産の処分 完全ガイド2026｜法律・登記・比較表・失敗対策まで一気に解説</a>
-- <a href="/guide/souzoku-fudousan-urikata-kanzen-guide">【2026年版】相続した不動産の売り方 完全ガイド｜実務手順・費用・業者選定を買取業者が解説</a>
-- <a href="/guide/akiya-shobun-5-hikaku">空き家処分の5大選択肢を徹底比較【2026年版】費用・期間・手残り額</a>
-- <a href="/guide/akiya-kaitai-hiyou-haraenai">相続した実家の解体費用が払えない｜補助金・現況買取で費用ゼロで手放す3つの方法</a>
+- <a href="/guide/souzoku-apart-kanzen-guide/">相続アパートを手放したい方へ｜売却の流れ・税金・失敗しない判断基準を宅建業者が完全解説【2026年最新】</a>
+- <a href="/guide/parent-death-house/">相続不動産の処分 完全ガイド2026｜法律・登記・比較表・失敗対策まで一気に解説</a>
+- <a href="/guide/akiya-shobun-5-hikaku/">空き家処分の5大選択肢を徹底比較【2026年版】費用・期間・手残り額</a>
+- <a href="/guide/akiya-kaitai-hiyou-haraenai/">相続した実家の解体費用が払えない｜補助金・現況買取で費用ゼロで手放す3つの方法</a>
 
 ## 無料でご相談・査定を承ります
 
@@ -401,7 +317,7 @@ updatedDate: "2026-09-07"
 </div>
 
 <div style="text-align:center;margin:1rem 0 2rem;">
-  <a href="/contact" style="display:inline-block;background:#2c5282;color:white;padding:0.75rem 2rem;border-radius:8px;font-size:1rem;font-weight:bold;text-decoration:none;">お問い合わせフォームはこちら</a>
+  <a href="/contact/" style="display:inline-block;background:#2c5282;color:white;padding:0.75rem 2rem;border-radius:8px;font-size:1rem;font-weight:bold;text-decoration:none;">お問い合わせフォームはこちら</a>
 </div>
 
 <strong>大阪・近畿対応・仲介手数料ゼロ・現況のまま買取。</strong>「他社に断られた」「遠方で管理できない」「急いで手放したい」といったお悩みもお気軽にご相談ください。

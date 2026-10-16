@@ -2,6 +2,7 @@
 title: "海外在住・非居住者が日本の相続不動産を売る方法｜委任状・源泉徴収・手続き全解説【2026年版】"
 description: "海外在住・非居住者が日本の相続不動産を売る手続きを宅建業者が解説。委任状（アポスティーユ）の作り方、源泉徴収10.21%の仕組み、相続登記義務化への対応、帰国せずに売れる買取の活用法まで。"
 publishDate: "2026-06-18"
+noindex: true
 author: "空き家のミカタ編集部"
 authorTitle: "宅地建物取引業者（大阪府知事(1)第65646号）"
 heroImage: "/images/kaigai-zaiju-souzoku-fudosan-baikyaku-hero.jpg"
@@ -32,6 +33,8 @@ updatedDate: "2026-09-07"
 
 <strong>海外在住・非居住者でも、日本の相続不動産は売却できます。</strong>必要なのは「委任状の準備（アポスティーユまたは領事公証）」「相続登記の完了」「非居住者への源泉徴収ルールの理解」の3点です。手続きを正しく踏めば、帰国せずに売却を完結できるケースもあります。
 
+関連する内容は[海外在住の相続人が不動産を売る方法](/guide/kaigai-souzokunin-fudousan-baikyaku/)で詳しく解説しています。
+
 「親が亡くなって、大阪の実家が相続財産に含まれていた。でも自分は海外に住んでいて、すぐには帰れない」——そんなご相談が増えています。
 
 2024年4月1日から<strong>相続登記が義務化</strong>され、相続を知った日から3年以内に名義変更をしないと、10万円以下の過料が科される可能性があります。この義務は海外在住者にも適用されます。距離や言語の壁で後回しにしがちですが、早めに動き始めることが余計なコストと手間を防ぐ一番の方法です。
@@ -51,7 +54,7 @@ updatedDate: "2026-09-07"
 | 過去の相続への適用 | あり（猶予期限：2027年3月31日まで） |
 | 違反した場合 | 10万円以下の過料（正当な理由がある場合は免除の可能性あり） |
 
-相続登記の手続き全般については<a href="/guide/souzoku-touki-gimuka-kanzen-taiou-2026">相続登記義務化 完全対応ガイド2026</a>もあわせてご覧ください。
+相続登記の手続き全般については<a href="/guide/inheritance-registry-neglect-sale-3options/">相続登記義務化 完全対応ガイド2026</a>もあわせてご覧ください。
 
 ### ポイント②：委任状の準備（アポスティーユまたは領事公証）
 
@@ -167,7 +170,7 @@ A. 相続人の全員が売却に同意していることが必要です。海�
 
 登記が完了していない段階からのご相談も歓迎します。現在の状況をお聞きして、次のステップをご一緒に整理します。
 
-相続した空き家の税制優遇については<a href="/guide/souzoku-akiya-3000man-tokubetsu-kojo">相続した空き家を売るときの3,000万円特別控除</a>もあわせてご覧ください。
+相続した空き家の税制優遇については<a href="/guide/souzoku-akiya-3000man-tokubetsu-kojo/">相続した空き家を売るときの3,000万円特別控除</a>もあわせてご覧ください。
 
 ## ご相談はこちら（無料・大阪・近畿対応）
 
@@ -183,9 +186,9 @@ A. 相続人の全員が売却に同意していることが必要です。海�
 
 整理してからご相談したい方は、お問い合わせフォームをご利用ください。
 
-<a href="/contact" style="display:inline-block;background:#2563eb;color:white;padding:12px 24px;border-radius:8px;text-decoration:none;font-weight:bold;margin:0.5rem 0;">お問い合わせフォームへ</a>
+<a href="/contact/" style="display:inline-block;background:#2563eb;color:white;padding:12px 24px;border-radius:8px;text-decoration:none;font-weight:bold;margin:0.5rem 0;">お問い合わせフォームへ</a>
 
 宅建業免許: 大阪府知事(1)第65646号
 ---
 
-**このカテゴリの全ガイド一覧:** [→ 相続不動産 完全ハブ【2026年版】](/guide/souzoku-hub)
+**このカテゴリの中心の記事:** [→ 相続した家の売り方と手続き](/guide/parent-death-house/)

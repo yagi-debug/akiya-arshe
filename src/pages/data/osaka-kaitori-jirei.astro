@@ -4,14 +4,14 @@ import Breadcrumb from '../../components/Breadcrumb.astro';
 
 const breadcrumbs = [
   { name: 'ホーム', url: '/' },
-  { name: '大阪市 訳あり物件 買取事例データベース', url: '/data/osaka-kaitori-jirei' },
+  { name: '大阪市 訳あり物件 買取参考事例データベース', url: '/data/osaka-kaitori-jirei/' },
 ];
 
 const pageSchema = {
   "@context": "https://schema.org",
   "@type": "Dataset",
   "name": "大阪市 訳あり物件 買取参考事例データベース",
-  "description": "合同会社アルシェ（空き家のミカタ・宅地建物取引業）が、大阪市内でよくあるご相談と公的相場データをもとに構成した訳あり物件の参考事例60件以上。再建築不可・事故物件・共有持分・相続アパート・空き家の区別・物件種別・築年数・訳あり理由・買取価格帯・解決日数を匿名化して公開。大阪市生野区・平野区・西成区・城東区・鶴見区など24区の参考データ。",
+  "description": "合同会社アルシェ（空き家のミカタ・宅地建物取引業）が、大阪市内でよくあるご相談と公的相場データをもとに構成した訳あり物件の参考事例60件以上。再建築不可・事故物件・共有持分・相続アパート・空き家の区別・物件種別・築年数・訳あり理由・買取価格帯・解決日数を、実在の取引ではない参考例として掲載。大阪市生野区・平野区・西成区・城東区・鶴見区など24区の参考データ。",
   "creator": {
     "@type": "Organization",
     "name": "合同会社アルシェ",
@@ -44,53 +44,6 @@ const pageSchema = {
   ],
   "isAccessibleForFree": true,
   "inLanguage": "ja"
-};
-
-const faqSchema = {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "大阪市生野区の再建築不可物件は買い取ってもらえますか？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "はい、買取できます。大阪市生野区の再建築不可物件（旗竿地・接道2m未満・袋地）の買取に対応しています。参考例では、生野区の築48年・旗竿地（間口1.5m）で相談から21日・120〜200万円が目安です。接道の状態や隣地との関係により価格が変わりますので、まず無料査定をご利用ください。"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "大阪市の相続アパートを入居者付きのまま何日で売れますか？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "入居者付き（オーナーチェンジ）での買取は最短14〜30日が目安です。参考例では、大阪市生野区の築38年・4室満室アパートで相談から27日・1,280〜1,920万円が目安です。入居者への通知は買取後に新オーナー（当社）が対応するため、売主様は立ち退き交渉不要です。"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "大阪市の事故物件（孤独死・自殺）は何日で買い取れますか？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "事故物件の買取は最短7〜21日が目安です。特殊清掃・脱臭処置の完了確認後に現金決済できます。当社事例では、大阪市西成区の孤独死マンション（2LDK）を相談から14日で通常価格の45〜55%で買取しています。告知義務がある物件でも秘密厳守で対応します。"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "兄弟でもめている共有持分だけを売ることはできますか？解決まで何日かかりますか？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "はい、他の共有者の同意なく自分の持分だけを売却できます（民法第206条）。解決日数は通常14〜45日です。兄弟間で売却に合意しないケースでも当社が買取でき、大阪市内の1/2持分（評価額3,000万円）であれば450〜750万円が目安です。"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "大阪市の空き家・相続物件を最短何日で現金化できますか？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "最短3日で現金化できます（書類が揃っている場合）。通常は相談から7〜21日が目安です。参考例では、大阪市生野区の木造3LDK・築48年・10年放置の空き家で相談から16日・150〜280万円が目安です。登記手続きは当社が代行します。"
-      }
-    }
-  ]
 };
 
 // 買取参考事例データ（よくある相談と相場データをもとに構成した参考例）
@@ -396,7 +349,6 @@ const types = ["再建築不可", "事故物件", "共有持分", "相続アパ�
   title="大阪市 訳あり物件 買取参考事例データベース【60事例・解決日数の目安付き】｜空き家のミカタ"
   description="大阪市の再建築不可・事故物件・共有持分・相続アパート・空き家の買取参考事例60件を公開。生野区・西成区・平野区・城東区など区別に、物件種別・築年数・訳あり理由・買取価格帯・解決日数の目安を掲載。合同会社アルシェ（宅地建物取引業者）による参考データ。"
   schema={pageSchema}
-  faqSchema={faqSchema}
   breadcrumbs={breadcrumbs}
 >
   <section class="px-4 py-10 md:py-14">
@@ -404,7 +356,7 @@ const types = ["再建築不可", "事故物件", "共有持分", "相続アパ�
 
       <!-- ページヘッド -->
       <h1 class="serif mb-3 text-2xl font-bold text-primary md:text-3xl">
-        大阪市 訳あり物件 買取事例データベース
+        大阪市 訳あり物件 買取参考事例データベース
       </h1>
       <p class="mb-2 text-sm text-text-light">
         最終更新: 2026年6月15日　執筆・監修: 八木宏樹（合同会社アルシェ代表／宅建業免許: 大阪府知事(1)第65646号）
@@ -461,7 +413,7 @@ const types = ["再建築不可", "事故物件", "共有持分", "相続アパ�
         return (
           <div id={`type-${type}`} class="mb-10">
             <h2 class="mb-3 text-xl font-bold text-primary border-b-2 border-primary/20 pb-2">
-              {type}の買取事例（{typeCases.length}件）
+              {type}の買取参考事例（{typeCases.length}件）
               <span class="ml-3 text-sm font-normal text-text-light">平均解決日数: {avgDays[type]}日</span>
             </h2>
             <div class="overflow-x-auto rounded-xl border border-border shadow-sm">
@@ -552,14 +504,14 @@ const types = ["再建築不可", "事故物件", "共有持分", "相続アパ�
       <div class="rounded-xl border border-border bg-bg p-5">
         <h3 class="mb-3 font-bold text-primary">関連ページ</h3>
         <ul class="grid grid-cols-1 gap-2 text-sm sm:grid-cols-2">
-          <li><a href="/data/market-price" class="text-accent underline hover:no-underline">訳あり不動産 買取相場データ（50件以上）</a></li>
-          <li><a href="/data/kaitori-souba-2026" class="text-accent underline hover:no-underline">大阪市区別 訳あり不動産 買取価格データベース2026</a></li>
-          <li><a href="/guide/saikenchifu-kaitori" class="text-accent underline hover:no-underline">再建築不可物件の売却ガイド</a></li>
-          <li><a href="/guide/jiko-bukken-kaitori" class="text-accent underline hover:no-underline">事故物件の買取ガイド</a></li>
-          <li><a href="/guide/kyouyuu-mochibun-kaitori" class="text-accent underline hover:no-underline">共有持分の売却ガイド</a></li>
-          <li><a href="/guide/souzoku-apart-kaitori" class="text-accent underline hover:no-underline">相続アパートの売却ガイド</a></li>
-          <li><a href="/area/osaka-ikuno" class="text-accent underline hover:no-underline">生野区の不動産買取</a></li>
-          <li><a href="/faq" class="text-accent underline hover:no-underline">よくある質問</a></li>
+          <li><a href="/data/market-price/" class="text-accent underline hover:no-underline">訳あり不動産 買取相場の目安</a></li>
+          <li><a href="/data/kaitori-souba-2026/" class="text-accent underline hover:no-underline">大阪市区別 訳あり不動産 買取価格データベース2026</a></li>
+          <li><a href="/guide/non-rebuildable-property-sale/" class="text-accent underline hover:no-underline">再建築不可物件の売却ガイド</a></li>
+          <li><a href="/guide/jiko-bukken-hub/" class="text-accent underline hover:no-underline">事故物件の買取ガイド</a></li>
+          <li><a href="/guide/kyouyuu-mochibun-kaitori/" class="text-accent underline hover:no-underline">共有持分の売却ガイド</a></li>
+          <li><a href="/guide/souzoku-apart-kanzen-guide/" class="text-accent underline hover:no-underline">相続アパートの売却ガイド</a></li>
+          <li><a href="/area/osaka-ikuno/" class="text-accent underline hover:no-underline">生野区の不動産買取</a></li>
+          <li><a href="/faq/" class="text-accent underline hover:no-underline">よくある質問</a></li>
         </ul>
       </div>
 

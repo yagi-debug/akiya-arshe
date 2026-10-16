@@ -45,7 +45,9 @@ updatedDate: "2026-09-07"
 
 ## 不要な農地の処分にかかるお金の全体像
 
-「農地は売れない」と言われて手が止まっている方は多いです。ただ、実際にご相談をお受けしていると、止まっている理由は法律の難しさではありません。<strong>いくらかかるのかが最後までわからない</strong>ことです。
+「農地は売れない」と言われて手が止まっている方は多いです。ただ、止まっている理由は法律の難しさではありません。<strong>いくらかかるのかが最後までわからない</strong>ことです。
+
+このテーマの全体像は[相続した農地・山林の処分方法](/guide/souzoku-nouchi-sanrin-baikyaku/)にまとめています。
 
 農地の処分には、大きく分けて次の5つのルートがあります。
 
@@ -294,20 +296,20 @@ updatedDate: "2026-09-07"
 
 <strong>農地・山林のカテゴリー</strong>
 
-- <a href="/guide/inherited-farmland-sell-or-convert">農地を相続したら？農地法の壁を超えて売却・転用する全手順</a>
-- <a href="/guide/inherited-farmland-sale-without-conversion">農地を相続したら売れない？農地法の壁と宅地転用なしで手放す方法</a>
-- <a href="/guide/forest-zasshu-inheritance-exit">相続した山林・雑種地を手放す方法｜農地と違う規制と国庫帰属の可否</a>
-- <a href="/guide/souzoku-nouchi-sanrin-baikyaku">相続した農地・山林の処分方法｜手放す・売る4つの選択肢と農地法の制約</a>
+- <a href="/guide/inherited-farmland-sell-or-convert/">農地を相続したら？農地法の壁を超えて売却・転用する全手順</a>
+- <a href="/guide/inherited-farmland-sale-without-conversion/">農地を相続したら売れない？農地法の壁と宅地転用なしで手放す方法</a>
+- <a href="/guide/forest-zasshu-inheritance-exit/">相続した山林・雑種地を手放す方法｜農地と違う規制と国庫帰属の可否</a>
+- <a href="/guide/souzoku-nouchi-sanrin-baikyaku/">相続した農地・山林の処分方法｜手放す・売る4つの選択肢と農地法の制約</a>
 
 <strong>制度・税金のカテゴリー</strong>
 
-- <a href="/guide/souzoku-tochi-kokkoku-kizoku">相続土地国庫帰属制度の使い方</a>
-- <a href="/guide/koteishisanzei-haraitsudzukeru-vs-baikyaku">固定資産税を払い続けるか売却するかの判断</a>
-- <a href="/guide/shigaika-chosei-fudosan-baikyaku">市街化調整区域の不動産を売却する方法</a>
+- <a href="/guide/souzoku-tochi-kokkoku-kizoku/">相続土地国庫帰属制度の使い方</a>
+- <a href="/guide/koteishisanzei-haraitsudzukeru-vs-baikyaku/">固定資産税を払い続けるか売却するかの判断</a>
+- <a href="/guide/shigaika-chosei-fudosan-baikyaku/">市街化調整区域の不動産を売却する方法</a>
 
 <strong>訳あり不動産のカテゴリー</strong>
 
-- <a href="/guide/lp-wakeari-bukken-kaitori">訳あり物件の買取について</a>
+- <a href="/guide/osaka-city-yakuari-kaitori/">訳あり物件の買取について</a>
 
 ## まずはお気軽にご相談ください
 
@@ -317,7 +319,7 @@ updatedDate: "2026-09-07"
 
 <strong>[LINEで無料相談する](https://line.arshe1719.workers.dev/auth/line?ref=hp)</strong>
 
-<strong>[お問い合わせフォームはこちら](/contact)</strong>
+<strong>[お問い合わせフォームはこちら](/contact/)</strong>
 
 → <a href="/satei/">無料査定の相談準備メモ（入力任意）</a>　所在地や入居状況を整理できます。価格は物件を確認して個別にご案内します。
 

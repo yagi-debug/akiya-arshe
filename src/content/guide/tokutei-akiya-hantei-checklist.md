@@ -2,6 +2,7 @@
 title: "特定空き家に指定される前に確認｜固定資産税6倍化の判定チェックリストと5ステップ回避策【2026年版】"
 description: "5〜6月の固定資産税納付書が届く前に確認すべき、特定空き家指定の判定チェックリスト7項目と段階別回避策を宅建業者が解説。助言・指導・勧告の各ステップで取るべき行動をわかりやすく説明します。"
 publishDate: "2026-05-01"
+noindex: true
 author: "宅建業者"
 authorTitle: "宅建業者"
 heroImage: "/images/tokutei-akiya-hantei-hero.jpg"
@@ -34,6 +35,8 @@ updatedDate: "2026-09-07"
 <img src="/images/tokutei-akiya-hantei-hero.jpg" alt="老朽化した空き家の外観。特定空き家に指定されると固定資産税が6倍になるリスクがある" width="1200" height="800" style="width:100%;height:auto;border-radius:8px;margin-bottom:1.5rem;" />
 
 5〜6月は固定資産税の納付書が届く季節です。<strong>もし昨年より税額が大幅に増えていたら、「勧告」を受けて住宅用地の特例が解除されている可能性があります。</strong>増えていない場合でも、市区町村からの通知を見落としていれば、来年度から急増するリスクがあります。
+
+このテーマの全体像は[空き家の固定資産税6倍化の回避策](/guide/akiya-koteishisanzei-6bai-hikaku/)にまとめています。
 
 <strong>特定空き家に指定されると、固定資産税の課税標準が最大6倍（小規模住宅用地の1/6特例が解除）になります。</strong>ただしいきなり指定・6倍化されるわけではなく、「助言・指導→勧告→命令→行政代執行」という段階があり、早い段階で対応すれば回避できます。
 
@@ -216,11 +219,11 @@ updatedDate: "2026-09-07"
 
 ## 関連するガイド記事
 
-- <a href="/guide/kotei-shisan-zei-nousho-baikyaku-3taiken">【実録】固定資産税の通知書が届き、空き家売却を決意した3つの体験談【2026年5月】</a>
-- <a href="/guide/akiya-shobun-5-hikaku">空き家処分の5大選択肢を徹底比較【2026年版】費用・期間・手残り額</a>
-- <a href="/guide/souzoku-jirei-09-shigaika-chosei-kaitori">【体験談・事例09】市街化調整区域の実家を相続。仲介3社に断られ2年間固定資産税を払い続けた末に、24日で現金化した全記録</a>
-- <a href="/guide/souzoku-hub">相続不動産 完全ハブ｜処分・売却・登記・固定資産税・事例まで全ガイドをまとめて確認【2026年版】</a>
-- <a href="/guide/souzoku-apart-kanzen-guide">相続アパートを手放したい方へ｜売却の流れ・税金・失敗しない判断基準を宅建業者が完全解説【2026年最新】</a>
+- <a href="/guide/kotei-shisan-zei-tsuchisho-checklist/">【参考例】固定資産税の通知書が届き、空き家売却を決意した3つのケース【2026年5月】</a>
+- <a href="/guide/akiya-shobun-5-hikaku/">空き家処分の5大選択肢を徹底比較【2026年版】費用・期間・手残り額</a>
+- <a href="/guide/souzoku-jirei-09-shigaika-chosei-kaitori/">【参考例・事例09】市街化調整区域の実家を相続。仲介3社に断られ2年間固定資産税を払い続けた末に、24日で現金化したケース</a>
+- <a href="/guide/parent-death-house/">相続した家の売り方と手続き</a>
+- <a href="/guide/souzoku-apart-kanzen-guide/">相続アパートを手放したい方へ｜売却の流れ・税金・失敗しない判断基準を宅建業者が完全解説【2026年最新】</a>
 
 ## 特定空き家・空き家の処分についてご相談ください
 
@@ -235,15 +238,15 @@ updatedDate: "2026-09-07"
   <p style="margin:0 0 1rem;">LINE「空き家のミカタ」で簡単に相談できます。物件の写真・住所をお送りいただくだけでOKです。</p>
   <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06c755;color:#fff;padding:0.75rem 2rem;border-radius:4px;text-decoration:none;font-weight:bold;">LINEで無料相談する</a>
   <span style="display:inline-block;margin-left:1rem;">または</span>
-  <a href="/contact" style="display:inline-block;margin-left:0.5rem;color:#15803d;font-weight:bold;">メールフォームで相談する →</a>
+  <a href="/contact/" style="display:inline-block;margin-left:0.5rem;color:#15803d;font-weight:bold;">メールフォームで相談する →</a>
 </div>
 
 関連記事もあわせてご確認ください：
-- <a href="/guide/souzoku-apart-kanzen-guide">相続アパートを手放したい方へ｜売却の流れ・税金・判断基準の完全ガイド</a>
-- <a href="/guide/akiya-koteishisanzei-6bai-hikaku">空き家固定資産税6倍化の回避策と売却タイミング比較</a>
-- <a href="/guide/akiya-kotei-shisan-zei-haraenai">固定資産税が払えないとき｜4つの選択肢と対応方法</a>
-- <a href="/guide/kotei-shisan-zei-tsuchisho-checklist">固定資産税の通知書が届いたら確認すべき5つのポイント</a>
-- <a href="/guide/akiya-kaitori">空き家の買取｜現況のまま現金化する方法</a>
+- <a href="/guide/souzoku-apart-kanzen-guide/">相続アパートを手放したい方へ｜売却の流れ・税金・判断基準の完全ガイド</a>
+- <a href="/guide/akiya-koteishisanzei-6bai-hikaku/">空き家固定資産税6倍化の回避策と売却タイミング比較</a>
+- <a href="/guide/akiya-kotei-shisan-zei-haraenai/">固定資産税が払えないとき｜4つの選択肢と対応方法</a>
+- <a href="/guide/kotei-shisan-zei-tsuchisho-checklist/">固定資産税の通知書が届いたら確認すべき5つのポイント</a>
+- <a href="/guide/akiya-shobun-5-hikaku/">空き家の処分方法の比較</a>
 ---
 
-**このカテゴリの全ガイド一覧:** [→ 空き家の処分・活用 完全ガイド](/guide/vacant-house)
+**このカテゴリの中心の記事:** [→ 空き家の処分・活用 完全ガイド](/guide/akiya-shobun-5-hikaku/)

@@ -2,6 +2,7 @@
 title: "相続した不動産の境界トラブル｜確定測量なしで売れる？現況買取の方法を解説"
 description: "相続不動産の境界が不明で売れない・測量費用が高い・隣人が協力してくれないとお悩みの方へ。確定測量の費用と手順、筆界特定制度の使い方、そして境界不明のまま売る「現況買取」の仕組みを宅建業者がわかりやすく解説します。"
 publishDate: "2026-06-01"
+noindex: true
 author: "空き家のミカタ編集部"
 authorTitle: "宅地建物取引業者（大阪府知事(1)第65646号）"
 heroImage: "/images/souzoku-fudosan-kyokai-toraburu-hero.jpg"
@@ -21,6 +22,8 @@ updatedDate: "2026-09-07"
 ---
 
 <strong>相続した不動産の境界が不明でも、売却できる方法があります。</strong>仲介では境界確定を求められることが多いですが、買取専門業者なら境界未確定の現況のまま売却できる場合があります。
+
+関連する内容は[境界が不明な相続不動産の売却](/guide/souzoku-fudosan-kyoukaisen-fumei-baikyaku/)で詳しく解説しています。
 
 > <strong>相続不動産の境界トラブル — まとめ</strong>
 > - <strong>境界不明の原因</strong>：昔の物件は境界標が消失・未設置のケースが多い
@@ -177,11 +180,11 @@ updatedDate: "2026-09-07"
 
 ## 関連ガイド
 
-- <a href="/guide/souzoku-fudousan-shobun-kanzen-guide">相続不動産の処分 完全ガイド2026</a>
-- <a href="/guide/souzoku-ie-doushitara-hub">相続した家 どうすればいい？完全ハブガイド</a>
-- <a href="/guide/wakeare-kaitori-gyosha-erabikata-7check">訳あり物件を買い取ってくれる業者の選び方 7つのチェック</a>
-- <a href="/guide/inheritance-registry">相続登記の義務化と手続きガイド</a>
-- <a href="/guide/akiya-souzoku-urenai">相続した空き家が売れない？原因と解決策</a>
+- <a href="/guide/parent-death-house/">相続不動産の処分 完全ガイド2026</a>
+- <a href="/guide/souzoku-ie-doushitara-hub/">相続した家 どうすればいい？完全ハブガイド</a>
+- <a href="/guide/wakeare-kaitori-gyosha-erabikata-7check/">訳あり物件を買い取ってくれる業者の選び方 7つのチェック</a>
+- <a href="/guide/inheritance-registry-neglect-sale-3options/">相続登記の義務化と手続きガイド</a>
+- <a href="/guide/akiya-souzoku-urenai/">相続した空き家が売れない？原因と解決策</a>
 
 ## 境界の問題は、ひとりで抱え込まないでください
 
@@ -193,9 +196,9 @@ updatedDate: "2026-09-07"
 
 <strong><a href="https://line.arshe1719.workers.dev/auth/line?ref=hp">LINEで無料相談する（空き家のミカタ）</a></strong>
 
-<a href="/contact">お問い合わせフォームはこちら</a>
+<a href="/contact/">お問い合わせフォームはこちら</a>
 
 査定・相談は無料・秘密厳守・大阪・近畿対応
 ---
 
-**このカテゴリの全ガイド一覧:** [→ 相続不動産 完全ハブ【2026年版】](/guide/souzoku-hub)
+**このカテゴリの中心の記事:** [→ 相続した家の売り方と手続き](/guide/parent-death-house/)

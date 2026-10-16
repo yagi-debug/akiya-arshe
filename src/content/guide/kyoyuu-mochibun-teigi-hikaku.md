@@ -124,11 +124,10 @@ A: 共有持分とは、1つの不動産を複数人が所有する場合の「�
 
 ## 関連するガイド記事
 
-- <a href="/guide/kyouyuu-mochibun-hub">共有持分 完全ハブ｜売却・買取・トラブル解決・相場まで全ガイドまとめ【2026年版】</a>
-- <a href="/guide/kyouyuu-mochibun-qa-hub">共有持分Q&Aハブ｜18の疑問に宅建業者が本音で回答</a>
-- <a href="/guide/souzoku-jirei-08-kyoyu-mome-kaitori">【体験談・事例08】「弟が売りたくない」と3年間膠着した実家の共有持分を32日で現金化した全記録</a>
-- <a href="/guide/souzoku-apart-kanzen-guide">相続アパートを手放したい方へ｜売却の流れ・税金・失敗しない判断基準を宅建業者が完全解説【2026年最新】</a>
-- <a href="/guide/souzoku-fudousan-shobun-kanzen-guide">相続不動産の処分 完全ガイド2026｜法律・登記・比較表・失敗対策まで一気に解説</a>
+- <a href="/guide/kyouyuu-mochibun-kaitori/">共有持分の買取・売却方法</a>
+- <a href="/guide/souzoku-jirei-08-kyoyu-mome-kaitori/">【参考例・事例08】「弟が売りたくない」と3年間膠着した実家の共有持分を32日で現金化したケース</a>
+- <a href="/guide/souzoku-apart-kanzen-guide/">相続アパートを手放したい方へ｜売却の流れ・税金・失敗しない判断基準を宅建業者が完全解説【2026年最新】</a>
+- <a href="/guide/parent-death-house/">相続不動産の処分 完全ガイド2026｜法律・登記・比較表・失敗対策まで一気に解説</a>
 
 ## 結論
 
@@ -145,7 +144,7 @@ A: 共有持分とは、1つの不動産を複数人が所有する場合の「�
 
 <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06c755;color:#fff;padding:14px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 4px;">LINE「空き家のミカタ」に無料相談する</a>
 
-<a href="/contact" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 4px;">無料査定フォームで相談する</a>
+<a href="/contact/" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 4px;">無料査定フォームで相談する</a>
 
 共有持分・訳あり物件を専門に扱っており、<strong>現況のまま・他の共有者への連絡不要で買取査定</strong>に対応しています。大阪府知事(1)第65646号の宅建業免許のもと、安心してご相談ください。
 

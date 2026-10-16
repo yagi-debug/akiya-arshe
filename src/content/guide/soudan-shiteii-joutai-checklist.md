@@ -69,13 +69,13 @@ updatedDate: "2026-09-07"
 
 相続登記は2024年4月1日から申請が義務化されました。不動産を取得したことを知った日から3年以内に申請しなければ、10万円以下の過料が科される可能性があります。2024年4月1日より前に発生した相続も対象で、こちらは2027年3月31日が期限です。すぐに登記できない事情があるときは、相続人であることを法務局に申し出る「相続人申告登記」でひとまず義務を果たす方法もあります（出典: [法務省・相続登記の申請義務化に関するQ&A](https://www.moj.go.jp/MINJI/minji05_00565.html)／2026年8月17日確認）。
 
-詳しくは[相続登記の義務化への完全対応ガイド](/guide/souzoku-touki-gimuka-kanzen-taiou-2026)と[未登記不動産の買取](/guide/mitouki-fudosan-kaitori)で整理しています。
+詳しくは[相続登記の義務化への完全対応ガイド](/guide/inheritance-registry-neglect-sale-3options/)と[未登記不動産の買取](/guide/mitouki-fudosan-kaitori/)で整理しています。
 
 ### ② 名義が祖父母のまま（数次相続）
 
 <strong>この段階でも相談できる理由</strong>
 
-名義が祖父や曾祖父のままで、相続人が10人、20人に膨らんでいるケースでも、現況の確認と概算の査定はできます。こうした物件は珍しくなく、権利関係の整理を前提にした買取の実績もあります。
+名義が祖父や曾祖父のままで、相続人が10人、20人に膨らんでいるケースでも、現況の確認と概算の査定はできます。こうした物件は珍しくなく、権利関係の整理を前提にした買取にも対応しています。
 
 <strong>その状態で先にやると損すること</strong>
 
@@ -83,7 +83,7 @@ updatedDate: "2026-09-07"
 
 先に方針（誰の名義に集約するか、持分のまま手放すか）を決めたほうが、取り寄せる戸籍の範囲を絞れます。順番を変えるだけで、手間も費用も減らせる部分です。
 
-[数次相続で名義がバラバラな不動産の売却](/guide/suji-souzoku-meigi-baikyaku)もあわせてご覧ください。
+[数次相続で名義がバラバラな不動産の売却](/guide/suji-souzoku-meigi-baikyaku/)もあわせてご覧ください。
 
 ## 話し合いがまとまっていない状態（③④）
 
@@ -103,7 +103,7 @@ updatedDate: "2026-09-07"
 
 相続税の申告期限は、相続の開始を知った日の翌日から10ヶ月以内です。未分割のまま申告期限を迎えると、小規模宅地等の特例を当初の申告では適用できません。「申告期限後3年以内の分割見込書」を提出しておけば、分割が済んだ後に適用を受けられる場合があります（出典: [国税庁 No.4124 相続した事業用・居住用の宅地等の特例](https://www.nta.go.jp/taxes/shiraberu/taxanswer/sozoku/4124.htm)／2026年8月17日確認）。
 
-[遺産分割協議書の書き方](/guide/isan-bunkatsu-kyougisho-kakikata)も参考になさってください。
+[遺産分割協議書の書き方](/guide/isan-bunkatsu-kyougisho-kakikata/)も参考になさってください。
 
 ### ④ 兄弟・親族の同意が取れていない
 
@@ -133,7 +133,7 @@ updatedDate: "2026-09-07"
 
 さらに、放置している建物が「特定空家等」や「管理不全空家等」として勧告を受けると、住宅用地の特例（課税標準を最大6分の1にする措置）が外れ、<strong>土地の固定資産税が最大で6倍近くに上がる可能性があります。</strong>書類探しは、相談と並行で問題ありません。
 
-[固定資産税の納税通知書チェックリスト](/guide/kotei-shisan-zei-tsuchisho-checklist)で見方を整理しています。
+[固定資産税の納税通知書チェックリスト](/guide/kotei-shisan-zei-tsuchisho-checklist/)で見方を整理しています。
 
 ### ⑥ 鍵がない・遠方で一度も見に行っていない
 
@@ -145,7 +145,7 @@ updatedDate: "2026-09-07"
 
 「まず自分の目で見てから」と遠方の実家へ往復すると、1回で交通費と丸一日が消えます。しかも現地を見ても、雨漏りの程度・シロアリ・基礎の状態・解体費の相場を、その場で判断するのは専門家でも図面と調査が必要な領域です。<strong>行くこと自体が判断材料になりにくいのが実情です。</strong>
 
-契約や決済も、委任状と郵送・オンラインで進められる部分が多くあります。詳しくは[遠方の実家を売却する方法](/guide/remote-family-home-sale)をご覧ください。
+契約や決済も、委任状と郵送・オンラインで進められる部分が多くあります。詳しくは[遠方の実家を売却する方法](/guide/remote-family-home-sale/)をご覧ください。
 
 ### ⑦ 残置物（家具・荷物）が満載のまま
 
@@ -169,7 +169,7 @@ updatedDate: "2026-09-07"
 
 特に注意が必要なのが<strong>購入時の売買契約書</strong>です。取得費（その不動産を買ったときの金額）を証明できないと、譲渡価額の5%を取得費とみなして計算することになり、<strong>売却時の税負担が大きく増える場合があります。</strong>古い書類ほど価値があるとお考えください。
 
-[遺品整理と家財の処分](/guide/souzoku-ihin-seiri-kazai-baikyaku)もあわせてご確認いただけます。
+[遺品整理と家財の処分](/guide/souzoku-ihin-seiri-kazai-baikyaku/)もあわせてご確認いただけます。
 
 ## 相談前に「先にやると損する」3つの行動
 
@@ -201,7 +201,7 @@ updatedDate: "2026-09-07"
 
 ### 相続放棄を迷っている段階でも相談していいですか？
 
-ご相談は可能です。ただし<strong>相続放棄には期限があり、相続の開始を知った時から3ヶ月以内</strong>です。またこの期間中に相続財産を売却・処分すると、相続を承認したとみなされて放棄ができなくなる場合があります。放棄を検討されている段階では、実際の売却手続きには進まず、判断材料としての情報提供にとどめています。詳しくは[相続放棄の期限を過ぎたらどうなるか](/guide/souzoku-houki-kigengire)をご覧ください。
+ご相談は可能です。ただし<strong>相続放棄には期限があり、相続の開始を知った時から3ヶ月以内</strong>です。またこの期間中に相続財産を売却・処分すると、相続を承認したとみなされて放棄ができなくなる場合があります。放棄を検討されている段階では、実際の売却手続きには進まず、判断材料としての情報提供にとどめています。詳しくは[相続放棄の期限を過ぎたらどうなるか](/guide/souzoku-houki-kigengire/)をご覧ください。
 
 ### 相談したら、その場で契約を求められませんか？
 
@@ -236,7 +236,7 @@ updatedDate: "2026-09-07"
 </div>
 
 <div style="text-align:center;margin:1rem 0 2rem;">
-  <a href="/contact" style="display:inline-block;background:#2c5282;color:white;padding:0.75rem 2rem;border-radius:8px;font-size:1rem;font-weight:bold;text-decoration:none;">お問い合わせフォームはこちら</a>
+  <a href="/contact/" style="display:inline-block;background:#2c5282;color:white;padding:0.75rem 2rem;border-radius:8px;font-size:1rem;font-weight:bold;text-decoration:none;">お問い合わせフォームはこちら</a>
 </div>
 
 <strong>大阪市24区を中心に対応・仲介手数料ゼロ・現況のまま買取。</strong>「名義がまだ」「家族で意見がまとまらない」「荷物が残ったまま」といった状態のご相談も、そのままお持ちください。
@@ -245,13 +245,13 @@ updatedDate: "2026-09-07"
 
 ## 関連ガイド記事
 
-- [相続した家、誰に相談すればいい？悩み別フローチャート](/guide/souzoku-ie-wakaranai-soudan)
-- [相続登記の義務化への完全対応ガイド【2026年版】](/guide/souzoku-touki-gimuka-kanzen-taiou-2026)
-- [遺産分割協議書の書き方](/guide/isan-bunkatsu-kyougisho-kakikata)
-- [遠方の実家を売却する方法【現地不要】](/guide/remote-family-home-sale)
-- [相続放棄の期限（3ヶ月）を過ぎたらどうなる？](/guide/souzoku-houki-kigengire)
-- [未登記不動産の買取](/guide/mitouki-fudosan-kaitori)
+- [相続した家、誰に相談すればいい？悩み別フローチャート](/guide/souzoku-ie-wakaranai-soudan/)
+- [相続登記の義務化への完全対応ガイド【2026年版】](/guide/inheritance-registry-neglect-sale-3options/)
+- [遺産分割協議書の書き方](/guide/isan-bunkatsu-kyougisho-kakikata/)
+- [遠方の実家を売却する方法【現地不要】](/guide/remote-family-home-sale/)
+- [相続放棄の期限（3ヶ月）を過ぎたらどうなる？](/guide/souzoku-houki-kigengire/)
+- [未登記不動産の買取](/guide/mitouki-fudosan-kaitori/)
 
 ---
 
-**このカテゴリの全ガイド一覧:** [→ 相続不動産 完全ハブ【2026年版】](/guide/souzoku-hub)
+**このカテゴリの中心の記事:** [→ 相続した家の売り方と手続き](/guide/parent-death-house/)

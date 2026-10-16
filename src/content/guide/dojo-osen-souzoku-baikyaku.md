@@ -53,6 +53,8 @@ howToSteps:
 
 親や祖父母から土地を相続したとき、その土地がかつてガソリンスタンドやクリーニング店、めっき工場だったと知り、途方に暮れる方がいます。「土壌が汚染されているかもしれない」「売れるのか」「告知しなければいけないのか」——このような不安を抱えたまま放置していると、固定資産税・管理費だけが膨らみ続けます。
 
+このテーマの全体像は[大阪市の訳あり物件の買取](/guide/osaka-city-yakuari-kaitori/)にまとめています。
+
 <strong>土壌汚染が疑われる相続不動産も、売却は可能です。</strong>ただし、通常の仲介では買い手が見つかりにくく、告知義務と調査費用の問題もあります。この記事では、土壌汚染のある相続不動産を手放すための方法を、宅建業者の視点でわかりやすく解説します。
 
 ---
@@ -200,7 +202,7 @@ howToSteps:
 
 **ステップ1：相続登記を完了させる（3年以内）**
 
-不動産の名義が相続人に移っていないと売却できません。2024年4月1日以降、相続を知った日から3年以内の登記が義務化されています（不動産登記法第76条の2）。詳しくは[相続登記義務化の完全対応ガイド2026](/guide/souzoku-touki-gimuka-kanzen-taiou-2026)をご覧ください。
+不動産の名義が相続人に移っていないと売却できません。2024年4月1日以降、相続を知った日から3年以内の登記が義務化されています（不動産登記法第76条の2）。詳しくは[相続登記義務化の完全対応ガイド2026](/guide/inheritance-registry-neglect-sale-3options/)をご覧ください。
 
 **ステップ2：土地の利用履歴を確認する**
 
@@ -248,7 +250,7 @@ A. 訳あり物件専門の買取業者であれば、土壌汚染リスクが�
 
 土壌汚染の可能性がある不動産の相続・売却で「どこに相談すればいいかわからない」という方は、まず私たちにお声がけください。現況のままで査定し、告知義務・調査の進め方も含めて最適な方法をご提案します。
 
-**このカテゴリの全ガイド一覧:** [→ 相続不動産 完全ハブ【2026年版】](/guide/souzoku-hub)
+**このカテゴリの中心の記事:** [→ 相続した家の売り方と手続き](/guide/parent-death-house/)
 
 **工場・倉庫・店舗付き住宅をお持ちの方へ:** [→ 工場・倉庫・店舗付き住宅の売却相談はこちら](/guide/jigyoyo-fudosan-kaitori/)
 
@@ -259,4 +261,4 @@ A. 訳あり物件専門の買取業者であれば、土壌汚染リスクが�
 土壌汚染が疑われる相続不動産・元工場跡地・元ガソリンスタンドの売却について、訳あり物件専門の宅建業者が無料でご相談をお受けしています。調査前でも、告知義務について不安がある方も、まずはお気軽にご連絡ください。
 
 <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06C755;color:#fff;padding:14px 32px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 8px 8px 0;">LINEで無料相談（即日対応）</a>
-<a href="/contact" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 32px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 0;">お問い合わせフォーム</a>
+<a href="/contact/" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 32px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 0;">お問い合わせフォーム</a>

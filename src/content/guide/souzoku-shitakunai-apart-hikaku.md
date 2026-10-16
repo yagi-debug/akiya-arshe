@@ -158,7 +158,7 @@ howToSteps:
 - 3か月の期限に縛られません（ただし相続税の申告期限は10か月です）
 - <strong>全員の合意が必要</strong>で、引き受け手がいなければ成立しません
 
-引き受ける側にとってもアパートは負担ですので、「引き受ける代わりに預金を多めに取る」といった調整が現実的です。話し合いの結果は遺産分割協議書に残します。書き方は<a href="/guide/isan-bunkatsu-kyougisho-kakikata">遺産分割協議書とは？相続した不動産を売るための書き方と4ステップ手順</a>にまとめています。
+引き受ける側にとってもアパートは負担ですので、「引き受ける代わりに預金を多めに取る」といった調整が現実的です。話し合いの結果は遺産分割協議書に残します。書き方は<a href="/guide/isan-bunkatsu-kyougisho-kakikata/">遺産分割協議書とは？相続した不動産を売るための書き方と4ステップ手順</a>にまとめています。
 
 ### 選択肢2：いったん相続して、売却・買取で手放す
 
@@ -168,7 +168,7 @@ howToSteps:
 - 入居者がいてもオーナーチェンジとして売却できます
 - 老朽化・空室が多い・修繕費が出せないアパートでも、現況のまま買取という方法があります
 
-「売れないと思っていたが値段がついたので、放棄する必要がなくなった」という結末は珍しくありません。<strong>放棄を決める前に金額を確認する</strong>ほうが、判断材料が増えます。入居者がいる場合の進め方は<a href="/guide/nyukyosha-apart-baikyaku">入居者がいるアパートの売却方法｜立退き交渉とオーナーチェンジ買取を徹底比較</a>をご覧ください。
+「売れないと思っていたが値段がついたので、放棄する必要がなくなった」という結末は珍しくありません。<strong>放棄を決める前に金額を確認する</strong>ほうが、判断材料が増えます。入居者がいる場合の進め方は<a href="/guide/souzoku-apart-owner-change-shokei/">入居者がいるアパートの売却方法｜立退き交渉とオーナーチェンジ買取を徹底比較</a>をご覧ください。
 
 ### 選択肢3：相続放棄をする（全部を手放す）
 
@@ -176,9 +176,9 @@ howToSteps:
 
 <strong>(1) プラスの財産もすべて受け取れなくなります。</strong>預金や実家も対象外です。
 
-<strong>(2) 放棄しても、すぐに管理から解放されるとは限りません。</strong>民法第940条は、放棄の時にその財産を現に占有している場合、次の相続人または相続財産の清算人に引き渡すまでの間、自己の財産におけるのと同一の注意をもって保存しなければならないと定めています。詳しくは<a href="/guide/souzoku-houki-akiya-hozon-gimu">相続放棄すれば空き家から解放される？民法940条の保存義務と清算人の予納金・代執行費用の実額</a>で解説しています。
+<strong>(2) 放棄しても、すぐに管理から解放されるとは限りません。</strong>民法第940条は、放棄の時にその財産を現に占有している場合、次の相続人または相続財産の清算人に引き渡すまでの間、自己の財産におけるのと同一の注意をもって保存しなければならないと定めています。詳しくは<a href="/guide/souzoku-houki-akiya-hozon-gimu/">相続放棄すれば空き家から解放される？民法940条の保存義務と清算人の予納金・代執行費用の実額</a>で解説しています。
 
-<strong>(3) 次の順位の方に相続権が移ります。</strong>子が全員放棄すれば親、親もいなければ兄弟姉妹へと移ります。事前に伝えていないと、ある日突然親族が管理責任を負うことになります。入居者がいるアパートの場合の影響は<a href="/guide/inheritance-renunciation-apartment-tenant-issue">相続放棄したアパートの入居者はどうなる？管理責任と手続きを宅建業者が解説</a>にまとめました。
+<strong>(3) 次の順位の方に相続権が移ります。</strong>子が全員放棄すれば親、親もいなければ兄弟姉妹へと移ります。事前に伝えていないと、ある日突然親族が管理責任を負うことになります。入居者がいるアパートの場合の影響は<a href="/guide/inheritance-renunciation-apartment-tenant-issue/">相続放棄したアパートの入居者はどうなる？管理責任と手続きを宅建業者が解説</a>にまとめました。
 
 ### 選択肢4：限定承認を選ぶ
 
@@ -222,7 +222,7 @@ howToSteps:
 
 <a href="https://line.arshe1719.workers.dev/auth/line?ref=hp" style="display:inline-block;background:#06c755;color:#fff;padding:14px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 4px;">LINE「空き家のミカタ」に相談する（無料）</a>
 
-<a href="/contact" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 4px;">無料査定フォームで相談する</a>
+<a href="/contact/" style="display:inline-block;background:#1a56db;color:#fff;padding:14px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 4px;">無料査定フォームで相談する</a>
 
 相続アパート・訳あり物件を専門に扱っており、<strong>入居者がいるまま・空室のまま・現況のまま</strong>で査定にお応えできます。秘密厳守で対応いたします。なお、相続放棄・限定承認の手続きについては弁護士・司法書士へ、税額の判断や申告については税理士へご相談ください。
 
@@ -230,11 +230,11 @@ howToSteps:
 
 ## 関連記事
 
-- <a href="/guide/souzoku-apart-tewatashi-5houhou">相続アパートを手放す5つの方法｜売却・買取・管理委託・相続放棄・法人化を中立比較</a>
-- <a href="/guide/souzoku-apart-tebanashitai-flowchart">相続アパートを手放したい・管理できない｜貸す/売る/管理委託の判断フローチャート</a>
-- <a href="/guide/inheritance-abandon">相続放棄したら家はどうなる？手続きの流れと注意点</a>
-- <a href="/guide/souzoku-houki-kigengire">相続放棄の期限（3ヶ月）を過ぎたらどうなる？期限切れ後の対処法を宅建業者が解説</a>
-- <a href="/guide/souzoku-houki-akiya-hozon-gimu">相続放棄すれば空き家から解放される？民法940条の保存義務と清算人の予納金・代執行費用の実額</a>
-- <a href="/guide/inheritance-renunciation-apartment-tenant-issue">相続放棄したアパートの入居者はどうなる？管理責任と手続きを宅建業者が解説</a>
-- <a href="/guide/souzoku-apart-kyodai-kyoyu-baikyaku">アパートを兄弟で相続したら？共有名義の3つの危険と、もめずに手放す方法</a>
-- <a href="/guide/souzoku-apart-kaitori">相続アパートの買取｜手放したい・管理できないアパートを最短2週間で現金化</a>
+- <a href="/guide/souzoku-apart-tewatashi-5houhou/">相続アパートを手放す5つの方法｜売却・買取・管理委託・相続放棄・法人化を中立比較</a>
+- <a href="/guide/souzoku-apart-tebanashitai-flowchart/">相続アパートを手放したい・管理できない｜貸す/売る/管理委託の判断フローチャート</a>
+- <a href="/guide/inheritance-abandon/">相続放棄したら家はどうなる？手続きの流れと注意点</a>
+- <a href="/guide/souzoku-houki-kigengire/">相続放棄の期限（3ヶ月）を過ぎたらどうなる？期限切れ後の対処法を宅建業者が解説</a>
+- <a href="/guide/souzoku-houki-akiya-hozon-gimu/">相続放棄すれば空き家から解放される？民法940条の保存義務と清算人の予納金・代執行費用の実額</a>
+- <a href="/guide/inheritance-renunciation-apartment-tenant-issue/">相続放棄したアパートの入居者はどうなる？管理責任と手続きを宅建業者が解説</a>
+- <a href="/guide/souzoku-apart-kyodai-kyoyu-baikyaku/">アパートを兄弟で相続したら？共有名義の3つの危険と、もめずに手放す方法</a>
+- <a href="/guide/souzoku-apart-kanzen-guide/">相続アパートの買取｜手放したい・管理できないアパートを最短2週間で現金化</a>

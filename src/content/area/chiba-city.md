@@ -115,15 +115,15 @@ A. もちろんです。LINE・メールでのご相談に対応しており、�
 
 ## 関連する記事
 
-- <a href="/guide/inheritance-sale">相続した不動産を売却する完全ガイド</a>
-- <a href="/guide/selling-process">はじめての不動産売却ガイド</a>
-- <a href="/guide/vacancy-tax-6times">空き家の固定資産税が6倍になる条件と回避方法</a>
-- <a href="/guide/saikenchifu-kaitori">再建築不可物件の売却方法と注意点</a>
+- <a href="/guide/parent-death-house/">相続した不動産を売却する完全ガイド</a>
+- <a href="/guide/osaka-kaitori-vs-chukai/">買取・仲介・放置の比較</a>
+- <a href="/guide/akiya-koteishisanzei-6bai-hikaku/">空き家の固定資産税が6倍になる条件と回避方法</a>
+- <a href="/guide/non-rebuildable-property-sale/">再建築不可物件の売却方法と注意点</a>
 
 ## 他のエリアの相場を見る
 
-- <a href="/area/saitama-city">さいたま市の不動産売却相場</a>
-- <a href="/area/yokohama-city">横浜市の不動産売却相場</a>
+- <a href="/area/saitama-city/">さいたま市の不動産売却相場</a>
+- <a href="/area/yokohama-city/">横浜市の不動産売却相場</a>
 
 ---
 
