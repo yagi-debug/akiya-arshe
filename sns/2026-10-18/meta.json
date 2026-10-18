@@ -1,0 +1,69 @@
+{
+  "date": "2026-10-18",
+  "slug": "ig-2026-10-18-reel_story",
+  "title": "三軒目の不動産屋でも、首を横に振られた",
+  "type": "reel_story",
+  "theme": "売却ノウハウ",
+  "files": [
+    "reel_2026-10-18.mp4"
+  ],
+  "checks": {
+    "caption_forbidden_words": [],
+    "cta_ok": true,
+    "caption_detail_ok": true,
+    "fallback_used": false,
+    "copy_nonempty_ok": true,
+    "info_band_ok": true,
+    "title_quality_ok": true,
+    "season_ok": true,
+    "offer_stated_ok": true,
+    "cta_bridge_ok": true,
+    "caption_not_filler_ok": true,
+    "file_count_ok": true,
+    "segment_count_ok": true,
+    "dimensions_ok": true,
+    "audio_ok": true,
+    "video_ok": true,
+    "duration_ok": true,
+    "voice_credit_ok": true,
+    "bgm_ok": true,
+    "probe": {
+      "width": 1080,
+      "height": 1920,
+      "video_codec": "h264",
+      "audio_codec": "aac",
+      "duration": 51.942
+    },
+    "scene_hashes": [
+      "81d27d3f521e5d24c89dfbafc8d965e7",
+      "0892ed4c45af75e6fb1bcfe4539e4345",
+      "d9f901a74c08c6faf63cf392b6939f8d",
+      "4bc6c6eb076d7831955c732757f0f367",
+      "f04ba049cbded6e0ce7063c0fd20fa0d",
+      "6aede199983b4f75ba6464a4bcb35e5c",
+      "e05c7fbad2aa255276975a89e03f8757",
+      "be83f12c776d53ba0829beefdc8a8fa1",
+      "96bdb5d73841cd8700100106a27affa6"
+    ],
+    "video_scene_count": 0,
+    "total_scene_count": 9,
+    "all_scenes_animated": false,
+    "plan_structure_source": "deterministic_local",
+    "plan_rollover_fallback": false
+  },
+  "fallback_used": false,
+  "fallback_notes": [
+    "scene_01: codex_generated",
+    "scene_02: codex_generated",
+    "scene_03: codex_generated",
+    "scene_04: codex_generated",
+    "scene_05: codex_generated",
+    "scene_06: codex_generated",
+    "scene_07: codex_generated",
+    "scene_08: codex_generated",
+    "scene_09: codex_generated",
+    "h3: 3日に1回の対象外→全シーン静止画"
+  ],
+  "source_plan": "/Users/aibot/arshe/1_Projects/realestate-seller/content/CONTENT-PLAN-2026-10.md",
+  "generated_config": "/Users/aibot/arshe/1_Projects/realestate-seller/scripts/instagram/configs/generated/2026-10-18.json"
+}
