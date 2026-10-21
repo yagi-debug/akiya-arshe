@@ -145,6 +145,14 @@ Q1・Q2のどちらかに「はい」があれば<strong>相続アパート型�
 - [空き家の管理代行 vs 早期売却｜月3万円を払い続ける前のコスト比較](/guide/vacant-house-management-vs-early-sale-cost/)
 - [相続登記を放置したらどうなるか｜義務化後の過料と手続き](/guide/souzoku-touki-houchi-doushitara/)
 
+---
+
+## 出典（2026年9月6日確認）
+
+- 法務省「相続登記の申請義務化についてのよくある質問」（令和7年3月27日現在）。
+  - URL: https://www.moj.go.jp/MINJI/minji05_00565.html
+  - 不動産を相続で取得したことを知った日から3年以内に相続登記の申請が義務（遺産分割で取得した場合は遺産分割から3年以内）。正当な理由なく怠ると10万円以下の過料の対象。義務化は令和6年（2024年）4月1日から。
+
 <div style="background:#f0f7ff;border:2px solid #1a56db;border-radius:8px;padding:1.2rem 1.5rem;margin:1.5rem 0;">
 <strong>帰省中に3秒でチェック：実家の放置コスト診断</strong>
 <ul style="margin:0.6rem 0 0.8rem;padding-left:1.2rem;">
