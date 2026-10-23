@@ -5,7 +5,7 @@ publishDate: "2026-04-30"
 noindex: true
 cluster: "inheritance"
 author: "宅建業者"
-authorTitle: "宅建業者"
+authorTitle: "宅地建物取引業者（大阪府知事(1)第65646号）"
 heroImage: "/images/souzoku-jirei-02-hero.jpg"
 faqs:
   - question: "孤独死（特殊清掃あり）の物件は、告知義務はいつまでありますか？"

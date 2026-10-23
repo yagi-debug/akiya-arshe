@@ -5,6 +5,7 @@ publishDate: "2026-05-10"
 noindex: true
 cluster: "wakeari"
 author: "宅建業者"
+authorTitle: "宅地建物取引業者（大阪府知事(1)第65646号）"
 heroImage: "/images/kaitori-satei-konkyo-hero.jpg"
 faqs:
   - question: "訳あり物件の買取価格は交渉できますか？"

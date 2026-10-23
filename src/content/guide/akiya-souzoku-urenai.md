@@ -4,7 +4,7 @@ description: "再建築不可・共有持分で4社に断られた家でも専�
 publishDate: "2026-04-13"
 updatedDate: "2026-07-02"
 author: "宅建業者"
-authorTitle: "宅建業者"
+authorTitle: "宅地建物取引業者（大阪府知事(1)第65646号）"
 heroImage: "/images/akiya-urenai-hero.jpg"
 faqs:
   - question: "相続した空き家が仲介で売れないのはなぜですか？"

@@ -4,7 +4,7 @@ description: "空き家の年間維持コスト（固定資産税・都市計画
 publishDate: "2026-04-28"
 noindex: true
 author: "宅建業者"
-authorTitle: "宅建業者"
+authorTitle: "宅地建物取引業者（大阪府知事(1)第65646号）"
 heroImage: "/images/property-tax-options-calculator.jpg"
 faqs:
   - question: "空き家の固定資産税は年間いくらくらいかかりますか？"

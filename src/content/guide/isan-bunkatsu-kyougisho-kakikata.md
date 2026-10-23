@@ -4,7 +4,7 @@ description: "相続した不動産を売却・登記するには遺産分割協
 publishDate: "2026-04-25"
 cluster: "inheritance"
 author: "宅建業者"
-authorTitle: "宅建業者"
+authorTitle: "宅地建物取引業者（大阪府知事(1)第65646号）"
 heroImage: "/images/isan-bunkatsu-kyougisho-hero.jpg"
 faqs:
   - question: "遺産分割協議書がないと相続した不動産は売れないのですか？"

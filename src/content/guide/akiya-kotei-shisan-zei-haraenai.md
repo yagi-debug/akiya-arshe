@@ -4,7 +4,7 @@ description: "固定資産税の納付書が届いて払えない・高すぎる
 publishDate: "2026-04-24"
 updatedDate: "2026-04-24"
 author: "宅建業者"
-authorTitle: "宅建業者"
+authorTitle: "宅地建物取引業者（大阪府知事(1)第65646号）"
 heroImage: "/images/property-tax-notice-akiya.jpg"
 faqs:
   - question: "空き家の固定資産税が払えない場合、分納（分割払い）はできますか？"

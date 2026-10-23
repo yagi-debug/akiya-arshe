@@ -5,7 +5,7 @@ publishDate: "2026-05-05"
 noindex: true
 cluster: "inheritance"
 author: "宅建業者"
-authorTitle: "宅建業者"
+authorTitle: "宅地建物取引業者（大阪府知事(1)第65646号）"
 heroImage: "/images/souzoku-touki-hiyou-haraenai-hero.jpg"
 faqs:
   - question: "相続登記の費用が払えない場合、過料は免除されますか？"

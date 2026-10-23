@@ -3,6 +3,7 @@ title: "借地権付き建物の売却方法｜地主の承諾から買取まで
 description: "借地権付き建物を売却したい方へ。地主の承諾が取れない・相続で取得した借地権付き建物を手放したい方に、売却の4つの方法と流れを宅建業者が解説。直接買取なら仲介手数料ゼロ・大阪・近畿対応。"
 publishDate: "2026-04-17"
 author: "宅建業者"
+authorTitle: "宅地建物取引業者（大阪府知事(1)第65646号）"
 heroImage: "/images/shakuchiken-tatemono-hero.jpg"
 faqs:
   - question: "借地権付き建物は売却できますか？"

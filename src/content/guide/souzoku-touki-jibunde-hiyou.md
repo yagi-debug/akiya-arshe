@@ -4,7 +4,7 @@ description: "相続登記を自分でやる場合の費用（登録免許税の
 publishDate: "2026-04-29"
 cluster: "inheritance"
 author: "宅建業者"
-authorTitle: "宅建業者"
+authorTitle: "宅地建物取引業者（大阪府知事(1)第65646号）"
 heroImage: "/images/souzoku-touki-jibunde-hero.jpg"
 faqs:
   - question: "相続登記を自分でやる場合、費用の合計はいくらですか？"

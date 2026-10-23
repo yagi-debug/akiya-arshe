@@ -5,7 +5,7 @@ publishDate: "2026-05-12"
 noindex: true
 updatedDate: "2026-05-12"
 author: "宅建業者"
-authorTitle: "宅建業者"
+authorTitle: "宅地建物取引業者（大阪府知事(1)第65646号）"
 heroImage: "/images/kotei-shisan-zei-akiya-3check-hero.jpg"
 faqs:
   - question: "固定資産税の評価額に不服がある場合、どうすればいいですか？"

@@ -4,7 +4,7 @@ description: "固定資産税の納付書が届く5月〜6月は「払い続け�
 publishDate: "2026-05-09"
 noindex: true
 author: "宅建業者"
-authorTitle: "宅建業者"
+authorTitle: "宅地建物取引業者（大阪府知事(1)第65646号）"
 heroImage: "/images/kotei-shisan-zei-vs-baikyaku-hero.jpg"
 faqs:
   - question: "固定資産税を払い続けるより売却する方が得なのはどんな場合ですか？"

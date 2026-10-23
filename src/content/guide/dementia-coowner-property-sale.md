@@ -3,6 +3,7 @@ title: "「共有者が認知症で不動産が売れない…」を解決する
 description: "共有名義の不動産で共有者が認知症になり売却が止まっている方へ。成年後見制度（申立て費用2〜5万円）・共有持分の直接買取（最短2〜4週間）・家族信託の3択を費用・期間・手間で比較。宅建業者が解説。"
 publishDate: "2026-04-12"
 author: "宅建業者"
+authorTitle: "宅地建物取引業者（大阪府知事(1)第65646号）"
 heroImage: "/images/dementia-coowner-sale-hero.jpg"
 faqs:
   - question: "共有者が認知症でも不動産を売却できますか？"

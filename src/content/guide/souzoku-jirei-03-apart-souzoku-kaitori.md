@@ -4,7 +4,7 @@ description: "父の遺産である板橋区の築35年木造アパート（8室
 publishDate: "2026-05-02"
 cluster: "inheritance"
 author: "宅建業者"
-authorTitle: "宅建業者"
+authorTitle: "宅地建物取引業者（大阪府知事(1)第65646号）"
 heroImage: "/images/souzoku-jirei-03-apart-hero.jpg"
 faqs:
   - question: "相続人が複数いる場合、一人が反対しても相続アパートを売却できますか？"

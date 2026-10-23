@@ -5,7 +5,7 @@ publishDate: "2026-04-26"
 noindex: true
 updatedDate: "2026-04-26"
 author: "宅建業者"
-authorTitle: "宅建業者"
+authorTitle: "宅地建物取引業者（大阪府知事(1)第65646号）"
 heroImage: "/images/osaka-24ku-risk-aerial.jpg"
 faqs:
   - question: "大阪市で特定空き家に指定されやすい区はどこですか？"

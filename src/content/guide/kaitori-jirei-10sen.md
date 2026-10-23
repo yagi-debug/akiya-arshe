@@ -5,7 +5,7 @@ publishDate: "2026-04-27"
 noindex: true
 cluster: "wakeari"
 author: "宅建業者"
-authorTitle: "宅建業者"
+authorTitle: "宅地建物取引業者（大阪府知事(1)第65646号）"
 heroImage: "/images/kaitori-jirei-10sen-hero.jpg"
 faqs:
   - question: "掲載している事例は公開された取引実績ですか？"

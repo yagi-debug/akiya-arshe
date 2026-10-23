@@ -4,7 +4,7 @@ description: "親が亡くなって家を相続したけど、何から始めれ
 publishDate: "2026-05-06"
 noindex: true
 author: "宅建業者"
-authorTitle: "宅建業者"
+authorTitle: "宅地建物取引業者（大阪府知事(1)第65646号）"
 heroImage: "/images/souzoku-ie-nani-kara-hero.jpg"
 faqs:
   - question: "相続した家の手続き、まず最初に何をすればいいですか？"

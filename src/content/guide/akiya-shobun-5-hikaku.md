@@ -4,6 +4,7 @@ description: "空き家の処分方法は買取・仲介・空き家バンク・
 publishDate: "2026-05-04"
 updatedDate: "2026-09-07"
 author: "宅建業者"
+authorTitle: "宅地建物取引業者（大阪府知事(1)第65646号）"
 heroImage: "/images/akiya-shobun-5-hikaku-hero.jpg"
 faqs:
   - question: "空き家バンクに登録すれば売れますか？"

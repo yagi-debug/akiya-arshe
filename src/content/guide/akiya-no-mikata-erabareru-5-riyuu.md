@@ -4,6 +4,7 @@ description: "訳あり不動産の処分をお考えの方に「空き家のミ
 publishDate: "2026-05-11"
 noindex: true
 author: "宅建業者"
+authorTitle: "宅地建物取引業者（大阪府知事(1)第65646号）"
 heroImage: "/images/akiya-no-mikata-erabareru-5-riyuu-hero.jpg"
 faqs:
   - question: "「空き家のミカタ」はどんな物件でも買取できますか？"

@@ -5,7 +5,7 @@ publishDate: "2026-04-14"
 noindex: true
 cluster: "inheritance"
 author: "宅建業者"
-authorTitle: "宅建業者"
+authorTitle: "宅地建物取引業者（大阪府知事(1)第65646号）"
 heroImage: "/images/souzoku-touki-apart-hero.jpg"
 faqs:
   - question: "相続登記をしないまま相続アパートを売却できますか？"

@@ -5,6 +5,7 @@ publishDate: "2026-04-17"
 noindex: true
 updatedDate: "2026-09-07"
 author: "宅建業者"
+authorTitle: "宅地建物取引業者（大阪府知事(1)第65646号）"
 heroImage: "/images/wakeare-bukken-hikaku-hero.jpg"
 faqs:
   - question: "訳あり物件で一番売りにくいのはどの種類ですか？"

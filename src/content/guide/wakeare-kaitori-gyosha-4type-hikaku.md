@@ -4,6 +4,7 @@ description: "訳あり不動産の買取業者を4タイプ（大手仲介・�
 publishDate: "2026-05-09"
 noindex: true
 author: "宅建業者"
+authorTitle: "宅地建物取引業者（大阪府知事(1)第65646号）"
 heroImage: "/images/wakeare-kaitori-gyosha-4type-hero.jpg"
 faqs:
   - question: "訳あり物件の買取業者は何社に査定を依頼すべきですか？"

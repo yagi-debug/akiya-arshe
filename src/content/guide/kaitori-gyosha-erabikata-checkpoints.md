@@ -4,6 +4,7 @@ description: "訳あり不動産の買取業者を選ぶ際に必ず確認すべ
 publishDate: "2026-04-22"
 cluster: "wakeari"
 author: "宅建業者"
+authorTitle: "宅地建物取引業者（大阪府知事(1)第65646号）"
 heroImage: "/images/kaitori-gyosha-erabikata-hero.jpg"
 faqs:
   - question: "訳あり不動産の買取業者を選ぶ際に最も重要なポイントは何ですか？"

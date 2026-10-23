@@ -4,6 +4,7 @@ description: "再建築不可物件を賃貸に出す前に知っておくべき
 publishDate: "2026-04-27"
 updatedDate: "2026-09-07"
 author: "宅建業者"
+authorTitle: "宅地建物取引業者（大阪府知事(1)第65646号）"
 heroImage: "/images/saikenchifu-chintai-risk-hero.jpg"
 faqs:
   - question: "再建築不可物件でも賃貸経営はできますか？"

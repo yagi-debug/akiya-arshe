@@ -3,7 +3,7 @@ title: "相続した空き家の固定資産税が6倍になる前に｜納付�
 description: "相続した空き家の固定資産税が最大6倍になるリスクを回避する3ステップを解説。5〜6月に届く納税通知書の見方、特定空家・管理不全空家の指定条件、売却による解決方法を宅建業者が具体的に説明します。"
 publishDate: "2026-04-18"
 author: "宅建業者"
-authorTitle: "宅建業者"
+authorTitle: "宅地建物取引業者（大阪府知事(1)第65646号）"
 heroImage: "/images/souzoku-akiya-tax-hero.jpg"
 faqs:
   - question: "相続した空き家の固定資産税はいつ届きますか？"

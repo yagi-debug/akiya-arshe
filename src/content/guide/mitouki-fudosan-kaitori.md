@@ -5,7 +5,7 @@ publishDate: "2026-04-20"
 noindex: true
 cluster: "wakeari"
 author: "宅建業者"
-authorTitle: "宅建業者"
+authorTitle: "宅地建物取引業者（大阪府知事(1)第65646号）"
 heroImage: "/images/mitouki-fudosan-hero.jpg"
 faqs:
   - question: "未登記の不動産は売却できますか？"

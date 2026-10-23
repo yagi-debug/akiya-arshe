@@ -3,7 +3,7 @@ title: "再建築不可物件の買取 参考事例5選｜袋地・2m未満接�
 description: "再建築不可物件（袋地・2m未満接道・旗竿地・未登記増築など）の買取の参考事例を5件紹介。物件概要・相談者の状況・査定のポイント・買取価格・解決期間の目安を、よくある状況をもとに構成して掲載。「再建築不可 買取 断られた」でお悩みの方の参考になります。"
 publishDate: "2026-05-03"
 author: "宅建業者"
-authorTitle: "宅建業者"
+authorTitle: "宅地建物取引業者（大阪府知事(1)第65646号）"
 heroImage: "/images/saikenchifu-kaitori-jirei-hero.jpg"
 faqs:
   - question: "再建築不可物件は本当に売れますか？"

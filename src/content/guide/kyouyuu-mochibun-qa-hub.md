@@ -5,7 +5,7 @@ publishDate: "2026-05-06"
 noindex: true
 cluster: "shared-ownership"
 author: "宅建業者"
-authorTitle: "宅建業者"
+authorTitle: "宅地建物取引業者（大阪府知事(1)第65646号）"
 heroImage: "/images/kyouyuu-mochibun-qa-hub-hero.jpg"
 faqs:
   - question: "共有持分だけを売ることはできますか？"

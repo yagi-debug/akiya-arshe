@@ -4,7 +4,7 @@ description: "5〜6月の固定資産税納付書が届く前に確認すべき�
 publishDate: "2026-05-03"
 noindex: true
 author: "宅建業者"
-authorTitle: "宅建業者"
+authorTitle: "宅地建物取引業者（大阪府知事(1)第65646号）"
 heroImage: "/images/tokutei-akiya-zei-keisan-cost-hikaku-hero.jpg"
 faqs:
   - question: "固定資産税6倍化はいつ・どのタイミングから適用されますか？"

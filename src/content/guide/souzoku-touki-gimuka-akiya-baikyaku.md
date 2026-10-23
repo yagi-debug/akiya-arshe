@@ -5,7 +5,7 @@ publishDate: "2026-04-21"
 noindex: true
 cluster: "inheritance"
 author: "宅建業者"
-authorTitle: "宅建業者"
+authorTitle: "宅地建物取引業者（大阪府知事(1)第65646号）"
 heroImage: "/images/souzoku-touki-akiya-baikyaku-hero.jpg"
 howToSteps:
   - name: "相続人と相続財産を確定する"

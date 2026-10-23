@@ -4,6 +4,7 @@ description: "2023年4月施行の相続土地国庫帰属制度の3条件・費
 publishDate: "2026-05-04"
 cluster: "inheritance"
 author: "宅建業者"
+authorTitle: "宅地建物取引業者（大阪府知事(1)第65646号）"
 heroImage: "/images/souzoku-tochi-kokkoku-kizoku-hero.jpg"
 faqs:
   - question: "相続した土地を国に返すことは本当にできますか？"

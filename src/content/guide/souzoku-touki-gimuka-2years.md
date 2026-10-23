@@ -4,7 +4,7 @@ description: "2024年4月の相続登記義務化から2年。申請件数は前
 publishDate: "2026-04-18"
 cluster: "inheritance"
 author: "宅建業者"
-authorTitle: "宅建業者"
+authorTitle: "宅地建物取引業者（大阪府知事(1)第65646号）"
 heroImage: "/images/souzoku-touki-2years-hero.jpg"
 faqs:
   - question: "相続登記義務化から2年経って、実際に過料を科された人はいますか？"
