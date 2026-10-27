@@ -1,0 +1,69 @@
+{
+  "date": "2026-10-27",
+  "slug": "ig-2026-10-27-reel_knowledge",
+  "title": "神棚がある実家、手放す前にやる3つ",
+  "type": "reel_knowledge",
+  "theme": "実家じまい・罪悪感",
+  "files": [
+    "reel_2026-10-27.mp4"
+  ],
+  "checks": {
+    "caption_forbidden_words": [],
+    "cta_ok": true,
+    "caption_detail_ok": true,
+    "fallback_used": false,
+    "copy_nonempty_ok": true,
+    "info_band_ok": true,
+    "title_quality_ok": true,
+    "season_ok": true,
+    "offer_stated_ok": true,
+    "cta_bridge_ok": true,
+    "caption_not_filler_ok": true,
+    "file_count_ok": true,
+    "segment_count_ok": true,
+    "dimensions_ok": true,
+    "audio_ok": true,
+    "video_ok": true,
+    "duration_ok": true,
+    "voice_credit_ok": true,
+    "bgm_ok": true,
+    "probe": {
+      "width": 1080,
+      "height": 1920,
+      "video_codec": "h264",
+      "audio_codec": "aac",
+      "duration": 58.553
+    },
+    "scene_hashes": [
+      "e6346a00ee449ec8021e6737b5da2f1e",
+      "bb0c11f1b4d65ebbd497bae85e685496",
+      "ee87d917baba9ffc47bec4637c6595a8",
+      "49feec5cceb521a15bd0ba7f9e993699",
+      "a2c9e8a047665fa88c0d1bd3c9f4db5d",
+      "dd2454dbd697739effa72be6eadf8d74",
+      "bd91ea5869129ccebadabe731ac59c0d",
+      "0480206689606cbed8f6c79881237abf",
+      "019c3e0c11066d04e54f727d05173376"
+    ],
+    "video_scene_count": 0,
+    "total_scene_count": 9,
+    "all_scenes_animated": false,
+    "plan_structure_source": "deterministic_local",
+    "plan_rollover_fallback": false
+  },
+  "fallback_used": false,
+  "fallback_notes": [
+    "scene_01: codex_generated",
+    "scene_02: codex_generated",
+    "scene_03: codex_generated",
+    "scene_04: codex_generated",
+    "scene_05: codex_generated",
+    "scene_06: codex_generated",
+    "scene_07: codex_generated",
+    "scene_08: codex_generated",
+    "scene_09: codex_generated",
+    "h3: 3日に1回の対象外→全シーン静止画"
+  ],
+  "source_plan": "/Users/aibot/arshe/1_Projects/realestate-seller/content/CONTENT-PLAN-2026-10.md",
+  "generated_config": "/Users/aibot/arshe/1_Projects/realestate-seller/scripts/instagram/configs/generated/2026-10-27.json"
+}
