@@ -4,6 +4,8 @@ description: "1階が店、2階が住まいの店舗付き住宅の売却相談�
 publishDate: "2026-10-04"
 cluster: "business"
 lineRef: "biz-tenpo"
+author: "空き家のミカタ編集部"
+authorTitle: "宅地建物取引業者（大阪府知事(1)第65646号）"
 faqs:
   - question: "店を閉めていなくても相談できますか？"
     answer: "できます。閉める時期が決まっていない段階でも構いません。店を続けながら、売り方だけ先に知りたいという段階でもご相談いただけます。"

@@ -4,6 +4,7 @@ description: "訳あり物件（再建築不可・事故物件・共有持分・
 publishDate: "2026-04-30"
 updatedDate: "2026-09-07"
 author: "八木宏樹（合同会社アルシェ代表）"
+authorTitle: "宅地建物取引業者（大阪府知事(1)第65646号）"
 heroImage: "/images/wakare-bukken-to-wa-hero.jpg"
 faqs:
   - question: "訳あり物件とは何ですか？"

@@ -5,6 +5,8 @@ publishDate: "2026-10-04"
 cluster: "business"
 isPillar: true
 lineRef: "biz-hub"
+author: "空き家のミカタ編集部"
+authorTitle: "宅地建物取引業者（大阪府知事(1)第65646号）"
 faqs:
   - question: "機械や在庫が残ったままでも相談できますか？"
     answer: "ご相談はできます。残っている物の扱いは、物件と残っている物の中身を確かめたうえで、ご相談のときにお伝えします。"

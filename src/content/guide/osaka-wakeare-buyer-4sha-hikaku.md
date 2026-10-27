@@ -5,6 +5,7 @@ publishDate: "2026-05-01"
 cluster: "wakeari"
 updatedDate: "2026-09-07"
 author: "八木宏樹（合同会社アルシェ代表）"
+authorTitle: "宅地建物取引業者（大阪府知事(1)第65646号）"
 heroImage: "/images/osaka-wakeare-buyer-5sha-hikaku-hero.jpg"
 faqs:
   - question: "大阪の訳あり物件の査定は無料ですか？営業されますか？"

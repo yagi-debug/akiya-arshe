@@ -5,6 +5,7 @@ publishDate: "2026-01-22"
 noindex: true
 updatedDate: "2026-09-07"
 author: "八木宏樹（合同会社アルシェ代表）"
+authorTitle: "宅地建物取引業者（大阪府知事(1)第65646号）"
 heroImage: "/images/vacancy-tax-6times-hero.jpg"
 faqs:
   - question: "特定空き家に指定されると固定資産税は何倍になりますか？"
