@@ -67,13 +67,13 @@ howToSteps:
 
 この4つは混同されやすいので、先に分けておきます。
 
-<strong>取得費</strong>：その不動産を手に入れるためにかかったお金。購入代金、建築代金、購入手数料のほか、設備費や改良費も含まれます（国税庁 No.3252）。
+<span itemscope itemtype="https://schema.org/DefinedTerm"><span itemprop="name">取得費</span>とは</span>、その不動産を手に入れるためにかかったお金です。購入代金、建築代金、購入手数料のほか、設備費や改良費も含まれます（国税庁 No.3252）。
 
-<strong>譲渡費用</strong>：土地や建物を<strong>売るために直接かかった</strong>費用。仲介手数料、売主が負担した印紙税、立退料などです。国税庁は「修繕費や固定資産税などその資産の維持や管理のためにかかった費用、売った代金の取立てのための費用などは譲渡費用になりません」と明記しています（国税庁 No.3255）。
+<span itemscope itemtype="https://schema.org/DefinedTerm"><span itemprop="name">譲渡費用</span>とは</span>、土地や建物を<strong>売るために直接かかった</strong>費用です。仲介手数料、売主が負担した印紙税、立退料などです。国税庁は「修繕費や固定資産税などその資産の維持や管理のためにかかった費用、売った代金の取立てのための費用などは譲渡費用になりません」と明記しています（国税庁 No.3255）。
 
-<strong>必要経費</strong>：不動産所得（家賃収入）や事業所得を計算するときに、収入から差し引く費用。譲渡所得とは別の所得区分の話です。
+<span itemscope itemtype="https://schema.org/DefinedTerm"><span itemprop="name">必要経費</span>とは</span>、不動産所得（家賃収入）や事業所得を計算するときに、収入から差し引く費用です。譲渡所得とは別の所得区分の話です。
 
-<strong>債務控除</strong>：相続税を計算するときに、相続財産から差し引ける被相続人の借金。所得税の話ではありません。
+<span itemscope itemtype="https://schema.org/DefinedTerm"><span itemprop="name">債務控除</span>とは</span>、相続税を計算するときに、相続財産から差し引ける被相続人の借金です。所得税の話ではありません。
 
 解体費用の相談で起きる取り違えは、ほとんどがこの4つのどれかを別のどれかと入れ替えてしまうことから起きています。
 
