@@ -100,7 +100,7 @@ updatedDate: "2026-09-07"
 | 選択肢 | 内容 |
 |-------|------|
 | そのまま住む | 地代を払いながら居住を継続。建替え時は地主の承諾が必要 |
-| 賃貸として活用 | 転貸には地主の承諾が必要（借地借家法）|
+| 賃貸として活用 | 転貸には地主の承諾が必要（民法第612条）|
 | 売却・手放す | 地主への売却または第三者・買取業者への売却（後述）|
 
 <img src="/images/leasehold-inheritance-landlord-notice.jpg" alt="借地の地主への相続通知・書類確認のイメージ　書類と不動産相談" width="1200" height="800" style="width:100%;height:auto;border-radius:8px;margin:2rem 0;" />
