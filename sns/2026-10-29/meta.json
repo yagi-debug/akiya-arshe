@@ -1,0 +1,69 @@
+{
+  "date": "2026-10-29",
+  "slug": "ig-2026-10-29-reel_knowledge",
+  "title": "実家、貸すか売るか？ お金で比べる3つ",
+  "type": "reel_knowledge",
+  "theme": "固定資産税・お金",
+  "files": [
+    "reel_2026-10-29.mp4"
+  ],
+  "checks": {
+    "caption_forbidden_words": [],
+    "cta_ok": true,
+    "caption_detail_ok": true,
+    "fallback_used": false,
+    "copy_nonempty_ok": true,
+    "info_band_ok": true,
+    "title_quality_ok": true,
+    "season_ok": true,
+    "offer_stated_ok": true,
+    "cta_bridge_ok": true,
+    "caption_not_filler_ok": true,
+    "file_count_ok": true,
+    "segment_count_ok": true,
+    "dimensions_ok": true,
+    "audio_ok": true,
+    "video_ok": true,
+    "duration_ok": true,
+    "voice_credit_ok": true,
+    "bgm_ok": true,
+    "probe": {
+      "width": 1080,
+      "height": 1920,
+      "video_codec": "h264",
+      "audio_codec": "aac",
+      "duration": 55.945
+    },
+    "scene_hashes": [
+      "4328e2cdc6e1beb2f7d44d3e9b3a1e67",
+      "f8a168e4b680a33a8c41ebd84823b198",
+      "35b52d071ced49f1eee4ccd3df94dff5",
+      "42869dbac6220f6dc8dcb57c8ba1cf22",
+      "09b93539de55561c2338921623a2cce6",
+      "4c6c7dce8fa1fada3012fc680fd3f902",
+      "fdb6ececefe3fe03d4a84a320f63442c",
+      "40c239899f65ff7ea1fd3de35b63c08e",
+      "37edb85679f640fd9b9a25e0bbd9aeb0"
+    ],
+    "video_scene_count": 0,
+    "total_scene_count": 9,
+    "all_scenes_animated": false,
+    "plan_structure_source": "deterministic_local",
+    "plan_rollover_fallback": false
+  },
+  "fallback_used": false,
+  "fallback_notes": [
+    "scene_01: codex_generated",
+    "scene_02: codex_generated",
+    "scene_03: codex_generated",
+    "scene_04: codex_generated",
+    "scene_05: codex_generated",
+    "scene_06: codex_generated",
+    "scene_07: codex_generated",
+    "scene_08: codex_generated",
+    "scene_09: codex_generated",
+    "h3: 3日に1回の対象外→全シーン静止画"
+  ],
+  "source_plan": "/Users/aibot/arshe/1_Projects/realestate-seller/content/CONTENT-PLAN-2026-10.md",
+  "generated_config": "/Users/aibot/arshe/1_Projects/realestate-seller/scripts/instagram/configs/generated/2026-10-29.json"
+}
