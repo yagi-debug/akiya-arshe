@@ -48,7 +48,7 @@ cluster: "inheritance"
     "name": "大阪市全域（24区対応）"
   },
   "measurementTechnique": "国土交通省不動産取引価格情報・総務省令和5年住宅・土地統計調査をもとにした参考値（推計）",
-  "dateModified": "2026-06-21"
+  "dateModified": "2026-10-30"
 }
 </script>
 
