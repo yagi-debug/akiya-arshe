@@ -408,3 +408,4 @@
 - [古い倉庫・作業場を売りたい｜中に物が残る・登記がない倉庫の売り方【大阪・近畿】](/guide/furui-souko-baikyaku/)
 - [相続人申告登記で氏名住所は誰に見られる？](/guide/souzokunin-shinkoku-touki-dare-ni-mirareru/)
 - [相続登記の実印・印鑑証明書は何のため](/guide/souzoku-touki-jitsuin-inkan-shomei-riyuu/)
+- [兄弟に不動産を無償で渡すと贈与税は？](/guide/kyoudai-fudosan-mushou-jouto-zeikin/)
