@@ -334,9 +334,9 @@ A: できます。入居者がいるアパートは「オーナーチェンジ�
 - <a href="/guide/souzoku-apart-timing">相続アパートの売却タイミング判断基準</a>
 - <a href="/guide/souzoku-apart-cost-simulation">相続アパートの維持費シミュレーション</a>
 - <a href="/guide/inherited-apartment-buyout">相続アパートの買取ガイド</a>
-- <a href="/guide/nyukyosha-apart-baikyaku">入居者がいるアパートの売却方法</a>
+- <a href="/guide/souzoku-apart-owner-change-shokei/">入居者がいるアパートの売却方法</a>
 - <a href="/guide/inheritance-tax-basics">相続税の基本と計算方法</a>
-- <a href="/guide/selling-tax-guide">不動産売却の税金ガイド</a>
+- <a href="/guide/souzoku-jouto-shotokuzei-5nen-kisanbi/">不動産売却の税金ガイド</a>
 
 ---
 
@@ -353,4 +353,4 @@ A: できます。入居者がいるアパートは「オーナーチェンジ�
 <a href="/contact" style="display:inline-block;border:2px solid rgba(255,255,255,0.4);color:#fff;padding:0.5rem 1.5rem;border-radius:8px;font-weight:bold;text-decoration:none;margin-top:0.5rem;">フォームで相談する</a>
 
 </section>
-- <a href="/guide/souzoku-hub">相続不動産 完全ハブ｜処分・売却・登記・固定資産税まで全ガイドをまとめて確認【2026年版】</a>
+- <a href="/guide/parent-death-house/">相続した家どうすればいい？売る・貸す・放置のリスクと手続きを宅建業者が解説</a>

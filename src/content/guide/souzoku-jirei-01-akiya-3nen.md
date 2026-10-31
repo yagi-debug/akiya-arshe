@@ -263,7 +263,7 @@ Aさんのように「仲介に断られた」「3年以上放置してしまっ
 ## 関連するガイド記事
 
 - <a href="/guide/souzoku-apart-kanzen-guide">相続アパートを手放したい方へ｜売却の流れ・税金・失敗しない判断基準を宅建業者が完全解説【2026年最新】</a>
-- <a href="/guide/souzoku-hub">相続不動産 完全ハブ｜処分・売却・登記・固定資産税・事例まで全ガイドをまとめて確認【2026年版】</a>
+- <a href="/guide/parent-death-house/">相続した家どうすればいい？売る・貸す・放置のリスクと手続きを宅建業者が解説</a>
 - <a href="/guide/souzoku-fudosan-shippai-3jirei">相続不動産の売却で失敗した3事例｜買取で解決した比較と5問リスク診断</a>
 - <a href="/guide/akiya-kotei-shisan-zei-haraenai">空き家の固定資産税が払えないとき｜分納・減免・売却・相続放棄の4つの選択肢【2026年版】</a>
 - <a href="/guide/akiya-shobun-5-hikaku">空き家処分の5大選択肢を徹底比較【2026年版】費用・期間・手残り額</a>
@@ -272,10 +272,10 @@ Aさんのように「仲介に断られた」「3年以上放置してしまっ
 
 Aさんが選んだ「訳あり買取」の仕組み・手順・費用を詳しく解説しているガイド記事です。
 
-- <a href="/guide/akiya-kaitori">空き家の買取｜放置している空き家を現金化する方法（詳細ガイド）</a>
-- <a href="/guide/vacant-house">空き家をどうする？処分・売却・活用の選択肢ガイド</a>
-- <a href="/guide/vacancy-tax-6times">空き家の固定資産税が6倍になる？特定空き家制度を解説</a>
+- <a href="/guide/akiya-shobun-5-hikaku/">空き家の買取｜放置している空き家を現金化する方法（詳細ガイド）</a>
+- <a href="/guide/akiya-shobun-5-hikaku/">空き家をどうする？処分・売却・活用の選択肢ガイド</a>
+- <a href="/guide/akiya-koteishisanzei-6bai-hikaku/">空き家の固定資産税が6倍になる？特定空き家制度を解説</a>
 - <a href="/guide/akiya-souzoku-urenai">相続した空き家が売れない理由と解決策</a>
 - <a href="/guide/parent-death-house">親が亡くなった後の実家をどうする？</a>
 - <a href="/guide/souzoku-touki-gimuka-2years">相続登記の義務化とは？期限・罰則・手続きを解説</a>
-- <a href="/guide/kaitori-jirei">訳あり不動産の買取事例5選（相続アパート・再建築不可・事故物件ほか）</a>
+- <a href="/guide/osaka-city-yakuari-kaitori/">訳あり不動産の買取事例5選（相続アパート・再建築不可・事故物件ほか）</a>

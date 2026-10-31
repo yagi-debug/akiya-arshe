@@ -193,7 +193,7 @@ cluster: "akiya-tax"
   <a href="/guide/akiya-koteishisanzei-simulator" style="display:block;background:#f0f7ff;border:2px solid #1a56db;border-radius:8px;padding:1rem;text-decoration:none;color:#1a3a5c;font-weight:bold;">
     ▶ 固定資産税・維持費シミュレーター（ハブページ）<br><span style="font-size:0.8rem;font-weight:normal;color:#1a56db;">空き家の年間コストを自動計算・無料</span>
   </a>
-  <a href="/guide/akiya-kaitori" style="display:block;background:#f8f9fa;border:1px solid #dee2e6;border-radius:8px;padding:1rem;text-decoration:none;color:#1a3a5c;font-weight:bold;">
+  <a href="/guide/akiya-shobun-5-hikaku/" style="display:block;background:#f8f9fa;border:1px solid #dee2e6;border-radius:8px;padding:1rem;text-decoration:none;color:#1a3a5c;font-weight:bold;">
     空き家の買取｜放置空き家を現金化<br><span style="font-size:0.8rem;font-weight:normal;color:#666;">固定資産税ゼロ・最短1ヶ月で手放せる</span>
   </a>
   <a href="/guide/koteishisanzei-haraitsudzukeru-vs-baikyaku" style="display:block;background:#f8f9fa;border:1px solid #dee2e6;border-radius:8px;padding:1rem;text-decoration:none;color:#1a3a5c;font-weight:bold;">
@@ -249,4 +249,4 @@ cluster: "akiya-tax"
 査定・相談は完全無料です。売却を強制することはありません。固定資産税の支払い期限が迫っている方はお早めにご連絡ください。
 ---
 
-**このカテゴリの全ガイド一覧:** [→ 空き家の処分・活用 完全ガイド](/guide/vacant-house)
+**このカテゴリの全ガイド一覧:** [→ 空き家の処分・活用 完全ガイド](/guide/akiya-shobun-5-hikaku/)

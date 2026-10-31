@@ -54,7 +54,7 @@ faqs:
 }
 </script>
 
-期限や過料は<a href="/guide/souzoku-touki-gimuka-kanzen-taiou-2026">相続登記義務化の完全対応ガイド</a>をご確認ください。この記事は、その申出をしたときに<strong>ご自身の氏名と住所がどこまで表に出るのか</strong>に絞ってお伝えします。
+期限や過料は<a href="/guide/inheritance-registry-neglect-sale-3options/">相続登記義務化の完全対応ガイド</a>をご確認ください。この記事は、その申出をしたときに<strong>ご自身の氏名と住所がどこまで表に出るのか</strong>に絞ってお伝えします。
 
 ---
 
@@ -204,8 +204,8 @@ border-radius:8px;font-weight:bold;text-decoration:none;margin:8px 0;"
 
 ## 関連記事
 
-- <a href="/guide/souzoku-touki-gimuka-kanzen-taiou-2026">相続登記義務化の完全対応ガイド</a>
-- <a href="/guide/inheritance-registry">相続登記の義務化｜3年期限・10万円過料・手続き費用と3つの対策</a>
+- <a href="/guide/inheritance-registry-neglect-sale-3options/">相続登記義務化の完全対応ガイド</a>
+- <a href="/guide/inheritance-registry-neglect-sale-3options/">相続登記を放置した実家、まだ売れる？罰則が始まった今、3つの選択肢を宅建業者が解説【2026年版】</a>
 - <a href="/guide/kinjo-ni-shirarezu-uru">近所に知られずに家を売る方法</a>
 - <a href="/guide/souzoku-touki-hiyou-haraenai">相続登記の費用が払えないときの選択肢</a>
 - <a href="/guide/souzoku-fudosan-shobun-method-shindan">相続した不動産の処分方法｜診断で選ぶ</a>

@@ -134,9 +134,9 @@ LINE・電話どちらでもOK<br>
 
 - [再建築不可物件の売却方法・相場](/guide/non-rebuildable-property-sale)
 - [事故物件の売却ガイド](/guide/accident-property-sale)
-- [共有持分の買取・解決方法](/guide/joint-ownership-sale)
-- [相続アパートの買取・処分方法](/guide/souzoku-apart-kaitori)
-- [空き家の買取・処分方法](/guide/akiya-kaitori)
+- [共有持分の買取・解決方法](/guide/kyouyuu-mochibun-kaitori/)
+- [相続アパートの買取・処分方法](/guide/souzoku-apart-kanzen-guide/)
+- [空き家の買取・処分方法](/guide/akiya-shobun-5-hikaku/)
 ---
 
 **このカテゴリの全ガイド一覧:** [→ 事故物件 完全ハブ【2026年版】](/guide/jiko-bukken-hub)

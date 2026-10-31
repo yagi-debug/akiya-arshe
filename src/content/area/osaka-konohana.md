@@ -183,12 +183,12 @@ A. はい、大阪府全域に対応しています。LINE・メールでのご�
 
 ## 関連する記事
 
-- <a href="/guide/saikenchifu-kaitori">再建築不可物件の買取ガイド</a>
-- <a href="/guide/inheritance-sale">相続した不動産を売却する完全ガイド</a>
-- <a href="/guide/vacant-house">空き家の買取・処分方法ガイド</a>
+- <a href="/guide/non-rebuildable-property-sale/">再建築不可物件の買取ガイド</a>
+- <a href="/guide/parent-death-house/">相続した不動産を売却する完全ガイド</a>
+- <a href="/guide/akiya-shobun-5-hikaku/">空き家の買取・処分方法ガイド</a>
 
-- <a href="/guide/souzoku-hub">相続不動産 完全ハブ｜処分・売却・登記・固定資産税まで全ガイドをまとめて確認</a>
-- <a href="/guide/saikenchifu-hub">再建築不可 完全ハブ｜買取・接道・建替えできない物件の処分ガイドまとめ</a>
+- <a href="/guide/parent-death-house/">相続した家どうすればいい？売る・貸す・放置のリスクと手続きを宅建業者が解説</a>
+- <a href="/guide/non-rebuildable-property-sale/">再建築不可物件は売れる？2025年法改正で早期売却が急務｜4つの売却方法と相場【大阪・大阪・近畿対応】</a>
 - <a href="/guide/osaka-ku-akiya-hojo-madoguchi-2026">此花区の空き家解体補助金・24区の申請窓口を見る</a>
 
 ## 他のエリアの相場を見る

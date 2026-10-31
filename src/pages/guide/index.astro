@@ -53,9 +53,14 @@ const sortedGuides = guides.sort((a, b) =>
       </div>
 
       <div class="space-y-6">
-        {sortedGuides.map((guide) => (
+        {sortedGuides.map((guide) => {
+          const hrefId =
+            guide.id === 'lp-wakeari-bukken-kaitori' ? 'osaka-city-yakuari-kaitori'
+            : guide.id === 'akiya-kaitori' ? 'akiya-shobun-5-hikaku'
+            : guide.id;
+          return (
           <a
-            href={`/guide/${guide.id}/`}
+            href={`/guide/${hrefId}/`}
             class="block rounded-xl border border-border bg-white p-6 shadow-sm transition-all hover:border-accent hover:shadow-md"
           >
             <h2 class="mb-2 text-lg font-bold text-primary md:text-xl">
@@ -70,7 +75,8 @@ const sortedGuides = guides.sort((a, b) =>
               <span>{guide.data.author}（{guide.data.authorTitle}）</span>
             </div>
           </a>
-        ))}
+          );
+        })}
       </div>
     </div>
   </section>

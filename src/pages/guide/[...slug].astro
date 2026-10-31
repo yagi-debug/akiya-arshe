@@ -32,6 +32,13 @@ const breadcrumbs = [
 // noindex記事（大阪市24区外の全国ページ）は関連記事候補から除外し、内部リンクを大阪24区に集約する
 const allGuides = (await getCollection('guide')).filter((g) => !g.data.noindex);
 
+// 検索から外した記事 → 付け替え先。関連記事カードのリンク先だけをここで差し替える
+const MOVED_AWAY_ID: Record<string, string> = {
+  'lp-wakeari-bukken-kaitori': 'osaka-city-yakuari-kaitori',
+  'akiya-kaitori': 'akiya-shobun-5-hikaku',
+};
+const guideHref = (id: string) => `/guide/${MOVED_AWAY_ID[id] ?? id}/`;
+
 const clusterLabels: Record<string, string> = {
   'inheritance':      '相続不動産の出口戦略',
   'non-rebuildable':  '再建築不可物件',
@@ -396,7 +403,7 @@ const displayDate = entry.data.updatedDate || entry.data.publishDate;
         <div class="grid gap-3 px-3 pb-3 sm:grid-cols-2">
           {clusterSubArticles.map((g) => (
             <a
-              href={`/guide/${g.id}/`}
+              href={guideHref(g.id)}
               class="flex items-start gap-3 rounded-lg border border-border bg-white p-4 transition-all hover:border-accent hover:shadow-md"
             >
               <span class="mt-0.5 flex-shrink-0 rounded-full bg-accent/10 p-1.5 text-accent">
@@ -419,7 +426,7 @@ const displayDate = entry.data.updatedDate || entry.data.publishDate;
   {!isPillarPage && pillarArticle && (
     <section class="mx-auto max-w-3xl px-4 pb-4">
       <a
-        href={`/guide/${pillarArticle.id}/`}
+        href={guideHref(pillarArticle.id)}
         class="flex items-center gap-3 rounded-lg border border-accent/40 bg-accent/5 p-4 transition-all hover:border-accent hover:shadow-md"
       >
         <span class="flex-shrink-0 rounded-full bg-accent p-1.5 text-white">
@@ -447,7 +454,7 @@ const displayDate = entry.data.updatedDate || entry.data.publishDate;
       <div class="grid gap-4 md:grid-cols-2">
         {relatedGuides.map((guide) => (
           <a
-            href={`/guide/${guide.id}/`}
+            href={guideHref(guide.id)}
             class="block rounded-lg border border-border p-4 transition-all hover:border-accent hover:shadow-md"
           >
             <h3 class="mb-2 text-base font-bold text-text">{guide.data.title}</h3>

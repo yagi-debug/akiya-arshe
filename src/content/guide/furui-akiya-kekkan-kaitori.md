@@ -179,7 +179,7 @@ LINEまたはお問い合わせフォームからご連絡ください。物件�
 ## 関連するガイド記事
 
 - <a href="/guide/akiya-shobun-5-hikaku">空き家処分の5大選択肢を徹底比較</a>
-- <a href="/guide/souzoku-fudousan-urikata-kanzen-guide">相続した不動産の売り方完全ガイド</a>
+- <a href="/guide/parent-death-house/">相続した不動産の売り方完全ガイド</a>
 - <a href="/guide/souzoku-apart-cost-simulation">相続アパートの維持費10年シミュレーション</a>
 - <a href="/guide/saikenchifu-kaitori-souba">再建築不可物件の買取相場</a>
 - <a href="/guide/kyouyuu-mochibun-kaitori">共有持分の買取ガイド｜他の共有者の同意なしで売却する方法</a>
