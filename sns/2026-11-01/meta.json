@@ -1,0 +1,69 @@
+{
+  "date": "2026-11-01",
+  "slug": "ig-2026-11-01-reel_story",
+  "title": "『この家は売るな』には、続きがあった",
+  "type": "reel_story",
+  "theme": "実家じまい・罪悪感",
+  "files": [
+    "reel_2026-11-01.mp4"
+  ],
+  "checks": {
+    "caption_forbidden_words": [],
+    "cta_ok": true,
+    "caption_detail_ok": true,
+    "fallback_used": false,
+    "copy_nonempty_ok": true,
+    "info_band_ok": true,
+    "title_quality_ok": true,
+    "season_ok": true,
+    "offer_stated_ok": true,
+    "cta_bridge_ok": true,
+    "caption_not_filler_ok": true,
+    "file_count_ok": true,
+    "segment_count_ok": true,
+    "dimensions_ok": true,
+    "audio_ok": true,
+    "video_ok": true,
+    "duration_ok": true,
+    "voice_credit_ok": true,
+    "bgm_ok": true,
+    "probe": {
+      "width": 1080,
+      "height": 1920,
+      "video_codec": "h264",
+      "audio_codec": "aac",
+      "duration": 52.755
+    },
+    "scene_hashes": [
+      "bc6028e235fdbf1a5512d0c42efb36a4",
+      "9793a3a38055b02f1a05f1f8e8a8618a",
+      "34ef15acc4c2565df0e59631c61caa5f",
+      "0c0e0626f379a5acb87437728c676d35",
+      "5c7ee15bb82ff09bc1f4ae51bb6cc8af",
+      "529d8a15caf8525eb95725fa789cbe68",
+      "9fe528a3642fcdebbeb66e8a10eb69f0",
+      "6cbe44dc83aaabe7690708d80d0589dc",
+      "3e10f24edfed1e57f9a9934800b86bd8"
+    ],
+    "video_scene_count": 0,
+    "total_scene_count": 9,
+    "all_scenes_animated": false,
+    "plan_structure_source": "deterministic_local",
+    "plan_rollover_fallback": false
+  },
+  "fallback_used": false,
+  "fallback_notes": [
+    "scene_01: codex_generated",
+    "scene_02: codex_generated",
+    "scene_03: codex_generated",
+    "scene_04: codex_generated",
+    "scene_05: codex_generated",
+    "scene_06: codex_generated",
+    "scene_07: codex_generated",
+    "scene_08: codex_generated",
+    "scene_09: codex_generated",
+    "h3: 3日に1回の対象外→全シーン静止画"
+  ],
+  "source_plan": "/Users/aibot/arshe/1_Projects/realestate-seller/content/CONTENT-PLAN-2026-10.md",
+  "generated_config": "/Users/aibot/arshe/1_Projects/realestate-seller/scripts/instagram/configs/generated/2026-11-01.json"
+}
