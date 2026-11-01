@@ -2,7 +2,7 @@
 title: "空き家固定資産税6倍化の回避策と売却タイミング徹底比較｜賃貸・寄付・売却どれが得か"
 description: "空き家が特定空き家に指定されると固定資産税が最大6倍に。賃貸・寄付・売却の回避策を比較表で徹底解説。3,000万円特別控除の適用条件と売却タイミングも宅建業者が解説します。"
 publishDate: "2026-04-21"
-updatedDate: "2026-05-24"
+updatedDate: "2026-11-01"
 author: "八木宏樹"
 authorTitle: "宅地建物取引業者（大阪府知事(1)第65646号）"
 heroImage: "/images/old-japanese-house.jpg"
