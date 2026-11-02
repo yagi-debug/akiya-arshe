@@ -1,0 +1,69 @@
+{
+  "date": "2026-11-02",
+  "slug": "ig-2026-11-02-reel_knowledge",
+  "title": "相続の相談、どこに行けばいい？ 窓口は3つ",
+  "type": "reel_knowledge",
+  "theme": "相続手続き",
+  "files": [
+    "reel_2026-11-02.mp4"
+  ],
+  "checks": {
+    "caption_forbidden_words": [],
+    "cta_ok": true,
+    "caption_detail_ok": true,
+    "fallback_used": false,
+    "copy_nonempty_ok": true,
+    "info_band_ok": true,
+    "title_quality_ok": true,
+    "season_ok": true,
+    "offer_stated_ok": true,
+    "cta_bridge_ok": true,
+    "caption_not_filler_ok": true,
+    "file_count_ok": true,
+    "segment_count_ok": true,
+    "dimensions_ok": true,
+    "audio_ok": true,
+    "video_ok": true,
+    "duration_ok": true,
+    "voice_credit_ok": true,
+    "bgm_ok": true,
+    "probe": {
+      "width": 1080,
+      "height": 1920,
+      "video_codec": "h264",
+      "audio_codec": "aac",
+      "duration": 54.852
+    },
+    "scene_hashes": [
+      "cc0a1d8c35b5f1f7f1b05da72b96782a",
+      "2adc01492e447980302fac49e19f3b62",
+      "67d64cec4636e71ff29591713612cb61",
+      "892a774259cef4aa027af6efac834efa",
+      "b5e6b39012cc10c54f20d93f27f8cb8a",
+      "e73a6bdf1797512a2578c8ec7c031daa",
+      "6d6b674f7a0296b4983361c04a083bb0",
+      "6c183e7787e25b1bc2b043bbba1f88b4",
+      "d4f3675f576f0bc6d89279cbfc811470"
+    ],
+    "video_scene_count": 0,
+    "total_scene_count": 9,
+    "all_scenes_animated": false,
+    "plan_structure_source": "deterministic_local",
+    "plan_rollover_fallback": false
+  },
+  "fallback_used": false,
+  "fallback_notes": [
+    "scene_01: codex_generated",
+    "scene_02: codex_generated",
+    "scene_03: codex_generated",
+    "scene_04: codex_generated",
+    "scene_05: codex_generated",
+    "scene_06: codex_generated",
+    "scene_07: codex_generated",
+    "scene_08: codex_generated",
+    "scene_09: codex_generated",
+    "h3: 3日に1回の対象外→全シーン静止画"
+  ],
+  "source_plan": "/Users/aibot/arshe/1_Projects/realestate-seller/content/CONTENT-PLAN-2026-11.md",
+  "generated_config": "/Users/aibot/arshe/1_Projects/realestate-seller/scripts/instagram/configs/generated/2026-11-02.json"
+}
