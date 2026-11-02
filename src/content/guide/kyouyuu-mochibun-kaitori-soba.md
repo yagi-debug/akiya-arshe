@@ -5,7 +5,7 @@ publishDate: "2026-07-02"
 author: "八木宏樹（合同会社アルシェ代表）"
 authorName: "八木 宏樹"
 authorTitle: "宅地建物取引業者（大阪府知事(1)第65646号）"
-updatedDate: "2026-09-07"
+updatedDate: "2026-11-02"
 heroImage: "/images/kyouyuu-mochibun-kaitori-soba-hero.jpg"
 cluster: "shared-ownership"
 faqs:
@@ -112,6 +112,20 @@ A: 共有持分のみでは不動産を単独で売却・賃貸・建替えで�
 <strong>共有持分の買取相場 ＝ 不動産全体の市場価格 × 持分割合 × 0.60〜0.70</strong>
 
 この「0.60〜0.70（60〜70%）」が共有持分特有の割引率です。なぜ割り引かれるのかについては後述しますが、まずは具体的な計算例を確認してください。
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "name": "共有持分の買取相場",
+  "description": "不動産全体の市場価格×持分割合×0.60〜0.70で算出される、共有持分のみを買取業者に売却する場合の価格。単独で使用・売却できないことによる権利整理コストや流動性リスクが市場価格から割り引かれる。",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "name": "訳あり不動産用語集",
+    "@id": "https://akiya.arshe-corp.com/glossary"
+  }
+}
+</script>
 
 ### 計算例：市場価格2,000万円の不動産の場合
 
