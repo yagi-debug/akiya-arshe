@@ -53,6 +53,20 @@ faqs:
 
 なお、共有のまま放置する選択については[共有物分割請求の実務](/guide/kyouyuu-butsu-bunkatsu-seikyu-jitsumu/)で整理しています。
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "name": "代償分割",
+  "description": "遺産分割の方法の一つで、相続人の1人が不動産などの現物をまるごと取得し、他の相続人へは現金（代償金）や代償財産を渡して精算する分け方。代償金の原資は取得する相続人が自己資金で用意する必要がある。",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "name": "訳あり不動産用語集",
+    "@id": "https://akiya.arshe-corp.com/glossary"
+  }
+}
+</script>
+
 ## デメリット1：代償金の原資は、自分で用意するしかありません
 
 <img src="/images/daishou-bunkatsu-fudousan-souzoku-genkin.jpg" alt="日本円の紙幣と硬貨。代償分割では代償金の原資を取得する相続人が自分で用意する必要がある" width="1200" height="800" style="width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" />
