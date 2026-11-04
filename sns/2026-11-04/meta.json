@@ -1,0 +1,69 @@
+{
+  "date": "2026-11-04",
+  "slug": "ig-2026-11-04-reel_knowledge",
+  "title": "空き家の窓ガラス、一枚割れると起きる3つ",
+  "type": "reel_knowledge",
+  "theme": "空き家リスク",
+  "files": [
+    "reel_2026-11-04.mp4"
+  ],
+  "checks": {
+    "caption_forbidden_words": [],
+    "cta_ok": true,
+    "caption_detail_ok": true,
+    "fallback_used": false,
+    "copy_nonempty_ok": true,
+    "info_band_ok": true,
+    "title_quality_ok": true,
+    "season_ok": true,
+    "offer_stated_ok": true,
+    "cta_bridge_ok": true,
+    "caption_not_filler_ok": true,
+    "file_count_ok": true,
+    "segment_count_ok": true,
+    "dimensions_ok": true,
+    "audio_ok": true,
+    "video_ok": true,
+    "duration_ok": true,
+    "voice_credit_ok": true,
+    "bgm_ok": true,
+    "probe": {
+      "width": 1080,
+      "height": 1920,
+      "video_codec": "h264",
+      "audio_codec": "aac",
+      "duration": 52.188
+    },
+    "scene_hashes": [
+      "a4bb2a001ef5f1548d1fbd177bf9edf6",
+      "89698e97a7bb621eabf7f297d4d2b3f3",
+      "f7f413c878c1dcdbc49855451b41d5cd",
+      "329a7640fa13410d15c3479f99a2c6f1",
+      "17e7398a68881e99b7cdc0ad4d26af93",
+      "ea0db727f76f54ec5093c22a5b64eacd",
+      "ed6cb34d6fd50f2679fcf3c4a8fe00c1",
+      "6595e28b133d98ca58356f80a850a14b",
+      "2b6d5b90d34fe3bb64c61f229b270177"
+    ],
+    "video_scene_count": 0,
+    "total_scene_count": 9,
+    "all_scenes_animated": false,
+    "plan_structure_source": "deterministic_local",
+    "plan_rollover_fallback": false
+  },
+  "fallback_used": false,
+  "fallback_notes": [
+    "scene_01: codex_generated",
+    "scene_02: codex_generated",
+    "scene_03: codex_generated",
+    "scene_04: codex_generated",
+    "scene_05: codex_generated",
+    "scene_06: codex_generated",
+    "scene_07: codex_generated",
+    "scene_08: codex_generated",
+    "scene_09: codex_generated",
+    "h3: 3日に1回の対象外→全シーン静止画"
+  ],
+  "source_plan": "/Users/aibot/arshe/1_Projects/realestate-seller/content/CONTENT-PLAN-2026-11.md",
+  "generated_config": "/Users/aibot/arshe/1_Projects/realestate-seller/scripts/instagram/configs/generated/2026-11-04.json"
+}
