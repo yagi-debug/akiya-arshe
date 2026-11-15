@@ -95,7 +95,7 @@ howToSteps:
 
 <img src="/images/dojo-osen-souzoku-baikyaku-chosa.jpg" alt="土壌サンプルを手に持つ調査員　環境調査・土壌分析のイメージ" width="1260" height="750" style="width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" />
 
-<strong>土壌汚染対策法</strong>（平成14年法律第53号）は、特定有害物質による土地の汚染を規制する法律です。令和元年（2019年）の改正で規制が強化されています。
+<strong><span itemscope itemtype="https://schema.org/DefinedTerm"><span itemprop="name">土壌汚染対策法</span></span></strong>（平成14年法律第53号）は、特定有害物質による土地の汚染を規制する法律です。令和元年（2019年）の改正で規制が強化されています。
 
 ### 主なポイント
 
