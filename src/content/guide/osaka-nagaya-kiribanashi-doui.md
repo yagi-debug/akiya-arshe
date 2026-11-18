@@ -153,7 +153,7 @@ faqs:
 - <strong>区分所有建物として登記されている場合</strong>：一戸ごとに独立した登記があり、その一戸だけを単独で売買できます
 - <strong>一棟の建物として登記され、持分を共有している場合</strong>：一戸だけを切り出して売ることが難しく、共有者全員の関与が必要になります
 
-登記事項証明書は法務局で取得できます。共有名義になっている場合の持分の考え方は[共有持分の計算方法](/guide/kyouyuu-mochibun-osaka-jibunde-keisan/)をご覧ください。
+登記事項証明書は法務局で取得できます。共有名義になっている場合の持分の考え方は[共有持分の計算方法](/guide/kyouyuu-mochibun-kaitori-soba/)をご覧ください。
 
 ## 隣戸の所有者が分からないときの手段
 
@@ -232,7 +232,7 @@ faqs:
 - <a href="/guide/non-rebuildable-property-sale/">再建築不可物件の売却ガイド｜理由別の対処法まとめ</a>
 - <a href="/guide/osaka-akiya-subsidy/">大阪市の空き家補助金・区別の相談窓口</a>
 - <a href="/guide/osaka-kaitai-hiyou-soba-2026/">大阪市の解体費用相場｜構造別・区別の目安</a>
-- <a href="/guide/kyouyuu-mochibun-osaka-jibunde-keisan/">共有持分の計算方法｜自分の持分がいくらか調べる</a>
+- <a href="/guide/kyouyuu-mochibun-kaitori-soba/">共有持分の計算方法｜自分の持分がいくらか調べる</a>
 - <a href="/guide/fudosan-kotowarareta-ato-dekiru-koto/">不動産会社に断られた後にできること</a>
 - <a href="/guide/osaka-24ku-kaitori-data-2026/">大阪市24区の買取データ2026</a>
 - <a href="/guide/souzoku-touki-gimuka-2years/">相続登記の義務化｜3年ルールと過料の実際</a>

@@ -182,7 +182,7 @@ howToSteps:
 
 > <strong>不動産全体の評価額 × 持分割合 × 60〜70%</strong>
 
-全体2,000万円の不動産の1/2持分なら、600万円〜700万円程度が目安です。この60〜70%という掛け目が共有持分特有の割引で、買取業者が取得後に共有関係を解消するまでの手間・期間・リスクを織り込んだものです。全体の評価額を自分で概算する手順は[共有持分はいくらで売れる？大阪市の路線価から自分で計算する4ステップ](/guide/kyouyuu-mochibun-osaka-jibunde-keisan/)に、掛け目の内訳は[共有持分の買取相場はいくら？](/guide/kyouyuu-mochibun-kaitori-soba/)にまとめています。
+全体2,000万円の不動産の1/2持分なら、600万円〜700万円程度が目安です。この60〜70%という掛け目が共有持分特有の割引で、買取業者が取得後に共有関係を解消するまでの手間・期間・リスクを織り込んだものです。全体の評価額を自分で概算する手順と掛け目の内訳は、[共有持分はいくらで売れる？買取相場の計算式と路線価から自分で出す手順](/guide/kyouyuu-mochibun-kaitori-soba/)にまとめています。
 
 離婚案件では、この基本の掛け目からさらに下がることがあります。理由は3つです。
 
@@ -381,7 +381,7 @@ A. いいえ。査定は無料で、査定を受けたからといって売却�
 - <a href="/guide/kyoyu-meigi-kaitori-osaka/">共有名義の不動産を買取で手放す大阪の手順｜全体売却と持分売却の分かれ道</a>
 - <a href="/guide/kyouyuu-mochibun-kaitori/">共有持分の買取・売却方法｜大阪市24区対応・最短2週間現金化</a>
 - <a href="/guide/kyouyuu-mochibun-kaitori-soba/">共有持分の買取相場はいくら？持分割合・物件種別・地域別の計算式と実例</a>
-- <a href="/guide/kyouyuu-mochibun-osaka-jibunde-keisan/">共有持分はいくらで売れる？大阪市の路線価から自分で計算する4ステップ</a>
+- <a href="/guide/kyouyuu-mochibun-kaitori-soba/">共有持分はいくらで売れる？買取相場の計算式と路線価から自分で出す手順</a>
 - <a href="/guide/kyouyuu-mochibun-naisho-satei/">共有持分は兄弟に内緒で査定できる？知られるのは登記のあと</a>
 - <a href="/guide/kyouyuu-butsu-bunkatsu-seikyu-jitsumu/">共有物分割請求の実務｜訴訟の流れと3つの分割方法</a>
 - <a href="/guide/osaka-nini-baikyaku-kyosai-calendar/">任意売却の流れと費用・注意点</a>

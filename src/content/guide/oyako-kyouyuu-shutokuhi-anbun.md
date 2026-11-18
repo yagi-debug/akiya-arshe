@@ -301,7 +301,7 @@ A. いいえ。査定は無料で、査定を受けたからといって売却�
 - <a href="/guide/shutokuhi-kasan-tokurei-souzoku/">取得費加算の特例｜相続税の一部が経費になる3年10か月の期限と計算式</a>
 - <a href="/guide/souzoku-akiya-3000man-tokubetsu-kojo/">相続した空き家を売るときの3,000万円特別控除｜適用条件・2024年改正・申告方法</a>
 - <a href="/guide/kyouyuu-mochibun-kaitori/">共有持分の買取・売却方法｜大阪市24区対応・最短2週間現金化</a>
-- <a href="/guide/kyouyuu-mochibun-osaka-jibunde-keisan/">共有持分はいくらで売れる？大阪市の路線価から自分で計算する4ステップ</a>
+- <a href="/guide/kyouyuu-mochibun-kaitori-soba/">共有持分はいくらで売れる？買取相場の計算式と路線価から自分で出す手順</a>
 - <a href="/guide/abeno-fuminosato-fudosan-kaitori/">阿倍野区文の里の不動産買取｜解体補助の対策地区と土地買取の判断基準</a>
 
 ## 出典（2026年9月7日確認）

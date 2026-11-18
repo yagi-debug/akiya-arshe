@@ -28,8 +28,16 @@ for (const coll of ['guide', 'area']) {
   }
 }
 
+// 共有持分の記事群の集約（2026-11-18）。転送元の記事ファイルは外し、旧URLは転送先を示すページ（meta refresh と canonical）にする。
+const MERGED_REDIRECTS = {
+  '/guide/kyouyuu-mochibun-hub/': '/guide/kyouyuu-mochibun-kaitori/',
+  '/guide/kyouyuu-mochibun-qa-hub/': '/guide/kyouyuu-mochibun-kaitori/',
+  '/guide/kyouyuu-mochibun-osaka-jibunde-keisan/': '/guide/kyouyuu-mochibun-kaitori-soba/',
+};
+
 export default defineConfig({
   site: 'https://akiya.arshe-corp.com',
+  redirects: MERGED_REDIRECTS,
   integrations: [sitemap({
     changefreq: 'weekly',
     priority: 0.7,

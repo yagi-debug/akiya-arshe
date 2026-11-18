@@ -85,7 +85,7 @@ faqs:
 - <strong>納税通知書を共有者の誰に送るか、代表者を定める運用があるか</strong>は、確認した資料に記載がありません。自治体ごとの取り扱いになります
 - <strong>市区町村が未納をどの順で請求するか、滞納処分の運び方</strong>も記載がありません
 
-持分の売却価格の考え方は、路線価から自分で計算する手順を<a href="/guide/kyouyuu-mochibun-osaka-jibunde-keisan/">共有持分はいくらで売れる？大阪市の路線価から自分で計算する4ステップ</a>でお伝えしています。
+持分の売却価格の考え方は、路線価から自分で計算する手順を<a href="/guide/kyouyuu-mochibun-kaitori-soba/">共有持分はいくらで売れる？買取相場の計算式と路線価から自分で出す手順</a>でお伝えしています。
 
 ## 次にすることは3つです
 
@@ -121,6 +121,6 @@ faqs:
 
 - <a href="/guide/kyouyuu-mochibun-kaitori/">共有持分の買取｜大阪で自分の持分だけを売る方法</a>
 - <a href="/guide/kyouyuu-butsu-bunkatsu-seikyu-jitsumu/">共有持分を売った後どうなる？共有物分割請求の流れ・期間・費用</a>
-- <a href="/guide/kyouyuu-mochibun-osaka-jibunde-keisan/">共有持分はいくらで売れる？大阪市の路線価から自分で計算する4ステップ</a>
+- <a href="/guide/kyouyuu-mochibun-kaitori-soba/">共有持分はいくらで売れる？買取相場の計算式と路線価から自分で出す手順</a>
 - <a href="/guide/souzoku-fudosan-kotei-shisan-zei-tantou/">相続した不動産の固定資産税は誰が払う？相続人間トラブル解決法</a>
 - <a href="/guide/tochi-tandoku-tatemono-kyouyuu-baikyaku/">大阪の持分買取｜土地は単独名義・建物は共有のまま相続した家が売れない壁と解決策</a>

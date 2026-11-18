@@ -221,7 +221,7 @@ faqs:
 - × 持分割合 1/3 = 500万円
 - × 60〜70% = <strong>300万〜350万円</strong>
 
-同じ持分3分の1でも、他の共有者が1人なのか5人なのかで手続きの重さが変わるため、控除率は動きます。他の共有者が少なく、連絡がつく状態であれば上限側に寄ります。ご自身で路線価から計算してみたい方は<a href="/guide/kyouyuu-mochibun-osaka-jibunde-keisan/">共有持分はいくらで売れる？大阪市の路線価から自分で計算する4ステップ</a>に手順を書いています。相場の全体像は<a href="/guide/kyouyuu-mochibun-kaitori-soba/">共有持分の買取相場はいくら？持分割合・物件種別・地域別の計算式と実例</a>をご覧ください。
+同じ持分3分の1でも、他の共有者が1人なのか5人なのかで手続きの重さが変わるため、控除率は動きます。他の共有者が少なく、連絡がつく状態であれば上限側に寄ります。ご自身で路線価から計算してみたい方も、相場の全体像も、<a href="/guide/kyouyuu-mochibun-kaitori-soba/">共有持分はいくらで売れる？買取相場の計算式と路線価から自分で出す手順</a>をご覧ください。
 
 ## 訳あり物件の買取手続きの流れ｜共有名義の場合に必要な書類と日数
 
@@ -399,7 +399,7 @@ faqs:
 
 - <a href="/guide/kyouyuu-mochibun-kaitori/">共有持分の買取・売却方法｜大阪市24区対応・最短2週間現金化</a>
 - <a href="/guide/kyouyuu-mochibun-kaitori-soba/">共有持分の買取相場はいくら？持分割合・物件種別・地域別の計算式と実例</a>
-- <a href="/guide/kyouyuu-mochibun-osaka-jibunde-keisan/">共有持分はいくらで売れる？大阪市の路線価から自分で計算する4ステップ</a>
+- <a href="/guide/kyouyuu-mochibun-kaitori-soba/">共有持分はいくらで売れる？買取相場の計算式と路線価から自分で出す手順</a>
 - <a href="/guide/kyoyuu-mochibun-teigi-hikaku/">共有持分とは｜定義・持分割合の意味・処分方法4つの比較表</a>
 - <a href="/guide/kyouyuu-mochibun-naisho-satei/">共有持分は兄弟に内緒で査定できる？知られるのは登記のあと</a>
 - <a href="/guide/dementia-coowner-property-sale/">「共有者が認知症で不動産が売れない…」を解決する3つの方法</a>
