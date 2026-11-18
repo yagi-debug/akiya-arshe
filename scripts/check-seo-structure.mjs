@@ -17,6 +17,7 @@ const MOVED_AWAY = {
   '/guide/saikenchifu-hub/': '/guide/non-rebuildable-property-sale/',
   '/guide/kyouyuu-mochibun-hub/': '/guide/kyouyuu-mochibun-kaitori/',
   '/guide/kyouyuu-mochibun-qa-hub/': '/guide/kyouyuu-mochibun-kaitori/',
+  '/guide/kyouyuu-mochibun-osaka-jibunde-keisan/': '/guide/kyouyuu-mochibun-kaitori-soba/',
   '/guide/vacant-house/': '/guide/akiya-shobun-5-hikaku/',
   '/guide/vacancy-tax-6times/': '/guide/akiya-koteishisanzei-6bai-hikaku/',
   '/guide/souzoku-apart-kaitori/': '/guide/souzoku-apart-kanzen-guide/',
