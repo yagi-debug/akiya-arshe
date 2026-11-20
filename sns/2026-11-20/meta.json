@@ -1,0 +1,69 @@
+{
+  "date": "2026-11-20",
+  "slug": "ig-2026-11-20-reel_knowledge",
+  "title": "借主がいる店舗、出ていってもらわないと売れない？",
+  "type": "reel_knowledge",
+  "theme": "店舗・工場・倉庫",
+  "files": [
+    "reel_2026-11-20.mp4"
+  ],
+  "checks": {
+    "caption_forbidden_words": [],
+    "cta_ok": true,
+    "caption_detail_ok": true,
+    "fallback_used": false,
+    "copy_nonempty_ok": true,
+    "info_band_ok": true,
+    "title_quality_ok": true,
+    "season_ok": true,
+    "offer_stated_ok": true,
+    "cta_bridge_ok": true,
+    "caption_not_filler_ok": true,
+    "file_count_ok": true,
+    "segment_count_ok": true,
+    "dimensions_ok": true,
+    "audio_ok": true,
+    "video_ok": true,
+    "duration_ok": true,
+    "voice_credit_ok": true,
+    "bgm_ok": true,
+    "probe": {
+      "width": 1080,
+      "height": 1920,
+      "video_codec": "h264",
+      "audio_codec": "aac",
+      "duration": 56.124
+    },
+    "scene_hashes": [
+      "f547f86a92551a3ef6760fcfdaf5afec",
+      "e968e558314415e5e3df743435b57b5d",
+      "a68a3a03aed0d3545bef7cbd7530671c",
+      "9899c8760f1f99e4664035f4e6070d4a",
+      "3e151e7ed7f0ca4b85917f375e29593e",
+      "80e40b050ca18686b94decb8e7229d8e",
+      "46959c4ba0d5379b56794e0086f83a9c",
+      "06588d95f30a2cf0bfada43291b496a1",
+      "51b5d38f4aa2de9538ad130ebae72fdb"
+    ],
+    "video_scene_count": 0,
+    "total_scene_count": 9,
+    "all_scenes_animated": false,
+    "plan_structure_source": "deterministic_local",
+    "plan_rollover_fallback": false
+  },
+  "fallback_used": false,
+  "fallback_notes": [
+    "scene_01: codex_generated",
+    "scene_02: codex_generated",
+    "scene_03: codex_generated",
+    "scene_04: codex_generated",
+    "scene_05: codex_generated",
+    "scene_06: codex_generated",
+    "scene_07: codex_generated",
+    "scene_08: codex_generated",
+    "scene_09: codex_generated",
+    "h3: 無効→全シーン静止画"
+  ],
+  "source_plan": "/Users/aibot/arshe/1_Projects/realestate-seller/content/CONTENT-PLAN-2026-11.md",
+  "generated_config": "/Users/aibot/arshe/1_Projects/realestate-seller/scripts/instagram/configs/generated/2026-11-20.json"
+}
